@@ -7,10 +7,8 @@ aside:
 article_header:
   type: overlay
   theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/hiring-virtual-workers-cover.webp
+  background_color: '#123'
+  background_image: false
 license: CC-BY-ND-4.0
 ---
 ## New Book Now Out

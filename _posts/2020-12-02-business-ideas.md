@@ -14,7 +14,6 @@ license: CC-BY-ND-4.0
 # How To Create New Business Ideas (8th Edition)
 
 ## A simple step by step guide to creating new business ideas based on what you love
-![Book](featured-image.webp)
 
 My book on how to create new business ideas that started as a printed book before Amazon Kindles existed is now out in it’s 8th edition.
 
