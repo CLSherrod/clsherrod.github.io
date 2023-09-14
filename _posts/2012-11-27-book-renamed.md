@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Play Prosperity Games Book Renamed"
-tags: idea-generation
+tags: idea-generation, books
 aside:
   toc: true
 article_header:
