@@ -4,6 +4,14 @@ title: "Recommend Apps & Workflow 2023"
 tags: recommendations
 aside:
   toc: true
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/recommended-apps-cover.webp
+license: CC-BY-ND-4.0
 ---
 ## My Nominations
 I just nominated my favorite apps that my newsletters use every week on [Golden Kitty Awards 2022 | Product Hunt](https://www.producthunt.com/golden-kitty-awards), and I’m sharing them here for everyone.

@@ -4,6 +4,14 @@ title: "Play Prosperity Games Book Renamed"
 tags: idea-generation
 aside:
   toc: true
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/play-prosperity-games-cover.webp
+license: CC-BY-ND-4.0
 ---
 Now that my privately printed book is presently on Amazon Kindle, and it comes with a name change.
 

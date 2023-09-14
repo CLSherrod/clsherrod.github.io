@@ -4,6 +4,14 @@ title: "Forget Shark Tank; Be A Dolphin Entrepreneur Instead"
 tags: entrepreneurship
 aside:
   toc: true
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/dolphin-entrepreneur-cover.webp
+license: CC-BY-ND-4.0
 ---
 # Dolphin Entrepreneur
 
