@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 ## Retired
-<div style="width:80%; margin:0 auto;" align="center" markdown="1">
+<div style="width:20%; margin:0 auto;" align="center" markdown="1">
 ![Image](assets/images/avatar.webp){:.circle.shadow}
 </div>
 I’m a retired private business owner that has sold everything from software, real estate, info-products, and the owner of a marketing agency with the core team based in Manila Philipines.
