@@ -25,7 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-
+![Image](assets/images/avatar.webp){:.circle.shadow}
 ## Retired
 I’m a retired private business owner that has sold everything from software, real estate, info-products, and the owner of a marketing agency with the core team based in Manila Philipines.
 
