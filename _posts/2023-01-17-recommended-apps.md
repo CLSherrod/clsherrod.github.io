@@ -2,6 +2,8 @@
 layout: article
 title: "Recommend Apps & Workflow 2023"
 tags: recommendations
+aside:
+  toc: true
 ---
 ## My Nominations
 I just nominated my favorite apps that my newsletters use every week on [Golden Kitty Awards 2022 | Product Hunt](https://www.producthunt.com/golden-kitty-awards), and I’m sharing them here for everyone.

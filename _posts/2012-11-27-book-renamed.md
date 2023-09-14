@@ -1,7 +1,9 @@
 ---
 layout: article
 title: "Play Prosperity Games Book Renamed"
-tags: book
+tags: idea-generation
+aside:
+  toc: true
 ---
 Now that my privately printed book is presently on Amazon Kindle, and it comes with a name change.
 
