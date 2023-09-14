@@ -1,4 +1,5 @@
 ---
+layout: article
 title: "Forget Shark Tank; Be A Dolphin Entrepreneur Instead"
 tags: article
 ---

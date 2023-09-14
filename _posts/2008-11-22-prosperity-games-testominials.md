@@ -1,4 +1,5 @@
 ---
+layout: article
 title: Play Prosperity Games Dinner Party Testimonials
 tags: book
 ---

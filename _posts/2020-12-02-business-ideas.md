@@ -1,6 +1,9 @@
 ---
+layout: article
 title: "Book Updated: How To Create New Business Ideas"
 tags: book
+aside:
+  toc: true
 ---
 # How To Create New Business Ideas (8th Edition)
 

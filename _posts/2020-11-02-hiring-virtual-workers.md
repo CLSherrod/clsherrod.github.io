@@ -1,4 +1,5 @@
 ---
+layout: article
 title: "Book Released: Hiring Virtual Workers For Small Business"
 tags: book
 ---

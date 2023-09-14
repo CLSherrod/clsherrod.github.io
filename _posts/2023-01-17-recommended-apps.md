@@ -1,9 +1,10 @@
 ---
+layout: article
 title: "Recommend Apps & Workflow 2023"
 tags: recommendations
 ---
 ## My Nominations
-I just nominated my favorite apps that my newsletters use every week on [Golden Kitty Awards 2022 | Product Hunt](https://www.producthunt.com/golden-kitty-awards) , and I’m sharing them here for everyone.
+I just nominated my favorite apps that my newsletters use every week on [Golden Kitty Awards 2022 | Product Hunt](https://www.producthunt.com/golden-kitty-awards), and I’m sharing them here for everyone.
 
 ## Content Workflow
 - [Obsidian](https://obsidian.md) - after my seizure I had trouble remembering things and my research led me to personal knowledge management which has been so helpful. I started using Evernote again, I was an early adopter way back when, butt it wasn’t helping me. Then I used Notion but it was so slow and my Internet speed at the time was really slow which made it impossible to use. Then I switched to Obsidian, which allows me to keep my entire PKM system on my computer, and it’s backed up to the cloud in two different spots. It’s superfast, and the plugin community is outstanding. It has helped me recover from my seizure by keeping everything I need to remember in it, in my text files. Not only that, but it’s future-proof more than most of the PKM systems that are so hot in the market right now.

@@ -1,4 +1,5 @@
 ---
+layout: article
 title: "Play Prosperity Games Book Renamed"
 tags: book
 ---
