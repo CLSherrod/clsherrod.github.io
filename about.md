@@ -25,7 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-<div style="width:10%; margin:0 auto;" align="center" markdown="1">
+<div style="width:20%; margin:0 auto;" align="center" markdown="1">
 ![Image](assets/images/avatar.webp){:.circle.shadow}
 </div>
 ## Retired
@@ -36,4 +36,4 @@ Learn about my [Dolphin Entreprenuer philosophy in business](https://socapglobal
 
 Since I became a full-time entrepreneur in 1996 after five years in the corporate world I’ve learned a lot from my successes and especially failures. I have written the books below to share my experience on generating a business idea and on hiring virtual workers that I believe is the core of what you need to know to be successful in business.
 
-Since I became a full-time entrepreneur in 1996 after five years in the corporate world I’ve learned a lot from my successes and especially failures. I have written these [books](/tags/book/) to share my experience on generating a business idea and on hiring virtual workers that I believe is the core of what you need to know to be successful in business.
+Since I became a full-time entrepreneur in 1996 after five years in the corporate world I’ve learned a lot from my successes and especially failures. I have written two books and some articles to share my experience on generating a business idea and on hiring virtual workers that I believe is the core of what you need to know to be successful in business.
