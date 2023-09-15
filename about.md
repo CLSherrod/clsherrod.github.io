@@ -10,11 +10,11 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/about-cover.webp
 ---
-# Christopher Sherrod
-## Retired Entrepreneur
 <div style="width:20%; margin:0 auto;" align="right" markdown="1">
 ![Image](assets/images/avatar.webp){:.circle.shadow}
-</div>I’m a retired private business owner that has sold everything from software, real estate, info-products, and the owner of a marketing agency with a distributed team in Philipines, Ireland, Panama, and India.
+</div>
+## Retired Entrepreneur
+I’m a retired private business owner that has sold everything from software, real estate, info-products, and the owner of a marketing agency with a distributed team in Philipines, Ireland, Panama, and India.
 
 Since I became a full-time entrepreneur in 1996 after five years in the corporate world I’ve learned a lot from my successes and especially failures. I have written my business books and articles here to give back to the community of entrepreneurs. My early mentors helped me understand business and now its my turn to share my experience.
 

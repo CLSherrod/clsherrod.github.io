@@ -11,6 +11,7 @@ article_header:
   background_image: false
 license: CC-BY-ND-4.0
 ---
+## Now On Kindle
 Now that my privately printed book is presently on Amazon Kindle, and it comes with a name change.
 
 After a lot of feedback from people that have played the games and feedback from my email list, I’ve renamed my book.
