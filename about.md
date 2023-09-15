@@ -25,7 +25,7 @@ Learn about my [Dolphin Entreprenuer philosophy in business](https://socapglobal
 As a retired entrepreneur I enjoy writing and expat life in México.
 
 I’ve written two business books:
-- How To Create New Business Ideas Based On What You Love
-- Hiring Virtual Workers
+- [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
+- [Hiring Virtual Workers](https://amzn.to/2FvAxx9)
 
 And I write a weekly newsletter for people retired in a foreign country.
