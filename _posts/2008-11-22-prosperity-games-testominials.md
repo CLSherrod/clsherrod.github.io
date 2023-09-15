@@ -13,6 +13,7 @@ license: CC-BY-ND-4.0
 ---
 My  book I’ve been selling (for the last year) out of the trunk of my car “Play Prosperity Games”, a collection of fun games to create new business ideas based on what you love has been having some dinner parties where we create new business ideas together.
 
+## Testimonials
 Some testimonials from recent games.
 
 > “Wonderful non-judgmental setting for safe brainstorming and masterminding. The group energy is loving and upbeat. A delightful evening of creativity, support and sharing.” - Joe Vitale, Wimberley, TX - JoeVitale.com
