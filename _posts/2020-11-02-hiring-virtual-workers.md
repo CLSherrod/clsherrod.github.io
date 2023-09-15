@@ -11,7 +11,7 @@ article_header:
     src: /assets/images/books-cover.webp
 ---
 <div style="width:20%; margin:0 auto;" align="right" markdown="1">
-![Image](assets/images/books/Hiring-Virtual-Workers.webp)
+![Image](/assets/images/books/Hiring-Virtual-Workers.webp)
 </div>
 ## Hiring Virtual Workers For Small Business
 
