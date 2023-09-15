@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Book Released: Hiring Virtual Workers For Small Business"
-tags: business-management, books
+tags: business-management books
 aside:
   toc: true
 article_header:
