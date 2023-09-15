@@ -11,12 +11,19 @@ article_header:
 <div style="width:20%; margin:0 auto;" align="right" markdown="1">
 ![Image](assets/images/avatar.webp){:.circle.shadow}
 </div>
-## Retired
-I’m a retired private business owner that has sold everything from software, real estate, info-products, and the owner of a marketing agency with the core team based in Manila Philipines.
+## Retired Entrepreneur
+I’m a retired private business owner that has sold everything from software, real estate, info-products, and the owner of a marketing agency with a distributed team in Philipines, Ireland, Panama, and India.
+
+Since I became a full-time entrepreneur in 1996 after five years in the corporate world I’ve learned a lot from my successes and especially failures. I have written my business books and articles here to give back to the community of entrepreneurs. My early mentors helped me understand business and now its my turn to share my experience.
 
 ## Business Philosophy
 Learn about my [Dolphin Entreprenuer philosophy in business](https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/) that I wrote for Social Capital Markets formally Conscious Company Magazine.
 
-Since I became a full-time entrepreneur in 1996 after five years in the corporate world I’ve learned a lot from my successes and especially failures. I have written the books below to share my experience on generating a business idea and on hiring virtual workers that I believe is the core of what you need to know to be successful in business.
+## Author
+As a retired entrepreneur I enjoy writing and expat life in México.
 
-Since I became a full-time entrepreneur in 1996 after five years in the corporate world I’ve learned a lot from my successes and especially failures. I have written two books and some articles to share my experience on generating a business idea and on hiring virtual workers that I believe is the core of what you need to know to be successful in business.
+I've written two business books:
+- How To Create New Business Ideas Based On What You Love
+- Hiring Virtual Workers
+
+And I write a weekly newsletter for people retired in a foreign country.
