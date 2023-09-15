@@ -2,8 +2,6 @@
 layout: article
 title: Play Prosperity Games Dinner Party Testimonials
 tags: idea-generation
-aside:
-  toc: true
 article_header:
   type: overlay
   theme: dark
