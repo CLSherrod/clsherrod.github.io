@@ -11,7 +11,6 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/smart-notes-cover.webp
-license: CC-BY-ND-4.0
 ---
 ## Why I Love Smart Notes
 I've had a number of friends and family ask that I write this because they have seen how much of an impact smart notes has had on me. After my 2019 gran mal seizure and having to relearn a lot of things I've learned how to take notes that helped me in learning and remembering things.
