@@ -8,7 +8,7 @@ article_header:
   background_color: '#123'
   background_image: false
 ---
-<div style="width:20%; margin:0 auto;" align="center" markdown="1">
+<div style="width:20%; margin:0 auto;" align="right" markdown="1">
 ![Image](assets/images/avatar.webp){:.circle.shadow}
 </div>
 ## Retired
