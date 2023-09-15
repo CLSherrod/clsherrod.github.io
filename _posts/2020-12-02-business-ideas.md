@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Book Updated: How To Create New Business Ideas"
-tags: idea-generation, books
+tags: idea-generation books
 aside:
   toc: true
 article_header:
