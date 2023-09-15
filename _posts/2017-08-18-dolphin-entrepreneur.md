@@ -2,8 +2,6 @@
 layout: article
 title: "Forget Shark Tank; Be A Dolphin Entrepreneur Instead"
 tags: entrepreneurship
-aside:
-  toc: true
 article_header:
   type: overlay
   theme: dark
