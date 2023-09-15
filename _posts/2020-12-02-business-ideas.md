@@ -11,6 +11,9 @@ article_header:
   background_image: false
 license: CC-BY-ND-4.0
 ---
+<div style="width:20%; margin:0 auto;" align="right" markdown="1">
+![Image](assets/images/books/How-To-Create-New-Business-Ideas.webp)
+</div>
 # How To Create New Business Ideas (8th Edition)
 
 ## A simple step by step guide to creating new business ideas based on what you love

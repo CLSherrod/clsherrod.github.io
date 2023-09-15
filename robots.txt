@@ -1,0 +1,40 @@
+#
+#
+#              _____
+#             |     |
+#             | | | |
+#             |_____|
+#       ____ ___|_|___ ____
+#      ()___)         ()___)
+#      // /|           |\ \\
+#     // / |           | \ \\
+#    (___) |___________| (___)
+#    (___)   (_______)   (___)
+#    (___)     (___)     (___)
+#    (___)      |_|      (___)
+#    (___)  ___/___\___   | |
+#     | |  |           |  | |
+#     | |  |___________| /___\ 
+#    /___\  |||     ||| //   \\
+#   //   \\ |||     ||| \\   //
+#   \\   // |||     |||  \\ //
+#    \\ // ()__)   (__()
+#          ///       \\\ 
+#         ///         \\\ 
+#       _///___     ___\\\_
+#      |_______|   |_______|
+#
+#
+#
+#    We go glad you’re here
+#    Welcome to the robots.txt file    
+User-agent: * Disallow: 
+Disallow: /assets/
+Disallow: /css/
+Disallow: /js/
+Disallow: /recommended-systems/
+Disallow: /implement/
+Disallow: /alreadysubscribed.html
+Disallow: /subscribed.html
+Crawl-delay: 20
+Visit-time: 0200-0300
