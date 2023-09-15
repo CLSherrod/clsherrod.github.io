@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Recommend Apps & Workflow 2023"
-tags: workflow-apps, implementing
+tags: workflow-apps implementing
 aside:
   toc: true
 article_header:
