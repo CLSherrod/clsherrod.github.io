@@ -11,7 +11,7 @@
 
     <div itemscope itemtype="{{ _site_author_itemtype }}">
       <meta itemprop="name" content="{{ _site_author.name }}">
-      {%- assign _site_author_url = _site_author.url | default: ’/'-%}
+      {%- assign _site_author_url = _site_author.url | default: ’/’-%}
       {%- include snippets/get-nav-url.html path=_site_author_url -%}
       {%- assign _site_author_url = __return -%}
       <meta itemprop="url" content="{{ _site_author_url }}">
