@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Play Prosperity Games Book Renamed"
+title: "Play Prosperity Games Book Renamed & On Kindle Now"
 tags: idea-generation books
 article_header:
   type: overlay
