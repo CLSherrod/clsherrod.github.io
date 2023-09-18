@@ -2,12 +2,12 @@
 layout: article
 title: "Play Prosperity Games Book Renamed & Now On Kindle"
 tags: idea-generation books
-article_header:
-  type: overlay
+header:
   theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+  background: '#333'
+article_header:
+  type: cover
+  image:
     src: /assets/images/books-cover.webp
 ---
 ## Now On Kindle
