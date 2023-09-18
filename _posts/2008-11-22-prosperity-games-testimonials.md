@@ -3,7 +3,7 @@ layout: article
 title: Play Prosperity Games Dinner Party Testimonials
 tags: idea-generation
 article_header:
-  type: overlay
+  type: cover
   theme: dark
   background_color: '#203028'
   background_image:
