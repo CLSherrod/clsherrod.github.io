@@ -126,7 +126,7 @@ Many smart note enthusiasts have a separate note for each day. And some even rec
 I love using an outline so year, month and day are headings to make my outline organized.
 
 <div style="width:100%; margin:0 auto;" align="center" markdown="1">
-![Image](/assets/images/VOutline.webp)
+![Image](/assets/images/Outline.webp)
 </div> 
 
 Outline.webp
