@@ -12,11 +12,6 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/smart-notes-cover.webp
 ---
-## Why I Love Smart Notes
-I’ve had a number of friends and family ask that I write this because they have seen how much of an impact smart notes has had on me. After my 2019 gran mal seizure and having to relearn a lot of things I’ve learned how to take notes that helped me in learning and remembering things.
-
-Hugely profound for me but a little boring to talk about so bare with me and I’ll try to make it interesting and relevant to you.
-
 ## What Are Smart Notes?
 First let’s start off with defining smart notes, which is a modern application of the Zettelkasten method (an old index card note system, pre computers), a systematic and thoughtful approach to taking and organizing notes. 
 
@@ -25,6 +20,11 @@ Instead of passively transcribing information, users of smart notes engage activ
 Over time, a collection of smart notes evolves into a knowledge database, where individual notes compound and enrich one another, fostering creativity and enhancing one’s grasp on complex subjects.
 
 I call mine The Vault.
+
+## Why I Love Smart Notes
+I’ve had a number of friends and family ask that I write this because they have seen how much of an impact smart notes has had on me. After my 2019 gran mal seizure and having to relearn a lot of things I’ve learned how to take notes that helped me in learning and remembering things.
+
+Hugely profound for me but a little boring to talk about so bare with me and I’ll try to make it interesting and relevant to you.
 
 ## Boring But Profound
 Like I mentioned I learned how to take smart notes back in 2019 after my big gran mal seizure. I was having to relearn a lot of things and needed a way to take notes.
