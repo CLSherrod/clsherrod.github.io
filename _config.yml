@@ -1,8 +1,8 @@
 ## => Site Settings
 ##############################
-text_skin: default # "ocean" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "tomorrow-night-blue" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://clsherrod.github.io 
+text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: tomorrow-night-eighties # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+url     : https://clsherrod.github.io # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
 title   : Christopher Sherrod
 description: > # this means to ignore newlines until "Language & timezone"
@@ -22,7 +22,7 @@ author:
   name      : Christopher Sherrod
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : Entreprenuer and Business Author
+  bio       : Entrepreneur and Business Author.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : chrissherrod # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
