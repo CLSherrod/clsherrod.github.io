@@ -134,7 +134,9 @@ Having a file for each day, each week, each month and each year is just too much
 ### Content Workflow
 I have a note each newsletter email I send. It includes everything I need to know to get the email out the door.
 
-SCREENSHOT
+<div style="width:20%; margin:0 auto;" align="left" markdown="1">
+![Image](assets/images/Vault.webp)
+</div>
 
 I have a MOC note that lists this content note and I put all these related notes in a project folder.
 
