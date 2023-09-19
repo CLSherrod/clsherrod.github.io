@@ -1,21 +1,21 @@
 {
-  "name": "chris-site",
-  "version": "0.0.9",
-  "author": "Christopher Sherrod",
+  "name": "jekyll-text-theme",
+  "version": "2.2.6",
+  "author": "Tian Qi",
   "license": "MIT",
   "keywords": [
-    "Christopher Sherrod",
-    "Entrepreneur",
-    "Business Author"
+    "jekyll",
+    "jekyll-theme",
+    "jekyll-template"
   ],
-  "homepage": "https://github.com/clsherrod/clsherrod.github.io",
-  "description": "Website",
+  "homepage": "https://github.com/kitian616/jekyll-TeXt-theme",
+  "description": "A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/clsherrod/clsherrod.github.io.git"
+    "url": "git+https://github.com/kitian616/jekyll-TeXt-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/clsherrod/clsherrod.github.io/issues"
+    "url": "https://github.com/kitian616/jekyll-TeXt-theme/issues"
   },
   "scripts": {
     "build": "cross-env JEKYLL_ENV=production bundle exec jekyll build",
