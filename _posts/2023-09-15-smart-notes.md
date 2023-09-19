@@ -123,9 +123,13 @@ I’ve used a Tony Robbins system for many years so my notes folder structure is
 ### Journal
 Many smart note enthusiasts have a separate note for each day. And some even record things in such minute detail that I find overwhelming. I have been using a single note called Journal that I wrote what I need to remember at the top of file and so everything is in reverse date order within the note.
 
-I love using an outline so year, month and day are heading to make my outline organized.
+I love using an outline so year, month and day are headings to make my outline organized.
 
-SCREENSHOT 
+<div style="width:100%; margin:0 auto;" align="center" markdown="1">
+![Image](/assets/images/VOutline.webp)
+</div> 
+
+Outline.webp
 
 In two years the file size is really small. It’s just text so I probably will never have to split the file up for the rest of my life for editing performance reasons.
 
@@ -134,7 +138,7 @@ Having a file for each day, each week, each month and each year is just too much
 ### Content Workflow
 I have a note each newsletter email I send. It includes everything I need to know to get the email out the door.
 
-<div style="width:100%; margin:0 auto;" align="left" markdown="1">
+<div style="width:100%; margin:0 auto;" align="center" markdown="1">
 ![Image](/assets/images/Vault.webp)
 </div>
 
@@ -158,7 +162,7 @@ I know it sounds boring but it has a profound influence on my life and encourage
 ### Apps and Templates
 Again, I’m a big proponent of plain text files so anything I recommend work with text files.
 
-My favorite app that I use is [https://obsidian.md](Obsidian MD). It’s uses plain text files and works on my MacBook, iPad and iPhone. The plugin community is fantastic. Tons of little plugins that add super cool functionality to my text editor.
+My favorite app that I use is [Obsidian MD](https://obsidian.md). It’s uses plain text files and works on my MacBook, iPad and iPhone. The plugin community is fantastic. Tons of little plugins that add super cool functionality to my text editor.
 
 I also use [Drafts](https://getdrafts.com) on my iPad and iPhone to write no matter where I am and when I don’t need access to my entire knowledge system. Sometimes I just want to write. Obsidian MD loads slowly on my iPad and iPhone while Drafts is super quick. Later I copy the note over to my knowledge system.
 
