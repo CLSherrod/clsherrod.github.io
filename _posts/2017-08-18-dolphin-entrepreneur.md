@@ -2,12 +2,12 @@
 layout: article
 title: "Forget Shark Tank; Be A Dolphin Entrepreneur Instead"
 tags: entrepreneurship
-header:
-  theme: dark
-  background: '#333'
 article_header:
-  type: cover
-  image:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/dolphin-entrepreneur-cover.webp
 ---
 # Dolphin Entrepreneur
