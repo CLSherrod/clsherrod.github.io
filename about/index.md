@@ -11,7 +11,7 @@ article_header:
     src: /assets/images/about-cover.webp
 ---
 <div style="width:20%; margin:0 auto;" align="right" markdown="1">
-![Image](assets/images/avatar.webp){:.circle.shadow}
+![Image](/assets/images/avatar.webp){:.circle.shadow}
 </div>
 ## Entrepreneur
 I’m a private business owner that has sold everything from software, real estate, info-products, and the owner of a marketing agency with a distributed team in Philipines, Ireland, Panama, and India.

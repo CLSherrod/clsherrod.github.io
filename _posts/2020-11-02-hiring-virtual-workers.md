@@ -21,4 +21,5 @@ I wrote this book to share my hiring process that I’ve developed since 2000 wh
 
 [Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9)
 
+## Addtional Resources
 [Additional Resources mentioned in Book](https://clsherrod.gumroad.com/l/virtualworkers) - Includes eBook in ePub and Kindle formats plus a Business Ideas Workbook and a video on How To Implment An Idea Quickly.
