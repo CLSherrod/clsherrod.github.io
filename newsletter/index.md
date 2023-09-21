@@ -1,8 +1,8 @@
 ---
 layout: article
-title: “Newsletter - Christopher Sherrod”
+title: Releases by Christopher Sherrod
 ---
-I rarely email and it’s just for notifications when I launch a new book or project or write a new helpful article.
+I rarely email and it’s just for notifications when I write a new article or launch a new book or project.
 
 I never share my people’s email or contact information with anyone, ever.
 I don’t market myself or monitize my notifcations lists, I freely share what has worked for me, not others.
