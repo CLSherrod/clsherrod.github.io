@@ -19,7 +19,7 @@ article_header:
 My book on how to create new business ideas that started as a printed book before Amazon Kindles existed is now out in it’s 8th edition.
 
 This book is a step-by-step guide to creating new business ideas based on what you love. Inside you’ll play games that will create a business that you’ll love because it’s based on what you love.
-
+<!--more-->
 My opinion and what I’ve seen with myself and all the entrepreneurs I’ve meet over the decades is that if you don’t love what you do you won’t be successful no matter how hard you work at it.
 
 I’ve taken readers feedback to make this 8th edition.

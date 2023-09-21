@@ -11,7 +11,7 @@ article_header:
     src: /assets/images/play-prosperity-games-cover.webp
 ---
 My  book I’ve been selling (for the last year) out of the trunk of my car “Play Prosperity Games”, a collection of fun games to create new business ideas based on what you love has been having some dinner parties where we create new business ideas together.
-
+<!--more-->
 ## Testimonials
 Some testimonials from recent games.
 
