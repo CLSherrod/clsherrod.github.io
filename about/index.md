@@ -28,4 +28,4 @@ As a semi-retired entrepreneur I enjoy writing about my business experiences.
 
 I’ve written two business books:
 - [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
-- [Hiring Virtual Workers](https://amzn.to/2FvAxx9)
+- [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)
