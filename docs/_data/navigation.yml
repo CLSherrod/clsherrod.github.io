@@ -10,7 +10,7 @@ header:
   - title:      Archive
     url:        /archive.html
   - title:      About
-    url:        /about.html
+    url:        /about/index.html
   - title:      GitHub
     url:        https://github.com/kitian616/jekyll-TeXt-theme
 
