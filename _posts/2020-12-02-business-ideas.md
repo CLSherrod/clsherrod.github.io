@@ -10,7 +10,7 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/books-cover.webp
 ---
-<div style="width:80%; margin:0 auto;" align="right" markdown="1">
+<div style="width:20%; margin:0 auto;" align="right" markdown="1">
 ![Image](/assets/images/books/How-To-Create-New-Business-Ideas.webp)
 </div>
 
