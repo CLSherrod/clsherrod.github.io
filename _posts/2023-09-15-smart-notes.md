@@ -97,8 +97,7 @@ Headers, you just type this and boom you have a heading and it’s pure text.
 # H1
 ## H2
 ## H3
-Formating
-*Bold*
+*Bold* is just asterics at the beggining and end of what you want bolded.
 - bullet list is just a dash and a space
 
 These are the ones I use all the time. There are more but I don’t remember them and just use a toolbar in my editor to do it for me.
@@ -108,6 +107,8 @@ Have sections in your note. Here are my common sections:
 1. Summary - a summary section has a short incomplete sentence summarizing the existence of this note. This helps me remember what this is about without having to read the note.
 2. To do list - if this note needs additional things done
 3. Notes - as I understand more this section gets expanded
+
+I’ll have some examples later in this article.
 
 #### Types Of Notes
 1. **Journal** - I have one text file that I record daily events in that I need to remember. People I paid, visitors that came over, what movie I watched, etc. anything that I need to remember tomorrow or next week. I don’t record everything that happens in my life. If my wife and I rewatch an episode of Big Bang Theory to unwise from the day and laugh I don’t record that. I don’t record funny YouTube videos I watched. I only record movies and when I finish a TV show season so I can remember not to watch it again.
