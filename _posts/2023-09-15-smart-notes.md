@@ -78,7 +78,7 @@ I started by just typing up a daily note of what I did. I needed help rememberin
 
 I use [Johnny Decimal](https://johnnydecimal.com) to name folders as it helps me navigate all my folders easily when searching.
 
-### Text Files Save Me
+### Text Files Saved Me
 Having all my notes in Evernote did help me remember a lot but all my data was locked inside their app. I quickly wanted my data to just be text files. I needed something that was super easy and basic.
 
 I started with using Notion right before I moved to a remote beach home in México as I recovering from my seizure and had to be away from electronics for awhile. I had no Internet for days at a time. 
@@ -91,6 +91,17 @@ Step one, start typing. My first smart notes didn’t have sections. I figured t
 
 #### Learn Markdown, a Lightweight Markup Language
 Markdown is a lightweight markup language designed for simplicity and ease of use. Created in 2004 by John Gruber and Aaron Swartz, its primary aim was to allow individuals to write using an easy-to-read and easy-to-write plain text format, which can then be converted seamlessly into HTML for web publishing. Unlike more complex HTML or LaTeX, Markdown employs straightforward symbols and characters, like asterisks for bold or italics and hash signs for headers, making it both intuitive and quick to learn. Its uncomplicated syntax has led to its widespread adoption, especially among writers, developers, and content creators who seek a straightforward way to structure text without diving into the intricacies of full-blown markup languages. Over time, various extensions and flavors of Markdown have emerged, but its core principle remains: offering a simple method to add structure and style to plain text.
+
+##### Examples
+Headers, you just type this and boom you have a heading and it’s pure text.
+# H1
+## H2
+## H3
+Formating
+*Bold*
+- bullet list is just a dash and a space
+
+These are the ones I use all the time. There are more but I don’t remember them and just use a toolbar in my editor to do it for me.
 
 #### Note Sections
 Have sections in your note. Here are my common sections:
