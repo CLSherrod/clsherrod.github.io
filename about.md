@@ -2,6 +2,8 @@
 layout: article
 title: About Christopher Sherrod
 key: page-about
+permalink: about
+published: true
 ---
 <div style="width:20%; margin:0 auto;" align="right" markdown="1">
 ![Image](/assets/images/avatar.webp){:.circle.shadow}
