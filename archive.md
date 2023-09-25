@@ -1,5 +1,4 @@
 ---
 layout: archive
-permalink: archive
-published: true
+permalink: /archive/
 ---
