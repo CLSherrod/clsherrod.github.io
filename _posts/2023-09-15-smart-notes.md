@@ -2,6 +2,8 @@
 layout: article
 title: "How Smart Notes Transformed My Productivity and Well-being"
 tags: workflow-apps implementing
+permalink: smart-notes
+published: true
 aside:
   toc: true
 article_header:
