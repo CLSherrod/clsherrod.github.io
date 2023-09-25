@@ -2,6 +2,8 @@
 layout: article
 title: "Creators Recommend Apps & Workflow 2023"
 tags: workflow-apps implementing
+permalink: workflow
+published: true
 aside:
   toc: true
 article_header:
