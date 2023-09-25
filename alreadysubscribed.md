@@ -1,6 +1,8 @@
 ---
 layout: article
 title: “Christopher Sherrod”
+permalink: alreadysubscribed
+published: true
 article_header:
   type: overlay
   theme: dark

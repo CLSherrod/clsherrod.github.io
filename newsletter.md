@@ -1,6 +1,8 @@
 ---
 layout: article
 title: Releases by Christopher Sherrod
+permalink: newsletter
+published: true
 ---
 I rarely email and it’s just for notifications when I write a new article or launch a new book or project.
 
