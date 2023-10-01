@@ -8,7 +8,7 @@ permalink: /about/
 ![Image](/assets/images/avatar.webp){:.circle.shadow}
 </div>
 ## Entrepreneur
-I’m a private business owner that has sold everything from software, real estate, info-products, and the former owner of a marketing agency with a distributed team in the Philipines, Ireland, Panama, and India. I focus now on newsletter-driven education businesses.
+I’m a private business owner that has sold everything from software, real estate, info-products, and the former owner of a marketing agency with a distributed team in the Philipines, Ireland, Panama, and India. I focus now on newsletter-driven educational businesses.
 
 Since I became a full-time entrepreneur in 1996 after five years in the corporate world I’ve learned a lot from my successes and especially failures. I have written my business books and articles here to give back to the community of entrepreneurs. My early mentors helped me understand business and now its my turn to share my experience.
 
