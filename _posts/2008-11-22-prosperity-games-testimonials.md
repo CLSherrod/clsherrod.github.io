@@ -8,7 +8,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/play-prosperity-games-cover.webp
+    src: /assets/images/articles/play-prosperity-games-cover.webp
 ---
 My  book I’ve been selling (for the last year) out of the trunk of my car “Play Prosperity Games”, a collection of fun games to create new business ideas based on what you love has been having some dinner parties where we create new business ideas together.
 <!--more-->
