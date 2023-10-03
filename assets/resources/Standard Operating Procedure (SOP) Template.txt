@@ -1,0 +1,22 @@
+Standard Operating Procedure (SOP) Template
+
+Why: This template is a generic template for creating SOPs. It helps define the formatting and organization guidelines of a SOP so that we have a standard format. This makes it easy for anyone in the company to understand SOPs from other parts of the company and for the new guys to get up to speed quick, fast and in a hurry so they can get to the fun part of helping us grow the company
+When: Whenever you create a new SOP, use the guidelines outlined here and in the Creating SOPs SOP
+Where: All our SOPs are run out of Google Drive
+Who: Anyone making or updating a SOP
+
+Heading 1
+
+This is where the SOP is written
+If something is best displayed in hierarchy, use bullet points and indent with tab
+like this
+
+If it’s done sequentially
+Use numbered lists and indent
+like this
+
+Resources
+
+The Resources section is a reference section at the bottom of the document for resources valuable in executing that SOP. They can be internal documents in our SOD, useful articles from the internet or anything else
+
+
