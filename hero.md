@@ -3,7 +3,7 @@ layout: article
 title: "Christopher Sherrod - Entrepreneur and Business Author "
 tags: workflow-apps implementing
 permalink: hero
-published: false
+published: true
 aside:
   toc: true
 article_header:

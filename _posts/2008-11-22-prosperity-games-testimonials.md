@@ -1,6 +1,8 @@
 ---
 layout: article
 title: Play Prosperity Games Dinner Party Testimonials
+date: 2008-11-22 09:00:00 +0000
+last_modified_at: 2023-10-03 9:00:00 +0000
 tags: idea-generation
 article_header:
   type: overlay

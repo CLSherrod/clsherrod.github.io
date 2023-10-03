@@ -1,7 +1,10 @@
 ---
 layout: article
 title: "Book Updated: How To Create New Business Ideas"
+date: 2020-12-02 09:00:00 +0000
+last_modified_at: 2023-10-03 9:00:00 +0000
 tags: idea-generation books
+comments: true
 article_header:
   type: overlay
   theme: dark
@@ -29,4 +32,5 @@ I’ve taken readers feedback to make this 8th edition.
 [How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](https://amzn.to/3oZlRrW)
 
 ## Additional Resources
-[Additional Resources mentioned in Book](https://clsherrod.gumroad.com/l/newbusinessideas) - Includes eBook in ePub and Kindle formats plus a Business Ideas Workbook and a video on How To Implment An Idea Quickly.
+- [Read my article about Implementing Quickly](https://christophersherrod.com/implement-quickly)
+- [Additional Resources mentioned in Book](https://clsherrod.gumroad.com/l/newbusinessideas) - Includes eBook in ePub and Kindle formats plus a Business Ideas Workbook.
