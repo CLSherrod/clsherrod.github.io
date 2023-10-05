@@ -5,7 +5,7 @@ key: page-about
 permalink: /about/
 ---
 <div style="width:20%; margin:0 auto;" align="right" markdown="1">
-![Image](/assets/images/avatar.webp){:.circle.shadow}
+![image-right](/assets/images/avatar.webp){:.circle.shadow}{: .align-right}
 </div>
 ## Entrepreneur
 I’m a private business owner that has sold everything from software, real estate, info-products, and the former owner of a marketing agency with a distributed team in the Philipines, Ireland, Panama, and India. I focus now on newsletter-driven educational businesses.
