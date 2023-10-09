@@ -1,15 +1,16 @@
 ---
 layout: article
-title: Projcts of Christopher Sherrod
+title: Projects of Christopher Sherrod
 permalink: /now/
 ---
 ## Current Projects
-I’m currently semi-retired and writing a book.
+- I’m currently semi-retired and writing a book.
+- Write a weekly newsletter
+- Newsletter consulting
 
 ## Past Projects
 - business software program on Windows & Mac
-- webite design
-- book self-publishing
+- webite design & book self-publishing
 
 ## What I’ve written
 As a semi-retired entrepreneur I enjoy writing about my business experiences, see [my articles here](https://christophersherrod.com/archive/).
