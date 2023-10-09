@@ -24,7 +24,7 @@ Instead of passively transcribing information, users of smart notes engage activ
 
 Over time, a collection of smart notes evolves into a knowledge database, where individual notes compound and enrich one another, fostering creativity and enhancing one’s grasp on complex subjects.
 
-I call mine The Vault.
+I call mine the “Vault”.
 
 ## Why I Love Smart Notes
 I’ve had a number of friends and family ask that I write this because they have seen how much of an impact smart notes has had on me. After my 2019 gran mal seizure and having to relearn a lot of things I’ve learned how to take notes that helped me in learning and remembering things.
