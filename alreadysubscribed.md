@@ -1,7 +1,7 @@
 ---
 layout: article
 title: “Christopher Sherrod”
-permalink: alreadysubscribed
+permalink: /alreadysubscribed/
 published: true
 ---
 ## You Are Already Subscribed
