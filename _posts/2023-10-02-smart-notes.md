@@ -4,7 +4,7 @@ title: "How Smart Notes Transformed My Productivity and Well-being"
 date: 2023-10-02 09:00:00 +0000
 last_modified_at: 2023-10-03 9:00:00 +0000
 tags: workflow-apps implementing
-permalink: smart-notes
+permalink: /smart-notes/
 published: true
 comments: true
 aside:
