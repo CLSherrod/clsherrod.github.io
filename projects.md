@@ -9,7 +9,8 @@ permalink: /projects/
 - Educational newsletter consulting
 
 ## Past Projects
+- book self-publishing consulting
 - dating iOS app
-- webite design & book self-publishing
+- webite design
 - business software program on Windows & Mac
 - on launch team for American Express Online
