@@ -11,8 +11,8 @@ permalink: /now/
 
 **A few popular articles related to business:**
 - [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](https://christophersherrod.com/dolphin-entrepreneur/) - my business philosophy
-- [The Power of Quick Implementation in a Fast-Paced World](https://christophersherrod.com/implement-quickly/)
-- [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/)
+- [The Power of Quick Implementation in a Fast-Paced World](https://christophersherrod.com/implement-quickly/) - my advice on creating your MVP (minimum viable )
+- [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/) - what my team uses
 
 ## Previously
 See [Projects](https://christophersherrod.com/projects) for a full list of past projects.
