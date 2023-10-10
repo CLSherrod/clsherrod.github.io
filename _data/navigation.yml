@@ -5,6 +5,8 @@ header:
     url:        /newsletter/
   - title:      Archive
     url:        /archive/
+  - title:      Now
+    url:        /now/
   - title:      About
     url:        /about/
  
