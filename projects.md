@@ -5,13 +5,13 @@ permalink: /projects/
 ---
 ## Projects
 2023 - [Customer Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown)
-Track your contacts using plain text Markdown
+Track your contacts using plain text Markdown and wiki-style backlinks.
 
 2023 - [Gardening Project Managment Markdown](https://github.com/CLSherrod/gardening-markdown)
-Track your gardening using plain text Markdown
+Track your gardening using plain text Markdown and wiki-style backlinks.
 
 2023 - Writing a business thriller book
-Thriller based on past business experience
+Currently learning how to write fiction for a future business thriller based on past business experience.
 
 2018 - [Expat Rebel](https://expatrebel.com) newsletter
 Weekly newsletter, podcast and YouTube channel educating future and current expats.
