@@ -10,9 +10,9 @@ permalink: /now/
 - Writing occasional business articles here based on what I learn and get feedback from clients.
 
 **A few popular articles related to business:**
-- [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/dolphin-entrepreneur/)
-- [Quick Implementation](https://christophersherrod.com/implement-quickly/)
-- [Recommended Creative Workflow Apps](https://christophersherrod.com/workflow/)
+- [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](https://christophersherrod.com/dolphin-entrepreneur/) - my business philosophy
+- [The Power of Quick Implementation in a Fast-Paced World](https://christophersherrod.com/implement-quickly/)
+- [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/)
 
 ## Previously
 See [Projects](https://christophersherrod.com/projects) for a full list of past projects.
