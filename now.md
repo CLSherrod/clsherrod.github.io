@@ -3,7 +3,7 @@ layout: article
 title: What I'm Doing Now - Christopher Sherrod
 permalink: /now/
 ---
-## What I’m Doing Now
+## Writing Daily
 - Writing a business thriller fictional book based on past business experience.
 - Write an expat weekly newsletter at [Expat Rebel](https://expatrebel.com).
 - Writing occasional business articles here based on what I learn.
