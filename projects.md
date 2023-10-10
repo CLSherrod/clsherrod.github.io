@@ -4,6 +4,9 @@ title: Projects of Christopher Sherrod
 permalink: /projects/
 ---
 ## Projects
+2023 - [Customer Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown)
+
+2023 - 
 2023 - Writing a business thriller book
 Thriller based on past business experience
 
