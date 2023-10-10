@@ -21,6 +21,6 @@ It’s now titled “How To Create New Business Ideas Based On What You Love” 
 
 It also has a little update, and it’s now edition 2.
 
-[Get my book now](https://amzn.to/3oZlRrW). Join my [newsletter] to get the workbook.
+[Get my book now](https://amzn.to/3oZlRrW). Join my [newsletter](https://christophersherrod.com/newsletter/) to get the workbook that goes along with the book.
 
 Also [read my article about Implementing Quickly](https://christophersherrod.com/implement-quickly)
