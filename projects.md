@@ -18,13 +18,13 @@ Weekly newsletter, podcast and YouTube channel educating future and current expa
 Consulting owners of educational newsletters. Not open to the public and only available on a referred basis.
 
 2013 - 2018 Consulting on self-publishing books
-Helped people thru the process of self-publishing their book
+Helped people thru the process of self-publishing their book.
 
 1999 - 2018 Website design
 Created first website designs for professionals, mostly doctors.
 
 1996 - 2001 Business software
-Created and sold speciality for a niche market on Windows & Mac
+Created and sold speciality for a niche market on Windows & Mac.
 
 1996 - 1997 Launch team for American Express Online
 Project won internal award for innovation
