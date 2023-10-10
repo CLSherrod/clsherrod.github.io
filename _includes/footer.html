@@ -22,7 +22,23 @@
         {%- include author-links.html author=_site_author -%}
       </div>
     </div>
-    
+    <div class="site-info mt-2">
+      <form action="https://mail.nanakasha.com/subscribe" method="POST" accept-charset="utf-8">
+        <label for="name">Name</label>&nbsp;&nbsp;<br>
+        <input type="text" name="name" id="name" />
+        <br>
+        <label for="email">Email</label><br />
+        <input type="email" name="email" id="email" />
+        <br />
+        <div style="display:none;">
+        <label for="hp">HP</label><br />
+        <input type="text" name="hp" id="hp" />
+        </div>
+        <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
+        <input type="hidden" name="subform" value="yes" />
+        <input type="submit" name="submit" id="submit" />
+    </form>
+    </div>
     <div class="site-info mt-2">
       <div>
         © {{ site.title }} 2023
