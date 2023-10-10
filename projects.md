@@ -13,7 +13,7 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 2023 - Writing a business thriller book
 Currently learning how to write fiction for a future business thriller based on past business experience.
 
-2018 - [Expat Rebel](https://expatrebel.com) newsletter
+2018 - [Expat Rebel](https://expatrebel.com)
 Weekly newsletter, podcast and YouTube channel educating future and current expats.
 
 2013 - Educational newsletter consulting
@@ -22,11 +22,11 @@ Consulting owners of educational newsletters. Not open to the public and only av
 2013 - 2018 Consulting on self-publishing books
 Helped people thru the process of self-publishing their book.
 
-1999 - 2018 Website design
+1999 - 2018 Website design firm
 Created first website designs for professionals, mostly doctors.
 
-1996 - 2001 Business software
-Created and sold speciality for a niche market on Windows & Mac.
+1996 - 2001 Niche business software
+Created and sold business software for a niche market on Windows & Mac.
 
-1996 - 1997 Launch team for American Express Online
-Project won internal award for innovation
+1996 - 1997 American Express Online
+On launch team for first online presence of American Express. Project won internal award for innovation.
