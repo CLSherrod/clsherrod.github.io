@@ -5,8 +5,8 @@ permalink: /projects/
 ---
 ## Projects
 - Writing a business thriller book
-- Write a weekly newsletter
-- Newsletter consulting
+- Write an expat weekly newsletter
+- Educational newsletter consulting
 
 ## Past Projects
 - dating iOS app
