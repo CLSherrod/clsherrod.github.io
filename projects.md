@@ -5,6 +5,8 @@ permalink: /projects/
 ---
 ## Projects
 - Writing a business thriller book
+2018 - [Expat Rebel] newsletter
+
 - Write an expat weekly newsletter
 - Educational newsletter consulting
 
