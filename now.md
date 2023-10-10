@@ -5,9 +5,8 @@ permalink: /now/
 ---
 ## What I’m Doing Now
 - Writing a business thriller fictional book based on past business experience.
-- Write an expat weekly newsletter at [Expat Rebel](https://expatrebel.com) .
-- Educational newsletter consulting. Not open to the public and only available on a referred basis.
-- Writing occasional business articles here based on what I learn and get feedback from clients.
+- Write an expat weekly newsletter at [Expat Rebel](https://expatrebel.com).
+- Writing occasional business articles here based on what I learn.
 
 **A few popular articles related to business:**
 - [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](https://christophersherrod.com/dolphin-entrepreneur/) - my business philosophy

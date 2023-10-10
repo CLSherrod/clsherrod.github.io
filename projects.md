@@ -16,9 +16,6 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 **2018 - [Expat Rebel](https://expatrebel.com)**<br>
 Weekly newsletter, podcast and YouTube channel educating future and current expats.
 
-**2013 - Educational newsletter consulting**<br>
-Consulting owners of educational newsletters. Not open to the public and only available on a referred basis.
-
 **2013 - 2018 Consulting on self-publishing books**<br>
 Helped people thru the process of self-publishing their book.
 
