@@ -5,8 +5,10 @@ permalink: /projects/
 ---
 ## Projects
 2023 - [Customer Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown)
+Track your contacts using plain text Markdown
 
 2023 - [Gardening Project Managment Markdown](https://github.com/CLSherrod/gardening-markdown)
+Track your gardening using plain text Markdown
 
 2023 - Writing a business thriller book
 Thriller based on past business experience
