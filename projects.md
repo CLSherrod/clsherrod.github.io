@@ -4,15 +4,23 @@ title: Projects of Christopher Sherrod
 permalink: /projects/
 ---
 ## Projects
-- Writing a business thriller book
-2018 - [Expat Rebel] newsletter
+2023 - Writing a business thriller book
+Thriller based on past business experience
 
-- Write an expat weekly newsletter
-- Educational newsletter consulting
+2018 - [Expat Rebel](https://expatrebel.com) newsletter
+Weekly newsletter, podcast and YouTube channel educating future and current expats.
 
-## Past Projects
-- book self-publishing consulting
-- dating iOS app
-- webite design
-- business software program on Windows & Mac
-- on launch team for American Express Online
+2013 - Educational newsletter consulting
+Consulting owners of educational newsletters. Not open to the public and only available on a referred basis.
+
+2013 - 2018 Consulting on self-publishing books
+Helped people thru the process of self-publishing their book
+
+1999 - 2018 Website design
+Created first website designs for professionals, mostly doctors.
+
+1996 - 2001 Business software
+Created and sold speciality for a niche market on Windows & Mac
+
+1996 - 1997 Launch team for American Express Online
+Project won internal award for innovation
