@@ -3,7 +3,6 @@ layout: article
 title: Projects of Christopher Sherrod
 permalink: /projects/
 ---
-## Projects
 **2023 - Writing a business thriller book**<br>
 Currently learning how to write fiction for a future business thriller based on past business experience.
 
