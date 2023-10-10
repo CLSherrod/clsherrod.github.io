@@ -18,9 +18,10 @@ Learn about my [Dolphin Entreprenuer philosophy in business](https://socapglobal
 ## Business Author
 As a semi-retired entrepreneur I enjoy writing about my business experiences, see [my articles here](https://christophersherrod.com/archive/).
 
-I’ve written two business books:
+**I’ve written two business books:**
 - [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
 - [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)
 
 ## Projects
-See [Projects](https://christophersherrod.com/projects) for a full list of past projects.
+- [What I’m doing now](https://christophersherrod.com/now/)
+- See [Projects](https://christophersherrod.com/projects) for a full list of past projects.
