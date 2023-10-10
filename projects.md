@@ -28,6 +28,9 @@ Consulting owners of educational newsletters. Not open to the public and only av
 
 Helped people thru the process of self-publishing their book.
 
+2010-2012 Speaker
+Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book, later renamed [How To Create New Business Ideas Based On What You Love](https://christophersherrod.com/2020/12/02/business-ideas.html)
+
 1999 - 2018 Website design firm
 
 Created first website designs for professionals, mostly doctors.
