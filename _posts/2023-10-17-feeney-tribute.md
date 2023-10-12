@@ -19,7 +19,7 @@ article_header:
 ---
 ## Introduction
 Every so often, we witness a figure in the entrepreneurial landscape whose actions reverberate with profound impact. Charles F. Feeney was one such individual. Not just for his astute business acumen or the empire he built, but for his unparalleled commitment to giving back. As a fellow entrepreneur, I wish to pay tribute to this stalwart who transformed the world of philanthropy by exemplifying that the true essence of wealth is not in accumulation, but in distribution.
-
+<!--more-->
 ## Business Magnet
 Charles Feeney’s meteoric rise in the entrepreneurial world began with the inception of duty-free shops, a lucrative venture that amassed billions. 
 
