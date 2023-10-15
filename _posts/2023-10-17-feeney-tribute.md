@@ -35,7 +35,7 @@ A lesson we can all imbibe from his journey is the power of humility and discret
 His financial acumen and vision for a better world were echoed by stalwarts like Bill Gates and Warren Buffett, both of whom considered Feeney their hero. 
 
 ## The Legacy and Lessons
-\But beyond the accolades and the admiration, Feeney’s story is a testament to the fact that the journey of entrepreneurship is not just about creating value but about sharing it.
+But beyond the accolades and the admiration, Feeney’s story is a testament to the fact that the journey of entrepreneurship is not just about creating value but about sharing it.
 
 For many of us in the entrepreneurial space, the seductive allure of accumulating wealth, recognition, and success can often become the driving force. But Feeney’s legacy reminds us that the true hallmark of success is the positive change we can effect in the world. It’s about recognizing that our entrepreneurial pursuits have a larger role to play in shaping the narrative of progress, inclusivity, and change.
 
