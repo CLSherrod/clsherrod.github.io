@@ -17,9 +17,9 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/articles/smart-notes-cover.webp
 ---
-## What Are Smart Notes?<br>
+## What Are Smart Notes?<!--more--><br>
 First let’s start off with defining smart notes, which is a modern application of the Zettelkasten method (an old index card note system, pre computers), a systematic and thoughtful approach to taking and organizing notes. 
-<!--more-->
+
 Instead of passively transcribing information, users of smart notes engage actively with the content, summarizing insights in their own words and linking them to related ideas or notes. This creates a web of interconnected thoughts, allowing for easier recall, deeper understanding, and the synthesis of new ideas. 
 
 Over time, a collection of smart notes evolves into a knowledge database, where individual notes compound and enrich one another, fostering creativity and enhancing one’s grasp on complex subjects.
