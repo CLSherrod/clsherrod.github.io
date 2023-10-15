@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "How Smart Notes Transformed My Productivity and Well-being"
-date: 2023-10-02 09:00:00 +0000
-last_modified_at: 2023-10-03 9:00:00 +0000
+date: 2023-10-02
+last_modified_at: 2023-10-15
 tags: workflow-apps implementing
 permalink: /smart-notes/
 published: true
