@@ -191,7 +191,7 @@ I know it sounds boring but it has a profound influence on my life and encourage
 ### Apps and Templates
 Again, I’m a big proponent of plain text files so anything I recommend work with text files.
 
-My favorite app that I use is [Obsidian MD](https://obsidian.md). It’s uses plain text files and works on my MacBook, iPad and iPhone. The plugin community is fantastic. Tons of little plugins that add super cool functionality to my text editor.
+My favorite app that I use is [Obsidian MD](https://obsidian.md). It’s uses plain text files and works on my MacBook, iPad and iPhone. The plugin community is fantastic. Tons of little plugins that add super cool functionality to my text editor. [](https://www.fastcompany.com/90960653/why-people-are-obsessed-with-obsidian-the-indie-darling-of-notetaking-apps)
 
 I also use [Drafts](https://getdrafts.com) on my iPad and iPhone to write no matter where I am and when I don’t need access to my entire knowledge system. Sometimes I just want to write. Obsidian MD loads slowly on my iPad and iPhone while Drafts is super quick. Later I copy the note over to my knowledge system.
 
