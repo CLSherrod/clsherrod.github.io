@@ -30,3 +30,13 @@ Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/do
 
 ## Newsletter
 Join my [newsletter](https://christophersherrod.com/newsletter/)
+
+## Lastest Articles
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
