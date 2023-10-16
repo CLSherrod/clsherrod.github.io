@@ -1,9 +1,11 @@
 ---
 layout: article
 title: "Play Prosperity Games Book Renamed & Now On Kindle"
-date: 2012-11-27 09:00:00 +0000
-last_modified_at: 2023-10-03 9:00:00 +0000
+date: 2012-11-27
+last_modified_at: 2023-10-03
 tags: idea-generation books
+aside:
+  toc: false
 article_header:
   type: overlay
   theme: dark

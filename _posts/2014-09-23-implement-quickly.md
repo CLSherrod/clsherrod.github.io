@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "The Power of Quick Implementation in a Fast-Paced World"
-date: 2014-09-23 09:00:00 +0000
-last_modified_at: 2023-10-03 9:00:00 +0000
+date: 2014-09-23
+last_modified_at: 2023-10-03
 tags: implementing
 permalink: /implement-quickly/
 comments: true
