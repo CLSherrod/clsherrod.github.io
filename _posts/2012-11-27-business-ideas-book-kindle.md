@@ -12,9 +12,9 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/articles/books-cover.webp
 ---
-## Now On Kindle
 Now that my privately printed book is presently on Amazon Kindle, and it comes with a name change.
 <!--more-->
+## Now On Kindle
 After a lot of feedback from people that have played the games and feedback from my email list, I’ve renamed my book.
 
 It’s now titled “How To Create New Business Ideas Based On What You Love” and it’s now a Kindle book. It’s no longer available on Lulu.
