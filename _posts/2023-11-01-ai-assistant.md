@@ -1,8 +1,8 @@
 ---
 layout: article
 title: "Harnessing Artificial Intelligence: A Creator's New Best Friend"
-date: 2023-11-01 09:00:00 +0000
-last_modified_at: 2023-11-01 9:00:00 +0000
+date: 2023-11-01
+last_modified_at: 2023-11-01
 tags: implementing
 permalink: /ai-assistance/
 published: false

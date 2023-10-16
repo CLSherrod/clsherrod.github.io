@@ -1,10 +1,12 @@
 ---
 layout: article
 title: "Book Released: Hiring Virtual Workers For Small Business"
-date: 2020-11-02 09:00:00 +0000
-last_modified_at: 2023-10-03 9:00:00 +0000
+date: 2020-11-02
+last_modified_at: 2023-10-03
 tags: business-management books
 comments: true
+aside:
+  toc: false
 article_header:
   type: overlay
   theme: dark
