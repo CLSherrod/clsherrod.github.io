@@ -3,8 +3,7 @@ layout: article
 title: What I'm Doing Now - Christopher Sherrod
 permalink: /now/
 ---
-## Writing Daily
-- Writing a business thriller fictional book based on past business experience.
+## Writing
 - Write a weekly newsletter in a niche
 - Writing occasional business articles here based on what I learn.
 
