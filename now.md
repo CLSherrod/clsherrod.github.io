@@ -13,7 +13,7 @@ permalink: /now/
 - [The Power of Quick Implementation in a Fast-Paced World](https://christophersherrod.com/implement-quickly/) - my advice on creating your MVP (minimum viable product)
 - [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/) - what my team uses
 
-**My Business Book:**
+**My Business Books:**
 - [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
 - [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)
 
