@@ -5,7 +5,7 @@ permalink: /now/
 ---
 ## Writing Daily
 - Writing a business thriller fictional book based on past business experience.
-- Write an expat weekly newsletter at [Expat Rebel](https://expatrebel.com).
+- Write a weekly newsletter in a niche
 - Writing occasional business articles here based on what I learn.
 
 **A few popular articles related to business:**
