@@ -3,8 +3,8 @@ layout: article
 title: Projects of Christopher Sherrod
 permalink: /projects/
 ---
-**2023 - [Home Manual Markdown]()**<br>
-Currently learning how to write fiction for a future business thriller based on past business experience.
+**2023 - [Home Manual Markdown](https://github.com/CLSherrod/home-manual-markdown)**<br>
+Home Manual to track everything about your home in Markdown and wiki-style backlinks.
 
 **2022 - [Customer Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown)**<br>
 Track your contacts using plain text Markdown and wiki-style backlinks.
@@ -12,8 +12,8 @@ Track your contacts using plain text Markdown and wiki-style backlinks.
 **2022 - [Gardening Project Managment Markdown](https://github.com/CLSherrod/gardening-markdown)**<br>
 Track your gardening using plain text Markdown and wiki-style backlinks.
 
-**2018 - [Expat Rebel](https://expatrebel.com)**<br>
-Weekly newsletter, podcast and YouTube channel educating future and current expats.
+**2018 - Niche Newsletter**<br>
+Weekly newsletter, podcast and YouTube channel educating people in a niche.
 
 **2013 - 2018 Consulting on self-publishing books**<br>
 Helped people thru the process of self-publishing their book after I did it for my (first) book.
