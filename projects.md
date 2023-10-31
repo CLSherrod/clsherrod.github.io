@@ -3,7 +3,7 @@ layout: article
 title: Projects of Christopher Sherrod
 permalink: /projects/
 ---
-**2023 - Writing a business thriller book**<br>
+**2023 - [Home Manual Markdown]()**<br>
 Currently learning how to write fiction for a future business thriller based on past business experience.
 
 **2022 - [Customer Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown)**<br>
