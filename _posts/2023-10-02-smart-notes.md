@@ -201,16 +201,18 @@ Here is a comprehensive list of [Resources, links, projects, and ideas for garde
 
 Using a template vault is a great shortcut to get started.  Pick one that is close to what you are. Some are more geared towards content making, others for college and some for researchers.
 
-### Folder Structure For Files
-I also have found structuring my files not in my smart note system in a folder structure to make it easy to find files easily. This is the file tree is what I based my system off of [home system folder structure](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home/root).
-
-Folders with project related files are name YYYY-MM-DD and a project name with project names for folders
-
 ### Additional Markdown Resources
 I’ve created some markdown projects to help me organize things in my life. I hope you find them helpful.
 - [Home Manual Markdown](https://github.com/CLSherrod/home-manual-markdown) - what I use to track everything in home
 - [Gardening Markdown](https://github.com/CLSherrod/gardening-markdown) - how I keep track of my plants
 - [Contact Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown) - I found most contact system to be too complicated so I made a simple plaintext files to maintain contact notes
+
+### Folder Structure For Files
+I also have found structuring my files not in my smart note system in a folder structure to make it easy to find files easily. This is the file tree is what I based my system off of [home system folder structure](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home/root).
+
+Folders with project related files are name YYYY-MM-DD and a project name with project names for folders.
+
+I also like this article [File Structure For Life](https://plaintext-productivity.net/3-02-file-folder-structure-for-life.html) - nice article
 
 ### Books & Videos
 - [Building A Second Brain](https://amzn.to/3OXMQmU) - good introductary book (on Amazon)
@@ -218,4 +220,3 @@ I’ve created some markdown projects to help me organize things in my life. I h
 - [Johnny Decimal System Video](https://youtu.be/xC1bTRHFXXc) - vault folder naming system I use (YouTube Video)
 - [Home system folder structure](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home/root) - naming your folders on your computer article
 - [Todo.txt](http://todotxt.org) - simple to dos in a single plain text file with many apps
-- [File Structure For Life](https://plaintext-productivity.net/3-02-file-folder-structure-for-life.html) - nice article
