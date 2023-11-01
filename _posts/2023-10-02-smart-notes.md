@@ -213,9 +213,9 @@ I’ve created some markdown projects to help me organize things in my life. I h
 - [Contact Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown) - I found most contact system to be too complicated so I made a simple plaintext files to maintain contact notes
 
 ### Books & Videos
-- [Building A Second Brain](https://amzn.to/3OXMQmU) (Book on Amazon)
-- [Using Obsidian MD](https://youtu.be/QgbLb6QCK88) (YouTube Video)
-- [Johnny Decimal System Video](https://youtu.be/xC1bTRHFXXc) (YouTube Video)
-- [Home system folder structure](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home/root)
-- [Todo.txt](http://todotxt.org) - simple to dos in a single plain text file
+- [Building A Second Brain](https://amzn.to/3OXMQmU) - good introductary book (on Amazon)
+- [Using Obsidian MD](https://youtu.be/QgbLb6QCK88) - nice video on the basic of using Obsidian MD (YouTube Video)
+- [Johnny Decimal System Video](https://youtu.be/xC1bTRHFXXc) - vault folder naming system I use (YouTube Video)
+- [Home system folder structure](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home/root) - naming your folders on your computer article
+- [Todo.txt](http://todotxt.org) - simple to dos in a single plain text file with many apps
 - [File Structure For Life](https://plaintext-productivity.net/3-02-file-folder-structure-for-life.html) - nice article
