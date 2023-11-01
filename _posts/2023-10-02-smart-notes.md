@@ -210,12 +210,12 @@ Folders with project related files are name YYYY-MM-DD and a project name with p
 I’ve created some markdown projects to help me organize things in my life. I hope you find them helpful.
 - [Home Manual Markdown](https://github.com/CLSherrod/home-manual-markdown) - what I use to track everything in home
 - [Gardening Markdown](https://github.com/CLSherrod/gardening-markdown) - how I keep track of my plants
-- [Contact Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown) - I found most contact system to be too complicated so I made a simple plaintext to maintain contact notes
+- [Contact Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown) - I found most contact system to be too complicated so I made a simple plaintext files to maintain contact notes
 
 ### Books & Videos
-- [Building A Second Brain Book](https://amzn.to/3OXMQmU)
-- [Using Obsidian MD](https://youtu.be/QgbLb6QCK88)
-- [Johnny Decimal System Video](https://youtu.be/xC1bTRHFXXc)
+- [Building A Second Brain](https://amzn.to/3OXMQmU) (Book on Amazon)
+- [Using Obsidian MD](https://youtu.be/QgbLb6QCK88) (YouTube Video)
+- [Johnny Decimal System Video](https://youtu.be/xC1bTRHFXXc) (YouTube Video)
 - [Home system folder structure](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home/root)
-- [Todo.txt](http://todotxt.org) - simple to dos in a plain text file
+- [Todo.txt](http://todotxt.org) - simple to dos in a single plain text file
 - [File Structure For Life](https://plaintext-productivity.net/3-02-file-folder-structure-for-life.html)
