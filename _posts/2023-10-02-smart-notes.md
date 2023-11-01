@@ -218,4 +218,4 @@ I’ve created some markdown projects to help me organize things in my life. I h
 - [Johnny Decimal System Video](https://youtu.be/xC1bTRHFXXc) (YouTube Video)
 - [Home system folder structure](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home/root)
 - [Todo.txt](http://todotxt.org) - simple to dos in a single plain text file
-- [File Structure For Life](https://plaintext-productivity.net/3-02-file-folder-structure-for-life.html)
+- [File Structure For Life](https://plaintext-productivity.net/3-02-file-folder-structure-for-life.html) - nice article
