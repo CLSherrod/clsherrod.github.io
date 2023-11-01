@@ -201,6 +201,8 @@ Here is a comprehensive list of [Resources, links, projects, and ideas for garde
 
 Using a template vault is a great shortcut to get started.  Pick one that is close to what you are. Some are more geared towards content making, others for college and some for researchers.
 
+For keeping track of to dos I use [Todo.txt](http://todotxt.org) a simple way to have to dos in a single plain text file with many apps that can use it.
+
 ### Additional Markdown Resources
 I’ve created some markdown projects to help me organize things in my life. I hope you find them helpful.
 - [Home Manual Markdown](https://github.com/CLSherrod/home-manual-markdown) - what I use to track everything in home
@@ -218,5 +220,3 @@ I also like this article [File Structure For Life](https://plaintext-productivit
 - [Building A Second Brain](https://amzn.to/3OXMQmU) - good introductary book (on Amazon)
 - [Using Obsidian MD](https://youtu.be/QgbLb6QCK88) - nice video on the basic of using Obsidian MD (YouTube Video)
 - [Johnny Decimal System Video](https://youtu.be/xC1bTRHFXXc) - vault folder naming system I use (YouTube Video)
-- [Home system folder structure](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home/root) - naming your folders on your computer article
-- [Todo.txt](http://todotxt.org) - simple to dos in a single plain text file with many apps
