@@ -214,7 +214,7 @@ I also have found structuring my files not in my smart note system in a folder s
 
 Folders with project related files are name YYYY-MM-DD and a project name with project names for folders.
 
-I also like this article [File Structure For Life](https://plaintext-productivity.net/3-02-file-folder-structure-for-life.html) - nice article
+I also liked this article [File Structure For Life](https://plaintext-productivity.net/3-02-file-folder-structure-for-life.html).
 
 ### Books & Videos
 - [Building A Second Brain](https://amzn.to/3OXMQmU) - good introductary book (on Amazon)
