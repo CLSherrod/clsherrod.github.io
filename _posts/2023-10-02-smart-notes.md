@@ -208,7 +208,7 @@ Folders with project related files are name YYYY-MM-DD and a project name with p
 
 ### Additional Markdown Resources
 I’ve created some markdown projects to help me organize things in my life. I hope you find them helpful.
-- [Home Manual Markdown](https://github.com/CLSherrod/home-manual-markdown)
+- [Home Manual Markdown](https://github.com/CLSherrod/home-manual-markdown) - what I use to track everything in home
 - [Gardening Markdown](https://github.com/CLSherrod/gardening-markdown) - how I keep track of my plants
 - [Contact Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown) - I found most contact system to be too complicated so I made a simple plaintext to maintain contact notes
 
