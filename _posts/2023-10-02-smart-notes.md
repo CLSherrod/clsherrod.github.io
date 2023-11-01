@@ -209,10 +209,10 @@ Folders with project related files are name YYYY-MM-DD and a project name with p
 ### Additional Resources
 I’ve created some markdown projects to help me organize things in my life.
 - [Home Manual Markdown](https://github.com/CLSherrod/home-manual-markdown)
-- [Gardening Markdown](https://github.com/CLSherrod/gardening-markdown)
-- [Contact Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown)
+- [Gardening Markdown](https://github.com/CLSherrod/gardening-markdown) - how I keep track of my plants
+- [Contact Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown) - simple plaintext to maintain contact notes
 
-### Addtional Resources - Books & Videos
+### Books & Videos
 - [Building A Second Brain Book](https://amzn.to/3OXMQmU)
 - [Using Obsidian MD](https://youtu.be/QgbLb6QCK88)
 - [Johnny Decimal System Video](https://youtu.be/xC1bTRHFXXc)
