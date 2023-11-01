@@ -216,6 +216,6 @@ I’ve created some markdown projects to help me organize things in my life. I h
 - [Building A Second Brain Book](https://amzn.to/3OXMQmU)
 - [Using Obsidian MD](https://youtu.be/QgbLb6QCK88)
 - [Johnny Decimal System Video](https://youtu.be/xC1bTRHFXXc)
-- [Home system folder structure](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home/root).
+- [Home system folder structure](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home/root)
 - [Todo.txt](http://todotxt.org) - simple to dos in a plain text file
 - [File Structure For Life](https://plaintext-productivity.net/3-02-file-folder-structure-for-life.html)
