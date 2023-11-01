@@ -207,7 +207,10 @@ I also have found structuring my files not in my smart note system in a folder s
 Folders with project related files are name YYYY-MM-DD and a project name with project names for folders
 
 ### Additional Resources
-I’ve created some markdown projects 
+I’ve created some markdown projects to help me organize things in my life.
+- [Home Manual Markdown](https://github.com/CLSherrod/home-manual-markdown)
+- [Gardening Markdown](https://github.com/CLSherrod/gardening-markdown)
+- []
 
 ### Books & Videos
 - [Building A Second Brain Book](https://amzn.to/3OXMQmU)
