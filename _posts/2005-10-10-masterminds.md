@@ -77,7 +77,11 @@ In an authentic mastermind, leaders are open to questions and discussions about 
 
 In summary, staying vigilant about these indicators can help you avoid inauthentic mastermind groups and ensure you find a genuine community for collaboration, learning, and growth.
 
-## 
+## How To Setup Up A Mastermind Group
+1. Identify speakers with complementary businesses, similar career levels and shared values. The diversity of the group is a strength, and everyone should have something they can bring to the party in the way of expertise. Be careful that there is not too much disparity between experience levels, or the sharing of ideas may not be as relevant. Shared values underpin everything you do as a group.
+2. Determine a purpose. There are many different reasons why your mastermind might meet, ranging from lead sharing to being a support group or some mix of different elements. Be very clear on what you’re trying to accomplish. The more specific you are, the more productive you’ll be.
+3. Establish guidelines. Talk about meeting time, length and attendance, and address the soft issues around how you treat each other. Melanie Mills puts it well when she says, “Establish guidelines for how you operate with each other like not putting down other speakers, a solutions-orientation versus a problem-orientation, sharing time so nobody dominates, confidentiality, and mutual respect. This is probably the most important step as it creates the atmosphere for you to operate in. I would keep them simple but clear.”
+4. Pick a leader. Whether this person holds the position forever or temporarily is less important than the need for someone who will coordinate schedules and meeting locations. Scott Friedman served unselfishly in this capacity for our group.</p>
 
 ## Dynamic Evolution: The Lifecycle of Mastermind Groups in Entrepreneurship
 A mastermind group is a tight-knit community of like-minded entrepreneurs who come together to exchange ideas and address mutual concerns. These groups form organically and may dissolve when circumstances dictate.
