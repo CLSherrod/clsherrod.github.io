@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Play Prosperity Games: A Resounding Success and the Birth of Creative Ideas"
+title: "Play Prosperity Games Dinner Party: A Night of Creative Fun and Unique Ideas"
 date: 2007-03-05
 last_modified_at: 2023-11-02
 tags: idea-generation
@@ -16,7 +16,7 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/articles/repetition-cover.webp
 ---
- I had another Play Prosperity Games Dinner Party Friday night in Austin Texas.
+I had another Play Prosperity Games Dinner Party Friday night in Austin Texas.
 
 We had so much fun I forgot to take pictures.
 
