@@ -1,10 +1,9 @@
 ---
 layout: article
-title: "How Smart Notes Transformed My Productivity and Well-being"
-date: 2023-10-02
-last_modified_at: 2023-10-15
-tags: workflow-apps implementing
-permalink: /smart-notes/
+title: "Steve Irwin: A Life Lived Full Out, A Lesson for Entrepreneurs"
+date: 2006-09-08
+last_modified_at: 2023-11-02
+tags: entreprenuer
 published: true
 comments: true
 aside:
