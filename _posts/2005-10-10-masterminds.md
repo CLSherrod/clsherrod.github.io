@@ -15,7 +15,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/recommended-apps-cover.webp
+    src: /assets/images/articles/welcome-cover.webp
 ---
 <p>Hot Seat Format: Each MM member has specific problem solving/planning session whereby members contribute to the Hot Seat person?s needs. One meeting may be devoted to one individual or each individual may have 15-20 minutes in the Hot Seat each meeting. The Hot Seat selects their topic and can prepare and send information in advance.</p>
 <p>Topic Format: A topic is chosen for each meeting and members bring in a sample of their work pertaining to the topic. her personnel policy, Vacation/Sick time policy. Job Applications etc. Each member is asked to bring one resource article that they have used previously or to find one article from current reading.</p>
