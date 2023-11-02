@@ -14,7 +14,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/repetition-cover.webp
+    src: /assets/images/articles/play-prosperity-games-cover.webp
 ---
 The second Play Prosperity Games dinner was a huge hit.  Feedback is great.  Everyone really enjoyed the game we played.  And the ideas were great and based on what people love.  Some truly great ideas were created.  I look forward to people implementing them and then I’ll let you all know about them.
 
