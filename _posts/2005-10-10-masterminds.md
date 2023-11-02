@@ -65,7 +65,7 @@ Each member recruits a speaker for a meeting?s first hour. The second hour is sp
 
 According to an article I found which I posted under this article, only 11.5% rely solely on the telephone to conduct meetings. Nearly all (91.6%) of the interviewed survey participants indicated that at least part of their Master Mind interactions take place in person.  Nearly half (48.2%) of the online survey participants who actively participate in a Master Mind group fall within the category of having 2 to 7 members; the most common number was 4 members, reported by 13.2%. However, a startling 42.6% of online survey respondents reported that their group consisted of 10 or more members, a statistic that leads us to believe that their concept of a Master Mind network differs from the traditional format.  The average number of participants in the Mastermind groups of the interviewed business owners was 5 members, a figure closer to the norm.
 
-## Fake Mastermind Groups
+## Spotting Inauthentic Mastermind Groups
 I’ve run into a few fake mastermind groups. Here is some advice on avoiding them.
 
 ### Huge Groups
