@@ -3,9 +3,9 @@ layout: article
 title: "Unlocking Success: The Power of Masterminds in Personal Growth"
 date: 2005-10-10
 last_modified_at: 2023-11-02
-tags: workflow-apps implementing
-permalink: /workflow/
-published: true
+tags: entrepreneurship
+permalink: /masterminds/
+published: false
 comments: true
 aside:
   toc: true
