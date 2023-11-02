@@ -1,9 +1,9 @@
 ---
 layout: article
-title: "Steve Irwin: A Life Lived Full Out, A Lesson for Entrepreneurs"
-date: 2006-09-08
+title: "Play Prosperity Games: A Resounding Success and the Birth of Creative Ideas"
+date: 2007-03-05
 last_modified_at: 2023-11-02
-tags: entrepreneurship
+tags: idea-generation
 published: true
 comments: true
 aside:
