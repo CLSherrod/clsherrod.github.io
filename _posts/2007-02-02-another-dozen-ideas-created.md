@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Another dozen ideas created"
+title: "Play Prosperity Games: A Resounding Success and the Birth of Creative Ideas"
 date: 2007-02-02
 last_modified_at: 2023-11-03
 tags: idea-generation
