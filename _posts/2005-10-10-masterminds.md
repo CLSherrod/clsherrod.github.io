@@ -1,10 +1,10 @@
 ---
 layout: article
-title: MastermindsFormat of meetings
-date: 2005-10-10 05:38:59.000000000 -05:00
+title: Unlocking Success: The Power of Masterminds in Personal Growth
+date: 2005-10-10
 type: post
 parent_id: ‘0’
-published: true
+published: false
 password: ’'
 status: draft
 categories:
