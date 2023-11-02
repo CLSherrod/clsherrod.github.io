@@ -63,4 +63,23 @@ The group chooses a book and reads and discusses one topic per month. Can be sup
 ### Guest Speaker Format
 Each member recruits a speaker for a meeting?s first hour. The second hour is spent discussing the topic and any homework assigned to back up the topic.
 
-According to an article I found which I posted under this article, only 11.5% rely solely on the telephone to conduct meetings. Nearly all (91.6%) of the interviewed survey participants indicated that at least part of their Master Mind interactions take place in person.  Nearly half (48.2%) of the online survey participants who actively participate in a Master Mind group fall within the category of having 2 to 7 members; the most common number was 4 members, reported by 13.2%. However, a startling 42.6% of online survey respondents reported that their group consisted of 10 or more members, a statistic that leads us to believe that their concept of a Master Mind network differs from the traditional format.  The average number of participants in the Mastermind groups of the interviewed business owners was 5 members, a figure closer to the norm.</p>
+According to an article I found which I posted under this article, only 11.5% rely solely on the telephone to conduct meetings. Nearly all (91.6%) of the interviewed survey participants indicated that at least part of their Master Mind interactions take place in person.  Nearly half (48.2%) of the online survey participants who actively participate in a Master Mind group fall within the category of having 2 to 7 members; the most common number was 4 members, reported by 13.2%. However, a startling 42.6% of online survey respondents reported that their group consisted of 10 or more members, a statistic that leads us to believe that their concept of a Master Mind network differs from the traditional format.  The average number of participants in the Mastermind groups of the interviewed business owners was 5 members, a figure closer to the norm.
+
+## Fake Mastermind Groups
+I’ve run into a few fake mastermind groups. Here is some advice on avoiding them.
+
+### Huge Groups
+If there are more than 10 members and no one but the paid host can talk then it’s not a mastermind. It may be sold in their marketing as a mastermind but it’s not. It’s a just a group call.
+
+### No Contact Info
+If it’s a group that acts like a mastermind but you don’t know the other members and not allowed to have their contact information. I’ve seen this go so far as actively not letting people mingle before or after an in-person meeting.
+
+### Avoiding Questions
+If a paid leader of a group marketed like a mastermind avoids questions. Even going so far as hanging up the phone or kicking you off a conference because you’re asking questions about the format of the meeting then it isn’t a good match.
+
+## Real Masterminds
+A mastermind group is a tight-knit community of like-minded entrepreneurs who come together to exchange ideas and address mutual concerns. These groups form organically and may dissolve when circumstances dictate.
+
+I’ve experienced mastermind groups that disbanded because a member or two achieved substantial growth, making it challenging for the smaller members to stay relevant. In other cases, some participants found themselves unable to contribute meaningfully to the meetings due to a lack of relevant experiences or insights.
+
+Occasionally, the significant disparities in individual growth within the group can create awkward dynamics. In such situations, it’s often best to allow individuals to find a better-suited group, where their needs and contributions align more seamlessly. Joining a different mastermind group that’s a better match can be a refreshing start, and remember, these groups aren’t necessarily meant to be permanent fixtures in your entrepreneurial journey.
