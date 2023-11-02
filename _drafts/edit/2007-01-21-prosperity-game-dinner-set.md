@@ -1,3 +1,0 @@
-
-<div class="pullquote_right">Play Prosperity Games</div>
-<p>I just sent out invitations to my friends for the first Play Prosperity Games pot luck dinner. We are going to get together and play some of the games that I outline in my soon to be published book Play Prosperity Games. I'm very excited because my vision is coming together. I went to a dinner with a lot of advanced manifestors last night. I talked to Joe Vitale, Bill Hibbler and Nerissa Oden amongst others. Many loved my idea for my book. I got a lot of good feedback and look forward to doing some joint ventures with some people when I go to Pat O'Bryans Unseminar in mid February.</p>
