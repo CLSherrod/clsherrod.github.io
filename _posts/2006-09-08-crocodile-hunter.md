@@ -3,7 +3,7 @@ layout: article
 title: "Steve Irwin: A Life Lived Full Out, A Lesson for Entrepreneurs"
 date: 2006-09-08
 last_modified_at: 2023-11-02
-tags: entreprenuer
+tags: entreprenuership
 published: true
 comments: true
 aside:
