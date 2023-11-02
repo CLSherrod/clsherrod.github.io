@@ -83,6 +83,18 @@ In summary, staying vigilant about these indicators can help you avoid inauthent
 3. Establish guidelines. Talk about meeting time, length and attendance, and address the soft issues around how you treat each other. Melanie Mills puts it well when she says, “Establish guidelines for how you operate with each other like not putting down other speakers, a solutions-orientation versus a problem-orientation, sharing time so nobody dominates, confidentiality, and mutual respect. This is probably the most important step as it creates the atmosphere for you to operate in. I would keep them simple but clear.”
 4. Pick a leader. Whether this person holds the position forever or temporarily is less important than the need for someone who will coordinate schedules and meeting locations. You can rotate the leader.
 
+## Building a Strong Mastermind Group: The Art of Screening and Sustaining Commitment
+
+Before admitting new members to your Mastermind Group, it’s essential to screen them to ensure they fit into the existing group and are genuinely committed. Decide in advance on the ideal group size (usually 5-8 members) and only accept new members with unanimous consent from the existing group.
+
+- Do you have a personal or business mission or vision statement?
+- What are your five-year goals?
+- Where will you find time to participate in the MasterMind Group?
+- What is your commitment to advancing in your business and personal life?
+- Why should you be chosen to participate in this group?
+
+Even with a screening process, your group may encounter individuals who initially claim commitment but then fail to participate or who profess honesty but breach the group’s trust. Be ready to promptly address these issues by asking non-participating or untrustworthy members to leave the group. This action is necessary to uphold the group’s energy and ensure an enjoyable experience for all.
+
 ## Dynamic Evolution: The Lifecycle of Mastermind Groups in Entrepreneurship
 A mastermind group is a tight-knit community of like-minded entrepreneurs who come together to exchange ideas and address mutual concerns. These groups form organically and may dissolve when circumstances dictate.
 
