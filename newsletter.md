@@ -3,10 +3,12 @@ layout: article
 title: Releases by Christopher Sherrod
 permalink: /newsletter/
 ---
-I rarely email and it’s just for notifications when I write a new article or launch a new book or project.
+## Stay in the Loop with Christopher Sherrod: Notifications on New Articles, Books, and Projects
+I email just for notifications when I write a new article or launch a new book or project.
 
 I never share my people’s email or contact information with anyone, ever.
-I don’t market myself or monitize my notifcations lists, I freely share what has worked for me, not others.
+
+I freely share what has worked for me, not others.
 
 <form action="https://mail.nanakasha.com/subscribe" method="POST" accept-charset="utf-8">
     <label for="name">Name</label>&nbsp;&nbsp;<br>
