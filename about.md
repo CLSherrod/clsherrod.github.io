@@ -13,7 +13,7 @@ I’m a private business owner that has sold everything from software, real esta
 Since I became a full-time entrepreneur in 1996 after five years in the corporate world I’ve learned a lot from my successes and especially failures. I have written my business books and articles here to give back to the community of entrepreneurs. My early mentors helped me understand business and now its my turn to share my experience.
 
 ### Business Philosophy
-Learn about my [Dolphin Entreprenuer philosophy in business](https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/) that I wrote for Social Capital Markets formally Conscious Company Magazine.
+Learn about my [Dolphin Entrepreneur philosophy in business](https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/) that I wrote for Social Capital Markets formally Conscious Company Magazine.
 
 ## Business Author
 As a semi-retired entrepreneur I enjoy writing about my business experiences, see [my articles here](https://christophersherrod.com/archive/).
