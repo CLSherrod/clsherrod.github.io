@@ -1,10 +1,10 @@
 ---
 layout: article
-title: "Top App & Workflow Picks for Creators: 2023 Edition"
+title: "Maximizing Assistant Efficiency: From Hiring to Delegation - 3 Common Problems and 10 Practical Tips"
 date: 2023-01-17
 last_modified_at: 2023-10-03
-tags: workflow-apps implementing
-permalink: /workflow/
+tags: implementing
+permalink: /delegation/
 published: true
 comments: true
 aside:
@@ -15,5 +15,5 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/recommended-apps-cover.webp
+    src: /assets/images/articles/delegation-cover.webp
 ---
