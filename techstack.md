@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [CLSherrod/clsherrod.github.io](https://github.com/CLSherrod/clsherrod.github.io)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|31<br/>Tools used|12/14/23 <br/>Report generated|
+|32<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -195,7 +195,7 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (15)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (16)</h2>
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg'/> RubyGems (8)
 
@@ -211,13 +211,14 @@ Full tech stack [here](/techstack.md)
 |[tzinfo-data](https://rubygems.org/tzinfo-data)|N/A|09/17/23|CLSherrod |MIT|N/A|
 
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (7)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (8)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[@commitlint/cli](https://www.npmjs.com/@commitlint/cli)|v8.3.5|02/02/20|kitian616 |MIT|N/A|
 |[@commitlint/config-conventional](https://www.npmjs.com/@commitlint/config-conventional)|v8.3.4|09/19/23|CLSherrod |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.0|02/02/20|kitian616 |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v4.2.1|02/02/20|kitian616 |MIT|N/A|
 |[stylelint-config-recommended-scss](https://www.npmjs.com/stylelint-config-recommended-scss)|v4.2.0|02/02/20|kitian616 |MIT|N/A|
 |[stylelint-config-standard](https://www.npmjs.com/stylelint-config-standard)|v19.0.0|02/02/20|kitian616 |MIT|N/A|
 |[stylelint-order](https://www.npmjs.com/stylelint-order)|v4.0.0|02/02/20|kitian616 |MIT|N/A|
