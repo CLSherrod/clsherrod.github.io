@@ -47,7 +47,7 @@ Feeney once remarked, “I cannot think of a more personally rewarding and appro
 ## Conclusion
 In tribute to Charles F. Feeney, let us remember that the pinnacle of entrepreneurship is not just about reaching the zenith of success but elevating others along the way.
 
-## Learn More About Feeney
-- [Secret Billionaire: The Chuck Feeney Story - YouTube](https://youtu.be/OMcjxe8slYI?si=6iuZUAnx2nvruos1)
-- [Secret Billionaire -- The Chuck Feeney Story | Independent.ie](https://www.independent.ie/entertainment/secret-billionaire-the-chuck-feeney-story/26533008.html)
-- [Charles Feeney, Who Made a Fortune and Then Gave It Away, Dies at 92 - The New York Times](https://www.nytimes.com/2023/10/09/business/charles-f-feeney-dead.html?unlocked_article_code=wrUgP-vJsid2auGXVb8gV-9awupC8rVtTJHYufW3Ldozsk-xFX6jv8mk5BTVWwrm7c9ZsmUDPjH_z0u0SLVqR7BNlyPpcDbvXCoVmJKREY1kez0Hz2LIAddeAVS5toojDB8v9dSbTXtE3l9TWK5s5ckLaLczwHx1UiFLNA9Bb0K6M-dpUIm2CVgypBEXgXK_SSomFL7Uo_pS9DLDJ6mrdRxftjEWCDiyP_G-vHTJgazYJs47L_9WuZQsnzVXqjo7I9nrO5eATJGIrvxnsokouZr0u_S3eXTrVWI-Qpk4Az0ZXxg6zSf8Mm1UnfbJsWoOMrym60Sp_aNo1drZCsTVig&smid=url-share)
+## Explore Chuck Feeney’s Remarkable Journey
+- [Watch “Secret Billionaire: The Chuck Feeney Story” on YouTube](https://youtu.be/OMcjxe8slYI?si=6iuZUAnx2nvruos1)
+- [Read “Secret Billionaire -- The Chuck Feeney Story” on Independent.ie](https://www.independent.ie/entertainment/secret-billionaire-the-chuck-feeney-story/26533008.html)
+- [Discover Charles Feeney’s Legacy at 92 - The New York Times](https://www.nytimes.com/2023/10/09/business/charles-f-feeney-dead.html?unlocked_article_code=wrUgP-vJsid2auGXVb8gV-9awupC8rVtTJHYufW3Ldozsk-xFX6jv8mk5BTVWwrm7c9ZsmUDPjH_z0u0SLVqR7BNlyPpcDbvXCoVmJKREY1kez0Hz2LIAddeAVS5toojDB8v9dSbTXtE3l9TWK5s5ckLaLczwHx1UiFLNA9Bb0K6M-dpUIm2CVgypBEXgXK_SSomFL7Uo_pS9DLDJ6mrdRxftjEWCDiyP_G-vHTJgazYJs47L_9WuZQsnzVXqjo7I9nrO5eATJGIrvxnsokouZr0u_S3eXTrVWI-Qpk4Az0ZXxg6zSf8Mm1UnfbJsWoOMrym60Sp_aNo1drZCsTVig&smid=url-share)
