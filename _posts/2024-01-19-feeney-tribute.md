@@ -5,7 +5,7 @@ date: 2024-01-19
 last_modified_at: 2024-01-19
 tags: entrepreneurship, tribute
 permalink: /charles-feeney/
-published: false
+published: true
 comments: true
 aside:
   toc: true
