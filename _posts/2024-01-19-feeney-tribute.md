@@ -17,7 +17,7 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/articles/charles-feeney-cover.webp
 ---
-Exploring the Legacy of Charles F. Feeney: A journey beyond entrepreneurship, celebrating a luminary who transformed the world through giving.
+Entrepreneurs, delve into the inspiring journey of Charles F. Feeney, a beacon in philanthropy. Discover how his audacious shift from accumulating wealth to impactful giving redefines entrepreneurial success.
 <!--more--> 
 Every so often, we witness a figure in the entrepreneurial landscape whose actions reverberate with profound impact. Charles F. Feeney was one such individual. Not just for his astute business acumen or the empire he built, but for his unparalleled commitment to giving back. As a fellow entrepreneur, I wish to pay tribute to this stalwart who transformed the world of philanthropy by exemplifying that the true essence of wealth is not in accumulation, but in distribution.
 
