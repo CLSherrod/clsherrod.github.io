@@ -95,6 +95,13 @@ Understanding the marketing, sales, distribution, and risk aspects is crucial fo
 
 While they’re nice places, don’t rely solely on bookstores to sell your book. Recognition frequently occurs before readers enter the store.
 
+### 19. Avoid Book Laundrying
+
+ [The Truth About the New York Times and WSJ Bestseller Lists | Observer](https://observer.com/2016/02/the-truth-about-the-new-york-times-and-wall-street-journal-bestseller-lists/)
+- [The ‘Wall Street Journal’ Drops Its Bestseller Lists](https://www.publishersweekly.com/pw/by-topic/industry-news/publishing-and-marketing/article/93663-the-wall-street-journal-drops-its-bestseller-lists.html)
+- [WSJ Just Killed It’s Bestseller List. Do The Lists Even Matter Anymore?](https://www.linkedin.com/pulse/wsj-just-killed-its-bestseller-list-do-lists-even-matter-bhargava-kwfoe/) - The Wall Street Journal’s decision to discontinue its bestseller lists has sparked discussion about the relevance of such lists in the book market. Bestseller lists are often manipulated, and some argue that book awards programs provide a better source of finding the best books. Awards programs, such as the Axiom Business Book Awards and the National Book Awards, curate valuable lists of the best books based on their content and impact, rather than their sales. It is suggested that media properties produce book awards instead of bestseller lists, and that bookstores dedicate more shelf space to award winners.
+- [WSJ Just Killed Its Bestseller List. Do These Lists Even Matter Anymore? - Rohit Bhargava](https://rohitbhargava.com/wsj-just-killed-its-bestseller-list-do-these-lists-even-matter-anymore/) The Wall Street Journal’s decision to drop its bestseller lists has caused concern in the publishing world. The article questions the relevance of such lists and suggests that prestigious awards may be a better indicator of quality. There is speculation that the WSJ may be retooling its process for creating the list due to attempts to manipulate it.
+
 ### 18. Enjoy the Journey
 
 Writing a book is a journey, not just a task. Embrace it and enjoy the ride.
