@@ -32,25 +32,27 @@ Don’t set your expectations sky-high. Enjoy the process of writing without get
 
 Begin promoting your book at least three years before it hits the shelves. Build your reputation, connect with your audience, and get people excited while you write your book.
 
-### 3. Invest in Editorial Excellence
+### 3. Invest in Editing
 
-Engage a skilled editor, not merely for typos but to transform your narrative into a compelling read. The editorial process should be valued and prioritized. AI is helpful with this step now. Use AI as a writing companion and editor.
+Engage a skilled editor, not merely for typos but to transform your narrative into a compelling read. The editorial process should be valued and prioritized. AI is helpful with this step now. Use AI as a writing companion and editor. You can talk to an AI like a real person and get amazing honest feedback.
 
-### 4. Beyond the Book: Non-Fiction as a Souvenir
+### 4. Share Generously
 
-View a non-fiction book as a vessel for ideas rather than a repository. Share ideas generously; the more you give, the wider they’ll spread.
+Think of your book as a platform for your ideas, not just a product to sell. The more you give, the more you’ll get back.
 
-### 5. Targeted Marketing: Quality Over Quantity
+### 5. Focus Your Marketing
 
-Avoid the futile attempt to cater to everyone. Focus on a niche where you possess permission, credibility, and your book is indispensable.
+Don’t try to appeal to everyone. Find your niche and own it.
 
-### 6. Publicity Predicament: Micromarkets Over Oprah
+### 6. Forget Mainstream Media
 
-Resist the allure of hiring a publicist for mainstream media. Concentrate on micromarkets tailored to your audience’s specific interests.
+Instead of chasing big publicity, focus on reaching your target audience directly.
 
-### 7. Publishing Dilemma: Real vs. Efficient
+Resist the allure of hiring a publicist for mainstream media. 
 
-Consider the trade-offs before investing substantial time in pleasing traditional publishers. Efficient self-publishing might be the key getting it out their quickly.
+### 7. Consider Self-Publishing
+
+Traditional publishing isn’t the only route. Self-publishing can be way faster and more efficient.
 
 ### 8. Judge the Book by its Cover
 
