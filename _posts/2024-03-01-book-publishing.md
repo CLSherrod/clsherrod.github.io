@@ -96,6 +96,7 @@ Understanding the marketing, sales, distribution, and risk aspects is crucial fo
 While they’re nice places, don’t rely solely on bookstores to sell your book. Recognition frequently occurs before readers enter the store.
 
 ### 18. Avoid Book Laundrying
+
 There are companies that will take your money and buy your books to create a fake best seller. Don’t do it. There are numours problems with doing this. Build up your audience and don’t worry about being a best seller.
 
 - [The Truth About the New York Times and WSJ Bestseller Lists | Observer](https://observer.com/2016/02/the-truth-about-the-new-york-times-and-wall-street-journal-bestseller-lists/)
