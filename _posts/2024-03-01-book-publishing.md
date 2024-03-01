@@ -62,21 +62,21 @@ Your book cover is important. It’s the first thing people see, so make sure it
 
 If you’re going the traditional route, make sure you’re involved in decisions about editing, cover design, and promotion.
 
-### 10. The One-Year Reminder
+### 10. Plan Ahead
 
-Remember the importance of a one-year lead for pre-release promotion remains paramount.
+Start promoting your book at least a year before it comes out.
 
-### 11. Blurbs vs. Blog Mentions
+### 11. Get Blogged About
 
-While traditional endorsements may be overrated, mentions in influential blogs can significantly impact your book’s success.
+Influential blogs can do wonders for your book sales.
 
-### 12. Time-Tested Strategies: Signings and Book Clubs
+### 12. Be Patient
 
-Patience is key when engaging in bookstore signings and connecting with book clubs by phone – methods that guarantee results.
+Book signings and connecting with book clubs might take time, but they’re worth it.
 
-### 13. Embrace the PDF Alternative
+### 13. Offer Freebiee
 
-Consider offering free PDF versions. It simplifies access, garners joy without financial constraints, and can attract millions of downloads. Growing your audience is your main goal and doing it directy is highly recommended. A real book is helpful when meeting people in real life and conferences otherwise why not just make it a giveway on your website and drive traffic to it.
+Consider giving away free PDF versions of your book to attract readers. It simplifies access, garners joy without financial constraints, and can attract millions of downloads. Growing your audience is your main goal and doing it directy is highly recommended. A real book is helpful when meeting people in real life and conferences otherwise why not just make it a giveway on your website and drive traffic to it.
 
 ### 14. Connect Outside Traditional Avenues
 
