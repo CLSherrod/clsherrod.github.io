@@ -1,6 +1,6 @@
 ---
 layout: article
-title: “Navigating the Literary Landscape - Lessons from a Veteran Entrepreneur-Author”
+title: Navigating the Literary Landscape - Lessons from a Veteran Entrepreneur-Author
 date: 2024-03-01
 last_modified_at: 2024-03-01
 tags: entrepreneurship books
@@ -17,10 +17,10 @@ article_header:
     gradient: ‘linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))’
     src: /assets/images/articles/books-cover.webp
 ---
-My Advice To Unexpected Encounters in the World of Books
+My Advice For Authors
 <!--more--> 
 
-In the vast realm of literature, where many tens of thousands of books emerge every year, you are on of them that wants to have your book published. Whether you’ve penned a book, are currently navigating the writing process, or aspire to, the following insights offer a strategic compass:
+In the vast realm of literature, where many tens of thousands of books emerge every year, you are one of them that wants to have your book published. Whether you’ve penned a book, are currently navigating the writing process, or aspire to, the following insights offer a strategic compass:
 
 ## Strategic Compass In The Book World
 
