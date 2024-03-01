@@ -20,17 +20,13 @@ article_header:
 My Advice For Business Authors
 <!--more--> 
 
-In the vast realm of literature, where many tens of thousands of books emerge every year, you are one of them that wants to have your book published. 
-
-This advice is for business people wanting to publish their non-fiction book to the world.
-
-Whether you’ve penned a book, are currently navigating the writing process, or aspire to, the following insights offer a strategic compass:
+If you’re diving into the world of writing and publishing, especially in the business realm, I’ve got some tips to share with you.
 
 ## Strategic Compass In The Book World
 
-### 1. Manage Expectations: The Art of Contentment
+### 1. Keep It Realistic
 
-Happiness often accompanies authors who maintain realistic expectations. The joy of writing should surpass anticipation of grandeur.
+Don’t set your expectations sky-high. Enjoy the process of writing without getting caught up in dreams of instant success.
 
 ### 2. Strategic Timing: The Early Bird Gets the Readers
 
