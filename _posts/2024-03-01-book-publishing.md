@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Navigating the Literary Landscape: Lessons from a Veteran Entrepreneur-Author"
+title: "My Advice For Business Authors: Lessons from a Business Author"
 date: 2024-03-01
 last_modified_at: 2024-03-01
 tags: entrepreneurship books
