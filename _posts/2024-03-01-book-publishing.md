@@ -78,7 +78,7 @@ Patience is key when engaging in bookstore signings and connecting with book clu
 
 ### 13. Embrace the PDF Alternative
 
-Consider offering free PDF versions. It simplifies access, garners joy without financial constraints, and can attract millions of downloads. Growing your audience is your main goal and doing it directy is highly recommended.
+Consider offering free PDF versions. It simplifies access, garners joy without financial constraints, and can attract millions of downloads. Growing your audience is your main goal and doing it directy is highly recommended. A real book is helpful when meeting people in real life and conferences otherwise why not just make it a giveway on your website and drive traffic to it.
 
 ### 14. Connect Outside Traditional Avenues
 
