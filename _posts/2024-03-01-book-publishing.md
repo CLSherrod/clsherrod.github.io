@@ -28,9 +28,9 @@ If you’re diving into the world of writing and publishing, especially in the b
 
 Don’t set your expectations sky-high. Enjoy the process of writing without getting caught up in dreams of instant success.
 
-### 2. Strategic Timing: The Early Bird Gets the Readers
+### 2. Start Early
 
-Commence book promotion at least three years before its release. Build a robust foundation of reputation, permission assets, blogs, and a devoted readership.
+Begin promoting your book at least three years before it hits the shelves. Build your reputation, connect with your audience, and get people excited while you write your book.
 
 ### 3. Invest in Editorial Excellence
 
