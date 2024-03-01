@@ -54,13 +54,13 @@ Resist the allure of hiring a publicist for mainstream media.
 
 Traditional publishing isn’t the only route. Self-publishing can be way faster and more efficient.
 
-### 8. Judge the Book by its Cover
+### 8. Design Matters
 
-Your book cover significantly influences readers’ choices. It’s not just an accessory; it’s the first impression of your literary offering. AI is helpful with coming up with a complelling book image.
+Your book cover is important. It’s the first thing people see, so make sure it grabs their attention. AI is helpful with coming up with a complelling book image.
 
-### 9. Enhance Publisher Collaboration
+### 9. Work With Your Publisher
 
-If working with a traditional publisher, invest in elements like pre-editing, collaborative cover design, and securing affordable copies for promotions.
+If you’re going the traditional route, make sure you’re involved in decisions about editing, cover design, and promotion.
 
 ### 10. The One-Year Reminder
 
