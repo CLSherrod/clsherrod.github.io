@@ -9,14 +9,10 @@ published: true
 comments: true
 aside:
   toc: true
-article_header:
-  type: overlay
-  theme: dark
-  background_color: ’#203028’
 ---
 If you’re diving into the world of writing and publishing, especially in the business realm, I’ve got some tips to share with you.
 <!--more--> 
-## Strategic Compass In The Business Book World
+## Strategic Compass In The Business  Book World
 
 ### 1. Keep It Realistic
 
