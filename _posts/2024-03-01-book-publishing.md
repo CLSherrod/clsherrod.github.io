@@ -4,7 +4,7 @@ title: "Navigating the Literary Landscape: Lessons from a Veteran Entrepreneur-A
 date: 2024-03-01
 last_modified_at: 2024-03-01
 tags: entrepreneurship books
-permalink: /book-publishing/
+permalink: /book-advice/
 published: true
 comments: true
 aside:
@@ -17,7 +17,7 @@ article_header:
     gradient: ‘linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))’
     src: /assets/images/articles/books-cover.webp
 ---
-My Advice For Authors
+My Advice For Business Authors
 <!--more--> 
 
 In the vast realm of literature, where many tens of thousands of books emerge every year, you are one of them that wants to have your book published. 
