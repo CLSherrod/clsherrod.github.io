@@ -78,21 +78,25 @@ Book signings and connecting with book clubs might take time, but they’re wort
 
 Consider giving away free PDF versions of your book to attract readers. It simplifies access, garners joy without financial constraints, and can attract millions of downloads. Growing your audience is your main goal and doing it directy is highly recommended. A real book is helpful when meeting people in real life and conferences otherwise why not just make it a giveway on your website and drive traffic to it.
 
-### 14. Connect Outside Traditional Avenues
+### 14. Think Outside the Box
+
+Look for unconventional ways to promote your book beyond traditional channels.
 
 To reach non-traditional book buyers, position yourself where they are – in various media outlets, virtual spaces, and real-world events.
 
-### 15. Caseload Sales: Organizations Matter
+### 15. Bulk Sales Are Key
 
-Many bestsellers thrive on bulk sales to organizations. Target entities purchasing on behalf of members or employees.
+Selling your book in bulk to organizations can really boost your sales.
 
-### 16. Publishing vs. Printing
+### 16. Know the Difference
 
-Distinguish between publishing and printing. Understanding the marketing, sales, distribution, and risk aspects is crucial for success.
+Understand the difference between publishing and printing, and what it means for your book’s success.
 
-### 17. Bookstores: An Honest Appraisal
+Understanding the marketing, sales, distribution, and risk aspects is crucial for success.
 
-While bookstores and their staff are often delightful, they aren’t always the most effective business platforms. Recognition frequently occurs before readers enter the store.
+### 17. Bookstores Aren’t Everything
+
+While they’re nice places, don’t rely solely on bookstores to sell your book. Recognition frequently occurs before readers enter the store.
 
 ### 18. The Invaluable Experience
 
