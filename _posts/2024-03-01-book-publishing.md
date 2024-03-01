@@ -20,7 +20,11 @@ article_header:
 My Advice For Authors
 <!--more--> 
 
-In the vast realm of literature, where many tens of thousands of books emerge every year, you are one of them that wants to have your book published. Whether you’ve penned a book, are currently navigating the writing process, or aspire to, the following insights offer a strategic compass:
+In the vast realm of literature, where many tens of thousands of books emerge every year, you are one of them that wants to have your book published. 
+
+This advice is for business people wanting to publish their non-fiction book to the world.
+
+Whether you’ve penned a book, are currently navigating the writing process, or aspire to, the following insights offer a strategic compass:
 
 ## Strategic Compass In The Book World
 
@@ -34,7 +38,7 @@ Commence book promotion at least three years before its release. Build a robust 
 
 ### 3. Invest in Editorial Excellence
 
-Engage a skilled editor, not merely for typos but to transform your narrative into a compelling read. The editorial process should be valued and prioritized. AI is helpful with this step now. Use AI as a writing companion.
+Engage a skilled editor, not merely for typos but to transform your narrative into a compelling read. The editorial process should be valued and prioritized. AI is helpful with this step now. Use AI as a writing companion and editor.
 
 ### 4. Beyond the Book: Non-Fiction as a Souvenir
 
@@ -50,7 +54,7 @@ Resist the allure of hiring a publicist for mainstream media. Concentrate on mic
 
 ### 7. Publishing Dilemma: Real vs. Efficient
 
-Consider the trade-offs before investing substantial time in pleasing traditional publishers. Efficient self-publishing might be the key to a brilliant book’s swift dissemination.
+Consider the trade-offs before investing substantial time in pleasing traditional publishers. Efficient self-publishing might be the key getting it out their quickly.
 
 ### 8. Judge the Book by its Cover
 
