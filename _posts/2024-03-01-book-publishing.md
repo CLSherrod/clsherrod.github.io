@@ -17,11 +17,8 @@ article_header:
     gradient: ‘linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))’
     src: /assets/images/articles/books-cover.webp
 ---
-My Advice For Business Authors
-<!--more--> 
-
 If you’re diving into the world of writing and publishing, especially in the business realm, I’ve got some tips to share with you.
-
+<!--more--> 
 ## Strategic Compass In The Book World
 
 ### 1. Keep It Realistic
