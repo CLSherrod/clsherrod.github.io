@@ -105,5 +105,6 @@ Writing a book is a journey, not just a task. Embrace it and enjoy the ride.
 It stimulates intellectual growth, refines thoughts, builds credibility, and serves as a perpetual marketing engine.
 
 ## Conclusion: A Literary Odyssey
-I had a great time selling my book in-person and it helped get clients many years ago. It eventually got on Amazon Kindle.
+I had a great time selling my book in-person and it helped get clients many years ago. I eventually got it on Amazon Kindle and shared it with my audience as well.
+
 In conclusion, whether you’re a seasoned entrepreneur or a budding author, navigating the world of business writing can be daunting. But armed with the right strategies and a dose of perseverance, you can make a meaningful impact with your book. Remember, it’s not just about crafting words on a page; it’s about connecting with your audience, sharing valuable insights, and leaving a lasting impression. So embrace the journey, stay true to your vision, and let your entrepreneurial spirit guide you as you embark on this literary adventure.
