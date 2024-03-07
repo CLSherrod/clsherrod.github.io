@@ -37,4 +37,4 @@ You can [receive updates from me via email](https://christophersherrod.com/newsl
 ## Colophon
 This site is written in plain text markdown format. My [smart note system](https://christophersherrod.com/smart-notes/) is plain text markdown format and that’s where these are articles I’ve written here start.
 
-My plain text files are compiled using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](github.com).
+My plain text files are compiled using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](https://github.com).
