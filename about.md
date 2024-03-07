@@ -14,7 +14,7 @@ I’m semi-retired and now focus only on newsletter-driven educational businesse
 
 Since I became a full-time entrepreneur in 1996 after five years in the corporate world I’ve learned a lot from my successes and especially failures. I have written my business books and articles here to give back to the community of entrepreneurs. My early mentors helped me understand business and now its my turn to share my experience.
 
-### Business Philosophy
+## Business Philosophy
 Learn about my [Dolphin Entrepreneur philosophy in business](https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/) that I wrote for Social Capital Markets formally Conscious Company Magazine.
 
 ## Business Author
@@ -37,4 +37,4 @@ You can [receive updates from me via email](https://christophersherrod.com/newsl
 ## Colophon
 This site is written in plain text markdown format. My [smart note system](https://christophersherrod.com/smart-notes/) is plain text markdown format and that’s where these are articles I’ve written here start.
 
-My plain text files are compiled using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](https://github.com).
+My plain text files are compiled using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub](github.com).
