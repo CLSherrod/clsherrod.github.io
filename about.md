@@ -32,7 +32,7 @@ As a semi-retired entrepreneur I enjoy writing about my business experiences, se
 You can [receive updates from me via email](https://christophersherrod.com/newsletter/) or follow me:
 - RSS Feed: [christophersherrod.com/feed.xml](https://christophersherrod.com/feed.xml)
 - Mastodon: [pkm.social/@chris](https://pkm.social/@chris)
-- Github: [https://github.com/clsherrod](https://github.com/clsherrod)
+- Github: [github.com/clsherrod](https://github.com/clsherrod)
 
 ## Colophon
 This site is written in plain text markdown format. [My smart note system](https://christophersherrod.com/smart-notes/) are plain text markdown format files and that’s where these are articles I’ve written here start.
