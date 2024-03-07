@@ -34,3 +34,5 @@ You can [receive updates from me via email](https://christophersherrod.com/newsl
 - Mastodon: [pkm.social/@chris](https://pkm.social/@chris)
 - Github: [https://github.com/clsherrod](https://github.com/clsherrod)
 
+## Colophon
+This site is written in plain text markdown format.
