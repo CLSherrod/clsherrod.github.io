@@ -31,4 +31,6 @@ As a semi-retired entrepreneur I enjoy writing about my business experiences, se
 ## Keep In Touch
 You can [receive updates from me via email](https://christophersherrod.com/newsletter/) or follow me:
 - RSS Feed: [christophersherrod.com/feed.xml](https://christophersherrod.com/feed.xml)
+- Mastodon: [pkm.social/@chris](https://pkm.social/@chris)
+- Github: [https://github.com/clsherrod](https://github.com/clsherrod)
 - 
