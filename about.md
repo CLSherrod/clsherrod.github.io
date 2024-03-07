@@ -4,7 +4,7 @@ title: About Christopher Sherrod
 key: page-about
 permalink: /about/
 ---
-<div style="width:20%; margin:0 auto;" align="right" markdown="1">
+<div style="width:50%; margin:0 auto;" align="right" markdown="1">
 ![image-right](/assets/images/avatar.webp){:.circle.shadow}{: .align-right}
 </div>
 ## From Software to Entrepreneurship: My Journey and Insights
