@@ -29,4 +29,6 @@ As a semi-retired entrepreneur I enjoy writing about my business experiences, se
 - See [Projects](https://christophersherrod.com/projects) for a full list of past projects.
 
 ## Keep In Touch
-You can [receive updates from me via email] or follow me:
+You can [receive updates from me via email](https://christophersherrod.com/newsletter/) or follow me:
+- RSS Feed: [christophersherrod.com/feed.xml](https://christophersherrod.com/feed.xml)
+- 
