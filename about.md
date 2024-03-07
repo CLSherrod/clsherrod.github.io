@@ -33,4 +33,4 @@ You can [receive updates from me via email](https://christophersherrod.com/newsl
 - RSS Feed: [christophersherrod.com/feed.xml](https://christophersherrod.com/feed.xml)
 - Mastodon: [pkm.social/@chris](https://pkm.social/@chris)
 - Github: [https://github.com/clsherrod](https://github.com/clsherrod)
-- 
+
