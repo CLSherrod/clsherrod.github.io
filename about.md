@@ -38,3 +38,5 @@ You can [receive updates from me via email](https://christophersherrod.com/newsl
 This site is written in plain text markdown format. [My smart note system](https://christophersherrod.com/smart-notes/) are plain text markdown format files and that’s where these are articles I’ve written here start.
 
 My plain text files are compiled using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com).
+
+My Jekyll template is not public, but I recommend [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt.
