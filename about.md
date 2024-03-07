@@ -4,8 +4,8 @@ title: About Christopher Sherrod
 key: page-about
 permalink: /about/
 ---
-<div style="width:25%; margin:0 auto;" align="right" markdown="1">
-![image-right](/assets/images/avatar.webp){: .align-right}
+<div style="width:25%; margin:0 auto;" align="center" markdown="1">
+![image-center](/assets/images/avatar.webp){: .align-center}
 </div>
 ## From Software to Entrepreneurship: My Journey and Insights
 I’m a private business owner that has sold everything from software, real estate, info-products, and the former owner of a marketing agency with a distributed team in the Philipines, Ireland, Panama, and India. I’ve been on the Internet since college in 1988. I was an early adopter of WordPress back when it was in Beta and still use it for most projects (except this website).
