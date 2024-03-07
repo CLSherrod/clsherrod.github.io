@@ -17,7 +17,7 @@ article_header:
     src: /assets/images/articles/play-prosperity-games-cover.webp
 ---
 I had another Play Prosperity Games Dinner Party Friday night in Austin Texas.
-
+<!--more-->
 We had so much fun I forgot to take pictures.
 
 On one of my anonymous feedback forms someone stated that there was too many ideas and to limit it.  I take that as a compliment.  Thank you so much.  I want people to have so many ideas that they pick the one that resonates with them the most.  It is a matter of feeling the inspiration.

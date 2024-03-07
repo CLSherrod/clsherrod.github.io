@@ -16,4 +16,6 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/articles/play-prosperity-games-cover.webp
 ---
-I just sent out invitations to my friends for the first Play Prosperity Games pot luck dinner. We are going to get together and play some of the games that I outline in my soon to be published book Play Prosperity Games. I’m very excited because my vision is coming together. I went to a dinner with a lot of advanced manifestors last night. Many loved my idea for my book. I got a lot of good feedback.
+I just sent out invitations to my friends for the first Play Prosperity Games pot luck dinner. 
+<!--more-->
+We are going to get together and play some of the games that I outline in my soon to be published book Play Prosperity Games. I’m very excited because my vision is coming together. I went to a dinner with a lot of advanced manifestors last night. Many loved my idea for my book. I got a lot of good feedback.

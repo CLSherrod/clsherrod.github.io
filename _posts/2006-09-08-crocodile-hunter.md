@@ -16,10 +16,8 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/articles/repetition-cover.webp
 ---
-I’m different from the normal crowd.
-
 When I heard of Steve Irwin’s death, it gave me a smile.  Not because I’m glad he is dead.  I’m actually quite sad.  It has taken me almost a week to write this article.  I’m happy that someone lived their life full out.  So many people live mediocre lives.
-
+<!--more-->
 Steve did what he loved.  Can you imagine him doing anything else?
 
 “Would you like fries with that?”
