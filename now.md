@@ -20,6 +20,10 @@ I’m currently going thru my photo slides collection and scanning in photos for
 I recently started writing poems for my love, family and friends for fun. Some have encouraged me to put them together into a collection. So, I’m focusing on writing about the big moments in life and getting feedback from family and friends.
 
 ## Currently Reading
-I’m reading You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein
+I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
+
+## Last Read Book
+
+
 ## Enjoying My Cats
 It’s been 10 months since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing. They are both welcomed members of the family.
