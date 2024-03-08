@@ -3,6 +3,10 @@ layout: article
 title: What I'm Doing Now - Christopher Sherrod
 permalink: /now/
 ---
+(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
+
+Updated March 8th, 2024, from my home in Mexico.
+
 ## Writing
 - Write a weekly newsletter in a niche
 - Writing occasional business articles here based on what I learn.
