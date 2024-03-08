@@ -217,6 +217,7 @@ Folders with project related files are name YYYY-MM-DD and a project name with p
 I also liked this article [File Structure For Life](https://plaintext-productivity.net/3-02-file-folder-structure-for-life.html).
 
 ### Books & Videos
-- [Building A Second Brain](https://amzn.to/3OXMQmU) - good introductary book (on Amazon)
+- [Building A Second Brain](https://amzn.to/3OXMQmU) - good introductory book (on Amazon)
 - [Using Obsidian MD](https://youtu.be/QgbLb6QCK88) - nice video on the basic of using Obsidian MD (YouTube Video)
+- [Using Obisidian Bookmarks](https://medium.com/obsidian-observer/zen-like-focus-with-obsidian-bookmarks-a60d24382eb)
 - [Johnny Decimal System Video](https://youtu.be/xC1bTRHFXXc) - vault folder naming system I use (YouTube Video)
