@@ -7,9 +7,8 @@ permalink: /now/
 
 Updated March 8th, 2024, from my home in Mexico.
 
-## Writing
-- Write a weekly newsletter in a niche
-- Writing occasional business articles here based on what I learn.
+## Finished a new article
+- Published a new article [My Advice For Business Authors: Lessons from a Business Author](https://christophersherrod.com/book-advice/).
 
 **A few popular articles related to business:**
 - [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](https://christophersherrod.com/dolphin-entrepreneur/) - my business philosophy
