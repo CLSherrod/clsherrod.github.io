@@ -8,7 +8,7 @@ permalink: /now/
 Updated March 8th, 2024, from my home in Mexico.
 
 ## Finished a new article
-- Published a new article [My Advice For Business Authors: Lessons from a Business Author](https://christophersherrod.com/book-advice/).
+I published a new article [My Advice For Business Authors: Lessons from a Business Author](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about publishing a book.
 
 **A few popular articles related to business:**
 - [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](https://christophersherrod.com/dolphin-entrepreneur/) - my business philosophy
