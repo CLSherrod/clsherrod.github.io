@@ -10,6 +10,8 @@ Updated March 8th, 2024, from my home in Mexico.
 ## Finished a new article
 I published a new article [My Advice For Business Authors: Lessons from a Business Author](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about publishing a book.
 
+## Updated an article
+
 **A few popular articles related to business:**
 - [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](https://christophersherrod.com/dolphin-entrepreneur/) - my business philosophy
 - [The Power of Quick Implementation in a Fast-Paced World](https://christophersherrod.com/implement-quickly/) - my advice on creating your MVP (minimum viable product)
