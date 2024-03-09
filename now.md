@@ -8,9 +8,9 @@ permalink: /now/
 Updated March 9th, 2024.
 
 ## Recently Published
-- **Published An Article On Self-Publishing A Book** - I published a new article [My Advice For Business Authors: Lessons from a Business Author](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about self-publishing a book.
-- **Published An Expat Weekly Newsletter** - I published [Reflections from the Charity Jazz Festival and Insights on Community Living](https://expatrebel.com/2024-03-02/) article for Expat Rebel.
-- **Updated My Workflow Article** - I updated my team workflow article for 2024 [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing.
+- New article [My Advice For Business Authors: Lessons from a Business Author](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about self-publishing a book.
+- New expat newsletter [Reflections from the Charity Jazz Festival and Insights on Community Living](https://expatrebel.com/2024-03-02/) for Expat Rebel.
+- I updated my team workflow article for 2024 [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing.
 
 ## Currently Writing
 - **Wilderness Tales: A Childhood in Alaska** - I’m currently going thru my photo slides collection and scanning in photos for a future book about my childhood in Alaska with float planes and wolf dogs. It’s a lot of fun seeing memories from the 70s. What an adventure I had living on a float plane lake and seeing parts of Alaska not seen by many.
