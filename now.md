@@ -34,9 +34,8 @@ I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, 
 - I also read [Email Reputation Explained Well](https://amzn.to/3V9gzwA) which helped me clean up my newsletter lists and increase my deliverability.
 
 ## Watching
-I love watching foreign movies. A different perspective. Recently I enjoyed [Restore Point](https://www.imdb.com/title/tt9362492/?ref_=fn_al_tt_1) a good sci-fi movie from the Czech Republic.
-
-I enjoyed the show [Echo](https://www.imdb.com/title/tt13966962/?ref_=rt_li_tt) and especially the ending. Being part Native American and from Oklahoma it was nice to see a tribe being represented in media. This and [Reservation Dogs](https://www.imdb.com/title/tt13623580/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_reservation%2520dogs) have made a big contribution in representation. I hope more will continue to come out.
+- I love watching foreign movies. A different perspective. Recently I enjoyed [Restore Point](https://www.imdb.com/title/tt9362492/?ref_=fn_al_tt_1) a good sci-fi movie from the Czech Republic.
+- I enjoyed the show [Echo](https://www.imdb.com/title/tt13966962/?ref_=rt_li_tt) and especially the ending. Being part Native American and from Oklahoma it was nice to see a tribe being represented in media. This and [Reservation Dogs](https://www.imdb.com/title/tt13623580/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_reservation%2520dogs) have made a big contribution in representation. I hope more will continue to come out.
 
 ## Enjoying My Cats
 It’s been 10 months since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing. They are both welcomed members of the family.
