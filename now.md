@@ -30,9 +30,8 @@ I recently started writing poems for my love, family and friends for fun. Some h
 I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
 
 ### Last Read Books
-I read a very quick short book [Generative AI for Busy Business Leaders: How to Use AI With Your Team (A short book that covers simple frameworks and strategies for using gen AI at work)](https://amzn.to/436CyX3) which gave some ideas on how to implement AI into my business.
-
-I read [Email Reputation Explained Well](https://amzn.to/3V9gzwA) which helped me clean up my newsletter lists and increase my deliverability.
+- I read [Generative AI for Busy Business Leaders: How to Use AI With Your Team (A short book that covers simple frameworks and strategies for using gen AI at work)](https://amzn.to/436CyX3) which gave some ideas on how to implement AI into my business.
+- I also read [Email Reputation Explained Well](https://amzn.to/3V9gzwA) which helped me clean up my newsletter lists and increase my deliverability.
 
 ## Watching
 I love watching foreign movies. A different perspective. Recently I enjoyed [Restore Point](https://www.imdb.com/title/tt9362492/?ref_=fn_al_tt_1) a good sci-fi movie from the Czech Republic.
