@@ -20,9 +20,7 @@ I updated my team workflow article for 2024 [Creators Recommend Apps & Workflow]
 
 ## Currently Writing
 - **Wilderness Tales: A Childhood in Alaska** - I’m currently going thru my photo slides collection and scanning in photos for a future book about my childhood in Alaska with float planes and wolf dogs. It’s a lot of fun seeing memories from the 70s. What an adventure I had living on a float plane lake and seeing parts of Alaska not seen by many.
-
-### Writing A Poem Collection
-I recently started writing poems for my love, family and friends for fun. Some have encouraged me to put them together into a collection. So, I’m focusing on writing about the big moments in life and getting feedback from family and friends.
+- **Nan’s Love: Poems from the Heart** - I recently started writing poems for my love, family and friends for fun. Some have encouraged me to put them together into a collection. So, I’m focusing on writing about the big moments in life and getting feedback from family and friends.
 
 ## Reading
 ### Currently Reading
