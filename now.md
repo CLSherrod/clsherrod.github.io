@@ -33,7 +33,7 @@ I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, 
 - I read [Generative AI for Busy Business Leaders: How to Use AI With Your Team (A short book that covers simple frameworks and strategies for using gen AI at work)](https://amzn.to/436CyX3) which gave some ideas on how to implement AI into my business.
 - I also read [Email Reputation Explained Well](https://amzn.to/3V9gzwA) which helped me clean up my newsletter lists and increase my deliverability.
 
-## Watching
+## Watched
 - I love watching foreign movies. A different perspective. Recently I enjoyed [Restore Point](https://www.imdb.com/title/tt9362492/?ref_=fn_al_tt_1) a good sci-fi movie from the Czech Republic.
 - I enjoyed the show [Echo](https://www.imdb.com/title/tt13966962/?ref_=rt_li_tt) and especially the ending. Being part Native American and from Oklahoma it was nice to see a tribe being represented in media. This and [Reservation Dogs](https://www.imdb.com/title/tt13623580/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_reservation%2520dogs) have made a big contribution in representation. I hope more will continue to come out.
 
