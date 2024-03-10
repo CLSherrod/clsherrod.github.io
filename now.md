@@ -5,11 +5,11 @@ permalink: /now/
 ---
 (This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
 
-Updated March 9th, 2024.
+Updated March 10th, 2024.
 
 ## Recently Published
+- New expat newsletter [Expats’ Guide to Political Seasons + Latest Expat & Travel Updates 🇲🇽✨](https://expatrebel.com/2024-03-09/) for Expat Rebel.
 - New article [My Advice For Expert Authors](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about self-publishing a book.
-- New expat newsletter [Reflections from the Charity Jazz Festival and Insights on Community Living](https://expatrebel.com/2024-03-02/) for Expat Rebel.
 - I updated my team workflow article for 2024 [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing.
 
 ## Currently Writing
