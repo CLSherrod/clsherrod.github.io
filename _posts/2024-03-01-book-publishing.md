@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "My Advice For Business Authors: Lessons from a Business Author"
+title: "My Advice For Expert Authors"
 date: 2024-03-01
 last_modified_at: 2024-03-01
 tags: entrepreneurship books
@@ -10,9 +10,9 @@ comments: true
 aside:
   toc: true
 ---
-If you’re diving into the world of writing and publishing, especially in the business realm, I’ve got some tips to share with you.
+If you’re diving into the world of writing and publishing, especially in the expert realm, I’ve got some tips to share with you.
 <!--more--> 
-## Strategic Compass In The Business  Book World
+## Strategic Compass In The Expert Book World
 
 ### 1. Keep It Realistic
 
