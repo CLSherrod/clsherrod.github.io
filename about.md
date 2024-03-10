@@ -2,6 +2,8 @@
 layout: article
 title: About Christopher Sherrod
 key: page-about
+aside:
+  toc: true
 permalink: /about/
 ---
 <div style="width:50%; margin:0 auto;" align="center" markdown="1">

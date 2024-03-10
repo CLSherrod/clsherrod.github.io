@@ -3,7 +3,7 @@ layout: article
 title: Releases by Christopher Sherrod
 permalink: /newsletter/
 ---
-## Stay in the Loop with Christopher Sherrod: Notifications on New Articles, Books, and Projects
+## Stay in the Loop with Christopher Sherrod
 I email just for notifications when I write a new article or launch a new book or project.
 
 I never share my people’s email or contact information with anyone, ever.
