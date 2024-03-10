@@ -24,7 +24,7 @@ I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, 
 ### Last Read Books
 - I read [Generative AI for Busy Business Leaders: How to Use AI With Your Team (A short book that covers simple frameworks and strategies for using gen AI at work)](https://amzn.to/436CyX3) which gave some ideas on how to implement AI into my business.
 - And before that I read [Email reputation explained well: How to keep your domains’ reputation clean while growing your business, from someone who had to learn the hard way by Nicolò Rebughini](https://amzn.to/3V9gzwA) which helped me clean up my newsletter lists and increase my deliverability.
-- I liked [This Book is One Page Long: A One-Page Guide that Explains Why (and How) to Write Short Nonfiction Books (Everything You Need to Know to Start Writing and Publishing Kindle Books on Amazon)](https://amzn.to/48PiiKE)
+- I liked [This Book is One Page Long: A One-Page Guide that Explains Why (and How) to Write Short Nonfiction Books (Everything You Need to Know to Start Writing and Publishing Kindle Books on Amazon) by Hassan Osman](https://amzn.to/48PiiKE).
 
 ## Watched Recently
 - I love watching foreign movies. A different perspective. Recently I enjoyed [Restore Point](https://www.imdb.com/title/tt9362492/?ref_=fn_al_tt_1) a good sci-fi movie from the Czech Republic.
