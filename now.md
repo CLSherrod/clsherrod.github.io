@@ -45,6 +45,7 @@ I’m a huge music fan. Love a lot of different styles of music. I have even cre
 ### Music Fan
 - The latest song I really like is [Feel Yourself](https://www.youtube.com/watch?v=TZhdLNs7Gvk) by [Flamingosis](http://www.flamingosis.com). Very catchy tune from a new artist to me.
 - I’m looking forward to [Kamasi Washington](https://www.kamasiwashington.com)’s new Album “Fearless Movement”. He is one of the best modern jazz musicians. He reminds me of John Coltrane, who is my favorite jazz musician of all time.
+- I’ve really been enjoying [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com)
 
 [My profile on Apple Music](https://music.apple.com/profile/clsherrod).
 
