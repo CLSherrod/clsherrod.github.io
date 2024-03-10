@@ -12,9 +12,10 @@ Updated March 10th, 2024.
 - New article [My Advice For Expert Authors](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about self-publishing a book.
 - I updated my team workflow article for 2024 [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing.
 
-## Currently Writing
+## Currently Creating
 - **Wilderness Tales: A Childhood in Alaska** - I’m currently going thru my photo slides collection and scanning in photos for a future book about my childhood in Alaska with float planes and wolf dogs. It’s a lot of fun seeing memories from the 70s. What an adventure I had living on a float plane lake and seeing parts of Alaska not seen by many.
 - **Nan’s Love: Poems from the Heart** - I recently started writing poems for my love, family and friends for fun. Some have encouraged me to put them together into a collection. So, I’m focusing on writing about the big moments in life and getting feedback from family and friends.
+- **Oracle Cards** - I’m working with an expert on creating an oracle card deck. I’m doing the art. Got the style of the cards figured out and working on completing all the cards.
 
 ## Reading
 ### Currently Reading
