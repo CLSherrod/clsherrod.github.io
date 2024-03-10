@@ -2,6 +2,8 @@
 layout: article
 title: What I'm Doing Now
 permalink: /now/
+aside:
+  toc: true
 ---
 (This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
 
