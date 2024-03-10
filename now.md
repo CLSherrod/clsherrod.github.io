@@ -39,9 +39,9 @@ My past books I’ve read listed on [my GoodReads profile](https://www.goodreads
 I’m a huge music fan. Love a lot of different styles of music. I have even created some music.
 - My last song I wrote [Drops](https://chr1stopher.com) is an electronic song.
 
-## Music Fan
-- The latest song I really like is 
-- I’m looking forward to Kamasi Washington’s new Album “Fearless Movement”. He is one of the best contempary jazz musician. He reminds me of John Coltrane, who is my favorite jazz musician.
+### Music Fan
+- The latest song I really like is [Feel Yourself](https://www.youtube.com/watch?v=TZhdLNs7Gvk) by [Flamingosis](http://www.flamingosis.com). Very catchy tune from a new artist to me.
+- I’m looking forward to [Kamasi Washington](https://www.kamasiwashington.com)’s new Album “Fearless Movement”. He is one of the best modern jazz musician. He reminds me of John Coltrane, who is my favorite jazz musician of all time.
 
 ## Enjoying My Cats
 It’s been 10 months since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing. They are both welcomed members of the family.
