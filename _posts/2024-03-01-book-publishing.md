@@ -105,6 +105,6 @@ Writing a book is a journey, not just a task. Embrace it and enjoy the ride.
 It stimulates intellectual growth, refines thoughts, builds credibility, and serves as a perpetual marketing engine.
 
 ## Conclusion: A Literary Odyssey
-I had a great time selling my book in-person before Amazon Kindle existed and it helped get clients. I eventually got it on Amazon Kindle and shared it with my audience as well. I also shared the process with many people so they could self-publish their own expert book in the past. It’s a 
+I had a great time selling my book in-person before Amazon Kindle existed and it helped get clients. I eventually got it on Amazon Kindle and shared it with my audience as well. I also shared the process with many people so they could self-publish their own expert book in the past. It’s a great way to condense your knowledge and seek out your audience.
 
 In conclusion, whether you’re a seasoned expert or an up in coming expert, navigating the world of expert writing can be daunting. But armed with the right strategies and a dose of perseverance, you can make a meaningful impact with your book. Remember, it’s not just about crafting words on a page; it’s about connecting with your audience, sharing valuable insights, and leaving a lasting impression. So embrace the journey, stay true to your vision, and let your entrepreneurial spirit guide you as you embark on this literary adventure.
