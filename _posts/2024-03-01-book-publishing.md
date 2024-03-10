@@ -88,11 +88,11 @@ Understanding the marketing, sales, distribution, and risk aspects is crucial fo
 
 While they’re nice places, don’t rely solely on bookstores to sell your book. Recognition frequently occurs before readers enter the store.
 
-### 18. Avoid Book Laundrying
+### 18. Avoid Book Laundering
 
 There are companies that will take your money and buy your books to create a fake best seller. Don’t do it. There are many problems with doing this. Build up your audience and don’t worry about being a best seller.
 
-**Here are some in-depth articles about book laundrying:**
+**Here are some in-depth articles about book laundering:**
 - [The Truth About the New York Times and WSJ Bestseller Lists - Observer](https://observer.com/2016/02/the-truth-about-the-new-york-times-and-wall-street-journal-bestseller-lists/)
 - [The ‘Wall Street Journal’ Drops Its Bestseller Lists](https://www.publishersweekly.com/pw/by-topic/industry-news/publishing-and-marketing/article/93663-the-wall-street-journal-drops-its-bestseller-lists.html)
 - [WSJ Just Killed It’s Bestseller List. Do The Lists Even Matter Anymore?](https://www.linkedin.com/pulse/wsj-just-killed-its-bestseller-list-do-lists-even-matter-bhargava-kwfoe/) - The Wall Street Journal’s decision to discontinue its bestseller lists has sparked discussion about the relevance of such lists in the book market. Bestseller lists are often manipulated, and some argue that book awards programs provide a better source of finding the best books. Awards programs, such as the Axiom Business Book Awards and the National Book Awards, curate valuable lists of the best books based on their content and impact, rather than their sales. It is suggested that media properties produce book awards instead of bestseller lists, and that bookstores dedicate more shelf space to award winners.
@@ -105,6 +105,6 @@ Writing a book is a journey, not just a task. Embrace it and enjoy the ride.
 It stimulates intellectual growth, refines thoughts, builds credibility, and serves as a perpetual marketing engine.
 
 ## Conclusion: A Literary Odyssey
-I had a great time selling my book in-person before Amazon Kindle existed and it helped get clients. I eventually got it on Amazon Kindle and shared it with my audience as well.
+I had a great time selling my book in-person before Amazon Kindle existed and it helped get clients. I eventually got it on Amazon Kindle and shared it with my audience as well. I also shared the process with many people so they could self-publish their own expert book in the past. It’s a 
 
-In conclusion, whether you’re a seasoned entrepreneur or a budding author, navigating the world of business writing can be daunting. But armed with the right strategies and a dose of perseverance, you can make a meaningful impact with your book. Remember, it’s not just about crafting words on a page; it’s about connecting with your audience, sharing valuable insights, and leaving a lasting impression. So embrace the journey, stay true to your vision, and let your entrepreneurial spirit guide you as you embark on this literary adventure.
+In conclusion, whether you’re a seasoned expert or an up in coming expert, navigating the world of expert writing can be daunting. But armed with the right strategies and a dose of perseverance, you can make a meaningful impact with your book. Remember, it’s not just about crafting words on a page; it’s about connecting with your audience, sharing valuable insights, and leaving a lasting impression. So embrace the journey, stay true to your vision, and let your entrepreneurial spirit guide you as you embark on this literary adventure.
