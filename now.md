@@ -36,7 +36,7 @@ My past books I’ve read listed on [my GoodReads profile](https://www.goodreads
 - I like [Arnold’s Pump Club](https://arnoldspumpclub.com/#podcast) podcast as he has good health advice.
 ### Creating
 - I record [Expat Rebel](https://expatrebel.com) show with a weekly newsletter.
-- I produce [Nan Akasha](https://nanakasha.com) YouTube show.
+- I’m a producer of [Nan Akasha](https://nanakasha.com) YouTube show.
 - 
 ## Watched Recently
 - I love watching foreign movies. A different perspective. Recently I enjoyed [Restore Point](https://www.imdb.com/title/tt9362492/?ref_=fn_al_tt_1) a good sci-fi movie from the Czech Republic.
