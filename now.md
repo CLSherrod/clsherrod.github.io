@@ -7,7 +7,7 @@ aside:
 ---
 (This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
 
-Updated March 10th, 2024.
+Updated Monday March 11th, 2024.
 
 ## Recently Published
 - New expat newsletter [Expats’ Guide to Political Seasons + Latest Expat & Travel Updates 🇲🇽✨](https://expatrebel.com/2024-03-09/) for Expat Rebel.
