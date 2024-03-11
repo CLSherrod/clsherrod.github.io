@@ -4,7 +4,7 @@ title: What separates winners from losers?
 date: 2007-03-01
 last_modified_at: 2024-03-11
 tags: entrepreneurship
-permalink: ”/what-separates-winners-from-losers/”
+permalink: /what-separates-winners-from-losers/
 published: true
 comments: true
 ---
