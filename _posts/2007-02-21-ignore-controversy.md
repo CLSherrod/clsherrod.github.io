@@ -3,7 +3,7 @@ layout: post
 title: Should you ignore controversy?
 date: 2007-02-21
 last_modified_at: 2024-03-11
-tags: entrepreneurship, tribute
+tags: entrepreneurship
 permalink: ”/should-you-ignore-controversy/”
 published: true
 comments: true
