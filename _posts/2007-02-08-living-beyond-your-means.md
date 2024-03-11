@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Living beyond your means”
+title: Living beyond your means
 date: 2007-02-08
 last_modified_at: 2024-03-11
 tags: prosperity
@@ -8,8 +8,6 @@ permalink: ”/living-beyond-your-means/”
 published: true
 comments: true
 ---
-I’m in Corpus Christi with my girlfriend who spoke last night about real estate to the local real estate investors.
-
 It’s interesting how local markets are doing well in Texas but California and some other states in the USA are going down.  It’s universal that foreclosures are going way way up nationwide.
 <!--more-->
 Many people are living way beyond their means.  Spending more than you make is not being prosperous.  It is not a good idea and will eventually catch up with you.
