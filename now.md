@@ -14,6 +14,10 @@ Updated Monday March 11th, 2024.
 - New article [My Advice For Expert Authors](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about self-publishing a book.
 - I updated my team workflow article for 2024 [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing.
 
+## Producing
+- I record [Expat Rebel](https://expatrebel.com) show with a weekly newsletter.
+- I’m a producer of [Nan Akasha](https://nanakasha.com) YouTube show.
+
 ## Currently Creating
 - **Wilderness Tales: A Childhood in Alaska** - I’m currently going thru my photo slides collection and scanning in photos for a future book about my childhood in Alaska with float planes and wolf dogs. It’s a lot of fun seeing memories from the 70s. What an adventure I had living on a float plane lake and seeing parts of Alaska not seen by many.
 - **Nan’s Love: Poems from the Heart** - I recently started writing poems for my love, family and friends for fun. Some have encouraged me to put them together into a collection. So, I’m focusing on writing about the big moments in life and getting feedback from family and friends.
@@ -31,13 +35,9 @@ I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, 
 My past books I’ve read listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
 ## Weekly Shows/Podcasts
-### Listening
 - I’ve been listenting to Leo since the ScreenSavers on Cable TV and now [This Week In Tech](https://twit.tv/shows/this-week-in-tech) podcast.
 - I like [Arnold’s Pump Club](https://arnoldspumpclub.com/#podcast) podcast as he has good health advice.
-### Creating
-- I record [Expat Rebel](https://expatrebel.com) show with a weekly newsletter.
-- I’m a producer of [Nan Akasha](https://nanakasha.com) YouTube show.
-- 
+ 
 ## Watched Recently
 - I love watching foreign movies. A different perspective. Recently I enjoyed [Restore Point](https://www.imdb.com/title/tt9362492/?ref_=fn_al_tt_1) a good sci-fi movie from the Czech Republic.
 - I enjoyed the show [Echo](https://www.imdb.com/title/tt13966962/?ref_=rt_li_tt) and especially the ending. Being part Native American and from Oklahoma it was nice to see a tribe being represented in media. This and [Reservation Dogs](https://www.imdb.com/title/tt13623580/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_reservation%2520dogs) have made a big contribution in representation. I hope more will continue to come out.
