@@ -19,6 +19,7 @@ Updated Monday March 11th, 2024.
 - I’m a producer of [Nan Akasha](https://nanakasha.com) YouTube show.
 
 ## Currently Creating
+- **Expat Rebel** - I’m writing my Expat travel essay book
 - **Wilderness Tales: A Childhood in Alaska** - I’m currently going thru my photo slides collection and scanning in photos for a future book about my childhood in Alaska with float planes and wolf dogs. It’s a lot of fun seeing memories from the 70s. What an adventure I had living on a float plane lake and seeing parts of Alaska not seen by many.
 - **Nan’s Love: Poems from the Heart** - I recently started writing poems for my love, family and friends for fun. Some have encouraged me to put them together into a collection. So, I’m focusing on writing about the big moments in life and getting feedback from family and friends.
 - **Oracle Cards** - I’m working with an expert on creating an oracle card deck. I’m doing the art. Got the style of the cards figured out and working on completing all the cards.
