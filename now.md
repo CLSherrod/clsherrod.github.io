@@ -35,7 +35,8 @@ My past books I’ve read listed on [my GoodReads profile](https://www.goodreads
 - I’ve been listenting to Leo since the ScreenSavers on Cable TV and now [This Week In Tech](https://twit.tv/shows/this-week-in-tech) podcast.
 - I like [Arnold’s Pump Club](https://arnoldspumpclub.com/#podcast) podcast as he has good health advice.
 ### Creating
-- 
+- I record [Expat Rebel](https://expatrebel.com) show with a weekly newsletter.
+- I produce 
 ## Watched Recently
 - I love watching foreign movies. A different perspective. Recently I enjoyed [Restore Point](https://www.imdb.com/title/tt9362492/?ref_=fn_al_tt_1) a good sci-fi movie from the Czech Republic.
 - I enjoyed the show [Echo](https://www.imdb.com/title/tt13966962/?ref_=rt_li_tt) and especially the ending. Being part Native American and from Oklahoma it was nice to see a tribe being represented in media. This and [Reservation Dogs](https://www.imdb.com/title/tt13623580/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_reservation%2520dogs) have made a big contribution in representation. I hope more will continue to come out.
