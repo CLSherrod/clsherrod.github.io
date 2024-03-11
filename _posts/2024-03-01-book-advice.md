@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "My Advice For Expert Authors"
+title: "Expert Book Writing and Publishing: 19 Proven Strategies for Success - My Advice For Expert Authors"
 date: 2024-03-01
 last_modified_at: 2024-03-01
 tags: entrepreneurship books
