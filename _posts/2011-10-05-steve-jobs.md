@@ -9,7 +9,7 @@ published: true
 comments: true
 ---
 I’m sadden on hearing Steve Jobs of Apple passing away.
-
+<!--more-->
 I remember my first Apple computer. I had a couple of computers before I finally got a real computer my Apple IIe. I had an Odessey and an Atari 400, but when I got my Apple IIe, now that was a real computer.
 
 I got it in the late 70’s and used it for years. In fact used it thru college up to 1991 before finally upgrading to a Mac IIvx.
