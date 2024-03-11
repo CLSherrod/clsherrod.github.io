@@ -9,7 +9,7 @@ published: true
 comments: true
 ---
 MLM and affiliate marketing or what I call some of it Ego Marketing.
-
+<!--more-->
 People are only interested in what your product or service can do for them.  If you are talking too much about how great you are and how many cars you have, how does that matter to your potential client?
 
 Sure some things can help.  If you are selling a book on how to manifest a car then you better have a nice car.  Otherwise people won’t believe you.  But, if so much self promotion comes out of your mouth you are going to lose people.  In droves.  I see this with many Internet Marketers.  “I’m so great.  Buy my stuff.”  Many of it is awful.  A real embarrassment.  There is some really good stuff though.  With all the marketing hype, spin doctors and ego marketing it is sometimes hard to tell what is good and what is frankly crap.
