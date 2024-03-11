@@ -4,7 +4,7 @@ title: Remembering Steve Jobs: A Tribute to the Visionary Behind Apple's Legacy
 date: 2011-10-05
 last_modified_at: 2024-03-11
 tags: entrepreneurship tribute
-permalink: /remembering-steve-jobs/
+permalink: /steve-jobs/
 published: true
 comments: true
 ---
