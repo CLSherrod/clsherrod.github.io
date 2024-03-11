@@ -9,7 +9,7 @@ published: true
 comments: true
 ---
 I just found out about the stock market going down.  I don’t watch the news so it takes a day or two for me to find out such things.
-
+<!--more-->
 What separates the winners from the losers, the wealthy from the wannabes is their REACTIONS to the events they have no control over.
 
 The people that overreact or just as bad do not react at all will lose.  The winners with react and move forward with a plan.
