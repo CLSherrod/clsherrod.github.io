@@ -2,7 +2,7 @@
 layout: post
 title: The Carpenter’s House Fable
 date: 2005-04-05
-last_modified_at: 2023-11-02
+last_modified_at: 2024-03-11
 tags: entrepreneurship
 permalink: ”/carpenters-house-fable/”
 published: true
