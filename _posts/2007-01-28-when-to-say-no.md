@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “When To Say No”
+title: When To Say No
 date: 2007-01-28
 last_modified_at: 2024-03-11
 tags: entrepreneurship

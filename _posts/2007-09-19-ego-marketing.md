@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Ego marketing”
+title: Ego marketing
 date: 2007-09-19
 last_modified_at: 2024-03-11
 tags: entrepreneurship
