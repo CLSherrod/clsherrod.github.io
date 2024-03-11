@@ -31,7 +31,7 @@ I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, 
 My past books I’ve read listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
 ## Weekly Podcasts
-- [This Week In Tech](https://twit.tv/shows/this-week-in-tech)
+- I’ve been listenting to Leo since the ScreenSavers on Cable TV and now [This Week In Tech](https://twit.tv/shows/this-week-in-tech) podcast.
 
 ## Watched Recently
 - I love watching foreign movies. A different perspective. Recently I enjoyed [Restore Point](https://www.imdb.com/title/tt9362492/?ref_=fn_al_tt_1) a good sci-fi movie from the Czech Republic.
