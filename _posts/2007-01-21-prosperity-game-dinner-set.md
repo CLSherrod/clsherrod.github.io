@@ -4,6 +4,7 @@ title: "Play Prosperity Games Pot Luck Dinner: A Dream Becoming Reality"
 date: 2007-01-21
 last_modified_at: 2023-11-02
 tags: idea-generation
+permalink: /play-prosperity-games-dinner-party/
 published: true
 comments: true
 aside:
