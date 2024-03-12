@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: Should you ignore controversy?
 date: 2007-02-21
 last_modified_at: 2024-03-11

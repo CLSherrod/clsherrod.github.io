@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title: What separates winners from losers?
 date: 2007-03-01
 last_modified_at: 2024-03-11
