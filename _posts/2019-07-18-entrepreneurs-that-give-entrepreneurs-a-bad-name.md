@@ -4,7 +4,7 @@ title: Entrepreneurs that give Entrepreneurs a bad name
 date: 2019-07-18
 last_modified_at: 2024-03-11
 tags: entrepreneurship
-permalink: /entrepreneurs-that-give-entrepreneurs-a-bad-name/
+permalink: /bad-entrepreneurs/
 published: true
 comments: true
 ---
