@@ -4,7 +4,7 @@ title: The Carpenter’s House Fable
 date: 2005-04-05
 last_modified_at: 2024-03-11
 tags: entrepreneurship
-permalink: ”/carpenters-house-fable/”
+permalink: /carpenters-house-fable/
 published: true
 comments: true
 ---

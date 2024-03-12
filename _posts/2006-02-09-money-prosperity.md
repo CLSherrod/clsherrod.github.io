@@ -6,7 +6,7 @@ last_modified_at: 2024-03-11
 tags: prosperity
 published: true
 status: publish
-permalink: ”/money-prosperity/”
+permalink: /money-prosperity/
 published: true
 comments: true
 ---
