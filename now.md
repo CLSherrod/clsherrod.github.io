@@ -50,7 +50,7 @@ My past books I’ve read listed on [my GoodReads profile](https://www.goodreads
 ## Music
 I’m a huge music fan. Love a lot of different styles of music. I have even created some music.
 ### Musician
-- My last song I wrote is [Drops](https://chr1stopher.com).
+- My last song I wrote is [Drops](https://chr1stopher.com) published in 2022. I haven’t been producing much music.
 - I’ve been writing lyrics, which is new to me. It’s in a style that I don’t know how to compose music for and I don’t sing so not sure what I’ll do with the growing catalog of lyrics.
 
 ### Music Fan
