@@ -15,7 +15,7 @@ Updated Monday March 11th, 2024.
 - I updated my team workflow article for 2024 [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing.
 
 ## Producing
-- I record [Expat Rebel](https://expatrebel.com) show with a weekly newsletter.
+- I write a weekly newsletter for [Expat Rebel](https://expatrebel.com).
 - I’m a producer of [Nan Akasha](https://nanakasha.com) YouTube show.
 
 ## Currently Creating
@@ -38,6 +38,7 @@ My past books I’ve read listed on [my GoodReads profile](https://www.goodreads
 ## Weekly Shows/Podcasts
 - I’ve been listenting to Leo since the ScreenSavers on Cable TV and now [This Week In Tech](https://twit.tv/shows/this-week-in-tech) podcast.
 - I like [Arnold’s Pump Club](https://arnoldspumpclub.com/#podcast) podcast as he has good health advice.
+- I’m enjoying a new podcast [Perplexity ]
  
 ## Watched Recently
 - I love watching foreign movies. A different perspective. Recently I enjoyed [Restore Point](https://www.imdb.com/title/tt9362492/?ref_=fn_al_tt_1) a good sci-fi movie from the Czech Republic.
