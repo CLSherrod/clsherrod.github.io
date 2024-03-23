@@ -12,7 +12,7 @@ Updated Monday March 23rd, 2024.
 ## Recently Published
 - New expat newsletter [Unveiling the Magic of Puerto Aventuras: Dive into the Ultimate Mexican Escape! 🏝️🌅](https://expatrebel.com/unveiling-the-magic-of-puerto-aventuras-dive-into-the-ultimate-mexican-escape/) for Expat Rebel.
 - New article [Expert Book Writing and Publishing: 19 Proven Strategies for Success](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about self-publishing books - physical, ebooks and articles.
-- I updated my team workflow article for 2024 [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing.
+- I updated my team workflow article for 2024 [Creators Recommend Apps & Workflow](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing and livestream service StreamYard.
 
 ## Producing
 - I write a weekly newsletter for [Expat Rebel](https://expatrebel.com).
