@@ -10,15 +10,15 @@ permalink: /about/
 ![image-center](/assets/images/avatar.webp){: .align-center}
 *Christopher exploring Mexico*
 </div>
-## From Software to Entrepreneurship: My Journey and Insights
-I’m a private business owner that has sold everything from software, real estate, info-products, and the former owner of a marketing agency with a distributed team in the Philipines, Ireland, Panama, and India. I’ve been on the Internet since college in 1988. I was an early adopter of WordPress back when it was in Beta and still use it for most projects (except this website).
+## My Entrepreneurial Journey: From Software to Business Ownership
+Hey there, I'm just a regular guy who's been around the block in the business world. I've dabbled in everything from software to real estate, and even had my own marketing agency with teams scattered across the globe in places like the Philippines, Ireland, Panama, and India. Been cruising the internet since my college days back in '88, and yeah, I jumped on the WordPress train way back when it was still in beta.
 
-I now focus only on newsletter-driven educational businesses.
+These days, I’m all about newsletter-driven educational businesses. Ever since I ditched the corporate world in ‘96 to pursue entrepreneurship full-time, I’ve racked up my fair share of wins and losses. And you know what? I’ve learned a ton from both.
 
-Since I became a full-time entrepreneur in 1996 after five years in the corporate world I’ve learned a lot from my successes and especially failures. I have written my business books and articles here to give back to the community of entrepreneurs. My early mentors helped me understand business and now its my turn to share my experience.
+Now, I’m paying it forward by sharing my experiences through my business books and articles. My mentors helped me figure out the biz game, so now it’s my turn to pass on the knowledge.
 
-## Business Philosophy
-Learn about my [Dolphin Entrepreneur philosophy in business](https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/) that I wrote for Social Capital Markets formally Conscious Company Magazine.
+## My Business Approach: The Dolphin Entrepreneur
+I’ve penned down my business philosophy, dubbed the [Dolphin Entrepreneur](https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
 
 ## Business Author
 As a long-term entrepreneur I enjoy writing about my business experiences, see [my articles here](https://christophersherrod.com/archive/).
