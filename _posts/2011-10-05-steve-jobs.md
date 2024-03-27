@@ -7,6 +7,13 @@ tags: entrepreneurship tribute
 permalink: /steve-jobs/
 published: true
 comments: true
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/articles/steve-jobs.webp
 ---
 I’m sadden on hearing Steve Jobs of Apple passing away.
 <!--more-->
