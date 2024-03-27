@@ -20,24 +20,30 @@ Now, I’m paying it forward by sharing my experiences through my business books
 ## My Business Approach: The Dolphin Entrepreneur
 I’ve penned down my business philosophy, dubbed the [Dolphin Entrepreneur](https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
 
-## Business Author
-As a long-term entrepreneur I enjoy writing about my business experiences, see [my articles here](https://christophersherrod.com/archive/).
+## Writing About Business
+Being in the game for the long haul, I enjoy sharing my business insights through my [my articles here](https://christophersherrod.com/archive/). You can catch ‘em all right here on my site.
 
-**I’ve written two business books:**
+**Books I’ve Written:**
+I’ve also authored a couple of business books:
 - [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
 - [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)
 
-## Projects
+## Current Projects and More
+Curious about what I’m up to these days? Check out my current projects section. And if you want a glimpse into my past endeavors, I’ve got a full list of past projects too.
 - [What I’m doing now](https://christophersherrod.com/now/)
 - See [Projects](https://christophersherrod.com/projects) for a full list of past projects.
 
-## Keep In Touch
-You can [receive updates from me via email](https://christophersherrod.com/newsletter/) or follow me:
+## Stay Connected
+Want to stay in the loop?
+- You can [receive updates from me via email](https://christophersherrod.com/newsletter/) or follow me:
 - RSS Feed: [christophersherrod.com/feed.xml](https://christophersherrod.com/feed.xml)
 - Mastodon: [pkm.social/@chris](https://pkm.social/@chris)
 - Github: [github.com/clsherrod](https://github.com/clsherrod)
 
-## Colophon
+## Behind the Scenes
+This site runs on plain text markdown format, and my articles are stored in good ol’ markdown format files. All this is made possible by Jekyll and hosted on GitHub Pages. While my Jekyll template isn’t up for grabs, I recommend checking out this template by Maxime Vaillancourt.
+
+That’s the scoop, folks. Thanks for tuning in!
 This site is written in plain text markdown format. [My smart note system](https://christophersherrod.com/smart-notes/) are plain text markdown format files and that’s where these are articles I’ve written here start.
 
 My plain text files are compiled using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com).
