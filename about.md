@@ -41,11 +41,6 @@ Want to stay in the loop?
 - Github: [github.com/clsherrod](https://github.com/clsherrod)
 
 ## Behind the Scenes
-This site runs on plain text markdown format, and my articles are stored in good ol’ markdown format files. All this is made possible by Jekyll and hosted on GitHub Pages. While my Jekyll template isn’t up for grabs, I recommend checking out this template by Maxime Vaillancourt.
+This site runs on [plain text markdown format](https://en.wikipedia.org/wiki/Markdown), and my articles are stored in good ol’ markdown format files. All this is made possible by [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com). While my Jekyll template isn’t up for grabs, I recommend checking out [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)  by Maxime Vaillancourt.
 
 That’s the scoop, folks. Thanks for tuning in!
-This site is written in plain text markdown format. [My smart note system](https://christophersherrod.com/smart-notes/) are plain text markdown format files and that’s where these are articles I’ve written here start.
-
-My plain text files are compiled using [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com).
-
-My Jekyll template is not public, but I recommend [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template) by Maxime Vaillancourt.
