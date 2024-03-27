@@ -8,13 +8,6 @@ permalink: /hiring-virtual-workers/
 comments: true
 aside:
   toc: false
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/books-cover.webp
 ---
 <div style="width:20%; margin:0 auto;" align="right" markdown="1">
 ![Image](/assets/images/books/Hiring-Virtual-Workers.webp)

@@ -7,13 +7,6 @@ tags: idea-generation books
 permalink: /play-prosperity-games-kindle/
 aside:
   toc: false
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/books-cover.webp
 ---
 Now that my privately printed book is presently on Amazon Kindle, and it comes with a name change.
 <!--more-->

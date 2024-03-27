@@ -9,10 +9,6 @@ published: true
 comments: true
 aside:
   toc: true
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#00ced1'
 ---
 ## What Are Smart Notes?<!--more--><br>
 First let’s start off with defining smart notes, which is a modern application of the Zettelkasten method (an old index card note system, pre computers), a systematic and thoughtful approach to taking and organizing notes. 
