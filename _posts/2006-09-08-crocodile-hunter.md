@@ -7,15 +7,6 @@ tags: entrepreneurship tribute
 permalink: /steve-irvin/
 published: true
 comments: true
-aside:
-  toc: true
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/repetition-cover.webp
 ---
 When I heard of Steve Irwin’s death, it gave me a smile.  Not because I’m glad he is dead.  I’m actually quite sad.  It has taken me almost a week to write this article.  I’m happy that someone lived their life full out.  So many people live mediocre lives.
 <!--more-->
