@@ -4,13 +4,6 @@ title: "Christopher Sherrod - Entrepreneur and Business Author "
 key: page-about
 permalink: /hero/
 published: true
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/about-cover.webp
 ---
 ## Entrepreneur
 I’m an entrepreneur. I write about what I’ve learned.
