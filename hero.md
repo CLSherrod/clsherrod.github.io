@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Christopher Sherrod - Entrepreneur and Business Author "
+title: "Christopher Sherrod "
 key: page-about
 permalink: /hero/
 published: true
@@ -10,11 +10,13 @@ I’m an entrepreneur. I write about what I’ve learned.
 
 Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/dolphin-entrepreneur)
 
-[Learn more about me here](https://christophersherrod.com/about/)
+[Learn more about me here](https://christophersherrod.com/about/).
 
 ## My featured articles
+- [Expert Book Writing and Publishing: 19 Proven Strategies for Success](https://christophersherrod.com/book-advice/)
 - [My team’s 2024 workflow](https://christophersherrod.com/workflow)
-
+- [Smart Notes](https://christophersherrod.com/smart-notes/)
+- 
 ## Main Topics
 [entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), [workflow](https://christophersherrod.com/archive/?tag=workflow-apps), [my books](https://christophersherrod.com/archive/?tag=books), [idea generation](https://christophersherrod.com/archive/?tag=idea-generation), [tributes](https://christophersherrod.com/archive/?tag=tribute)
 
