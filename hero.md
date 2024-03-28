@@ -6,6 +6,7 @@ permalink: /hero/
 published: true
 ---
 ![image-center](/assets/images/avatar.webp)
+
 I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/dolphin-entrepreneur). And [learn more about me here](https://christophersherrod.com/about/).
 
 ## My featured articles
