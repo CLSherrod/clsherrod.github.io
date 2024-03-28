@@ -12,8 +12,8 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 
 ## My featured articles
 - [Expert Book Writing and Publishing: 19 Proven Strategies for Success](https://christophersherrod.com/book-advice/)
-- [My team’s 2024 workflow](https://christophersherrod.com/workflow)
-- [Smart Notes](https://christophersherrod.com/smart-notes/)
+- [Boost Your Content Production Game: Essential Apps and Tools for 2024!](https://christophersherrod.com/workflow)
+- [How Smart Notes Transformed My Productivity and Well-being](https://christophersherrod.com/smart-notes/)
 
 ## Main Topics
 [entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), [workflow](https://christophersherrod.com/archive/?tag=workflow-apps), [my books](https://christophersherrod.com/archive/?tag=books), [idea generation](https://christophersherrod.com/archive/?tag=idea-generation), [tributes](https://christophersherrod.com/archive/?tag=tribute)
@@ -24,6 +24,3 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 
 ## Newsletter
 Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my articles and books.
-
-## Receive My Updates
-Follow me on [email](https://christophersherrod.com/newsletter/), [RSS](christophersherrod.com/feed.xml), [Mastodon](https://pkm.social/@chris), and [Github](https://github.com/clsherrod)
