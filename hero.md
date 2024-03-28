@@ -3,6 +3,8 @@ layout: article
 title: ""
 permalink: /hero/
 published: true
+aside:
+  toc: false
 ---
 ![image-center](/assets/images/avatar.webp)
 
