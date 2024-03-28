@@ -15,7 +15,7 @@ article_header:
     src: /assets/images/articles/about-cover.webp
 ---
 ## Entrepreneur
-I’ve been an entrepreneur for a long-time, full-time since 1996. Had several breaks between projects. Failed many times and had some fun successes.
+I’m an entrepreneur. I write about what I’ve learned.
 
 Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/dolphin-entrepreneur)
 
@@ -31,6 +31,8 @@ Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/do
 ## Newsletter
 Join my [newsletter](https://christophersherrod.com/newsletter/)
 
+## Topics
+[entre]
 ## Lastest Articles
 <ul>
   {% for post in site.posts %}
