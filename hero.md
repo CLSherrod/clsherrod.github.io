@@ -28,7 +28,6 @@ Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/do
 Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my articles and books.
 
 ## Receive My Updates
-- You can [receive updates from me via email](https://christophersherrod.com/newsletter/) or follow me:
-- RSS Feed: [christophersherrod.com/feed.xml](https://christophersherrod.com/feed.xml)
+Follow me on [email](https://christophersherrod.com/newsletter/), [RSS](christophersherrod.com/feed.xml)(https://christophersherrod.com/feed.xml)
 - Mastodon: [pkm.social/@chris](https://pkm.social/@chris)
 - Github: [github.com/clsherrod](https://github.com/clsherrod)
