@@ -6,8 +6,9 @@ published: true
 aside:
   toc: false
 ---
-![image-center](/assets/images/avatar.webp)
-
+<div style="width:50%; margin:0 auto;" align="center" markdown="1">
+![image-center](/assets/images/avatar.webp){: .align-center}
+</div>
 I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/dolphin-entrepreneur). And [learn more about me here](https://christophersherrod.com/about/).
 
 ## My featured articles
@@ -16,7 +17,7 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 - [How Smart Notes Transformed My Productivity and Well-being](https://christophersherrod.com/smart-notes/)
 
 ## Main Topics
-[entreneurship](https://christophersherrod.com/writings/?tag=entrepreneurship), [workflow](https://christophersherrod.com/archive/?tag=workflow-apps), [my books](https://christophersherrod.com/archive/?tag=books), [idea generation](https://christophersherrod.com/archive/?tag=idea-generation), [tributes](https://christophersherrod.com/archive/?tag=tribute)
+[entreneurship](https://christophersherrod.com/writings/?tag=entrepreneurship), [workflow](https://christophersherrod.com/archive/?tag=workflow-apps), , [idea generation](https://christophersherrod.com/archive/?tag=idea-generation), [tributes](https://christophersherrod.com/archive/?tag=tribute)
 
 ## Books I’ve written
 - [How To Create New Business Ideas Based On What You Love](https://christophersherrod.com/2020/12/02/business-ideas.html)
