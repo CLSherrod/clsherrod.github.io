@@ -9,15 +9,7 @@ published: true
 comments: true
 aside:
   toc: false
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/dolphin-entrepreneur-cover.webp
 ---
-## Published on Conscious Business Magazine
 So which is more important: competition or cooperation?
 
 Let’s learn from the cooperative brilliance of dolphins.
