@@ -43,3 +43,9 @@ Join my [newsletter](https://christophersherrod.com/newsletter/)
     </li>
   {% endfor %}
 </ul>
+
+## Receive My Updates
+- You can [receive updates from me via email](https://christophersherrod.com/newsletter/) or follow me:
+- RSS Feed: [christophersherrod.com/feed.xml](https://christophersherrod.com/feed.xml)
+- Mastodon: [pkm.social/@chris](https://pkm.social/@chris)
+- Github: [github.com/clsherrod](https://github.com/clsherrod)
