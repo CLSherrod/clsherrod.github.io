@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Christopher Sherrod "
+title: ""
 key: page-about
 permalink: /hero/
 published: true
