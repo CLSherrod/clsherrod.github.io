@@ -8,6 +8,8 @@ permalink: /bad-entrepreneurs/
 published: true
 comments: true
 ---
+Fake entrepreneurs giving false advice.
+<!--more-->
 I’ve long been an entrepreneur.
 
 I started by selling smelly erasers in elementary school with my best friend Mark. Even though I spent my profits on keeping the best smelly erasers. I broke even, but it was worth it.
