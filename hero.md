@@ -15,15 +15,15 @@ Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/do
 ## My featured articles
 - [My team’s 2024 workflow](https://christophersherrod.com/workflow)
 
+## Main Topics
+[entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), [workflow](https://christophersherrod.com/archive/?tag=workflow-apps), [my books](https://christophersherrod.com/archive/?tag=books), [idea generation](https://christophersherrod.com/archive/?tag=idea-generation), [tributes](https://christophersherrod.com/archive/?tag=tribute)
+
 ## Books I’ve written
 - [How To Create New Business Ideas Based On What You Love](https://christophersherrod.com/2020/12/02/business-ideas.html)
 - [Hiring Virtual Workers For Small Business](https://christophersherrod.com/2020/11/02/hiring-virtual-workers.html)
 
 ## Newsletter
 Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my articles and books.
-
-## Topics
-[entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), [workflow](https://christophersherrod.com/archive/?tag=workflow-apps) - [my books](https://christophersherrod.com/archive/?tag=books) - [idea generation](https://christophersherrod.com/archive/?tag=idea-generation)
 
 ## Lastest Articles
 <ul>
