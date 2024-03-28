@@ -21,4 +21,4 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 - [Hiring Virtual Workers For Small Business](https://christophersherrod.com/2020/11/02/hiring-virtual-workers.html)
 
 ## Newsletter
-Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my articles and books.
+Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my projects, articles and books.
