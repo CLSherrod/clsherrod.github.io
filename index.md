@@ -17,7 +17,7 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 - [How Smart Notes Transformed My Productivity and Well-being](https://christophersherrod.com/smart-notes/)
 
 ## Main Topics
-[entreneurship](https://christophersherrod.com/writings/?tag=entrepreneurship), [workflow](https://christophersherrod.com/archive/?tag=workflow-apps), [idea generation](https://christophersherrod.com/archive/?tag=idea-generation), [tributes](https://christophersherrod.com/archive/?tag=tribute)
+[entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), [workflow](https://christophersherrod.com/archive/?tag=workflow-apps), [idea generation](https://christophersherrod.com/archive/?tag=idea-generation), [tributes](https://christophersherrod.com/archive/?tag=tribute)
 
 ## Books I’ve written
 - [How To Create New Business Ideas Based On What You Love](https://christophersherrod.com/2020/12/02/business-ideas.html)
