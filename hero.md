@@ -1,11 +1,9 @@
 ---
 layout: article
 title: "Christopher Sherrod - Entrepreneur and Business Author "
-tags: workflow-apps implementing
+key: page-about
 permalink: /hero/
-published: false
-aside:
-  toc: true
+published: true
 article_header:
   type: overlay
   theme: dark
