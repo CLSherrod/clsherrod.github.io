@@ -32,7 +32,8 @@ Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/do
 Join my [newsletter](https://christophersherrod.com/newsletter/)
 
 ## Topics
-[entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), []
+[entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), [workflow](https://christophersherrod.com/archive/?tag=workflow-apps) - [my books](https://christophersherrod.com/archive/?tag=books) - [idea generation](https://christophersherrod.com/archive/?tag=idea-generation)
+
 ## Lastest Articles
 <ul>
   {% for post in site.posts %}
