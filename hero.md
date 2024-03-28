@@ -32,7 +32,7 @@ Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/do
 Join my [newsletter](https://christophersherrod.com/newsletter/)
 
 ## Topics
-[entre]
+[entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), []
 ## Lastest Articles
 <ul>
   {% for post in site.posts %}
