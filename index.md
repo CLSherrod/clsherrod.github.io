@@ -20,8 +20,8 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 [entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), [workflow](https://christophersherrod.com/archive/?tag=workflow-apps), [idea generation](https://christophersherrod.com/archive/?tag=idea-generation), [tributes](https://christophersherrod.com/archive/?tag=tribute)
 
 ## Books I’ve written
-- [How To Create New Business Ideas Based On What You Love](https://christophersherrod.com/2020/12/02/business-ideas.html)
-- [Hiring Virtual Workers For Small Business](https://christophersherrod.com/2020/11/02/hiring-virtual-workers.html)
+- [How To Create New Business Ideas Based On What You Love](https://christophersherrod.com/how-to-create-new-business-ideas-updated/)
+- [Hiring Virtual Workers For Small Business](https://christophersherrod.com/hiring-virtual-workers/)
 
 ## Newsletter
 Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my projects, articles and books.
