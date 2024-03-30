@@ -13,8 +13,6 @@ article_header:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/avatar.webp
 ---
-![image-center](/assets/images/avatar.webp){: .align-center}{:.circle.shadow}
-
 <div style="width:75%; margin:0 auto;" align="center" markdown="1">
 I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/dolphin-entrepreneur). And [learn more about me here](https://christophersherrod.com/about/).
 
