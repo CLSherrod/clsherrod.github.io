@@ -6,9 +6,7 @@ published: true
 aside:
   toc: false
 ---
-<div style="width:40%; margin:0 auto;" align="center" markdown="1">
 ![image-center](/assets/images/avatar.webp){: .align-center}{:.circle.shadow}
-</div>
 
 <div style="width:75%; margin:0 auto;" align="center" markdown="1">
 I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/dolphin-entrepreneur). And [learn more about me here](https://christophersherrod.com/about/).

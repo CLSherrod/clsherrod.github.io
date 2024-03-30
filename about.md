@@ -7,6 +7,7 @@ aside:
 permalink: /about/
 ---
 ![image-center](/assets/images/avatar.webp)
+
 *Christopher exploring Mexico*
 
 ## My Entrepreneurial Journey: From Software to Business Ownership
