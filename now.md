@@ -7,7 +7,7 @@ aside:
 ---
 (This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
 
-Updated Monday March 23rd, 2024.
+Updated March 29rd, 2024.
 
 ## Recently Published
 - New expat newsletter [Unveiling the Magic of Puerto Aventuras: Dive into the Ultimate Mexican Escape! 🏝️🌅](https://expatrebel.com/unveiling-the-magic-of-puerto-aventuras-dive-into-the-ultimate-mexican-escape/) for Expat Rebel.
@@ -41,7 +41,7 @@ My past books I’ve read listed on [my GoodReads profile](https://www.goodreads
 - I’ve been listenting to Leo since the ScreenSavers on Cable TV and now [This Week In Tech](https://twit.tv/shows/this-week-in-tech) podcast.
  
 ## Watched Recently
-- I’m currently watching [3 Body Problem](https://www.netflix.com/search?q=3%20body%20problem&jbv=81024821) on Netflix. I’m half way thru it and liking it very much. I watched the Chinese 30 episode show last year which was excellent. Hoping the English remake makes it more accessible and even better effects.
+- I just finished watching [3 Body Problem](https://www.netflix.com/search?q=3%20body%20problem&jbv=81024821) on Netflix. I likied it very much. I watched the Chinese 30 episode show last year which was excellent. The English remake makes it more accessible and even better effects.
 - I love watching foreign movies. A different perspective. Recently I enjoyed [Restore Point](https://www.imdb.com/title/tt9362492/?ref_=fn_al_tt_1) a good sci-fi movie from the Czech Republic.
 - I enjoyed the show [Echo](https://www.imdb.com/title/tt13966962/?ref_=rt_li_tt) and especially the ending. Being part Native American and from Oklahoma it was nice to see a tribe being represented in media. This and [Reservation Dogs](https://www.imdb.com/title/tt13623580/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_reservation%2520dogs) have made a big contribution in representation. I hope more will continue to come out.
 
