@@ -6,7 +6,7 @@ aside:
   toc: true
 permalink: /about/
 ---
-<div style="width:50%; margin:0 auto;" align="center" markdown="1">
+<div style="width:30%; margin:0 auto;" align="center" markdown="1">
 ![image-center](/assets/images/avatar.webp){: .align-center}{:.circle.shadow}
 *Christopher exploring Mexico*
 </div>
