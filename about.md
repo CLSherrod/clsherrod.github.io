@@ -6,8 +6,7 @@ aside:
   toc: true
 permalink: /about/
 ---
-<div style="width:30%; margin:0 auto;" align="center" markdown="1">
-![image-center](/assets/images/avatar.webp){: .align-center}{:.circle.shadow}
+![image-center](/assets/images/avatar.webp)
 *Christopher exploring Mexico*
 </div>
 ## My Entrepreneurial Journey: From Software to Business Ownership
