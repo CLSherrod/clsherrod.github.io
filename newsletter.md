@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: Releases by Christopher Sherrod
 permalink: /newsletter/
 ---
