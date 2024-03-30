@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: Projects of Christopher Sherrod
 permalink: /projects/
 ---

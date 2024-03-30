@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: “Christopher Sherrod”
 permalink: /alreadysubscribed/
 published: true

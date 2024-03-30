@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: home
 title: "Christopher Sherrod"
 permalink: /
 published: true

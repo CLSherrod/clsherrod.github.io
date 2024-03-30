@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 title: About Christopher Sherrod
 key: page-about
 aside:
