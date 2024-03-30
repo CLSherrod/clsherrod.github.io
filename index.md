@@ -6,7 +6,7 @@ published: true
 aside:
   toc: false
 ---
-<div style="width:50%; margin:0 auto;" align="center" markdown="1">
+<div style="width:40%; margin:0 auto;" align="center" markdown="1">
 ![image-center](/assets/images/avatar.webp){: .align-center}{:.circle.shadow}
 </div>
 
