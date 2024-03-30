@@ -8,9 +8,9 @@ permalink: /about/
 ---
 ![image-center](/assets/images/avatar.webp)
 *Christopher exploring Mexico*
-</div>
+
 ## My Entrepreneurial Journey: From Software to Business Ownership
-Hey there, I'm just a regular guy who's been around the block in the business world. I've dabbled in everything from software to real estate, and even had my own marketing agency with teams scattered across the globe in places like the Philippines, Ireland, Panama, and India. Been cruising the internet since my college days back in '88, and yeah, I jumped on the WordPress train way back when it was still in beta.
+Hey there, I’m just a regular guy who’s been around the block in the business world. I’ve dabbled in everything from software to real estate, and even had my own marketing agency with teams scattered across the globe in places like the Philippines, Ireland, Panama, and India. Been cruising the internet since my college days back in ‘88, and yeah, I jumped on the WordPress train way back when it was still in beta.
 
 These days, I’m all about newsletter-driven educational businesses. Ever since I ditched the corporate world in ‘96 to pursue entrepreneurship full-time, I’ve racked up my fair share of wins and losses. And you know what? I’ve learned a ton from both.
 
