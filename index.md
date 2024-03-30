@@ -1,6 +1,6 @@
 ---
-layout: article
-title: ""
+layout: landing
+title: "Christopher Sherrod"
 permalink: /
 published: true
 aside:
