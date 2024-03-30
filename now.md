@@ -7,7 +7,7 @@ aside:
 ---
 (This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
 
-Updated March 29rd, 2024.
+Updated on Friday March 29rd, 2024.
 
 ## Recently Published
 - New expat newsletter [Unveiling the Magic of Puerto Aventuras: Dive into the Ultimate Mexican Escape! 🏝️🌅](https://expatrebel.com/unveiling-the-magic-of-puerto-aventuras-dive-into-the-ultimate-mexican-escape/) for Expat Rebel.
