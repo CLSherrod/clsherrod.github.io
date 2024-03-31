@@ -1,0 +1,126 @@
+<style>
+  <!--
+  .center-blocks {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .icon-container {
+    width: 100%;
+    max-width: 650px; /* change this to make the entire block a different size */
+    text-align: center;
+  }
+
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .book-wrap {
+    box-sizing: border-box;
+    flex: 0 0 calc(33.33% - 20px);
+    margin: 10px;
+    font-size: 0.8em;
+  }
+
+  .book-link {
+    aspect-ratio: 360 / 160;
+    position: relative;
+    overflow: hidden;
+    background-color: #fff;
+    background-size: cover;
+    background-position: center;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    transition: background-color 0.3s;
+  }
+
+  .book-link:hover {
+    background-color: #fff8e0;
+  }
+
+  .book-link a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: black;
+  }
+
+  .dimmed { /* if you assigned a "dimmed" class to any button, it'll look disabled, like in the two audiobook examples at the bottom */
+    opacity: 0.1;
+  }
+
+  @media (max-width: 550px) {
+    .book-wrap {
+      flex: 0 0 calc(50% - 20px);
+      font-size: 0.6em;
+    }
+  }
+  -->
+</style>
+
+<div class="center-blocks">
+<div class="icon-container">
+<h5 style="margin-top: 40px;">Available in the following formats and shops</h5>
+<h3 style="margin-top: 40px;">Hardcover</h3>
+<div class="container">
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-ingramspark.png');" class="book-link"><a title="IngramSpark" href="https://shop.ingramspark.com/b/084?xVwc9G0B9KSSx1qmM8syq4aG26RgLxQVTLw5LVd1iX8">&nbsp;</a></div>
+cheaper + gives me bigger royalties</div>
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-amazon.png');" class="book-link"><a title="Amazon Kindle" href="https://bookgoodies.com/a/1961076020">&nbsp;</a></div>
+</div>
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-barnesandnoble.png');" class="book-link"><a title="Barnes &amp; Noble" href="https://www.barnesandnoble.com/w/wolf-of-withervale-joaqu-n-baldwin/1144086855?ean=9781961076020">&nbsp;</a></div>
+</div>
+</div>
+<h3 style="margin-top: 60px;">Paperback</h3>
+<div class="container">
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-ingramspark.png');" class="book-link"><a title="IngramSpark" href="https://shop.ingramspark.com/b/084?bP7HNBGSRT4GiXzbD9oTrS9IhMJKvrYKpmCRsbZwg7A">&nbsp;</a></div>
+cheaper + gives me bigger royalties</div>
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-amazon.png');" class="book-link"><a title="Amazon Kindle" href="https://bookgoodies.com/a/1961076012">&nbsp;</a></div>
+</div>
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-barnesandnoble.png');" class="book-link"><a title="Barnes &amp; Noble" href="https://www.barnesandnoble.com/w/wolf-of-withervale-joaqu-n-baldwin/1144086855?ean=9781961076013">&nbsp;</a></div>
+</div>
+</div>
+<h3 style="margin-top: 40px;">Ebook</h3>
+<div class="container">
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-kindle.png');" class="book-link"><a title="Amazon Kindle" href="https://bookgoodies.com/a/B0CKPGB5VC">&nbsp;</a></div>
+</div>
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-applebooks.png');" class="book-link"><a title="Apple Books" href="https://books.apple.com/us/book/wolf-of-withervale/id6451220289">&nbsp;</a></div>
+</div>
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-googleplay.png');" class="book-link"><a title="Google Play" href="https://play.google.com/store/books/details?id=dUjJEAAAQBAJ">&nbsp;</a></div>
+</div>
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-rakutenkobo.png');" class="book-link"><a title="Rakuten Kobo" href="https://www.kobo.com/us/en/ebook/wolf-of-withervale">&nbsp;</a></div>
+</div>
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-nook.png');" class="book-link"><a title="Nook by Barnes &amp; Noble" href="https://www.barnesandnoble.com/w/wolf-of-withervale-joaqu-n-baldwin/1144086855?ean=2940185802885">&nbsp;</a></div>
+</div>
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-smashwords.png');" class="book-link"><a title="Smashwords" href="https://www.smashwords.com/books/view/1463181">&nbsp;</a></div>
+</div>
+</div>
+<h3 style="margin-top: 40px;">Audiobook</h3>
+<div class="container">
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-audible.png');" class="book-link dimmed"><a title="Audible" href="#">&nbsp;</a></div>
+</div>
+<div class="book-wrap">
+<div style="background-image: url('https://YOURWEBSITEURLFORTHISIMAGE/logos-vendors-spotify.png');" class="book-link dimmed"><a title="Spotify" href="#">&nbsp;</a></div>
+</div>
+</div>
+<p style="margin-top: 40px;"><a href="https://buy.bookfunnel.com/ucjax4yos5?store=b2r" title="View even more stores that carry this title" style="color: #e3944a;">Even more stores that carry this title</a></p>
+</div>
+</div>

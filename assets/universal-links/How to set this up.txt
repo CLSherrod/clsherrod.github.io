@@ -1,0 +1,7 @@
+
+
+1) Open code-for-your-site.txt and edit all the URLs in there to your own.
+2) Upload all those images into your site somewhere. Then right-click them and "Copy image URL" on each.
+3) Paste those URLs into the image URLs in code-for-your-site.txt
+4) Add an HTML block to your site (or equivalent, they all call them something else), and paste the entire code from code-for-your-site.txt
+5) I left notes in the code for stuff you can edit to modify the sizes and dim buttons.
