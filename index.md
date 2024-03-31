@@ -25,9 +25,11 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 
 ## Books I’ve written
 [![image-center](assets/images/books/How-To-Create-New-Business-Ideas.webp)](https://amzn.to/3oZlRrW)
+
 [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
 
 [![image-center](assets/images/books/Hiring-Virtual-Workers.webp)](https://amzn.to/2FvAxx9)
+
 [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)
 
 ## Newsletter
