@@ -8,9 +8,8 @@ aside:
 article_header:
   type: overlay
   theme: dark
-  background_color: '#203028'
+  background_color: '#000000'
   background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: /assets/images/avatar.webp
 ---
 <div style="width:75%; margin:0 auto;" align="center" markdown="1">
