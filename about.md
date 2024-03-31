@@ -2,9 +2,9 @@
 layout: page
 title: About Christopher Sherrod
 key: page-about
+permalink: /about/
 aside:
   toc: true
-permalink: /about/
 article_header:
   type: overlay
   theme: light
