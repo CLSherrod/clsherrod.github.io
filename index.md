@@ -7,7 +7,7 @@ aside:
   toc: false
 article_header:
   type: overlay
-  theme: dark
+  theme: light
   background_color: '#000000'
   background_image:
     src: /assets/images/avatar.webp
