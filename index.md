@@ -32,6 +32,7 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 
 [Hiring Virtual Workers For Small Business - Amazon](https://amzn.to/2FvAxx9)
 
+[Playa del Carmen 2022 Guidebook (Expat Rebel Travel Guide): The ultimate locals guidebook for Expats and Digital Nomads visiting or moving to Playa del Carmen México (Expat Rebel Travel Guides 1)]()
 ## Newsletter
 Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my projects, articles and books.
 </div>
