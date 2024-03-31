@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Christopher Sherrod"
+title: Christopher Sherrod
 permalink: /
 published: true
 aside:
