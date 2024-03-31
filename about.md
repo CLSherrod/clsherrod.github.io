@@ -7,7 +7,7 @@ aside:
   toc: true
 article_header:
   type: overlay
-  theme: light
+  theme: dark
   background_color: '#000000'
   background_image:
     src: /assets/images/home-chris.webp
