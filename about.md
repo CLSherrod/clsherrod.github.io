@@ -6,7 +6,7 @@ aside:
   toc: true
 permalink: /about/
 ---
-![image-center](/assets/images/avatar.webp)
+![image-center](/assets/images/chris-about.webp)
 
 *Christopher exploring Mexico*
 
