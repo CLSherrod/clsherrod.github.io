@@ -41,4 +41,4 @@ This site runs on [plain text markdown format](https://en.wikipedia.org/wiki/Mar
 
 That’s the scoop, folks. Thanks for tuning in!
 
-[image-center](/assets/images/about-chris.webp)
+![image-center](/assets/images/about-chris.webp)
