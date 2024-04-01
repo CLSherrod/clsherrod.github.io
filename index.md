@@ -23,6 +23,9 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 ## Main Topics
 [#entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), [#workflow](https://christophersherrod.com/archive/?tag=workflow-apps), [#idea generation](https://christophersherrod.com/archive/?tag=idea-generation), [#tributes](https://christophersherrod.com/archive/?tag=tribute)
 
+## Newsletter
+Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my projects, articles and books.
+
 ## Books I’ve written
 [![image-center](assets/images/books/How-To-Create-New-Business-Ideas.webp)](https://amzn.to/3oZlRrW)
 
@@ -33,7 +36,4 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 [Hiring Virtual Workers For Small Business - Amazon](https://amzn.to/2FvAxx9)
 
 Plus tons of limited PDFs and email series over the years.
-
-## Newsletter
-Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my projects, articles and books.
 </div>
