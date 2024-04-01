@@ -32,8 +32,6 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 
 [Hiring Virtual Workers For Small Business - Amazon](https://amzn.to/2FvAxx9)
 
-[![image-center](assets/images/books/Playa-del-Carmen.webp)](https://amzn.to/3JB2sbx)
-
 [Playa del Carmen Guidebook: The ultimate locals guidebook for Expats and Digital Nomads visiting or moving to Playa del Carmen México](https://amzn.to/3JB2sbx)
 
 ## Newsletter
