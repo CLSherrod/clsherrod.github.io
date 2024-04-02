@@ -44,7 +44,7 @@ On to the games. They are fun and simple and can be done on your own or in a gro
 There are also practical tips to check out the viability of your idea before taking that leap of faith. I think this would be fun to do with my teenage grandson and some of his friends as well. Planting some entrepreneurial seeds at a young age has got to be a good thing.
 Thanks Chris!” ~ 	Shelley J.W.
 
-”It lives up to its title! - 
+”It lives up to its title! - The prosperity games in the book really helped me and my friends generate great ideas I probably would not have thought up on my own. I highly recommend it to anyone looking to create new business ideas.” ~ Paurie
 
 - [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)
 “An extremely helpful, quick guide - For years I have wondered about the best way to hire virtual assistants (VAs). This book lays it out in a helpful and systematic way. The websites included and the evaluations of each totally de-mystify the process and make it possible for you to up level your business without having to learn a bunch of technology or other distracting things. The book is a quick read and instantly helpful in running your business.” ~ David Chaumette
