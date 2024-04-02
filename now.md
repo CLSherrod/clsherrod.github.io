@@ -7,7 +7,7 @@ aside:
 ---
 (This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
 
-Updated on Friday March 29rd, 2024.
+Updated on Tuesday April 2nd, 2024.
 
 ## Recently Published
 - New expat newsletter [Easter Weekend Escapade: Beach Bliss and City Delights in Mexico! 🏖️🌆](https://expatrebel.com/easter-weekend-escapade-beach-bliss-and-city-delights-in-mexico/) for Expat Rebel.
