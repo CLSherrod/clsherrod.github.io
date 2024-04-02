@@ -35,5 +35,5 @@ Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated
 
 [Hiring Virtual Workers For Small Business - Amazon](https://amzn.to/2FvAxx9)
 
-Plus tons of limited-time PDFs and email series over the years and a few events.
+Plus tons of limited-time PDFs and email series over the years and a few events before retiring to Mexico.
 </div>
