@@ -68,7 +68,3 @@ Want to stay in the loop?
 This site runs on [plain text markdown format](https://en.wikipedia.org/wiki/Markdown), and my articles are stored in good ol’ markdown format files. All this is made possible by [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com). While my Jekyll template isn’t up for grabs, I recommend checking out [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)  by Maxime Vaillancourt.
 
 That’s the scoop, folks. Thanks for tuning in!
-
-<div style="width:20%; margin:0 auto;" align="center" markdown="1">
-![image-center](/assets/images/Chris-Uxmall.webp)
-</div>

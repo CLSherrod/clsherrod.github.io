@@ -61,8 +61,3 @@ I’m a huge music fan. Love a lot of different styles of music. I have even cre
 
 ## Enjoying My Cats
 It’s been 10 months since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing. They are both welcomed members of the family.
-
-<div style="width:20%; margin:0 auto;" align="center" markdown="1">
-![image-center](/assets/images/Ixchel.webp)
-![image-center](/assets/images/Xana.webp)
-</div>
