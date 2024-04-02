@@ -22,7 +22,10 @@ Being in the game for the long haul, I enjoy sharing my business insights throug
 **Books I’ve Written:**
 I’ve also authored a couple of business books:
 - [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
+“This is a fascinating tool for brainstorming.  Creative ideas, concepts and exploration.” - Henry Novak
+
 - [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)
+“An extremely helpful, quick guide - For years I have wondered about the best way to hire virtual assistants (VAs). This book lays it out in a helpful and systematic way. The websites included and the evaluations of each totally de-mystify the process and make it possible for you to up level your business without having to learn a bunch of technology or other distracting things. The book is a quick read and instantly helpful in running your business.” ~ David Chaumette
 
 ## Current Projects and More
 Curious about what I’m up to these days? Check out my current projects section. And if you want a glimpse into my past endeavors, I’ve got a full list of past projects too.
@@ -36,6 +39,8 @@ Want to stay in the loop?
 - Mastodon: [pkm.social/@chris](https://pkm.social/@chris)
 - Github: [github.com/clsherrod](https://github.com/clsherrod)
 
+## Testimonials
+About my first book “How T
 ## Behind the Scenes
 This site runs on [plain text markdown format](https://en.wikipedia.org/wiki/Markdown), and my articles are stored in good ol’ markdown format files. All this is made possible by [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com). While my Jekyll template isn’t up for grabs, I recommend checking out [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)  by Maxime Vaillancourt.
 
