@@ -64,8 +64,6 @@ Want to stay in the loop?
 - Mastodon: [pkm.social/@chris](https://pkm.social/@chris)
 - Github: [github.com/clsherrod](https://github.com/clsherrod)
 
-## Testimonials
-About my first book “How T
 ## Behind the Scenes
 This site runs on [plain text markdown format](https://en.wikipedia.org/wiki/Markdown), and my articles are stored in good ol’ markdown format files. All this is made possible by [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com). While my Jekyll template isn’t up for grabs, I recommend checking out [this template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)  by Maxime Vaillancourt.
 
