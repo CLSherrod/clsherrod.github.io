@@ -27,12 +27,14 @@ I’m an entrepreneur. I write about what I’ve learned. Check out my [Dolphin 
 Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my projects, articles and books.
 
 ## Books I’ve written
+<div style="width:75%; margin:0 auto;" align="right" markdown="1">
 [![image-center](assets/images/books/How-To-Create-New-Business-Ideas.webp)](https://amzn.to/3oZlRrW)
-
+</div>
 [How To Create New Business Ideas Based On What You Love - Amazon](https://amzn.to/3oZlRrW)
 
+<div style="width:75%; margin:0 auto;" align="right" markdown="1">
 [![image-center](assets/images/books/Hiring-Virtual-Workers.webp)](https://amzn.to/2FvAxx9)
-
+</div>
 [Hiring Virtual Workers For Small Business - Amazon](https://amzn.to/2FvAxx9)
 
 Plus tons of limited-time PDFs and email series over the years and a few events before retiring to Mexico.
