@@ -69,4 +69,6 @@ This site runs on [plain text markdown format](https://en.wikipedia.org/wiki/Mar
 
 That’s the scoop, folks. Thanks for tuning in!
 
-![image-center](/assets/images/about-chris.webp)
+<div style="width:75%; margin:0 auto;" align="right" markdown="1">
+![image-center](/assets/images/Chris-Uxmall.webp)
+</div>
