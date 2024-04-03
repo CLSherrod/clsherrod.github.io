@@ -27,12 +27,8 @@ I’m a semi-retired entrepreneur. I write about what I’ve learned in plain ta
 Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my projects, articles and books.
 
 ## Books I’ve written
-</div>
-<div style="width:20%; margin:0 auto;" align="center" markdown="1">
-[![image-center](assets/images/books/How-To-Create-New-Business-Ideas.webp)](https://amzn.to/3oZlRrW)
 [How To Create New Business Ideas Based On What You Love - Amazon](https://amzn.to/3oZlRrW)
 
-[![image-center](assets/images/books/Hiring-Virtual-Workers.webp)](https://amzn.to/2FvAxx9)
 [Hiring Virtual Workers For Small Business - Amazon](https://amzn.to/2FvAxx9)
 </div>
 
