@@ -194,10 +194,9 @@ Here is a comprehensive list of [Resources, links, projects, and ideas for garde
 
 Using a template vault is a great shortcut to get started.  Pick one that is close to what you are. Some are more geared towards content making, others for college and some for researchers.
 
-For keeping track of to dos I use [Todo.txt](http://todotxt.org) a simple way to have to dos in a single plain text file with many apps that can use it.
-
 ### Additional Markdown Resources
 I’ve created some markdown projects to help me organize things in my life. I hope you find them helpful.
+- [One Big Text File Markdown Journal]()
 - [Home Manual Markdown](https://github.com/CLSherrod/home-manual-markdown) - what I use to track everything in home
 - [Gardening Markdown](https://github.com/CLSherrod/gardening-markdown) - how I keep track of my plants
 - [Contact Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown) - I found most contact system to be too complicated so I made a simple plaintext files to maintain contact notes
