@@ -7,10 +7,10 @@ aside:
 ---
 (This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
 
-Updated on Tuesday April 9th, 2024.
+Updated on Wednesday April 10th, 2024.
 
 ## Recently Published
-- I created a new markdown template for the one big text file markdown journal I've been using since January 2022 
+- I created a new markdown template for the one big text file markdown journal I’ve been using since January 2022, [One Big Text File Markdown Journal - Github](https://github.com/CLSherrod/OBTF/) 
 - New expat newsletter [Spider Bite Scares & Laundry Surprises: Tales from Mexico 🕷️🌞](https://expatrebel.com/spider-bite-scares-laundry-surprises-tales-from-mexico/) for Expat Rebel.
 - New article [Expert Book Writing and Publishing: 19 Proven Strategies for Success](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about self-publishing books - physical, ebooks and articles.
 - I updated my team workflow article for 2024 [Boost Your Content Production Game: Essential Apps and Tools for 2024!](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing and livestream service StreamYard.
