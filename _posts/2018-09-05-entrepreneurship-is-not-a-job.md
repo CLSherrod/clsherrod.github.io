@@ -4,7 +4,7 @@ title: "Embracing Entrepreneurship: It's Not Just a Job, It's a Calling"
 date: 2018-09-05
 last_modified_at: 2024-04-11
 tags: entrepreneurship
-permalink: /entrepreneurship-is-not-a-job/"
+permalink: /entrepreneurship-is-not-a-job/
 published: true
 comments: true
 ---
