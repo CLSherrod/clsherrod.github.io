@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Reach is overrated
+title: Skipping Success: The Allure of Entrepreneurial Fame and the Pitfalls of Premature Business Coaching
 date: 2019-05-15
 last_modified_at: 2024-04-11
 tags: branding
