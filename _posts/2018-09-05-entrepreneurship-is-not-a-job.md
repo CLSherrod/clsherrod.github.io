@@ -8,7 +8,7 @@ permalink: /entrepreneurship-is-not-a-job/
 published: true
 comments: true
 ---
-There is a lot of entrepreneur training that makes it sound like it’s a job.</p>
+There is a lot of entrepreneur training that makes it sound like it’s a job.
 <!--more-->
 It isn’t.
 
