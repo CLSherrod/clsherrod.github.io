@@ -2,7 +2,6 @@
 layout: home
 title: Christopher Sherrod
 permalink: /
-key: page-about
 published: true
 aside:
   toc: false
