@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Entrepreneurship is not a job"
+title: "Embracing Entrepreneurship: It's Not Just a Job, It's a Calling"
 date: 2018-09-05
 last_modified_at: 2024-04-11
 tags: entrepreneurship
