@@ -2,6 +2,7 @@
 layout: home
 title: Christopher Sherrod
 permalink: /
+key: page-about
 published: true
 aside:
   toc: false
@@ -13,7 +14,7 @@ article_header:
     src: /assets/images/home-chris.webp
 ---
 <div style="width:75%; margin:0 auto;" align="center" markdown="1">
-I’m a semi-retired entrepreneur. I write about what I’ve learned in plain talk, no hype. Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/dolphin-entrepreneur). And [learn more about me here](https://christophersherrod.com/about/).
+I’m an entrepreneur. I write about what I’ve learned in plain talk, no hype. Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/dolphin-entrepreneur). And [learn more about me here](https://christophersherrod.com/about/).
 
 ## My featured articles
 - [Expert Book Writing and Publishing: 19 Proven Strategies](https://christophersherrod.com/book-advice/)
