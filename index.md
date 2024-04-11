@@ -34,6 +34,6 @@ Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated
 [How To Create New Business Ideas Based On What You Love - Amazon](https://amzn.to/3oZlRrW)
 
 [Hiring Virtual Workers For Small Business - Amazon](https://amzn.to/2FvAxx9)
-</div>
 
 Plus tons of limited-time PDFs and email series over the years.
+</div>
