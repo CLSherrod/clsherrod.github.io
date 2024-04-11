@@ -14,11 +14,14 @@ article_header:
     src: /assets/images/home-chris.webp
 ---
 <div style="width:75%; margin:0 auto;" align="center" markdown="1">
+<br>
 I’m an entrepreneur. I write about what I’ve learned in plain talk, no hype. Check out my [Dolphin Entrepreneur Philosophy](https://christophersherrod.com/dolphin-entrepreneur). And [learn more about me here](https://christophersherrod.com/about/).
 
-## My featured articles
+## My current featured articles
 [Expert Book Writing and Publishing: 19 Proven Strategies](https://christophersherrod.com/book-advice/)
+
 [Boost Your Content Production Game: Apps and Tools for 2024!](https://christophersherrod.com/workflow)
+
 [How Smart Notes Transformed My Productivity and Well-being](https://christophersherrod.com/smart-notes/)
 
 ## Main Topics
