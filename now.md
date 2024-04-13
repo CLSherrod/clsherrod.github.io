@@ -10,8 +10,8 @@ aside:
 Updated on Saturday April 13th, 2024.
 
 ## Recently Published
-- I created a new markdown template for the one big text file markdown journal I’ve been using since January 2022, [One Big Text File Markdown Journal - Github](https://github.com/CLSherrod/OBTF/) 
 - New expat newsletter [Reflections on the Mexican Ecuadorian Embassy Incident 🇪🇨🇲🇽](https://expatrebel.com/reflections-on-the-mexican-ecuadorian-embassy-incident/) for Expat Rebel.
+- I created a new markdown template for the one big text file markdown journal I’ve been using since January 2022, [One Big Text File Markdown Journal - Github](https://github.com/CLSherrod/OBTF/) 
 - New article [Expert Book Writing and Publishing: 19 Proven Strategies for Success](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about self-publishing books - physical, ebooks and articles.
 - I updated my team workflow article for 2024 [Boost Your Content Production Game: Essential Apps and Tools for 2024!](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing and livestream service StreamYard.
 
@@ -57,8 +57,8 @@ I’m a huge music fan. Love a lot of different styles of music. I have even cre
 ### Music Fan
 - The latest song I really like is [Feel Yourself (YouTube video)](https://www.youtube.com/watch?v=TZhdLNs7Gvk) by [Flamingosis](http://www.flamingosis.com). Very catchy tune from a new artist to me.
 - I’m looking forward to [Kamasi Washington](https://www.kamasiwashington.com)’s new Album “Fearless Movement”. He is one of the best modern jazz musicians. He reminds me of John Coltrane, who is my favorite jazz musician of all time.
-- I’ve really been enjoying [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com). You can [see my rated albums](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476) so far. I’ve got 30 more days before I finish with the 1001 albums and it’s been fun to listen to lots of music I normally wouldn’t.
+- I’ve really been enjoying [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com). You can [see my rated albums](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476) so far. I’ve got 10 more days before I finish with the 1001 albums and it’s been fun to listen to lots of music I normally wouldn’t.
 - [My profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
 
 ## Enjoying My Cats
-It’s been 10 months since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing. They are both welcomed members of the family.
+It’s been 11 months since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing. They are both welcomed members of the family.
