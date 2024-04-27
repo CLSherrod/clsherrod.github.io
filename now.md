@@ -7,17 +7,13 @@ aside:
 ---
 (This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
 
-Updated on Monday April 22nd, 2024.
+Updated on Saturday April 27th, 2024.
 
 ## Recently Published
 - New expat newsletter [Discovering Life’s True Meaning: How México Taught Me to Slow Down, Prioritize Family, and Embrace Culture](https://expatrebel.com/discovering-lifes-true-meaning-how-mexico-taught-me-to-slow-down-prioritize-family-and-embrace-culture/) for Expat Rebel.
 - I updated the readme file for the One Big Text File Markdown Journal (OBTF) template. A technique I’ve been using since January 2022 - [One Big Text File Markdown Journal - Github](https://github.com/CLSherrod/OBTF/) 
 - New article [Expert Book Writing and Publishing: 19 Proven Strategies for Success](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about self-publishing books - physical, ebooks and articles.
 - I updated my team workflow article for 2024 [Boost Your Content Production Game: Essential Apps and Tools for 2024!](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing and livestream service StreamYard.
-
-## Producing
-- I publish and write a weekly newsletter for [Expat Rebel](https://expatrebel.com).
-- I’m a producer of [Nan Akasha](https://nanakasha.com).
 
 ## Currently Creating
 - **Expat Rebel: Insights and Adventures Abroad** - I’m writing my Expat travel essay book
