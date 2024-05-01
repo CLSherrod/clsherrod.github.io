@@ -5,7 +5,7 @@ date: 2024-04-22
 last_modified_at: 2024-05-01
 tags: environmentalism
 permalink: /earth-day-everyday/
-published: false
+published: true
 comments: true
 ---
 Earth Day Everyday
