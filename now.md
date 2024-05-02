@@ -24,6 +24,7 @@ Updated on Thursday May 2nd, 2024.
 ## Interests
 ### Writing
 I love writing. I try to write everyday in the morning. When I write I feel fulfilled. See above for I’ve published recently.
+
 ### Reading
 #### Currently Reading
 I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
@@ -40,13 +41,6 @@ My past books I’ve read listed on [my GoodReads profile](https://www.goodreads
 - I like [Arnold’s Pump Club](https://arnoldspumpclub.com/#podcast) podcast as he has good health advice.
 - I’ve been listenting to Leo since the ScreenSavers on Cable TV and now for years [This Week In Tech](https://twit.tv/shows/this-week-in-tech) podcast.
  
-### Sci-fi
-- Enjoyed Season 3 of [Resident Alien](https://www.imdb.com/title/tt8690918/episodes/?season=3)
-- I found the moral questions and sci-fi comedy of [Uploads Season 3](https://www.imdb.com/title/tt7826376/episodes/?season=3) to be fun.
-- I really liked [3 Body Problem](https://www.netflix.com/search?q=3%20body%20problem&jbv=81024821) on Netflix. I watched the Chinese 30 episode show last year which was excellent. The English remake makes it more accessible with a faster pace and even better effects.
-
-[My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
-
 ### Music
 I’m a huge music fan. Love a lot of different styles of music. I have even created some music.
 #### Musician
@@ -68,6 +62,15 @@ I’m also learning Spanish by practicing it.
 
 ### Photography
 I love photography. I even got a minor in it in college. I sold a single photo to a newspaper once and been shown in an art gallery once. I never was a professional beyond. I has been a great skill to have learned as a kid as my daily snapshots I share with family and friends are very good.
+
+### Sci-fi
+I love a good thought provoking scifi movie or series. Not the horror ones, but the classic 50s thought experiments style.  A good Star Trek over anything Star Wars.
+
+- Enjoyed Season 3 of [Resident Alien](https://www.imdb.com/title/tt8690918/episodes/?season=3)
+- I found the moral questions and sci-fi comedy of [Uploads Season 3](https://www.imdb.com/title/tt7826376/episodes/?season=3) to be fun.
+- I really liked [3 Body Problem](https://www.netflix.com/search?q=3%20body%20problem&jbv=81024821) on Netflix. I watched the Chinese 30 episode show last year which was excellent. The English remake makes it more accessible with a faster pace and even better effects.
+
+[My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
 
 ### Enjoying My Cats
 It’s been 11 months since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing. They are both welcomed members of the family.
