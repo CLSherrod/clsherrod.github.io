@@ -2,8 +2,6 @@
 layout: page
 title: Books
 permalink: /books/
-aside:
-  toc: true
 ---
 These are my books that are still on the market.
 
