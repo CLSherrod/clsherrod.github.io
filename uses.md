@@ -12,7 +12,7 @@ Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2az
 - [Rode smartLav+ Microphone](https://rode.com/en/microphones/mobile/smartlav-plus)
 - [iPhone SE 2](https://www.apple.com/iphone-se/)
 - [Kindle Paperwhite](https://amzn.to/4a1RdEJ) since 2016
-- [Raspberry Pi](https://www.raspberrypi.com) serer
+- [Raspberry Pi](https://www.raspberrypi.com) home server
 
 ## Software
 - Safari
