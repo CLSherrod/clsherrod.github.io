@@ -17,13 +17,14 @@ Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2az
 ## Software
 - Safari
 - Apple Mail
-- [WordPress](https://wordpress.org)
-- [Astro](https://astro.build)
-- [Obsidian](https://obsidian.md)
-- [VSCodium](https://vscodium.com)
-- [Calibre](https://calibre-ebook.com)
+- [WordPress](https://wordpress.org) legacy websites
+- [Astro](https://astro.build) static website framework
+- [Obsidian](https://obsidian.md) notes
+- [VSCodium](https://vscodium.com) static website editor and any code
+- [Calibre](https://calibre-ebook.com) ebook manager
 
 ## Services
+- [NameCheap](https://www.namecheap.com) domain names
+- [CloudFlare](https://cloudflare.com) DNS
 - [Hostinger VPS](https://www.hostinger.com/vps-hosting) hosting
-- [NameCheap](https://www.namecheap.com)
-- [Claude](https://claude.ai) while writing
+- [ChatGPT](https://chat.openai.com) & [Claude](https://claude.ai) while writing
