@@ -1,6 +1,8 @@
 header:
   - title:      Home
     url:        /
+  - title:      Books
+    url:        /books/
   - title:      Newsletter
     url:        /newsletter/
   - title:      Archive
