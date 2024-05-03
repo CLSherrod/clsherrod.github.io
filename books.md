@@ -5,7 +5,10 @@ permalink: /books/
 aside:
   toc: true
 ---
+These are my books that are still on the market.
+
 ## Hiring Virtual Workers For Small Business
+<div style="width:20%; margin:0 auto;" align="right" markdown="1">
 ![Image](/assets/images/books/Hiring-Virtual-Workers.webp)
 </div>
 I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
