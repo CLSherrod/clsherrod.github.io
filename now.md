@@ -7,7 +7,7 @@ aside:
 ---
 (This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
 
-Updated on Saturday May 6th, 2024.
+Updated on Tuesday May 7th, 2024.
 
 ## Recently Published
 - New expat newsletter [Entry Requirements for Privileged Passport Holders: Understanding Electronic Travel Authorization (ETA) Systems](https://expatrebel.com/electronic-travel-authorization/) for Expat Rebel.
