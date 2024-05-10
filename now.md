@@ -49,7 +49,7 @@ I’m a huge music fan. Love a lot of different styles of music. I have even cre
 
 #### Music Fan
 - New [Pearl Jam](https://pearljam.com) album [Dark Matter](https://pearljam.com/news/dark-matter-out-now) is great.
-- The album by [Flamingosis](http://www.flamingosis.com) is a fun listen
+- The album [Better Will Come](https://lnk.dmsmusic.co/flamingosis_betterwillcome) by [Flamingosis](http://www.flamingosis.com) is a fun listen.
 - Love [Kamasi Washington](https://www.kamasiwashington.com)’s new Album “Fearless Movement”. He is one of the best modern jazz musicians.
 - I just finished the [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com) challenge. You can [see my rated albums](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476). I enjoyed it so much I wrote an [entire essay about it](https://christophersherrod.com/1001-albums/).
 - [My profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
