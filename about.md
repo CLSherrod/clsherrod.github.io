@@ -32,7 +32,7 @@ Being in the game for the long haul, I enjoy sharing my business insights throug
 ## Newsletter
 Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my projects, articles and books.
 
-**Books I’ve Written:**
+## Books I’ve Written
 I’ve also authored a couple of business books:
 - [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
 > “This is a fascinating tool for brainstorming.  Creative ideas, concepts and exploration.” - Henry Novak
