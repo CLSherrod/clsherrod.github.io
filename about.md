@@ -5,6 +5,12 @@ key: page-about
 permalink: /about/
 aside:
   toc: true
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#000000'
+  background_image:
+    src: /assets/images/home-chris.webp
 ---
 ## My Entrepreneurial Journey: From Software to Business Ownership
 Hey there, I’m just a regular guy who’s been around the block in the business world. I’ve dabbled in everything from software to real estate, and even had my own marketing agency with teams scattered across the globe in places like the Philippines, Ireland, Panama, and India. Been cruising the internet since my college days back in ‘88, and yeah, I jumped on the WordPress train way back when it was still in beta.
