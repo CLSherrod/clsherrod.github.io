@@ -7,7 +7,7 @@ aside:
 ---
 (This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
 
-Updated on Friday May 10th, 2024.
+Updated on Saturday May 11th, 2024.
 
 ## Recently Published
 - New expat newsletter [Entry Requirements for Privileged Passport Holders: Understanding Electronic Travel Authorization (ETA) Systems](https://expatrebel.com/electronic-travel-authorization/) for Expat Rebel.
@@ -16,10 +16,8 @@ Updated on Friday May 10th, 2024.
 - I updated my team workflow article for 2024 [Boost Your Content Production Game: Essential Apps and Tools for 2024!](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing and livestream service StreamYard.
 
 ## Currently Creating
-- **Expat Rebel: Insights and Adventures Abroad** - I’m writing my Expat travel essay book
-- **Wilderness Tales: A Childhood in Alaska** - I’m currently going thru my photo slides collection and scanning in photos for a future book about my childhood in Alaska with float planes and wolf dogs. It’s a lot of fun seeing memories from the 70s. What an adventure I had living on a float plane lake and seeing parts of Alaska not seen by many.
-- **Nan’s Love: Poems from the Heart** - I recently started writing poems for my love, family and friends for fun. Some have encouraged me to put them together into a collection. So, I’m focusing on writing about the big moments in life and getting feedback from family and friends.
-- **Oracle Cards** - I’m working with an expert on creating an oracle card deck. I’m doing the art. Got the style of the cards figured out and working on completing all the cards.
+- I'm currently writing four books. Once one is near completion I'll only focus on that one.
+- I'm also working on some artwork for an oracle card deck with an expert.
 
 ## Interests
 ### Writing
