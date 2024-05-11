@@ -19,6 +19,19 @@ I’ve penned down my business philosophy, dubbed the [Dolphin Entrepreneur](htt
 ## Writing About Business
 Being in the game for the long haul, I enjoy sharing my business insights through my [my articles here](https://christophersherrod.com/archive/). You can catch ‘em all right here on my site.
 
+## My current featured articles
+[Expert Book Writing and Publishing: 19 Proven Strategies](https://christophersherrod.com/book-advice/)
+
+[Boost Your Content Production Game: Apps and Tools for 2024!](https://christophersherrod.com/workflow)
+
+[How Smart Notes Transformed My Productivity and Well-being](https://christophersherrod.com/smart-notes/)
+
+## Main Topics
+[#entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), [#workflow](https://christophersherrod.com/archive/?tag=workflow-apps), [#idea generation](https://christophersherrod.com/archive/?tag=idea-generation), [#tributes](https://christophersherrod.com/archive/?tag=tribute)
+
+## Newsletter
+Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my projects, articles and books.
+
 **Books I’ve Written:**
 I’ve also authored a couple of business books:
 - [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
