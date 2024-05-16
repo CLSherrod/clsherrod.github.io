@@ -5,18 +5,11 @@ permalink: /books/
 ---
 These are my books that are still on the market.
 
-<div style="width:10%; margin:0 auto;" align="left" markdown="1">
-![Image](/assets/images/books/Hiring-Virtual-Workers.webp)
-</div>
 I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
 
 I will walk you through my step-by-step process to finding a virtual worker that fits you. I believe your first helper is a virtual assistant followed by an accountant soon afterward. These two hires will impact your business directly and quickly and will pay for themselves very quickly.
 
 [Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9)
-
-<div style="width:10%; margin:0 auto;" align="left" markdown="1">
-![Image](/assets/images/books/How-To-Create-New-Business-Ideas.webp)
-</div>
 
 A simple step by step guide to creating new business ideas based on what you love
 
