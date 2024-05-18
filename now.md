@@ -5,7 +5,7 @@ permalink: /now/
 aside:
   toc: true
 ---
-(This is a [now page](https://nownownow.com/about).
+This is a [now page](https://nownownow.com/about).
 
 Updated on Saturday May 18th, 2024.
 
