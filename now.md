@@ -5,19 +5,20 @@ permalink: /now/
 aside:
   toc: true
 ---
-(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)
+(This is a [now page](https://nownownow.com/about).
 
-Updated on Saturday May 11th, 2024.
+Updated on Saturday May 18th, 2024.
 
 ## Recently Published
-- New expat newsletter [🌞 Beat the Heat Wave with Our Solar System Saga! 🏡 Discover how we weathered the scorching temperatures and celebrated Mother's Day twice!](https://expatrebel.com/surviving-the-heat-wave-our-solar-system-saga-mothers-day-celebrations/) for Expat Rebel.
+- New expat newsletter [🌞 Beat the Heat Wave with Our Solar System Saga! 🏡 Discover how we weathered the scorching temperatures and celebrated Mother’s Day twice!](https://expatrebel.com/surviving-the-heat-wave-our-solar-system-saga-mothers-day-celebrations/) for Expat Rebel.
 - I updated the readme file for the One Big Text File Markdown Journal (OBTF) template. A technique I’ve been using since January 2022 - [One Big Text File Markdown Journal - Github](https://github.com/CLSherrod/OBTF/) 
 - New article [Expert Book Writing and Publishing: 19 Proven Strategies for Success](https://christophersherrod.com/book-advice/) based on a few conversations with many people over the years about self-publishing books - physical, ebooks and articles.
 - I updated my team workflow article for 2024 [Boost Your Content Production Game: Essential Apps and Tools for 2024!](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing and livestream service StreamYard.
 
 ## Currently Creating
-- I'm currently writing four books. Once one is near completion I'll only focus on that one.
-- I'm also working on some artwork for an oracle card deck with an expert.
+- Writing copy for two brands.
+- I’m currently writing four books. Once one is near completion I’ll only focus on that one.
+- I’m also working on some artwork for an oracle card deck with an expert.
 
 ## Interests
 ### Writing
@@ -49,7 +50,7 @@ I’m a huge music fan. Love a lot of different styles of music. I have even cre
 - New [Pearl Jam](https://pearljam.com) album [Dark Matter](https://pearljam.com/news/dark-matter-out-now) is great.
 - The album [Better Will Come](https://lnk.dmsmusic.co/flamingosis_betterwillcome) by [Flamingosis](http://www.flamingosis.com) is a fun listen.
 - Love [Kamasi Washington](https://www.kamasiwashington.com)’s new Album “Fearless Movement”. He is one of the best modern jazz musicians.
-- I just finished the [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com) challenge. You can [see my rated albums](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476). I enjoyed it so much I wrote an [entire essay about it](https://christophersherrod.com/1001-albums/).
+- I recommend the [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com) challenge. You can [see my rated albums](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476). I enjoyed it so much I wrote an [entire essay about it](https://christophersherrod.com/1001-albums/).
 - [My profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
 
 ### Slow Health
@@ -71,4 +72,4 @@ I love a good thought provoking scifi movie or series. Not the horror ones, but 
 [My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
 
 ### Enjoying My Cats
-It’s been 11 months since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing. They are both welcomed members of the family.
+It’s been almost a year since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing.
