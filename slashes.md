@@ -3,7 +3,7 @@ layout: page
 title: My slash pages
 permalink: /slashes/
 ---
-This is a [/slashes page](https://slashpages.net/). A /slashes page is an index of all my slash pages. Slash pages are common pages you can add to your website, usually with a standard, root-level slug like [/now](https://christophersherrod.com/now), [/about](https://christophersherrod.com/about), or [/uses](https://christophersherrod.com/uses). They tend to describe the individual behind the site and are distinguishing characteristics of the IndieWeb.
+This is a [/slashes page](https://slashpages.net/). A /slashes page is an index of all my slash pages. Slash pages are common pages you can add to your website, usually with a standard, root-level slug.
 
 - [About](https://christophersherrod.com/about)
 - [Contact](https://christophersherrod.com/contact)
