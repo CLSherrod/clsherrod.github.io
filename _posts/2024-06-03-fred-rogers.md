@@ -3,7 +3,7 @@ layout: article
 title: "Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers"
 date: 2024-06-03
 last_modified_at: 2024-06-03
-tags: entrepreneurship, tribute
+tags: entrepreneurship tribute
 permalink: /fred-rogers/
 published: true
 comments: true
