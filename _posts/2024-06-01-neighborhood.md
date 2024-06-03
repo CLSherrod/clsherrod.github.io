@@ -3,10 +3,17 @@ layout: article
 title: "Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers"
 date: 2024-06-01
 last_modified_at: 2024-06-01
-tags: entrepreneurship
+tags: entrepreneurship, tribute
 permalink: /fred-rogers/
 published: true
 comments: true
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#00ced1'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
+    src: /assets/images/articles/fred-rogers.webp
 ---
 Entrepreneurial Lessons from Mr. Rogers
 <!--more--> 
