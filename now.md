@@ -2,8 +2,6 @@
 layout: page
 title: What I'm Doing Now
 permalink: /now/
-aside:
-  toc: true
 ---
 This is a [now page](https://nownownow.com/about).
 
