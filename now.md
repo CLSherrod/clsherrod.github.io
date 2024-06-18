@@ -5,10 +5,11 @@ permalink: /now/
 ---
 This is a [now page](https://nownownow.com/about).
 
-Updated on Tuesday June 4th, 2024.
+Updated on Tuesday June 18th, 2024.
 
 ## Recently Published
-- New article [Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers](https://christophersherrod.com/fred-rogers/)
+- New article because a friend got hacked [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication](https://christophersherrod.com/security/)
+- Wrote [Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers](https://christophersherrod.com/fred-rogers/)
 - Created my [/slashes page](https://christophersherrod.com/slashes) to list all my common slashes pages.
 - Wrote [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](https://christophersherrod.com/1001-albums/)
 - Wrote [Embracing Earth Day Every Day: A Call for Continuous Environmental Consciousness](https://christophersherrod.com/earth-day-everyday/)
