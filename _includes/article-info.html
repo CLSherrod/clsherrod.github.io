@@ -91,7 +91,6 @@
   {%- endif -%}
   {%- if include.article.tags[0] -%}
     {%- assign _keywords = include.article.tags | join: ',' %}
-    <meta itemprop="categories" content="{{ _categories }}">
     <meta itemprop="keywords" content="{{ _keywords }}">
   {%- endif -%}
 {%- endif -%}
