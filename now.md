@@ -5,9 +5,10 @@ permalink: /now/
 ---
 This is a [now page](https://nownownow.com/about).
 
-Updated on Tuesday June 18th, 2024.
+Updated on Sunday June 23th, 2024.
 
 ## Recently Published
+- Updated my [robots.txt file](https://christophersherrod.com/robots.txt) to disallow bad bots and AI crawlers.
 - New article because a friend got hacked [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication](https://christophersherrod.com/security/)
 - Wrote [Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers](https://christophersherrod.com/fred-rogers/)
 - Created my [/slashes page](https://christophersherrod.com/slashes) to list all my common slashes pages.
@@ -20,4 +21,4 @@ Updated on Tuesday June 18th, 2024.
 ## Currently Creating
 - Writing copy for two brands.
 - I’m currently writing four books. Once one is near completion I’ll only focus on that one.
-- I’m also working on some artwork for an oracle card deck with an expert.
+- I’m also working on some artwork for an oracle card deck with an expert which has spurred some optical art pieces I'm working on.

@@ -15,6 +15,7 @@ I love writing. I try to write everyday in the morning. When I write I feel fulf
 
 ### Reading
 #### Currently Reading
+I'm reading What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So are I really like it. 
 I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
 
 #### Last Read Books
@@ -49,6 +50,7 @@ I love photography. I even got a minor in it in college. I sold a single photo t
 ### Sci-fi
 I love a good thought provoking scifi movie or series. Not the horror ones, but the classic 50s thought experiments style.  A good Star Trek over anything Star Wars.
 
+- Truly weird sc-fi planet on [Scavengers Reign](https://www.imdb.com/title/tt21056886/?ref_=hm_rvi_tt_i_3) made it very different from most sci-fi out there. The animation led to making the truly weird and foreign plants and animals.
 - Enjoyed Season 3 of [Resident Alien](https://www.imdb.com/title/tt8690918/episodes/?season=3)
 - I found the moral questions and sci-fi comedy of [Uploads Season 3](https://www.imdb.com/title/tt7826376/episodes/?season=3) to be fun.
 - I really liked [3 Body Problem](https://www.netflix.com/search?q=3%20body%20problem&jbv=81024821) on Netflix. I watched the Chinese 30 episode show last year which was excellent. The English remake makes it more accessible with a faster pace and even better effects.
