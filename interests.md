@@ -7,7 +7,7 @@ aside:
 ---
 This is a [interests page](https://chrisburnell.github.io/interests-directory/).
 
-Updated on Friday May 24th, 2024.
+Updated on Tuesday June 25th, 2024.
 
 ## Interests
 ### Writing
