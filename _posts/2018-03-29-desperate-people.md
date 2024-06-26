@@ -1,32 +1,38 @@
 ---
 layout: article
-title: "Don't do business with desperate people"
+title: "Lessons Learned from a Failed Business Deal: Don't Do Business With Desperate People"
 date: 2018-03-29
-last_modified_at: 2024-06-25
+last_modified_at: 2024-06-26
 categories: Essays
 tags: entrepreneurship
 permalink: /desperate-people/
 published: true
 comments: true
 ---
-I recently had a business deal not work out.
-
-The person I was working with hit the nuclear button and made up things in order to win the argument why they should keep $2000.
+## The Deal Gone Wrong
+In the world of entrepreneurship, not every business deal goes as planned. Recently, I had a deal fall through in a rather dramatic and unsettling manner. The individual I was working with went to extreme lengths to justify keeping some money, even fabricating evidence and threatening a family member.
 <!--more--> 
-Making up photos to prove their point and when that didn't work threatened a family member.
+## Extreme Measures Taken
+Their actions included:
+- Creating false photos to support their argument.
+- When the fabricated evidence failed, resorting to personal threats.
 
-Anything to keep the money and blame me to justify.
+## Reflecting on the Experience
+This experience led me to reflect deeply on what transpired. I asked myself:
+- Did I miss any warning signs?
+- Have I encountered similar situations in past deals?
 
-I sat back and thought about what happened.
-- Was there a sign that I missed?
-- What other deals that were similar?  How were they similar?
+## Recognizing the Pattern
+A pattern emerged from my reflections. Every deal that failed shared a common thread: desperation. The clients, partners, or contractors were all in dire need of money or status.
 
-All of the deals didn't work out because the client, partner or contractor was desperate for money.
+## Desperation: The Red Flag
+Desperate individuals often construct elaborate narratives to convince themselves that they are victims. They cannot afford to see themselves as wrong, and no amount of contractual documentation, photos, emails, or facts can change their minds. They hit the "nuclear button," opting to protect their interests at any cost, even if it means damaging your reputation.
 
-When people are desperate and can't afford to not get the money they will a vast majority of the time make up a story to convince themselves that they are the victim and are being screwed over.
+## Key Takeaways
+Here’s what I’ve learned:
+- **Desperation is a red flag.** When people are desperate, they will do whatever it takes to secure their financial needs, often creating false stories to rationalize their actions.
+- **You can’t win against desperation.** Trying to convince a desperate person of their mistake is usually futile. They are often incapable of admitting fault and will go to great lengths to avoid doing so.
+- **State your position and move on.** In such situations, the best course of action is to clearly state your position and then disengage.
 
-No amount of contract paperwork, pictures, correspondence, and facts will convince them that they have made a mistake. They can't live with being wrong. So they hit the nuclear button and will take you down and ruin your reputation in order to win.
-
-You can never win with desperate people.
-
-I've found it best to state your position and then move on.
+## Moving Forward
+Dealing with desperate individuals can be a significant challenge. Recognizing the signs early on and knowing when to walk away can save you a lot of time, energy, and potential damage to your reputation. Remember, not every battle is worth fighting, especially when the other party is driven by desperation.
