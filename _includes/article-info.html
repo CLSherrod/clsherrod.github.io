@@ -62,7 +62,7 @@
 
           {%- if _show_date -%}
             <li>
-              Date Published: {%- include snippets/get-locale-string.html key='ARTICLE_DATE_FORMAT' -%}
+              Date Published:&nbsp;&nbsp;{%- include snippets/get-locale-string.html key='ARTICLE_DATE_FORMAT' -%}
               <i class="far fa-calendar-alt"></i> <span>{{ include.article.date | date: __return }}</span>
             </li>
           {%- endif -%}
