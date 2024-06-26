@@ -5,7 +5,7 @@ permalink: /now/
 ---
 This is a [now page](https://nownownow.com/about). See [my interests page](https://christophersherrod.com/interests/) and my other [/slashes pages](https://christophersherrod.com/slashes)
 
-Updated on Tuesday June 25th, 2024.
+Updated on Wednesday June 26th, 2024.
 
 ## Recently Published
 
@@ -20,7 +20,6 @@ Updated on Tuesday June 25th, 2024.
 - I updated my team workflow article for 2024 [Boost Your Content Production Game: Essential Apps and Tools for 2024!](https://christophersherrod.com/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing and livestream service StreamYard.
 
 ## Currently Creating
-
-- Writing copy for two brands.
-- I’m currently writing four books. Once one is near completion I’ll only focus on that one.
+- Publishing two brands, writing for one and sharing what I learn here on this site.
+- I’m currently writing a book.
 - I’m also working on some artwork for an oracle card deck with an expert which has spurred some optical art pieces I'm working on.

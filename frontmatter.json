@@ -42,6 +42,31 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "layout",
+          "name": "layout",
+          "type": "string"
+        },
+        {
+          "title": "last_modified_at",
+          "name": "last_modified_at",
+          "type": "datetime"
+        },
+        {
+          "title": "permalink",
+          "name": "permalink",
+          "type": "string"
+        },
+        {
+          "title": "published",
+          "name": "published",
+          "type": "boolean"
+        },
+        {
+          "title": "comments",
+          "name": "comments",
+          "type": "boolean"
         }
       ]
     }
