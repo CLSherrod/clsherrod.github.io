@@ -10,7 +10,7 @@ published: true
 comments: true
 ---
 ## The Deal Gone Wrong
-In the world of entrepreneurship, not every business deal goes as planned. Recently, I had a deal fall through in a rather dramatic and unsettling manner. The individual I was working with went to extreme lengths to justify keeping some money, even fabricating evidence and threatening a family member.
+Not every business deal goes as planned. Recently, I had a deal fall through in a rather dramatic and unsettling manner. The individual I was working with went to extreme lengths to justify keeping some money, even fabricating evidence and threatening a family member.
 <!--more--> 
 ## Extreme Measures Taken
 Their actions included:
