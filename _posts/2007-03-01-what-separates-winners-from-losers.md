@@ -3,6 +3,7 @@ layout: article
 title: What separates winners from losers?
 date: 2007-03-01
 last_modified_at: 2024-03-11
+categories: Essays
 tags: entrepreneurship
 permalink: /what-separates-winners-from-losers/
 published: true

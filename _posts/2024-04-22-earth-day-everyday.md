@@ -3,6 +3,7 @@ layout: article
 title: "Embracing Earth Day Every Day: A Call for Continuous Environmental Consciousness"
 date: 2024-04-22
 last_modified_at: 2024-05-01
+categories: Essays
 tags: environmentalism
 permalink: /earth-day-everyday/
 published: true

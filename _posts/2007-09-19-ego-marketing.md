@@ -3,6 +3,7 @@ layout: article
 title: Ego marketing
 date: 2007-09-19
 last_modified_at: 2024-03-11
+categories: Essays
 tags: entrepreneurship
 permalink: /ego-marketing/
 published: true

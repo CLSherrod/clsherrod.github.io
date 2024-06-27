@@ -3,6 +3,7 @@ layout: article
 title: Living beyond your means
 date: 2007-02-08
 last_modified_at: 2024-03-11
+categories: Essays
 tags: prosperity
 permalink: /living-beyond-your-means/
 published: true
