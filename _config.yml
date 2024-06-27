@@ -6,7 +6,7 @@ url     : https://christophersherrod.com # the base hostname & protocol for your
 baseurl : # does not include hostname
 title   : Christopher Sherrod
 description: > # this means to ignore newlines until "Language & timezone"
-  Writer and Artist
+  Hey there, I’m just a regular guy who’s been around the block in the business world. I’ve dabbled in everything from software to real estate, and even had my own marketing agency with teams scattered across the globe in places like the Philippines, Ireland, Panama, and India. Been cruising the internet since my college days back in ‘88, and yeah, I jumped on the WordPress train way back when it was still in beta.
 
 
 ## => Language and Timezone
@@ -21,20 +21,14 @@ author:
   type      : # "person" (default), "organization"
   name      : Christopher Sherrod
   url       :
-  avatar    : # path or url of avatar image (square)
-  bio       : Writer and Artist.
+  avatar    : https://christophersherrod.com/assets/images/avatar.webp # path or url of avatar image (square)
+  bio       : Hey there, I’m just a regular guy who’s been around the block in the business world. I’ve dabbled in everything from software to real estate, and even had my own marketing agency with teams scattered across the globe in places like the Philippines, Ireland, Panama, and India. Been cruising the internet since my college days back in ‘88, and yeah, I jumped on the WordPress train way back when it was still in beta.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : chrissherrod # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
-  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
   medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/user_name
-  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
   github    : clsherrod # "user_name" the last part of your profile url, e.g. https://github.com/user_name
-  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name
 
 
 ## => GitHub Repository (if the site is hosted by GitHub)
@@ -80,7 +74,7 @@ chart: # false (default), true
 
 ## => Paginate
 ##############################
-paginate: 8
+paginate: 10
 paginate_path: /page:num # don't change this unless for special need
 
 
