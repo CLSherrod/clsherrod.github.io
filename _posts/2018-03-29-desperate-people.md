@@ -2,7 +2,7 @@
 layout: article
 title: "Lessons Learned from a Failed Business Deal: Don't Do Business With Desperate People"
 date: 2018-03-29
-last_modified_at: 2024-06-26
+last_modified_at: 2024-06-27
 categories: Essays
 tags: entrepreneurship
 permalink: /desperate-people/
