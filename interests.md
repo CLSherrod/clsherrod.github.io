@@ -7,7 +7,7 @@ aside:
 ---
 This is a [interests page](https://chrisburnell.github.io/interests-directory/).
 
-Updated on Tuesday June 25th, 2024.
+Updated on Saturday June 29th, 2024.
 
 ## Interests
 ### Writing
@@ -15,7 +15,7 @@ I love writing. I try to write everyday in the morning. When I write I feel fulf
 
 ### Reading
 #### Currently Reading
-I'm reading What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So are I really like it. 
+I'm reading [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So are I really like it. 
 I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
 
 #### Last Read Books
@@ -58,4 +58,4 @@ I love a good thought provoking scifi movie or series. Not the horror ones, but 
 [My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
 
 ### Enjoying My Cats
-It’s been almost a year since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing.
+It’s been over a year since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing.
