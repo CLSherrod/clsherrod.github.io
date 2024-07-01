@@ -5,10 +5,11 @@ permalink: /now/
 ---
 This is a [now page](https://nownownow.com/about). See [my interests page](https://christophersherrod.com/interests/) and my other [/slashes pages](https://christophersherrod.com/slashes)
 
-Updated on Wednesday June 29th, 2024.
+Updated on Monday July 1st, 2024.
 
 ## Recently Published
 
+- Wrote [Transformative Giving: Empowering Lives Through Direct Entrepreneurial Philanthropy](https://christophersherrod.com/giving/)
 - Updated my [robots.txt file](https://christophersherrod.com/robots.txt) to disallow bad bots and AI crawlers.
 - New article because a friend got hacked [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication](https://christophersherrod.com/security/)
 - Wrote [Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers](https://christophersherrod.com/fred-rogers/)
