@@ -111,10 +111,10 @@ author:
 footer:
   links:
     - label: "Newsletter"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fa-regular fa-envelope"
       url: "https://christophersherrod.com/newsletter/"
     - label: "Mastodon"
-      icon: "fab fa-fw fa-mastodon"
+      icon: "fa-brands fa-mastodon"
       url: "https://pkm.social/chris"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
