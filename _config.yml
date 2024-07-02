@@ -122,6 +122,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clsherrod"
+    - label: "Slash pages"
+      icon: "fab fa-fw fa-slash"
+      url: "https://christophersherrod.com/slashes/"
 
 defaults:
   # _posts
