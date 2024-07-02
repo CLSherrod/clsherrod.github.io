@@ -5,7 +5,7 @@ permalink: /about/
 toc: true
 author_profile: true
 header:
- image: /assets/images/home-chris-full.webp
+ image: /assets/images/home-chris-full.png
 ---
 ## My Entrepreneurial Journey: From Software to Business Ownership to Writer
 Hey there, I’m just a regular guy who’s been around the block in the business world. I’ve dabbled in everything from software to real estate, and even had my own marketing agency with teams scattered across the globe in places like the Philippines, Ireland, Panama, and India. Been cruising the internet since my college days back in ‘88, and yeah, I jumped on the WordPress train way back when it was still in beta.
