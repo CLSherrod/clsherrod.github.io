@@ -1,5 +1,4 @@
 ---
-layout: article
 title: Remembering Steve Jobs - A Tribute to the Visionary Behind Apple's Legacy
 date: 2011-10-05
 last_modified_at: 2024-03-11
@@ -8,13 +7,9 @@ tags: entrepreneurship tribute
 permalink: /steve-jobs/
 published: true
 comments: true
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#00ced1'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/steve-jobs.webp
+teaser: /assets/images/articles/steve-jobs.webp
+header:
+  image: /assets/images/articles/steve-jobs.webp
 ---
 I’m sadden on hearing Steve Jobs of Apple passing away.
 <!--more-->

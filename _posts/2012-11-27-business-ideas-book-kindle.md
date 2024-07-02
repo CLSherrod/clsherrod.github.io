@@ -1,13 +1,10 @@
 ---
-layout: article
 title: "Play Prosperity Games Book Renamed & Now On Kindle"
 date: 2012-11-27
 last_modified_at: 2023-10-03
 categories: News
 tags: idea-generation books
 permalink: /play-prosperity-games-kindle/
-aside:
-  toc: false
 ---
 Now that my privately printed book is presently on Amazon Kindle, and it comes with a name change.
 <!--more-->

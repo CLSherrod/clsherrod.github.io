@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "The Power of Quick Implementation in a Fast-Paced World"
 date: 2014-09-23
 last_modified_at: 2023-10-03
@@ -8,8 +7,7 @@ tags: implementing
 permalink: /implement-quickly/
 comments: true
 published: true
-aside:
-  toc: true
+toc: true
 ---
 ## Fast-Track Your Concepts: A Guide to Swift Idea Implementation
 <!--more-->

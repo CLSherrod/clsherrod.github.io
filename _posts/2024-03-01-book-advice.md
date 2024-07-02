@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Expert Book Writing and Publishing: 19 Proven Strategies for Success"
 date: 2024-03-01
 last_modified_at: 2024-03-01
@@ -8,8 +7,7 @@ tags: entrepreneurship books
 permalink: /book-advice/
 published: true
 comments: true
-aside:
-  toc: true
+toc: true
 ---
 If you’re diving into the world of writing and publishing, especially in the expert realm, I’ve got some tips to share with you.
 <!--more--> 

@@ -1,14 +1,17 @@
-header:
-  - title:      Home
-    url:        /
-  - title:      Books
-    url:        /books/
-  - title:      Newsletter
-    url:        /newsletter/
-  - title:      Archive
-    url:        /archive/
-  - title:      Now
-    url:        /now/
-  - title:      About
-    url:        /about/
- 
+main:
+  - title: "Newsletter"
+    url: /newsletter/
+  - title: "Books"
+    url: /books/
+  - title: "Now"
+    url: /now/
+  - title: "Posts"
+    url: /posts/
+    children:
+    - title: "Categories"
+      url: /categories/
+    - title: "Tags"
+      url: /tags/
+  
+  - title: "About"
+    url: /about/

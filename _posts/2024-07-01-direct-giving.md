@@ -1,12 +1,13 @@
 ---
-layout: article
 title: "Transformative Giving: Empowering Lives Through Direct Entrepreneurial Philanthropy"
 date: 2024-07-01
-last_modified_at: 2024-07-01
-tags: giving
+tags:
+  - giving
 permalink: /giving/
+toc: true
 published: true
 comments: true
+toc: true
 ---
 Giving away money to change the world.
 <!--more--> 

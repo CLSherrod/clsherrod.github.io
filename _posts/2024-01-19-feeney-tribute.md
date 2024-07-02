@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Honoring the Legacy of Charles F. Feeney: A Tribute to a Luminary Entrepreneur"
 date: 2024-01-19
 last_modified_at: 2024-01-19
@@ -8,15 +7,10 @@ tags: entrepreneurship tribute
 permalink: /charles-feeney/
 published: true
 comments: true
-aside:
-  toc: true
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/charles-feeney-cover.webp
+toc: true
+teaser: /assets/images/articles/charles-feeney-cover.webp
+header:
+  image: /assets/images/articles/charles-feeney-cover.webp
 ---
 Entrepreneurs, delve into the inspiring journey of Charles F. Feeney. Discover how his audacious shift from accumulating wealth to impactful giving redefines entrepreneurial success.
 <!--more--> 

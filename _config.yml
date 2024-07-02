@@ -1,203 +1,156 @@
-## => Site Settings
-##############################
-text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: tomorrow-night-blue # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
-url     : https://christophersherrod.com # the base hostname & protocol for your site e.g. https://www.someone.com
-baseurl : # does not include hostname
-title   : Christopher Sherrod
-description: > # this means to ignore newlines until "Language & timezone"
-  Hey there, I’m just a regular guy who’s been around the block in the business world. I’ve dabbled in everything from software to real estate, and even had my own marketing agency with teams scattered across the globe in places like the Philippines, Ireland, Panama, and India. Been cruising the internet since my college days back in ‘88, and yeah, I jumped on the WordPress train way back when it was still in beta.
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Christopher Sherrod
+subtitle: "Entrepreneur and writer"
+email:
+description: >- # this means to ignore newlines until "baseurl:"
+  Entrepreneur, writer and hobbiest poet and artist
+twitter_username: chrissherrod
+github_username: clsherrod
+minimal_mistakes_skin: air
+search: true
+locale: "en-US"
+logo: "/assets/images/logo/logo.webp"
+masthead_title: "Christopher Sherrod"
+breadcrumbs: false  # disabled by default
+date_format: "%Y-%m-%d"
+teaser: /assets/images/related_posts.webp
 
-## => Language and Timezone
-##############################
-lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+# GitHub
+repository: "clsherrod/mm"
 
+# site search
+lunr:
+  search_within_pages: true
 
-## => Author and Social
-##############################
-author:
-  type      : # "person" (default), "organization"
-  name      : Christopher Sherrod
-  url       :
-  avatar    : https://christophersherrod.com/assets/images/avatar.webp # path or url of avatar image (square)
-  bio       : Hey there, I’m just a regular guy who’s been around the block in the business world. I’ve dabbled in everything from software to real estate, and even had my own marketing agency with teams scattered across the globe in places like the Philippines, Ireland, Panama, and India. Been cruising the internet since my college days back in ‘88, and yeah, I jumped on the WordPress train way back when it was still in beta.
-  email     :
-  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : chrissherrod # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
-  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
-  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
-  github    : clsherrod # "user_name" the last part of your profile url, e.g. https://github.com/user_name
-
-
-## => GitHub Repository (if the site is hosted by GitHub)
-##############################
-repository: clsherrod/clsherrod.github.io
-repository_tree: master
-
-
-## => Paths
-##############################
-paths:
-  root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
-  archive : # "/archive/index.html" (default)
-  rss     : # "/feed.xml" (default)
-
-
-## => Post
-##############################
-## excerpt
-excerpt_separator: <!--more-->
-
-## license
-license: CC-BY-ND-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
-
-## TOC
-toc:
-  selectors: # "h1,h2,h3" (default)
-
-
-## => Markdown Enhancements
-##############################
-## Mathjax
-mathjax: # false (default), true
-mathjax_autoNumber: # false (default), true
-
-## Mermaid
-mermaid: # false (default), true
-
-## Chart
-chart: # false (default), true
-
-
-## => Paginate
-##############################
-paginate: 10
-paginate_path: /page:num # don't change this unless for special need
-
-
-## => Sources
-##############################
-sources: # bootcdn (default), unpkg
-
-
-## => Sharing
-##############################
-sharing:
-  provider: addtoany # false (default), "addtoany", "addthis", "custom"
-
-  ## AddThis
-  addthis:
-    id: # AddThis pubid, e.g. ra-5xxxxxxxxxxx
-
-
-## => Comments
-##############################
-comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
-
-  ## Disqus
-  disqus:
-    shortname: christophersherrod # the Disqus shortname for the site
-
-  ## Gitalk
-  # please refer to https://github.com/gitalk/gitalk for more info.
-  gitalk:
-    clientID    : # GitHub Application Client ID
-    clientSecret: # GitHub Application Client Secret
-    repository  : # GitHub repo
-    owner       : # GitHub repo owner
-    admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
-      # - your GitHub Id
-
-  ## Valine
-  # please refer to https://valine.js.org/en/ for more info.
-  valine:
-    app_id      : # LeanCloud App id
-    app_key     : # LeanCloud App key
-    placeholder : # Prompt information
-    visitor     : # false (default)
-    meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
-
-
-## => Pageview
-##############################
-pageview:
-  provider: false # false (default), "leancloud", "custom"
-
-  ## Leancloud
-  leancloud:
-    app_id    : # LeanCloud App id
-    app_key   : # LeanCloud App key
-    app_class : # LeanCloud App class
-
-
-## => Search
-##############################
-search:
-  provider: default # "default" (default), false, "google", "custom"
-
-  ## Google Custom Search Engine
-  google:
-    custom_search_engine_id: # Google Custom Search Engine ID
-
-
-## => Analytics
-##############################
+# Google Analytics
 analytics:
   provider: google # false (default), "google", "custom"
-
-  ## Google Analytics
   google:
     tracking_id : 343574590 # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
+# => Comments
+comments:
+  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  ## Disqus
+  disqus:
+    shortname: christophersherrod # the Disqus shortname for the site
 
-## => Build
-##############################
-markdown    : kramdown
-highlighter : rouge
-permalink   : date
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://pkm.social/chris"
+    - "https://instagram.com/christophersherrod"
+    - "https://twitter.com/chrissherrod"
+    - "https://www.facebook.com/sherrod.christopher/"
 
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
+timezone: MX # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+#Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
 exclude:
-  - CHANGELOG.md
-  - HOW_TO_RELEASE.md
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README-*.md
-  - README.md
-  - gulpfile.js
-  - jekyll-text-theme.gemspec
-  - package-lock.json
-  - package.json
-  - /docs
-  - /node_modules
-  - /screenshots
-  - /test
-  - /vendor
+   - Gemfile
+   - Gemfile.lock
+   - node_modules
+   - README.md
+   - ignore.md
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Christopher Sherrod"
+  avatar : "/assets/images/avatar.webp"
+  bio    : "Entrepreneur, writer and hobbiest poet and artist."
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/christophersherrod"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/clsherrod"
+
+footer:
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/christophersherrod"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/clsherrod"
 
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: article
-      sharing: true
-      license: true
-      aside:
-        toc: true
-      show_edit_on_github: true
-      show_subscribe: true
-      pageview: true
+      layout: single
+      author_profile: false
+      show_date: true
+      read_time: true
+      words_per_minute: 250
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
 
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
 
-## => Plugins
-##############################
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
+# excerpt
+excerpt_separator: <!--more-->
+
+# license
+license: CC-BY-ND-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development  # disable compression in dev environment

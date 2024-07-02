@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Forget Shark Tank; Be A Dolphin Entrepreneur Instead"
 date: 2017-08-18
 last_modified_at: 2023-10-03
@@ -8,8 +7,7 @@ tags: entrepreneurship
 permalink: /dolphin-entrepreneur/
 published: true
 comments: true
-aside:
-  toc: false
+toc: false
 ---
 So which is more important: competition or cooperation?
 

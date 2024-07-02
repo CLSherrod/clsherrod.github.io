@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Play Prosperity Games Dinner Party: A Night of Creative Fun and Unique Ideas"
 date: 2007-03-05
 last_modified_at: 2023-11-02
@@ -8,8 +7,6 @@ tags: idea-generation
 permalink: /play-prosperity-games-feedback/
 published: true
 comments: true
-aside:
-  toc: true
 ---
 I had another Play Prosperity Games Dinner Party Friday night in Austin Texas.
 <!--more-->

@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Lessons Learned from a Failed Business Deal: Don't Do Business With Desperate People"
 date: 2018-03-29
 last_modified_at: 2024-06-27
@@ -8,6 +7,7 @@ tags: entrepreneurship
 permalink: /desperate-people/
 published: true
 comments: true
+toc: true
 ---
 ## The Deal Gone Wrong
 Not every business deal goes as planned. Recently, I had a deal fall through in a rather dramatic and unsettling manner. The individual I was working with went to extreme lengths to justify keeping some money, even fabricating evidence and threatening a family member.

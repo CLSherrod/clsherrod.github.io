@@ -1,5 +1,4 @@
 ---
-layout: article
 title: "Steve Irwin: A Life Lived Full Out, A Lesson for Entrepreneurs"
 date: 2006-09-08
 last_modified_at: 2023-11-02
@@ -8,13 +7,9 @@ tags: entrepreneurship tribute
 permalink: /steve-irvin/
 published: true
 comments: true
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#00ced1'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/steve-irwin.webp
+teaser: /assets/images/articles/steve-irwin.webp
+header:
+  image: /assets/images/articles/steve-irwin.webp
 ---
 When I heard of Steve Irwin’s death, it gave me a smile.  Not because I’m glad he is dead.  I’m actually quite sad.  It has taken me almost a week to write this article.  I’m happy that someone lived their life full out.  So many people live mediocre lives.
 <!--more-->
