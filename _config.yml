@@ -79,7 +79,6 @@ exclude:
    - Gemfile.lock
    - node_modules
    - README.md
-   - ignore.md
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
@@ -99,6 +98,9 @@ author:
   avatar : "/assets/images/avatar.webp"
   bio    : "Entrepreneur, writer and hobbiest poet and artist."
   links:
+    - label: "Mastadon"
+      icon: "fab fa-fw fa-mastadon"
+      url: "https://pkm.social/chris"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/christophersherrod"
@@ -108,6 +110,9 @@ author:
 
 footer:
   links:
+    - label: "Newsletter"
+      icon: "fab fa-fw fa-email"
+      url: "https://christophersherrod.com/newsletter/"
     - label: "Mastadon"
       icon: "fab fa-fw fa-mastadon"
       url: "https://pkm.social/chris"
