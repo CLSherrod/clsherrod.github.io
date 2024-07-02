@@ -117,7 +117,7 @@ footer:
       icon: "fa-brands fa-mastodon fa-bounce"
       url: "https://pkm.social/@chris"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-instagram style='color: #ffffff;'"
       url: "https://instagram.com/christophersherrod"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
