@@ -108,6 +108,9 @@ author:
 
 footer:
   links:
+    - label: "Mastadon"
+      icon: "fab fa-fw fa-mastadon"
+      url: "https://pkm.social/chris"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/christophersherrod"
