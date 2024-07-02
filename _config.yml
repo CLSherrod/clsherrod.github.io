@@ -111,7 +111,7 @@ author:
 footer:
   links:
     - label: "Newsletter"
-      icon: "fab fa-fw fa-email"
+      icon: "fab fa-fw fa-envelope"
       url: "https://christophersherrod.com/newsletter/"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
