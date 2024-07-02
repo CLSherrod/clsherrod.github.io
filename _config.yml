@@ -100,7 +100,7 @@ author:
   links:
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      url: "https://pkm.social/chris"
+      url: "https://pkm.social/@chris"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/christophersherrod"
@@ -115,7 +115,7 @@ footer:
       url: "https://christophersherrod.com/newsletter/"
     - label: "Mastodon"
       icon: "fa-brands fa-mastodon"
-      url: "https://pkm.social/chris"
+      url: "https://pkm.social/@chris"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/christophersherrod"
