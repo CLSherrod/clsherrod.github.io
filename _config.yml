@@ -151,6 +151,9 @@ defaults:
       layout: single
       author_profile: false
 
+posts_archive:
+  author_profile: false
+
 category_archive:
   type: liquid
   path: /categories/

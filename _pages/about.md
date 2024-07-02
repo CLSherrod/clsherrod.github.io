@@ -79,6 +79,6 @@ Want to stay in the loop?
 - Github: [github.com/clsherrod](https://github.com/clsherrod)
 
 ## Behind the Scenes
-This site runs on [plain text markdown format](https://en.wikipedia.org/wiki/Markdown), and my articles are stored in good ol’ markdown format files. All this is made possible by [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com). I use this theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
+This site runs on [plain text markdown format](https://en.wikipedia.org/wiki/Markdown), and my articles are stored in good ol’ markdown format text files. All this is made possible by [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com). I use this theme [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/).
 
 That’s the scoop, folks. Thanks for tuning in!
