@@ -114,7 +114,7 @@ footer:
       icon: "fa-regular fa-envelope"
       url: "https://christophersherrod.com/newsletter/"
     - label: "Mastodon"
-      icon: "fa-brands fa-mastodon"
+      icon: "fa-brands fa-mastodon fa-bounce"
       url: "https://pkm.social/@chris"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
