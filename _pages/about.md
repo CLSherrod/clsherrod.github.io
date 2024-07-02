@@ -28,7 +28,7 @@ Being in the game for the long haul, I enjoy sharing my business insights throug
 [How Smart Notes Transformed My Productivity and Well-being](https://christophersherrod.com/smart-notes/)
 
 ## Main Topics
-[#entreneurship](https://christophersherrod.com/archive/?tag=entrepreneurship), [#workflow](https://christophersherrod.com/archive/?tag=workflow-apps), [#idea generation](https://christophersherrod.com/archive/?tag=idea-generation), [#tributes](https://christophersherrod.com/archive/?tag=tribute)
+[#entreneurship](https://christophersherrod.com/tags#entrepreneurship), [#workflow](https://christophersherrod.com/tags/#workflow-apps), [#idea generation](https://christophersherrod.com/tags/#idea-generation), [#tributes](https://christophersherrod.com/tags/#tribute)
 
 ## Newsletter
 Join my [newsletter](https://christophersherrod.com/newsletter/) to keep updated on my projects, articles and books.
