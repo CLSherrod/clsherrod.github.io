@@ -13,5 +13,6 @@ This is a [/slashes page](https://slashpages.net/). A /slashes page is an index 
 - [Blogroll](https://christophersherrod.com/blogroll/)
 - [Podroll](https://christophersherrod.com/podroll/)
 - [Colophopn](https://christophersherrod.com/colophon/)
+- [ChangeLog](https://christophersherrod.com/changelog/)
 - [Feed](https://christophersherrod.com/feed)
 - [Sitemap](https://christophersherrod.com/sitemap.xml)
