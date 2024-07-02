@@ -98,6 +98,9 @@ author:
   avatar : "/assets/images/avatar.webp"
   bio    : "Entrepreneur, writer and hobbiest poet and artist."
   links:
+    - label: "Newsletter"
+      icon: "fa-regular fa-envelope"
+      url: "https://christophersherrod.com/newsletter/"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://pkm.social/@chris"
@@ -117,7 +120,7 @@ footer:
       icon: "fa-brands fa-mastodon fa-bounce"
       url: "https://pkm.social/@chris"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram style='color: #ffffff;'"
+      icon: "fa-brands fa-instagram"
       url: "https://instagram.com/christophersherrod"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
