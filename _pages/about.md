@@ -1,8 +1,9 @@
 ---
-layout: home
+layout: single
 title: "About Christopher Sherrod"
 permalink: /about/
 toc: true
+author_profile: true
 header:
  image: /assets/images/home-chris.webp
 ---
