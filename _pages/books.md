@@ -25,6 +25,8 @@ My opinion and what I’ve seen with myself and all the entrepreneurs I’ve mee
 
 I’ve taken readers feedback to make this 8th edition.
 
+[![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/Hiring-Virtual-Workers.webp)](https://amzn.to/3oZlRrW)
+
 [How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](https://amzn.to/3oZlRrW)
 
 ## Addtional Resources
