@@ -18,13 +18,13 @@ It's a common belief that formal education is the key to success. However, histo
 - Andrew Jackson - 7th U.S. President; face is pictured on the U.S. twenty dollar bill (13, U.S. Continental Army; orphaned at 14; little formal education; home schooling/life experience; studied law in his late teens and became a lawyer)
 - Leon Uris - best-selling American author (Exodus,  etc.) (17, U.S. Marines)
 - Walter L. Smith - former president of  Florida A&amp;M University (equivalency diploma, at age 23.
-- Clement Stone - self-made multimillionaire (some sources indicate billionaire) American businessman-author; founder of Successâ€ magazine (elementary school dropout; later attended high-school night courses and then some college
+- Clement Stone - self-made multimillionaire (some sources indicate billionaire) American businessman-author; founder of Success magazine (elementary school dropout; later attended high-school night courses and then some college
 - Jack London - best-selling American author (dropped out at 14 to work; later gained admission to the University of California; left after one semester
 - Arthur Ernest Morgan - American  flood-control engineer; college, president-author; appointed by President Roosevelt to be director of the Tennessee Valley Authority public works project (left high school after three years; later attended the University of Colorado for six weeks
 - Maurice Chevalier - Oscar-winning actor-singer; French Legion of Honor inductee/Medal recipient (note: rank bestowed in
 - Pierce Brosnan - actor
 - Daniel Gilbert - Harvard University psychology professor (equivalency diploma
-- Patrick Henry  - American Revolutionary War era politician; Virginia' first governor; famous quote: Give me liberty, or give me death! (little formal education; home schooling/life experience; later studied on his own and earned a law degree
+- Patrick Henry  - American Revolutionary War era politician; Virginia' first governor; famous quote: Give me liberty, or give me death! (little formal education; home schooling/life experience; later studied on his own and earned a law degree
 - Peter Jennings - Canadian-born American television journalist; evening news anchorman
 - Ansel Adams - American wilderness photographer;Â  photography book author; Presidential Medal of Freedom recipient
 - Brooke Astor - wealthy American socialite-philanthropist-author; Presidential Medal of Freedom recipient
@@ -33,16 +33,16 @@ It's a common belief that formal education is the key to success. However, histo
 - Lew Grade - British film/TV producer (TV: The Avengers, The Saint, Secret Agent, The Prisoner, The Muppet Show, etc.); knighted (United Kingdom: Sir Lew Grade)
 - Philip Emeagwali - supercomputer scientist; one of the pioneers of the Internet (high-IQ high-school dropout; left school in native Nigeria due to war conditions and lack of tuition money; continued to study on his own and earned an equivalency diploma; later won a scholarship to Oregon College of Education in the United States; transferred after one year to Oregon State University)
 - Hiram Stevens - American-born engineering inventor, knighted (United Kingdom: Sir Hiram Stevens)
-- Kemmons Wilson - self-made multimillionaire American businessman; founder of the Holiday Innâ€ hotel chain
+- Kemmons Wilson - self-made multimillionaire American businessman; founder of the Holiday Inn hotel chain
 - Kjell Inge Rokke - self-made billionaire Norwegian businessman
 - Walter Nash - New Zealand Prime Minister 1957-1960, knighted (United Kingdom: Sir Walter Nash)
 - Rosa Parks - U.S. civil rights activist-pioneer; Presidential Medal of Freedom recipient; Congressional Gold Medal recipient
-- Mary Pickford - Oscar-winning actress; early Hollywood pioneer; co-founder of United Artists Corporationâ€ (little formal education [six months]; home schooling/life experience)
-- Frederick Freddyâ€ Laker - self-made multimillionaire British businessman; airline entrepreneur; knighted (United Kingdom: Sir Frederick [or Freddy] Laker)
+- Mary Pickford - Oscar-winning actress; early Hollywood pioneer; co-founder of United Artists Corporation (little formal education [six months]; home schooling/life experience)
+- Frederick Freddy Laker - self-made multimillionaire British businessman; airline entrepreneur; knighted (United Kingdom: Sir Frederick [or Freddy] Laker)
 - Tommy Lasorda - baseball team manager; National Baseball Hall of Fame inductee
 - Anton van Leeuwenhoek- Dutch microscope maker; world's first microbiologist; discoverer of bacteria, blood cells, and sperm cells)
 - Richard Branson - self-made billionaire British businessman; founder of Virgin Atlantic Airways, Virgin Records, etc.; knighted (United Kingdom: Sir Richard Branson)
-- Isaac Merrit Singer - American sewing machine inventor; self-made multimillionaire founder of Singer Industries,â€ I.M. Singer and Company,â€ etc. (elementary school dropout)
+- Isaac Merrit Singer - American sewing machine inventor; self-made multimillionaire founder of Singer Industries, I.M. Singer and Company, etc. (elementary school dropout)
 - Alfred E. Smith - New York Governor; 1928 Democratic U.S. Presidential candidate (elementary school dropout)
 - Sean Connery - Oscar-winning actor; knighted (United Kingdom: Sir Sean Connery)
 - Jack Kent Cooke - self-made billionaire Canadian-born American media businessman
@@ -53,14 +53,14 @@ It's a common belief that formal education is the key to success. However, histo
 - Joe Lewis - self-made billionaire British businessman
 - Carl Lindn er - self-made billionaire American businessman
 - John Llewellyn - U.S. Labor leader pioneer; for 40 years until his retirement, president of the United Mine Workers Union
-- Marcus Loew - self-made multimillionaire American businessman; early Hollywood pioneer; founder of the Loewsâ€ movie-theater chain; co-fondner of MGM studios (elementary school dropout)
+- Marcus Loew - self-made multimillionaire American businessman; early Hollywood pioneer; founder of the Loews movie-theater chain; co-fondner of MGM studios (elementary school dropout)
 - Mary Lyon - American women's education pioneer; early American teacher; founder of Mount Holyoke College (America's first women's college)
 - Sonny Bono - singer-songwriter-actor, U.S. Congressman (California U.S. Representative)
 - Horace Greeley - American newspaper publisher-editor; U.S. Congressman; U.S. Presidential candidate; co-founder of the Republican party in the United States
 
 Here is another list of people that dropped out of high school or college.  They have gone on to make more money then the rest of their graduating class all together:
 - Alan Gerry is another billionaire high school dropout. Gerry 71 also filled his bank account by exploiting a new technology. In 1956, ten years after he dropped out of high school, Gerry built the first cable television network in upstate New York. He made his fortune in this new market, and then sold his company, Cablevision, to Time Warner for $2.6 billion four years ago. Now Gerry is chairman of a venture capital firm called Granite Associates. Granite funds entrepreneurs trying to make their money in burgeoning technology industries, just as Gerry made his fortune by getting into cable when it was still in its infancy. When you have a brilliant idea, nobody is going to ask to see your diploma, Gerry says. You don't need a four-year college degree if you have burning ambition or a great plan.
-- Take Spud King John R. Simplot. Simplot, was born on an Idaho farm and left home when he was 14 because he was sick of milking cows.â€ Simplot followed that with a half century of hard work and shrewd investments, he made a killing in Micron (nyse: MU - news - people ). How important was education to his success? Hell, he says, I didn't even get out of the eighth grade.
+- Take Spud King John R. Simplot. Simplot, was born on an Idaho farm and left home when he was 14 because he was sick of milking cows. Simplot followed that with a half century of hard work and shrewd investments, he made a killing in Micron (nyse: MU - news - people ). How important was education to his success? Hell, he says, I didn't even get out of the eighth grade.
 - Tom Monaghan owner of Dominioes and former owner of the Detroit Tigers: I floundered during the rest of high school and graduated last in my class. They weren't even going to graduate me, but I pleaded with a nun. She said, Well, you got good marks in the seminary, so I'll let you graduate. But don't ever ask me to recommend you for college. One day in 1960, my brother told me about a pizza shop in Ypsilanti, Mich., called Dominoes, that a friend of his was selling. My brother was interested but afraid to do it on his own, so he asked if I'd do it with him. I was having problems paying my way through school, so I said yes. It was $500 down, and we borrowed $900. I got a 15-minute lesson in making pizza from Dominick, and I was off. We opened up without an attorney. I didn't even collect sales tax “didn't know I had to. The plan was for me to work half the night and my brother to work the other half. But it didn't work because he didn't want to leave his full-time job as a mailman. Within about eight months he wanted out, and I bought him out by giving him the Volkswagen we used for deliveries.
 - Most of you probably know that Dave Thomas the founder of Wendys was a high school dropout.
 - Peter Jennings-Hi****gh School Dropout
