@@ -5,9 +5,10 @@ permalink: /now/
 ---
 This is a [now page](https://nownownow.com/about). See [my interests page](https://christophersherrod.com/interests/) and my other [/slashes pages](https://christophersherrod.com/slashes)
 
-Updated on Tuesday July 2nd, 2024.
+Updated on Wednesday July 3nd, 2024.
 
 ## Recently Published
+- Updated [Are High School Dropouts More Successful?](https://christophersherrod.com/high-school-dropouts-are-more-successful/) from 2008. Inspiring list of successful people that dropped out of high school and went on to make it big.
 - Wrote [Transformative Giving: Empowering Lives Through Direct Entrepreneurial Philanthropy](https://christophersherrod.com/giving/)
 - Updated my [robots.txt file](https://christophersherrod.com/robots.txt) to disallow bad bots and AI crawlers.
 - New article because a friend got hacked [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication](https://christophersherrod.com/security/)
