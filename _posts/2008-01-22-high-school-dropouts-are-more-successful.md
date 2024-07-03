@@ -4,13 +4,14 @@ date: 2008-01-22
 last_modified_at: 2024-07-03
 categories: Essays
 tags: entrepreneurship
+toc: true
 permalink: /high-school-dropouts-are-more-successful/
 published: true
 comments: true
 ---
 It's a common belief that formal education is the key to success. However, history and contemporary examples show that many high school dropouts have achieved extraordinary accomplishments. Below is a list of notable individuals who defied the odds and became highly successful without completing high school.
 <!--more-->
-
+## Business Moguls and Entrepreneurs
 - Thomas Haffa - self-made double-digit billionaire German media businessman
 - J.R. Simplot - self-made billionaire American agricultural businessman
 - Robert Maxwell - self-made billionaire British publisher
@@ -58,6 +59,7 @@ It's a common belief that formal education is the key to success. However, histo
 - Sonny Bono - singer-songwriter-actor, U.S. Congressman (California U.S. Representative)
 - Horace Greeley - American newspaper publisher-editor; U.S. Congressman; U.S. Presidential candidate; co-founder of the Republican party in the United States
 
+## Modern Success Stories
 Here is another list of people that dropped out of high school or college.  They have gone on to make more money then the rest of their graduating class all together:
 - Alan Gerry is another billionaire high school dropout. Gerry 71 also filled his bank account by exploiting a new technology. In 1956, ten years after he dropped out of high school, Gerry built the first cable television network in upstate New York. He made his fortune in this new market, and then sold his company, Cablevision, to Time Warner for $2.6 billion four years ago. Now Gerry is chairman of a venture capital firm called Granite Associates. Granite funds entrepreneurs trying to make their money in burgeoning technology industries, just as Gerry made his fortune by getting into cable when it was still in its infancy. When you have a brilliant idea, nobody is going to ask to see your diploma, Gerry says. You don't need a four-year college degree if you have burning ambition or a great plan.
 - Take Spud King John R. Simplot. Simplot, was born on an Idaho farm and left home when he was 14 because he was sick of milking cows. Simplot followed that with a half century of hard work and shrewd investments, he made a killing in Micron (nyse: MU - news - people ). How important was education to his success? Hell, he says, I didn't even get out of the eighth grade.
@@ -65,6 +67,7 @@ Here is another list of people that dropped out of high school or college.  The
 - Most of you probably know that Dave Thomas the founder of Wendys was a high school dropout.
 - Peter Jennings-Hi****gh School Dropout
 
+## Innovators and Scientists
 Here is a couple of notable geniuses that were not billionaires. They were rich with knowledge but not cash. They were high school dropouts.
 - Albert Einstein
 - Thomas Edison
