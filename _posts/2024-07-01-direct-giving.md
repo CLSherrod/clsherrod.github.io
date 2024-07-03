@@ -1,6 +1,7 @@
 ---
 title: "Transformative Giving: Empowering Lives Through Direct Entrepreneurial Philanthropy"
 date: 2024-07-01
+categories: Essays
 tags:
   - giving
 permalink: /giving/
