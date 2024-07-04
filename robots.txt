@@ -26,8 +26,8 @@
 #
 ####################################################################
 # Robots.txt file
-# Version: V1.01
-# Updated: 2024-06-24
+# Version: V1.02
+# Updated: 2024-07-04
 ###################################################################
 
 ## Slow down crawls
@@ -37,14 +37,12 @@ Visit-time: 0200-0300
 ## Disallow some common directories
 user-agent: *
 Disallow: /assets/
-
 user-agent: *
 Disallow: /css/
-
 user-agent: *
 Disallow: /js/
 
-### AI Bots
+## Disallow AI Bots
 User-agent: GPTBot
 Disallow: /
 User-agent: ChatGPT-User
