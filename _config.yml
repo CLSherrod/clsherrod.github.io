@@ -96,7 +96,7 @@ plugins:
 
 author:
   name   : "Christopher Sherrod"
-  avatar : "/assets/images/logo/logo.webp"
+  avatar : "/assets/images/avatar.webp"
   bio    : "Entrepreneur, writer and hobbiest poet and artist."
   links:
     - label: "Newsletter"
