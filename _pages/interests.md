@@ -59,6 +59,6 @@ I love a good thought provoking scifi movie or series. Not the horror ones, but 
 ### Enjoying My Cats
 It’s been over a year since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing.
 
-[![Ixchel](/assets/images/Ixchel.webp)]
+![Ixchel](/assets/images/Ixchel.webp)
 
 [![Xana](/assets/images/Xana.webp)]
