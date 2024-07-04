@@ -61,4 +61,4 @@ It’s been over a year since three stray cats crawled over our wall into our co
 
 ![Ixchel](/assets/images/Ixchel.webp)
 
-[![Xana](/assets/images/Xana.webp)]
+![Xana](/assets/images/Xana.webp)

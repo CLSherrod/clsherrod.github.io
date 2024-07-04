@@ -17,4 +17,4 @@ permalink: /contact/
 ## Signal
 Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2azNWRlNwAC45j_i-MoSJPpu29CmZiLyi9_pmgt).
 
-[![Chris](/assets/images/Chris-Uxmal.webp)]
+![Chris](/assets/images/Chris-Uxmal.webp)
