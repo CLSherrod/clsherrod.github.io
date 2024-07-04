@@ -35,8 +35,13 @@ Crawl-delay: 20
 Visit-time: 0200-0300
 
 ## Disallow some common directories
+user-agent: *
 Disallow: /assets/
+
+user-agent: *
 Disallow: /css/
+
+user-agent: *
 Disallow: /js/
 
 ### AI Bots
