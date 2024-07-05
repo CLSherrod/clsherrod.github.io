@@ -4,15 +4,16 @@ title: Site Colophon
 permalink: /colophon/
 ---
 ## What is a Colophon?
-A brief description of publication or production notes relevant to the edition, in modern books usually located at the verso of the title-leaf, but also sometimes located at the end of the book.
+An inscription placed usually at the end of a book, giving facts about its publication. In this case a page for this website.
 
 ## About This Site
 ChristopherSherrod.com is written by Christopher Sherrod.
 
 ## Essential Apps
-- Obsidian
-- Eagle
+- Obsidian for writing
+- VSCodium for website project
+- Eagle to export graphics to webp format
 
 ## Server Software
-- Jekyll
-- GitHub Pages
+- Jekyll - static website builder
+- GitHub Pages - to host site
