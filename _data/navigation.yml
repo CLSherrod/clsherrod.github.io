@@ -6,6 +6,7 @@ main:
       url: /categories/
     - title: "Tags"
       url: /tags/
+
   - title: "Newsletter"
     url: /newsletter/
   - title: "Books"
@@ -20,3 +21,4 @@ main:
     url: /projects/
    - title: "Explore"
     url: /explore/
+    
