@@ -6,6 +6,7 @@ permalink: /explore/
 Explore more that is on my website.
 
 - [Blog](/blog)
+- [Newsletter](/newsletter)
 - [About](https://christophersherrod.com/about/)
 - [Hello](https://christophersherrod.com/hello/)
 - [Now](https://christophersherrod.com/now/)
