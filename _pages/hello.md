@@ -18,9 +18,7 @@ Here is how I prefer to keep in touch:
     <input type="submit" value="Send">
   </form>
 
-## Signal
-Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2azNWRlNwAC45j_i-MoSJPpu29CmZiLyi9_pmgt).
-
+- Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2azNWRlNwAC45j_i-MoSJPpu29CmZiLyi9_pmgt).
 - I'm active on [Mastodon](https://pkm.social/@chris)
 - I sometimes use [Instagram](https://instagram.com/christophersherrod)
 - I have some projects on [GitHub](https://github.com/clsherrod)
