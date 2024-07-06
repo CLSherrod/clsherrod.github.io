@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Explore
-permalink: /explore/
+title: Wishlist
+permalink: /wishlist/
 ---
 Hello! If you're reading this, you've apparently tracked down [my Wishlist](https://www.amazon.com/hz/wishlist/ls/2UIVZNY7N0I8D?ref_=wl_share) (somehow). This is a list of ideas to get me for the holiday seasons (or any time, if you're feeling generous)!
 
