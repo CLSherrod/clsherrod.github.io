@@ -1,24 +1,23 @@
 main:
-  - title: "Blog"
-    url: /blog/
-    children:
-    - title: "Categories"
-      url: /categories/
-    - title: "Tags"
-      url: /tags/
+- title: "Blog"
+  url: /blog/
+  children:
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
 
-  - title: "Newsletter"
-    url: /newsletter/
-  - title: "Books"
-    url: /books/
-  - title: "About"
-    url: /about/
-  - title: "Hello"
-    url: /hello/
-  - title: "Now"
-    url: /now/
-   - title: "Projects"
-    url: /projects/
-   - title: "Explore"
-    url: /explore/
-    
+- title: "Newsletter"
+  url: /newsletter/
+- title: "Books"
+  url: /books/
+- title: "About"
+  url: /about/
+- title: "Hello"
+  url: /hello/
+- title: "Now"
+  url: /now/
+- title: "Projects"
+  url: /projects/
+- title: "Explore"
+  url: /explore/
