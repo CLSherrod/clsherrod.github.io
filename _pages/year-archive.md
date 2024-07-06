@@ -4,4 +4,4 @@ permalink: /blog/
 layout: posts
 author_profile: true
 ---
-<p><a href="/categories/">By Category</a> - <a href="/tags/">By Tag</a></p>
+Or by <p><a href="/categories/">Category</a> or <a href="/tags/">Tag</a></p>
