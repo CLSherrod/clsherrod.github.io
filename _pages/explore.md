@@ -1,13 +1,15 @@
 ---
 layout: single
-title: My slash pages
-permalink: /slashes/
+title: Explore
+permalink: /explore/
 ---
-This is a [/slashes page](https://slashpages.net/). A /slashes page is an index of all my slash pages. Slash pages are common pages you can add to your website, usually with a standard, root-level slug.
+Explore more that is on my website.
 
+- [Blog](/blog)
 - [About](https://christophersherrod.com/about/)
-- [Contact](https://christophersherrod.com/contact/)
+- [Hello](https://christophersherrod.com/hello/)
 - [Now](https://christophersherrod.com/now/)
+- [Projects](/projects)
 - [Uses](https://christophersherrod.com/uses/)
 - [Interests](https://christophersherrod.com/interests/)
 - [Blogroll](https://christophersherrod.com/blogroll/)
