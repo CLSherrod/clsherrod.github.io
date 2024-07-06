@@ -11,7 +11,7 @@ Updated on Saturday July 6th, 2024.
 - Added [Explore page](/explore) to see all the major areas on the website
 - Updated [Are High School Dropouts More Successful?](https://christophersherrod.com/high-school-dropouts-are-more-successful/) from 2008. Inspiring list of successful people that dropped out of high school and went on to make it big.
 - Wrote [Transformative Giving: Empowering Lives Through Direct Entrepreneurial Philanthropy](https://christophersherrod.com/giving/)
-- Updated my [robots.txt file](https://christophersherrod.com/robots.txt) to disallow bad bots and AI crawlers.
+- Updated my [robots.txt file](https://christophersherrod.com/robots.txt) to disallow bad bots and AI crawlers and turned on [AI bot blocker in Cloudflare](http://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click) as well.
 - New article because a friend got hacked [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication](https://christophersherrod.com/security/)
 - Wrote [Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers](https://christophersherrod.com/fred-rogers/)
 - Wrote [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](https://christophersherrod.com/1001-albums/)
