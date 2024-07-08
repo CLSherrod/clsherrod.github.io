@@ -3,8 +3,6 @@ layout: single
 title: My Books
 permalink: /books/
 ---
-These are my books that are still on the market.
-
 ## Hiring Virtual Workers For Small Business
 I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About Christopher Sherrod"
+title: "About Me"
 permalink: /about/
 toc: true
 author_profile: true
