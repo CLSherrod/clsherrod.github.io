@@ -2,7 +2,7 @@
 title: "I'm on Mind your Own Business in Boston today"
 date: 2010-09-26
 categories: News
-tags: entrepreneurship
+tags: interview
 permalink: "/im-on-mind-your-own-business-in-boston-today"
 published: true
 comments: true
