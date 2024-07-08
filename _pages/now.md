@@ -5,7 +5,7 @@ permalink: /now/
 ---
 This is a [now page](https://nownownow.com/about). See [my interests page](https://christophersherrod.com/interests/) and [my other pages](https://christophersherrod.com/explore)
 
-Updated on Sunday July 7th, 2024.
+Updated on Monday July 8th, 2024.
 
 ## Recently Published
 - Updated [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication and PassKeys](https://christophersherrod.com/security/) with PassKeys
