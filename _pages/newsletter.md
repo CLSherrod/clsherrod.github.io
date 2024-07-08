@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Releases by Christopher Sherrod
+title: Newsletter
 permalink: /newsletter/
 ---
 ## Stay in the Loop
