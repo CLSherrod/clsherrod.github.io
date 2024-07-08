@@ -18,7 +18,7 @@ Now, I’m paying it forward by sharing my experiences through my business books
 I’ve penned down my business philosophy, dubbed the [Dolphin Entrepreneur](https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
 
 ## Writing About Business
-Being in the game for the long haul, I enjoy sharing my business insights through my [my articles here](https://christophersherrod.com/archive/). You can catch ‘em all right here on my site.
+Being in the game for the long haul, I enjoy sharing my business insights through my [my articles here](https://christophersherrod.com/blog). You can catch ‘em all right here on my site.
 
 ## My current featured articles
 [Expert Book Writing and Publishing: 19 Proven Strategies](https://christophersherrod.com/book-advice/)
