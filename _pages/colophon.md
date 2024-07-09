@@ -10,10 +10,10 @@ An inscription placed usually at the end of a book, giving facts about its publi
 ChristopherSherrod.com is written by Christopher Sherrod.
 
 ## Essential Apps
-- Obsidian for writing
-- VSCodium for website project
-- Eagle to export graphics to webp format
+- [Obsidian](http://obsidian.md/) for writing
+- [VSCodium](http://vscodium.com/) for website project with [FrontMatter Extension](https://frontmatter.codes)
+- [Eagle](https://en.eagle.cool) to export graphics to webp format
 
 ## Server Software
-- Jekyll - static website builder
-- GitHub Pages - to host site
+- [Jekyll](https://jekyllrb.com) - static website builder
+- [GitHub Pages](https://pages.github.com) - to host site
