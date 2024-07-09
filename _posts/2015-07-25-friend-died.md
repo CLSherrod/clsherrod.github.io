@@ -4,7 +4,7 @@ date: 2015-07-25
 categories:
 - Essays
 tags:
-- Love
+- love
 - tribute
 published: true
 permalink: "/friend-died/"

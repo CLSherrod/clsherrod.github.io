@@ -6,6 +6,7 @@ comments: true
 categories:
 - Essays
 tags:
+- security
 - vpn
 permalink: "/your-own-vpn/"
 excerpt: Own your own VPN for super privacy
