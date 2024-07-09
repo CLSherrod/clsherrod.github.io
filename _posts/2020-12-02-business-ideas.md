@@ -3,7 +3,9 @@ title: "Book Updated: How To Create New Business Ideas"
 date: 2020-12-02
 last_modified_at: 2023-10-03
 categories: News
-tags: idea-generation, books
+tags:
+- idea-generation
+- books
 permalink: /how-to-create-new-business-ideas-updated/
 comments: true
 ---
