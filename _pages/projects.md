@@ -25,7 +25,7 @@ Helped people thru the process of self-publishing their book after I did it for 
 Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book, later renamed [How To Create New Business Ideas Based On What You Love](https://christophersherrod.com/2020/12/02/business-ideas.html)
 
 **1999 - 2018 Website design firm**<br>
-Created first website designs for professionals, mostly professtionals.
+Created first website designs for professionals.
 
 **1996 - 2001 Niche business software**<br>
 Created and sold business software for a niche market on Windows & Mac.
