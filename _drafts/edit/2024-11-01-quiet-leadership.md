@@ -1,9 +1,8 @@
 ---
-layout: article
 title: "Unlocking Success: Embracing the Power of Quiet Leadership in Today's Business World"
-date: 2024-11-01
-last_modified_at: 2024-11-01
-tags: entrepreneurship leadership
+date: 2024-09-01
+categories: Essays
+tags: entrepreneurship, leadership
 permalink: /quiet-leadership/
 published: true
 comments: true

@@ -1,11 +1,11 @@
 ---
-layout: article
 title: "The Truth About Middle Success: Embracing Substance Over Flash in Entrepreneurship"
-date: 2024-12-01
-last_modified_at: 2024-12-01
+date: 2024-12-02
+categories: Essays
 tags: entrepreneurship
 permalink: /middle-success/
-published: false
+toc: true
+published: true
 comments: true
 ---
 The Middle Way Is More Successful

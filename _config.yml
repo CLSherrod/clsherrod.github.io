@@ -111,6 +111,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clsherrod"
+    - label: "RSS"
+      icon: "fa-solid fa-rss"
+      url: "https://christophersherrod.com/feed.xml"
 
 footer:
   links:

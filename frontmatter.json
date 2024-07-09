@@ -83,5 +83,45 @@
       "title": "posts",
       "path": "[[workspace]]/_posts"
     }
-  ]
+  ],
+  "frontMatter.content.snippets": {
+    "Post Frontmatter": {
+      "description": "Post frontmatter",
+      "body": [
+        "---",
+        "title: \"\"",
+        "date: ",
+        "categories: Essays",
+        "tags: ",
+        "permalink: /",
+        "published: true",
+        "comments: true",
+        "toc: true",
+        "excerpt: \"\"",
+        "---"
+      ],
+      "fields": []
+    },
+    "Header image": {
+      "description": "",
+      "body": [
+        "teaser: /assets/images/articles/steve-irwin.webp",
+        "header:",
+        "  image: /assets/images/articles/steve-irwin.webp"
+      ],
+      "isMediaSnippet": true
+    },
+    "Image with link": {
+      "description": "",
+      "body": "[![Hiring Virtual Workers For Small Business on Amazon Kindle](/assets/images/books/Hiring-Virtual-Workers.webp)](https://amzn.to/2FvAxx9)",
+      "isMediaSnippet": true
+    },
+    "Link": {
+      "description": "",
+      "body": "[Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9)",
+      "isMediaSnippet": true
+    }
+  },
+  "frontMatter.git.enabled": true,
+  "frontMatter.dashboard.openOnStart": true
 }

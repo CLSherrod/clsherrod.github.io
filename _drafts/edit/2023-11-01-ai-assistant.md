@@ -1,29 +1,43 @@
 ---
-layout: article
 title: "Harnessing Artificial Intelligence: A Creator's New Best Friend"
 date: 2023-11-01
-last_modified_at: 2023-11-01
+date_last_modified: 2024-07-09
 tags: implementing
-permalink: /ai-assistance/
-published: false
+permalink: /ai/
+published: true
 comments: true
-aside:
-  toc: true
-article_header:
-  type: overlay
-  theme: dark
-  background_color: '#203028'
-  background_image:
-    gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /assets/images/articles/ai-assistance.webp
+toc: true
+excerpt: "How I've integrated AI into my life."
 ---
 ## 2022 AI Became Useful To Everyone
 
-In the ever-evolving landscape of technology, the year 2022 stands out as a watershed moment. It marked the point when artificial intelligence (AI) transitioned from a futuristic concept into an accessible, practical tool readily available to the masses. While it’s clear that AI has immense potential, there is also a pervasive fear, especially among creators. Some believe that AI heralds an era where human creativity will be supplanted by bots that can churn out content at unprecedented speeds. But are we really at the precipice of such a future? Not quite. AI, as it stands today, is more of an ally than a rival for creators. In this article, we’ll explore how AI can amplify human creativity rather than diminish it.
+In the constantly changing technology world, the year 2022 stands out as a watershed moment. It marked the point when artificial intelligence (AI) transitioned from a futuristic concept into an accessible, practical tool readily available to the masses. While it’s clear that AI has immense potential, there is also a pervasive fear, especially among creators. Some believe that AI heralds an era where human creativity will be supplanted by bots that can churn out content at unprecedented speeds. But are we really at the precipice of such a future? Not quite. AI, as it stands today, is more of an ally than a rival for creators. In this article, we’ll explore how AI can amplify human creativity rather than diminish it.
 
 ## A Personal Experience with AI
 
 For context, it’s worth mentioning that I’ve integrated AI into my daily routine. It’s transformed my workflow, offering insights, shortcuts, and enhancements that I hadn’t even realized I needed. However, it’s essential to note that while AI provides the tools, the direction and intent still come from a human touch.
+
+I primarily use ChatGPT for research and an final editor, much like I used to rely on search engines before they became overrun with spam and a real person editor.
+
+### No AI-Generated Text in My Voice
+
+I have never used AI to generate text in my "voice." No emails, no sentences in my articles or books, not even comments. Nothing pretends to be me.
+
+### The Joy of Writing Myself
+
+I relish the challenge of writing myself. It’s organized thinking. It’s the process I enjoy, not just the end result.
+
+### AI as an Editing Tool
+
+I do, however, use AI to edit my words. It helps with grammar and word choices and provides valuable feedback on how to write more clearly.
+
+### AI in Programming
+
+I also use AI to generate programming functions. It's much faster than hiring a programmer and can handle programming languages I'm not familiar with.
+
+### AI as a Research Assistant
+
+While writing, I often ask it questions I might pose to a friend or editor sitting next to me.
 
 ## Dispelling the Myths: AI and Creativity
 
@@ -61,6 +75,10 @@ Plus, it’s fixes audio quality and gets rid of background noise automatically.
 I can record an audio and have it ready to ship in a couple of minutes. I’ve learned to pause when I’m unsure what to say next and the AI will just remove that section. 
 
 We use it exclusively now.
+
+## Authenticity in My Writing
+
+But the real purpose of this page is to let you know that nothing claiming to be written by me is written by artificial intelligence.
 
 ## Embracing the Future: AI and You
 In conclusion, while AI is a powerful tool, it is just that—a tool. It can’t replicate the unique perspective or emotional depth a human creator brings to the table. Instead of viewing AI as a threat, consider it a sidekick. Embrace its capabilities, understand its limitations, and integrate it where it makes sense. 
