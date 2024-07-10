@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: Hello
 permalink: /hello/
 toc: true
