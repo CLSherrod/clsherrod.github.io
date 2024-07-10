@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Subscribed - Christopher Sherrod”
 article_header:
   type: overlay

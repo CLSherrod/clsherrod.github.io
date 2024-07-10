@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Recommended Systems
 permalink: /recommended-systems/
 ---

@@ -2,6 +2,7 @@
 layout: single
 title: What I Use
 permalink: /uses/
+toc: true
 ---
 Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2azNWRlNwAC45j_i-MoSJPpu29CmZiLyi9_pmgt) on any improvements. Last update: 2024-05-03
 

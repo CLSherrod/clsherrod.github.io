@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Explore
 permalink: /explore/
 ---

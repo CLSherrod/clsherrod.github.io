@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: “Christopher Sherrod”
 permalink: /alreadysubscribed/
 published: true

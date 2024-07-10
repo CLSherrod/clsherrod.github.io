@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: Newsletter
 permalink: /newsletter/
 ---
