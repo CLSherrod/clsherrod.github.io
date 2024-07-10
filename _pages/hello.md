@@ -23,7 +23,7 @@ Here is how I prefer to keep in touch:
 - Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2azNWRlNwAC45j_i-MoSJPpu29CmZiLyi9_pmgt).
 
 ## Open-Source Projects
-- I have some projects on [GitHub](https://github.com/clsherrod)
+- I have some markdown smart note projects on [GitHub](https://github.com/clsherrod)
 
 ## Social Media
 - I'm active on [Mastodon](https://pkm.social/@chris)
