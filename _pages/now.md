@@ -2,6 +2,7 @@
 layout: single
 title: What I'm Doing Now
 permalink: /now/
+toc: true
 ---
 This is a [now page](https://nownownow.com/about). See [my interests page](https://christophersherrod.com/interests/) and [my other pages](https://christophersherrod.com/explore)
 

@@ -82,6 +82,10 @@
     {
       "title": "posts",
       "path": "[[workspace]]/_posts"
+    },
+    {
+      "title": "_pages",
+      "path": "[[workspace]]/_pages"
     }
   ],
   "frontMatter.content.snippets": {
