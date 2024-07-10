@@ -2,6 +2,7 @@
 layout: single
 title: Site Colophon
 permalink: /colophon/
+toc: true
 ---
 ## What is a Colophon?
 An inscription placed usually at the end of a book, giving facts about its publication. In this case a page for this website.

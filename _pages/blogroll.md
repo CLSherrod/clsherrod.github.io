@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: single
 title: Blogroll
 permalink: /blogroll/
 ---
