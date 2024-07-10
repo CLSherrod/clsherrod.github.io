@@ -19,7 +19,7 @@ Here is how I prefer to keep in touch:
     <input type="submit" value="Send">
   </form>
 
-## Encrypted Messages via Signal
+## Encrypted Messages
 - Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2azNWRlNwAC45j_i-MoSJPpu29CmZiLyi9_pmgt).
 
 ## Open-Source Projects
