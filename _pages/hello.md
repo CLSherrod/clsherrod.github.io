@@ -22,13 +22,13 @@ Here is how I prefer to keep in touch:
 ## Encrypted Messages
 - Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2azNWRlNwAC45j_i-MoSJPpu29CmZiLyi9_pmgt).
 
-## Open-Source Projects
-- I have some markdown smart note projects on [GitHub](https://github.com/clsherrod)
-
 ## Social Media
 - I'm active on [Mastodon](https://pkm.social/@chris)
 - I sometimes use [Instagram](https://instagram.com/christophersherrod)
 - I am not active on any other social media
+
+## Open-Source Projects
+- I have some markdown smart note projects on [GitHub](https://github.com/clsherrod)
 
 Learn more about [Hello pages](https://alastairjohnston.com/introducing-hello-pages/).
 
