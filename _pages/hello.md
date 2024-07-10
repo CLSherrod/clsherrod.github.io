@@ -1,7 +1,9 @@
 ---
 layout: single
+classes: wide
 title: Hello
 permalink: /hello/
+toc: true
 ---
 If you'd like to find out more about me, [check out my About page](/about).
 
@@ -18,10 +20,15 @@ Here is how I prefer to keep in touch:
     <input type="submit" value="Send">
   </form>
 
+## Encrypted Messages via Signal
 - Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2azNWRlNwAC45j_i-MoSJPpu29CmZiLyi9_pmgt).
+
+## Open-Source Projects
+- I have some projects on [GitHub](https://github.com/clsherrod)
+
+## Social Media
 - I'm active on [Mastodon](https://pkm.social/@chris)
 - I sometimes use [Instagram](https://instagram.com/christophersherrod)
-- I have some projects on [GitHub](https://github.com/clsherrod)
 - I am not active on any other social media
 
 Learn more about [Hello pages](https://alastairjohnston.com/introducing-hello-pages/).
