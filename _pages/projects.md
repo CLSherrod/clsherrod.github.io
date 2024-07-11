@@ -38,8 +38,7 @@ Minority investor in one of my previous clients.
 
 **2008 - 2018 ChristopherSherrod.com**
 
-Website and book design firm and consulting.
-Created first website designs for many professionals.
+Got out of the website hosting business and became a design firm only. Created first website designs and books for many professionals.
 
 **2008 [How To Create New Business Ideas Based On What You Love](/business-ideas)**
 
