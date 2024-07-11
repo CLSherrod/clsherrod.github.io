@@ -36,7 +36,7 @@ Presenter of my business theory that you need to start a business based on what 
 
 Minority investor in one of my previous clients.
 
-**2008 - 2018 ChristopherSherrod.com**
+**2008 - 2018 Website & Book Design**
 
 Got out of the website hosting business and became a design firm only. Created first website designs and books for many professionals.
 
