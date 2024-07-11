@@ -30,7 +30,7 @@ Weekly newsletter educating people in the expat niche.
 
 **2010 - 2012 Speaker**
 
-Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book, later renamed [How To Create New Business Ideas Based On What You Love](/business-ideas).
+Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book, [How To Create New Business Ideas Based On What You Love](/business-ideas).
 
 **2010 - 2017 [Nan Akasha](/nanakasha)**
 

@@ -4,7 +4,9 @@ classes: wide
 title: How To Create New Business Ideas Based On What You Love
 permalink: /business-ideas/
 ---
-First published in 2008, latest edition 2014
+**First published in 2008, latest edition 2020**
+
+I wrote a book called **Play Prosperity Games** and had it printed before Kindle was a thing. The games came out of speaking in front of many groups in San Antonio and Austin Texas. Later it was renamed How To Create New Business Ideas Based On What You Love and came out on Kindle.
 
 ## How To Create New Business Ideas Based On What You Love
 A simple step by step guide to creating new business ideas based on what you love
