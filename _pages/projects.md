@@ -5,41 +5,54 @@ title: My Projects
 permalink: /projects/
 ---
 **2023 - [OBTF (One Big Text File) Journal](/obtf)**
+
 OBTF (One Big Text File) Journal is a simple yet powerful solution for maintaining a journal in Markdown or plain text format.
 
 **2023 - [Home Manual Markdown](/home-manual)**
+
 Home Manual to track everything about your home in Markdown and wiki-style backlinks.
 
 **2022 - [Customer Relationship Management Markdown](/crm)**
+
 Track your contacts using plain text Markdown and wiki-style backlinks.
 
 **2022 - [Gardening Project Managment Markdown](/gardening)**
+
 Track your gardening using plain text Markdown and wiki-style backlinks.
 
 **2020 - [Hiring Virtual Workers For Small Business](/hiring)**
+
 I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
 
 **2018 - [Expat Rebel](/expatrebel)**
+
 Weekly newsletter educating people in the expat niche.
 
 **2010 - 2012 Speaker**
-Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book, later renamed [How To Create New Business Ideas Based On What You Love](https://christophersherrod.com/2020/12/02/business-ideas.html)
+
+Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book, later renamed [How To Create New Business Ideas Based On What You Love](business-ideas)
 
 **2010 - 2017 [Nan Akasha](/nanakasha)**
+
 Minority investor in one of my previous clients.
 
 **2008 - 2018 ChristopherSherrod.com**
+
 Website and book design firm and consulting.
 Created first website designs for many professionals.
 
 **2008 [How To Create New Business Ideas Based On What You Love](/business-ideas)**
+
 Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
 
 **1999 - 2008 Webhosting Firm**
+
 Website design firm & hosting. Hosted static and later WordPress websites.
 
 **1996 - 2001 Niche business software**
+
 Created and sold business software for a niche market on Windows & Mac.
 
 **1996 - 1997 American Express Online**
+
 On launch team for first online presence of American Express. Project won internal award for innovation.
