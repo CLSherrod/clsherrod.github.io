@@ -30,7 +30,7 @@ Weekly newsletter educating people in the expat niche.
 
 **2010 - 2012 Speaker**
 
-Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book, [How To Create New Business Ideas Based On What You Love](/business-ideas).
+Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book [How To Create New Business Ideas Based On What You Love](/business-ideas).
 
 **2010 - 2017 [Nan Akasha](/nanakasha)**
 
@@ -46,7 +46,7 @@ Published my book on how to create new ideas based on what you love that came ou
 
 **1999 - 2008 Webhosting Firm**
 
-Website design firm & hosting. Hosted static and later WordPress websites.
+Website design firm & hosting.
 
 **1996 - 2001 Niche business software**
 
