@@ -23,5 +23,7 @@ I’ve taken readers feedback to make this 8th edition.
 
 [How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](https://amzn.to/3oZlRrW)
 
+> There are also practical tips to check out the viability of your idea before taking that leap of faith. I think this would be fun to do with my teenage grandson and some of his friends as well. Planting some entrepreneurial seeds at a young age has got to be a good thing. Thanks Chris!” ~ Shelley J.W.
+
 ## Addtional Resources
 Join my [newsletter](/newsletter/) to get the bonus materials that goes along with the book.
