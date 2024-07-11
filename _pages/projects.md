@@ -28,6 +28,10 @@ I wrote this book to share my hiring process that I’ve developed since 2000 wh
 
 Weekly newsletter educating people in the expat niche.
 
+**2012 - [Chr1stopher](/chr1stopher)**
+
+I'm a musician and artist known as Chr1stopher.
+
 **2010 - 2012 Speaker**
 
 Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book [How To Create New Business Ideas Based On What You Love](/business-ideas).
