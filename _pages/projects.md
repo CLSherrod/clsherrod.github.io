@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: My Projects
+title: Projects
 permalink: /projects/
 ---
 **2023 - [OBTF (One Big Text File) Journal](/obtf)**

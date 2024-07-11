@@ -1,6 +1,6 @@
 ---
 layout: single
-title: My Books
+title: Books
 permalink: /books/
 toc: true
 ---

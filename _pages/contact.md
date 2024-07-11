@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Contact
+title: Contact Me
 permalink: /contact/
 ---
 ## Email
