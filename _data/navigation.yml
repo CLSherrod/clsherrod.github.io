@@ -17,7 +17,5 @@ main:
   url: /hello/
 - title: "Now"
   url: /now/
-- title: "Projects"
-  url: /projects/
 - title: "Explore"
   url: /explore/
