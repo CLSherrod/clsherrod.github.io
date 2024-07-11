@@ -16,6 +16,9 @@ Track your contacts using plain text Markdown and wiki-style backlinks.
 **2022 - [Gardening Project Managment Markdown](/gardening)**
 Track your gardening using plain text Markdown and wiki-style backlinks.
 
+**2020 - [Hiring Virtual Workers For Small Business](/hiring)**
+I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
+
 **2018 - [Expat Rebel](/expatrebel)**
 Weekly newsletter educating people in the expat niche.
 
@@ -28,6 +31,9 @@ Minority investor in one of my previous clients.
 **2008 - 2018 ChristopherSherrod.com**
 Website and book design firm and consulting.
 Created first website designs for many professionals.
+
+**2008 [How To Create New Business Ideas Based On What You Love](/business-ideas)**
+Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
 
 **1999 - 2008 Webhosting Firm**
 Website design firm & hosting. Hosted static and later WordPress websites.
