@@ -15,7 +15,7 @@ These days, I’m all about newsletter-driven educational businesses. Ever since
 Now, I’m paying it forward by sharing my experiences through my business books and articles. My mentors helped me figure out the biz game, so now it’s my turn to pass on the knowledge.
 
 ## My Business Approach: The Dolphin Entrepreneur
-I’ve penned down my business philosophy, dubbed the [Dolphin Entrepreneur](https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
+I’ve penned down my business philosophy, dubbed the [Dolphin Entrepreneur](/dolphin-entrepreneur/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
 
 ## Writing About Business
 Being in the game for the long haul, I enjoy sharing my business insights through my [my articles here](/blog). You can catch ‘em all right here on my site.
