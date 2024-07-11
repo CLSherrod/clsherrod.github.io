@@ -47,6 +47,6 @@ Curious about what I’m up to these days? Check out my current projects section
 - See [Projects](/projects) for a full list of past projects.
 
 ## Stay Connected
-Want to stay in the loop? Goto my [Hello page](/hello)
+Want to stay in the loop? Goto my [Hello page](/hello).
 
 That’s the scoop, folks. Thanks for tuning in!
