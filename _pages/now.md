@@ -4,7 +4,7 @@ title: What I'm Doing Now
 permalink: /now/
 toc: true
 ---
-Updated on Tuesday July 11th, 2024.
+Updated on Friday July 12th, 2024.
 
 ## Currently Doing
 I'm a writer. I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot).
@@ -26,6 +26,7 @@ See [Projects](/projects) for a full list of past projects.
 - [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](/1001-albums/)
 
 ## Recently Published
+- New website design and updated [projects page](/projects).
 - Updated [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication and PassKeys](/security/) with PassKeys
 - Added [Explore page](/explore) to see all the major areas on the website
 - Updated [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/) from 2008. Inspiring list of successful people that dropped out of high school and went on to make it big.
