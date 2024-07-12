@@ -1,5 +1,5 @@
 ---
-title: The Meaning Of Money - Zig Ziglar
+title: The Meaning Of Money
 date: 2004-11-04
 categories:
 - Review
