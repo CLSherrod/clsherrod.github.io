@@ -2,7 +2,7 @@
 title: Atlas Shrugged
 date: 2000-01-07
 categories:
-- Review
+- Reviews
 tags:
 - book
 - freedom

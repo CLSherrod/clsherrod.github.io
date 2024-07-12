@@ -2,7 +2,7 @@
 title: The Meaning Of Money
 date: 2004-11-04
 categories:
-- Review
+- Reviews
 tags:
 - abundance
 permalink: "/the-meaning-of-money-zig-ziglar/"

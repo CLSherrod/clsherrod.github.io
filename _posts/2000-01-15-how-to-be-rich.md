@@ -2,7 +2,7 @@
 title: How To Be Rich
 date: 2000-01-15
 categories:
-- Review
+- Reviews
 tags:
 - book
 - abundance

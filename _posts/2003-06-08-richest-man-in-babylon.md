@@ -2,7 +2,7 @@
 title: Richest Man In Babylon
 date: 2003-06-08
 categories:
-- Review
+- Reviews
 tags:
 - book
 - abundance
