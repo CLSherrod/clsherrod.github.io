@@ -1,5 +1,5 @@
 ---
-title: The Tipping Point
+title: The Tipping Point Review
 date: 2005-05-17
 categories: Reviews
 tags: idea-generation

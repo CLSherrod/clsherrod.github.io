@@ -1,5 +1,5 @@
 ---
-title: Richest Man In Babylon
+title: Richest Man In Babylon Review
 date: 2003-06-08
 categories:
 - Reviews

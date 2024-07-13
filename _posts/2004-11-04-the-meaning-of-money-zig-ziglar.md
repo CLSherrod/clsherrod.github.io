@@ -1,5 +1,5 @@
 ---
-title: The Meaning Of Money
+title: The Meaning Of Money Review
 date: 2004-11-04
 categories:
 - Reviews

@@ -1,5 +1,5 @@
 ---
-title: Atlas Shrugged
+title: Atlas Shrugged Review
 date: 2000-01-07
 categories:
 - Reviews
