@@ -4,7 +4,7 @@ title: What I'm Doing Now
 permalink: /now/
 toc: true
 ---
-Updated on Friday July 12th, 2024.
+Updated on Saturday July 13th, 2024.
 
 ## Currently Doing
 I'm a writer. I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot).
@@ -26,6 +26,7 @@ See [Projects](/projects) for a full list of past projects.
 - [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](/1001-albums/)
 
 ## Recently Published
+- Added 8 book reviews I wrote 24 years ago to [Reviews](https://christophersherrod.com/categories/#reviews) 400+ old posts left to review before republishing.
 - New website design and updated [projects page](/projects).
 - Updated [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication and PassKeys](/security/) with PassKeys
 - Added [Explore page](/explore) to see all the major areas on the website
