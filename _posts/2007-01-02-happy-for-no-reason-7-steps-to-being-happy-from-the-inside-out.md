@@ -1,5 +1,5 @@
 ---
-title: "Happy for No Reason: 7 Steps to Being Happy from the Inside Out"
+title: "Happy for No Reason: 7 Steps to Being Happy from the Inside Out Review"
 date: 2007-01-02
 published: true
 comments: true

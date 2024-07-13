@@ -1,5 +1,5 @@
 ---
-title: The Art of Money Getting or Golden Rules for Making Money
+title: The Art of Money Getting or Golden Rules for Making Money Review
 date: 2006-09-19
 categories:
 - Reviews
