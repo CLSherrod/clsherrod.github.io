@@ -149,7 +149,7 @@ defaults:
       related: true
   - scope:
       path: "_poems"
-      type: posts
+      type: poems
     values:
       layout: single
       author_profile: true
