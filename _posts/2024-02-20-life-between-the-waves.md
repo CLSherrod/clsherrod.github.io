@@ -7,7 +7,7 @@ categories:
 tags:
 - simplicity
 permalink: "/life-between-the-waves"
-excerpt: 
+excerpt: Poem about living life between the waves.
 ---
 I love being simple. Being simple has made me appreciate all the moments in life. Everything is stillness if you appreciate it. I wrote this poem to appreciate the life between the waves.
 

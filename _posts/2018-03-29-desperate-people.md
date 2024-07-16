@@ -8,6 +8,7 @@ permalink: /desperate-people/
 published: true
 comments: true
 toc: true
+excerpt: Deals gone wrong because of desperate people.
 ---
 ## The Deal Gone Wrong
 Not every business deal goes as planned. Recently, I had a deal fall through in a rather dramatic and unsettling manner. The individual I was working with went to extreme lengths to justify keeping some money, even fabricating evidence and threatening a family member.

@@ -7,7 +7,7 @@ categories:
 tags:
 - life
 permalink: "/silencing-interruptions"
-excerpt: 
+excerpt: Poem about silencing interruptions while being creative.
 ---
 I've been having some distractions lately and haven't been writing as much as I would like which leads me to write about interruptions. So, I got in my hot tub, relaxed and wrote this.
 

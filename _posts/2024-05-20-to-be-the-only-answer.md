@@ -7,7 +7,7 @@ categories:
 tags:
 - life
 permalink: "to-be-the-only-answer"
-excerpt: 
+excerpt: Poem about to be is a gift.
 ---
 For years I would randomly say in a deep actor's theatre voice "To Be Or Not To Be. To Be!" around the house. Usual after having a nice creative session. I think it's a stupid question because for me the only answer is To Be. I can only be me. I can only be. To be is a gift that I don't want to give up. So I wrote a poem.
 

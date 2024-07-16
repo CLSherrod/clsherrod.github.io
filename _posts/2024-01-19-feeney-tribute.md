@@ -12,9 +12,10 @@ toc: true
 teaser: /assets/images/articles/charles-feeney-cover.webp
 header:
   image: /assets/images/articles/charles-feeney-cover.webp
+excerpt: My tribute to the great entrepreneur Charles F. Feeney.
 ---
 Entrepreneurs, delve into the inspiring journey of Charles F. Feeney. Discover how his audacious shift from accumulating wealth to impactful giving redefines entrepreneurial success.
-<!--more--> 
+
 ## Charles F. Feeney: Illuminating Entrepreneurship with a Legacy of Giving Back
 Every so often, we witness a figure in the entrepreneurial landscape whose actions reverberate with profound impact. Charles F. Feeney was one such individual. Not just for his astute business acumen or the empire he built, but for his unparalleled commitment to giving back. As a fellow entrepreneur, I wish to pay tribute to this stalwart who transformed the world of philanthropy by exemplifying that the true essence of wealth is not in accumulation, but in distribution.
 

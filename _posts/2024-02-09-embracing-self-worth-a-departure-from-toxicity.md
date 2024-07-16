@@ -7,7 +7,7 @@ categories:
 tags:
 - self-worth
 permalink: "/embracing-self-worth/"
-excerpt: 
+excerpt: Poem about embracing your worth.
 ---
 I penned this poem as a reflection on a choice I've made, one that may seem personal yet holds deeper significance. It's an exploration of why I've chosen not to be friends with certain individuals, a decision that intertwines personal boundaries with broader reflections on life's journey.
 

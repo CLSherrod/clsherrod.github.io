@@ -7,7 +7,7 @@ categories:
 tags:
 - love
 permalink: "valentines-day-magic"
-excerpt: 
+excerpt: A love poem for my love on Valentine's Day.
 ---
 Happy Valentine's Day everyone. I wrote this poem for my love of life Nan and thought it would super romantic and inspiring for the rest of you.
 

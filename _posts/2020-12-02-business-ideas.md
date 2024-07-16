@@ -7,7 +7,7 @@ tags:
 - idea-generation
 - books
 permalink: /how-to-create-new-business-ideas-updated/
-comments: true
+excerpt: My book has a new revision out.
 ---
 <div style="width:20%; margin:0 auto;" align="right" markdown="1">
 ![Image](/assets/images/books/How-To-Create-New-Business-Ideas.webp)

@@ -1,15 +1,15 @@
 ---
 title: Flowers Are Fallen - Poem
-date: 2024-07-09T16:56:47.041Z
+date: 2024-07-09
 categories:
 - Poems
 tags: 
 - potential
 permalink: "flowers-are-fallen"
 published: true
-comments: true
+excerpt: Poem about flowers are flowers because they have fallen.
 ---
-I watched Shogun (2024) TV show and one of characters explains that flowere are flowers because they have fallen. And that line really moved me.
+I watched Shogun (2024) TV show and one of characters explains that flowers are flowers because they have fallen. And that line really moved me.
 
 ## Flowers Are Fallen
 Flowers are flowers because they have fallen,

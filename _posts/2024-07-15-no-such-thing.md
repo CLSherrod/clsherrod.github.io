@@ -8,7 +8,7 @@ tags:
 permalink: "/no-such-thing"
 published: true
 comments: true
-excerpt: No such thing as a life better than yours
+excerpt: Poem about that there is no such thing as a life better than yours
 teaser: /assets/images/poems/no-such-thing.webp
 header:
   image: /assets/images/poems/no-such-thing.webp

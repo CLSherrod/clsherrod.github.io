@@ -7,9 +7,9 @@ categories:
 tags:
 - love
 permalink: "loves-journey"
-excerpt: 
+excerpt: Poem about my love of my life.
 ---
-I recently celebrated 19 years together with the love of my life Nan Akasha. Having a love so deep I think is quite rare in the world. I wrote a #poem to celebrate. @highlight
+I recently celebrated 19 years together with the love of my life Nan Akasha. Having a love so deep I think is quite rare in the world. I wrote a poem to celebrate.
 
 ## Love's Journey: Nineteen Years and Counting
 

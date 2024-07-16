@@ -7,7 +7,7 @@ categories:
 tags:
 - celebration
 permalink: "/resonance-of-new-beginnings"
-excerpt: 
+excerpt: A Slam Poem for Family and Friends in the Year Ahead.
 ---
 🌟 Exciting New Year Unveiling! 🌟
 
