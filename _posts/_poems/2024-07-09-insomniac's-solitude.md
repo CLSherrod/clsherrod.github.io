@@ -1,5 +1,5 @@
 ---
-title: Insomniac's Solitude
+title: Insomniac's Solitude - Poem
 date: 2024-07-09T16:22:02.149Z
 categories:
 - Poems
