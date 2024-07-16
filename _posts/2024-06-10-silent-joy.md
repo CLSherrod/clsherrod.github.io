@@ -3,7 +3,7 @@ title: Silent Joy
 date: 2024-06-10
 published: true
 categories:
-- Poem
+- Poems
 tags:
 - silence
 permalink: "/silent-joy"
