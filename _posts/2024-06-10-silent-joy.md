@@ -1,5 +1,5 @@
 ---
-title: Silent Joy
+title: Silent Joy - Poem
 date: 2024-06-10
 published: true
 categories:
