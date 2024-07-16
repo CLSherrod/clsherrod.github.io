@@ -2,13 +2,12 @@
 title: "The Dark Side of Business Coaching: Avoiding Entrapment and Toxicity"
 date: 2025-01-13
 categories: Essays
-tags: giving
+tags: coaching
 permalink: /toxic-coaching/
 published: true
 comments: true
+excerpt: Toxic business coaches lessons
 ---
-Toxic business coaches lessons
-<!--more--> 
 Seeking guidance and mentorship is often touted as a key to success. However, not all business coaching experiences are created equal. In recent years, a concerning trend has emerged – the rise of entrapping business coaching and the toxicity that ensues when clients don’t conform to hidden business models.
 
 Entrepreneurs, eager to accelerate their growth and navigate the complexities of business ownership, often turn to coaches and mentors for support. However, some coaches exploit this eagerness by employing manipulative tactics to coerce clients into purchasing unnecessary products or services.

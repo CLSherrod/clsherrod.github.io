@@ -6,9 +6,8 @@ tags: entrepreneurship, leadership
 permalink: /quiet-leadership/
 published: true
 comments: true
+excerpt: Quiet Leadership Works
 ---
-Quiet Leadership Works
-<!--more--> 
 In our fast-paced and often chaotic business landscape, the concept of leadership is frequently associated with assertiveness, confidence, and a commanding presence. Business coaches often advocate for an assertive leadership style that involves high-pressure tactics and in-your-face approaches to drive results. However, there exists another, less celebrated leadership style that emphasizes quiet strength, humility, and empathy – the quiet leadership style.
 
 Quiet leadership stands in stark contrast to the aggressive, in-your-face leadership approach advocated by many business coaches. Instead of relying on forceful tactics and high-pressure upselling, quiet leaders prioritize building genuine connections, fostering trust, and empowering their teams through humility and collaboration.
