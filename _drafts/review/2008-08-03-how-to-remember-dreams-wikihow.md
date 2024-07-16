@@ -31,5 +31,5 @@ author:
 permalink: "/how-to-remember-dreams-wikihow/"
 ---
 <p>I'm a big fan of dreaming.Â  I get a ton of ideas while dreaming.Â  This is a good article on how to remember dreams.</p>
-<blockquote><p>Theories abound as to why we dream, how we dream, and what meaning we can assign to our dreams. Many people believe that dreams can provide insights into our lives and feelings, but for most of us, it's notoriously difficult to remember our dreams. With conscious effort, however, you can remember more of your dreams and recall them in greater detail.</p></blockquote>
+>Theories abound as to why we dream, how we dream, and what meaning we can assign to our dreams. Many people believe that dreams can provide insights into our lives and feelings, but for most of us, it's notoriously difficult to remember our dreams. With conscious effort, however, you can remember more of your dreams and recall them in greater detail.</p></blockquote>
 <p><a href="http://www.wikihow.com/Remember-Dreams" rel="nofollow">How to Remember Dreams - wikiHow</a></p>

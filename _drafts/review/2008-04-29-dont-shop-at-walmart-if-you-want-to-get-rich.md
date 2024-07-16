@@ -31,7 +31,7 @@ author:
 permalink: "/dont-shop-at-walmart-if-you-want-to-get-rich/"
 ---
 <p><img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/04/walmart.jpg" alt="" width="300" height="365" />I'm glad someone had the guts to say it the way it is.</p>
-<blockquote><p>You will adopt the ideas, beliefs, and mindset of the people you spend the most time with (including the people found on TV, in books, or on tape), which will lead you to make similar decisions, which will lead you to assume a similar life and lifestyle.</p>
+>You will adopt the ideas, beliefs, and mindset of the people you spend the most time with (including the people found on TV, in books, or on tape), which will lead you to make similar decisions, which will lead you to assume a similar life and lifestyle.</p>
 <p>Rich people know this, and they know that a person's mindset is fluid. It's always changing with the ideas and interactions it comes into contact with on a daily basis.</p>
 <p>This is why rich people protect themselves from everything associated with struggle and poverty.</p>
 <p>Ever wonder why they live together in walled communities closed off from the rest of society with massive gates? Ever wonder why they shop at expensive boutiques, fly first-class, stay at $500/night hotels?</p>

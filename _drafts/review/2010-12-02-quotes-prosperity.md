@@ -34,5 +34,5 @@ permalink: "/quotes-prosperity/"
 <p><a href="http://www.amazon.com/gp/product/0646492799?ie=UTF8&amp;tag=abundaunlimi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0646492799" rel="nofollow"><img class="alignright" title="Quotes For Prosperity" src="http://ecx.images-amazon.com/images/I/61xDi3u%2BjzL._SL500_AA300_.jpg" alt="" width="300" height="300" / rel="nofollow"/></a>I got the book "Quotes for Prosperity: 369 Insights to Happiness and Success" last week.</p>
 <p>I was looking for inspiration to start the day and I randomly opened up your book 'Quotes for Prosperity'. I found just the right quote which made my day. Thank you for helping to improve everyone's lives. I highly recommend 'Quotes for Prosperity' to everyone.</p>
 <p>Today when I randomly opened the book I got</p>
-<blockquote><p>Write it on your heart that every day is the best day in the year</p>
+>Write it on your heart that every day is the best day in the year</p>
 <p>Ralph Waldo Emerson</p></blockquote>

@@ -43,7 +43,7 @@ permalink: "/youve-got-to-find-what-you-love-jobs-says/"
 ---
 <p><a href="http://news-service.stanford.edu/news/2005/june15/jobs-061505.html" rel="nofollow">’You’ve got to find what you love,’ Jobs says</a></p>
 <p>There is a lot to learn from Steve Jobs co-found of Apple.  Do what you love and it will all work out.</p>
-<blockquote><p>Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma - which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</p>
+>Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma - which is living with the results of other people’s thinking. Don’t let the noise of other’s opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</p>
 <p>…<br />
 Stewart and his team put out several issues of The Whole Earth Catalog, and then when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age. On the back cover of their final issue was a photograph of an early morning country road, the kind you might find yourself hitchhiking on if you were so adventurous. Beneath it were the words: “Stay Hungry. Stay Foolish.” It was their farewell message as they signed off. Stay Hungry. Stay Foolish. And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you.</p>
-<p>Stay Hungry. Stay Foolish.</p></blockquote>
+>Stay Hungry. Stay Foolish.

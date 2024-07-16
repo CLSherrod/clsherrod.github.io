@@ -33,7 +33,7 @@ permalink: "/training-vs-coaching/"
 ---
 <p>I'm amazed by the number of people that provide coaching.  I'm also amazed because many of them are not even coaching.  They are training.  Big big difference.</p>
 <p>Mark Joyner wrote an article that says it quite well.</p>
-<blockquote><p> Coaching can help, but there's a problem ...Unless you get direct access to a real - truly qualified - coach yourself, you're not really getting coaching.</p>
+> Coaching can help, but there's a problem ...Unless you get direct access to a real - truly qualified - coach yourself, you're not really getting coaching.</p>
 <p>Heck, I've seen people charge clients $8,000 for a year of coaching only to find that the clients call in for their coaching session and the coach pushes the "play" button on a recording.</p>
 <p>Yikes.</p>
 <p>Sorry, that ain't coaching. It's training.</p>

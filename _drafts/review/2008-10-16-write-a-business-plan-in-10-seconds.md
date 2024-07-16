@@ -33,7 +33,7 @@ author:
 permalink: "/write-a-business-plan-in-10-seconds/"
 ---
 <p>Forming a business plan around a business idea can be very quick.  Check out this 10 second solution.</p>
-<blockquote><p>There are basically four major aspects of the ten-second business and marketing plan:</p>
+>There are basically four major aspects of the ten-second business and marketing plan:</p>
 <p>1) What product or service you are offering?</p>
 <p>2) How it is going to help people?</p>
 <p>3) What are you going to call your business?</p>

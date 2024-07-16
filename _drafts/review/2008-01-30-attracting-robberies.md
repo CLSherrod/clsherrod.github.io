@@ -52,7 +52,7 @@ permalink: "/attracting-robberies/"
 ---
 <p>Joe Vitale just wrote about getting robbed just before leaving Hollywood.  And my partner Nan was robbed this last summer in Austin.  I see Joe's philosophy on it.  Both Nan and Joe attracted it.  They both love being generous and wanting new things.  For my Nan she was running out of space on her iPod and boom it was stolen and she ordered the just released bigger iPod a couple of days later.  Sure it was tramatic.  She was upset.  Just like I believe Joe was.</p>
 <p>Joe says:</p>
-<blockquote><p>I gave it to someone who felt they needed it.</p>
+>I gave it to someone who felt they needed it.</p>
 <p>As you can see, there were very real reasons for me to attract that robbery.</p>
 <p>After all, other expensive items in my luggage were not taken; only the things I was apparently ready to let go of.</p>
 <p>I'm actually excited about getting a new laptop and a new ipod nano and of course attracting more cash. :)</p>

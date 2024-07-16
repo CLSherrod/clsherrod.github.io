@@ -30,5 +30,5 @@ author:
 permalink: "/the-elders/"
 ---
 <p>Richard Branson along with Peter Gabriel started The Elders.  A great idea.  They are people the world trust and are free from politica, military and economic pressures.</p>
-<blockquote><p>We are moving to a global village and yet we don't have our global elders.  The Elders could be a group who have the trust of the world, who can speak freely, be fiercely independent,  and respond fast and flexibly in conflict situations.</p></blockquote>
+>We are moving to a global village and yet we don't have our global elders.  The Elders could be a group who have the trust of the world, who can speak freely, be fiercely independent,  and respond fast and flexibly in conflict situations.</p></blockquote>
 <p><a href="http://www.theelders.org/" rel="nofollow">The Elders :: theElders.org</a></p>

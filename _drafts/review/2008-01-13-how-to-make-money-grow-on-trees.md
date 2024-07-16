@@ -31,5 +31,5 @@ author:
 permalink: "/how-to-make-money-grow-on-trees/"
 ---
 <p>Sherer has a great article about abundance.Â  A great read.</p>
-<blockquote><p>Great! So how do I make money grow on trees? Adopt a subconscious that BELIEVES and ACTS as if money comes abundantly and frequently. Change your character to your ideals, and your life will reflect these ideals and dreams. Become a person with confidence, empower other, give, and you will receive the fruits of your labor in return. Works everytime.</p></blockquote>
+>Great! So how do I make money grow on trees? Adopt a subconscious that BELIEVES and ACTS as if money comes abundantly and frequently. Change your character to your ideals, and your life will reflect these ideals and dreams. Become a person with confidence, empower other, give, and you will receive the fruits of your labor in return. Works everytime.</p></blockquote>
 <p><a href="http://jmsherer.blogspot.com/2008/01/how-to-make-money-grow-on-trees.html" rel="nofollow">Living Infinitely: How to Make Money Grow on Trees</a></p>

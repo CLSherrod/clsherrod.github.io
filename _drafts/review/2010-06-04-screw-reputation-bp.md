@@ -56,7 +56,7 @@ author:
 permalink: "/screw-reputation-bp/"
 ---
 <p>BP started ads addressing the 6 week old oil spill today.</p>
-<blockquote><p>As the Obama administration opens civil and criminal investigations into the huge oil spill in the Gulf of Mexico, the party responsible for the spill, BP, has rolled out advertising addressing the crisis.</p>
+>As the Obama administration opens civil and criminal investigations into the huge oil spill in the Gulf of Mexico, the party responsible for the spill, BP, has rolled out advertising addressing the crisis.</p>
 <p>A full-page ad in today&amp;apos;s New York Times shows BP workers on a boat somewhere in the Gulf, looking to contain the spill. Copy reads: "We will get this done. We will make this right."</p>
 <p>Text in the ad goes on to say the spill was "a tragedy that never should have happened," and refers to the unsuccessful "top kill" operation. But the ad assures readers that BP employees are working "around the clock" to contain and collect most of the leak.</p>
 <p>The ad is perhaps the first response by BP since the spill occurred on April 20. Though it contains the BP "Helios" logo, it doesn't contain the tagline, "Beyond Petroleum," which was developed a decade ago by Ogilvy &amp; Mather. An Ogilvy rep declined comment, referring inquiries to BP reps, who didn't return calls.</p></blockquote>

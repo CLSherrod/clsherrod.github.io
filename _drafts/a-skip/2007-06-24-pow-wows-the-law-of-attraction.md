@@ -33,7 +33,7 @@ excerpt: I love this story about Native American women and The Law of Attraction
   doesn't allow you to dwell on things and it's simple.  I love that.
 ---
 <p>I love this story about Native American women and The Law of Attraction.  It doesn't allow you to dwell on things and it's simple.  I love that.</p>
-<blockquote><p>I once heard a story about Native American women. The story goes that within the tribes, every week, the women would meet to have a pow-wow. They would all sit around & talk, & if anyone had a problem, they were welcome to seek advice from the other women who were there. Now, this doesn't sound too odd, in fact it sounds like your average lunch with a friend. However, there was one crucial difference to the way they operated.</p>
+>I once heard a story about Native American women. The story goes that within the tribes, every week, the women would meet to have a pow-wow. They would all sit around & talk, & if anyone had a problem, they were welcome to seek advice from the other women who were there. Now, this doesn't sound too odd, in fact it sounds like your average lunch with a friend. However, there was one crucial difference to the way they operated.</p>
 <p>One of the rules of the pow-wow was that if you were still struggling with the same problem after three weeks, you either had to deal with it or stop talking about it.
 </p></blockquote>
 <p><a href="http://galadarling.com/article/pow-wows-the-law-of-attraction?commented=1#c004048" rel="nofollow">Pow-Wows & The Law Of Attraction - iCiNG - galadarling.com</a></p>

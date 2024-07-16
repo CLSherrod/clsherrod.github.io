@@ -80,7 +80,7 @@ permalink: "/why-you-are-failing/"
 <p>Last week I had a mastermind member call me the Internet Marketing guru of the group.  Quite flattering and it made me uncomfortable because I look up to many others as gurus of Internet Marketing. Then he called me the guru of websites which I would agree with as I"ve been creating them for 13 or so years more than anyone I know.</p>
 <p>My conversation with one of my mastermind members got me thinking why he and other think I"m a guru of Internet Marketing.  I simply think it is because I actually create products.  So many people simply don"t do anything at all.  Period.  I think I can be successful so I do something and make corrections as I go.  Ready, Fire, Aim.  Some people are scared of failing. Do it a few times and you get over it.  I did.</p>
 <p>Then I thought of a recent email my girlfriend Nan forwarded to me from Marlon, a successful Internet Marketer.  I think it clearly reflects why some people are failing.</p>
-<blockquote><p>But dominantly, I'm a producer and a promoter of products.<br />
+>But dominantly, I'm a producer and a promoter of products.<br />
 My job in life is to come up with new products that create<br />
 value for my customers and to promote them to the best of<br />
 my ability within the time and money constraints I decide<br />

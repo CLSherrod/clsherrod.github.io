@@ -37,7 +37,7 @@ excerpt: |
   The traditional ceremony, known in the Masai language as Ipayiani', was conducted by the Masai Elders in the presence of around 30 members of the local tribal community. The Masai tribe awarded Richard the honour in return for bringing prosperity to the land.
 ---
 <p><img align="right" src="{{ site.baseurl }}/posts/2007/06/richardbranson.jpg" alt="Richard Branson" />I'm part Cherokee and I also wanted to be part of the tribe.  Richard Branson's actions have renewed that in me.</p>
-<blockquote><p>Sir Richard Branson, the President of Virgin Atlantic, has been made a tribal Elder in a ceremony held in the Masai Mara in Kenya. He was in the region celebrating Virgin Atlantic's new daily services to the Kenyan capital, Nairobi.</p>
+>Sir Richard Branson, the President of Virgin Atlantic, has been made a tribal Elder in a ceremony held in the Masai Mara in Kenya. He was in the region celebrating Virgin Atlantic's new daily services to the Kenyan capital, Nairobi.</p>
 <p>The traditional ceremony, known in the Masai language as Ipayiani', was conducted by the Masai Elders in the presence of around 30 members of the local tribal community. The Masai tribe awarded Richard the honour in return for bringing prosperity to the land.</p>
 <p>Today's ceremony means that Richard has now officially become a Masai Elder and has joined the College of Elders in the Masai community.
 </p></blockquote>

@@ -37,7 +37,7 @@ permalink: "/08-08-08-a-day-of-prosperity-heart-book-series/"
 <p><img class="alignright" src="{{ site.baseurl }}/posts/2008/08/8s.jpg" alt="" width="328" height="218" /></p>
 <p>Yesterday was prosperity day.Â  08-08-08.</p>
 <p>This blogger has a great article about prosperity day and a lot of cool history.</p>
-<blockquote><p>Today is a most unusual day. if you embrace the Gregorian calendar, like we do in the Western World.  Today is the 8th of August, 2008.  We indicated it with 8/8/8 and the multiple 8s mean some interesting things to many people.</p>
+>Today is a most unusual day. if you embrace the Gregorian calendar, like we do in the Western World.  Today is the 8th of August, 2008.  We indicated it with 8/8/8 and the multiple 8s mean some interesting things to many people.</p>
 <p>The number EIGHT. In many cultures celebrated as a symbol of  "infinity."</p>
 <p>For the Chinese, the number 8 holds a special significance.  They believe that it means good fortune coming or prosperity.  In Hong Kong some who would pay extra to have the number 8 on their license plates, and telephone numbers.  They believe in luck in China â€” a lot.  So, today is a particularly luckyâ€ day for many Chinese.</p></blockquote>
 <p><a href="http://heartbookseries.com/stories/08-08-08-a-day-of-prosperity/" rel="nofollow">08 08 08 - A Day of Prosperity | Heart Book Series</a></p>

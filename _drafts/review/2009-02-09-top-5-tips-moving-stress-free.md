@@ -36,13 +36,13 @@ permalink: "/top-5-tips-moving-stress-free/"
 <p>1.  Get rid of the old stuff.  Get rid of the items you don't use.  If it's in a box from your last move you don't use it and should get rid of it.  There are a few things I will never get rid of like photos but that's about it for me.</p>
 <p>I used Craigslist.org to list free stuff and sold the good stuff I didn't need anymore.  Here is the free stuff ad I used on Craigslist.</p>
 <p>We are cleaning out our garage today only (Saturday January 31st) and we want to get rid of some of this stuff quick quick, kinda like a garage sale but it's free. We are moving Monday so we are getting rid of a lot of stuff. Everything next to the road is free. We also have some other items on Craiglist that are for sale so ask us if you are interested</p>
-<blockquote><p>Come on by and take some great items. Please come by and get some free stuff. Good stuff too.</p>
+>Come on by and take some great items. Please come by and get some free stuff. Good stuff too.</p>
 <p>Update: Sunday 6:30pm - Today is our last day to pack, we move tomorrow (Monday 2nd February). Still lots of stuff, come on by and great some great items for free. Way more now than the pictures show. Everything gets thrown away mid day Monday.</p>
 <p>Address with link to Google Map &lt;- Google Map of our place.</p></blockquote>
 <p>We had a lot of people come by and pick up our free stuff in the front yard.  At one point someone honked their car horn wondering where all the stuff was.  Someone before them took it all in their truck.  So I deleted the listing until we had some more free stuff.</p>
 <p>We listed a great many items for sale and found that having a photo and listing it in the morning greatly increased the amount of calls.  I also didn't give the option for people to email me and just listed a local phone number that they could call.  This helped because we were in the garage alot and couldn't check my email and could easily answer the phone and answer questions and directions to our place.</p>
 <p>An example of a for sale listing:</p>
-<blockquote><p>Moose Fern $60</p>
+>Moose Fern $60</p>
 <p>&lt;p&gt;Moving sale, our Hanging Moose Fern can't come with us to our new place.&lt;/p&gt;</p>
 <p>&lt;p&gt;Call 210-535-8239&lt;/p&gt;</p>
 <p>and a picture of the item.</p></blockquote>
@@ -54,7 +54,7 @@ permalink: "/top-5-tips-moving-stress-free/"
 <p>Everything didn't fit in the large truck they brought.  They had to rent a large UHual and we almost filled that also.  And Nan negotiated an additional cost of $500.  We learned that an estimate based on number of bedrooms is very inaccurate.  Basing it on square footage may be better.  Because the mover didn't come see our place or go thru a detailed estimate actually helped us keep the move costs low because he bid to low.</p>
 <p>I learned not to help or start dissassembling anything because they will refuse to assemble at your new place.  Also it helps to monitor where they place stuff.  I stood near the end of the truck and would tell them where items went.  Nan was inside also helping direct them to where exactly to put stuff.  They did an excellent job of unloading quick.  We moved in one day.</p>
 <p>4.  Hire a handyman.  We stayed the night at a friend's place the first night since our bed was not assembled and we were tired.  We both have businesses to run so I hired a handyman to come and help move boxes from the garage, unpack, hang picture frames and our flat panel TV. So I put a listing up on Craigslist for a handyman.  See ad:</p>
-<blockquote><p>Just moved to Austin and need some help moving boxes from the garage up one to two flights of stairs. Lifting and moving and handing pictures.</p>
+>Just moved to Austin and need some help moving boxes from the garage up one to two flights of stairs. Lifting and moving and handing pictures.</p>
 <p>Need someone between 12pm and 3pm for two hours tomorrow (Wednesday Feb 4th)</p>
 <p>Call [my phone #]</p></blockquote>
 <p>I had six people in about 15 minutes call.  I picked who I thought was the best and scheduled him to come over.  Mark came over while I was working with clients so my girlfriend started him moving boxes up and down stairs and whatever else she needed to have done to get the place looking good.  We plan on having him over at least one more time.</p>

@@ -31,7 +31,7 @@ author:
 permalink: "/34-rules-for-maverick-entrepreneurs/"
 ---
 <p><img class="alignright alignnone size-medium wp-image-56" style="float: right;" title="Richard Branson" src="{{ site.baseurl }}/posts/2008/05/richardbranson.jpg" alt="" />Yanik Silver recently spent some time with Richard Branson on Necker Island.Â  Yanik came up with 34 rules for Maverick Entrepreneurs.Â  Here are the first three, check the link at the bottom for all of them.Â  The last rule is highly recommended.</p>
-<blockquote><p>Getting back to it, I was flying on the way home from Necker and I was so inspired with our time there that I started creating my rules for successful entrepreneurial endeavors. I thought it would be top 10 list but I kept writing and writing in my journal and it came to 34 tenets that I'm calling</p>
+>Getting back to it, I was flying on the way home from Necker and I was so inspired with our time there that I started creating my rules for successful entrepreneurial endeavors. I thought it would be top 10 list but I kept writing and writing in my journal and it came to 34 tenets that I'm calling</p>
 <p>34 Rules for Maverick Entrepreneurs</p>
 <p>1. It's got to be a BIG idea that you, your team and your customers can getâ€ in seconds.<br />
 2. Strive to create 10x â€“ 100x in value for any price you charge. Your rewards are always proportionate to the value you provide.<br />

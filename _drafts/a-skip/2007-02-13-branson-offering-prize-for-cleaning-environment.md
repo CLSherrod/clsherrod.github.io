@@ -36,7 +36,7 @@ excerpt: |-
 ---
 <p>[excerpt]Richard Branson has long been a mentor of mine.  He is so good at marketing and quickly understanding a business.  He is also great with people.  One surprising thing is his is not a good public speaker.  I always thought you had to be good a public speaking to be a good (and he is beyond good) entrepreneur.  What it takes is a good entrepreneur spirit which he has.</p>
 <p>Branson is now offering 19.2 million Euros prize.  He amazes me at every step.[/excerpt]</p>
-<blockquote><p>A prize of USD 25 million (EUR19.2 million) is on offer to any individual or group able to come up with a commercially viable system for the removal of greenhouses gases.</p>
+>A prize of USD 25 million (EUR19.2 million) is on offer to any individual or group able to come up with a commercially viable system for the removal of greenhouses gases.</p>
 <p>Launched on 9 February by Sir Richard Branson, Head of UK Virgin Group, the Virgin Earth Challenge will initially run for five years. It will aim to encourage scientists from around the world to compete to find a solution to remove at least 1 billion tonnes of carbon dioxide (CO2) per year from the Earth's atmosphere.</p>
 <p>Entries should 'demonstrate a commercially viable design which will result in the net removal of anthropogenic, atmospheric greenhouse gases each year for at least 10 years without countervailing harmful effects. This removal must have long term effects and contribute materially to the stability of the Earth's climate,' reads a press release from the Virgin Group.</p></blockquote>
 <p><a href="http://cordis.europa.eu/fetch?CALLER=EN_NEWS&amp;ACTION=D&amp;SESSION=&amp;RCN=27114" rel="nofollow">Entire article</a><br />

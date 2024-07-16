@@ -35,6 +35,6 @@ excerpt: Richard Branson is already implementing alternative fuel.  He will show
   it is doable now and profitable.
 ---
 <p>Richard Branson is already implementing alternative fuel.  He will show that it is doable now and profitable.</p>
-<blockquote><p>Europe's first biodiesel-powered passenger train left London's Euston station for North Wales last week, marking another milestone of billionaire Sir Richard Branson's plan to fight global warming. Fueled by 20 percent vegetable oil, Branson's Virgin Trains began their six month trail period. He hopes that eventually his whole fleet will be converted to run on biofuels.
+>Europe's first biodiesel-powered passenger train left London's Euston station for North Wales last week, marking another milestone of billionaire Sir Richard Branson's plan to fight global warming. Fueled by 20 percent vegetable oil, Branson's Virgin Trains began their six month trail period. He hopes that eventually his whole fleet will be converted to run on biofuels.
 </p></blockquote>
 <p>Read the entire article <a href="http://mariaenergia.blogspot.com/2007/06/all-aboard-biofuel-virgin-train.html" rel="nofollow">Maria Energia: All Aboard the Biofuel Virgin Train</a></p>

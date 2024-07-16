@@ -34,13 +34,13 @@ permalink: "/author-of-100-things-to-do-before-you-die-is-killed-in-fall/"
 ---
 <p><img class="alignright" src="{{ site.baseurl }}/posts/2008/08/article-1049432-026c84f900000578-142_233x382.jpg" alt="" width="233" height="382" /></p>
 <p>Just shows you to live life now.</p>
-<blockquote><p>The man who co-wrote the best-selling adventure travel guide 100 Things To Do Before You Die has died at the age of 47.</p>
+>The man who co-wrote the best-selling adventure travel guide 100 Things To Do Before You Die has died at the age of 47.</p>
 <p>Dave Freeman had visited half the places mentioned in his book whose recommendations included a voodoo pilgrimage to Haiti and running with bulls in Pamplona, Spain.</p>
 <p>He died after falling over at his home in Venice, California, and hitting his head.</p></blockquote>
 <p>He wrote the book on what to do before you die and he only gets through half the book.</p>
 <p>What are you doing to live your life?Â  Are you waiting until you retire?</p>
 <p>Another quote from a blog post. From one of the founders of Wall Street Stock Market.</p>
-<blockquote><p>Do not save money, that's the most foolish thing you can do. Whatever money you earn, give instantly half to your children, they will love you for that. Spend the other half traveling and enjoying life. Money is of no worth when you are old and then you realize that it's the time that matters.</p></blockquote>
+>Do not save money, that's the most foolish thing you can do. Whatever money you earn, give instantly half to your children, they will love you for that. Spend the other half traveling and enjoying life. Money is of no worth when you are old and then you realize that it's the time that matters.</p></blockquote>
 <p>You can enjoy life and save and invest money.Â  But live life.Â  Don't live and then find out it's too late to travel, have fun and enjoy life.</p>
 <p>My grandmother was retired most of my life.Â  All I remember her doing is sitting in front of the T.V. and staring at it.Â  If someone got up she would immediately ask them to go get her a Coke or food.Â  She never moved.Â  She did this for at least 30 years, day after day.Â  I would rather be dead.</p>
 <p>I grew up in Alaska.Â  I move all the time.Â  Flew from lake to lake and incredible small town to even smaller town.Â  I had a blast.Â  When I moved to Arizona I drove all over the state and took photographs.Â  I took a consulting job in the Bahamas just because it was in the Bahamas.Â  I had a blast diving and snorkeling.</p>

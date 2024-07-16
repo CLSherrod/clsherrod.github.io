@@ -33,7 +33,7 @@ permalink: "/yes-how-can-i-fix-it/"
 ---
 <p>I've blogged before how I find most businesses on the Internet have horrible customer service or none.  I had one person when I asked that I haven't gotten a response in two weeks via email and they have no published phone number when I met him he just said "I'm busy".  Have your heard of an assistant?  Do you think I'm going to buy anything you come out with again?  Or go to one of your seminars?  Are you kidding me?</p>
 <p>Seth the marketing guru.  I love his books had this to say about responding to a critical letter.  So true.</p>
-<blockquote><p>The only productive response to a critical letter or piece of a feedback from a customer is, You're right...â€</p>
+>The only productive response to a critical letter or piece of a feedback from a customer is, You're right...â€</p>
 <p>You're right, I can see that you are annoyed.<br />
 You're right, that is frustrating.<br />
 You're right, with the expectations you had, it's totally understandable to feel the way you do.<br />

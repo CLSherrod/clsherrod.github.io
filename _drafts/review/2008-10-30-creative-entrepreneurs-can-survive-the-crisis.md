@@ -34,7 +34,7 @@ permalink: "/creative-entrepreneurs-can-survive-the-crisis/"
 ---
 <p>Big companies that are not creative will hurt and many go out of business.  Nimble small companies that are creative will florish.  Be creative.  Now is the time for using your brain first and then money second.  Brains always wins.</p>
 <p>The best product never goes bankrupt.  Be the best.</p>
-<blockquote><p>“It’s not the creative entrepreneurs but it’s the large companies that are being challenged. Creative companies can survive any condition,” Larréché said at the recent World Knowledge Forum in Seoul, South Korea.</p>
+>“It’s not the creative entrepreneurs but it’s the large companies that are being challenged. Creative companies can survive any condition,” Larréché said at the recent World Knowledge Forum in Seoul, South Korea.</p>
 <p>Virgin Atlantic, which was founded by British entrepreneur Sir Richard Branson in 1984, survived and came out stronger after the airline crisis of the early 1990s when many established airlines went bankrupt, notes Larréché.</p>
 <p>Speaking via satellite, Branson said a lot of opportunities will emerge as a result of the current global economic slowdown but companies</p>
 <p>need to be nimble to move quickly and decisively to realise these opportunities.</p>

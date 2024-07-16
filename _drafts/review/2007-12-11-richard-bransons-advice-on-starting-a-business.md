@@ -35,6 +35,6 @@ permalink: "/richard-bransons-advice-on-starting-a-business/"
 ---
 <p>John Singh interviewed Richard Branson on starting a business.Â  Richard gives some excellent advice.</p>
 <p>Here is a portion of a terrific interview. Link below go to full interview.</p>
-<blockquote><p>Ideally, since 80 percent of your life is spent working, you should start your business around something that is a passion of yours. If you're into kite-surfing and you want to become an entrepreneur, do it with kite-surfing.</p>
+>Ideally, since 80 percent of your life is spent working, you should start your business around something that is a passion of yours. If you're into kite-surfing and you want to become an entrepreneur, do it with kite-surfing.</p>
 <p>Look, if you can indulge in your passion, life will be far more interesting than if you're just working. You'll work harder at it, and you'll know more about it. But first you must go out and educate yourself on whatever it is that you've decided to do - know more about kite-surfing than anyone else. That's where the work comes in. But if you're doing things you're passionate about, that will come naturally.</p></blockquote>
 <p><a href="http://johnsingh.typepad.com/my_weblog/2007/12/richard-branson.html" rel="nofollow">John Singh: Richard Branson's advice on Starting a Business'</a></p>

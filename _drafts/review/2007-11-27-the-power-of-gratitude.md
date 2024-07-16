@@ -32,7 +32,7 @@ author:
 permalink: "/the-power-of-gratitude/"
 ---
 <p>I loved this article on gratitude.</p>
-<blockquote><p>If I could offer you a magic potion that would make you happier, healthier, more optimistic and more productive, and tell you that potion would cost nothing and will require very little effort to use, would you be interested?</p>
+>If I could offer you a magic potion that would make you happier, healthier, more optimistic and more productive, and tell you that potion would cost nothing and will require very little effort to use, would you be interested?</p>
 <p>Let me ask the question differently.</p>
 <p>If this potion existed would you want some?</p>
 <p>Of course you would! Unfortunately, I don't have a potion that will do these things. But each of us has something even better than a potion that will do all of those things and more...</p>

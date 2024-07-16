@@ -31,7 +31,7 @@ author:
 permalink: "/master-of-your-own-domain/"
 ---
 <p>My girlfriend <a href="http://www.createyourownrealitynow.com" rel="nofollow">Nan</a> sent this to me via email.</p>
-<blockquote><p>You are the master of your mind<br />
+>You are the master of your mind<br />
 You are the master of your emotions<br />
 You are a master of the law of attraction<br />
 You are the master of your life<br />

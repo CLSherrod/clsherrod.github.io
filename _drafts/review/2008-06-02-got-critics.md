@@ -80,7 +80,7 @@ permalink: "/got-critics/"
 <p>If you don"t have critics then you aren't trying hard enough.  You think I"m kidding.  I"m not.  You"re not pushing the envelope, you"re not sharing yourself enough, you"re not out there.</p>
 <p>I get criticized and laughed at when I say you can be successful and not be a workaholic.  Many people like that is a big big lie.  Their mentors are major workaholics.  So they think I'm nuts.</p>
 <p>These suggestions from Alexandria are helpful when you get critics.  Hopefully soon if not already because it is a sign of success.</p>
-<blockquote><p>What I HAVE learned is that if any of these critics get nasty with you, don't sink to their level. Remember that as a publisher you're also in the business of customer service. I typically handle it via one of these three methods:</p>
+>What I HAVE learned is that if any of these critics get nasty with you, don't sink to their level. Remember that as a publisher you're also in the business of customer service. I typically handle it via one of these three methods:</p>
 <p>a) respond calmly and acknowledge their point (some people just want to be heard)<br />
 b) disregard or delete their message (if their comments are so inappropriate or hurtful that I can't answer back calmly)<br />
 c) remove them from my list</p>

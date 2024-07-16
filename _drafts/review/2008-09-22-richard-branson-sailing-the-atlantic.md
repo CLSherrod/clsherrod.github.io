@@ -36,7 +36,7 @@ author:
 permalink: "/richard-branson-sailing-the-atlantic/"
 ---
 <p>Another great example of how to publicize yourself.</p>
-<blockquote><p>With Sanderson and Branson at the helm, they will make the crossing in the 30-metre Virgin Money, which is owned by the Team Origin leader, Sir Keith Mills.</p>
+>With Sanderson and Branson at the helm, they will make the crossing in the 30-metre Virgin Money, which is owned by the Team Origin leader, Sir Keith Mills.</p>
 <p>Sanderson last crossed the Atlantic in 2003, setting a record of six days, 17 hours, 52 minutes and 39 seconds, beating his previous best by more than a day.</p>
 <p>He told the Herald on Sunday he was determined to better the record for the single-hull crossing sailing craft, 'whether it's a minute, an hour or a day - this is a race against the clock'.</p>
 <p>An average speed of 20 knots is required, a difficult task on one of the roughest oceans.</p>

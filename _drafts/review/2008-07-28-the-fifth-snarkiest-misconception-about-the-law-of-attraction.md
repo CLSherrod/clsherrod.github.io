@@ -32,7 +32,7 @@ author:
 permalink: "/the-fifth-snarkiest-misconception-about-the-law-of-attraction/"
 ---
 <p>I get the question "Where's my stuff?" often.Â  Many people think that once they start focusing on prosperity and abundance that it should instantly manifest.Â  It can.Â  Instantly.Â  No doubt about it.</p>
-<blockquote><p>Scientists estimate that the human brain thinks about 70,000 thoughts a day.If you multiply that by 365 days in a year, that's 25,550,000 thoughts. (I did that in my head.)</p>
+>Scientists estimate that the human brain thinks about 70,000 thoughts a day.If you multiply that by 365 days in a year, that's 25,550,000 thoughts. (I did that in my head.)</p>
 <p>That, by the way, is twenty-five million, five hundred and fifty thousand thoughts.</p>
 <p>Now, I want you to take your age and multiply it by twenty-five million, five hundred and fifty thousand.</p>
 <p>The resulting number is the approximate number of thoughts you've had in your mind so far in your life.</p>

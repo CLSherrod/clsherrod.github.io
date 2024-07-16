@@ -34,5 +34,5 @@ permalink: "/time-to-revise-your-marketing-strategy/"
 ---
 <p>Â What worked for you last year?Â  What didn't?Â  Revising your marketing, your automation, your life is necessary every one in a while in order to stay on track.Â  I've been doing the last four weeks.Â  Automating some more, refining my marketing and enjoying life.</p>
 <p>Here is an article from a virtual assistant on their marketing strategy change for 2008.</p>
-<blockquote><p>January is a great time to review your 2007 marketing strategy. How much money did you spend and what did it bring you? It's a good idea to review where exactly your marketing dollars went. Whether it's Google AdWords or a Mastermind group, you need to know if those investments are paying off and if you should continue them in 2008.</p></blockquote>
+>January is a great time to review your 2007 marketing strategy. How much money did you spend and what did it bring you? It's a good idea to review where exactly your marketing dollars went. Whether it's Google AdWords or a Mastermind group, you need to know if those investments are paying off and if you should continue them in 2008.</p></blockquote>
 <p><a href="http://championassistants.wordpress.com/2008/01/28/time-to-revise-your-marketing-strategy/" rel="nofollow">Time to Revise Your Marketing Strategy! Â« Virtual Assistants to the Rescue!</a></p>

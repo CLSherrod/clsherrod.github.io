@@ -29,5 +29,5 @@ author:
 permalink: "/six-horrible-financial-products-you-should-avoid/"
 ---
 <p>When I read this article I thought it was a joke...a 401K Debit Card.  But they really exist.</p>
-<blockquote><p>Dealing with financial products can be very confusing and stressful, but there are some products that you should absolutely stay away from for the sake of your financial health. Here are a list of six things I think people should avoid.</p></blockquote>
+>Dealing with financial products can be very confusing and stressful, but there are some products that you should absolutely stay away from for the sake of your financial health. Here are a list of six things I think people should avoid.</p></blockquote>
 <p><a href="http://www.wisebread.com/six-horrible-financial-products-you-should-avoid" rel="nofollow">Six Horrible Financial Products You Should Avoid | Wise Bread</a>.</p>

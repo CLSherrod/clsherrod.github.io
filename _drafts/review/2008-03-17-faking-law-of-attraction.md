@@ -29,5 +29,5 @@ author:
 permalink: "/faking-law-of-attraction/"
 ---
 <p>James here make a good point about faking it to you make it.</p>
-<blockquote><p> So the faking bit is great to a point, however, the body or the feelings aspect of who you are needs to buy into whatever you are imagining or pretending. If you are affirming you are abundant and you are actually doing something about it like feeling grateful, giving to others, buying quality products and services (within reason) then those actions will affirm to your feelings that you are stepping up the vibration.</p></blockquote>
+> So the faking bit is great to a point, however, the body or the feelings aspect of who you are needs to buy into whatever you are imagining or pretending. If you are affirming you are abundant and you are actually doing something about it like feeling grateful, giving to others, buying quality products and services (within reason) then those actions will affirm to your feelings that you are stepping up the vibration.</p></blockquote>
 <p><a href="http://jameskilgarriff.wordpress.com/2008/03/16/law-of-attraction-and-faking-it/" rel="nofollow">Law of Attraction and Faking it Â« James Kilgarriff's Weblog</a></p>

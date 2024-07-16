@@ -30,7 +30,7 @@ author:
 permalink: "/four-good-reasons-to-belong-to-a-mastermind-group/"
 ---
 <p>Another great article from Evan's mastermind blog.  Check out the full article link at the bottom.</p>
-<blockquote><p>If you're new to mastermind groups or wonder how your group compares to another, then you'll want to read the answers to the following question.</p>
+>If you're new to mastermind groups or wonder how your group compares to another, then you'll want to read the answers to the following question.</p>
 <p>What the heck do you talk about in a mastermind group?</p>
 <p>Our most recent mastermind group meeting found us focusing on the following topics of discussion among the four group members.</p></blockquote>
 <p><a href="http://www.evancarmichael.com/Mastermind-Group/2007/12/four-good-reasons-to-belong-to.html" rel="nofollow">Mastermind Group Resources: Four Good Reasons to Belong to A Mastermind Group</a></p>

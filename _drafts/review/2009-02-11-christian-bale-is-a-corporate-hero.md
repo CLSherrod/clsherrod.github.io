@@ -63,7 +63,7 @@ author:
 permalink: "/christian-bale-is-a-corporate-hero/"
 ---
 <p><img class="size-full wp-image-7092 alignright" alt="christian-bale-300" src="{{ site.baseurl }}/posts/2009/02/christian-bale-300.jpg" width="300" height="400" />An interesting point of view on the Christian Bale rant.</p>
-<blockquote><p>Bale didn’t wait to see the dailies before getting upset. He knew that the scene was ruined and he wanted to fix it right then and there.</p>
+>Bale didn’t wait to see the dailies before getting upset. He knew that the scene was ruined and he wanted to fix it right then and there.</p>
 <p>He follows what I now call the “Christian Bale model;” the product itself is the goal, not the profit from the product. Making money is not a job; it’s a result of one.</p>
 <p>If bank executives followed the Bale model, home loans would have been given out to the people who could actually afford homes. Foreclosure rates would be lower, and they would still be making enough money to buy expensive furnishings.</p></blockquote>
 <p>Are you passionate enough to tell people what you want?</p>

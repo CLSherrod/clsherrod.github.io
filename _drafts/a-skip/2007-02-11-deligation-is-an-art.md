@@ -37,6 +37,6 @@ excerpt: |-
 ---
 <p>[excerpt]I remember reading an article criticizing people that didn’t answer their own phone as being distance and full of themselves. I was amazed that people think that way. People need to think beyond themselves. They need to think of their business plan.</p>
 <p>John Jantsch recently posted:</p>
-<blockquote><p>The trap of the small business owner is, that in many cases, to grow a business to some level of success means putting your head down and working real hard doing the making it, fixing it, shipping it of the business.[/excerpt]</p>
+>The trap of the small business owner is, that in many cases, to grow a business to some level of success means putting your head down and working real hard doing the making it, fixing it, shipping it of the business.[/excerpt]</p>
 <p>Problem is, that also eventually stops you from growing. Delegation is an art, but a necessary one. Until you can unload the technical work and focus on the strategic work you will find that your business will fall into cycles of expansion and contraction eventually settling on some sort of entrepreneurial homeostasis that neither pays well of satisfies.</p></blockquote>
 <p>Read the entire article at <a href="http://www.ducttapemarketing.com/weblog.php?id=P882" rel="nofollow">Duct Tape Marketing Blog</a></p>

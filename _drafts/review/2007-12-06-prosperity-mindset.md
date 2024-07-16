@@ -32,7 +32,7 @@ author:
 permalink: "/prosperity-mindset/"
 ---
 <p>Here is a great article on Prosperity Mindset.Â  Only people with the right mindset will win.Â  Enjoy.</p>
-<blockquote><p>What makes you have a mindset that has you expecting breathtaking success every time you attempt something?  Well, a number of things come to mind.</p>
+>What makes you have a mindset that has you expecting breathtaking success every time you attempt something?  Well, a number of things come to mind.</p>
 <p>You don't suffer from jealously about the success of others. George Lucas doesn't have to have a bomb so Steven Spielberg can have a hit movie. Madonna's new album doesn't have to tank so that Whitney Houston can have a hit. There is enough prosperity to go around.</p>
 <p>So it's important that you celebrate the success of others. Even if you perceive them to be your competition. In most cases, competition enlarges the available market.</p></blockquote>
 <p><a href="http://www.moneymakersnews.com/?p=11" rel="nofollow">Randy Gage on Creating a Prosperity Mindsetâ€ : MoneyMakers News Free Internet Work at Home Business Ideas and Opportunities for Entrepreneurs JV Newsletter</a></p>

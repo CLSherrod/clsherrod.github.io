@@ -37,7 +37,7 @@ excerpt: "Here is a good story of reaching for your dreams. \n\n    Once upon a 
   would reach the top of the tower.\n\n    You heard statements such as:"
 ---
 <p>Here is a good story of reaching for your dreams.</p>
-<blockquote><p>Once upon a time there was a bunch of tiny frogs.... who arranged a running competition.</p>
+>Once upon a time there was a bunch of tiny frogs.... who arranged a running competition.</p>
 <p>The goal was to reach the top of a very high tower.</p>
 <p>A big crowd had gathered around the tower to see the race and cheer on the contestants....</p>
 <p>The race began....</p>

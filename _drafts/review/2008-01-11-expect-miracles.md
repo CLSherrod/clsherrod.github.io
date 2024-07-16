@@ -30,7 +30,7 @@ author:
 permalink: "/expect-miracles/"
 ---
 <p>Joe Vitale is launching a T.V. show soon called "Expect Miracles"</p>
-<blockquote><p>I believe nothing is impossible or<br />
+>I believe nothing is impossible or<br />
 incurable.</p>
 <p>I want to prove it to you and the<br />
 rest of the world with a weekly<br />
