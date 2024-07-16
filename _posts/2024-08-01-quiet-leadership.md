@@ -1,11 +1,13 @@
 ---
 title: "Unlocking Success: Embracing the Power of Quiet Leadership in Today's Business World"
-date: 2024-09-01
-categories: Essays
-tags: entrepreneurship, leadership
-permalink: /quiet-leadership/
+date: 2024-08-01
 published: true
-comments: true
+categories:
+- Essays
+tags:
+- entrepreneurship
+- leadership
+permalink: /quiet-leadership/
 excerpt: Quiet Leadership Works
 ---
 In our fast-paced and often chaotic business landscape, the concept of leadership is frequently associated with assertiveness, confidence, and a commanding presence. Business coaches often advocate for an assertive leadership style that involves high-pressure tactics and in-your-face approaches to drive results. However, there exists another, less celebrated leadership style that emphasizes quiet strength, humility, and empathy – the quiet leadership style.

@@ -1,11 +1,11 @@
 ---
 title: No Such Thing - Poem
-date: 2024-07-16T16:19:15.828Z
+date: 2024-07-15
 categories:
 - Poems
 tags:
 - self-esteem
-permalink: "no-such-thing"
+permalink: "/no-such-thing"
 published: true
 comments: true
 excerpt: No such thing as a life better than yours
