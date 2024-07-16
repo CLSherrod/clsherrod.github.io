@@ -6,8 +6,8 @@ categories:
 tags: 
 - potential
 permalink: "flowers-are-fallen"
-published: false
-comments: false
+published: true
+comments: true
 ---
 I watched Shogun (2024) TV show and one of characters explains that flowere are flowers because they have fallen. And that line really moved me.
 
