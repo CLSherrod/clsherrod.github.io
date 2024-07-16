@@ -167,6 +167,11 @@ defaults:
       layout: single
       author_profile: true
 
+collections:
+  poems:
+    output: true
+    permalink: /poems/:title.html
+
 posts_archive:
   author_profile: true
 
