@@ -147,18 +147,6 @@ defaults:
       comments: true
       share: true
       related: true
-  - scope:
-      path: "_poems"
-      type: poems
-    values:
-      layout: single
-      author_profile: true
-      show_date: true
-      read_time: false
-      words_per_minute: 250
-      comments: true
-      share: true
-      related: true
   # _pages
   - scope:
       path: "_pages"
@@ -166,11 +154,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-collections:
-  poems:
-    output: true
-    permalink: /poems/:title.html
 
 posts_archive:
   author_profile: true
