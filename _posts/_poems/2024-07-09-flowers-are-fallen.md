@@ -1,8 +1,10 @@
 ---
 title: Flowers Are Fallen
 date: 2024-07-09T16:56:47.041Z
-categories: Poem
+categories:
+- Poems
 tags: 
+- potential
 permalink: "flowers-are-fallen"
 published: false
 comments: false

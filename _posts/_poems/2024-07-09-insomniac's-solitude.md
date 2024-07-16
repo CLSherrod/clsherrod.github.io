@@ -1,13 +1,14 @@
 ---
 title: Insomniac's Solitude
 date: 2024-07-09T16:22:02.149Z
-categories: Poem
-tags: null
+categories:
+- Poems
+tags:
+- quietness
 permalink: insomniac-solitude
 published: true
-comments: false
+comments: true
 excerpt: Why I like the quietness of being an insomiac.
-draft: false
 ---
 I've been have quite a bit of insomnia lately. Last night I wrote a poetry line. I can't write in the middle of the night. I'm awake but not enough to understand spoken words or write. I usual listen to sleep music and read.
 
