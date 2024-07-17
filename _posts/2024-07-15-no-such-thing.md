@@ -7,7 +7,6 @@ tags:
 - self-esteem
 permalink: "/no-such-thing"
 published: true
-comments: true
 excerpt: Poem about that there is no such thing as a life better than yours
 teaser: /assets/images/poems/no-such-thing.webp
 header:
