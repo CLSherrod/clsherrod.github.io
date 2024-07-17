@@ -6,7 +6,7 @@ comments: true
 categories:
 - Reviews
 tags:
-- book
+- books
 - business
 - mindset
 permalink: "/think-like-a-tycoon/"

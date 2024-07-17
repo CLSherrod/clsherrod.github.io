@@ -4,7 +4,7 @@ date: 2003-06-08
 categories:
 - Reviews
 tags:
-- book
+- books
 - abundance
 permalink: "/richest-man-in-babylon/"
 published: true

@@ -5,7 +5,8 @@ published: true
 categories:
 - Poems
 tags:
-- life
+- slow lifestyle
+- lyric poem
 permalink: "moments-unwrapped"
 excerpt: Poem about the present, the now, what you are actually living is a gift, a present.
 ---

@@ -5,7 +5,8 @@ published: true
 categories:
 - Poems
 tags:
-- life
+- slowlife lifestyle
+- lyric poem
 permalink: "/silencing-interruptions"
 excerpt: Poem about silencing interruptions while being creative.
 ---

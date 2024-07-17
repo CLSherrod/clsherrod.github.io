@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - silence
+- lyric poem
 permalink: "/silent-joy"
 excerpt: Poem about enjoying the silence.
 ---

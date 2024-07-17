@@ -4,7 +4,8 @@ date: 2024-07-09T16:22:02.149Z
 categories:
 - Poems
 tags:
-- quietness
+- slow lifestyle
+- lyric poem
 permalink: insomniac-solitude
 published: true
 comments: true

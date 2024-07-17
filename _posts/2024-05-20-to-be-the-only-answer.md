@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - life
+- lyric poem
 permalink: "to-be-the-only-answer"
 excerpt: Poem about to be is a gift.
 ---

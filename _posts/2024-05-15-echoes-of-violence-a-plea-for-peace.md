@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - peace
+- lyric poem
 permalink: "echoes-of-violence"
 excerpt: 
 ---

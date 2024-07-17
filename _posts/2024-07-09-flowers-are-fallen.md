@@ -5,6 +5,7 @@ categories:
 - Poems
 tags: 
 - potential
+- lyric poem
 permalink: "flowers-are-fallen"
 published: true
 excerpt: Poem about flowers are flowers because they have fallen.

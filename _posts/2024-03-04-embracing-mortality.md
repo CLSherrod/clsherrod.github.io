@@ -5,7 +5,8 @@ published: true
 categories:
 - Poems
 tags:
-- living
+- slow lifestyle
+- lyric poem
 permalink: "/embracing-mortality"
 excerpt: Poem about not fearing death.
 ---

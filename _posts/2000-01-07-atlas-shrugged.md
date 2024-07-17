@@ -4,7 +4,7 @@ date: 2000-01-07
 categories:
 - Reviews
 tags:
-- book
+- books
 - freedom
 permalink: "/atlas-shrugged/"
 published: true

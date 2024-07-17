@@ -4,7 +4,7 @@ date: 2000-01-15
 categories:
 - Reviews
 tags:
-- book
+- books
 - abundance
 permalink: "/how-to-be-rich/"
 published: true
