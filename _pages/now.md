@@ -26,6 +26,7 @@ See [Projects](/projects) for a full list of past projects.
 - [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](/1001-albums/)
 
 ## Recently Published
+- Updated my [home page](/) to be more of a summary page.
 - I've been writing poems since December, something new to me and I finally posted them to my website [poems](/categories/#poems)
 - Added some book reviews I wrote 24 years ago to [Reviews](https://christophersherrod.com/categories/#reviews) 400+ old posts left to review before republishing.
 - New website design and updated [projects page](/projects).
