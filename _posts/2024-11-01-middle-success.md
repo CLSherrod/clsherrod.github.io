@@ -1,6 +1,6 @@
 ---
 title: "The Truth About Middle Success: Embracing Substance Over Flash in Entrepreneurship"
-date: 2024-12-02
+date: 2024-11-01
 categories: Essays
 tags: entrepreneurship
 permalink: /middle-success/
