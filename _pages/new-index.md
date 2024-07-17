@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 title: Hello, I'm Chris - Christopher Sherrod
 permalink: /new-index
 ---
