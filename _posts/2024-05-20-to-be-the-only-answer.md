@@ -5,7 +5,7 @@ published: true
 categories:
 - Poems
 tags:
-- life
+- self-worth
 - lyric poem
 permalink: "to-be-the-only-answer"
 excerpt: Poem about to be is a gift.

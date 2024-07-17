@@ -5,7 +5,7 @@ published: true
 categories:
 - Poems
 tags:
-- sunset
+- slow lifestyle
 - lyric poem
 permalink: "sunset-blessings"
 excerpt: Poem about xploring the beauty and wisdom of each fleeting moment.

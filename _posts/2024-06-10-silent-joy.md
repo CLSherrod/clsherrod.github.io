@@ -5,7 +5,7 @@ published: true
 categories:
 - Poems
 tags:
-- silence
+- slow lifestyle
 - lyric poem
 permalink: "/silent-joy"
 excerpt: Poem about enjoying the silence.

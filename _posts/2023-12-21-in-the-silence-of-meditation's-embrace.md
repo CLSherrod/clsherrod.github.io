@@ -5,7 +5,7 @@ published: true
 categories:
 - Poems
 tags:
-- meditation
+- slow lifestyle
 - lyric poem
 permalink: "/silence-of-meditations-embrace"
 excerpt: A poem about meditating with the love of my life

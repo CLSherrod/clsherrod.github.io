@@ -5,7 +5,7 @@ published: true
 categories:
 - Poems
 tags:
-- gratitude
+- slow lifestyle
 - lyric poem
 permalink: "/alive-in-gratitude"
 excerpt: Poem about being gratiful for life.

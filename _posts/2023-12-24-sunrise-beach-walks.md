@@ -5,7 +5,7 @@ published: true
 categories:
 - Poems
 tags:
-- sunsets
+- slow lifestyle
 - lyric poem
 permalink: "/sunrise-beach-walks"
 excerpt: Poem about sunrise beach walks with my love

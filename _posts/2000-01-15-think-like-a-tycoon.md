@@ -7,8 +7,7 @@ categories:
 - Reviews
 tags:
 - books
-- business
-- mindset
+- entrepreneurship
 permalink: "/think-like-a-tycoon/"
 excerpt: His story of his success is inspiring. 
 ---

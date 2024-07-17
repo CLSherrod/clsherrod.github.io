@@ -5,7 +5,7 @@ published: true
 categories:
 - Poems
 tags:
-- simplicity
+- slow lifestyle
 - lyric poem
 permalink: "/life-between-the-waves"
 excerpt: Poem about living life between the waves.

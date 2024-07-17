@@ -4,7 +4,7 @@ date: 2024-07-09
 categories:
 - Poems
 tags: 
-- potential
+- self-worth
 - lyric poem
 permalink: "flowers-are-fallen"
 published: true

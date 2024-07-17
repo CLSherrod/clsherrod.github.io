@@ -4,7 +4,7 @@ date: 2024-07-15
 categories:
 - Poems
 tags:
-- self-esteem
+- self-worth
 - lyric poem
 permalink: "/no-such-thing"
 published: true

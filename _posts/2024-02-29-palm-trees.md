@@ -6,7 +6,6 @@ categories:
 - Poems
 tags:
 - haiku poem
-- palm trees
 permalink: "/palm-trees"
 excerpt: Haiku poem about palm trees.
 ---
