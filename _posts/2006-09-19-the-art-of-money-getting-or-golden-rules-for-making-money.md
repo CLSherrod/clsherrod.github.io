@@ -5,6 +5,7 @@ categories:
 - Reviews
 tags:
 - marketing
+- books
 published: true
 comments: true
 permalink: "/the-art-of-money-getting-or-golden-rules-for-making-money/"

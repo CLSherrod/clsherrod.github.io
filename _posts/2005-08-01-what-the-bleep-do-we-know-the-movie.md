@@ -1,5 +1,5 @@
 ---
-title: What the Bleep Do We Know!?™ - The Movie
+title: What the Bleep Do We Know!? Movie Review
 date: 2005-08-01
 published: true
 comments: true
@@ -7,6 +7,7 @@ categories:
 - Reviews
 tags:
 - law of attraction
+- movie
 permalink: "/what-the-bleep-do-we-know-the-movie/"
 excerpt: My review of the movie What The Bleep Do We Know
 ---

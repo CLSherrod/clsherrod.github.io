@@ -1,7 +1,7 @@
 ---
 title: Latin Jazz, pool, Mexican lifestyle
 date: 2019-04-05
-published: true
+published: false
 categories:
 - News
 tags:

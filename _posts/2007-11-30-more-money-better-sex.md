@@ -6,7 +6,7 @@ comments: true
 categories:
 - Essays
 tags:
-- money
+- prosperity
 - sex
 permalink: "/more-money-better-sex/"
 excerpt: "The richer you are the better sex you have."

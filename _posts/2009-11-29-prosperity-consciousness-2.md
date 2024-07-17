@@ -6,7 +6,7 @@ comments: true
 categories:
 - Essays
 tags:
-- abundance
+- prosperity
 permalink: "/prosperity-consciousness-2/"
 excerpt: Prosperity is an ongoing state of being.
 ---

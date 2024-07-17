@@ -7,6 +7,7 @@ categories:
 - Reviews
 tags:
 - networking
+- books
 permalink: "/how-to-win-friends-and-influence-people/"
 excerpt: How to network from the king of networkers
 ---

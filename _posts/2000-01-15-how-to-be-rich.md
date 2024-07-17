@@ -5,7 +5,7 @@ categories:
 - Reviews
 tags:
 - books
-- abundance
+- prosperity
 permalink: "/how-to-be-rich/"
 published: true
 comments: true

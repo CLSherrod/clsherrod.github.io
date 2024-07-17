@@ -5,7 +5,7 @@ categories:
 - Reviews
 tags:
 - books
-- abundance
+- prosperity
 permalink: "/richest-man-in-babylon/"
 published: true
 comments: true

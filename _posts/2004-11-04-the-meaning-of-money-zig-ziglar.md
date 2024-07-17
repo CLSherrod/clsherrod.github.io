@@ -4,7 +4,7 @@ date: 2004-11-04
 categories:
 - Reviews
 tags:
-- abundance
+- prosperity
 permalink: "/the-meaning-of-money-zig-ziglar/"
 published: true
 comments: true

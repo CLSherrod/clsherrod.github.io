@@ -2,7 +2,9 @@
 title: The Tipping Point Review
 date: 2005-05-17
 categories: Reviews
-tags: idea-generation
+tags:
+- idea-generation
+- books
 permalink: "/the-tipping-point/"
 published: true
 comments: true

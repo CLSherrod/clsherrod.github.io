@@ -6,7 +6,7 @@ comments: true
 categories:
 - Reviews
 tags:
-- abundance
+- prosperity
 permalink: "/the-napoleon-hill-foundation/"
 exerpt: Futher resources after Think And Grow Rich
 ---

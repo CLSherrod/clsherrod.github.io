@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - meditation
+- lyric poem
 permalink: "/silence-of-meditations-embrace"
 excerpt: A poem about meditating with the love of my life
 ---

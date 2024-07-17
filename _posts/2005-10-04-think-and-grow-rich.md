@@ -6,7 +6,8 @@ comments: true
 categories:
 - Reviews
 tags:
-- Mastermind
+- mastermind
+- books
 permalink: "/think-and-grow-rich/"
 excerpt: My review of Think and Grow Rich
 ---

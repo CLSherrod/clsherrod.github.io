@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - self-worth
+- lyric poem
 permalink: "/embracing-self-worth/"
 excerpt: Poem about embracing your worth.
 ---

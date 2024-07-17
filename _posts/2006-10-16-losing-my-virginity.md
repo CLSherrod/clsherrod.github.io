@@ -7,6 +7,7 @@ categories:
 - Reviews
 tags:
 - entrepreneurship
+- books
 permalink: "/losing-my-virginity/"
 ---
 I just completed reading Richard Branson's autobiography title "Losing My Virginity". I am even more fascinated by Branson after reading the book. He is a true entrepreneur.

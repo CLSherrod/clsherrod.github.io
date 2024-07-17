@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - love
+- lyric poem
 permalink: "valentines-day-magic"
 excerpt: A love poem for my love on Valentine's Day.
 ---

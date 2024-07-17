@@ -6,7 +6,8 @@ comments: true
 categories:
 - Reviews
 tags:
-- money
+- prosperity
+- game
 permalink: "/cashflow-games/"
 excerp: My review of Cashflow Games
 ---

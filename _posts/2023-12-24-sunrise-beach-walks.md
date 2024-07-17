@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - sunsets
+- lyric poem
 permalink: "/sunrise-beach-walks"
 excerpt: Poem about sunrise beach walks with my love
 ---

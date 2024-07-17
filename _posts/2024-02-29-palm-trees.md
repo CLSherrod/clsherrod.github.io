@@ -5,7 +5,7 @@ published: true
 categories:
 - Poems
 tags:
-- haiku
+- haiku poem
 - palm trees
 permalink: "/palm-trees"
 excerpt: Haiku poem about palm trees.

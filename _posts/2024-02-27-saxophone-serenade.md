@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - music
+- lyric poem
 permalink: "saxophone-serenade"
 excerpt: Poem about the love of the saxophone.
 ---

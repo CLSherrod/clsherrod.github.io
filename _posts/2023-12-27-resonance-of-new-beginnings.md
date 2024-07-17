@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - celebration
+- lyric poem
 permalink: "/resonance-of-new-beginnings"
 excerpt: A Slam Poem for Family and Friends in the Year Ahead.
 ---

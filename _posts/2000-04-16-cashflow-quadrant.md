@@ -4,7 +4,7 @@ date: 2000-04-16
 categories:
 - Essays
 tags: 
-- money
+- prosperity
 permalink: "/cashflow-quadrant/"
 excerpt: My review of Cashflow Quadrant
 ---

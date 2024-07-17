@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - love
+- lyric poem
 permalink: "loves-journey"
 excerpt: Poem about my love of my life.
 ---

@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - gratitude
+- lyric poem
 permalink: "/alive-in-gratitude"
 excerpt: Poem about being gratiful for life.
 ---

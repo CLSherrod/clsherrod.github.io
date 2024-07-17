@@ -5,6 +5,7 @@ categories:
 - Poems
 tags:
 - crystals
+- lyric poem
 permalink: "crytal-lady"
 published: true
 excerpt: Poem about my love and her love of crystals.

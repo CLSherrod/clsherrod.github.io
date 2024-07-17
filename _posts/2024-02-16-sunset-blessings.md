@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - sunset
+- lyric poem
 permalink: "sunset-blessings"
 excerpt: Poem about xploring the beauty and wisdom of each fleeting moment.
 ---

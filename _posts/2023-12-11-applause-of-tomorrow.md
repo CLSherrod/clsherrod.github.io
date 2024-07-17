@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - self-worth
+- lyric poem
 permalink: "applause-of-tomorrow"
 excerpt: Poem about my future self looking back at me now.
 ---

@@ -7,6 +7,7 @@ categories:
 - Reviews
 tags:
 - peace
+- movie
 permalink: "/peaceful-warrior/"
 excerpt: My review of a Peaceful Warrior movie
 ---

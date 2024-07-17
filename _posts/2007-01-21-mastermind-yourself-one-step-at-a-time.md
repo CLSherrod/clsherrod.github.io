@@ -7,6 +7,7 @@ categories:
 - Reviews
 tags:
 - mastermind
+- books
 permalink: "/mastermind-yourself-one-step-at-a-time/"
 excerpt: My review of Meet and Grow Rich
 ---

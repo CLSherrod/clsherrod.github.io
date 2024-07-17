@@ -6,6 +6,7 @@ categories:
 - Poems
 tags:
 - love
+- lyric poem
 permalink: "loves-embrace"
 excerpt: A love poem about my love.
 ---
