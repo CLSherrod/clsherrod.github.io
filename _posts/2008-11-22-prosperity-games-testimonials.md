@@ -3,7 +3,9 @@ title: Play Prosperity Games Dinner Party Testimonials
 date: 2008-11-22
 last_modified_at: 2023-10-03
 categories: News
-tags: idea-generation
+tags:
+- idea-generation
+- games
 permalink: /play-prosperity-games-party-testimonials/
 ---
 My  book I’ve been selling (for the last year) out of the trunk of my car “Play Prosperity Games”, a collection of fun games to create new business ideas based on what you love has been having some dinner parties where we create new business ideas together.

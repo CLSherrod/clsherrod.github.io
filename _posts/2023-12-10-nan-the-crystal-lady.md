@@ -4,7 +4,7 @@ date: 2023-12-10
 categories:
 - Poems
 tags:
-- crystals
+- love
 - lyric poem
 permalink: "crytal-lady"
 published: true

@@ -3,7 +3,7 @@ title: "Skipping Success: The Allure of Entrepreneurial Fame and the Pitfalls of
 date: 2019-05-15
 last_modified_at: 2024-04-11
 categories: Essays
-tags: branding
+tags: entrepreneurship
 permalink: /skipping-success/
 published: true
 comments: true

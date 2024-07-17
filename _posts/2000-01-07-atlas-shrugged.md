@@ -5,7 +5,7 @@ categories:
 - Reviews
 tags:
 - books
-- freedom
+- self-worth
 permalink: "/atlas-shrugged/"
 published: true
 comments: true

@@ -6,7 +6,7 @@ comments: true
 categories:
 - Essays
 tags:
-- positivity
+- celebration
 permalink: "/feel-good-button/"
 excerpt: I got a button that simply says "Feel Good Button" on it for my birthday.
 ---

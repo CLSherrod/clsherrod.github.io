@@ -5,6 +5,7 @@ last_modified_at: 2023-10-03
 categories: News
 tags: 
 - idea-generation
+- games
 - books
 permalink: /play-prosperity-games-kindle/
 ---

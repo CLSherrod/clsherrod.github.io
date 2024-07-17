@@ -4,7 +4,7 @@ date: 2006-09-19
 categories:
 - Reviews
 tags:
-- marketing
+- entrepreneurship
 - books
 published: true
 comments: true

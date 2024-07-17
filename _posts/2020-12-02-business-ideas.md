@@ -5,6 +5,7 @@ last_modified_at: 2023-10-03
 categories: News
 tags:
 - idea-generation
+- games
 - books
 permalink: /how-to-create-new-business-ideas-updated/
 excerpt: My book has a new revision out.

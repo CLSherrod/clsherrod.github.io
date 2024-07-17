@@ -6,7 +6,7 @@ comments: true
 categories:
 - Essays
 tags:
-- law of attraction
+- prosperity
 permalink: "/abraham-hicks-art-of-allowing-workshop/"
 excerpt: My experience at a Abraham-Hicks workshop
 ---

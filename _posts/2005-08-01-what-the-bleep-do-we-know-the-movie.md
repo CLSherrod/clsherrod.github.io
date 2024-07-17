@@ -6,7 +6,7 @@ comments: true
 categories:
 - Reviews
 tags:
-- law of attraction
+- prosperity
 - movie
 permalink: "/what-the-bleep-do-we-know-the-movie/"
 excerpt: My review of the movie What The Bleep Do We Know

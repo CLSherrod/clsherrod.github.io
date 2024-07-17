@@ -6,7 +6,7 @@ comments: true
 categories:
 - Reviews
 tags:
-- happy
+- happiness
 - books
 permalink: "/happy-for-no-reason-7-steps-to-being-happy-from-the-inside-out/"
 ---
