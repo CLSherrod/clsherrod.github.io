@@ -1,5 +1,5 @@
 ---
-title: Publishing Award
+title: I Won A Publishing Award
 date: 2015-02-28
 categories:
 - News

@@ -1,5 +1,5 @@
 ---
-title: "Saw Genesis in concert finally in Concert"
+title: "Saw Genesis In Concert Finally"
 date: 2007-07-08
 categories:
 - News
