@@ -29,5 +29,5 @@ I’ve taken readers feedback to make this 8th edition.
 [How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](https://amzn.to/3oZlRrW)
 
 ## Additional Resources
-- [Read my article about Implementing Quickly](https://christophersherrod.com/implement-quickly)
+- [Read my article about Implementing Quickly](/implement-quickly)
 - Additional Resources mentioned in Book - Join my [newsletter](https://christophersherrod.com/newsletter/) to get the workbook that goes along with the book.

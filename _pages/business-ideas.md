@@ -6,7 +6,11 @@ permalink: /business-ideas/
 ---
 **First published in 2008, latest edition 2020**
 
-I wrote a book called **Play Prosperity Games** and had it printed before Kindle was a thing. The games came out of speaking in front of many groups in San Antonio and Austin Texas. Later it was renamed How To Create New Business Ideas Based On What You Love and came out on Kindle.
+<div style="width:20%; margin:0 auto;" align="right" markdown="1">
+![Image](/assets/images/books/How-To-Create-New-Business-Ideas.webp)
+</div>
+
+I wrote a book called **Play Prosperity Games** and had it printed before Kindle was a thing. The games came out of speaking in [front of many groups in San Antonio and Austin Texas](/play-prosperity-games-workshop). Later it was renamed How To Create New Business Ideas Based On What You Love and came out on Kindle.
 
 ## How To Create New Business Ideas Based On What You Love
 A simple step by step guide to creating new business ideas based on what you love
@@ -26,4 +30,5 @@ I’ve taken readers feedback to make this 8th edition.
 > There are also practical tips to check out the viability of your idea before taking that leap of faith. I think this would be fun to do with my teenage grandson and some of his friends as well. Planting some entrepreneurial seeds at a young age has got to be a good thing. Thanks Chris!” ~ Shelley J.W.
 
 ## Addtional Resources
-Join my [newsletter](/newsletter/) to get the bonus materials that goes along with the book.
+- [Read my article about Implementing Quickly](/implement-quickly)
+- Join my [newsletter](/newsletter/) to get the bonus materials that goes along with the book.
