@@ -6,4 +6,4 @@ permalink: /home-manual/
 ---
 2023
 
-[Home Manual Markdown](https://github.com/CLSherrod/home-manual-markdown) helps you to track everything about your home in Markdown and wiki-style backlinks.
+[Home Manual Markdown - GitHub](https://github.com/CLSherrod/home-manual-markdown) helps you to track everything about your home in Markdown and wiki-style backlinks.

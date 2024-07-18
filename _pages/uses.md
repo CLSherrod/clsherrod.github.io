@@ -4,23 +4,23 @@ title: What I Use
 permalink: /uses/
 toc: true
 ---
-Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2azNWRlNwAC45j_i-MoSJPpu29CmZiLyi9_pmgt) on any improvements. Last update: 2024-05-03
+Contact me from my [hello page](/hello/) on any improvements. Last update: 2024-07-18
 
 ## Hardware
 - [MacBook Air](https://www.apple.com/macbook-air/) since 2017, MacBook Pro before that
 - [Keychron K6 Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard)
 - [Logitech MX ERGO Mouse](https://www.logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.html)
 - [Rode smartLav+ Microphone](https://rode.com/en/microphones/mobile/smartlav-plus)
-- [iPhone SE 2](https://www.apple.com/iphone-se/) - I dislike big phones
+- [iPhone SE 2](https://www.apple.com/iphone-se/) - I dislike fancy & big phones
 - [Kindle Paperwhite](https://amzn.to/4a1RdEJ) since 2016, best reader
 - [Raspberry Pi](https://www.raspberrypi.com) home server running Raspberry Pi OS
 
 ## Software
 - Safari
 - Apple Mail
-- [WordPress](https://wordpress.org) legacy websites
+- [WordPress](https://wordpress.org) Membership & eCommerce shops
 - [Jekyll Websites](https://jekyllrb.com) - static websites
-- [Obsidian](https://obsidian.md) for personal knowledge management aka notes see [my article about Smart Notes](https://christophersherrod.com/smart-notes/)
+- [Obsidian](https://obsidian.md) for personal knowledge management aka notes see [my article about Smart Notes](/smart-notes/)
 - [VSCodium](https://vscodium.com) static website editor and any code editor
 - [Calibre](https://calibre-ebook.com) ebook manager
 
@@ -28,5 +28,5 @@ Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2az
 - [NameCheap](https://www.namecheap.com) domain names
 - [CloudFlare](https://cloudflare.com) DNS
 - [Hostinger VPS](https://www.hostinger.com/vps-hosting) hosting
-- [ChatGPT](https://chat.openai.com) & [Claude](https://claude.ai) while writing
-- See [my list of essential apps for content creation](https://christophersherrod.com/workflow/)
+- [ChatGPT](https://chat.openai.com) & [Claude](https://claude.ai) while writing and simple coding help that doesn't require hiring a programmer
+- See [my list of essential apps for content creation](/workflow/)

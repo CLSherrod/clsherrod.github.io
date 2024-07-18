@@ -6,5 +6,5 @@ permalink: /crm/
 ---
 2022
 
-[Customer Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown)
+[Customer Relationship Management Markdown - GitHub](https://github.com/CLSherrod/crm-markdown)
 Track your contacts using plain text Markdown and wiki-style backlinks.

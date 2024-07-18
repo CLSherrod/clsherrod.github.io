@@ -6,7 +6,7 @@ toc: true
 ---
 This is a [interests page](https://chrisburnell.github.io/interests-directory/).
 
-Updated on Saturday June 29th, 2024.
+Updated on Thursday July 18th, 2024.
 
 ## Interests
 ### Writing
@@ -14,13 +14,14 @@ I love writing. I try to write everyday in the morning. When I write I feel fulf
 
 ### Reading
 #### Currently Reading
-I'm reading [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So are I really like it. 
-I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
+- [Slicing Pie Handbook](https://amzn.to/46f3vcz) - how to split company equity in the real world. Wish I found this book two decades ago.
+- [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So are I really like it. 
+- I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
 
 #### Last Read Books
-- I read [Generative AI for Busy Business Leaders: How to Use AI With Your Team (A short book that covers simple frameworks and strategies for using gen AI at work)](https://amzn.to/436CyX3) which gave some ideas on how to implement AI into my business.
-- And before that I read [Email reputation explained well: How to keep your domains’ reputation clean while growing your business, from someone who had to learn the hard way by Nicolò Rebughini](https://amzn.to/3V9gzwA) which helped me clean up my newsletter lists and increase my deliverability.
-- I liked [This Book is One Page Long: A One-Page Guide that Explains Why (and How) to Write Short Nonfiction Books (Everything You Need to Know to Start Writing and Publishing Kindle Books on Amazon) by Hassan Osman](https://amzn.to/48PiiKE).
+- [Generative AI for Busy Business Leaders: How to Use AI With Your Team (A short book that covers simple frameworks and strategies for using gen AI at work)](https://amzn.to/436CyX3) which gave some ideas on how to implement AI into my business.
+- [Email reputation explained well: How to keep your domains’ reputation clean while growing your business, from someone who had to learn the hard way by Nicolò Rebughini](https://amzn.to/3V9gzwA) which helped me clean up my newsletter lists and increase my deliverability.
+- [This Book is One Page Long: A One-Page Guide that Explains Why (and How) to Write Short Nonfiction Books (Everything You Need to Know to Start Writing and Publishing Kindle Books on Amazon) by Hassan Osman](https://amzn.to/48PiiKE).
 
 My past books I’ve read listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
@@ -49,6 +50,7 @@ I love photography. I even got a minor in it in college. I sold a single photo t
 ### Sci-fi
 I love a good thought provoking scifi movie or series. Not the horror ones, but the classic 50s thought experiments style.  A good Star Trek over anything Star Wars.
 
+- Currently watching [Dark Matter](https://www.imdb.com/title/tt19231492/?ref_=fn_al_tt_1) - fun sci-fi
 - Truly weird sc-fi planet on [Scavengers Reign](https://www.imdb.com/title/tt21056886/?ref_=hm_rvi_tt_i_3) made it very different from most sci-fi out there. The animation led to making the truly weird and foreign plants and animals.
 - Enjoyed Season 3 of [Resident Alien](https://www.imdb.com/title/tt8690918/episodes/?season=3)
 - I found the moral questions and sci-fi comedy of [Uploads Season 3](https://www.imdb.com/title/tt7826376/episodes/?season=3) to be fun.
