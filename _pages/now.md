@@ -11,7 +11,7 @@ I'm a writer. I’m currently writing a book about my [electromagnetic hypersens
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
-- [One Big Text File Markdown Journal - Github](/obtf)
+- [One Big Text File Markdown Journal](/obtf)
 - [Home Manual Markdown](/home-manual)
 - [Customer Relationship Management Markdown](/crm)
 - [Gardening Project Managment Markdown](/gardening)
