@@ -51,13 +51,12 @@ comments:
     shortname: christophersherrod # the Disqus shortname for the site
 
 social:
-  type:  # Person or Organization (defaults to Person)
-  name:  # If the user or organization name differs from the site's name
+  type:  Person # Person or Organization (defaults to Person)
+  name:  Christopher Sherrod # If the user or organization name differs from the site's name
   links:
     - "https://pkm.social/chris"
     - "https://instagram.com/christophersherrod"
     - "https://twitter.com/chrissherrod"
-    - "https://www.facebook.com/sherrod.christopher/"
 
 # Build settings
 markdown: kramdown
