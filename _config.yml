@@ -45,10 +45,11 @@ analytics:
 
 # => Comments
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
-  ## Disqus
-  disqus:
-    shortname: christophersherrod # the Disqus shortname for the site
+  provider: facebook # false (default), "disqus", "gitalk", "valine", "custom"
+  facebook:
+    appid: # optional
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
 
 social:
   type:  Person # Person or Organization (defaults to Person)

@@ -9,9 +9,11 @@ I wrote this book to share my hiring process that I’ve developed since 2000 wh
 
 I will walk you through my step-by-step process to finding a virtual worker that fits you. I believe your first helper is a virtual assistant followed by an accountant soon afterward. These two hires will impact your business directly and quickly and will pay for themselves very quickly.
 
-[![Hiring Virtual Workers For Small Business on Amazon Kindle](/assets/images/books/Hiring-Virtual-Workers.webp)](https://amzn.to/2FvAxx9)
+[![Hiring Virtual Workers For Small Business on Amazon Kindle](/assets/images/books/Hiring-Virtual-Workers.webp)](https://amzn.to/2FvAxx9){: .align-center}
 
 [Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9)
+
+[Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9){: .btn .btn--primary .btn--large}
 
 ## How To Create New Business Ideas Based On What You Love
 A simple step by step guide to creating new business ideas based on what you love
@@ -24,9 +26,12 @@ My opinion and what I’ve seen with myself and all the entrepreneurs I’ve mee
 
 I’ve taken readers feedback to make this 8th edition.
 
-[![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp)](https://amzn.to/2FvAxx9)
+[![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp)](https://amzn.to/2FvAxx9){: .align-center}
 
 [How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](https://amzn.to/3oZlRrW)
+
+[How To Create New Business Ideas Based On What You Love Book on Amazon Kindle]([How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](https://amzn.to/3oZlRrW)
+){: .btn .btn--primary .btn--large}
 
 ## Addtional Resources
 Join my [newsletter](https://christophersherrod.com/newsletter/) to get the bonus materials that goes along with the books.
