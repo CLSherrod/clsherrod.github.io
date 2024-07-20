@@ -9,9 +9,9 @@ I wrote this book to share my hiring process that I’ve developed since 2000 wh
 
 I will walk you through my step-by-step process to finding a virtual worker that fits you. I believe your first helper is a virtual assistant followed by an accountant soon afterward. These two hires will impact your business directly and quickly and will pay for themselves very quickly.
 
-[![Hiring Virtual Workers For Small Business on Amazon Kindle](/assets/images/books/Hiring-Virtual-Workers.webp)](https://amzn.to/2FvAxx9){: .align-center}
+[!Hiring Virtual Workers For Small Business on Amazon Kindle](https://amzn.to/2FvAxx9){: .align-center}
 
-[Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9){: .btn .btn--primary .btn--large}
+[Get Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9){: .btn .btn--primary .btn--large}
 
 ## How To Create New Business Ideas Based On What You Love
 A simple step by step guide to creating new business ideas based on what you love
