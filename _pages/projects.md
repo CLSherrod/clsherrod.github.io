@@ -44,7 +44,7 @@ Minority investor in one of my previous clients.
 
 Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
 
-**1999 - [Who Defines You - Web Design Firm](/whodefinesyou)]**
+**1999 - [Who Defines You - Web Design Firm](/whodefinesyou)**
 
 Consulting on getting online that turned into website hosting for a time and current website design and maintence firm. Works with referrals only.
 
