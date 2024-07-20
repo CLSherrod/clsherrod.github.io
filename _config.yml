@@ -51,6 +51,7 @@ comments:
     num_posts: # 5 (default)
     colorscheme: # "light" (default), "dark"
 
+# Social tags for search
 social:
   type:  Person # Person or Organization (defaults to Person)
   name:  Christopher Sherrod # If the user or organization name differs from the site's name
@@ -94,6 +95,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Author sidebar
 author:
   name   : "Christopher Sherrod"
   avatar : "/assets/images/avatar.webp"
@@ -115,6 +117,7 @@ author:
       icon: "fa-solid fa-rss"
       url: "https://christophersherrod.com/feed.xml"
 
+# Footer
 footer:
   links:
     - label: "Newsletter"
@@ -133,6 +136,7 @@ footer:
       icon: "fa-solid fa-slash"
       url: "https://christophersherrod.com/explore/"
 
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -173,6 +177,7 @@ excerpt_separator: <!--more-->
 # license
 license: CC-BY-ND-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
+# Compress
 compress_html:
   clippings: all
   ignore:
