@@ -40,17 +40,13 @@ Presenter of my business theory that you need to start a business based on what 
 
 Minority investor in one of my previous clients.
 
-**2008 - 2018 Website & Book Design**
-
-Got out of the website hosting business and became a design firm only. Created first website designs and books for many professionals.
-
 **2008 [How To Create New Business Ideas Based On What You Love](/business-ideas)**
 
 Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
 
-**1999 - 2008 Webhosting Firm**
+**1999 - [Web Design Firm](/whodefinesyou)]**
 
-Website design firm & hosting.
+Consulting on getting online that turned into website hosting for a time and current website design and maintence firm. Works with referrals only.
 
 **1996 - 2001 Niche business software**
 
