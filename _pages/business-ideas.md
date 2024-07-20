@@ -6,9 +6,9 @@ permalink: /business-ideas/
 ---
 **First published in 2008, latest edition 2020**
 
-<div style="width:20%; margin:0 auto;" align="right" markdown="1">
-![Image](/assets/images/books/How-To-Create-New-Business-Ideas.webp)
-</div>
+![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp){: .align-center}
+
+[Get How To Create New Business Ideas on Amazon Kindle](https://amzn.to/3oZlRrW){: .btn .btn--primary .btn--large}{: .align-center}
 
 I wrote a book called **Play Prosperity Games** and had it printed before Kindle was a thing. The games came out of speaking in [front of many groups in San Antonio and Austin Texas](/play-prosperity-games-workshop). Later it was renamed How To Create New Business Ideas Based On What You Love and came out on Kindle.
 
@@ -23,9 +23,9 @@ My opinion and what I’ve seen with myself and all the entrepreneurs I’ve mee
 
 I’ve taken readers feedback to make this 8th edition.
 
-[![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp)](https://amzn.to/2FvAxx9)
+![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp){: .align-center}
 
-[How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](https://amzn.to/3oZlRrW)
+[Get How To Create New Business Ideas on Amazon Kindle](https://amzn.to/3oZlRrW){: .btn .btn--primary .btn--large}{: .align-center}
 
 > There are also practical tips to check out the viability of your idea before taking that leap of faith. I think this would be fun to do with my teenage grandson and some of his friends as well. Planting some entrepreneurial seeds at a young age has got to be a good thing. Thanks Chris!” ~ Shelley J.W.
 
