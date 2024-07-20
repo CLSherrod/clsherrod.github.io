@@ -43,6 +43,9 @@ analytics:
     tracking_id : 343574590 # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
+# Sharing
+share: true
+
 # => Comments
 comments:
   provider: facebook # false (default), "disqus", "gitalk", "valine", "custom"
