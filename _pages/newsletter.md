@@ -27,5 +27,5 @@ I freely share what has worked for me, not others.
     </div>
     <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
     <input type="hidden" name="subform" value="yes" />
-    <input type="submit" name="submit" id="submit" />
+    <input type="submit" name="submit" id="submit" value="Join Newsletter" style="margin-left: 10px;"/>
 </form>
