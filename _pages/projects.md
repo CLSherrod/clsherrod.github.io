@@ -46,7 +46,7 @@ Presenter of my business theory that you need to start a business based on what 
 
 **1999 - [Who Defines You - Web Design Firm](/whodefinesyou)**
 
-Consulting on getting online that turned into website hosting for a time and current website design and maintence firm. Works with referrals only.
+Consulting on getting online that turned into website hosting for a time and current website design and web maintenance firm. Works with referrals only.
 
 **1996 - 2001 Niche business software**
 
