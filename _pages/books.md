@@ -24,10 +24,10 @@ My opinion and what I’ve seen with myself and all the entrepreneurs I’ve mee
 
 I’ve taken readers feedback to make this 8th edition.
 
-![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp)]{: .align-center}
+![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp){: .align-center}
 
 [Get How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](https://amzn.to/3oZlRrW)
-){: .btn .btn--primary .btn--large}
+{: .btn .btn--primary .btn--large}{: .align-center}
 
 ## Addtional Resources
 Join my [newsletter](https://christophersherrod.com/newsletter/) to get the bonus materials that goes along with the books.
