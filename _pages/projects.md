@@ -44,7 +44,7 @@ Minority investor in one of my previous clients.
 
 Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
 
-**1999 - [Web Design Firm](/whodefinesyou)]**
+**1999 - [Who Defines You - Web Design Firm](/whodefinesyou)]**
 
 Consulting on getting online that turned into website hosting for a time and current website design and maintence firm. Works with referrals only.
 
@@ -52,6 +52,6 @@ Consulting on getting online that turned into website hosting for a time and cur
 
 Created and sold business software for a niche market on Windows & Mac.
 
-**1996 - 1997 American Express Online**
+**1996 - 1997 [American Express](https://americanexpress.com)**
 
-On launch team for first online presence of American Express. Project won internal award for innovation.
+On launch team for first online presence of American Express. Project won internal award for innovation. Resigned when my software company launched.
