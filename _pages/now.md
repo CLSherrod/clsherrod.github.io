@@ -4,7 +4,7 @@ title: What I'm Doing Now
 permalink: /now/
 toc: true
 ---
-Updated on Tuesday July 16th, 2024.
+Updated on Saturday July 20th, 2024.
 
 ## Currently Doing
 I'm a writer. I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot).
@@ -16,6 +16,7 @@ I'm a writer. I’m currently writing a book about my [electromagnetic hypersens
 - [Customer Relationship Management Markdown](/crm)
 - [Gardening Project Managment Markdown](/gardening)
 - I publish an [expat newsletter](/expatrebel).
+- I operate a [web design firm](/whodefinesyou) on referrals only.
 
 ## Previous Projects
 See [Projects](/projects) for a full list of past projects.
