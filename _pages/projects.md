@@ -32,10 +32,6 @@ Weekly newsletter educating people in the expat niche.
 
 I'm a musician and artist known as Chr1stopher.
 
-**2010 - 2012 Speaker**
-
-Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book [How To Create New Business Ideas Based On What You Love](/business-ideas).
-
 **2010 - 2017 [Nan Akasha](/nanakasha)**
 
 Minority investor in one of my previous clients.
@@ -43,6 +39,10 @@ Minority investor in one of my previous clients.
 **2008 [How To Create New Business Ideas Based On What You Love](/business-ideas)**
 
 Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
+
+**2007 - 2012 Speaker**
+
+Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book [How To Create New Business Ideas Based On What You Love](/business-ideas).
 
 **1999 - [Who Defines You - Web Design Firm](/whodefinesyou)**
 
