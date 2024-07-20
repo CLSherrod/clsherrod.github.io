@@ -40,6 +40,8 @@ Minority investor in one of my previous clients.
 
 Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
 
+**2008 [Consolidated several websites into ChristopherSherrod.com](/welcome/)**
+
 **2007 - 2012 Speaker**
 
 Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book [How To Create New Business Ideas Based On What You Love](/business-ideas).
