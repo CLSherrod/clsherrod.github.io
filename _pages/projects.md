@@ -4,7 +4,7 @@ classes: wide
 title: Projects
 permalink: /projects/
 ---
-**2023 - [OBTF (One Big Text File) Journal](/obtf)**
+**2023 - [OBTF (One Big Text File) Journal Markdown](/obtf)**
 
 OBTF (One Big Text File) Journal is a simple yet powerful solution for maintaining a journal in Markdown or plain text format.
 
@@ -20,7 +20,7 @@ Track your contacts using plain text Markdown and wiki-style backlinks.
 
 Track your gardening using plain text Markdown and wiki-style backlinks.
 
-**2020 - [Hiring Virtual Workers For Small Business](/hiring)**
+**2020 - [Hiring Virtual Workers For Small Business Book](/hiring)**
 
 I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
 
@@ -36,7 +36,7 @@ I'm a musician and artist known as Chr1stopher.
 
 Minority investor in one of my previous clients.
 
-**2008 [How To Create New Business Ideas Based On What You Love](/business-ideas)**
+**2008 [How To Create New Business Ideas Based On What You Love Book](/business-ideas)**
 
 Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
 
