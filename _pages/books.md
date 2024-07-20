@@ -11,7 +11,7 @@ I will walk you through my step-by-step process to finding a virtual worker that
 
 ![Hiring Virtual Workers For Small Business on Amazon Kindle](/assets/images/books/Hiring-Virtual-Workers.webp){: .align-center}
 
-[Get Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9){: .btn .btn--primary .btn--large}
+[Get Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9){: .btn .btn--primary .btn--large}{: .align-center}
 
 ## How To Create New Business Ideas Based On What You Love
 A simple step by step guide to creating new business ideas based on what you love
@@ -24,9 +24,9 @@ My opinion and what I’ve seen with myself and all the entrepreneurs I’ve mee
 
 I’ve taken readers feedback to make this 8th edition.
 
-[![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp)](https://amzn.to/2FvAxx9){: .align-center}
+![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp)]{: .align-center}
 
-[How To Create New Business Ideas Based On What You Love Book on Amazon Kindle]([How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](https://amzn.to/3oZlRrW)
+[Get How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](https://amzn.to/3oZlRrW)
 ){: .btn .btn--primary .btn--large}
 
 ## Addtional Resources
