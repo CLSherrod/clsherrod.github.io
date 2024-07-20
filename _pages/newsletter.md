@@ -3,6 +3,9 @@ layout: single
 classes: wide
 title: Newsletter
 permalink: /newsletter/
+teaser: /assets/images/newsletter-header.webp
+header:
+  image: /assets/images/newsletter-header.webp
 ---
 ## Stay in the Loop
 I email just for notifications when I write a new article, book or project.
