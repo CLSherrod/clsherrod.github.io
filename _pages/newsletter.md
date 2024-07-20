@@ -7,7 +7,6 @@ teaser: /assets/images/newsletter-header.webp
 header:
   image: /assets/images/newsletter-header.webp
 ---
-## Stay in the Loop
 I email just for notifications when I write a new article, book or project.
 
 I never share my people’s email or contact information with anyone, ever.
