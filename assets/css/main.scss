@@ -5,14 +5,12 @@ search: false
 
 @charset "utf-8";
 
-# Font
 $serif              : "PT Serif", Georgia, Times, serif;
 $sans-serif-narrow  : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 
 $global-font-family : $serif;
 $header-font-family : $sans-serif-narrow;
 
-# Colors
 $link-color: blue;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
