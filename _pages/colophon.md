@@ -18,3 +18,5 @@ ChristopherSherrod.com is written by Christopher Sherrod.
 ## Server Software
 - [Jekyll](https://jekyllrb.com) - static website builder
 - [GitHub Pages](https://pages.github.com) - to host site
+
+See the detailed [change log](/changelog/).
