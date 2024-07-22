@@ -3,6 +3,9 @@ layout: single
 title: What I'm Doing Now
 permalink: /now/
 toc: true
+teaser: /assets/images/now-header.webp
+header:
+  image: /assets/images/now-header.webp
 ---
 Updated on Saturday July 20th, 2024.
 

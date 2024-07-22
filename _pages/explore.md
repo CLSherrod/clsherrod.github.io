@@ -3,6 +3,9 @@ layout: single
 classes: wide
 title: Explore
 permalink: /explore/
+teaser: /assets/images/explore-header.webp
+header:
+  image: /assets/images/explore-header.webp
 ---
 Explore more that is on my website.
 

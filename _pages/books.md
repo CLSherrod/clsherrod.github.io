@@ -3,6 +3,9 @@ layout: single
 title: My Books
 permalink: /books/
 toc: true
+teaser: /assets/images/books-header.webp
+header:
+  image: /assets/images/books-header.webp
 ---
 ## Hiring Virtual Workers For Small Business
 I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
