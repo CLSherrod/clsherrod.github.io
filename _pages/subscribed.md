@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: Subscribed - Christopher Sherrod
+title: Subscribe Success
 permalink: /subscribed/
 teaser: /assets/images/books-header.webp
 header:
