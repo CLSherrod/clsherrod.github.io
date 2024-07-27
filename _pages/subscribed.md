@@ -2,6 +2,7 @@
 layout: single
 classes: wide
 title: Subscribed - Christopher Sherrod”
+permalink: /subscribed/
 article_header:
   type: overlay
   theme: dark
