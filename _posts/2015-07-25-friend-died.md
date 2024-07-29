@@ -7,7 +7,7 @@ tags:
 - love
 - tribute
 published: true
-permalink: "/friend-died/"
+permalink: /friend-died/
 ---
 I’m getting a pedicure and listening to a business podcast when my girlfriend texts me that our good friend Marla died.
 

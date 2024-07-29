@@ -84,6 +84,9 @@ exclude:
    - Gemfile.lock
    - node_modules
    - README.md
+   - clsherrod.github.io.code-workspace
+   - fontmatter.json
+   - screenshot.jpg
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/

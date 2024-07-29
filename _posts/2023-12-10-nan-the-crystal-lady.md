@@ -6,7 +6,7 @@ categories:
 tags:
 - love
 - lyric poem
-permalink: "crytal-lady"
+permalink: /crytal-lady/
 published: true
 excerpt: Poem about my love and her love of crystals.
 ---

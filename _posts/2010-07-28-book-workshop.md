@@ -6,7 +6,7 @@ categories:
 tags:
 - books
 - games
-permalink: /play-prosperity-games-workshop
+permalink: /play-prosperity-games-workshop/
 published: true
 excerpt: "Play Prosperity Games Workshop"
 ---

@@ -6,7 +6,7 @@ categories:
 - Poems
 tags:
 - haiku poem
-permalink: "/palm-trees"
+permalink: /palm-trees/
 excerpt: Haiku poem about palm trees.
 ---
 Palm trees by the shore,

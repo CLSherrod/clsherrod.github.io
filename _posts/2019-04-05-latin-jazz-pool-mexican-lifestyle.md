@@ -7,7 +7,7 @@ categories:
 tags:
 - mexico
 - travel
-permalink: "/latin-jazz-pool-mexican-lifestyle/"
+permalink: /latin-jazz-pool-mexican-lifestyle/
 excerpt: My last day in Playa del Carmen.
 ---
 Yesterday was my last day in Progreso Mexico and another excellent sunrise at 5:50.

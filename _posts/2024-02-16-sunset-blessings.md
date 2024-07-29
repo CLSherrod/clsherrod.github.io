@@ -7,7 +7,7 @@ categories:
 tags:
 - slow lifestyle
 - lyric poem
-permalink: "sunset-blessings"
+permalink: /sunset-blessings/
 excerpt: Poem about xploring the beauty and wisdom of each fleeting moment.
 ---
 I was looking at my daily sunset photos I take here in my beach home in Mexico and I feel blessed that I have another day to live. As day fades into night, a sacred ritual unfolds—the sunset. In "Sunset Blessings," we delve into this enchanting spectacle, where the sky becomes a canvas of vibrant hues. Join me in exploring the beauty and wisdom of each fleeting moment, as the sun whispers timeless secrets of life's gentle rhythm.

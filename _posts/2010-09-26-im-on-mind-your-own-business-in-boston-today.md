@@ -5,7 +5,7 @@ categories: News
 tags:
 - interview
 - games
-permalink: "/im-on-mind-your-own-business-in-boston-today"
+permalink: /im-on-mind-your-own-business-in-boston-today/
 published: true
 comments: true
 ---

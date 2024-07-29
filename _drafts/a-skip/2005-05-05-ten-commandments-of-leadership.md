@@ -42,7 +42,7 @@ author:
   display_name: Christopher Sherrod
   first_name: Christopher
   last_name: Sherrod
-permalink: "/ten-commandments-of-leadership/"
+permalink: /ten-commandments-of-leadership/
 ---
 <p>Ten Commandments of Leadership<br />
 1. People are illogical, unreasonable and self-centered (including me). Love them anyway.<br />

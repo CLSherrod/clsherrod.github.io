@@ -39,7 +39,7 @@ author:
   display_name: Christopher Sherrod
   first_name: Christopher
   last_name: Sherrod
-permalink: "/youve-got-to-find-what-you-love-jobs-says/"
+permalink: /youve-got-to-find-what-you-love-jobs-says/
 ---
 <p><a href="http://news-service.stanford.edu/news/2005/june15/jobs-061505.html" rel="nofollow">’You’ve got to find what you love,’ Jobs says</a></p>
 <p>There is a lot to learn from Steve Jobs co-found of Apple.  Do what you love and it will all work out.</p>

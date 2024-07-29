@@ -7,7 +7,7 @@ categories:
 tags:
 - music
 - lyric poem
-permalink: "saxophone-serenade"
+permalink: /saxophone-serenade/
 excerpt: Poem about the love of the saxophone.
 ---
 Went to a live Jazz Festival here in Yucatán México and had fun enjoying the music while on the beach for sunset. So wrote a poem.

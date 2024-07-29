@@ -7,7 +7,7 @@ categories:
 tags:
 - self-worth
 - lyric poem
-permalink: "applause-of-tomorrow"
+permalink: /applause-of-tomorrow/
 excerpt: Poem about my future self looking back at me now.
 ---
 I sometimes feel unheard. After my seizures and being isolated from electronics, light and noise for many months and the slow and ongoing return to normal I feel like I’m my future self looking back at me now and appreciateing the journey. So I wrote a poem about that feeling.

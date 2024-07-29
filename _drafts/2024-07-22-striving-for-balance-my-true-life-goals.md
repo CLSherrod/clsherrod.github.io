@@ -5,7 +5,7 @@ categories:
 - Essays
 tags:
 - slow lifestyle
-permalink: "striving-for-balance"
+permalink: /striving-for-balance/
 published: false
 ---
 ## Beyond Wealth: Redefining Success

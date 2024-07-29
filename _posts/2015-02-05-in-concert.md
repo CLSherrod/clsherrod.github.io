@@ -5,7 +5,7 @@ categories:
 - News
 tags:
 - music
-permalink: "in-concert"
+permalink: /in-concert/
 published: true
 ---
 I was in concert online today. To see [more of my music](chr1stopher).

@@ -5,7 +5,7 @@ categories:
 - News
 tags:
 - award
-permalink: "/publishing-award"
+permalink: /publishing-award/
 published: true
 excerpt: I won a publishing award
 ---

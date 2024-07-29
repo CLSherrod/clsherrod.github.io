@@ -5,7 +5,7 @@ categories:
 - Essays
 tags:
 - prosperity
-permalink: "growing-up-climbing-uphill"
+permalink: /growing-up-climbing-uphill/
 published: false
 ---
 ## My Upbringing: From Poverty to Prosperity

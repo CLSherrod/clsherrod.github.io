@@ -38,7 +38,7 @@ author:
   display_name: Christopher Sherrod
   first_name: Christopher
   last_name: Sherrod
-permalink: "/law-of-attraction/"
+permalink: /law-of-attraction/
 ---
 <p>One of my mentors recommended I learn about the law of attraction so he recommended these books. Ask And It Is Given is excellent. It has many exercises to turn yourself to the correct place for the law of attraction to be effective. Excuse Me Your Life Is Waiting is the same information but with a more mainstream viewpoint. The separate playbook for it is just completely full of exercises which are very helpful.</p>
 <p>I plan on going to an Abraham-Hicks workshop in the near future to learn more about the law of attraction.</p>

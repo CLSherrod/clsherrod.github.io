@@ -6,7 +6,7 @@ categories:
 tags: 
 - self-worth
 - lyric poem
-permalink: "flowers-are-fallen"
+permalink: /flowers-are-fallen/
 published: true
 excerpt: Poem about flowers are flowers because they have fallen.
 ---

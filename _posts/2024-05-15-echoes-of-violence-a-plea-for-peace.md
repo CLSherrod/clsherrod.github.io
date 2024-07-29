@@ -7,7 +7,7 @@ categories:
 tags:
 - peace
 - lyric poem
-permalink: "echoes-of-violence"
+permalink: /echoes-of-violence/
 excerpt: 
 ---
 In the midst of conflict and strife, we often find ourselves grappling with the haunting echoes of history. This poem, "Echoes of Violence: A Plea for Peace," addresses the cyclical nature of violence and the heavy burden of regret that follows. It calls upon us to remember the lessons of the past, to acknowledge the profound impact of our actions, and to strive for a world where justice and peace prevail. As we navigate these challenging times, let this poem serve as a reminder that true strength lies not in perpetuating violence, but in fostering understanding and compassion for all humankind.

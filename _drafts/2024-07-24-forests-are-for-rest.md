@@ -6,7 +6,7 @@ categories:
 tags:
 - enviromentalism
 - lyric poem
-permalink: "forests-are-for-rest"
+permalink: /forests-are-for-rest/
 published: false
 excerpt: Poem about forests and rest
 teaser: /assets/images/poems/forests-for-rest.webp

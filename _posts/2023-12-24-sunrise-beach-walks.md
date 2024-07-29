@@ -7,7 +7,7 @@ categories:
 tags:
 - slow lifestyle
 - lyric poem
-permalink: "/sunrise-beach-walks"
+permalink: /sunrise-beach-walks/
 excerpt: Poem about sunrise beach walks with my love
 ---
 I love sunrise beach walks with my love. Living another day with my love in a place that totally fits us feels like a miracle. I feel lucky. And that it was a lot of focusing on how to make things better day by day. So I wrote a poem.

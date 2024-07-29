@@ -8,7 +8,7 @@ categories:
 tags:
 - security
 - vpn
-permalink: "/your-own-vpn/"
+permalink: /your-own-vpn/
 excerpt: Own your own VPN for super privacy
 ---
 I was talking to some other Digital Nomads about security on the Internet at a party. Someone just moved in from an iffy freedom country and he asked what VPNs we used, that's Virtual Private Network which allows you to use the Internet as if you were in another country, encryption and everything. Everybody had different opinions and which one was best and such was discussed.

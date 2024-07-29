@@ -5,7 +5,7 @@ categories:
 - Essays
 tags:
 - writing
-permalink: "/why-you-should-have-a-website"
+permalink: /why-you-should-have-a-website/
 published: false
 excerpt: Having your own website offers numerous benefits, making it a valuable asset for anyone.
 ---

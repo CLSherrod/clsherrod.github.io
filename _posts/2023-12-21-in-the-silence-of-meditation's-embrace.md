@@ -7,7 +7,7 @@ categories:
 tags:
 - slow lifestyle
 - lyric poem
-permalink: "/silence-of-meditations-embrace"
+permalink: /silence-of-meditations-embrace/
 excerpt: A poem about meditating with the love of my life
 ---
 Just finished a meditation at a Maya ruin and wrote a poem about meditating with the love of my life.

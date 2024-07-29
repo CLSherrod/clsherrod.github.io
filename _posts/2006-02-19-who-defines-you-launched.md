@@ -5,7 +5,7 @@ categories:
 - News
 tags:
 - website
-permalink: "who-defines-you-launched"
+permalink: /who-defines-you-launched/
 published: true
 excerpt: Launched web design firm website
 ---

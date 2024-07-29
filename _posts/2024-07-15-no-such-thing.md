@@ -6,7 +6,7 @@ categories:
 tags:
 - self-worth
 - lyric poem
-permalink: "/no-such-thing"
+permalink: /no-such-thing/
 published: true
 excerpt: Poem about that there is no such thing as a life better than yours
 teaser: /assets/images/poems/no-such-thing.webp

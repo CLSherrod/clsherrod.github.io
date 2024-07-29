@@ -6,7 +6,7 @@ categories:
 tags:
 - slow lifestyle
 - lyric poem
-permalink: insomniac-solitude
+permalink: /insomniac-solitude/
 published: true
 comments: true
 excerpt: Why I like the quietness of being an insomiac.

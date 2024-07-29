@@ -7,7 +7,7 @@ categories:
 tags:
 - slow lifestyle
 - lyric poem
-permalink: "/embracing-mortality"
+permalink: /embracing-mortality/
 excerpt: Poem about not fearing death.
 ---
 I don’t fear death. Five years after a life changing seizure I finally feel ready to die. I’ve finally figured out who I am. I know my place in the universe. I see the beginning and the end. I am loved and have loved. I would be missed and that makes it all worth while. I don’t know when my end will be on this mortal earth but I will continue until the last day and hopefully beyond.

@@ -41,6 +41,6 @@ author:
   display_name: Christopher Sherrod
   first_name: Christopher
   last_name: Sherrod
-permalink: "/collect-money-for-group-purchasing-fundraising-fundable/"
+permalink: /collect-money-for-group-purchasing-fundraising-fundable/
 ---
 <p><a href="http://www.fundable.org" rel="nofollow">Fundable</a> is a free website that allows people to collect money for group pruchasing or fundraising.  We have used it and it is a brilliant idea.</p>

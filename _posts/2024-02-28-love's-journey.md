@@ -7,7 +7,7 @@ categories:
 tags:
 - love
 - lyric poem
-permalink: "loves-journey"
+permalink: /loves-journey/
 excerpt: Poem about my love of my life.
 teaser: /assets/images/poems/loves-journey.webp
 header:

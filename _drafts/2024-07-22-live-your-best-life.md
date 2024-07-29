@@ -5,7 +5,7 @@ categories:
 - Poems
 tags:
 - lyric poem
-permalink: "/live-your-best-life"
+permalink: /live-your-best-life/
 published: false
 ---
 

@@ -7,7 +7,7 @@ categories:
 tags:
 - slow lifestyle
 - lyric poem
-permalink: "/alive-in-gratitude"
+permalink: /alive-in-gratitude/
 excerpt: Poem about being gratiful for life.
 ---
 In the dance of existence, amidst the ebb and flow of life's unpredictable currents, there exists a profound sense of gratitude for the simple miracle of being alive. This poem was born from the depths of a grateful heart. It celebrates the sheer wonder of existence and the unspoken blessings that grace our journey. Join me as we embark on a lyrical exploration of the beauty found in every breath, every heartbeat, and every moment of being truly alive.

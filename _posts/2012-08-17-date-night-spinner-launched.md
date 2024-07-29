@@ -5,7 +5,7 @@ categories:
 - News
 tags:
 - website
-permalink: "date-night-spinner-launched"
+permalink: /date-night-spinner-launched/
 published: true
 excerpt: Date Night Idea Generator launched
 ---

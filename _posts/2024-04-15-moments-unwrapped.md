@@ -7,7 +7,7 @@ categories:
 tags:
 - slow lifestyle
 - lyric poem
-permalink: "moments-unwrapped"
+permalink: /moments-unwrapped/
 excerpt: Poem about the present, the now, what you are actually living is a gift, a present.
 ---
 The present, the now, what you are actually living is a gift, a present. I loved that it's the same word. The present is a real present. Enjoy every moment. I wrote a poem to remember to enjoy the moments.
