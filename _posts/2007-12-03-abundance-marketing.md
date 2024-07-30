@@ -1,18 +1,13 @@
 ---
-layout: post
 title: Abundance Marketing
-date: 2007-12-03 23:00:47.000000000 -06:00
-type: post
-parent_id: '0'
+date: 2007-12-03
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essay
 tags:
 - marketing
 permalink: /abundance-marketing/
-excerpt: 
+excerpt: Optimistic marketing viewpoint
 ---
 ## Horowitz's Abundance marketing
 
