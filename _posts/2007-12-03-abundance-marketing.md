@@ -3,7 +3,7 @@ title: Abundance Marketing
 date: 2007-12-03
 published: true
 categories:
-- Essay
+- Essays
 tags:
 - marketing
 permalink: /abundance-marketing/
