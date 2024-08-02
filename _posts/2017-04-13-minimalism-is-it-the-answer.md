@@ -1,10 +1,8 @@
 ---
 title: Minimalism is it the answer?
-date: 2017-04-13 10:00:12.000000000 -05:00
+date: 2017-04-13
 published: true
 categories:
-- Entrepreneurship
-- Mindset
 - Essays
 tags: []
 permalink: "/minimalism-is-it-the-answer/"

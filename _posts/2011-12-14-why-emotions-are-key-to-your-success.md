@@ -1,10 +1,8 @@
 ---
 title: Why emotions are key to your success
-date: 2011-12-14 01:10:44.000000000 -06:00
+date: 2011-12-14
 published: true
 categories:
-- Entrepreneurship
-- Mindset
 - Essays
 tags: []
 permalink: "/why-emotions-are-key-to-your-success/"
