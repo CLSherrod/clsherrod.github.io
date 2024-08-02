@@ -5,16 +5,6 @@ published: true
 categories:
 - Essays
 tags: []
-meta:
-  podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
-  _sexybookmarks_shortUrl: http://b2l.me/4z59j
-  _sexybookmarks_permaHash: a485f00a9c0ffedb8ae49017cfb43e90
-  dsq_thread_id: '43130405'
-  _nectar_love: '0'
-  _wpas_done_all: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1465520218;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:108;}i:1;a:1:{s:2:"id";i:577;}i:2;a:1:{s:2:"id";i:105;}}}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '139'
 permalink: "/crazy-eights-for-stirring-things-up/"
 ---
 <img src="{{ site.baseurl }}/posts/2008/02/mastermindgroup.JPG" alt="Mastermind Group" align="right" />My mastermind groups until lately have been pretty quiet.  Slow.  Not much happening.

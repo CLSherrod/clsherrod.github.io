@@ -5,16 +5,6 @@ published: true
 categories:
 - Essays
 tags: []
-meta:
-  podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
-  _sexybookmarks_shortUrl: http://b2l.me/4r32t
-  _sexybookmarks_permaHash: 86794047aa56675d9af680977df20c87
-  dsq_thread_id: '43130386'
-  _wpas_done_all: '1'
-  _nectar_love: '0'
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '141'
 permalink: "/create-your-opus/"
 ---
 I loved this article about creating your life like an opus.Â  Make sure you read the entire article by clicking on the link below, excerpt follows.</p>

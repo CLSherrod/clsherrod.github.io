@@ -8,19 +8,6 @@ tags:
 - clean technologies
 - gratitude
 - Virgin Group
-meta:
-  podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
-  _sexybookmarks_shortUrl: http://b2l.me/4uskw
-  _sexybookmarks_permaHash: 01af8e81329ce5d33b0609a78db646f8
-  dsq_thread_id: '43130348'
-  _wpas_done_all: '1'
-  _nectar_love: '0'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1475763671;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:287;}i:1;a:1:{s:2:"id";i:83;}i:2;a:1:{s:2:"id";i:7824;}}}}
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '158'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524957946'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"279";s:5:"score";s:18:"122.62221995350477";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"365";s:5:"score";s:18:"104.98896596625161";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"227";s:5:"score";s:18:"104.98896596625161";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"392";s:5:"score";s:18:"103.16575039828412";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"380";s:5:"score";s:18:"103.16575039828412";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"377";s:5:"score";s:18:"103.16575039828412";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"280";s:5:"score";s:17:"86.26255237015386";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:17:"75.25558102768721";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"284";s:5:"score";s:17:"74.61867356542221";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"694";s:5:"score";s:17:"74.06456519050485";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"692";s:5:"score";s:17:"70.37640693557006";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"261";s:5:"score";s:17:"67.12866960927698";}}
 permalink: "/opportunity-is-everywhere/"
 ---
 Apparently there is a lot of stories about the economy in the USA is slowing down and prosperity is disappearing.Â  I say Apparently because I don't watch the negative news, I focus on the positive and look for opportunity everywhere.

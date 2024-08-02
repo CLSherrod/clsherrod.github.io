@@ -11,29 +11,6 @@ categories:
 - Mindset
 - Essays
 tags: []
-meta:
-  _sexybookmarks_shortUrl: http://b2l.me/4ygqa
-  _sexybookmarks_permaHash: f7bf0ac0c418090c18499fc6d2d2c319
-  _jetpack_dont_email_post_to_subs: ‘1’
-  _vc_post_settings: a:1:{s:10:“vc_grid_id”;a:0:{}}
-  _nectar_love: ‘0’
-  _edit_last: ‘1’
-  _pilotpress_redirect_location: ”-1”
-  Hide SexyBookmarks: ‘0’
-  Hide OgTags: ‘0’
-  _wpas_done_all: ‘1’
-  _blogpost_images: http://blog.blog.christophersherrod.com/wp-content/uploads/images/video1.jpg
-  _wpas_mess: Ten Secrets to Success http://wp.me/p1k8tx-w
-  _wpas_skip_2911179: ‘1’
-  _wpas_skip_2911185: ‘1’
-  _wpas_skip_2911188: ‘1’
-  dcssb_short_url: http://tinyurl.com/k69hg6u
-  _wp_rp_related_posts_query_result_cache_5: a:10:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“2282”;s:5:“score”;s:17:“16.31507471885221”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“39”;s:5:“score”;s:18:“15.010424346580056”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“123”;s:5:“score”;s:18:“13.225464180291473”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“89”;s:5:“score”;s:18:“13.225464180291473”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“28”;s:5:“score”;s:18:“13.225464180291473”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“6776”;s:5:“score”;s:18:“11.142556430755633”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1438”;s:5:“score”;s:17:“10.62264138188178”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“61”;s:5:“score”;s:18:“10.452875458051691”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“4593”;s:5:“score”;s:17:“9.357596264467048”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“33”;s:5:“score”;s:16:“9.23634702076189”;}}
-  _jetpack_related_posts_cache: a:1:{s:32:“8f6677c9d6b0f903e98ad32ec61f8deb”;a:2:{s:7:“expires”;i:1491431818;s:7:“payload”;a:3:{i:0;a:1:{s:2:“id”;i:1469;}i:1;a:1:{s:2:“id”;i:4550;}i:2;a:1:{s:2:“id”;i:4935;}}}}
-  nectar_blog_post_view_count: ‘172’
-  _wp_rp_related_posts_query_result_cache_expiration: ‘1524884640’
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“271”;s:5:“score”;s:17:“64.20558844045485”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“350”;s:5:“score”;s:17:“51.63103569062065”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1041”;s:5:“score”;s:18:“50.278999093567954”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“7173”;s:5:“score”;s:18:“45.947872502736416”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“2784”;s:5:“score”;s:17:“43.76458526447994”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1034”;s:5:“score”;s:17:“43.76458526447994”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“688”;s:5:“score”;s:17:“43.76458526447994”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“324”;s:5:“score”;s:17:“43.76458526447994”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“5870”;s:5:“score”;s:16:“28.3920312105857”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“713”;s:5:“score”;s:18:“27.928427982454266”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“809”;s:5:“score”;s:17:“24.61608113876684”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1267”;s:5:“score”;s:17:“22.63829602518938”;}}
-  _wp_rp_image: empty
 permalink: ”/ten-secrets-to-success/"
 ---
 <p><a href="http://www.richdad.com/pages/toptips_december.asp" rel="nofollow">Ten Secrets to Success</a></p>
