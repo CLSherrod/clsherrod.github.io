@@ -5,20 +5,6 @@ published: true
 categories:
 - Essays
 tags: []
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
-  _sexybookmarks_shortUrl: http://b2l.me/4th3h
-  _sexybookmarks_permaHash: 402b57449da0bcaf8c18801da575fba0
-  dsq_thread_id: '43133808'
-  _wpas_done_all: '1'
-  _nectar_love: '0'
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _wp_rp_image: '14530'
-  nectar_blog_post_view_count: '180'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524957847'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1441";s:5:"score";s:16:"77.3721681491626";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3034";s:5:"score";s:17:"59.42936429823446";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1650";s:5:"score";s:17:"53.76293761008293";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1815";s:5:"score";s:17:"52.39333319321567";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2144";s:5:"score";s:18:"51.058019267040265";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1773";s:5:"score";s:18:"47.668298325433064";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1647";s:5:"score";s:18:"47.668298325433064";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1636";s:5:"score";s:18:"47.668298325433064";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3032";s:5:"score";s:17:"46.33298439925766";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2150";s:5:"score";s:16:"44.9633799823904";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2148";s:5:"score";s:16:"44.9633799823904";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2146";s:5:"score";s:16:"44.9633799823904";}}
 permalink: "/my-sxsw-experience/"
 ---
 I had a lot of fun experiencing SXSW here in Austin.  I like parties and socializing and the long winded talks bore me.  Last night I did one and was falling asleep.  Had to get up and grab a late dinner.  So I stick to parties.
