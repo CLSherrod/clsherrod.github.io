@@ -147,7 +147,7 @@ Many people offered to have her stay with them while she figured out a place to 
 
 I focused on selling and packing stuff.
 
-We had a hard date where we needed a new place to live in San Diego. We worked on it daily and it all worked out, because we <strong>focused</strong>.
+We had a hard date where we needed a new place to live in San Diego. We worked on it daily and it all worked out, because we **focused**.
 
 We were determined to make it happen because otherwise we were going to be homeless with a ton of stuff and no where to put it.
 

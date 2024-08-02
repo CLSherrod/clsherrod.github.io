@@ -6,7 +6,6 @@ categories:
 - Reviews
 tags:
 - books
-- review
 permalink: "/real-artists-dont-starve/"
 ---
 A friend at a small dinner party recommended I read [Real Artists Don't Starve](https://amzn.to/2rqlJVp). Two days later I finished the book.

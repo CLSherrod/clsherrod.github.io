@@ -32,11 +32,11 @@ Be careful and do business ethically.  Don't let greed grab your head and lead 
 
 You need the following items to have a profitable online business:</p>
 <ul>
-<li><strong></strong>Having a high quality product or service to sell</li>
-<li><strong></strong>Selling your product or service at a reasonable price</li>
-<li><strong></strong>Having a business plan and some idea of how to implement it</li>
-<li><strong></strong>Providing outstanding customer support and service</li>
-<li><strong></strong>Having a target audience and a strong marketing strategy</li>
+<li>****Having a high quality product or service to sell</li>
+<li>****Selling your product or service at a reasonable price</li>
+<li>****Having a business plan and some idea of how to implement it</li>
+<li>****Providing outstanding customer support and service</li>
+<li>****Having a target audience and a strong marketing strategy</li>
 </ul>
 <p>And you need to focus on:</p>
 <ul>

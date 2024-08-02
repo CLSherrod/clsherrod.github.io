@@ -62,7 +62,7 @@ permalink: "/j-k-rowling-volutourism-stoporphantrips/"
 </div>
 <div class="section-content">
 <div class="section-inner sectionLayout--insetColumn">
-<p id="0adf" class="graf graf--p graf--leading"><strong class="markup--strong markup--p-strong">How To Pick A Charity</strong></p>
+<p id="0adf" class="graf graf--p graf--leading"><strong class="markup--strong markup--p-strong">How To Pick A Charity**</p>
 <p id="564e" class="graf graf--p graf-after--p">Yes participating in a volunteer program can be a very nearly spiritual for you and give your life a lot of meaning, but make sure you what you spend way more on actually helping than on the tourism part and that it’s a charity that isn’t incentivized to keep the problem going.</p>
 <p id="652b" class="graf graf--p graf-after--p">I recommend every project we publish has a charity tie-in. And that charity needs to be aligned with what your project is about. We also recommend you create an impact number for each project. Like with every higher end package you sell you help the charity help, one person.</p>
 <p id="95c2" class="graf graf--p graf-after--p">We plant 100 trees with every book project we publish. Plus for every project we fund a women’s business thru our charity partner.</p>

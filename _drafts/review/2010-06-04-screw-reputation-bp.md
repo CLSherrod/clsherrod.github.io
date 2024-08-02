@@ -58,11 +58,11 @@ The point is 6 weeks is a lifetime on the Internet. Their reputation is totally 
 
 The bigger the disaster the faster you need to respond.
 
-First you need to <strong>acknowledge </strong>the gravity of the situation. Say there is a huge oil leak.
+First you need to **acknowledge **the gravity of the situation. Say there is a huge oil leak.
 
-Then <strong>apologize </strong>for the disaster.
+Then **apologize **for the disaster.
 
-Then <strong>act</strong> fast. Don't turn down any offer. The public will think you don't care.  Be open about what you're doing. Accept help.
+Then **act** fast. Don't turn down any offer. The public will think you don't care.  Be open about what you're doing. Accept help.
 
 BP has royally screwed up. They are acting like a big corporation from the 50's. They don't understand social media, they don't understand that need need to be open and honest and act fast. Coming out with a print campaign 6 weeks after the disaster is really too little, way too late. God help them because nobody on Earth is going to. They are toast.
 

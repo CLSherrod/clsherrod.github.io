@@ -29,4 +29,4 @@ So here is my top 10 list of the best strategies to do in a recession.  These wi
 
 Get it totally free when you subscribe to my list.
 
-<strong>Opportunity is over</strong></p>
+**Opportunity is over**</p>

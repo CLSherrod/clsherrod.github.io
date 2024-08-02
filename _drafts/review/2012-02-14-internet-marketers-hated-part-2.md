@@ -44,7 +44,7 @@ I don't. I am one.
 
 There are bad people in every single business niche. In the Internet Marketing I think it is about equal to other businesses.
 
-One person commented that IMers use bait and switch a lot. I've never seen that. But, I believe he was confused what bait and switch is.&nbsp;When you buy something and you are offered something that the marketer thinks you would also like is called an <strong>upsell</strong>. People that buy a certain product typically would want another product. That's a sign of a good marketer. Bait and switch is fraud, where a product/service is advertised at a low price and then the customer finds out it isn't available and "switched" to a costlier item. Very different.
+One person commented that IMers use bait and switch a lot. I've never seen that. But, I believe he was confused what bait and switch is.&nbsp;When you buy something and you are offered something that the marketer thinks you would also like is called an **upsell**. People that buy a certain product typically would want another product. That's a sign of a good marketer. Bait and switch is fraud, where a product/service is advertised at a low price and then the customer finds out it isn't available and "switched" to a costlier item. Very different.
 
 Bad marketers go out of business.
 

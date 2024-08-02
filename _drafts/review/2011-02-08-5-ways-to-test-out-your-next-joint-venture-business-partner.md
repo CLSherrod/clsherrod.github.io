@@ -55,7 +55,7 @@ My last article about the 5 lessons working with partners got a lot of comments 
 
 I interviewed my mastermind group. Half are coming out with big joint ventures later this month so they had some great tips. The others have been doing it for years so they as well had great advice. They have all done joint venture partnerships big and small as well over the years.
 
-<strong>1. Research them</strong>
+**1. Research them**
 
 Yup research their website, their products, try to find out how big their platform is which is their reach, their audience size and how responsive they are. Ask your buddies if they have done business with them. You'll be surprised but some big people are nortrious for not paying affiliate commissions. They use newbies left and right. People in the industry that have been doing this awhile know all about them and don't do business with them so ask your buddies. Some will promise to be in your telesummit (big teleconference around one subject) so you'll promote them but never email that they are in it or even show up for the interview. One of my clients found that out and the speaker was famous for doing that. She said yes to everything but only actually would only do some of her engagements, she just wanted her name everywhere.
 
@@ -74,7 +74,7 @@ For long-term joint ventures:</p>
 <li>Buy one of their products and see what the experience is like. If it's horrible rethink what doing anything with them.</li>
 <li>Look at their marketing funnel. Does your thing fit in or conflict? Is their funnel professional looking? What does their funnel convey to you?</li>
 </ul>
-<p><strong>2. Communicate</strong>
+<p>**2. Communicate**
 
 As in romantic relationships communication is critical. If any thing unusual happens tell your partner if it affects them.
 
@@ -86,17 +86,17 @@ No, Yes Men. You know the people that don't call you out for being stupid. Avoid
 
 People with lots of personal drama are best to avoid. If they are stressed out about their personal drama life and want to tell you in detail over and over again how their life is so dramatic do you really think that won't influence how they do business? I've had clients that go on and on week after week about how they couldn't get me the info I needed. Not one has been remotely successful. A vast majority do not do anything at all. Yes we all have ups and downs, but if you're talking about it a lot and not focusing you are not a good JV partner period. Suck it up and focus.
 
-<strong>3. Test</strong>
+**3. Test**
 
 For bigger joint ventures you can test them out. Have a meeting and have some small assignments that everyone needs to do before meeting again. And see if they actually do the task. If they don't, do you expect them to meet deadlines?
 
 Buy one of their products and see what the experience was like. Don't tell them you're doing this so you get a real response. You can have someone else buy it for you so you don't get any special treatment.
 
-<strong>4. Stay involved</strong>
+**4. Stay involved**
 
 If you are the big wig in the joint venture and just show up and draw the crowd don't just do that. Stay involved in the business especially big decisions. Your partner could make a big purchase or commitment that is a business killer if you don't stay involved. Make sure any money decisions over a certain amount require your approval. Have regular status update phone meetings and just make sure everything is running smoothly. It's a big deal, a big lesson, stay involved.
 
-<strong>5. Ask for a contract</strong>
+**5. Ask for a contract**
 
 If you ask for a contract or letter of agreement and they don't care that's a clue. If you're very good friends with them and it's a one-time email JV that's one thing, but for someone new something in writing is needed. I do contracts for everyone including family and friend, actually especially family and friends.
 
@@ -108,4 +108,4 @@ P.S. Hope you enjoyed those lessons. What have you learned about working with pa
 
 P.P.S. Share these with your friends. Click on the share buttons below.
 
-P.P.P.S. I'm having a 4 week class on <strong>How To Be Successful with Joint Venture Business Partners</strong> starting March 2nd. It's $97 and will include interviews with some of my mastermind group and special guests. We'll answer all your questions about doing joint venture from people that do them everyday. <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=887392&amp;cl=28927&amp;ejc=2">Register for the class now</a>.<a href="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=887392&amp;cl=28927&amp;ejc=2"><img class="aligncenter size-full wp-image-3657" title="belcher-buy-button-300x130" src="{{ site.baseurl }}/posts/2011/02/belcher-buy-button-300x130.jpg" alt="" width="300" height="130" /></a></p>
+P.P.P.S. I'm having a 4 week class on **How To Be Successful with Joint Venture Business Partners** starting March 2nd. It's $97 and will include interviews with some of my mastermind group and special guests. We'll answer all your questions about doing joint venture from people that do them everyday. <a href="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=887392&amp;cl=28927&amp;ejc=2">Register for the class now</a>.<a href="https://www.e-junkie.com/ecom/gb.php?c=cart&amp;i=887392&amp;cl=28927&amp;ejc=2"><img class="aligncenter size-full wp-image-3657" title="belcher-buy-button-300x130" src="{{ site.baseurl }}/posts/2011/02/belcher-buy-button-300x130.jpg" alt="" width="300" height="130" /></a></p>

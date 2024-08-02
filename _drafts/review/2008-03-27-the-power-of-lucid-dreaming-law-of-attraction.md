@@ -21,7 +21,7 @@ meta:
 permalink: "/the-power-of-lucid-dreaming-law-of-attraction/"
 ---
 I have many dreams of what to do next.  It is very common for me.  The are detailed and very inspiring.  Here is an article on lucid dreaming that helps explain what naturally occurs to me.</p>
->So, what is <strong>Lucid Dreaming</strong>? The simplest way I can think (right now) is, <strong>Lucid Dreaming</strong> is a method to program your dream.
+>So, what is **Lucid Dreaming**? The simplest way I can think (right now) is, **Lucid Dreaming** is a method to program your dream.
 
 Focus on what you want to dream just right before you sleep and it will appear in your dream.
 

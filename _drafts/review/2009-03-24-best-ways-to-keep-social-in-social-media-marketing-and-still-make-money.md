@@ -37,7 +37,7 @@ So how do you keep social in social media and still make money?  By being conve
 <p>Once you have a good number of followers like 2000 and you have done a great job of providing really good content that your followers love, you can ask for them to check out your latest blog post or anything that benefits you.  With the 90/10 rule people will know you as a giver.  So when you do your 10% give it in a way that is a benefit to your followers.  Don't make it a blatant advertisement.  Tweet about checking out your blog post or your free teleclass or webinar.  Use Twitter as a front end to your sales funnel.  People get used to you on Twitter and then check out your stuff on your websites before buying anything from you.</p>
 <h3>Is the 90-10 rule hard and fast?</h3>
 <p>No. It's just a good rule of thumb.  I haven't added up what I've done.  It's just my basic plan.  Social media isn't a science, but the 90/10 rule has helped me great deal prioritize what I post.  I use it to make sure I give way more than I take from Twitter.</p>
-<h3><strong>Best tweets and time to tweet</strong></h3>
+<h3>**Best tweets and time to tweet**</h3>
 <p>Based on my experience the most effective time is 4:30 to 6pm ET.  I believe this is due to many people catching up on Twitter in the afternoon and evening.  I've also heard that very late at night or after midnight is good as people will see them in the morning before going to work.  This doesn't work for how I schedule my day so I don't have any personal experience.
 
 The most common clicked tweets are statements and opening questions.  Using the word best, most, great, worst and how to helped a lot as well.  Just like blog post titles using these words create a lot of interest and people will click to read about it.</p>

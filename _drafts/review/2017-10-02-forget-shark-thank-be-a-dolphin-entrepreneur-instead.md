@@ -71,7 +71,7 @@ I went from fighting and getting beaten up by other business owners to creating 
 I spoke with a few peers and they agree. Lauren Randolph, founder of MyHotelWedding.com says, “As a lifelong soccer player, I’ve always been team-oriented. When I became an entrepreneur I felt lost and alone until I found a group of like-minded business owners who were willing to meet and share their experiences. Now we all help each other to not make the same mistakes and have expanded our network of resources tenfold.”
 
 Sound good? Now go put it into practice.</p>
-<h2><strong>Five ways to be a dolphin entrepreneur </strong></h2>
+<h2>**Five ways to be a dolphin entrepreneur **</h2>
 <ol>
 <li>Appreciate your competition. Learn from them and be happy for their success.</li>
 <li>Work with them when advantageous to both. You and your fellow dolphin entrepreneurs in your industry can help maintain ethics and make the industry better for all.</li>

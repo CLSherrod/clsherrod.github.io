@@ -26,21 +26,21 @@ permalink: "/spontaneous-healing/"
 <img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/04/cvr_braden_shob_cd.jpg" alt="" width="100" height="88" />Gregg Braden former scientist now best selling spirtual author has a new book out,Â  <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">The Spontaneous Healing of Belief</a>.Â  I love the information that he writes about, science is proving that there is something to spirtuality.Â  In order to succeed in life you have to belief in yourself.
 
  *"Brilliant and insightful...I see Gregg Braden as one of our great  visionaries." *<br />
- ”<strong>Dr. Wayne Dyer</strong>, author of  *The Power  of Intention *
+ ”**Dr. Wayne Dyer**, author of  *The Power  of Intention *
 
  *"Gregg Braden is a rare blend of scientist,  visionary and scholar with the ability to speak to our minds, while touching the  wisdom of our hearts." *<br />
- ”<strong>Dr. Deepak Chopra</strong>, author of   *How To Know God *</p>
-<blockquote><p><strong>Is it possible that we're born with the power to reverse disease, create  peace and abundance, and even change reality itself?</strong>
+ ”**Dr. Deepak Chopra**, author of   *How To Know God *</p>
+<blockquote><p>**Is it possible that we're born with the power to reverse disease, create  peace and abundance, and even change reality itself?**
 
 As we face  the greatest challenges of human history, these new discoveries suggest that  we're about to find out!
 
-<strong>Fact:</strong> The universe is made of  a shared matrix of energy that underlies our physical world!
+**Fact:** The universe is made of  a shared matrix of energy that underlies our physical world!
 
-<strong>Fact:</strong> Heart-based <strong>Belief</strong> is the  language that speaks to this matrix!
+**Fact:** Heart-based **Belief** is the  language that speaks to this matrix!
 
-<strong>Implication:</strong> Scientific discoveries now reveal that heart-based belief affects everything  from the healing of our bodies to the atoms of our world!
+**Implication:** Scientific discoveries now reveal that heart-based belief affects everything  from the healing of our bodies to the atoms of our world!
 
-In my newest  book,  *<strong>The Spontaneous Healing of Belief: Shattering The Paradigm of  False Limits</strong> *, I will show you beyond any reasonable doubt that our  bodies, our lives, and our reality are based upon a simple code ”<strong>a  heart-based belief code</strong> ”that we may learn and upgrade by choice.
+In my newest  book,  ***The Spontaneous Healing of Belief: Shattering The Paradigm of  False Limits** *, I will show you beyond any reasonable doubt that our  bodies, our lives, and our reality are based upon a simple code ”**a  heart-based belief code** ”that we may learn and upgrade by choice.
 
 To fully embrace the power of this code in our lives we must:</p>
 <ol>
@@ -48,7 +48,7 @@ To fully embrace the power of this code in our lives we must:</p>
 <li>Speak the language that it recognizes</li>
 </ol>
 </blockquote>
-<blockquote><p> *<strong>The Spontaneous Healing of Belief</strong> * provides you with  the keys to do both. Between 1998 and 2005, my journeys into the remote  monasteries of Egypt and Tibet revealed the ancient manuscripts, and the living  practices, that have preserved the techniques of heart-based belief for over  2,500 years. Supported by today's science, I will share what I found and  describe how a change in your perception holds the timeless secret to healing,  peace, and even reality itself!</p></blockquote>
+<blockquote><p> ***The Spontaneous Healing of Belief** * provides you with  the keys to do both. Between 1998 and 2005, my journeys into the remote  monasteries of Egypt and Tibet revealed the ancient manuscripts, and the living  practices, that have preserved the techniques of heart-based belief for over  2,500 years. Supported by today's science, I will share what I found and  describe how a change in your perception holds the timeless secret to healing,  peace, and even reality itself!</p></blockquote>
 <p>Get the book and watch the video at <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">Gregg Braden - Spontaneous Healing</a>
 
 Take advantage of this limited-time book launch offer and you will receive:</p>

@@ -20,11 +20,11 @@ permalink: "/inspired-marketing/"
 ---
 <a href="https://christopher-sherrod.blisslifepress.com/wp-content/uploads/sites/2/inspiredmarketing.jpg" rel="nofollow"><img src="https://christopher-sherrod.blisslifepress.com/wp-content/uploads/sites/2/inspiredmarketing-thumb.jpg" style="border: 0px none " alt="InspiredMarketing" align="right" border="0" height="240" width="240" / rel="nofollow"/></a>I've been looking forward to a new book "Inspired Marketing" since Craig Perrine one of the authors and I discussed it.  Three weeks ago at a Prosperity Games dinner party which Craig attended we discussed "Inspired Marketing".   Craig told me that the 14 people interviewed showed how inspired action lead to their success. I've been doing that for a number of years now and agree that inspired action has lead to more success and a lot more fun in my life.</p>
 <h5> *The Astonishing Fun New Way to Create More Profits for Your Business by Following Your Heart *</h5>
-<p><strong>By Dr. Joe Vitale and Craig Perrine</strong>
+<p>**By Dr. Joe Vitale and Craig Perrine**
 
-<strong>Dr. Joe Vitale</strong>, star of The Secret and The Opus; author of way too many books to list here, from  *The Attractor Factor * to  *Zero Limits *; world-famous marketing wizard, copywriter, and spiritual guru; seen on <strong>Larry King Live</strong>; featured in <strong>Newsweek</strong> and <strong>The New York Times</strong>.
+**Dr. Joe Vitale**, star of The Secret and The Opus; author of way too many books to list here, from  *The Attractor Factor * to  *Zero Limits *; world-famous marketing wizard, copywriter, and spiritual guru; seen on **Larry King Live**; featured in **Newsweek** and **The New York Times**.
 
-<strong>CRAIG PERRINE</strong> is a leading Internet Marketing Strategist and speaker known for his relationship based marketing methods. He has been featured in many bestselling books and courses, including  *Online Marketing Superstars *,  *The Great Offer *, and  *Buying Trances *.
+**CRAIG PERRINE** is a leading Internet Marketing Strategist and speaker known for his relationship based marketing methods. He has been featured in many bestselling books and courses, including  *Online Marketing Superstars *,  *The Great Offer *, and  *Buying Trances *.
 
 Get a  copy of  *Inspired Marketing * along with access to a new private membership site where you can get $1,421 worth of unique and original surprise gifts (all freeee)
 
