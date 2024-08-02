@@ -1,16 +1,11 @@
 ---
-layout: post
 title: How to be prosperous
 date: 2006-06-14 12:37:25.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _sexybookmarks_shortUrl: http://b2l.me/5ms6r
@@ -31,12 +26,6 @@ meta:
   nectar_blog_post_view_count: '204'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987446'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:2:"61";s:5:"score";s:18:"27.644473628736492";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1911";s:5:"score";s:17:"27.15980952941724";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"2282";s:5:"score";s:18:"26.013323815796696";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"7097";s:5:"score";s:18:"25.811892164988183";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"15";s:5:"score";s:18:"24.926763098763605";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"20";s:5:"score";s:17:"24.23497744423171";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2271";s:5:"score";s:18:"23.485590545376823";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"30";s:5:"score";s:18:"21.703644697490947";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4593";s:5:"score";s:17:"21.41744301030178";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:18:"21.167116724368626";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"98";s:5:"score";s:18:"21.167116724368626";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"6885";s:5:"score";s:18:"20.193086774240843";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/how-to-be-prosperious/"
 ---
 <p>People ask me "How can I be prosperous?"</p>

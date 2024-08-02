@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Musician partnered with United Nations
 date: 2013-11-25 14:36:35.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
 - Philanthropy
-- Whole Enchilada
+- Essays
 tags:
 - love
 - music
@@ -75,12 +70,6 @@ meta:
   _force_transparent_header_color: light
   _wp_rp_related_posts_query_result_cache_expiration: '1525288574'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"6885";s:5:"score";s:15:"72.835492092748";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"7846";s:5:"score";s:17:"62.46132874922158";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"6997";s:5:"score";s:18:"55.416889285478995";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"809";s:5:"score";s:17:"52.02669163916012";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"587";s:5:"score";s:18:"50.769474320315375";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"317";s:5:"score";s:18:"47.916497529307094";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"316";s:5:"score";s:18:"47.916497529307094";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"277";s:5:"score";s:17:"47.42152145317203";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:17:"43.01875627820227";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2017";s:5:"score";s:17:"43.01875627820227";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1597";s:5:"score";s:17:"43.01875627820227";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1436";s:5:"score";s:17:"43.01875627820227";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/musician-partnered-with-united-national/"
 ---
 <p>Here is a sign that electronic music is mainstream.<br />

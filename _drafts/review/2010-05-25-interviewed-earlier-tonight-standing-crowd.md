@@ -1,14 +1,9 @@
 ---
-layout: post
 title: I was interviewed earlier tonight on Standing Above The Crowd
 date: 2010-05-25 09:15:37.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _sexybookmarks_permaHash: bc362facdadd036bf9f03ca32aa3518e
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '162'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957639'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3034";s:5:"score";s:18:"51.817573227026095";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3535";s:5:"score";s:17:"51.01492459589602";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"3254";s:5:"score";s:17:"49.62863023471747";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3096";s:5:"score";s:18:"48.261793984602754";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2436";s:5:"score";s:18:"48.261793984602754";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4206";s:5:"score";s:17:"47.45086376834732";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"3251";s:5:"score";s:17:"45.54350724039152";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"3234";s:5:"score";s:17:"45.54350724039152";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1265";s:5:"score";s:18:"43.956609137435535";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2610";s:5:"score";s:17:"41.77884267106539";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2734";s:5:"score";s:17:"35.63989500084488";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"3152";s:5:"score";s:17:"33.59812305495157";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/interviewed-earlier-tonight-standing-crowd/"
 excerpt: 'Earlier tonight I was interview by Nan Akasha about her recent book launch
   that went #1 in her targeted category on Amazon and how I helped make that all happen.

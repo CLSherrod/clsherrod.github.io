@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Format of meetings
 date: 2005-10-10 05:38:59.000000000 -05:00
 type: post
@@ -8,7 +7,7 @@ published: true
 password: ’’
 status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:“s:11:“s:4:“b:0;”;”;";
@@ -33,12 +32,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: ‘1524884600’
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1211”;s:5:“score”;s:17:“52.65090593228955”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“130”;s:5:“score”;s:17:“47.68109263260166”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“295”;s:5:“score”;s:18:“46.657442384498616”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“404”;s:5:“score”;s:17:“42.46316014693734”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“320”;s:5:“score”;s:17:“42.46316014693734”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“312”;s:5:“score”;s:17:“42.46316014693734”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“605”;s:5:“score”;s:17:“40.97427919695004”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“412”;s:5:“score”;s:17:“40.97427919695004”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“123”;s:5:“score”;s:17:“40.97427919695004”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“119”;s:5:“score”;s:17:“40.97427919695004”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“4806”;s:5:“score”;s:17:“37.40469759723801”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“602”;s:5:“score”;s:17:“37.40469759723801”;}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/format-of-meetings/"
 ---
 <p>Hot Seat Format: Each MM member has specific problem solving/planning session whereby members contribute to the Hot Seat person?s needs. One meeting may be devoted to one individual or each individual may have 15-20 minutes in the Hot Seat each meeting. The Hot Seat selects their topic and can prepare and send information in advance.</p>

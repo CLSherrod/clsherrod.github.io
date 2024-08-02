@@ -1,14 +1,9 @@
 ---
-layout: post
 title: How to Us Parkinson's Law to Your Advantage
 date: 2008-06-04 23:00:49.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   dsq_thread_id: '43131072'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '138'
   _wp_rp_related_posts_query_result_cache_expiration: '1525268682'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1423";s:5:"score";s:17:"52.00640612224829";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"850";s:5:"score";s:17:"46.15850221023128";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"2861";s:5:"score";s:18:"45.914562086159734";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"725";s:5:"score";s:17:"45.70328402935097";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2074";s:5:"score";s:17:"43.25629019154391";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"686";s:5:"score";s:17:"43.25629019154391";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"722";s:5:"score";s:17:"42.88186710740678";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"389";s:5:"score";s:18:"41.878369883171615";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:17:"37.16444615545535";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"741";s:5:"score";s:17:"37.16444615545535";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"703";s:5:"score";s:17:"37.16444615545535";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"684";s:5:"score";s:17:"37.16444615545535";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/how-to-us-parkinsons-law-to-your-advantage/"
 ---
 <p>Ever heard of Parkinson's Law?  The simple statement that work expands to fill the time available for its completion.  Joel has an excellent article about Parkinson's Law and some tips on how to use it to your advantage.</p>

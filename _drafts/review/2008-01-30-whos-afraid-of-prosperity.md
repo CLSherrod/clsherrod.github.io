@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Who's Afraid of Prosperity?
 date: 2008-01-30 23:00:02.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags:
 - abundance
 meta:
@@ -47,12 +42,6 @@ meta:
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
   _thumbnail_id: '15186'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/whos-afraid-of-prosperity/"
 ---
 <p>I use to listen to people that believed in a million conspiracies.  Some I know are true.  A vast majority are not I believe.  I saw these people become more and more broke.  If you made money you were hurting everyone and feeding the "system".  If you were broke it was good.  I never really understand their logic.</p>

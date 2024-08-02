@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Law of attraction for kids
 date: 2008-06-18 06:00:04.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '151'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957686'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1108";s:5:"score";s:17:"55.07185330295735";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"233";s:5:"score";s:17:"51.42504203074938";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"383";s:5:"score";s:17:"48.43219165976763";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1373";s:5:"score";s:17:"48.25286093369918";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"400";s:5:"score";s:18:"44.793874772904566";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:17:"44.69708169127584";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1285";s:5:"score";s:17:"44.69708169127584";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"831";s:5:"score";s:17:"44.69708169127584";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"393";s:5:"score";s:17:"44.69708169127584";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"398";s:5:"score";s:17:"42.32733642510265";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"356";s:5:"score";s:18:"42.022179706069586";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"604";s:5:"score";s:17:"41.23809553048123";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/law-of-attraction-for-kids/"
 ---
 <p>I'm listened to part of Rhonda's Kids Awakening and I'm loving it.</p>

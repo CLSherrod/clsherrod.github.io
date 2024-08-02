@@ -1,14 +1,9 @@
 ---
-layout: post
 title: 'Massive Change to Success: Ep # 46'
 date: 2011-08-22 22:27:39.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -21,12 +16,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884829'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1399";s:5:"score";s:17:"48.86253007035113";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1027";s:5:"score";s:17:"48.86253007035113";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"690";s:5:"score";s:17:"48.86253007035113";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"364";s:5:"score";s:17:"48.86253007035113";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2774";s:5:"score";s:17:"42.71098010795762";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1513";s:5:"score";s:17:"42.71098010795762";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"707";s:5:"score";s:17:"42.71098010795762";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"293";s:5:"score";s:17:"42.71098010795762";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"157";s:5:"score";s:17:"42.71098010795762";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4534";s:5:"score";s:18:"11.772276335226124";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"5624";s:5:"score";s:17:"6.165555573351515";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"3577";s:5:"score";s:17:"6.165555573351515";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/massive-change-success-ep-46/"
 ---
 <p>httpvh://www.youtube.com/watch?v=ClbQX2VCJRs</p>

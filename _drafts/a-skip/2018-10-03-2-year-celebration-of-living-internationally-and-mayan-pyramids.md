@@ -1,16 +1,11 @@
 ---
-layout: post
 title: 2 year celebration of living internationally and Mayan Pyramids.
 date: 2018-10-03 18:00:45.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Personal
 - Travel
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -36,12 +31,6 @@ meta:
   _wp_old_date: '2019-03-06'
   nectar_blog_post_view_count: '64'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/2-year-celebration-of-living-internationally-and-mayan-pyramids/"
 ---
 <p>This week it's been two years of being an expat and living outside my home country.</p>

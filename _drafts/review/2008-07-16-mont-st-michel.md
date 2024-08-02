@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Mont St. Michel
 date: 2008-07-16 08:00:52.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - france
 - travel
@@ -21,12 +16,6 @@ meta:
   nectar_blog_post_view_count: '160'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957826'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4409";s:5:"score";s:16:"89.5028789645734";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4408";s:5:"score";s:17:"86.99735302756869";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4406";s:5:"score";s:17:"86.99735302756869";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4404";s:5:"score";s:17:"86.99735302756869";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"193";s:5:"score";s:17:"86.49472417100688";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4411";s:5:"score";s:17:"77.74181299177201";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4410";s:5:"score";s:17:"77.74181299177201";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4407";s:5:"score";s:17:"77.74181299177201";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4417";s:5:"score";s:17:"43.23279713139427";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4437";s:5:"score";s:17:"42.73016827483246";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"213";s:5:"score";s:17:"42.73016827483246";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4414";s:5:"score";s:17:"41.70851702730047";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/mont-st-michel/"
 ---
 <p><img class="alignright" title="Mont St. Michel" src="{{ site.baseurl }}/posts/2008/07/2651695181_c8bff7280f_m.jpg" alt="" width="240" height="180" /></p>

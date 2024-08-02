@@ -1,12 +1,7 @@
 ---
-layout: post
 title: Is the expat lifestyle possible for you?
 date: 2019-04-03 16:16:25.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Lifestyle
@@ -38,12 +33,6 @@ meta:
   nectar_blog_post_view_count: '95'
   _nectar_love: '0'
   _thumbnail_id: '15578'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/is-the-expat-lifestyle-possible-for-you/"
 ---
 <p>Right after getting back from my meditation trip I got to rest a bit and then I was off to Progreso Yucatan Mexico and I'm going to Merida tomorrow.</p>

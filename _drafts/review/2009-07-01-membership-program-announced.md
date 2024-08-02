@@ -1,14 +1,9 @@
 ---
-layout: post
 title: My Membership Program announced
 date: 2009-07-01 04:32:30.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '124'
   _wp_rp_related_posts_query_result_cache_expiration: '1525012828'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1853";s:5:"score";s:18:"11.782059702383707";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8360";s:5:"score";s:17:"7.752253661285212";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"3540";s:5:"score";s:17:"7.752253661285212";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3535";s:5:"score";s:17:"7.752253661285212";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"3470";s:5:"score";s:17:"7.752253661285212";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"3463";s:5:"score";s:17:"7.752253661285212";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1934";s:5:"score";s:17:"7.752253661285212";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1811";s:5:"score";s:17:"7.752253661285212";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1399";s:5:"score";s:17:"7.752253661285212";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1203";s:5:"score";s:17:"7.752253661285212";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1160";s:5:"score";s:17:"7.752253661285212";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"627";s:5:"score";s:17:"7.752253661285212";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/membership-program-announced/"
 ---
 <p>I announced my membership program today.</p>

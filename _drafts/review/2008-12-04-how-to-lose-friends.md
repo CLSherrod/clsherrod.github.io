@@ -1,14 +1,9 @@
 ---
-layout: post
 title: How to lose friends
 date: 2008-12-04 23:00:34.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '161'
   _wp_rp_related_posts_query_result_cache_expiration: '1524998423'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1619";s:5:"score";s:17:"95.96714135250112";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1451";s:5:"score";s:17:"93.78937488613096";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1383";s:5:"score";s:17:"93.78937488613096";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1811";s:5:"score";s:18:"62.920538977408725";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2132";s:5:"score";s:17:"60.20907297897082";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1797";s:5:"score";s:18:"58.435163928901154";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1280";s:5:"score";s:18:"57.391435808046396";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2560";s:5:"score";s:17:"55.85945535225436";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1681";s:5:"score";s:17:"52.20258545632669";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1540";s:5:"score";s:17:"52.03152594464788";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1642";s:5:"score";s:18:"50.024818989956536";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1889";s:5:"score";s:17:"49.95638970538833";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/how-to-lose-friends/"
 ---
 <p>Recently a very good friend of mine had a falling out with a business partner.  I don't know the details but I was supportive.  Then a couple of weeks later the business partner removed me from twitter.com (I use <a href="http://useqwitter.com/" rel="nofollow">Twitter Quitter</a> to track these things).</p>

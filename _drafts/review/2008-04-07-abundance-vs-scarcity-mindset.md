@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Abundance vs. Scarcity Mindset
 date: 2008-04-07 22:00:07.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '125'
   _wp_rp_related_posts_query_result_cache_expiration: '1524998412'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"411";s:5:"score";s:18:"46.801438868761394";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"311";s:5:"score";s:16:"43.9540955922461";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"604";s:5:"score";s:17:"40.91523538017918";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"344";s:5:"score";s:17:"40.91523538017918";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"242";s:5:"score";s:17:"40.91523538017918";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2099";s:5:"score";s:18:"36.570788829878474";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"348";s:5:"score";s:17:"35.85397758220632";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"301";s:5:"score";s:17:"35.85397758220632";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1483";s:5:"score";s:17:"35.20118441301121";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1000";s:5:"score";s:17:"35.20118441301121";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"817";s:5:"score";s:17:"35.20118441301121";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"382";s:5:"score";s:17:"35.20118441301121";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/abundance-vs-scarcity-mindset/"
 ---
 <p>Great article about the differences thinking about abundance vs. scarcity.</p>

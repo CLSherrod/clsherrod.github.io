@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Number 1 Excuse For Failure By Far
 date: 2009-03-03 23:55:32.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -44,12 +39,6 @@ meta:
   _wp_rp_image: empty
   _wp_rp_related_posts_query_result_cache_expiration: '1525047069'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1027";s:5:"score";s:17:"90.57570734367829";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"664";s:5:"score";s:17:"57.23362260764775";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:17:"54.66003872113413";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:18:"53.547958695404844";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"364";s:5:"score";s:17:"50.57051073966515";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1321";s:5:"score";s:17:"47.87873284667867";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"710";s:5:"score";s:18:"45.298431845413226";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"707";s:5:"score";s:17:"44.90128489093898";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"706";s:5:"score";s:17:"43.75894466675372";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:17:"43.11514460715675";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4546";s:5:"score";s:18:"42.717997652682506";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2774";s:5:"score";s:18:"42.717997652682506";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/number-1-excuse-for-failure-by-far/"
 ---
 <p>I consult with many business owners every week, doing their websites and guiding them in the right direction.  And by far the number one excuse for the people that fail is not doing anything. They don't blog.  They don't market.  I take all of that back, many actually do something, they tweak their sidebars, their colors, their graphics.  They do everything but actual business.  Marketing is the number one item that should be on your to do list.</p>

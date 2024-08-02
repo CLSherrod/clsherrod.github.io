@@ -1,16 +1,11 @@
 ---
-layout: post
 title: How To Screw Your Reputation Like BP
 date: 2010-06-04 09:53:07.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - branding
 meta:
@@ -47,12 +42,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/screw-reputation-bp/"
 ---
 <p>BP started ads addressing the 6 week old oil spill today.</p>

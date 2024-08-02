@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Complaining Customers Are The Best
 date: 2009-01-26 19:37:55.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -22,12 +17,6 @@ meta:
   _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
   _wp_rp_image: empty
   nectar_blog_post_view_count: '160'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/complaining-customers/"
 ---
 <p>Virgin has what some are calling the world's best passenger complaint letter floating around.  It's been emailed around the world.  Of course it is very embarrasing for Richard Branson and everyone at Virgin.  They are know for excellent service, but the passenger has some valid points with pictures.</p>

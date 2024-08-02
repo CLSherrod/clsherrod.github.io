@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Miley Cyrus is a marketing genius
 date: 2013-10-15 09:00:25.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 - music
@@ -52,12 +47,6 @@ meta:
   nectar_blog_post_view_count: '276'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957789'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:17:"72.69109188379468";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"6997";s:5:"score";s:18:"49.209805123747536";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"317";s:5:"score";s:18:"49.209805123747536";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"316";s:5:"score";s:18:"49.209805123747536";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"7846";s:5:"score";s:18:"47.840200706880275";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"46.50096140382479";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:2:"98";s:5:"score";s:17:"46.50096140382479";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"6806";s:5:"score";s:17:"45.67637153593715";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1179";s:5:"score";s:17:"45.67637153593715";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:17:"45.13135698695753";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"6880";s:5:"score";s:17:"45.13135698695753";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:17:"45.13135698695753";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/miley-cyrus-marketing-genius/"
 ---
 <p>[caption id="attachment_6886" align="alignright" width="300"]<img class="size-medium wp-image-6886" alt="Miley Cyrus" src="{{ site.baseurl }}/posts/2013/10/miley-cyrus-we-cant-stop-1-650-430-300x198.jpg" width="300" height="198" /> Miley Cyrus[/caption]</p>

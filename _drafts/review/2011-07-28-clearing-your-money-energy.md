@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Clearing your money energy
 date: 2011-07-28 01:13:28.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -20,12 +15,6 @@ meta:
   nectar_blog_post_view_count: '164'
   _wp_rp_related_posts_query_result_cache_expiration: '1525008116'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"988";s:5:"score";s:17:"61.71372122064562";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"288";s:5:"score";s:17:"61.71372122064562";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"2686";s:5:"score";s:17:"52.14987982518602";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"831";s:5:"score";s:17:"52.14987982518602";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"728";s:5:"score";s:17:"52.14987982518602";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2391";s:5:"score";s:18:"21.921265242741278";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1423";s:5:"score";s:18:"19.959606736723412";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"54";s:5:"score";s:17:"17.65424771683547";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1911";s:5:"score";s:18:"17.020603989068054";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:2:"49";s:5:"score";s:18:"17.020603989068054";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"184";s:5:"score";s:17:"16.84331750061355";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"383";s:5:"score";s:18:"15.118870479408587";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/clearing-your-money-energy/"
 ---
 <p>This week has been summer cleaning for me with money.</p>

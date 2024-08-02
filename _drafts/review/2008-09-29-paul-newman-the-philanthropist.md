@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Paul Newman the philanthropist
 date: 2008-09-29 06:45:24.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - philanthropy
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '161'
   _wp_rp_related_posts_query_result_cache_expiration: '1524958313'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"866";s:5:"score";s:15:"66.797600742713";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1213";s:5:"score";s:17:"65.13530203404278";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1145";s:5:"score";s:17:"59.27350720904712";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3535";s:5:"score";s:17:"50.01796717325042";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"991";s:5:"score";s:18:"47.840200706880275";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4783";s:5:"score";s:17:"22.13737320309356";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1000";s:5:"score";s:18:"18.493270491041677";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1941";s:5:"score";s:17:"17.83454852377893";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"6776";s:5:"score";s:18:"16.274985698252344";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4410";s:5:"score";s:18:"16.274985698252344";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2084";s:5:"score";s:18:"16.024659412319192";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"809";s:5:"score";s:18:"15.769715280221975";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/paul-newman-the-philanthropist/"
 ---
 <p><a href="http://www.amazon.com/Pursuit-Common-Good-Twenty-Five-Improving/dp/0767929977%3FSubscriptionId%3D1N9AHEAQ2F6SVD97BE02%26tag%3Dipecinterna-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0767929977"><img class="alignright" title="In Pursuit of the Common Good" src="{{ site.baseurl }}/posts/2008/09/51kjsIb7D7L._SL500_.jpg" alt="" width="194" height="300" /></a>I know Paul Newman thru his charity work mostly.  I've seen him some movies and I know he liked race car driving which is a bit loud for me.  His charity work was exceptional.</p>

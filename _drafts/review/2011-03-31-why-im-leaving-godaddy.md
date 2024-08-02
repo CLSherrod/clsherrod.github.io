@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Why I'm leaving GoDaddy
 date: 2011-03-31 04:48:51.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   dsq_thread_id: '372142199'
@@ -21,12 +16,6 @@ meta:
   nectar_blog_post_view_count: '174'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986686'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4423";s:5:"score";s:18:"58.826323593589315";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"421";s:5:"score";s:17:"14.15127657664965";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1244";s:5:"score";s:18:"13.959826168753855";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3563";s:5:"score";s:18:"13.349499694368033";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"843";s:5:"score";s:18:"12.573531807633964";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1193";s:5:"score";s:18:"12.127244705005547";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"226";s:5:"score";s:18:"11.782059702383707";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"377";s:5:"score";s:18:"11.762601591412048";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:18:"11.266591944678192";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1778";s:5:"score";s:18:"11.266591944678192";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"145";s:5:"score";s:18:"11.266591944678192";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4954";s:5:"score";s:18:"10.529866216886337";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/why-im-leaving-godaddy/"
 ---
 <p>I've been using Godaddy for I can't remember how many years. I know the founder Bob Parson does some extreme marketing with half naked women, but I don't watch Super Bowl ads and have never seen any of them so they didn't offend me.</p>

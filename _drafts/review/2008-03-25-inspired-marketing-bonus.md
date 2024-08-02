@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Inspired Marketing Bonus
 date: 2008-03-25 23:52:24.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '154'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957624'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1259";s:5:"score";s:17:"69.28429646434708";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"402";s:5:"score";s:17:"64.45570588668521";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"624";s:5:"score";s:17:"61.90814107704568";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"695";s:5:"score";s:18:"61.788276395452286";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"673";s:5:"score";s:17:"60.71341023513453";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"700";s:5:"score";s:17:"58.33576422891194";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"370";s:5:"score";s:18:"56.836833052990855";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"615";s:5:"score";s:17:"55.85231935401028";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"620";s:5:"score";s:18:"54.282149011239525";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"625";s:5:"score";s:17:"49.75768006936041";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"98";s:5:"score";s:17:"43.67718539291921";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1267";s:5:"score";s:17:"37.85947820088971";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/inspired-marketing-bonus/"
 ---
 <p>I forgot to mention that I have a bonus on the new book <em>Inspired Marketing</em>.</p>

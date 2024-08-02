@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Think Abundance Now
 date: 2007-01-21 06:24:33.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags:
 - abundance
 meta:
@@ -45,12 +40,6 @@ meta:
   _nectar_page_header_bg_alignment: top
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/think-abundance-now/"
 excerpt: This is a great video about seeing abundance in the world.
 ---

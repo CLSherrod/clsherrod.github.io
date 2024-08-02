@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Interview with former Virgin MD
 date: 2008-06-25 07:16:49.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - Virgin Group
 meta:
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '174'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957636'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:17:"83.15981417949212";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:17:"80.55364288926808";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"407";s:5:"score";s:17:"80.38332727247015";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"318";s:5:"score";s:17:"79.92692288037614";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"377";s:5:"score";s:17:"79.49966176789252";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"284";s:5:"score";s:17:"78.85586170828446";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"392";s:5:"score";s:17:"77.32189530152237";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"319";s:5:"score";s:17:"76.33257392784793";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:17:"76.03888072216944";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"327";s:5:"score";s:16:"74.9866849812318";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1417";s:5:"score";s:16:"73.8611142557993";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1309";s:5:"score";s:16:"73.8611142557993";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/interview-with-former-virgin-md/"
 ---
 <p><img class="alignright alignnone size-medium wp-image-56" style="float: right;" title="Richard Branson" src="{{ site.baseurl }}/posts/2008/06/richardbranson.jpg" alt="" />Leon sent me this tip.Â  Thank Leon.Â  Leon blogs about the managing directors for Richard Branson's Virgin group.Â  A great interview.Â  Enjoy.Â  Link at bottom.</p>

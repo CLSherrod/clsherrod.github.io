@@ -1,14 +1,9 @@
 ---
-layout: post
 title: I'm in Joe Vitale's new book
 date: 2008-11-18 01:25:21.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'no'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '150'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957604'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"356";s:5:"score";s:18:"63.914287413681954";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"277";s:5:"score";s:17:"61.64987540190631";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"624";s:5:"score";s:16:"61.2615633730188";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"370";s:5:"score";s:18:"56.536528505236205";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"383";s:5:"score";s:17:"51.59454724023521";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2282";s:5:"score";s:17:"46.33298439925766";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2271";s:5:"score";s:17:"46.33298439925766";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"428";s:5:"score";s:18:"24.358600156009494";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"846";s:5:"score";s:18:"23.577794453292107";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"7173";s:5:"score";s:17:"22.21248873773849";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"393";s:5:"score";s:18:"20.929369113942602";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4056";s:5:"score";s:18:"19.401171280900492";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/im-in-joe-vitales-new-book/"
 ---
 <p><a href="http://www.amazon.com/Expect-Miracles-Joe-Vitale/dp/1897404069/ref=sr_1_3?ie=UTF8&amp;s=books&amp;qid=1226944584&amp;sr=1-3" rel="nofollow"><img class="alignright" title="Expect Miracles" src="http://ecx.images-amazon.com/images/I/51IJYO1aRdL._SL500_AA240_.jpg" alt="" width="240" height="240" / rel="nofollow"/></a>I'm in a new book again.  Joe Vitale came out with a new book today called Expect Miracles. I have a story inside the book.</p>

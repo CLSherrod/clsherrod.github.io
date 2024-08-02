@@ -1,14 +1,9 @@
 ---
-layout: post
 title: The Pen is Mightier than the Sword
 date: 2007-01-21 05:59:50.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
@@ -41,12 +36,6 @@ meta:
   _nectar_link: ''
   _nectar_gallery_slider: 'off'
   _nectar_audio_mp3: ''
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/the-pen-is-mightier-than-the-sword/"
 excerpt: I was putting up for sale signs for a house I'm selling Thursday night because
   I was off Friday morning for a writing retreat weekend.  When I returned home my

@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Be Happy Hypnosis
 date: 2007-01-13 11:55:48.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
 - Spirituality
-- Whole Enchilada
+- Essays
 tags:
 - happy
 meta:
@@ -25,12 +20,6 @@ meta:
   _wp_rp_image: empty
   nectar_blog_post_view_count: '172'
   _edit_last: '1'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/be-happy-hypnosis/"
 excerpt: Fantastic video to hypnotize you to be happy.
 ---

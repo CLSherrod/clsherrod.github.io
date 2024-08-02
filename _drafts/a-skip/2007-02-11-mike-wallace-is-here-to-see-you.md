@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Mike Wallace is here to see you
 date: 2007-02-11 13:02:19.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '123'
   _wp_rp_related_posts_query_result_cache_expiration: '1525015827'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1753";s:5:"score";s:17:"32.06862587886568";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"280";s:5:"score";s:18:"22.715505514710564";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1436";s:5:"score";s:18:"17.731851329417484";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2381";s:5:"score";s:18:"15.942185120105876";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"17";s:5:"score";s:18:"15.913110751162789";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"152";s:5:"score";s:18:"15.885524107110408";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"598";s:5:"score";s:17:"15.53757093776954";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2116";s:5:"score";s:18:"14.891459503636394";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"241";s:5:"score";s:18:"13.968142189397552";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"655";s:5:"score";s:18:"13.129625329123256";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"3690";s:5:"score";s:18:"12.369808271972142";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1771";s:5:"score";s:18:"12.369808271972142";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/mike-wallace-is-here-to-see-you/"
 excerpt: |-
   I meet Jeff Crilley last year at a Toastmasters conference.  He is a fantastic speaker and I got his book because he gave me so much value.

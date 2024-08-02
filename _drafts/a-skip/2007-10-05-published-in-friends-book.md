@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Published in friend's book
 date: 2007-10-05 05:12:43.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - love
 meta:
@@ -42,12 +37,6 @@ meta:
   _wp_rp_image: '14775'
   _wp_rp_related_posts_query_result_cache_expiration: '1525284512'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"624";s:5:"score";s:17:"67.62790806967402";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1257";s:5:"score";s:18:"61.784546555701425";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"383";s:5:"score";s:18:"60.909957738833384";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"370";s:5:"score";s:17:"60.58530431060318";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"632";s:5:"score";s:18:"59.763626029114405";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"356";s:5:"score";s:18:"56.093067347983826";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2271";s:5:"score";s:17:"49.44244197975905";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:17:"48.32192345703795";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1436";s:5:"score";s:17:"48.32192345703795";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"809";s:5:"score";s:17:"48.32192345703795";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:17:"47.42152145317203";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1110";s:5:"score";s:16:"46.6105912369557";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/published-in-friends-book/"
 excerpt: "I was out of town with my love Nan and our friend Nat from England.  I wanted
   to show Nat one of my favorite bookstores.  I've been out of country and traveling

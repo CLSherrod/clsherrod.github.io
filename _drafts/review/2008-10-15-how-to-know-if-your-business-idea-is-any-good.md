@@ -1,15 +1,10 @@
 ---
-layout: post
 title: How To Know If Your Business Idea Is Any Good
 date: 2008-10-15 23:54:34.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_tweeted: '1'
@@ -42,12 +37,6 @@ meta:
   nectar_blog_post_view_count: '100'
   _wp_rp_related_posts_query_result_cache_expiration: '1525015820'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"105";s:5:"score";s:18:"29.014753913290768";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:17:"25.87038218131299";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"9312";s:5:"score";s:17:"24.61584004820508";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1179";s:5:"score";s:17:"24.50077776444573";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:18:"23.692615714942843";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"136";s:5:"score";s:18:"23.418213471848834";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"8477";s:5:"score";s:17:"19.77574289666313";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"8360";s:5:"score";s:17:"19.77574289666313";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:17:"19.77574289666313";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:17:"19.77574289666313";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"110";s:5:"score";s:17:"19.77574289666313";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:17:"19.77574289666313";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/how-to-know-if-your-business-idea-is-any-good/"
 ---
 <p>Have a customer already.  When a client asks for something we do it and then offer to everyone else.  Works great.</p>

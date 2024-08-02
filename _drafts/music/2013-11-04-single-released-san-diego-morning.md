@@ -1,16 +1,11 @@
 ---
-layout: post
 title: My First Song Is Released - San Diego Morning
 date: 2013-11-04 22:00:43.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - My Art
 - Personal
-- Whole Enchilada
+- Essays
 tags:
 - music
 meta:
@@ -71,12 +66,6 @@ meta:
   _nectar_page_header_bg_alignment: top
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/single-released-san-diego-morning/"
 ---
 <p>I've just released my first ever song.</p>

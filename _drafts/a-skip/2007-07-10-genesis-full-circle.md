@@ -1,14 +1,9 @@
 ---
-layout: post
 title: My Genesis comes full circle
 date: 2007-07-10 17:11:11.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - London
 - music concert
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '145'
   _wp_rp_related_posts_query_result_cache_expiration: '1525004130'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4417";s:5:"score";s:18:"102.63922798923608";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4419";s:5:"score";s:17:"98.74740769109192";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4418";s:5:"score";s:17:"90.87816201643469";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4416";s:5:"score";s:17:"90.87816201643469";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2297";s:5:"score";s:17:"41.84650277025482";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4405";s:5:"score";s:17:"41.70851702730047";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4415";s:5:"score";s:18:"41.235739471169225";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4413";s:5:"score";s:18:"41.235739471169225";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4411";s:5:"score";s:18:"41.235739471169225";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4410";s:5:"score";s:18:"41.235739471169225";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4437";s:5:"score";s:17:"33.97725709559757";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4412";s:5:"score";s:17:"33.97725709559757";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/genesis-full-circle/"
 ---
 <p><a href="http://www.flickr.com/photos/eaglechris/772580114/" title="Genesis"><img align="right" src="{{ site.baseurl }}/posts/2007/07/772580114_16913638e1_t.jpg" width="75" height="100" alt="IMG_0776" /></a>On my trip to London I had no idea that I would manifest seeing one of my all time favorite bands Genesis live in concert.  I started really enjoying music with Phil Collins Face Values album which lead to Genesis.  I have all there albums numbering 20+.  I have there EPs.  You name it I have it.  So being in London the same day they are is just fantastic.  Amazing.</p>

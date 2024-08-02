@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Results of What is the single most frustrating problem or fear in your business?
 date: 2008-11-24 22:35:27.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -42,12 +37,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884968'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"49.44778249752086";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1183";s:5:"score";s:17:"41.11505388918907";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"267";s:5:"score";s:17:"41.11505388918907";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"968";s:5:"score";s:18:"39.731558913609774";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1170";s:5:"score";s:17:"38.93176665093259";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"836";s:5:"score";s:17:"38.21449903391103";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1297";s:5:"score";s:17:"37.99529938134994";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1244";s:5:"score";s:15:"37.995000008565";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"626";s:5:"score";s:17:"37.83844411425276";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1264";s:5:"score";s:17:"37.17420137514577";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4500";s:5:"score";s:17:"35.99211689180025";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1923";s:5:"score";s:17:"35.83414006926929";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/results-of-what-is-the-single-most-frustrating-problem-or-fear-in-your-business/"
 ---
 <p>Here are the results of my survey "What is the single most frustrating problem or fear in your business?<img class="aligncenter size-full wp-image-1268" title="Survey Results" src="{{ site.baseurl }}/posts/2008/11/survey1.png" alt="" width="389" height="221" /></p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Working on the Internet while traveling
 date: 2008-01-04 12:33:32.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - travel
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '170'
   _wp_rp_related_posts_query_result_cache_expiration: '1524960712'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"746";s:5:"score";s:17:"50.42269947214385";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4414";s:5:"score";s:17:"41.84650277025482";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4419";s:5:"score";s:17:"40.68686577978246";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4407";s:5:"score";s:17:"40.68686577978246";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4404";s:5:"score";s:17:"40.68686577978246";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1766";s:5:"score";s:17:"40.68686577978246";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"860";s:5:"score";s:17:"40.68686577978246";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4410";s:5:"score";s:18:"38.543698547205324";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4437";s:5:"score";s:17:"33.97725709559757";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4418";s:5:"score";s:17:"33.97725709559757";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4417";s:5:"score";s:17:"33.97725709559757";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4416";s:5:"score";s:17:"33.97725709559757";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/working-on-the-internet-while-traveling/"
 ---
 <p>I'm traveling and we just moved into another condo for a month.  At first the Internet looked fine then I started to have some issues.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: The Go-Getter
 date: 2009-05-05 07:22:27.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '168'
   _wp_rp_related_posts_query_result_cache_expiration: '1524960446'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"2294";s:5:"score";s:17:"51.03302069171502";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"2270";s:5:"score";s:17:"51.03302069171502";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"82";s:5:"score";s:17:"51.03302069171502";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"596";s:5:"score";s:17:"49.66341627484776";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"106";s:5:"score";s:17:"15.33774660646593";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"6757";s:5:"score";s:18:"13.968188744636794";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4196";s:5:"score";s:18:"13.968188744636794";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1297";s:5:"score";s:18:"13.968188744636794";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1257";s:5:"score";s:18:"13.968188744636794";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"846";s:5:"score";s:18:"12.598584327769533";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2363";s:5:"score";s:17:"8.546493933262877";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2361";s:5:"score";s:17:"8.546493933262877";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/the-go-getter/"
 ---
 <p>"The Go-Getter" is a great inspiring story of what it takes to be a go-getter.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: '08 08 08 - A Day of Prosperity | Heart Book Series'
 date: 2008-08-08 22:00:20.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -26,12 +21,6 @@ meta:
   nectar_blog_post_view_count: '139'
   _wp_rp_related_posts_query_result_cache_expiration: '1524956922'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"382";s:5:"score";s:17:"49.72369701772443";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"2330";s:5:"score";s:16:"40.0371177294927";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"290";s:5:"score";s:16:"40.0371177294927";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1483";s:5:"score";s:17:"39.76762586461896";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1160";s:5:"score";s:17:"36.46474088135896";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"414";s:5:"score";s:17:"36.46474088135896";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1198";s:5:"score";s:17:"35.35916123568479";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1000";s:5:"score";s:17:"35.35916123568479";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2099";s:5:"score";s:17:"35.20118441301121";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"647";s:5:"score";s:17:"35.20118441301121";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"311";s:5:"score";s:17:"35.20118441301121";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4430";s:5:"score";s:17:"34.36509663221077";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/08-08-08-a-day-of-prosperity-heart-book-series/"
 ---
 <p><img class="alignright" src="{{ site.baseurl }}/posts/2008/08/8s.jpg" alt="" width="328" height="218" /></p>

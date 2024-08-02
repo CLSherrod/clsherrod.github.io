@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Shut Up and Write - My Experience With Other Writers
 date: 2015-06-27 15:56:47.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - book
 meta:
@@ -66,12 +61,6 @@ meta:
   _wpb_vc_js_status: 'false'
   _wp_rp_related_posts_query_result_cache_expiration: '1525364049'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:17:"38.41412044034065";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"7893";s:5:"score";s:17:"31.07591678776383";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:18:"27.441762232908204";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"7851";s:5:"score";s:18:"27.441762232908204";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"7846";s:5:"score";s:18:"25.808821440166305";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:18:"24.787170192617747";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7786";s:5:"score";s:18:"24.509088095321346";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1650";s:5:"score";s:18:"22.870024507426333";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"725";s:5:"score";s:18:"22.783463491151394";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:5:"14801";s:5:"score";s:18:"22.300783157675887";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:18:"22.300783157675887";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"7824";s:5:"score";s:18:"22.300783157675887";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/shut-up-and-write/"
 ---
 <p>So while I'm in San Francisco for a month on business and my daughter moved here to go to college I decided to go to the <a href="http://www.meetup.com/shutupandwriteSFO/" target="_blank" rel="noopener">San Francisco chapter of Shut Up and Write</a>. It's a bunch of writers (mostly fiction in this group) that get together at a local cafe and write. There were six other writers today.</p>

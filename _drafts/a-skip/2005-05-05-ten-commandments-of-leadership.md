@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ten Commandments of Leadership
 date: 2005-05-05 11:39:01.000000000 -05:00
 type: post
@@ -10,7 +9,7 @@ status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - leadership
 meta:
@@ -36,12 +35,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: ‘1524884696’
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“4593”;s:5:“score”;s:17:“79.82923635953348”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1597”;s:5:“score”;s:18:“53.195435907720835”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1110”;s:5:“score”;s:18:“53.195435907720835”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“603”;s:5:“score”;s:18:“49.642451913557075”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“8192”;s:5:“score”;s:17:“29.79439177335933”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“6806”;s:5:“score”;s:18:“27.753239193670595”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“6880”;s:5:“score”;s:18:“26.900553807467098”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“61”;s:5:“score”;s:17:“24.61954734675172”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“6929”;s:5:“score”;s:18:“23.828084790578355”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“438”;s:5:“score”;s:18:“23.702485711934443”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“98”;s:5:“score”;s:18:“22.422322769390327”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“2282”;s:5:“score”;s:17:“21.68687320913969”;}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: /ten-commandments-of-leadership/
 ---
 <p>Ten Commandments of Leadership<br />

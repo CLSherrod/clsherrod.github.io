@@ -1,16 +1,11 @@
 ---
-layout: post
 title: I love Paris
 date: 2007-08-15 08:00:09.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Personal
 - Travel
-- Whole Enchilada
+- Essays
 tags:
 - travel
 meta:
@@ -41,12 +36,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/love-paris/"
 ---
 <p><a title="Photo Sharing" href="http://www.flickr.com/photos/eaglechris/1113306233/"><img src="{{ site.baseurl }}/posts/2007/08/1113306233_a14f528f77_m.jpg" alt="IMG_2697" width="180" height="240" align="right" /></a>I've enjoyed visiting Paris.  It is truly lovely here.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Richard Branson to Help Build Elephant Corridor
 date: 2007-06-13 04:06:41.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '156'
   _wp_rp_related_posts_query_result_cache_expiration: '1524988062'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"321";s:5:"score";s:17:"92.22532247749339";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"349";s:5:"score";s:17:"86.86160273992465";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"409";s:5:"score";s:16:"59.9817760665445";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"227";s:5:"score";s:17:"56.36285797389239";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"365";s:5:"score";s:18:"55.479192469314754";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2296";s:5:"score";s:17:"51.89485178798986";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"327";s:5:"score";s:17:"48.70303420738246";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"261";s:5:"score";s:17:"48.70303420738246";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1417";s:5:"score";s:16:"48.2207100937431";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:16:"48.2207100937431";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"380";s:5:"score";s:16:"48.2207100937431";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"359";s:5:"score";s:16:"48.2207100937431";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/richard-branson-to-help-build-elephant-corridor/"
 excerpt: |
   This is the type of charity work that I find inspiring.  Give where you do business.

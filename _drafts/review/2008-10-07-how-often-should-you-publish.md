@@ -1,14 +1,9 @@
 ---
-layout: post
 title: How often should you publish?
 date: 2008-10-07 03:32:49.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -44,12 +39,6 @@ meta:
   _wpb_vc_js_status: 'false'
   _wp_rp_related_posts_query_result_cache_expiration: '1525377752'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"60.02479576821014";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:17:"53.42851413983565";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:18:"50.791306937085324";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:17:"45.60245658602912";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"7097";s:5:"score";s:18:"45.425669491756395";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1183";s:5:"score";s:17:"44.27140106503673";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"267";s:5:"score";s:17:"44.27140106503673";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"381";s:5:"score";s:18:"43.644991254751915";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1195";s:5:"score";s:17:"42.91462729626032";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1261";s:5:"score";s:18:"42.079156894827165";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1923";s:5:"score";s:17:"41.54977178633705";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4500";s:5:"score";s:17:"41.41488922474598";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/how-often-should-you-publish/"
 ---
 <p>The successful Internet Marketers or businesses have a whole product line.  When they come out with a new product or service they market it like crazy and they get new clients.  Old clients will even get it.  But the real money is the back catalog, the older products.  Don't come out with a new product or service if it isn't good.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Getting started in Internet Marketing
 date: 2008-09-10 00:51:18.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -42,12 +37,6 @@ meta:
   nectar_blog_post_view_count: '158'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987346'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:16:"40.6690305993499";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"40.37438116983339";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:17:"40.37438116983339";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1267";s:5:"score";s:18:"39.760909020809024";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:17:"39.00477675296613";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1778";s:5:"score";s:18:"36.564071986068534";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1183";s:5:"score";s:17:"36.45878451902786";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1185";s:5:"score";s:18:"36.408148903165426";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2105";s:5:"score";s:17:"35.80793971822564";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1811";s:5:"score";s:18:"35.665021790266934";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"267";s:5:"score";s:18:"35.665021790266934";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1209";s:5:"score";s:18:"35.534761613156505";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/getting-started-in-internet-marketing/"
 ---
 <p><img src="{{ site.baseurl }}/posts/2008/09/search_internet_marketing.jpg" alt="" width="175" align="right" /></p>

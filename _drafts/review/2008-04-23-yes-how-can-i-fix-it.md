@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Yes, how can I fix it?
 date: 2008-04-23 21:00:02.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -23,12 +18,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884620'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"863";s:5:"score";s:14:"86.51620181264";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"657";s:5:"score";s:17:"82.62739334393322";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"705";s:5:"score";s:17:"61.42099623454015";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3835";s:5:"score";s:17:"26.81825459980111";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:18:"24.960005220484238";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"267";s:5:"score";s:18:"24.884552818710016";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1411";s:5:"score";s:18:"23.884051994549026";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1436";s:5:"score";s:17:"22.79226054811276";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:18:"22.498517018140685";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1183";s:5:"score";s:18:"21.314971218997986";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"7893";s:5:"score";s:18:"21.300722488617723";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:18:"21.214049861064765";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/yes-how-can-i-fix-it/"
 ---
 <p>I've blogged before how I find most businesses on the Internet have horrible customer service or none.  I had one person when I asked that I haven't gotten a response in two weeks via email and they have no published phone number when I met him he just said "I'm busy".  Have your heard of an assistant?  Do you think I'm going to buy anything you come out with again?  Or go to one of your seminars?  Are you kidding me?</p>

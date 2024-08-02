@@ -1,15 +1,10 @@
 ---
-layout: post
 title: Algae are fuelling Branson's maiden flight
 date: 2008-02-25 04:00:11.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Philanthropy
-- Whole Enchilada
+- Essays
 tags:
 - clean technologies
 meta:
@@ -44,12 +39,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/algae-are-fuelling-bransons-maiden-flight/"
 ---
 <p>Richard Branson's new biofuel plane apparently has algae in part of the secret biofuel recipe.Â&nbsp; It will fly today.</p>

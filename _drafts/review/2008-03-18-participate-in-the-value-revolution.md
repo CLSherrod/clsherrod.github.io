@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Participate in the Value Revolution
 date: 2008-03-18 21:00:15.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _nectar_love: '0'
@@ -20,12 +15,6 @@ meta:
   nectar_blog_post_view_count: '141'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987849'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"866";s:5:"score";s:17:"24.64482045356098";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"840";s:5:"score";s:18:"19.329822151343585";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:17:"19.31036404035517";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1195";s:5:"score";s:18:"18.499433824122082";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"863";s:5:"score";s:18:"18.499433824122082";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"674";s:5:"score";s:18:"18.499433824122082";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"222";s:5:"score";s:18:"17.742924048365257";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"355";s:5:"score";s:16:"17.6807381703383";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1821";s:5:"score";s:17:"17.13259757398502";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:17:"17.13259757398502";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:18:"16.686310471364983";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1203";s:5:"score";s:18:"14.140971799601532";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/participate-in-the-value-revolution/"
 ---
 <p><a href="https://christopher-sherrod.blisslifepress.com/wp-content/uploads/sites/2/revolution-fist.jpg" rel="nofollow"><img style="border-right: 0px; border-top: 0px; border-left: 0px; border-bottom: 0px" height="244" alt="revolution_fist" src="https://christopher-sherrod.blisslifepress.com/wp-content/uploads/sites/2/revolution-fist-thumb.jpg" width="164" align="right" border="0" / rel="nofollow"/></a> Back in the heyday of car manufacturers there were literally thousands of car manufacturers throughout the USA.&#160; Every town practically had someone making cars.&#160; Then Ford started producing cars cheaper and with great quality.&#160; The small time manufacturers went out of business very quickly.&#160; Now there is very few car manufacturers and some of them are on the verge of going out of business.</p>

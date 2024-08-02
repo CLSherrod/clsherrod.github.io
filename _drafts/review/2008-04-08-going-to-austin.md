@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Going to Austin
 date: 2008-04-08 22:10:11.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -40,12 +35,6 @@ meta:
   _nectar_header_font_color: ''
   _nectar_quote_author: ''
   _nectar_audio_ogg: ''
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/going-to-austin/"
 ---
 <p><img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/04/2394966558_6789f8bd8d_m.jpg" alt="" width="240" height="180" />I'm in Virginia Beach and flying back home this afternoon.  I'm writing up a post of what I learned here.  In the meantime, here is a photo of a surfer in front of the 6 bedroom mansion we did a home exchange with for a week.</p>

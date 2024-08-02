@@ -1,16 +1,11 @@
 ---
-layout: post
 title: What would Paul and Linda do?
 date: 2008-08-07 22:00:10.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags:
 - love
 meta:
@@ -44,12 +39,6 @@ meta:
   nectar_blog_post_view_count: '201'
   _wp_rp_related_posts_query_result_cache_expiration: '1524960666'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"274";s:5:"score";s:18:"55.323770028793824";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1038";s:5:"score";s:17:"54.77167251247973";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"843";s:5:"score";s:17:"54.77167251247973";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"289";s:5:"score";s:17:"53.64711164794863";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1436";s:5:"score";s:16:"52.7731518653332";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:17:"51.91147859585353";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:18:"48.206710413725446";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"277";s:5:"score";s:18:"48.206710413725446";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1030";s:5:"score";s:17:"47.48944279689966";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2017";s:5:"score";s:18:"42.923001345291915";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1597";s:5:"score";s:18:"42.923001345291915";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1110";s:5:"score";s:18:"42.923001345291915";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/what-would-paul-and-linda-do/"
 ---
 <p><img class="alignright size-medium wp-image-811" title="Paul and Linda McCartney" src="{{ site.baseurl }}/posts/2008/08/maccartneypandl98.jpg" alt="" width="221" height="214" />Yesterday I was listening to <a href="http://www.paulmccartney.com/" rel="nofollow">Paul McCartney</a>.  I'm in an home exchange here in Paris France and they have a bunch of Paul's albums.  So I'm listening to them and enjoying them.  He writes and sings about love and it fit in very well with our stay here in Paris.</p>

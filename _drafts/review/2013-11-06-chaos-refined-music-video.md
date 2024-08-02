@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Chaos Refined | Music Video
 date: 2013-11-06 09:00:42.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - My Art
 - Personal
-- Whole Enchilada
+- Essays
 tags:
 - music
 - music video
@@ -45,12 +40,6 @@ meta:
   nectar_blog_post_view_count: '197'
   _wp_rp_related_posts_query_result_cache_expiration: '1525284757'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:5:"14768";s:5:"score";s:17:"99.86862357533185";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:5:"14751";s:5:"score";s:17:"92.36823181915994";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:5:"14765";s:5:"score";s:17:"24.86985654862332";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:5:"14762";s:5:"score";s:17:"24.86985654862332";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"6997";s:5:"score";s:17:"15.69739690091343";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4429";s:5:"score";s:17:"15.69739690091343";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"325";s:5:"score";s:17:"15.69739690091343";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1347";s:5:"score";s:18:"11.953792547060456";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"256";s:5:"score";s:18:"11.953792547060456";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:2:"92";s:5:"score";s:18:"11.953792547060456";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2363";s:5:"score";s:18:"10.394229722077748";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"381";s:5:"score";s:18:"10.394229722077748";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/chaos-refined-music-video/"
 ---
 <p>My music video for my song Chaos Refined.</p>

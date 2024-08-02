@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Creative entrepreneurs can survive the crisis
 date: 2008-10-30 02:31:48.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -24,12 +19,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884916'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"326";s:5:"score";s:17:"54.92723551179426";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"706";s:5:"score";s:18:"53.614293818595854";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1229";s:5:"score";s:17:"49.51873329918897";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"710";s:5:"score";s:18:"45.935214360285315";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1363";s:5:"score";s:17:"44.87749784739706";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1513";s:5:"score";s:17:"41.52954497991805";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1321";s:5:"score";s:17:"41.52954497991805";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1192";s:5:"score";s:17:"41.52954497991805";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1027";s:5:"score";s:17:"41.52954497991805";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:17:"41.52954497991805";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"664";s:5:"score";s:17:"41.52954497991805";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:18:"39.346257741661574";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/creative-entrepreneurs-can-survive-the-crisis/"
 ---
 <p>Big companies that are not creative will hurt and many go out of business.  Nimble small companies that are creative will florish.  Be creative.  Now is the time for using your brain first and then money second.  Brains always wins.</p>

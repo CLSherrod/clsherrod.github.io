@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Learn How To Live For Free On Vacation Bonus
 date: 2007-08-30 22:44:38.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '145'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987607'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4411";s:5:"score";s:18:"45.944430512273186";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"620";s:5:"score";s:18:"30.893052549050267";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"257";s:5:"score";s:18:"29.800645623687387";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1941";s:5:"score";s:17:"26.42785183079131";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"626";s:5:"score";s:18:"23.757119498102735";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"274";s:5:"score";s:17:"20.43922403204892";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"596";s:5:"score";s:17:"19.66712998753562";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1414";s:5:"score";s:18:"19.091765842637646";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"341";s:5:"score";s:18:"17.344350824187913";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2335";s:5:"score";s:17:"15.82082843932909";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4415";s:5:"score";s:18:"15.631045893450574";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4413";s:5:"score";s:18:"14.881658994595687";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/live-for-free/"
 ---
 <p><img src="{{ site.baseurl }}/posts/2007/08/995088949_c38b3faf65_m.thumbnail.jpg" alt="Eiffel Tower" align="right" />Learn how Chris and Nancy lived in London and Paris for absolutely free.  How they manifested a beautiful apartment with a view of the Eiffel Tower in less than one month and how you can to.</p>

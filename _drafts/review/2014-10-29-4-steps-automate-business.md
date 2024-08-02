@@ -1,16 +1,11 @@
 ---
-layout: post
 title: 4 Steps to Automate Your Business
 date: 2014-10-29 14:12:35.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - System Mastery
-- Whole Enchilada
+- Essays
 tags:
 - Business Automation
 meta:
@@ -68,12 +63,6 @@ meta:
   _wpb_vc_js_status: 'false'
   _wp_rp_related_posts_query_result_cache_expiration: '1525363743'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"7215";s:5:"score";s:18:"105.58933038456266";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:17:"72.60774017649675";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:17:"62.85475719280997";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3233";s:5:"score";s:17:"53.36574742877292";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8369";s:5:"score";s:17:"44.46458332865949";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"3540";s:5:"score";s:18:"35.085827789515996";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:18:"30.340467227513194";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"7173";s:5:"score";s:17:"27.90347469023007";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"7824";s:5:"score";s:18:"27.857040962796184";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"7097";s:5:"score";s:18:"26.179027668958774";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8206";s:5:"score";s:18:"25.313059279070238";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"6939";s:5:"score";s:17:"25.14629606122805";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/4-steps-automate-business/"
 ---
 <p>While starting a business can be a lot of fun, getting that business to grow can be less exciting. Many entrepreneurs tend to lose enthusiasm after the launch phase, and develop that itch to move on to the next thing. I developed a four-step business that makes it easy to grow businesses and leaves you with plenty of time to dream up your next project. Learn how to take the pain points out of your growth phase with these easy steps.</p>

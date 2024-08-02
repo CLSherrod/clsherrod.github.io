@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Inspired Action vs. Workaholicism Bonus
 date: 2008-03-24 08:17:47.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '145'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987545'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"626";s:5:"score";s:18:"54.282149011239525";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"264";s:5:"score";s:18:"30.893052549050267";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"724";s:5:"score";s:17:"18.12625043896869";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"396";s:5:"score";s:18:"18.066544512719606";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1801";s:5:"score";s:18:"18.042786865637535";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"783";s:5:"score";s:18:"18.042786865637535";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2365";s:5:"score";s:18:"17.919714969030025";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"206";s:5:"score";s:17:"16.67465574240508";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"197";s:5:"score";s:18:"16.547063188887286";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2017";s:5:"score";s:18:"16.239053438367243";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"20";s:5:"score";s:18:"15.865020399267385";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"3229";s:5:"score";s:18:"15.687937869515627";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/inspired-action-vs-workaholicism-bonus/"
 ---
 <p><img src="{{ site.baseurl }}/posts/2008/03/j0422325.jpg" alt="Stress" width="150" align="right" />Are you doing inspired action or are you just working to pay for everything?  Are you a work-a-holic? Do you think you have to work all the time? I use to. It didn't work for me. I didn't have time to enjoy life. I didn't have time to think. I didn't have time to let inspiration come to me. I failed. Repeatly. And it wasn't fun. I now focus on what I want to get done and not all of it is business. I am more successful now.</p>

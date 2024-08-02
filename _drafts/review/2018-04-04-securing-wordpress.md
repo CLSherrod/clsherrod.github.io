@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Securing WordPress 2018
 date: 2018-04-04 10:26:46.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - System Mastery
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
@@ -38,12 +33,6 @@ meta:
   _wpas_done_all: '1'
   nectar_blog_post_view_count: '334'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/securing-wordpress/"
 ---
 <p>This morning one of my other Wordpress installations emailed me saying some IP address from China was trying to login as user admin. They got locked out because I have limit login lockout to lock people out after so many unsuccessful. I use Wordfence Security plugin (<a href="https://wordpress.org/plugins/wordfence/">https://wordpress.org/plugins/wordfence/</a>). I did double check all it's recommendations to make sure I did everything.</p>

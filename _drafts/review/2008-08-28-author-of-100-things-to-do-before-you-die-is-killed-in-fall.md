@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Author of '100 Things to Do Before You Die' is killed in fall
 date: 2008-08-28 23:16:52.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -24,12 +19,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884567'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"6726";s:5:"score";s:18:"28.792062137265123";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"214";s:5:"score";s:17:"23.25825248031707";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"746";s:5:"score";s:17:"22.07382893502587";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"681";s:5:"score";s:17:"21.79226630203005";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8352";s:5:"score";s:14:"21.39366423738";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1766";s:5:"score";s:17:"21.12435046683014";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"143";s:5:"score";s:18:"18.222684702318016";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"26";s:5:"score";s:18:"17.047111372502588";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"157";s:5:"score";s:18:"16.551439044665454";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2082";s:5:"score";s:18:"16.213129906387646";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"860";s:5:"score";s:18:"16.213129906387646";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"241";s:5:"score";s:18:"15.789894053545956";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/author-of-100-things-to-do-before-you-die-is-killed-in-fall/"
 ---
 <p><img class="alignright" src="{{ site.baseurl }}/posts/2008/08/article-1049432-026c84f900000578-142_233x382.jpg" alt="" width="233" height="382" /></p>

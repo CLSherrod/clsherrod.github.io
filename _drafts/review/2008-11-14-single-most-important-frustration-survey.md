@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Single most important frustration survey
 date: 2008-11-14 03:28:02.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'no'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '154'
   _wp_rp_related_posts_query_result_cache_expiration: '1525015839'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"2395";s:5:"score";s:17:"71.33627681244963";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1275";s:5:"score";s:17:"70.97163369883937";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1923";s:5:"score";s:17:"49.66341627484776";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1815";s:5:"score";s:17:"49.66341627484776";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2365";s:5:"score";s:18:"11.765369758131078";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1142";s:5:"score";s:18:"11.765369758131078";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"620";s:5:"score";s:18:"11.765369758131078";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"328";s:5:"score";s:18:"11.319082655502658";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"313";s:5:"score";s:18:"11.319082655502658";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2150";s:5:"score";s:18:"10.395765341263816";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"326";s:5:"score";s:18:"10.395765341263816";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1819";s:5:"score";s:18:"10.379075397011187";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/single-most-important-frustration-survey/"
 ---
 <div>I've created a one question survey for you.  It'll take you less than a minute to complete.</div>

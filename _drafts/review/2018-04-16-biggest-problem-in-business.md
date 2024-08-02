@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Biggest Problem in Business
 date: 2018-04-16 09:00:04.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - business
 - marketing
@@ -41,12 +36,6 @@ meta:
   _wpas_done_all: '1'
   nectar_blog_post_view_count: '267'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/biggest-problem-in-business/"
 ---
 <p>I get so frustrated when I see entrepreneurs struggling in business. It's almost always because they don't have enough business. And after a short talk it's almost always that they don't have nearly enough qualified leads.</p>

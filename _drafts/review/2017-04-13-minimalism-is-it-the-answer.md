@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Minimalism is it the answer?
 date: 2017-04-13 10:00:12.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _nectar_love: '0'
@@ -42,12 +37,6 @@ meta:
   _force_transparent_header_color: light
   _wp_rp_related_posts_query_result_cache_expiration: '1525363991'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"8367";s:5:"score";s:17:"60.35862558110928";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8368";s:5:"score";s:18:"36.094701160808036";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:18:"36.094701160808036";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"809";s:5:"score";s:18:"34.286522796804405";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:18:"33.378428832034984";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8369";s:5:"score";s:18:"28.816976233729903";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:17:"22.98143476950333";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:17:"22.98143476950333";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"7888";s:5:"score";s:18:"21.439217325502028";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"869";s:5:"score";s:18:"21.376270298230338";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"241";s:5:"score";s:18:"19.172127692619597";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"9324";s:5:"score";s:18:"19.061013350729677";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/minimalism-is-it-the-answer/"
 ---
 <p><a href="https://www.netflix.com/title/80114460"><img class="alignright size-medium wp-image-8353" src="{{ site.baseurl }}/posts/2017/04/minimalism-300x200.jpg" alt="Minimalism: A Documentary About The Important Things" width="300" height="200" /></a>I watched the documentary <a href="https://www.netflix.com/title/80114460">Minimalism on Netflix</a> and was struck that I essentially did that by going on around the world trip slowly that began in October 2016.</p>

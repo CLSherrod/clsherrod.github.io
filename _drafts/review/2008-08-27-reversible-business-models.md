@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Reversible business models
 date: 2008-08-27 22:06:15.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - philanthropy
 meta:
@@ -26,12 +21,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884680'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1099";s:5:"score";s:17:"66.77377140766376";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1213";s:5:"score";s:18:"55.547701028717206";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"3535";s:5:"score";s:17:"50.00252358381806";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1145";s:5:"score";s:17:"50.00252358381806";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"991";s:5:"score";s:18:"47.819236345561585";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"601";s:5:"score";s:17:"24.63496736118939";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"407";s:5:"score";s:18:"18.782362492151275";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"840";s:5:"score";s:18:"15.534145655996412";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8360";s:5:"score";s:18:"15.077594310042716";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:2:"27";s:5:"score";s:18:"15.077594310042716";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"123";s:5:"score";s:18:"14.547664218138388";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1000";s:5:"score";s:18:"13.687626853140392";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/reversible-business-models/"
 ---
 <p>I just finished reading this excellent post.Â  Here is a quote.</p>

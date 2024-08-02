@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Faking Law of Attraction
 date: 2008-03-17 02:31:37.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -20,12 +15,6 @@ meta:
   _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
   _wp_rp_image: empty
   nectar_blog_post_view_count: '147'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/faking-law-of-attraction/"
 ---
 <p>James here make a good point about faking it to you make it.</p>

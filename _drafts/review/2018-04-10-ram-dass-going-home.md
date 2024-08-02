@@ -1,17 +1,12 @@
 ---
-layout: post
 title: 'Ram Dass: Going Home'
 date: 2018-04-10 08:23:18.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Personal
 - Spirituality
-- Whole Enchilada
+- Essays
 tags:
 - spirituality
 meta:
@@ -39,12 +34,6 @@ meta:
   nectar_blog_post_view_count: '356'
   _nectar_love: '0'
   _wpas_done_all: '1'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/ram-dass-going-home/"
 ---
 <p><a href="https://www.netflix.com/watch/80209895" target="_blank" rel="noopener"><img class="alignright wp-image-14949 size-medium" src="{{ site.baseurl }}/posts/2018/04/Ram-Dass-200x300.jpg" alt="Ram Dass: Going Home" width="200" height="300" /></a>"We are soul. As souls, we are not under time or space. We are infinite."</p>

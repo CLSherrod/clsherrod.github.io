@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ten Secrets to Success
 date: 2004-12-04 01:40:08.000000000 -06:00
 type: post
@@ -10,7 +9,7 @@ status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _sexybookmarks_shortUrl: http://b2l.me/4ygqa
@@ -35,12 +34,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: ‘1524884640’
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“271”;s:5:“score”;s:17:“64.20558844045485”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“350”;s:5:“score”;s:17:“51.63103569062065”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1041”;s:5:“score”;s:18:“50.278999093567954”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“7173”;s:5:“score”;s:18:“45.947872502736416”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“2784”;s:5:“score”;s:17:“43.76458526447994”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1034”;s:5:“score”;s:17:“43.76458526447994”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“688”;s:5:“score”;s:17:“43.76458526447994”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“324”;s:5:“score”;s:17:“43.76458526447994”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“5870”;s:5:“score”;s:16:“28.3920312105857”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“713”;s:5:“score”;s:18:“27.928427982454266”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“809”;s:5:“score”;s:17:“24.61608113876684”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1267”;s:5:“score”;s:17:“22.63829602518938”;}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: ”/ten-secrets-to-success/"
 ---
 <p><a href="http://www.richdad.com/pages/toptips_december.asp" rel="nofollow">Ten Secrets to Success</a></p>

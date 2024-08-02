@@ -1,14 +1,9 @@
 ---
-layout: post
 title: SXSW panel Everyone Needs to Brand Themselves Online
 date: 2010-08-14 00:11:35.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'no'
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '167'
   _wp_rp_related_posts_query_result_cache_expiration: '1524959565'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1526";s:5:"score";s:17:"59.42936429823446";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1636";s:5:"score";s:17:"58.61843408201255";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"2436";s:5:"score";s:18:"56.044167075384834";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3096";s:5:"score";s:17:"54.67456265851757";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2779";s:5:"score";s:18:"51.817573227026095";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4206";s:5:"score";s:17:"49.56121576184748";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"3254";s:5:"score";s:17:"49.56121576184748";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"3251";s:5:"score";s:17:"49.56121576184748";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3234";s:5:"score";s:17:"49.56121576184748";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1265";s:5:"score";s:17:"49.56121576184748";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1773";s:5:"score";s:18:"47.668298325433064";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1650";s:5:"score";s:18:"47.668298325433064";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/sxsw-panel-everyone-needs-to-brand-themselves-online/"
 ---
 <p>I have a SXSW panel titled Everyone Needs to Brand Themselves Online available to be voted on right now.</p>

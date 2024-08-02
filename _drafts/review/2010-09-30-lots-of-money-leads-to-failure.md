@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Lot's of money leads to failure
 date: 2010-09-30 22:03:23.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '135'
   _wp_rp_related_posts_query_result_cache_expiration: '1525008867'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"2297";s:5:"score";s:17:"30.25262263052999";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1403";s:5:"score";s:17:"23.17937907440146";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1193";s:5:"score";s:18:"23.077380461585033";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2271";s:5:"score";s:17:"22.89592275476361";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"309";s:5:"score";s:18:"20.049706086256048";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1783";s:5:"score";s:17:"19.72404066539668";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"179";s:5:"score";s:17:"19.35581430935862";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"369";s:5:"score";s:17:"19.25823398100579";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1195";s:5:"score";s:17:"18.31828819328558";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"279";s:5:"score";s:17:"16.74073091185521";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"7786";s:5:"score";s:18:"16.699173128454518";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1811";s:5:"score";s:18:"16.643150583474448";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/lots-of-money-leads-to-failure/"
 ---
 <p>Most of my clients that have quite a bit of money to invest in their online business lose it all before they come to me.</p>

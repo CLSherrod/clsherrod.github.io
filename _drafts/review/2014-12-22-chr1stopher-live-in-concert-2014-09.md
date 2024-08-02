@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Chr1stopher Live In Concert 2014-09
 date: 2014-12-22 09:00:35.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - My Art
 - Personal
-- Whole Enchilada
+- Essays
 tags:
 - music concert
 meta:
@@ -44,12 +39,6 @@ meta:
   nectar_blog_post_view_count: '253'
   _wp_rp_related_posts_query_result_cache_expiration: '1525284791'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:5:"14762";s:5:"score";s:17:"90.11205560560762";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4414";s:5:"score";s:16:"65.2421990569843";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:5:"14771";s:5:"score";s:17:"24.86985654862332";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:5:"14768";s:5:"score";s:17:"24.86985654862332";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:5:"14751";s:5:"score";s:17:"24.86985654862332";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:18:"10.394229722077748";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"9312";s:5:"score";s:17:"4.787508960165093";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"8367";s:5:"score";s:17:"4.787508960165093";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"7893";s:5:"score";s:17:"4.787508960165093";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"6726";s:5:"score";s:17:"4.787508960165093";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"6545";s:5:"score";s:17:"4.787508960165093";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4765";s:5:"score";s:17:"4.787508960165093";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/chr1stopher-live-in-concert-2014-09/"
 ---
 <p>My first concert.</p>

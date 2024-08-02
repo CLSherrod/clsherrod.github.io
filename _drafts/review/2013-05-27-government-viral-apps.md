@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Government viral apps
 date: 2013-05-27 04:45:56.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _wpas_done_all: '1'
@@ -19,12 +14,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884626'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1305";s:5:"score";s:17:"19.69752471095892";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"740";s:5:"score";s:18:"15.805704412764376";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"337";s:5:"score";s:18:"12.333703141382815";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:18:"11.772276335226124";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2296";s:5:"score";s:18:"11.758338996482049";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"592";s:5:"score";s:18:"11.758338996482049";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:2:"82";s:5:"score";s:18:"11.758338996482049";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2911";s:5:"score";s:18:"10.961346119006999";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1229";s:5:"score";s:18:"10.947408780254532";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"744";s:5:"score";s:18:"10.947408780254532";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"431";s:5:"score";s:17:"10.37204463536216";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"425";s:5:"score";s:17:"10.37204463536216";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/government-viral-apps/"
 ---
 <p>Code for America<br />

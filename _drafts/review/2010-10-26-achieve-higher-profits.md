@@ -1,14 +1,9 @@
 ---
-layout: post
 title: How To Achieve Higher Profits
 date: 2010-10-26 22:00:00.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '156'
   _wp_rp_related_posts_query_result_cache_expiration: '1525000814'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3234";s:5:"score";s:17:"73.61133878146752";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4206";s:5:"score";s:18:"55.186175864297844";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"3254";s:5:"score";s:17:"49.56121576184748";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3034";s:5:"score";s:17:"49.56121576184748";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2436";s:5:"score";s:17:"49.56121576184748";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1265";s:5:"score";s:17:"49.56121576184748";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"3096";s:5:"score";s:17:"48.19161134498022";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2779";s:5:"score";s:17:"45.54350724039152";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3535";s:5:"score";s:17:"43.14844708793265";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2610";s:5:"score";s:17:"41.77884267106539";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1313";s:5:"score";s:18:"22.865012589422818";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1170";s:5:"score";s:17:"21.49540817255556";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/achieve-higher-profits/"
 ---
 <p>When you have a high class brand. A brand that people recognize as being one of the best then you can demand higher prices. And with higher prices you can achieve higher profits.</p>

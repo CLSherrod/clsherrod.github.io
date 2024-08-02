@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Richard Branson sailing the Atlantic
 date: 2008-09-22 09:28:36.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - Richard Branson
 - Virgin Group
@@ -27,12 +22,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884904'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"843";s:5:"score";s:18:"105.80208800307594";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:16:"66.3438525617115";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"61";s:5:"score";s:17:"63.74017237382753";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1801";s:5:"score";s:17:"62.71037447558741";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"261";s:5:"score";s:17:"62.68567044413917";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"227";s:5:"score";s:17:"60.48844586679455";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"359";s:5:"score";s:17:"59.60478036223088";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1178";s:5:"score";s:17:"55.39651205366249";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"809";s:5:"score";s:17:"54.75070815120299";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"799";s:5:"score";s:17:"54.14627554473924";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"318";s:5:"score";s:17:"51.73832993609017";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1417";s:5:"score";s:17:"51.06538546283096";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/richard-branson-sailing-the-atlantic/"
 ---
 <p>Another great example of how to publicize yourself.</p>

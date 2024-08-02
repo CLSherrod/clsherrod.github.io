@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Mastering with A players
 date: 2011-12-08 01:14:33.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _nectar_love: '0'
@@ -21,12 +16,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884773'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"602";s:5:"score";s:17:"53.60598522438676";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"123";s:5:"score";s:17:"49.16576748213946";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1211";s:5:"score";s:17:"47.44049792285197";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"320";s:5:"score";s:17:"47.44049792285197";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"124";s:5:"score";s:17:"47.44049792285197";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"605";s:5:"score";s:17:"45.25721068459549";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"577";s:5:"score";s:17:"45.25721068459549";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"404";s:5:"score";s:17:"45.25721068459549";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"312";s:5:"score";s:17:"45.25721068459549";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"282";s:5:"score";s:17:"45.25721068459549";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"189";s:5:"score";s:17:"45.25721068459549";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"130";s:5:"score";s:17:"45.25721068459549";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/mastering-players/"
 ---
 <div>

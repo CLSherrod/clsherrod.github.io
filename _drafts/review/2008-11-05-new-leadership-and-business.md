@@ -1,14 +1,9 @@
 ---
-layout: post
 title: New leadership and business
 date: 2008-11-05 00:18:41.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _nectar_love: '0'
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '130'
   _wp_rp_related_posts_query_result_cache_expiration: '1525009056'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1207";s:5:"score";s:17:"70.93257456901256";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1212";s:5:"score";s:17:"34.26308228948846";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4783";s:5:"score";s:17:"25.72648655074431";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1145";s:5:"score";s:18:"25.143782948054444";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1209";s:5:"score";s:18:"16.044117523285262";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1178";s:5:"score";s:18:"15.966684338597824";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1174";s:5:"score";s:18:"15.832220367277671";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2271";s:5:"score";s:18:"14.924566738447124";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8360";s:5:"score";s:18:"13.959826168753855";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"737";s:5:"score";s:18:"13.361769671612004";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1099";s:5:"score";s:18:"12.573531807633964";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4593";s:5:"score";s:18:"12.127244705005547";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/new-leadership-and-business/"
 ---
 <p>A lot of my business associates are apprehensive of President-Elect Obama.</p>

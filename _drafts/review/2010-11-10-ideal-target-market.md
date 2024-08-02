@@ -1,14 +1,9 @@
 ---
-layout: post
 title: What's your ideal target market?
 date: 2010-11-10 04:56:45.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - partnership
 meta:
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '182'
   _wp_rp_related_posts_query_result_cache_expiration: '1525008730'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3577";s:5:"score";s:17:"61.00409005995946";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1989";s:5:"score";s:17:"60.69719702107626";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1982";s:5:"score";s:17:"60.69719702107626";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"650";s:5:"score";s:17:"32.51382903551177";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"3568";s:5:"score";s:17:"27.97459888803513";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"284";s:5:"score";s:18:"21.452790669334714";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1923";s:5:"score";s:18:"20.377802927663552";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"654";s:5:"score";s:17:"18.39129938160388";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"371";s:5:"score";s:18:"18.343133233327386";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4056";s:5:"score";s:18:"18.007748740101004";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"197";s:5:"score";s:18:"16.613138358337416";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"628";s:5:"score";s:18:"16.110946326475386";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/ideal-target-market/"
 ---
 <p>Yesterday was a day of contrast for me. I when to an art opening lecture with my girlfriend. It was full of artistic people listening to two people about architecture and art, how they are different and what makes a great building.</p>

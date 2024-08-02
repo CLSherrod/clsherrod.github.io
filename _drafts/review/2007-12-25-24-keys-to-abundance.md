@@ -1,14 +1,9 @@
 ---
-layout: post
 title: 24 Keys To Abundance
 date: 2007-12-25 23:00:05.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:245:&quot;a:6:{s:15:&quot;itunes:subtitle&quot;;s:15:&quot;##PostExcerpt##&quot;;s:14:&quot;itunes:summary&quot;;s:15:&quot;##PostExcerpt##&quot;;s:15:&quot;itunes:keywords&quot;;s:17:&quot;##WordPressCats##&quot;;s:13:&quot;itunes:author&quot;;s:10:&quot;##Global##&quot;;s:15:&quot;itunes:explicit&quot;;s:2:&quot;No&quot;;s:12:&quot;itunes:block&quot;;s:2:&quot;No&quot;;}&quot;;
@@ -47,12 +42,6 @@ meta:
   nectar_blog_post_view_count: '184'
   _wp_rp_related_posts_query_result_cache_expiration: '1524956931'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"393";s:5:"score";s:18:"61.838557475591685";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"831";s:5:"score";s:18:"50.905111663264826";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:17:"47.33273481513109";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1373";s:5:"score";s:17:"46.18007679548222";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1285";s:5:"score";s:17:"44.81047237861496";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1108";s:5:"score";s:17:"44.81047237861496";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"604";s:5:"score";s:17:"42.60769994734849";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"427";s:5:"score";s:17:"42.60769994734849";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"233";s:5:"score";s:17:"42.60769994734849";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"398";s:5:"score";s:18:"41.407210306534566";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"737";s:5:"score";s:17:"41.23809553048123";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"400";s:5:"score";s:17:"41.23809553048123";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/24-keys-to-abundance/"
 ---
 <p>This classic book on law of attraction written way back in 1907, yup 100 years ago is reviewed.</p>

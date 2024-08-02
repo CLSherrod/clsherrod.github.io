@@ -1,15 +1,10 @@
 ---
-layout: post
 title: Big banks vs regional
 date: 2008-10-15 05:45:03.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
-- Whole Enchilada
+- Essays
 tags:
 - mind map
 - Virgin Group
@@ -26,12 +21,6 @@ meta:
   nectar_blog_post_view_count: '229'
   _wp_rp_related_posts_query_result_cache_expiration: '1525231156'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"302";s:5:"score";s:17:"106.4282384767804";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"290";s:5:"score";s:17:"58.37107607939983";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:17:"57.56257411553162";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:17:"56.41054371395744";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1038";s:5:"score";s:18:"55.379286877275135";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"843";s:5:"score";s:17:"53.25569024581233";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"392";s:5:"score";s:17:"52.76699872833585";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"742";s:5:"score";s:17:"52.09605325532323";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"287";s:5:"score";s:17:"51.88090497142406";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1417";s:5:"score";s:17:"51.07240300755585";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"380";s:5:"score";s:17:"51.07240300755585";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"365";s:5:"score";s:17:"51.07240300755585";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/big-banks-vs-regional/"
 ---
 <p>I have a great aunt with a lot of money.  She has many many accounts in many banks with no more than $100,000 USD in each because that is the limit the FDIC Insurance will pay.  Not many know this, but yes there is limit.  So if you have a lot of money use different accounts and banks.</p>

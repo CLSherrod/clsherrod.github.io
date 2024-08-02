@@ -1,14 +1,9 @@
 ---
-layout: post
 title: CBS interviews Richard Branson
 date: 2007-12-19 04:00:26.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - Virgin Group
 meta:
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '159'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987118'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"742";s:5:"score";s:17:"76.33257392784793";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1305";s:5:"score";s:17:"70.99256966053031";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"327";s:5:"score";s:17:"70.99256966053031";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"318";s:5:"score";s:17:"70.79853857348124";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:17:"69.62296524366305";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:17:"69.62296524366305";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1289";s:5:"score";s:17:"65.45853430616361";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"874";s:5:"score";s:17:"65.45853430616361";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1417";s:5:"score";s:17:"64.08892988929637";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1309";s:5:"score";s:17:"64.08892988929637";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1303";s:5:"score";s:17:"64.08892988929637";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:17:"64.08892988929637";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/cbs-interviews-richard-branson/"
 ---
 <p>A great introduction to Richard Branson the biggest serial entrepreneur in the world.</p>

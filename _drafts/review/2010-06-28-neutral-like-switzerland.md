@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Neutral like Switzerland
 date: 2010-06-28 22:28:44.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '150'
   _wp_rp_related_posts_query_result_cache_expiration: '1525000823'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1299";s:5:"score";s:18:"24.015154330609313";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3153";s:5:"score";s:18:"22.268469511366717";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"160";s:5:"score";s:18:"19.712737650194647";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1278";s:5:"score";s:17:"18.96961053729616";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1250";s:5:"score";s:18:"17.792122415568095";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2813";s:5:"score";s:17:"17.20796061420705";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"309";s:5:"score";s:17:"17.15371901780048";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"320";s:5:"score";s:18:"16.981192199290316";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"125";s:5:"score";s:18:"16.687985250895387";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"411";s:5:"score";s:18:"16.345556968297593";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2078";s:5:"score";s:18:"16.303241465689865";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"686";s:5:"score";s:16:"15.8533213011863";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/neutral-like-switzerland/"
 ---
 <p>I'm like Switzerland. Me and my company are neutral.</p>

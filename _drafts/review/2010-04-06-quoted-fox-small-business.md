@@ -1,14 +1,9 @@
 ---
-layout: post
 title: I was quoted on Fox Small Business
 date: 2010-04-06 03:10:33.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '165'
   _wp_rp_related_posts_query_result_cache_expiration: '1524958806'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1797";s:5:"score";s:17:"63.55878758195409";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1642";s:5:"score";s:17:"61.38102111558395";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1681";s:5:"score";s:18:"60.088521075256125";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1619";s:5:"score";s:18:"56.927620324109284";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1278";s:5:"score";s:17:"55.85945535225436";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1451";s:5:"score";s:17:"54.74985385773914";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1811";s:5:"score";s:18:"53.681688885884206";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1383";s:5:"score";s:18:"48.655214573089275";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1280";s:5:"score";s:18:"48.655214573089275";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1889";s:5:"score";s:17:"41.77884267106539";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"6678";s:5:"score";s:18:"19.951041051242058";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2370";s:5:"score";s:18:"19.623172174100866";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/quoted-fox-small-business/"
 excerpt: I was recently quoted on Fox Small Business on an article about how to get
   twitter to work for you.

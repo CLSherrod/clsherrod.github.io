@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Why I like Seth Godin
 date: 2019-07-17 07:00:18.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - Seth Godin
 - success
@@ -38,12 +33,6 @@ meta:
   _nectar_header_bg: ''
   _nectar_header_parallax: 'off'
   _edit_last: '1'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/why-i-like-seth-godin/"
 ---
 <p>I'm very picky on business leaders I follow. Very picky.</p>

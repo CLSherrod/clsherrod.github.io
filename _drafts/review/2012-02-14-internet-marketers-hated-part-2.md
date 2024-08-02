@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Why some Internet Marketers are hated Part 2
 date: 2012-02-14 22:09:32.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -41,12 +36,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/internet-marketers-hated-part-2/"
 ---
 <p><img class="alignright size-medium wp-image-4942" title="business-success-mentor" src="{{ site.baseurl }}/posts/2012/02/business-success-mentor-300x273.jpg" alt="" width="300" height="273" />Some people after reading my <a href="https://christopher-sherrod.blisslifepress.com/internet-marketers-hated/">Why some Internet Marketers are hated</a> post last week think I hate Internet Marketers.</p>

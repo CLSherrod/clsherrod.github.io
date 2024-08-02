@@ -1,14 +1,9 @@
 ---
-layout: post
 title: 77 Ways to Learn Faster, Deeper, and Better
 date: 2008-12-09 04:38:30.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'no'
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '181'
   _wp_rp_related_posts_query_result_cache_expiration: '1525048359'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"675";s:5:"score";s:18:"21.340340026880117";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1027";s:5:"score";s:17:"17.66680304661073";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"200";s:5:"score";s:18:"14.780823636746529";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3744";s:5:"score";s:18:"13.832957822179477";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2864";s:5:"score";s:18:"12.346283972104182";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"210";s:5:"score";s:18:"12.346283972104182";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"124";s:5:"score";s:18:"12.346283972104182";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"107";s:5:"score";s:18:"12.346283972104182";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1289";s:5:"score";s:18:"11.770919827203416";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"427";s:5:"score";s:18:"11.770919827203416";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"353";s:5:"score";s:18:"11.770919827203416";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"968";s:5:"score";s:18:"11.324632724574997";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/77-ways-to-learn-faster-deeper-and-better/"
 ---
 <p>I've become interested in life hacking my brain lately.  Here is a 77 techniques I found interesting.</p>

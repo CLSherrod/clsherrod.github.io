@@ -1,14 +1,9 @@
 ---
-layout: post
 title: There Is No Reverse Gear On This Thing
 date: 2008-09-27 03:09:59.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - ideas
 - Virgin Group
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '182'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957692'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:18:"115.97570647950188";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1058";s:5:"score";s:18:"112.26195041440496";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"874";s:5:"score";s:17:"107.8534857854708";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1311";s:5:"score";s:18:"103.51956394609476";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1052";s:5:"score";s:16:"83.1607652066257";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"843";s:5:"score";s:16:"81.6291213018462";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"394";s:5:"score";s:17:"79.12808682504821";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:16:"72.9058591471647";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:16:"72.9058591471647";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"365";s:5:"score";s:17:"72.44049967759298";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"284";s:5:"score";s:17:"69.00584592847895";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1305";s:5:"score";s:17:"68.95002077042062";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/leading-blog-a-leadership-blog-leadershipnow-richard-branson-there-is-no-reverse-gear-on-this-thing/"
 ---
 <p><img class="alignright" src="{{ site.baseurl }}/posts/2008/09/9781905264421sm.jpg" alt="" width="80" height="120" /></p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Pow-Wows & The Law Of Attraction
 date: 2007-06-24 23:00:53.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '116'
   _wp_rp_related_posts_query_result_cache_expiration: '1524958596'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1373";s:5:"score";s:17:"61.54755762682639";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"737";s:5:"score";s:17:"51.42504203074938";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1285";s:5:"score";s:18:"47.721046844018595";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"400";s:5:"score";s:18:"44.793874772904566";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"604";s:5:"score";s:17:"42.60769994734849";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"427";s:5:"score";s:17:"42.60769994734849";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"393";s:5:"score";s:17:"42.60769994734849";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"333";s:5:"score";s:17:"42.60769994734849";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:17:"41.23809553048123";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1108";s:5:"score";s:17:"41.23809553048123";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"831";s:5:"score";s:17:"41.23809553048123";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"364";s:5:"score";s:17:"41.23809553048123";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/pow-wows-the-law-of-attraction/"
 excerpt: I love this story about Native American women and The Law of Attraction.  It
   doesn't allow you to dwell on things and it's simple.  I love that.

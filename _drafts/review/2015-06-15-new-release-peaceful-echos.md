@@ -1,12 +1,7 @@
 ---
-layout: post
 title: 'New Release: Peaceful Echos'
 date: 2015-06-15 09:00:01.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - My Art
 - Personal
@@ -37,12 +32,6 @@ meta:
   _wpb_vc_js_status: 'false'
   nectar_blog_post_view_count: '192'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/new-release-peaceful-echos/"
 ---
 <p>New electronic song is out.</p>

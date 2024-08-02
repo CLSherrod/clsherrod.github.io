@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Give yourself to prosperity
 date: 2006-11-12 23:00:26.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
@@ -20,12 +15,6 @@ meta:
   _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
   _wp_rp_image: empty
   nectar_blog_post_view_count: '171'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/give-yourself-to-prosperity/"
 ---
 <p>We had a couple of real estate deals close recently.  We gave gifts to the buyer, seller and closer.  People love gifts.  If you have a deal work smoothly then give a gift to the people involved.  You will be amazed at how people react to getting a gift.  One closer was excited and amazed that I was giving her an hour massage and my favorite spa.  Another closer was lukewarm.  She has a problem accepting gifts.  The buyer and sellers were very happy on having the deal done and the gifts they got gave them a smile.  Doing business with me is fun.  You make money, we make money and you get a nice surprise gift.</p>

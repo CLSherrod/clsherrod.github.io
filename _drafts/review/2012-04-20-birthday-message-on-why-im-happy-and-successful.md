@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Birthday message on why I'm happy and successful
 date: 2012-04-20 12:21:18.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags:
 - happy
 meta:
@@ -73,12 +68,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/birthday-message-on-why-im-happy-and-successful/"
 ---
 <p>It's my birthday and taking a few minutes to reflect and share of what I've learned this past year.</p>

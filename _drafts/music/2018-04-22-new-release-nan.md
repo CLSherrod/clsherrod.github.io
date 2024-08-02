@@ -1,16 +1,11 @@
 ---
-layout: post
 title: 'New Release: Nan'
 date: 2018-04-22 14:04:37.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - My Art
 - Personal
-- Whole Enchilada
+- Essays
 tags:
 - music
 meta:
@@ -38,12 +33,6 @@ meta:
   _wpb_vc_js_status: 'false'
   nectar_blog_post_view_count: '243'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/new-release-nan/"
 ---
 <p><iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3772306665/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://chr1stopher.bandcamp.com/track/nan">Nan by Chr1stoher</a></iframe></p>

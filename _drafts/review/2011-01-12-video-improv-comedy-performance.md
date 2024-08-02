@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Video from my first Improv Comedy performance
 date: 2011-01-12 00:18:36.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -20,12 +15,6 @@ meta:
   nectar_blog_post_view_count: '133'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986547'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4439";s:5:"score";s:17:"97.42148724899893";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3116";s:5:"score";s:17:"67.08036293413795";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4422";s:5:"score";s:18:"26.616580804237245";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4421";s:5:"score";s:18:"26.616580804237245";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"728";s:5:"score";s:18:"20.733449953240495";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1647";s:5:"score";s:18:"18.747335129560433";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"421";s:5:"score";s:18:"17.177670710817154";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4409";s:5:"score";s:18:"14.901493867829373";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4427";s:5:"score";s:18:"13.842975216986755";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"265";s:5:"score";s:18:"13.842975216986755";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"746";s:5:"score";s:18:"13.768174526063763";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1390";s:5:"score";s:18:"12.832313007802345";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/video-improv-comedy-performance/"
 ---
 <p>Here is a couple of videos from Saturday night at my first Improv Comedy performance. I had a blast and thank you for everyone that showed up. Especially John and Anne and my lovely partner Nan. We had a completely packed house with people sitting on the floor in front of the stage. It was crazy. I loved it. I plan on continuing in Improv Comedy.</p>

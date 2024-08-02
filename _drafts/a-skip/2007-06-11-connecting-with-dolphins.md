@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Connecting with Dolphins
 date: 2007-06-11 02:07:26.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '144'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986461'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"206";s:5:"score";s:17:"65.16183219929452";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"265";s:5:"score";s:17:"57.31219452478023";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"257";s:5:"score";s:16:"53.5055701303236";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"256";s:5:"score";s:17:"49.52982143399815";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"253";s:5:"score";s:16:"44.9633799823904";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"252";s:5:"score";s:16:"44.9633799823904";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"244";s:5:"score";s:16:"44.9633799823904";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"152";s:5:"score";s:17:"21.98016339176027";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2911";s:5:"score";s:17:"19.22426461377312";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"202";s:5:"score";s:18:"18.833151585366544";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1982";s:5:"score";s:18:"17.718105570858718";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"240";s:5:"score";s:18:"17.430411884405153";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/connecting-with-dolphins/"
 excerpt: |-
   Here is the promised video of my time with Dolphins when I was on vacation and week and half ago.

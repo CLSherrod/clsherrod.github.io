@@ -1,15 +1,10 @@
 ---
-layout: post
 title: Lost Generation
 date: 2008-05-15 22:00:34.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Mindset
-- Whole Enchilada
+- Essays
 tags:
 - happy
 meta:
@@ -45,12 +40,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/lost-generation/"
 ---
 <p>My girlfriend Nan sent me this YouTube video. It seems negative for a few seconds and then wham it gave me the chills. It's powerful. Check it out.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: 4th of July in France
 date: 2008-07-07 08:00:31.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - france
 - travel
@@ -20,12 +15,6 @@ meta:
   _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
   _wp_rp_image: '14550'
   nectar_blog_post_view_count: '185'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/4th-july-france/"
 ---
 <p><a href="http://flickr.com/photos/eaglechris/2641769002/in/set-72157606028718089/"><img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/07/2641769002_d5819e762a_m.jpg" alt="" width="240" height="180" /></a>Last night everyone on the Rue (French for street) invited us to a BBQ here in Rennes France.  I had the most fun of any 4th of July party in my life.</p>

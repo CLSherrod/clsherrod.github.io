@@ -1,14 +1,9 @@
 ---
-layout: post
 title: RIP Ursula
 date: 2018-01-24 09:00:45.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - RIP
 meta:
@@ -37,12 +32,6 @@ meta:
   _wpas_done_all: '1'
   nectar_blog_post_view_count: '245'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/rip-ursula/"
 ---
 <p>One of my favorite SciFi writers died Monday. She wrote stories that showed us how different things could be for us. “Light Hand To Darkness” was a major influence for me and highly recommended.</p>

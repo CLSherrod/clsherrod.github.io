@@ -1,16 +1,11 @@
 ---
-layout: post
 title: What does a successful person do?
 date: 2011-01-10 23:02:50.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags:
 - success
 meta:
@@ -48,12 +43,6 @@ meta:
   _nectar_quote: ''
   _nectar_audio_mp3: ''
   _nectar_link: ''
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/successful-person/"
 excerpt: "What would it be like if you understood what a successful person does?\r\n\r\nI
   just got this testimonial in."

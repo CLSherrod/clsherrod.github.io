@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Entrepreneurs love risk?
 date: 2009-01-09 07:25:46.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -23,12 +18,6 @@ meta:
   _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
   _wp_rp_image: empty
   nectar_blog_post_view_count: '153'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/entrepreneurs-love-risk/"
 ---
 <p>One of the best quotes I've seen in a while.</p>

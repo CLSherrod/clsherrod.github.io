@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Travel around the world slowly with Christopher Sherrod || Rivera Maya Mexico
 date: 2018-02-21 09:00:25.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Personal
 - Travel
-- Whole Enchilada
+- Essays
 tags:
 - mexico
 - travel
@@ -46,12 +41,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1356";s:5:"score";s:17:"64.58478292828997";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1766";s:5:"score";s:17:"56.64041770583504";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"860";s:5:"score";s:17:"45.95866374305221";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2297";s:5:"score";s:17:"44.73943455572484";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"746";s:5:"score";s:17:"44.73943455572484";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4407";s:5:"score";s:18:"41.575356678478684";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4419";s:5:"score";s:17:"40.20020440835156";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4404";s:5:"score";s:17:"40.20020440835156";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4410";s:5:"score";s:17:"38.10826729788004";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4416";s:5:"score";s:18:"34.944189420633876";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4437";s:5:"score";s:17:"33.56903715050675";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4418";s:5:"score";s:17:"33.56903715050675";}}
   _aioseop_title: Travel around the world slowly with Christopher Sherrod || Rivera
     Maya Mexico
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/travel-around-the-world-slowly-with-christopher-sherrod-rivera-maya-mexico/"
 ---
 <p>I've started a vlog on my travels with a small selection of videos on the beginning of my world wide travels starting in Mexico.</p>

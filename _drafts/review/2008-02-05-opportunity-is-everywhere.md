@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Opportunity Is Everywhere
 date: 2008-02-05 05:26:31.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - clean technologies
 - gratitude
@@ -26,12 +21,6 @@ meta:
   nectar_blog_post_view_count: '158'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957946'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"279";s:5:"score";s:18:"122.62221995350477";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"365";s:5:"score";s:18:"104.98896596625161";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"227";s:5:"score";s:18:"104.98896596625161";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"392";s:5:"score";s:18:"103.16575039828412";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"380";s:5:"score";s:18:"103.16575039828412";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"377";s:5:"score";s:18:"103.16575039828412";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"280";s:5:"score";s:17:"86.26255237015386";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:17:"75.25558102768721";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"284";s:5:"score";s:17:"74.61867356542221";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"694";s:5:"score";s:17:"74.06456519050485";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"692";s:5:"score";s:17:"70.37640693557006";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"261";s:5:"score";s:17:"67.12866960927698";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/opportunity-is-everywhere/"
 ---
 <p>Apparently there is a lot of stories about the economy in the USA is slowing down and prosperity is disappearing.Â  I say Apparently because I don't watch the negative news, I focus on the positive and look for opportunity everywhere.</p>

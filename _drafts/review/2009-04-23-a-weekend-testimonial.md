@@ -1,14 +1,9 @@
 ---
-layout: post
 title: A Weekend Testimonial
 date: 2009-04-23 03:00:42.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '155'
   _wp_rp_related_posts_query_result_cache_expiration: '1525238279'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1650";s:5:"score";s:18:"125.15814861871124";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1681";s:5:"score";s:17:"57.90096642013642";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1540";s:5:"score";s:17:"57.90096642013642";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1815";s:5:"score";s:18:"53.158323745468074";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1773";s:5:"score";s:17:"52.06833678072547";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1801";s:5:"score";s:17:"51.02738976665426";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"3034";s:5:"score";s:17:"47.66266740035821";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1636";s:5:"score";s:17:"47.66266740035821";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1526";s:5:"score";s:17:"47.66266740035821";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:1:"7";s:5:"score";s:16:"31.3506952658438";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"15";s:5:"score";s:18:"30.313107678935143";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1642";s:5:"score";s:17:"24.16485713972314";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/a-weekend-testimonial/"
 ---
 <p>I did a Prosperity Game Saturday in front of over 50 people.  Here is a testimonial from an attendee.</p>

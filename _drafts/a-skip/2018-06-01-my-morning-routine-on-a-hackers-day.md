@@ -1,19 +1,14 @@
 ---
-layout: post
 title: My Morning Routine on A Hacker's Day
 date: 2018-06-01 10:03:57.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Entrepreneurship
 - Lifestyle
 - Mindset
 - System Mastery
-- Whole Enchilada
+- Essays
 tags:
 - morning routine
 - productivity

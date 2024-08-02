@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Peace Intention Experiments
 date: 2008-09-12 07:24:13.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - philanthropy
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '186'
   _wp_rp_related_posts_query_result_cache_expiration: '1524958325'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4056";s:5:"score";s:17:"63.17263993827534";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"850";s:5:"score";s:17:"60.92601772337868";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"3535";s:5:"score";s:16:"54.0708960048718";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1213";s:5:"score";s:18:"51.299186867674884";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1145";s:5:"score";s:18:"47.840200706880275";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1099";s:5:"score";s:18:"47.840200706880275";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"866";s:5:"score";s:18:"47.840200706880275";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"194";s:5:"score";s:18:"23.765758820321942";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"105";s:5:"score";s:18:"23.709671018309415";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:2:"20";s:5:"score";s:17:"23.59628033097029";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"156";s:5:"score";s:18:"20.372860241563863";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"177";s:5:"score";s:17:"20.08544680004995";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/peace-intention-experiments/"
 ---
 <p>Lynne McTaggart who wrote the book <a href="http://www.amazon.com/gp/product/0743276965?ie=UTF8&amp;tag=theintework-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0743276965" rel="nofollow"><em rel="nofollow">The Intention Experiment: Using Your Thoughts to Change Your Life and the World</em></a> and she is starting a series of Peace Intention Experiments.</p>

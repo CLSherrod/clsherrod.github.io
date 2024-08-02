@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Too small to fail
 date: 2008-11-19 02:10:01.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'no'
@@ -43,12 +38,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/too-small-to-fail/"
 ---
 <p>I love this quote.</p>

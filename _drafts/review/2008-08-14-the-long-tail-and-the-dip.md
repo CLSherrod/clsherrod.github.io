@@ -1,14 +1,9 @@
 ---
-layout: post
 title: The Long Tail and the Dip
 date: 2008-08-14 23:03:10.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '137'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986265'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"645";s:5:"score";s:18:"43.582570338415174";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1297";s:5:"score";s:18:"42.753206812081174";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"41.56664444391539";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"840";s:5:"score";s:17:"39.19742756965783";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:17:"38.49674340031001";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1267";s:5:"score";s:17:"38.24384914114667";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:17:"37.40776136034623";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"267";s:5:"score";s:17:"37.24978453767265";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1261";s:5:"score";s:17:"37.23318693196226";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1522";s:5:"score";s:17:"37.00020299230765";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"6880";s:5:"score";s:17:"36.39709915116182";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:17:"33.83538451221249";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/the-long-tail-and-the-dip/"
 ---
 <p><img class="alignright" src="{{ site.baseurl }}/posts/2008/08/profitpockets583_2.jpg" alt="" width="280" height="204" /></p>

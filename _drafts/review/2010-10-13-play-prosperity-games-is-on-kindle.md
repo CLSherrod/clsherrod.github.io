@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Play Prosperity Games is on Kindle
 date: 2010-10-13 22:00:00.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _nectar_love: '0'
@@ -47,12 +42,6 @@ meta:
   nectar_blog_post_view_count: '124'
   _wp_rp_related_posts_query_result_cache_expiration: '1525006013'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"2378";s:5:"score";s:17:"71.63478236655368";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"2779";s:5:"score";s:17:"33.59812305495157";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1766";s:5:"score";s:18:"20.114171379708665";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"421";s:5:"score";s:18:"19.916772629612616";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1934";s:5:"score";s:18:"18.620179400742423";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:18:"17.033281297786438";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2560";s:5:"score";s:18:"17.033281297786438";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"836";s:5:"score";s:18:"16.585835486747445";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"728";s:5:"score";s:18:"16.484479434878658";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"657";s:5:"score";s:18:"16.385231744970014";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"343";s:5:"score";s:18:"16.292191713686258";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4227";s:5:"score";s:17:"15.54672427170984";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/play-prosperity-games-is-on-kindle/"
 ---
 <p>My book <a href="http://www.amazon.com/gp/product/B0044KM13Q?ie=UTF8&amp;tag=abundaunlimi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0044KM13Q" rel="nofollow">"Play Prosperity Games" is now on the Kindle</a>. You can read it on your Kindle, PC, iPhone, iPad, and any Android device.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Thinking, Rabbi, and German - What do they have in common?
 date: 2011-07-20 05:49:41.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -21,12 +16,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884835'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3468";s:5:"score";s:18:"60.988646470555096";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1229";s:5:"score";s:18:"30.361633763815927";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"680";s:5:"score";s:17:"30.22695447715199";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"817";s:5:"score";s:18:"21.847171564319556";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1406";s:5:"score";s:16:"19.8549781140625";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"370";s:5:"score";s:18:"19.277705684112373";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"396";s:5:"score";s:18:"18.819461450750474";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"3454";s:5:"score";s:18:"18.323614289957245";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"431";s:5:"score";s:18:"17.228064039218157";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"740";s:5:"score";s:18:"17.112481789415888";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"340";s:5:"score";s:18:"16.596358140397985";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"3431";s:5:"score";s:17:"16.41859956132964";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/thinking-rabbi-german-common/"
 ---
 <p>Wow, the last couple of days have been fun.</p>

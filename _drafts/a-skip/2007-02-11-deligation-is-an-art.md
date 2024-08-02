@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Deligation is an art
 date: 2007-02-11 14:49:10.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
@@ -21,12 +16,6 @@ meta:
   nectar_blog_post_view_count: '144'
   _wp_rp_related_posts_query_result_cache_expiration: '1525000881'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1882";s:5:"score";s:17:"20.96546455278747";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"863";s:5:"score";s:17:"18.86407693773513";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:18:"17.728155417636795";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1185";s:5:"score";s:18:"17.261513691198942";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1619";s:5:"score";s:18:"16.755218472538054";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1265";s:5:"score";s:18:"16.647084029913703";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1142";s:5:"score";s:18:"16.498868085606258";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"178";s:5:"score";s:18:"16.482339066456753";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1853";s:5:"score";s:17:"15.75055586827167";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"725";s:5:"score";s:18:"15.477377763202538";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"29";s:5:"score";s:18:"15.329430585621116";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"400";s:5:"score";s:17:"15.27747961304644";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/deligation-is-an-art/"
 excerpt: |-
   I remember reading an article criticizing people that didn’t answer their own phone as being distance and full of themselves. I was amazed that people think that way. People need to think beyond themselves. They need to think of their business plan.

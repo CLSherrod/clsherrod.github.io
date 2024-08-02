@@ -1,14 +1,9 @@
 ---
-layout: post
 title: The bullshit of outage language
 date: 2009-01-15 02:14:49.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '137'
   _wp_rp_related_posts_query_result_cache_expiration: '1525012774'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3233";s:5:"score";s:17:"51.03302069171502";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1436";s:5:"score";s:17:"51.03302069171502";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1142";s:5:"score";s:17:"51.03302069171502";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1411";s:5:"score";s:17:"49.66341627484776";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"783";s:5:"score";s:18:"18.753502576943877";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"298";s:5:"score";s:18:"13.914696049266883";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2074";s:5:"score";s:18:"12.340733903029053";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1911";s:5:"score";s:18:"12.340733903029053";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1363";s:5:"score";s:18:"12.340733903029053";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"270";s:5:"score";s:18:"12.340733903029053";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"179";s:5:"score";s:18:"12.340733903029053";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"725";s:5:"score";s:18:"11.782059702383707";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/bullshit-outage-language/"
 ---
 <p>Don't you hate it when people bullshit you.  "We are having an availability issue".  Bullshit you are offline.  Better answer is to say you are wrong.</p>

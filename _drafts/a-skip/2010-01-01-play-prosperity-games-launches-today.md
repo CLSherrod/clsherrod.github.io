@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Play Prosperity Games Launches Today
 date: 2010-01-01 05:00:40.000000000 -06:00
 published: true

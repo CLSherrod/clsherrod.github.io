@@ -1,14 +1,9 @@
 ---
-layout: post
 title: 'Big Change: Songs for FINCA'
 date: 2007-12-14 00:06:14.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - ideas
 meta:
@@ -23,12 +18,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884681'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"2078";s:5:"score";s:18:"102.63183901559555";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4433";s:5:"score";s:17:"59.76492486663727";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"289";s:5:"score";s:17:"58.80535923229862";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1311";s:5:"score";s:17:"51.28849224924927";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"874";s:5:"score";s:17:"51.28849224924927";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"327";s:5:"score";s:17:"51.01480893593289";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"338";s:5:"score";s:18:"49.642451913557075";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:17:"43.76458526447994";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1085";s:5:"score";s:17:"43.76458526447994";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1058";s:5:"score";s:17:"43.76458526447994";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1052";s:5:"score";s:17:"43.76458526447994";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"843";s:5:"score";s:17:"43.76458526447994";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/big-change-songs-for-finca/"
 ---
 <p>One of our charities that we support FINCA and their Village Banking project has a charity album.</p>

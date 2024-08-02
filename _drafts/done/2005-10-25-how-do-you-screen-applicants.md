@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How Do You Screen Applicants?
 date: 2005-10-25 07:17:50.000000000 -05:00
 type: post
@@ -8,7 +7,7 @@ published: true
 password: ’’
 status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:“s:255:“a:6:{s:15:“itunes:subtitle”;s:15:”##PostExcerpt##”;s:14:“itunes:summary”;s:15:"##PostExcerpt##";s:15:“itunes:keywords”;s:17:"##WordPressCats##";s:13:“itunes:author”;s:10:"##Global##";s:15:“itunes:explicit”;s:7:“Default”;s:12:“itunes:block”;s:7:“Default”;}";";
@@ -33,12 +32,6 @@ meta:
   nectar_blog_post_view_count: ‘135’
   _wp_rp_related_posts_query_result_cache_expiration: ‘1525372740’
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“577”;s:5:“score”;s:16:“59.0275591373165”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1211”;s:5:“score”;s:17:“59.00385601213847”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“404”;s:5:“score”;s:17:“56.79555107449301”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“320”;s:5:“score”;s:18:“53.955159248570375”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“605”;s:5:“score”;s:17:“51.74685431092492”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“602”;s:5:“score”;s:17:“51.74685431092492”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“312”;s:5:“score”;s:17:“51.74685431092492”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“282”;s:5:“score”;s:17:“51.74685431092492”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“189”;s:5:“score”;s:17:“51.74685431092492”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“130”;s:5:“score”;s:17:“51.74685431092492”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“119”;s:5:“score”;s:17:“51.74685431092492”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“4806”;s:5:“score”;s:17:“47.77859158676782”;}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/how-do-you-screen-applicants/"
 ---
 <p>Before agreeing to let any new applicants into your group, It’s important to screen them to make sure they’ll fit into the existing group and that their commitment level is high.  Decide in advance how many people should be in your group (5-8 is recommended), and only allow new members into the group with the unanimous consent of everyone in the group.</p>

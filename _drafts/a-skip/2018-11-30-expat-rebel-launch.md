@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Expat Rebel Podcast has launched
 date: 2018-11-30 09:00:30.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Entrepreneurship
 - Lifestyle
-- Whole Enchilada
+- Essays
 tags:
 - expat
 meta:
@@ -39,12 +34,6 @@ meta:
   nectar_blog_post_view_count: '96'
   _nectar_love: '0'
   _thumbnail_id: '15323'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/expat-rebel-launch/"
 ---
 <p>When I loved two years ago out of the USA and started my expat life full-time I never thought I would talk about expats things.</p>

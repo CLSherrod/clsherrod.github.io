@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Big Fat Greek Wedding Sedona Style
 date: 2009-09-18 08:00:06.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - travel
 meta:
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '205'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957129'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4430";s:5:"score";s:17:"64.45128369603968";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1766";s:5:"score";s:17:"57.14467712125715";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4410";s:5:"score";s:18:"54.916201908226505";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"746";s:5:"score";s:17:"54.89960430230102";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4413";s:5:"score";s:17:"53.68569096046254";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4409";s:5:"score";s:17:"49.16605859350753";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4406";s:5:"score";s:17:"46.99222609573401";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4419";s:5:"score";s:17:"46.08350807102081";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4411";s:5:"score";s:17:"45.13521922746264";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4405";s:5:"score";s:17:"42.73016827483246";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4417";s:5:"score";s:16:"41.6890589163344";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"788";s:5:"score";s:17:"39.60221719804794";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/big-fat-greek-wedding-sedona-style/"
 ---
 <p>[caption id="" align="alignright" width="240" caption="View from my hotel room"]<img title="Sedona Red Rocks" src="{{ site.baseurl }}/posts/2009/09/3931325239_4e38067484_m.jpg" alt="" width="240" height="180" />[/caption]</p>

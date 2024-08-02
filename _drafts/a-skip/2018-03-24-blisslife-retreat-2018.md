@@ -1,17 +1,12 @@
 ---
-layout: post
 title: BlissLife Retreat 2018
 date: 2018-03-24 12:00:54.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Personal
 - Travel
-- Whole Enchilada
+- Essays
 tags:
 - blisslife retreats
 - mexico
@@ -42,12 +37,6 @@ meta:
   _wpas_done_all: '1'
   nectar_blog_post_view_count: '237'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/blisslife-retreat-2018/"
 ---
 <p>I had a blast going to Akasha's <a href="http://blissliferetreats.com">BlissLife Retreats</a> in Riveria Maya Mexico. I got to meditate with some advanced people, at the top of a Mayan Pyramid, with Dolphins and two other Mayan ruins. Made some great friends too. See everyone at the next one. Can't wait.</p>

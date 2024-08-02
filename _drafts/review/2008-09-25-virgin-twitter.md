@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Virgin Twitter
 date: 2008-09-25 19:52:38.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -39,12 +34,6 @@ meta:
   nectar_blog_post_view_count: '128'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986569'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:17:"33.05807716910866";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:2:"36";s:5:"score";s:18:"27.479426139406876";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"2132";s:5:"score";s:18:"25.578016579513175";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1209";s:5:"score";s:18:"25.578016579513175";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"321";s:5:"score";s:18:"22.399505686481273";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1309";s:5:"score";s:18:"22.107941412529172";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1642";s:5:"score";s:18:"21.966910996797978";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1281";s:5:"score";s:17:"21.66114376123346";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4100";s:5:"score";s:17:"20.87941114385944";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:18:"20.713331030765588";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"742";s:5:"score";s:18:"20.713331030765588";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1815";s:5:"score";s:18:"20.594187805697786";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/virgin-twitter/"
 ---
 <p>I blogged about Richard Branson having a blog two days ago.  I was very excited that he was going to blog occasionally.  His fans and I (his biggest fan) could hear directly from him.  I ordered his new book and looked forward to reading it.</p>

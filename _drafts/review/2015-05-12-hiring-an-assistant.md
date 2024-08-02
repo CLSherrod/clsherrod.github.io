@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Hiring an assistant
 date: 2015-05-12 09:00:02.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - System Mastery
-- Whole Enchilada
+- Essays
 tags:
 - productivity
 meta:
@@ -40,12 +35,6 @@ meta:
   _nectar_love: '0'
   _wp_old_date: '2018-04-10'
   _wpas_done_all: '1'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/hiring-an-assistant/"
 ---
 <p>I've had an assistant since 2000. Started off as occasionally to part-time to full-time.</p>

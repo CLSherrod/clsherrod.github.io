@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Older than Stonehenge
 date: 2008-07-15 08:00:49.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - france
 - travel
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '187'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957624'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4409";s:5:"score";s:16:"96.1340462224182";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4406";s:5:"score";s:17:"94.11084439903331";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4405";s:5:"score";s:17:"86.49472417100688";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4411";s:5:"score";s:16:"85.7592746107367";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4410";s:5:"score";s:16:"85.7592746107367";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4408";s:5:"score";s:16:"85.7592746107367";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4407";s:5:"score";s:16:"85.7592746107367";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4404";s:5:"score";s:17:"77.74181299177201";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"213";s:5:"score";s:18:"48.402189372114385";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4412";s:5:"score";s:18:"48.000847981176115";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"788";s:5:"score";s:17:"41.99471871456227";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"746";s:5:"score";s:17:"41.99471871456227";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/older-stonehenge/"
 ---
 <p><a href="http://flickr.com/photos/eaglechris/sets/72157606014898048/"><img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/07/2648419429_c9bbf3e665_m.jpg" alt="" width="240" height="180" /></a>Last week I went to Carnac here on the north west coast of France.  I hadn't heard of Carnac the place.  When I heard it the first time I thought my friends were talking about the Johnny Carson skit he used to do.</p>

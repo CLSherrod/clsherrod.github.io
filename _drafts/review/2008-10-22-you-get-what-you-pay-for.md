@@ -1,14 +1,9 @@
 ---
-layout: post
 title: You get what you pay for
 date: 2008-10-22 23:50:43.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -21,12 +16,6 @@ meta:
   nectar_blog_post_view_count: '133'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986793'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"189";s:5:"score";s:17:"26.91958826183768";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3126";s:5:"score";s:18:"23.077380461585033";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1882";s:5:"score";s:17:"22.63010736519952";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2370";s:5:"score";s:18:"18.757745178021445";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1267";s:5:"score";s:18:"18.362747253438663";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"3232";s:5:"score";s:17:"17.65216553234727";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"968";s:5:"score";s:17:"17.65216553234727";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4593";s:5:"score";s:18:"17.123283314989088";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3835";s:5:"score";s:18:"16.860505939506105";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"705";s:5:"score";s:18:"16.860505939506105";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1229";s:5:"score";s:17:"16.14867682270461";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"587";s:5:"score";s:17:"16.14867682270461";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/you-get-what-you-pay-for/"
 ---
 <p><img class="alignright size-medium wp-image-1194" title="calculator" src="{{ site.baseurl }}/posts/2008/10/calculator-300x224.gif" alt="" width="210" height="157" />I recently had a client who's website went offline for a few days.  I did my best to make sure this didn't happen but when the people that make mistakes are the only people that can fix it I can't do much.</p>

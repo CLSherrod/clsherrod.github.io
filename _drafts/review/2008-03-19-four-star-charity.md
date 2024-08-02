@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Four star charity
 date: 2008-03-19 05:00:27.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -20,12 +15,6 @@ meta:
   nectar_blog_post_view_count: '122'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987331'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"590";s:5:"score";s:17:"93.13371248898946";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"682";s:5:"score";s:17:"37.54725844985065";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1145";s:5:"score";s:17:"28.07645708566923";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"350";s:5:"score";s:18:"23.973069124239085";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"340";s:5:"score";s:18:"20.925101595930585";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"7097";s:5:"score";s:17:"19.78918007577359";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1266";s:5:"score";s:17:"18.28158991595198";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"836";s:5:"score";s:18:"18.127025272966723";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1438";s:5:"score";s:18:"18.012755000369644";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"325";s:5:"score";s:18:"17.704453640706745";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:17:"17.12632132907019";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"724";s:5:"score";s:18:"16.898063721559495";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/four-star-charity/"
 ---
 <p><a href="http://www.villagebanking.org" rel="nofollow"><strong rel="nofollow"><img src="https://christopher-sherrod.blisslifepress.com/wp-content/uploads/sites/2/vbc-logo-for-enews.jpg" style="border: 0px none " alt="vbc-logo-for-enews" align="right" border="0" height="168" width="211" / rel="nofollow"/></strong></a>My favorite charity Village Banking has earned <a href="http://www.kintera.org/TR.asp?a=gjKTJbPULpI0LiK&amp;s=hrKVK3OIImJWL6PHKoG&amp;m=mvL3KjPYLgI3F" rel="nofollow"><strong rel="nofollow">Charity Navigator</strong></a><strong>'s coveted 4-star rating</strong> for sound fiscal management for the <em>sixth consecutive year</em>. Only 2% of charities can make that claim! Please support the <a href="http://www.kintera.org/TR.asp?a=fsJSK1OHIkLWJgJ&amp;s=hrKVK3OIImJWL6PHKoG&amp;m=mvL3KjPYLgI3F" rel="nofollow">Village Banking Campaign</a> and help create paths out of poverty in <a href="http://www.villagebanking.org/site/lookup.asp?c=erKPI2PCIoE&amp;b=2591249" rel="nofollow">21 countries</a>.</p>

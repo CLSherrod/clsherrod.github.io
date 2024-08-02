@@ -1,16 +1,11 @@
 ---
-layout: post
 title: My partner is in Fast Company
 date: 2013-07-02 11:27:21.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -51,12 +46,6 @@ meta:
   nectar_blog_post_view_count: '201'
   _wp_rp_related_posts_query_result_cache_expiration: '1524958253'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:2:"61";s:5:"score";s:18:"136.90450996192726";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"6817";s:5:"score";s:18:"109.52235129537715";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"7097";s:5:"score";s:17:"98.29513766689897";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"6880";s:5:"score";s:17:"68.09197515501265";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8360";s:5:"score";s:17:"56.94943897884988";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1179";s:5:"score";s:17:"53.62373942800071";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"6885";s:5:"score";s:17:"45.67637153593715";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1299";s:5:"score";s:17:"43.82641799502369";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"43.54445888400154";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:16:"41.3666924176314";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:16:"41.3666924176314";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:2:"98";s:5:"score";s:16:"41.3666924176314";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/partner-fast-company/"
 ---
 <p>[caption id="attachment_6807" align="alignright" width="300"]<img class="size-medium wp-image-6807" alt="Nan Akasha in Fast Company August 2013 issue" src="{{ site.baseurl }}/posts/2013/07/NanAkashaFastCompany-300x300.jpg" width="300" height="300" /> Nan Akasha in Fast Company August 2013 issue[/caption]</p>

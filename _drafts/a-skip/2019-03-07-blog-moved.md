@@ -1,12 +1,7 @@
 ---
-layout: post
 title: Blog moved
 date: 2019-03-07 16:37:03.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Lifestyle
@@ -35,12 +30,6 @@ meta:
   _wpb_vc_js_status: 'false'
   nectar_blog_post_view_count: '123'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/blog-moved/"
 ---
 <p>My team has been busy restructuring some systems. Making things easier for maintenance which costs money as I have hired people to do most all of it.</p>

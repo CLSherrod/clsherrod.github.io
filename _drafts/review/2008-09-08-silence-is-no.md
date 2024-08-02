@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Silence is no
 date: 2008-09-08 23:59:51.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_tweeted: '1'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '133'
   _wp_rp_related_posts_query_result_cache_expiration: '1524959337'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"383";s:5:"score";s:17:"44.49331036675841";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"411";s:5:"score";s:18:"42.402391639247874";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"699";s:5:"score";s:17:"42.30713554120233";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1285";s:5:"score";s:17:"41.03278722238061";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1373";s:5:"score";s:16:"40.2379546811753";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"233";s:5:"score";s:16:"40.2379546811753";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1406";s:5:"score";s:17:"38.86835026430804";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"737";s:5:"score";s:17:"38.86835026430804";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"400";s:5:"score";s:17:"38.86835026430804";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"398";s:5:"score";s:17:"38.86835026430804";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"604";s:5:"score";s:17:"36.68217543875196";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"427";s:5:"score";s:17:"36.68217543875196";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/silence-is-no/"
 ---
 <p>The answer is always no if you don't ask.  I've seen this many times.  This is why I simply ask.</p>

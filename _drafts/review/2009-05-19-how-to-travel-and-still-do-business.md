@@ -1,14 +1,9 @@
 ---
-layout: post
 title: How to travel and still do business
 date: 2009-05-19 14:05:39.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - travel
 meta:
@@ -44,12 +39,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/how-to-travel-and-still-do-business/"
 ---
 <p>I've traveled a lot. Went to France and Venice Italy last summer. London, Paris and Edinburgh the summer before that, and Panama the summer before that. I've traveled and still did business.</p>

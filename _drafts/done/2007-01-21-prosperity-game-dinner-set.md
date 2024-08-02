@@ -1,15 +1,10 @@
 ---
-layout: post
 title: Prosperity Game Dinner set
 date: 2007-01-21 06:36:40.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
-- Whole Enchilada
+- Essays
 tags:
 - Business Ideas
 meta:
@@ -44,12 +39,6 @@ meta:
   _nectar_video_ogv: ''
   _nectar_quote: ''
   _nectar_gallery_slider: 'off'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/prosperity-game-dinner-set/"
 excerpt: Play Prosperity GamesI just sent out invitations to my friends for the first
   Play Prosperity Games pot luck dinner.  We are going to get together and play some

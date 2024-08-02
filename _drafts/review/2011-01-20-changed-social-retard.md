@@ -1,17 +1,12 @@
 ---
-layout: post
 title: How I changed from being a social retard
 date: 2011-01-20 22:41:51.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
 - Personal
-- Whole Enchilada
+- Essays
 tags:
 - networking
 meta:
@@ -51,12 +46,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/changed-social-retard/"
 excerpt: I had a former neighbor tell me recently that she really looked up to me.
   She told me that I was so good at being social. I was shocked. That is one thing

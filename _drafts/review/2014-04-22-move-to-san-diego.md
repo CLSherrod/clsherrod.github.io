@@ -1,16 +1,11 @@
 ---
-layout: post
 title: How I moved without knowing where I was going - Taking a leap of faith
 date: 2014-04-22 03:47:59.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags:
 - abundance
 - travel
@@ -70,12 +65,6 @@ meta:
   _wpb_vc_js_status: 'false'
   _wp_rp_related_posts_query_result_cache_expiration: '1525367948'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"7851";s:5:"score";s:17:"65.60066396701896";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"7824";s:5:"score";s:17:"44.61365192523219";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"7215";s:5:"score";s:17:"41.06553214059643";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"7888";s:5:"score";s:17:"38.41412044034065";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8368";s:5:"score";s:18:"36.094701160808036";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8352";s:5:"score";s:18:"36.094701160808036";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:17:"35.64153171809259";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2779";s:5:"score";s:18:"30.261046608947094";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"421";s:5:"score";s:18:"27.579964115153835";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"9324";s:5:"score";s:18:"26.814495733269066";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:18:"26.140587100601042";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:17:"24.70819590407531";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/move-to-san-diego/"
 ---
 <p>I recently moved to San Diego.</p>

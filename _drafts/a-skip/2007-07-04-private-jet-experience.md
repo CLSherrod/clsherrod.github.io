@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Private jet experience
 date: 2007-07-04 06:33:24.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Personal
 - Travel
-- Whole Enchilada
+- Essays
 tags:
 - travel
 meta:
@@ -45,12 +40,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/private-jet-experience/"
 ---
 <p><a title="img_0219.jpg" href="https://christopher-sherrod.blisslifepress.com/wp-content/uploads/sites/2/img_0219.jpg" rel="nofollow"><img src="{{ site.baseurl }}/posts/2007/07/img_0219.thumbnail.jpg" alt="img_0219.jpg" align="right" /></a>I'm sitting in a private lounge waiting for our plane to be ready.</p>

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Law Of Attraction
 date: 2005-10-04 01:24:26.000000000 -05:00
 type: post
@@ -8,7 +7,7 @@ published: true
 password: ’'
 status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _sexybookmarks_shortUrl: http://b2l.me/4zrrb
@@ -32,12 +31,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: ‘1524884594’
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“43”;s:5:“score”;s:18:“31.467996957428777”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“118”;s:5:“score”;s:18:“31.062948429239395”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“831”;s:5:“score”;s:17:“22.21525217016817”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“89”;s:5:“score”;s:18:“20.170405869485506”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“45”;s:5:“score”;s:17:“18.75906125799664”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“713”;s:5:“score”;s:18:“18.168312421832777”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“344”;s:5:“score”;s:18:“18.168312421832777”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“347”;s:5:“score”;s:17:“16.29252291010217”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“604”;s:5:“score”;s:18:“15.848486792799738”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“296”;s:5:“score”;s:18:“15.848486792799738”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“210”;s:5:“score”;s:18:“15.848486792799738”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“178”;s:5:“score”;s:18:“15.848486792799738”;}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: /law-of-attraction/
 ---
 <p>One of my mentors recommended I learn about the law of attraction so he recommended these books. Ask And It Is Given is excellent. It has many exercises to turn yourself to the correct place for the law of attraction to be effective. Excuse Me Your Life Is Waiting is the same information but with a more mainstream viewpoint. The separate playbook for it is just completely full of exercises which are very helpful.</p>

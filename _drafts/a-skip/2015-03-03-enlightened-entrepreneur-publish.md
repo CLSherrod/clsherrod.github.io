@@ -1,15 +1,10 @@
 ---
-layout: post
 title: Are you the next Enlightened Entrepreneur that I publish?
 date: 2015-03-03 15:12:07.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
-- Whole Enchilada
+- Essays
 tags:
 - book
 meta:
@@ -67,12 +62,6 @@ meta:
   _wpb_vc_js_status: 'false'
   _wp_rp_related_posts_query_result_cache_expiration: '1525363761'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:17:"93.54335067259352";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"7773";s:5:"score";s:17:"70.38182190869136";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:17:"69.61106850963795";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2798";s:5:"score";s:17:"58.91644211825771";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"7851";s:5:"score";s:17:"53.97799198337991";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"157";s:5:"score";s:17:"53.23474341116875";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:17:"44.61365192523219";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:5:"14801";s:5:"score";s:18:"38.563717568700824";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8206";s:5:"score";s:16:"33.2966222211033";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:16:"33.2966222211033";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:17:"32.69777722020754";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"7893";s:5:"score";s:18:"29.803939254329364";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/enlightened-entrepreneur-publish/"
 ---
 <p>Are you the next Marianne Williamson or Eckart Tolle?</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: I hate voice mail
 date: 2009-11-02 23:56:00.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - productivity
 meta:
@@ -27,12 +22,6 @@ meta:
   nectar_blog_post_view_count: '167'
   _wp_rp_related_posts_query_result_cache_expiration: '1525374607'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1347";s:5:"score";s:17:"90.92093751080986";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1251";s:5:"score";s:18:"56.411123438607255";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"747";s:5:"score";s:16:"52.2231193727036";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"686";s:5:"score";s:17:"50.28861646033088";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1423";s:5:"score";s:17:"47.11832602042949";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"741";s:5:"score";s:18:"46.717686076412015";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"850";s:5:"score";s:17:"45.26786972212688";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"363";s:5:"score";s:18:"44.834280103735544";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"717";s:5:"score";s:17:"43.55678532529585";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"389";s:5:"score";s:17:"42.17600820918119";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"722";s:5:"score";s:17:"41.00146428489591";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4580";s:5:"score";s:17:"39.62068716878125";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/i-hate-voice-mail/"
 ---
 <p>I really do hate voice mail. Someone calls you while you're on the phone or bathroom (hint, don't answer the phone while in the bathroom, it's disgusting) and they leave a voice mail. Now I have to call my voice mail and listen to a way too long recording and then they don't leave their phone number.</p>

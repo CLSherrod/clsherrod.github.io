@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Branding is overrated
 date: 2018-05-14 08:00:47.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - branding
 - marketing
@@ -40,12 +35,6 @@ meta:
   _thumbnail_id: '15011'
   nectar_blog_post_view_count: '306'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/branding-is-overrated/"
 ---
 <p>Branding is so overrated.</p>

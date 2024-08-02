@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Branson's doctor in the house
 date: 2008-07-29 01:05:08.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - Virgin Group
 meta:
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '178'
   _wp_rp_related_posts_query_result_cache_expiration: '1524998409'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"261";s:5:"score";s:17:"91.35292114002408";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"407";s:5:"score";s:17:"88.27203105810185";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"227";s:5:"score";s:17:"77.32189530152237";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1417";s:5:"score";s:17:"69.45264962686511";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1309";s:5:"score";s:17:"69.45264962686511";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:17:"69.45264962686511";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:17:"69.45264962686511";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"874";s:5:"score";s:17:"69.45264962686511";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"797";s:5:"score";s:17:"69.45264962686511";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"742";s:5:"score";s:17:"69.45264962686511";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"727";s:5:"score";s:17:"69.45264962686511";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"394";s:5:"score";s:17:"69.45264962686511";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/bransons-doctor-in-the-house/"
 ---
 <p><img class="alignright" src="{{ site.baseurl }}/posts/2008/07/article-0-021653E900000578-845_310x327.jpg" alt="" width="248" height="262" /></p>

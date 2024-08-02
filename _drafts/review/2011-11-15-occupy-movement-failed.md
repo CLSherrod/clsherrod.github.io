@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Why the Occupy Movement failed
 date: 2011-11-15 08:23:21.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _nectar_love: '0'
@@ -20,12 +15,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884805'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1208";s:5:"score";s:18:"25.716633458356075";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1099";s:5:"score";s:18:"22.130315359283426";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"682";s:5:"score";s:17:"21.01108378338741";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"321";s:5:"score";s:18:"17.850183032223754";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"179";s:5:"score";s:18:"16.728152296158747";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"846";s:5:"score";s:18:"16.686628312632518";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1305";s:5:"score";s:17:"16.63057196778352";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"607";s:5:"score";s:18:"16.405913597399316";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"590";s:5:"score";s:18:"16.405913597399316";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"6757";s:5:"score";s:18:"15.830549452515337";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2271";s:5:"score";s:18:"15.442237423583073";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1229";s:5:"score";s:18:"15.341857935038858";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/occupy-movement-failed/"
 ---
 <p><img class="alignright size-medium wp-image-4787" title="Occupy_Santa_Clarita" src="{{ site.baseurl }}/posts/2011/11/Occupy_Santa_Clarita-300x200.jpg" alt="" width="300" height="200" />The Occupy Movement was doomed to fail because they don't have a common voice.</p>

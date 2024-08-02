@@ -1,34 +1,10 @@
 ---
-layout: post
 title: Training vs. Coaching
 date: 2007-12-02 23:00:52.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
-meta:
-  podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
-  _sexybookmarks_shortUrl: http://b2l.me/4xagZ
-  _sexybookmarks_permaHash: 9c3311983079fa2335cff66fac1c2783
-  dsq_thread_id: '43130046'
-  _nectar_love: '0'
-  _wpas_done_all: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1476447727;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:309;}i:1;a:1:{s:2:"id";i:3463;}i:2;a:1:{s:2:"id";i:3540;}}}}
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '124'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524960544'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3436";s:5:"score";s:17:"66.23887095935024";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3431";s:5:"score";s:17:"65.80313797091233";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1403";s:5:"score";s:17:"58.89949819967839";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3463";s:5:"score";s:16:"58.0913361501755";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4593";s:5:"score";s:16:"35.6598810693203";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1265";s:5:"score";s:17:"23.77244487240957";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"410";s:5:"score";s:17:"21.18379045769919";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4491";s:5:"score";s:17:"18.50906223994778";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"438";s:5:"score";s:18:"17.404786949537986";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2078";s:5:"score";s:17:"17.20721171317039";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:18:"16.981192199290312";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"705";s:5:"score";s:18:"16.981192199290312";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/training-vs-coaching/"
 ---
 <p>I'm amazed by the number of people that provide coaching.  I'm also amazed because many of them are not even coaching.  They are training.  Big big difference.</p>

@@ -1,15 +1,10 @@
 ---
-layout: post
 title: Stepped Into Richard Branson
 date: 2017-05-31 12:00:23.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
-- Whole Enchilada
+- Essays
 tags:
 - Richard Branson
 meta:
@@ -43,12 +38,6 @@ meta:
   _force_transparent_header_color: light
   _wp_rp_related_posts_query_result_cache_expiration: '1525194504'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"108";s:5:"score";s:17:"39.21118890867833";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"105";s:5:"score";s:18:"29.650142761757614";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:18:"27.342217994333385";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"110";s:5:"score";s:18:"26.517967818611467";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"33";s:5:"score";s:18:"25.144993416997167";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1179";s:5:"score";s:18:"25.140047510239167";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1178";s:5:"score";s:18:"25.140047510239167";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:18:"25.140047510239167";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:2:"36";s:5:"score";s:18:"25.140047510239167";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"350";s:5:"score";s:17:"23.76707310862487";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"40";s:5:"score";s:17:"23.76707310862487";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8564";s:5:"score";s:17:"23.74604995294198";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/stepped-into-richard-branson/"
 ---
 <p>Back in 2016 I took part in a Native American ceremony and had some major visions.  It was an interesting night.</p>

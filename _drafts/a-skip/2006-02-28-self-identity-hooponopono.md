@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Self Identity Ho'oponopono
 date: 2006-02-28 05:02:09.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
@@ -30,12 +25,6 @@ meta:
   nectar_blog_post_view_count: '160'
   _wp_rp_related_posts_query_result_cache_expiration: '1524988093'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"181";s:5:"score";s:18:"31.137673654908582";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"197";s:5:"score";s:18:"26.102790982927722";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"136";s:5:"score";s:17:"25.24879569620419";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"654";s:5:"score";s:18:"25.076887079930536";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"300";s:5:"score";s:17:"23.86057098176859";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1441";s:5:"score";s:16:"18.4290298778331";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"678";s:5:"score";s:17:"16.84331750061355";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1526";s:5:"score";s:18:"16.666542140985918";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"585";s:5:"score";s:18:"16.666542140985918";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"3229";s:5:"score";s:16:"15.8533213011863";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"124";s:5:"score";s:16:"15.8533213011863";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"355";s:5:"score";s:18:"14.874861897925998";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/self-identity-hooponopono/"
 ---
 <p><a href="http://mrfire.com/" rel="nofollow">Joe Vitale</a> is a business person with a good spritual side to him.  Recently he put together a dinner with a Dr. Len on <a href="http://www.hooponopono.org" rel="nofollow">Ho'oponopono</a>.  Me and a friend went up to Austin and had a lovely time.  There was a room of 75 business and spiritual people.  It was fun to network and be among prosperous people.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Say It's Possible
 date: 2007-01-02 09:24:36.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '147'
   _wp_rp_related_posts_query_result_cache_expiration: '1525006031'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"106";s:5:"score";s:18:"28.559518908955738";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4427";s:5:"score";s:18:"19.806607729720852";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:18:"18.702389417864698";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4206";s:5:"score";s:18:"17.917684512014006";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"794";s:5:"score";s:18:"17.917684512014006";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"6997";s:5:"score";s:18:"17.139319697117173";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1982";s:5:"score";s:17:"16.33181120973883";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"265";s:5:"score";s:17:"16.33181120973883";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4405";s:5:"score";s:17:"15.76971528024991";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"647";s:5:"score";s:18:"15.312901566438091";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2774";s:5:"score";s:18:"15.240166278113099";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1027";s:5:"score";s:18:"13.351243060406256";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/say-its-possible/"
 excerpt: Great use of video.  Many people sent video of themselves holding signs with
   positive saying on it.  The musical artists edited together into a beautiful video

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Nothing but Net
 date: 2008-09-15 00:00:34.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _nectar_love: '0'
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '144'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957874'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:2:"49";s:5:"score";s:17:"44.43606115556624";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"590";s:5:"score";s:17:"40.12638203726049";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"301";s:5:"score";s:17:"39.90098469644297";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"290";s:5:"score";s:17:"37.28016536875293";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"311";s:5:"score";s:17:"36.73515081977332";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1263";s:5:"score";s:18:"35.462654475753936";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1483";s:5:"score";s:17:"35.35916123568479";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1198";s:5:"score";s:17:"35.35916123568479";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"817";s:5:"score";s:17:"35.35916123568479";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"647";s:5:"score";s:17:"35.20118441301121";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"411";s:5:"score";s:17:"35.20118441301121";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2099";s:5:"score";s:17:"35.10239890238279";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/nothing-but-net/"
 ---
 <p><img src="{{ site.baseurl }}/posts/2008/09/basketballnet.jpg" alt="" width="100" align="right" />It is not how much money you make that really matters.Â  I've know many people that make millions and a vast majority of them are broke.</p>

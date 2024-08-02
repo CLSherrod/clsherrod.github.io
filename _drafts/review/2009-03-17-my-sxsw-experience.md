@@ -1,14 +1,9 @@
 ---
-layout: post
 title: My SXSW experience
 date: 2009-03-17 01:50:49.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '180'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957847'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1441";s:5:"score";s:16:"77.3721681491626";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3034";s:5:"score";s:17:"59.42936429823446";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1650";s:5:"score";s:17:"53.76293761008293";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1815";s:5:"score";s:17:"52.39333319321567";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2144";s:5:"score";s:18:"51.058019267040265";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1773";s:5:"score";s:18:"47.668298325433064";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1647";s:5:"score";s:18:"47.668298325433064";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1636";s:5:"score";s:18:"47.668298325433064";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3032";s:5:"score";s:17:"46.33298439925766";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2150";s:5:"score";s:16:"44.9633799823904";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2148";s:5:"score";s:16:"44.9633799823904";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2146";s:5:"score";s:16:"44.9633799823904";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/my-sxsw-experience/"
 ---
 <p>I had a lot of fun experiencing SXSW here in Austin.  I like parties and socializing and the long winded talks bore me.  Last night I did one and was falling asleep.  Had to get up and grab a late dinner.  So I stick to parties.</p>

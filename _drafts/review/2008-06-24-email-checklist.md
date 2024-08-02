@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Email checklist
 date: 2008-06-24 00:03:52.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -24,12 +19,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884771'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"2074";s:5:"score";s:18:"46.404610111994586";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"850";s:5:"score";s:17:"46.33672764511894";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"747";s:5:"score";s:17:"45.24364023242476";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"686";s:5:"score";s:17:"42.21032787443332";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"703";s:5:"score";s:17:"41.55753470510124";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:17:"37.15186532473398";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2861";s:5:"score";s:17:"37.15186532473398";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1423";s:5:"score";s:17:"37.15186532473398";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"722";s:5:"score";s:17:"37.15186532473398";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"717";s:5:"score";s:17:"37.15186532473398";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"684";s:5:"score";s:17:"37.15186532473398";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4580";s:5:"score";s:17:"35.77950830235817";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/email-checklist/"
 ---
 <p>Here is a great checklist before you send out that email.  Here is just a few.  Click the link at the bottom for the full articles.</p>

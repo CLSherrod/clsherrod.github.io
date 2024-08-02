@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Prosperity Games Dinner Party
 date: 2007-03-05 02:59:06.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -20,12 +15,6 @@ meta:
   nectar_blog_post_view_count: '140'
   _wp_rp_related_posts_query_result_cache_expiration: '1525006021'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"136";s:5:"score";s:17:"42.33672484535144";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"585";s:5:"score";s:17:"38.30900586025882";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"44";s:5:"score";s:18:"31.137673654908582";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"141";s:5:"score";s:18:"30.955738404465382";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"197";s:5:"score";s:18:"28.227441196972237";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"240";s:5:"score";s:18:"24.085248057510448";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1526";s:5:"score";s:18:"22.262213151295384";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"3468";s:5:"score";s:18:"19.916772629612616";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"421";s:5:"score";s:17:"19.62356568121769";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1650";s:5:"score";s:18:"19.382497543077346";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"107";s:5:"score";s:18:"17.266255688252276";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:17:"16.72972771505733";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/prosperity-games-dinner-party-5/"
 excerpt: |-
   I had another Play Prosperity Games Dinner Party Friday night in Austin Texas.

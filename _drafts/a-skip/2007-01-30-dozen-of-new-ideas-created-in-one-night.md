@@ -1,15 +1,10 @@
 ---
-layout: post
 title: Dozens of new ideas created in one night
 date: 2007-01-30 09:13:13.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
-- Whole Enchilada
+- Essays
 tags:
 - Business Ideas
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '183'
   _wp_rp_related_posts_query_result_cache_expiration: '1525241524'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"107";s:5:"score";s:17:"99.78692889053642";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"181";s:5:"score";s:18:"42.477272947322675";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"141";s:5:"score";s:17:"38.77956321872194";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"197";s:5:"score";s:17:"36.66482455850137";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"192";s:5:"score";s:17:"32.04305676686431";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:18:"29.767331090233775";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"585";s:5:"score";s:17:"29.46108840428912";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2342";s:5:"score";s:17:"29.22689112454881";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"649";s:5:"score";s:17:"28.49007277270054";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8477";s:5:"score";s:18:"28.296636020247817";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8206";s:5:"score";s:18:"28.296636020247817";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"240";s:5:"score";s:18:"28.031217123093516";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/dozen-of-new-ideas-created-in-one-night/"
 excerpt: |-
   My first Play Prosperity Games dinner was a huge success.

@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Edinburgh Castle
 date: 2007-09-10 12:33:33.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Personal
 - Travel
-- Whole Enchilada
+- Essays
 tags:
 - scotland
 meta:
@@ -46,12 +41,6 @@ meta:
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
   _wp_old_slug: new-videos-and-editing-photos
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/edinburgh-castle/"
 excerpt: "I have uploaded another video on my trip to Europe.\r\n\r\nThis is Edinburgh
   Castle from my hotel room.  It is a time lapse video with no sound.  Just a short

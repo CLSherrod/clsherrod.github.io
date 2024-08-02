@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Leaders and Leaches Which are you?
 date: 2010-10-16 03:00:40.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - ideas
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '164'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957690'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"325";s:5:"score";s:17:"102.6668222625467";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"338";s:5:"score";s:17:"51.84118274121791";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4433";s:5:"score";s:17:"51.03302069171502";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"327";s:5:"score";s:17:"51.03302069171502";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1085";s:5:"score";s:17:"49.55515105145015";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1311";s:5:"score";s:17:"47.33292050899414";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:17:"45.96331609212688";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1058";s:5:"score";s:17:"45.96331609212688";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1052";s:5:"score";s:17:"45.96331609212688";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"843";s:5:"score";s:17:"45.96331609212688";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"874";s:5:"score";s:15:"45.155154042624";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1403";s:5:"score";s:17:"23.81913002272985";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/leaders-leaches/"
 ---
 <p>You're not a leader if you</p>

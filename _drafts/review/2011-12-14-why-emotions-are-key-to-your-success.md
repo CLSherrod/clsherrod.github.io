@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Why emotions are key to your success
 date: 2011-12-14 01:10:44.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _blogpost_images: http://blog.blog.christophersherrod.com/wp-content/uploads/images/video1.jpg
@@ -42,12 +37,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/why-emotions-are-key-to-your-success/"
 ---
 <p><a href="https://christopher-sherrod.blisslifepress.com/wp-content/uploads/sites/2/2011/12/1108723_76812844.jpg"><img class="alignright size-medium wp-image-4810" title="Smiley" src="{{ site.baseurl }}/posts/2011/12/1108723_76812844-300x292.jpg" alt="" width="300" height="292" /></a>I recently had Rhys Thomas of the Rhys Method evaluate me. He did my life purpose profile.</p>

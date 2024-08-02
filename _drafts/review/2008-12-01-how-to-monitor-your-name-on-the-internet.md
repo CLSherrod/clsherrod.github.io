@@ -1,14 +1,9 @@
 ---
-layout: post
 title: How to monitor your name on the Internet
 date: 2008-12-01 02:33:20.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '125'
   _wp_rp_related_posts_query_result_cache_expiration: '1525013699'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1619";s:5:"score";s:18:"63.211672849674876";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1821";s:5:"score";s:17:"59.24127314453557";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1681";s:5:"score";s:17:"58.04228060892124";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3250";s:5:"score";s:17:"57.44578936562985";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1278";s:5:"score";s:18:"57.391435808046396";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1642";s:5:"score";s:17:"54.43328361889071";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1251";s:5:"score";s:17:"51.03302069171502";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1811";s:5:"score";s:18:"50.024818989956536";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1451";s:5:"score";s:18:"50.024818989956536";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1383";s:5:"score";s:18:"50.024818989956536";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1210";s:5:"score";s:17:"49.66341627484776";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2560";s:5:"score";s:18:"48.655214573089275";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/how-to-monitor-your-name-on-the-internet/"
 ---
 <p>Some friends and people I like have had their good name bad mouthed on line recently and I wanted to write about how you can find it out and how to respond.</p>

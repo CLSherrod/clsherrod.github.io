@@ -1,14 +1,9 @@
 ---
-layout: post
 title: How To Create New Business Ideas Is A Best Seller
 date: 2014-09-25 17:51:30.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - book
 meta:
@@ -66,12 +61,6 @@ meta:
   _force_transparent_header_color: light
   _wp_rp_related_posts_query_result_cache_expiration: '1525363721'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:18:"106.10189340853792";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"7824";s:5:"score";s:17:"70.38182190869136";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:18:"56.937216152373125";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"157";s:5:"score";s:17:"49.75353479951616";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:18:"20.622769863838478";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"7786";s:5:"score";s:18:"20.622769863838478";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7173";s:5:"score";s:18:"20.622769863838478";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"7097";s:5:"score";s:18:"20.622769863838478";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"6919";s:5:"score";s:18:"20.622769863838478";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:17:"19.24199274772382";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"7888";s:5:"score";s:17:"19.24199274772382";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"7851";s:5:"score";s:17:"19.24199274772382";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/create-ideas-bestseller/"
 ---
 <p><a href="https://amzn.to/2F1k68Z"><img class="alignright wp-image-7749 size-medium" src="{{ site.baseurl }}/posts/2014/09/flatcover-202x300.jpg" alt="How To Create New Business Ideas" width="202" height="300" /></a>Yesterday was a great day.</p>

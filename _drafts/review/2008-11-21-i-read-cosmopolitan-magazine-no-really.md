@@ -1,16 +1,11 @@
 ---
-layout: post
 title: I read Cosmopolitan magazine, no really
 date: 2008-11-21 03:16:39.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -46,12 +41,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/i-read-cosmopolitan-magazine-no-really/"
 ---
 <p>[caption id="" align="alignright" width="180" caption="Image by Dplanet:: via Flickr"]<a href="http://www.flickr.com/photos/32068310@N00/2070596627" rel="nofollow"><img title="Ben Sharpa in Cosmo Magazine" src="http://farm3.static.flickr.com/2284/2070596627_e6de122f83_m.jpg" alt="Ben Sharpa in Cosmo Magazine" width="180" height="240" / rel="nofollow"/></a>[/caption]</p>

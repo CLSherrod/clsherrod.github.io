@@ -1,15 +1,10 @@
 ---
-layout: post
 title: The Only Thing That’s Keeping You From Getting What You Want Is The Story You
   Keep Telling Yourself
 date: 2009-05-12 21:59:34.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -26,12 +21,6 @@ meta:
   nectar_blog_post_view_count: '178'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986315'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"2686";s:5:"score";s:17:"61.76623703179736";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1801";s:5:"score";s:16:"59.6002630901416";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"154";s:5:"score";s:17:"32.06862587886568";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"602";s:5:"score";s:18:"25.381800799828383";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"783";s:5:"score";s:18:"23.023418953960405";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:18:"19.227455588929438";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"577";s:5:"score";s:18:"17.919714969030025";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"739";s:5:"score";s:18:"17.649365412525363";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:2:"20";s:5:"score";s:17:"17.41669819205795";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"655";s:5:"score";s:17:"16.74073091183845";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"654";s:5:"score";s:17:"16.74073091183845";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"379";s:5:"score";s:18:"16.628889620593498";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/the-only-thing-thats-keeping-you-from-getting-what-you-want-is-the-story-you-keep-telling-yourself/"
 ---
 <p>I didn't think I was good at public speaking.  I joined Toastmasters and did that for over a year until I got so comfortable with my group that I wasn't learning anymore.  If I know people I can easily speak out, doing that in front of a lot of strangers was another story.</p>

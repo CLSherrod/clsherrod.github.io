@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Do Not Spend Until You Earn
 date: 2008-12-23 01:19:22.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -25,12 +20,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884692'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1027";s:5:"score";s:17:"68.35848706534132";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1192";s:5:"score";s:17:"58.94310421420184";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1363";s:5:"score";s:17:"56.43121087335162";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:18:"54.478472419792176";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"710";s:5:"score";s:17:"51.09059112683877";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1229";s:5:"score";s:17:"47.50707218868476";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:17:"47.50707218868476";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"664";s:5:"score";s:18:"47.233028593125404";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:18:"43.677384332493105";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1513";s:5:"score";s:18:"42.901902002293866";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1199";s:5:"score";s:17:"41.52954497991805";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"326";s:5:"score";s:17:"41.52954497991805";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/do-not-spend-until-you-earn/"
 ---
 <p>The biggest issue I see with people starting in a new business is they spend way too much money starting before they make a single penny.  I know most people think the problem is not spending any money to get started which is why they are unsuccessful.  But, I disagree.  I've seen many people start with no or little money and be successful.  I've seen a ton of people with a ton of money that spend it all before making a dime.</p>

@@ -1,15 +1,10 @@
 ---
-layout: post
 title: My Product Camp 09 Experience
 date: 2009-08-17 11:06:18.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Marketing
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_tweeted: '1'
@@ -46,12 +41,6 @@ meta:
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
   _thumbnail_id: '1924'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/product-camp-09-experience/"
 ---
 <p>[caption id="attachment_1924" align="alignright" width="240"]<img class="size-full wp-image-1924" title="Product Camp Austin Texas 2009-08-15 August" src="{{ site.baseurl }}/posts/2009/08/3823473024_28e656e422_m.jpg" alt="Product Camp Austin Texas 2009-08-15 August" width="240" height="180" /> Product Camp Austin 2009, photo by BWhichard[/caption]</p>

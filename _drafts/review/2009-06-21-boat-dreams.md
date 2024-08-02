@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Boat dreams
 date: 2009-06-21 10:12:59.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - abundance
 meta:
@@ -50,12 +45,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/boat-dreams/"
 ---
 <p>I wanted a new goal to reach this last week. I only had one big dream, moving to Paris in 2012 but I needed another big dream in between. I started to get interested in boats again. Back in the mid 90's while at American Express my entire cubicle was filled with pictures of sailboats. I wanted to own a 45 foot sailboat in the Caribbean and have <a href="http://www.moorings.com/">The Moorings</a> rent it out for me.</p>

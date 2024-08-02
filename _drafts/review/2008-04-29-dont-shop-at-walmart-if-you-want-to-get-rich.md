@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Don't Shop at Walmart if you want to get rich
 date: 2008-04-29 22:00:50.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '124'
   _wp_rp_related_posts_query_result_cache_expiration: '1525374035'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1483";s:5:"score";s:17:"28.58612882185656";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"393";s:5:"score";s:17:"23.81792492032283";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"869";s:5:"score";s:17:"21.98534345657452";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"400";s:5:"score";s:17:"17.14345840060267";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"662";s:5:"score";s:18:"16.639806682758827";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"289";s:5:"score";s:18:"16.639806682758827";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1030";s:5:"score";s:18:"16.438197284606055";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"8367";s:5:"score";s:18:"15.355822648453504";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1277";s:5:"score";s:18:"15.355822648453504";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"700";s:5:"score";s:18:"15.154213250300732";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"40";s:5:"score";s:18:"14.160148646958838";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:2:"49";s:5:"score";s:18:"14.046757959514586";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/dont-shop-at-walmart-if-you-want-to-get-rich/"
 ---
 <p><img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/04/walmart.jpg" alt="" width="300" height="365" />I'm glad someone had the guts to say it the way it is.</p>

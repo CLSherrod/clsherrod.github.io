@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Uxmal Mayan Pyramid Valentine's Day Extended Weekend Photo Share
 date: 2019-02-20 18:00:13.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Personal
 - Spirituality
 - Travel
-- Whole Enchilada
+- Essays
 tags:
 - mayan
 - pyramids
@@ -38,12 +33,6 @@ meta:
   _wpb_vc_js_status: 'false'
   nectar_blog_post_view_count: '121'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/uxmal-mayan-pyramid-valentines-day-extended-weekend-photo-share/"
 ---
 <p>For Valentine's Day I took my love to Uxmal in Yucatan Mexico.</p>

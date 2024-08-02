@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Viva La France
 date: 2008-07-14 08:00:18.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - france
 - travel
@@ -40,12 +35,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/viva-la-france/"
 ---
 <p><img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/07/Monet-montorgueil.JPG" alt="" width="200" />Today is Bastille Day here in France.  On 14 July 1790 there was a huge feast and official event to celebrate the uprising of the short-lived constitutional monarchy in France and what people considered the happy conclusion of the French Revolution.  People ran down the streets naked in order to celebrate their new freedom, such as they occasionally do here in France, mostly beaches now though.</p>

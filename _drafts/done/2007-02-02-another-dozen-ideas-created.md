@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Another dozen ideas created
 date: 2007-02-02 04:31:00.000000000 -06:00
 type: post
@@ -8,7 +7,7 @@ published: true
 password: ’’
 status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:“s:11:“s:4:“b:0;”;”;”;
@@ -21,12 +20,6 @@ meta:
   nectar_blog_post_view_count: ‘165’
   _wp_rp_related_posts_query_result_cache_expiration: ‘1525373462’
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“197”;s:5:“score”;s:18:“41.664686982106744”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“136”;s:5:“score”;s:17:“39.06359735412803”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“181”;s:5:“score”;s:18:“31.358036631872974”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“2342”;s:5:“score”;s:18:“29.483050752828987”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“240”;s:5:“score”;s:18:“28.278820050378627”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“2381”;s:5:“score”;s:18:“27.302287173809994”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“2330”;s:5:“score”;s:18:“27.302287173809994”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“107”;s:5:“score”;s:18:“24.847345622457766”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“649”;s:5:“score”;s:16:“21.4598276813089”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“239”;s:5:“score”;s:16:“21.4598276813089”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“2335”;s:5:“score”;s:16:“20.9775035676696”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1650”;s:5:“score”;s:16:“20.9775035676696”;}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/another-dozen-ideas-created/"
 excerpt: "\nThe second Play Prosperity Games dinner was a huge hit.  Feedback is great.
   \ Everyone really enjoyed the game we played.  And the ideas were great and based

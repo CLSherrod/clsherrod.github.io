@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Intl Passion Day -- a time to rekindle your passion
 date: 2008-09-29 22:00:42.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - leadership
 - love
@@ -26,12 +21,6 @@ meta:
   nectar_blog_post_view_count: '159'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957642'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1597";s:5:"score";s:17:"92.56542389055737";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"289";s:5:"score";s:17:"55.63752754188322";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"30";s:5:"score";s:16:"53.2191955172711";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"603";s:5:"score";s:17:"53.12240243564237";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4593";s:5:"score";s:17:"49.66341627484776";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"632";s:5:"score";s:17:"46.49537819342565";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"277";s:5:"score";s:17:"46.49537819342565";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2017";s:5:"score";s:18:"46.381987506086524";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1030";s:5:"score";s:18:"46.381987506086524";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"587";s:5:"score";s:18:"46.381987506086524";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"274";s:5:"score";s:18:"46.381987506086524";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:18:"42.923001345291915";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/intl-passion-day-a-time-to-rekindle-your-passion/"
 ---
 <p><a href="http://www.thepassiontest.com/offer/home/?af=na" rel="nofollow"><img class="alignright" title="The Passion Test" src="http://www.thepassiontest.com/images/database/830.jpg" alt="" width="156" height="240" / rel="nofollow"/></a>Chris and Janet Attwood are probably the most knowledgeable, most impressive, and most practical experts I know on what it takes to discover and live your passions.</p>

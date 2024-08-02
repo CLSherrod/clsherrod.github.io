@@ -1,12 +1,7 @@
 ---
-layout: post
 title: 'New Release: Warm'
 date: 2017-05-30 09:00:19.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - My Art
 - Personal
@@ -37,12 +32,6 @@ meta:
   _wpb_vc_js_status: 'false'
   nectar_blog_post_view_count: '173'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/new-release-warm/"
 ---
 <p>New meditation song has a very warm feel to it. 16 minutes. Enjoy.<br />

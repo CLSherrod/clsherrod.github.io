@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Richard Branson's advice on ˜Starting a Business"
 date: 2007-12-11 05:35:40.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - music
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '164'
   _wp_rp_related_posts_query_result_cache_expiration: '1524959130'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:17:"49.95802887782558";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"742";s:5:"score";s:17:"49.40915518643882";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"692";s:5:"score";s:17:"49.40915518643882";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"6997";s:5:"score";s:18:"49.209805123747536";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"6885";s:5:"score";s:18:"49.209805123747536";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"316";s:5:"score";s:18:"49.209805123747536";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"327";s:5:"score";s:18:"49.149866828322686";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"319";s:5:"score";s:17:"48.60099313693593";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"7846";s:5:"score";s:18:"47.840200706880275";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:18:"47.840200706880275";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1305";s:5:"score";s:18:"46.752475333875296";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1250";s:5:"score";s:17:"45.79359794032615";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/richard-bransons-advice-on-starting-a-business/"
 ---
 <p>John Singh interviewed Richard Branson on starting a business.Â  Richard gives some excellent advice.</p>

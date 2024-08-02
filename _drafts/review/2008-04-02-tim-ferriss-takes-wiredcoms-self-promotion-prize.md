@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Tim Ferriss Takes Wired.com's Self-Promotion Prize
 date: 2008-04-02 22:00:32.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '141'
   _wp_rp_related_posts_query_result_cache_expiration: '1524960529'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"850";s:5:"score";s:17:"60.68115927433319";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"722";s:5:"score";s:18:"48.920093301531786";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"684";s:5:"score";s:18:"45.364314059108445";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"836";s:5:"score";s:18:"43.582570338415174";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4580";s:5:"score";s:18:"39.356251906072195";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2074";s:5:"score";s:18:"39.356251906072195";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1423";s:5:"score";s:18:"39.356251906072195";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1299";s:5:"score";s:17:"38.62389912916154";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1811";s:5:"score";s:17:"37.26534446408001";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:18:"35.800472663648854";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2861";s:5:"score";s:18:"35.800472663648854";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1347";s:5:"score";s:18:"35.800472663648854";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/tim-ferriss-takes-wiredcoms-self-promotion-prize/"
 ---
 <p>I love Tim Ferriss' book the <em>4 Hour Work Week</em>.Â  Even though I've had assistants for certain things I never thought of having a VA for everything.Â  Thanks Tim for changing my life.</p>

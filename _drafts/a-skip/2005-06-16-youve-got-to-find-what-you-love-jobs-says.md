@@ -1,5 +1,4 @@
 ---
-layout: post
 title: “‘You’ve got to find what you love,’ Jobs says”
 date: 2005-06-16 01:35:57.000000000 -05:00
 type: post
@@ -8,7 +7,7 @@ published: true
 password: ’'
 status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _sexybookmarks_shortUrl: http://b2l.me/4xrkv
@@ -33,12 +32,6 @@ meta:
   nectar_blog_post_view_count: ‘143’
   _wp_rp_related_posts_query_result_cache_expiration: ‘1524960735’
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“4765”;s:5:“score”;s:17:“33.62213700366137”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1597”;s:5:“score”;s:18:“28.920344291229917”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“4699”;s:5:“score”;s:18:“25.364565048806575”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“214”;s:5:“score”;s:18:“22.579922985238202”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“51”;s:5:“score”;s:18:“21.398186322320036”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“134”;s:5:“score”;s:16:“18.6255976000635”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“380”;s:5:“score”;s:18:“18.337746304276788”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1192”;s:5:“score”;s:18:“17.187018014466872”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“869”;s:5:“score”;s:17:“17.03147686367199”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“31”;s:5:“score”;s:17:“16.63013547273372”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“4809”;s:5:“score”;s:18:“15.387328921096874”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1085”;s:5:“score”;s:17:“14.52690872858513”;}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: /youve-got-to-find-what-you-love-jobs-says/
 ---
 <p><a href="http://news-service.stanford.edu/news/2005/june15/jobs-061505.html" rel="nofollow">’You’ve got to find what you love,’ Jobs says</a></p>

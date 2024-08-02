@@ -1,16 +1,11 @@
 ---
-layout: post
 title: There is no future without forgiveness
 date: 2017-11-02 09:00:30.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _nectar_header_bg_height: ''
@@ -44,12 +39,6 @@ meta:
   _thumbnail_id: '14741'
   _wp_rp_related_posts_query_result_cache_expiration: '1525288571'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"7173";s:5:"score";s:17:"69.87221428296951";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"9324";s:5:"score";s:17:"19.05410249959492";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"9307";s:5:"score";s:17:"19.05410249959492";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"8368";s:5:"score";s:17:"19.05410249959492";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8367";s:5:"score";s:17:"19.05410249959492";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8352";s:5:"score";s:17:"19.05410249959492";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:17:"19.05410249959492";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"6678";s:5:"score";s:17:"19.05410249959492";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"5870";s:5:"score";s:17:"19.05410249959492";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:17:"19.05410249959492";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"809";s:5:"score";s:17:"19.05410249959492";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:17:"19.05410249959492";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/there-is-no-future-without-forgiveness/"
 ---
 <p>Archbishop Desmond Tutu</p>

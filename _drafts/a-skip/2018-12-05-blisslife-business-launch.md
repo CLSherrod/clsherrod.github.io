@@ -5,7 +5,7 @@ published: true
 categories:
 - All Featured Articles
 - Entrepreneurship
-- Whole Enchilada
+- Essays
 tags:
 - launch
 permalink: "/blisslife-business-launch/"

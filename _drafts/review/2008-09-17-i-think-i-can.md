@@ -1,14 +1,9 @@
 ---
-layout: post
 title: I Think I Can
 date: 2008-09-17 00:25:36.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -25,12 +20,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884584'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1513";s:5:"score";s:17:"85.59887649929348";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1321";s:5:"score";s:17:"68.35848706534132";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:18:"54.478472419792176";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"364";s:5:"score";s:17:"51.04581730860761";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2774";s:5:"score";s:16:"50.8717945549808";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1399";s:5:"score";s:17:"50.23488709272695";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"690";s:5:"score";s:17:"50.23488709272695";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4546";s:5:"score";s:17:"48.86253007035113";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1363";s:5:"score";s:16:"46.8701647264309";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"707";s:5:"score";s:17:"44.89426734621409";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1192";s:5:"score";s:18:"42.901902002293866";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"664";s:5:"score";s:18:"42.901902002293866";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/i-think-i-can/"
 ---
 <p>Do you know the difference between successful and unsuccessful business people?</p>

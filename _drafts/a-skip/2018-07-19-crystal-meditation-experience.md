@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Crystal Meditation Experience
 date: 2018-07-19 16:23:47.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Personal
 - Spirituality
-- Whole Enchilada
+- Essays
 tags:
 - meditation
 meta:
@@ -37,12 +32,6 @@ meta:
   nectar_blog_post_view_count: '254'
   _nectar_love: '0'
   _thumbnail_id: '15262'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/crystal-meditation-experience/"
 ---
 <p>Just back from an amazing meditation retreat with Nan Akasha in the biggest crystal area in America, Hot Springs Arkansas.</p>

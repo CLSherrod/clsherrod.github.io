@@ -1,15 +1,10 @@
 ---
-layout: post
 title: I am my first client
 date: 2010-10-05 22:04:10.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -22,12 +17,6 @@ meta:
   _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
   _wp_rp_image: empty
   nectar_blog_post_view_count: '137'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/i-am-my-first-client/"
 ---
 <p>You are your first client. If you don't prioritize yourself everyone else suffers.</p>

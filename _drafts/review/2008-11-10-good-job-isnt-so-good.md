@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Good job isn't so good
 date: 2008-11-10 22:34:03.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -19,12 +14,6 @@ meta:
   _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
   _wp_rp_image: empty
   nectar_blog_post_view_count: '138'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/good-job-isnt-so-good/"
 ---
 <p>Having a good job is not what it used to be.  In fact, it's pretty risky.  After working your ass off for many years companies just let you go.  It's happened to many of my family members.</p>

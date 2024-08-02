@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Market every day
 date: 2008-12-02 00:30:36.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'no'
@@ -20,12 +15,6 @@ meta:
   _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
   _wp_rp_image: empty
   nectar_blog_post_view_count: '126'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/market-every-day/"
 ---
 <p>I doing marketing every day (except weekends of course).  If you market every day then your stream of business stays fairly constant.  If you get so busy that you can't market for a month then your sales funnel will suffer.  You'll notice that you won't have any business and will be able to market full time and make no money.  Not good.</p>

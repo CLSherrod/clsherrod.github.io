@@ -1,12 +1,7 @@
 ---
-layout: post
 title: Real Artists Don't Starve
 date: 2018-05-06 17:30:40.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Lifestyle
@@ -37,12 +32,6 @@ meta:
   _wp_old_date: '2018-05-07'
   nectar_blog_post_view_count: '350'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/real-artists-dont-starve/"
 ---
 <p><a href="https://amzn.to/2rqlJVp"><img class="alignright wp-image-15207 size-medium" src="{{ site.baseurl }}/posts/2018/05/Real-Artists-Dont-Starve-197x300.jpg" alt="Real Artists Don't Starve" width="197" height="300" /></a>A friend at a small dinner party recommended I read <a href="https://amzn.to/2rqlJVp">Real Artists Don't Starve</a>. Two days later I finished the book.</p>

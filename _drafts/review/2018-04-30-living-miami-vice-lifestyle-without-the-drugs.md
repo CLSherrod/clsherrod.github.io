@@ -1,18 +1,13 @@
 ---
-layout: post
 title: Living the Miami Vice lifestyle without the drugs
 date: 2018-04-30 08:00:46.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Lifestyle
 - Personal
 - Travel
-- Whole Enchilada
+- Essays
 tags:
 - lifestyle
 - travel
@@ -40,12 +35,6 @@ meta:
   _wpb_vc_js_status: 'false'
   nectar_blog_post_view_count: '281'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/living-miami-vice-lifestyle-without-the-drugs/"
 ---
 <p>My favorite show as a teenager living in remote Alaska was, believe it or not, <a href="https://www.nbc.com/miami-vice?nbc=1">Miami Vice</a>.</p>

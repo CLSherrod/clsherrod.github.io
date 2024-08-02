@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Dreaming my solution
 date: 2008-08-04 22:00:54.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '160'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987251'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3412";s:5:"score";s:17:"29.64142963930798";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"627";s:5:"score";s:17:"26.12267530592472";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"272";s:5:"score";s:16:"24.1996129272252";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"673";s:5:"score";s:17:"19.51891404328963";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4388";s:5:"score";s:18:"18.800082026879643";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"626";s:5:"score";s:18:"18.066544512719606";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"620";s:5:"score";s:18:"18.066544512719606";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"388";s:5:"score";s:18:"17.548670227306125";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1198";s:5:"score";s:18:"17.201824784153313";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"313";s:5:"score";s:18:"17.201824784153313";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"3577";s:5:"score";s:17:"17.03819112981052";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"586";s:5:"score";s:17:"16.62646063925534";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/dreaming-my-solution/"
 ---
 <p>Last year I had a dream where I knew exactly how to create a product and it would take less than 2 hours for everything.</p>

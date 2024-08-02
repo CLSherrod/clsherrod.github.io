@@ -1,16 +1,11 @@
 ---
-layout: post
 title: How to outsource everything but your sex life
 date: 2014-05-02 01:46:46.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - System Mastery
-- Whole Enchilada
+- Essays
 tags:
 - Business Automation
 meta:
@@ -69,12 +64,6 @@ meta:
   _wpb_vc_js_status: 'false'
   _wp_rp_related_posts_query_result_cache_expiration: '1525363698'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"7786";s:5:"score";s:18:"105.58933038456266";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8369";s:5:"score";s:17:"44.46458332865949";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:17:"41.06553214059643";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"7851";s:5:"score";s:18:"34.166937787719206";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"7824";s:5:"score";s:18:"29.579464716301214";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:18:"26.140587100601042";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"678";s:5:"score";s:18:"25.630240462189846";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"665";s:5:"score";s:18:"21.556476607634618";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:5:"14801";s:5:"score";s:17:"20.80230986301634";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:17:"20.80230986301634";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:17:"19.24199274772382";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:17:"19.24199274772382";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/outsource-everything/"
 ---
 <p><img class="alignright size-medium wp-image-7217" src="{{ site.baseurl }}/posts/2014/05/IMG_4157-300x300.jpg" alt="Christopher Sherrod at La Costa Resort" width="300" height="300" />I celebrated my birthday last week. Thai massage, comedy club, meals with friends, trip to a safari park with the family, resort, another massage, champagne, chocolate covered strawberries, on and on.<br style="color: #37404e;" /><br style="color: #37404e;" /><span style="color: #37404e;">I need a vacation from my vacation to recover.</span></p>

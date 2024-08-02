@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Cruise Ships and upsells
 date: 2009-11-16 22:00:39.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '175'
   _wp_rp_related_posts_query_result_cache_expiration: '1525254048'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"654";s:5:"score";s:17:"38.62095942090562";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1261";s:5:"score";s:17:"37.59930817337644";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1185";s:5:"score";s:17:"37.59930817337644";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1619";s:5:"score";s:18:"36.926363700117236";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"6806";s:5:"score";s:17:"35.64886989293592";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2116";s:5:"score";s:17:"35.64886989293592";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2105";s:5:"score";s:17:"35.41602093511996";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1811";s:5:"score";s:17:"34.74307646186075";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1923";s:5:"score";s:18:"34.462076337503994";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:18:"34.380432348843904";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1299";s:5:"score";s:17:"32.99413798738835";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:17:"32.07928829322388";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/cruise-ships-upsells/"
 ---
 <p>[caption id="attachment_2085" align="alignright" width="300" caption="Cruise Ship"]<img class="size-medium wp-image-2085" title="Cruise Ship" src="{{ site.baseurl }}/posts/2009/11/cruisecarnival-300x163.jpg" alt="Cruise Ship" width="300" height="163" />[/caption]</p>

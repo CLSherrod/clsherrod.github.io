@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Warm and Cozy Fleece Blankets With Powerful Affirmations
 date: 2007-05-17 00:52:18.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
@@ -21,12 +16,6 @@ meta:
   nectar_blog_post_view_count: '154'
   _wp_rp_related_posts_query_result_cache_expiration: '1524960637'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"604";s:5:"score";s:17:"32.43340866200915";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8477";s:5:"score";s:17:"22.86178857262912";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"178";s:5:"score";s:18:"22.823588230156027";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"156";s:5:"score";s:18:"22.823588230156027";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"18";s:5:"score";s:18:"22.823588230156027";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"188";s:5:"score";s:18:"17.536612918500005";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"850";s:5:"score";s:18:"16.803915963897744";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"296";s:5:"score";s:18:"15.858312802979297";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"152";s:5:"score";s:18:"15.858312802979297";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"118";s:5:"score";s:18:"15.858312802979297";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"21";s:5:"score";s:18:"15.858312802979297";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"400";s:5:"score";s:18:"15.127257583052543";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/warm-and-cozy-fleece-blankets-with-powerful-affirmations/"
 excerpt: These affirmation blankets are one of the best law of attraction products
   I've seen.

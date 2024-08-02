@@ -1,14 +1,9 @@
 ---
-layout: post
 title: 10 Questions for Richard Branson
 date: 2007-12-24 04:00:37.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - Virgin Group
 meta:
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '344'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986212'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"227";s:5:"score";s:17:"85.41383725755736";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"365";s:5:"score";s:17:"74.46370150097786";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"321";s:5:"score";s:17:"74.01741439834944";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1417";s:5:"score";s:17:"72.26647692361931";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"727";s:5:"score";s:17:"72.26647692361931";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"742";s:5:"score";s:17:"72.10639150826105";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1309";s:5:"score";s:17:"64.08892988929637";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1305";s:5:"score";s:17:"64.08892988929637";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1303";s:5:"score";s:17:"64.08892988929637";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1289";s:5:"score";s:17:"64.08892988929637";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:17:"64.08892988929637";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:17:"64.08892988929637";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/10-questions-for-richard-branson/"
 ---
 <p>Here is one out of 10 questions that Time magazine asked Richard Branson.  Very revealing.  Click the link below to see all 10 questions and answers</p>

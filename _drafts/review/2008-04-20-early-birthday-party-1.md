@@ -1,14 +1,9 @@
 ---
-layout: post
 title: 'Early Birthday Party #1'
 date: 2008-04-20 20:00:11.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '129'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987258'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"662";s:5:"score";s:17:"64.20354220964808";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"988";s:5:"score";s:17:"51.89485178798986";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"702";s:5:"score";s:17:"51.89485178798986";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"198";s:5:"score";s:17:"23.74888700148533";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1250";s:5:"score";s:18:"23.647942147402496";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4082";s:5:"score";s:17:"22.94002183449738";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7215";s:5:"score";s:17:"21.59970650977102";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1030";s:5:"score";s:18:"20.105889794641968";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"421";s:5:"score";s:17:"19.57650468638613";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8206";s:5:"score";s:17:"18.02298204495213";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"200";s:5:"score";s:18:"17.762382159378813";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4437";s:5:"score";s:18:"16.682666720225768";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/early-birthday-party-1/"
 ---
 <p><img src="{{ site.baseurl }}/posts/2008/04/2430258523_ae985caed3.jpg" border="0" alt="20080421_0394" width="180" height="240" align="right" />I was quietly relaxing on the back porch when my love Nan called me and told me there was a change of plans.  Instead of dropping one the kids friends back at her place they were buying me presents and going to throw me an early birthday party.  Even the kids friend insisted on coming back to our place to celebrate.  It was touching and I couldn't get back to what I was thinking about while waiting for them.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: High Oil Prices Is Good
 date: 2008-09-23 23:35:28.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _sexybookmarks_permaHash: ac300a7b07e1f6f961ad0e94b6f039a1
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '103'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987398'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"389";s:5:"score";s:18:"22.805206647281494";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3250";s:5:"score";s:16:"17.6807381703383";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"279";s:5:"score";s:17:"16.84331750061355";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1267";s:5:"score";s:18:"13.349499694368033";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4227";s:5:"score";s:18:"12.774135549470058";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"3251";s:5:"score";s:18:"12.774135549470058";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"3234";s:5:"score";s:18:"12.774135549470058";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"320";s:5:"score";s:18:"12.774135549470058";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4432";s:5:"score";s:18:"11.782059702383707";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:18:"11.516918230611344";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1540";s:5:"score";s:18:"11.516918230611344";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1099";s:5:"score";s:18:"11.516918230611344";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/high-oil-prices-is-good/"
 ---
 <p>High oil prices are good?&nbsp; Why when everyone on the news says it's bad?&nbsp; When all your neighbors and friends say it is bad?</p>

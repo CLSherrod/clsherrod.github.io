@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Online Business Networking
 date: 2005-10-21 09:11:58.000000000 -05:00
 type: post
@@ -10,7 +9,7 @@ status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: ‘no’
@@ -36,12 +35,6 @@ meta:
   nectar_blog_post_view_count: ‘156’
   _wp_rp_related_posts_query_result_cache_expiration: ‘1524957843’
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“2282”;s:5:“score”;s:16:“64.3731647919806”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“356”;s:5:“score”;s:17:“50.74144902819184”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“277”;s:5:“score”;s:18:“49.371844611324576”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“624”;s:5:“score”;s:18:“47.141146448760544”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1257”;s:5:“score”;s:17:“46.33298439925766”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“370”;s:5:“score”;s:17:“46.33298439925766”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“383”;s:5:“score”;s:16:“44.9633799823904”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“6929”;s:5:“score”;s:18:“29.044783464104157”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“20”;s:5:“score”;s:18:“24.311327531262833”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“6757”;s:5:“score”;s:17:“23.83924316810668”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“4593”;s:5:“score”;s:17:“23.83924316810668”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“37”;s:5:“score”;s:17:“23.83924316810668”;}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/online-business-networking/"
 ---
 <p>I’m currently taking an online class “Exploring the World of Online Business Networking” from a <a href="http://www.sonipitts.com">Soni Pitts</a>.  Whom I met thru <a href="http://www.coachville.com">Coachville</a>.  Where I’m learning how to apply coaching to our business.</p>

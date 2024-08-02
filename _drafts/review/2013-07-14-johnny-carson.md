@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Johnny Carson The Hero
 date: 2013-07-14 04:30:20.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - hero
 meta:
@@ -68,12 +63,6 @@ meta:
   _wpb_vc_js_status: 'false'
   _nectar_header_bg_color: ''
   _nectar_page_header_bg_alignment: top
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/johnny-carson/"
 ---
 <p>Johnny Carson was better than most people thought.</p>

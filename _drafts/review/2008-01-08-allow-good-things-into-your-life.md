@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Allow Good Things Into Your Life
 date: 2008-01-08 23:00:53.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:255:&quot;a:6:{s:15:&quot;itunes:subtitle&quot;;s:15:&quot;##PostExcerpt##&quot;;s:14:&quot;itunes:summary&quot;;s:15:&quot;##PostExcerpt##&quot;;s:15:&quot;itunes:keywords&quot;;s:17:&quot;##WordPressCats##&quot;;s:13:&quot;itunes:author&quot;;s:10:&quot;##Global##&quot;;s:15:&quot;itunes:explicit&quot;;s:7:&quot;Default&quot;;s:12:&quot;itunes:block&quot;;s:7:&quot;Default&quot;;}&quot;;
@@ -46,12 +41,6 @@ meta:
   nectar_blog_post_view_count: '124'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986974'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"134";s:5:"score";s:18:"26.065107990423517";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"393";s:5:"score";s:17:"22.79553043526197";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"143";s:5:"score";s:18:"20.598305857911786";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"369";s:5:"score";s:18:"20.199717072641445";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"288";s:5:"score";s:17:"19.52677259934036";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"188";s:5:"score";s:18:"19.519525609711135";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"601";s:5:"score";s:16:"17.6807381703383";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1030";s:5:"score";s:18:"17.410530744481772";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"662";s:5:"score";s:17:"16.96424364185335";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"428";s:5:"score";s:17:"16.96424364185335";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"105";s:5:"score";s:18:"16.934761998884717";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1259";s:5:"score";s:18:"16.610650280045583";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/allow-good-things-into-your-life/"
 ---
 <p>A great list of how to allow good things into your life.</p>

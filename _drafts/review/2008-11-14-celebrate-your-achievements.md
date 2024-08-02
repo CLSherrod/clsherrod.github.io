@@ -1,15 +1,10 @@
 ---
-layout: post
 title: Celebrate your achievements
 date: 2008-11-14 04:00:32.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Mindset
-- Whole Enchilada
+- Essays
 tags:
 - abundance
 - gratitude
@@ -44,12 +39,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/celebrate-your-achievements/"
 ---
 <p>I'm about to leave for an extended weekend out of town.  I'm taking Richard Branson's advice in his new book "Business Stripped Bare" and I'm throwing a party.  Yup, Saturday night my girlfriend Nan and I are throwing a party.  I invited all my friends and web clients around the world to come.</p>

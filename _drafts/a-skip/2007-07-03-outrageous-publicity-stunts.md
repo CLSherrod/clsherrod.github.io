@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Outrageous publicity stunts!
 date: 2007-07-03 10:56:17.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '159'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987822'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1052";s:5:"score";s:17:"67.50239245214175";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:17:"65.83474918078215";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"731";s:5:"score";s:17:"65.83474918078215";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1244";s:5:"score";s:17:"64.04340629134714";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"380";s:5:"score";s:17:"52.67675244645447";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"359";s:5:"score";s:17:"49.10437559832073";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"321";s:5:"score";s:17:"49.10437559832073";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"727";s:5:"score";s:17:"48.89365456701905";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"318";s:5:"score";s:18:"48.529011453408785";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:18:"47.382827428014195";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"280";s:5:"score";s:16:"45.3625162931986";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1309";s:5:"score";s:18:"43.923841267219586";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/outrageous-publicity-stunts/"
 excerpt: "Dan Eldridge reviewed the new book \"Can We Do That?\" and provides this
   excerpt about Richard Branson.\n\nHis trademark is outlandish publicity stunts.

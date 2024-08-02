@@ -1,14 +1,9 @@
 ---
-layout: post
 title: It's the end of the world
 date: 2008-10-01 02:56:44.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - Virgin Group
 meta:
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '171'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957656'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"742";s:5:"score";s:17:"83.15981417949212";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:17:"78.26957888473346";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1309";s:5:"score";s:17:"77.43349110393302";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"302";s:5:"score";s:17:"76.60854541367843";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"284";s:5:"score";s:17:"75.96474535407037";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1058";s:5:"score";s:17:"75.52875752715889";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"389";s:5:"score";s:17:"75.25558102768721";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"327";s:5:"score";s:16:"74.9866849812318";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1417";s:5:"score";s:16:"73.8611142557993";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"394";s:5:"score";s:16:"73.8611142557993";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"321";s:5:"score";s:16:"73.8611142557993";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"318";s:5:"score";s:17:"73.21731419619124";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/its-the-end-of-the-world/"
 ---
 <p>My friend Craig Perrine had an excellent post yesterday about the economic non end of the world.  Nice quote here.</p>

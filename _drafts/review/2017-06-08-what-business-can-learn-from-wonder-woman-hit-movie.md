@@ -1,15 +1,10 @@
 ---
-layout: post
 title: What business can learn from Wonder Woman hit movie
 date: 2017-06-08 08:00:31.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
-- Whole Enchilada
+- Essays
 tags:
 - conscious business
 meta:
@@ -43,12 +38,6 @@ meta:
   _force_transparent_header_color: light
   _wp_rp_related_posts_query_result_cache_expiration: '1525194517'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:17:"35.68542924766105";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"136";s:5:"score";s:18:"28.296636020247817";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:18:"25.495699191404636";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"210";s:5:"score";s:17:"22.86174814493933";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"7851";s:5:"score";s:18:"22.139522771460616";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1373";s:5:"score";s:18:"21.952275830712235";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"615";s:5:"score";s:17:"21.93449164477586";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"8206";s:5:"score";s:18:"21.334155841576433";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"107";s:5:"score";s:18:"21.334155841576433";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:18:"19.964459085669148";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:18:"19.964459085669148";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1182";s:5:"score";s:18:"19.964459085669148";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/what-business-can-learn-from-wonder-woman-hit-movie/"
 ---
 <p class="graf graf--h3">The Wonder Woman movie is a huge sign that people want things that matter. It isn’t all about how fast the superhero can fight. It’s about doing the right thing and doing it well.</p>

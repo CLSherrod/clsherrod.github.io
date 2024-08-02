@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Austin Warrior
 date: 2008-04-10 22:00:29.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '187'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987027'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3568";s:5:"score";s:17:"50.23900782486323";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4500";s:5:"score";s:18:"38.705191902546545";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1923";s:5:"score";s:18:"38.705191902546545";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2084";s:5:"score";s:17:"38.63218071422824";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1540";s:5:"score";s:17:"36.87112595004647";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"36.61610176772853";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1195";s:5:"score";s:17:"36.61610176772853";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:17:"36.61610176772853";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"650";s:5:"score";s:18:"35.341215706152916";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:17:"34.43833530135838";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2105";s:5:"score";s:17:"34.43833530135838";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:17:"34.43833530135838";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/austin-warrior/"
 ---
 <p>I left a couple of hours ago for the Austin Warrior Event.  A bunch of Internet Marketers getting together with 8 or 9 speakers.  The speakers will be great.  My friend Craig Perrine will be speaking plus a few I don't know personally yet.</p>

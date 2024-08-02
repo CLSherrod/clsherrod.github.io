@@ -1,17 +1,12 @@
 ---
-layout: post
 title: The Horror of Mental Images
 date: 2008-09-17 22:19:59.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Personal
 - Spirituality
-- Whole Enchilada
+- Essays
 tags:
 - love
 - spirituality
@@ -49,12 +44,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/the-horror-of-mental-images/"
 ---
 <p><img src="{{ site.baseurl }}/posts/2008/09/love3.jpg" alt="" width="200" align="right" />At a dinner party at a friend's place last weekend the subject of favorite movies came up.  Out of six people only two people like horror movies.  Us four couldn't understand why.</p>

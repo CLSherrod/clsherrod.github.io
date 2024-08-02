@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Money and stuff
 date: 2008-09-10 21:30:19.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '143'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987716'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4395";s:5:"score";s:17:"61.71372122064562";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"2795";s:5:"score";s:18:"58.826323593589315";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"831";s:5:"score";s:18:"55.608865985980636";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"288";s:5:"score";s:18:"55.608865985980636";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"702";s:5:"score";s:17:"55.35383794878447";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"662";s:5:"score";s:17:"55.35383794878447";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2686";s:5:"score";s:17:"53.51948424205328";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"728";s:5:"score";s:17:"52.14987982518602";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"665";s:5:"score";s:17:"51.89485178798986";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"746";s:5:"score";s:18:"26.509130005533297";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4419";s:5:"score";s:18:"24.163689483884045";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"893";s:5:"score";s:17:"21.90457529848865";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/money-and-stuff/"
 ---
 <p>I've had stuff and I've had practical no stuff.Â  I've learned for myself that having less stuff is more fun.Â  The less I'm into physical items the more I enjoy the items.</p>

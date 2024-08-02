@@ -1,12 +1,7 @@
 ---
-layout: post
 title: Beethoven's 5th Ambient
 date: 2014-01-15 09:00:35.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - My Art
 - Personal
@@ -38,12 +33,6 @@ meta:
   _wp_old_date: '2018-04-22'
   nectar_blog_post_view_count: '204'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/beethovens-5th-ambient/"
 ---
 <p><iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=3304677432/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://chr1stopher.bandcamp.com/track/beethovens-5th-ambient">Beethoven&#39;s 5th Ambient by Chr1stoher</a></iframe></p>

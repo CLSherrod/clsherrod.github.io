@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Get Credit For What You Do - Get A Brand
 date: 2010-10-19 22:00:00.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '160'
   _wp_rp_related_posts_query_result_cache_expiration: '1525008168'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"2370";s:5:"score";s:18:"25.981444068191706";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1882";s:5:"score";s:18:"24.738067635030518";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1185";s:5:"score";s:17:"23.94773985773932";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1280";s:5:"score";s:18:"23.911752727565087";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"968";s:5:"score";s:18:"22.821557773100906";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"3563";s:5:"score";s:18:"22.652547409395883";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"6880";s:5:"score";s:18:"21.402562111028715";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"3254";s:5:"score";s:18:"19.938034488294754";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1853";s:5:"score";s:18:"18.898283569714557";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1266";s:5:"score";s:18:"18.514592561495576";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"3229";s:5:"score";s:17:"18.29533278056867";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"3153";s:5:"score";s:16:"18.2095923372881";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/credit-brand/"
 ---
 <p><img class="alignright size-medium wp-image-3307" title="applause" src="{{ site.baseurl }}/posts/2010/10/applause-293x300.jpg" alt="" width="176" height="180" />A strong brand gives you credit for what you provide.</p>

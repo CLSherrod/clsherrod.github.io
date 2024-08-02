@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Injection System Activated
 date: 2008-10-14 01:24:39.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -43,12 +38,6 @@ meta:
   nectar_blog_post_view_count: '159'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987531'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1188";s:5:"score";s:16:"79.5559030160563";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1187";s:5:"score";s:17:"79.23501533357066";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1266";s:5:"score";s:14:"54.07261825436";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"6806";s:5:"score";s:17:"53.62373942800071";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"49.63909816865141";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:17:"47.46133170228126";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:2:"61";s:5:"score";s:18:"45.926283676530375";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"6885";s:5:"score";s:17:"45.67637153593715";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"7097";s:5:"score";s:17:"43.54445888400154";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"6880";s:5:"score";s:17:"43.54445888400154";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1185";s:5:"score";s:17:"42.09524734102395";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:16:"41.3666924176314";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/injection-system-activated/"
 ---
 <p>A lot of businesses are freaking out, quite simply.  People are freaking out.  The economy is the number one subject.  People are worried about their jobs and if their company will go out of business along with anyone that would hire them.</p>

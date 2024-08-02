@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Play smarter than you are
 date: 2010-10-07 22:00:00.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '110'
   _wp_rp_related_posts_query_result_cache_expiration: '1525004172'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4523";s:5:"score";s:18:"16.488474896256296";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1034";s:5:"score";s:18:"16.488474896256296";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"271";s:5:"score";s:18:"16.488474896256296";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"647";s:5:"score";s:16:"16.1238317826628";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1027";s:5:"score";s:18:"15.548467637764825";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"313";s:5:"score";s:18:"15.240166278135446";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"197";s:5:"score";s:17:"14.91156017549982";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"141";s:5:"score";s:17:"14.91156017549982";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3123";s:5:"score";s:18:"13.870561861268184";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"414";s:5:"score";s:18:"13.151664119250968";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"118";s:5:"score";s:18:"13.151664119250968";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1882";s:5:"score";s:18:"11.421081268327464";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/play-smarter-than-you-are/"
 ---
 <p>People like your point of view. The people that don't can move on. You can't please everyone.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Does Personality Marketing Suck?
 date: 2008-10-08 23:28:47.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -50,12 +45,6 @@ meta:
   nectar_blog_post_view_count: '148'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987229'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1183";s:5:"score";s:17:"55.79213331207144";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"267";s:5:"score";s:17:"55.28457227049968";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"731";s:5:"score";s:18:"43.545364883281636";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:17:"40.56592426033704";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:17:"40.56592426033704";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:18:"40.177612231488645";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1185";s:5:"score";s:17:"40.01563357389559";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1923";s:5:"score";s:17:"39.30236779198928";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1267";s:5:"score";s:17:"38.96111675797245";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1244";s:5:"score";s:17:"38.65512958852299";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:17:"38.65512958852299";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1052";s:5:"score";s:17:"38.65512958852299";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/does-personality-marketing-suck/"
 ---
 <p>When I thought of writing about personality marketing I believed it was going to be negative.  I thought I didn"t like personality marketing.  Because when I thought of it I thought of some people that use it and I can"t stand them.  They totatally bug me so much so I"m off their mailing list and don"t follow them.  If people talk about them I leave the conversation.  Just too much negative energy.</p>

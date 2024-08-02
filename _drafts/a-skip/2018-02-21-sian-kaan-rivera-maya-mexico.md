@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Sian Ka'an || Rivera Maya Mexico
 date: 2018-02-21 10:00:15.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Personal
 - Travel
-- Whole Enchilada
+- Essays
 tags:
 - mexico
 - travel
@@ -45,12 +40,6 @@ meta:
   _nectar_love: '0'
   _wp_rp_related_posts_query_result_cache_expiration: '1525284716'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"9315";s:5:"score";s:18:"147.71666109096685";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:5:"14754";s:5:"score";s:18:"141.53457618415064";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4417";s:5:"score";s:18:"43.269953283331645";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4412";s:5:"score";s:18:"43.269953283331645";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1766";s:5:"score";s:17:"41.88365892221176";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4437";s:5:"score";s:16:"32.8757235612539";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4419";s:5:"score";s:16:"32.8757235612539";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4418";s:5:"score";s:16:"32.8757235612539";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4416";s:5:"score";s:16:"32.8757235612539";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4415";s:5:"score";s:16:"32.8757235612539";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4414";s:5:"score";s:16:"32.8757235612539";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4413";s:5:"score";s:16:"32.8757235612539";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/sian-kaan-rivera-maya-mexico/"
 ---
 <p>I spent the day at Sian Ka'an Mexico enjoying the outdoors with some friends.</p>

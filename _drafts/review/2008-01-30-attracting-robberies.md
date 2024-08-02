@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Attracting Robberies?
 date: 2008-01-30 23:43:03.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -42,12 +37,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/attracting-robberies/"
 ---
 <p>Joe Vitale just wrote about getting robbed just before leaving Hollywood.  And my partner Nan was robbed this last summer in Austin.  I see Joe's philosophy on it.  Both Nan and Joe attracted it.  They both love being generous and wanting new things.  For my Nan she was running out of space on her iPod and boom it was stolen and she ordered the just released bigger iPod a couple of days later.  Sure it was tramatic.  She was upset.  Just like I believe Joe was.</p>

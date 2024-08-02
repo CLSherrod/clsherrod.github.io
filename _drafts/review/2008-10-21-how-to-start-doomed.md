@@ -1,14 +1,9 @@
 ---
-layout: post
 title: How to start doomed
 date: 2008-10-21 22:36:15.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -22,12 +17,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884607'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1321";s:5:"score";s:17:"58.94310421420184";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1229";s:5:"score";s:17:"47.50707218868476";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:17:"47.50707218868476";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:16:"43.9099039445598";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1513";s:5:"score";s:18:"42.901902002293866";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1027";s:5:"score";s:18:"42.901902002293866";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:18:"42.901902002293866";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"664";s:5:"score";s:18:"42.901902002293866";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1199";s:5:"score";s:17:"41.52954497991805";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"710";s:5:"score";s:17:"41.52954497991805";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"326";s:5:"score";s:17:"41.52954497991805";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1363";s:5:"score";s:17:"40.71861476403739";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/how-to-start-doomed/"
 ---
 <p>When I saw this comic I had to laugh.</p>

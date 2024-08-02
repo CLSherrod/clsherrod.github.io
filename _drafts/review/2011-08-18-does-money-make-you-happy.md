@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Does Money Make You Happy?
 date: 2011-08-18 08:00:00.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - abundance
 meta:
@@ -41,12 +36,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/does-money-make-you-happy/"
 ---
 <p><img class="alignright size-medium wp-image-4540" title="Happy jumping man" src="{{ site.baseurl }}/posts/2011/08/1171409_70263976-300x199.jpg" alt="" width="300" height="199" />People that don't have money think that more money will bring them happiness.</p>

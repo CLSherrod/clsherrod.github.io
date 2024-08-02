@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Can't hear you
 date: 2007-06-11 00:18:11.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
@@ -21,12 +16,6 @@ meta:
   nectar_blog_post_view_count: '150'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987104'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3835";s:5:"score";s:18:"31.215103171206295";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:2:"73";s:5:"score";s:18:"23.329513842751137";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"234";s:5:"score";s:18:"23.063093730775282";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"146";s:5:"score";s:18:"22.988116154026734";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"6678";s:5:"score";s:18:"21.663346404423994";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:18:"20.220021702947836";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1830";s:5:"score";s:18:"19.917456273496708";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"214";s:5:"score";s:18:"19.887628399039208";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4500";s:5:"score";s:18:"19.773734600327796";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1041";s:5:"score";s:18:"19.773734600327796";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"15";s:5:"score";s:18:"18.958310112933827";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"601";s:5:"score";s:18:"17.742924048365257";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/cant-hear-you/"
 excerpt: |-
   I was out of pocket as they say last week.  I got an ear infection in both ears from the water on the coast.

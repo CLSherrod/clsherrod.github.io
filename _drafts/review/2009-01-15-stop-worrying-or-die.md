@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Stop Worrying or Die
 date: 2009-01-15 23:20:34.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'no'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '138'
   _wp_rp_related_posts_query_result_cache_expiration: '1524988193'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"809";s:5:"score";s:17:"23.92294434737807";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4409";s:5:"score";s:17:"20.63422789018981";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"6885";s:5:"score";s:18:"20.307559906064277";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:18:"20.296510154270173";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"325";s:5:"score";s:18:"18.110335328714093";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4427";s:5:"score";s:18:"17.437390855449323";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"265";s:5:"score";s:18:"17.437390855449323";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1229";s:5:"score";s:18:"17.393840800229142";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"587";s:5:"score";s:18:"17.393840800229142";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4429";s:5:"score";s:18:"16.740730911846832";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4414";s:5:"score";s:18:"16.740730911846832";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"290";s:5:"score";s:17:"16.70744336167431";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/stop-worrying-or-die/"
 ---
 <p><a href="http://flickr.com/photos/eaglechris/1008055669/" rel="nofollow"><img src="http://farm2.static.flickr.com/1266/1008055669_62fa4feb0c_m.jpg" alt="" align="right" / rel="nofollow"/></a>Stop worrying about doing everything.  Stop worrying about things beyond your control. Stop worrying about what some people think about you.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: 'The #1 Mistake People Make When Using the Law of Attraction'
 date: 2007-03-01 11:22:39.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '127'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986189'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"156";s:5:"score";s:18:"34.742994569740766";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:2:"18";s:5:"score";s:17:"33.05423826903895";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"152";s:5:"score";s:18:"28.086020502193414";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"717";s:5:"score";s:17:"25.99138251353453";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"627";s:5:"score";s:17:"24.51204812110575";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"604";s:5:"score";s:17:"24.03585983730224";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"210";s:5:"score";s:18:"22.823588230156027";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1414";s:5:"score";s:18:"21.757744875874202";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"296";s:5:"score";s:18:"20.919570601108582";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1232";s:5:"score";s:18:"20.374159364567376";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"272";s:5:"score";s:17:"20.17399244756235";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:2:"98";s:5:"score";s:18:"19.490493860026056";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/the-1-mistake-people-make-when-using-the-law-of-attraction/"
 excerpt: |-
   The law of attraction is very powerful and it is not the only secret.  It's one secret.  You must also take action.  Law of attraction with action is fantastic.  You can do anything you desire with these two components working together.

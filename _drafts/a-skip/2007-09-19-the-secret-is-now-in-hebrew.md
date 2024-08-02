@@ -1,14 +1,9 @@
 ---
-layout: post
 title: The Secret is now in Hebrew
 date: 2007-09-19 23:14:05.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - scotland
 meta:
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '151'
   _wp_rp_related_posts_query_result_cache_expiration: '1525006520'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"291";s:5:"score";s:17:"76.61322421155589";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4421";s:5:"score";s:17:"64.33551390793933";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"213";s:5:"score";s:17:"64.33551390793933";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"347";s:5:"score";s:17:"58.34404936061347";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"277";s:5:"score";s:18:"29.326742574911215";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1311";s:5:"score";s:18:"13.816524394348443";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4419";s:5:"score";s:18:"13.157211973175636";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"314";s:5:"score";s:18:"13.151664119250968";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4388";s:5:"score";s:18:"12.857378233844221";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4431";s:5:"score";s:18:"12.340733903029053";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1387";s:5:"score";s:18:"12.340733903029053";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"121";s:5:"score";s:18:"12.340733903029053";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/the-secret-is-now-in-hebrew/"
 ---
 <p><a href="http://www.flickr.com/photos/shoogior/1412079743/" rel="nofollow"><img src="http://farm2.static.flickr.com/1107/1412079743_8a81c5cdda_m.jpg" style="border: 2px solid #000000" align="right" / rel="nofollow"/></a><br />

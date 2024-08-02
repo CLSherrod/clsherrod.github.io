@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Forget Shark Thank; Be A Dolphin Entrepreneur Instead
 date: 2017-10-02 14:23:48.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Entrepreneurship
-- Whole Enchilada
+- Essays
 tags:
 - dolphin entrepreneur
 meta:
@@ -42,12 +37,6 @@ meta:
   _force_transparent_header_color: light
   _thumbnail_id: '10081'
   td_post_theme_settings: a:1:{s:16:"td_post_template";s:15:"single_template";}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/forget-shark-thank-be-a-dolphin-entrepreneur-instead/"
 ---
 <h2>AS MUCH AS COMPETITION IS THE NORM IN BUSINESS, CONSCIOUS ENTREPRENEURS CAN DO BETTER BY EMBRACING A COOPERATION MINDSET</h2>

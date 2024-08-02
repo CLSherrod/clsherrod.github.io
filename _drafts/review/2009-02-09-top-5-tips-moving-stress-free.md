@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Top 5 Tips to Moving Stress Free
 date: 2009-02-09 23:00:12.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'no'
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '125'
   _wp_rp_related_posts_query_result_cache_expiration: '1524960537'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"686";s:5:"score";s:17:"58.11226682905911";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"717";s:5:"score";s:17:"52.01762754440087";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"2074";s:5:"score";s:18:"46.820495607589315";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2861";s:5:"score";s:15:"45.922988259751";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:17:"43.96132975371917";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"389";s:5:"score";s:17:"41.89511194829872";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1347";s:5:"score";s:18:"41.084181732082385";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"722";s:5:"score";s:17:"40.72585632293946";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4580";s:5:"score";s:18:"39.356251906072195";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"850";s:5:"score";s:18:"39.356251906072195";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"645";s:5:"score";s:18:"39.356251906072195";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"741";s:5:"score";s:18:"37.170077080516116";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/top-5-tips-moving-stress-free/"
 ---
 <p>I just moved to Austin Texas.  I've moved a lot and the stress of moving used to be almost to much for me.  I hated the actual moving.  I loved the new place feeling and getting rid of old stuff I didn't need anymore.</p>

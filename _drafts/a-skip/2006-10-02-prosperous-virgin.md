@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Prosperous Virgin
 date: 2006-10-02 20:43:01.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -40,12 +35,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/prosperous-virgin/"
 ---
 <p><img id="image56" src="{{ site.baseurl }}/posts/2006/10/richardbranson.thumbnail.jpg" alt="richardbranson.jpg" align="right" hspace="10" />I've always admired Richard Branson. He represented ultimate entrepreneurship to me and is on my vision board. He's not a self-employed person but a true businessman. He's not mechanic that opened his own shop but a businessman that creates a successful system that works. Branson has a <a href="http://en.wikipedia.org/wiki/List_of_Richard_Branson%27s_business_ventures" rel="nofollow">long list of businesses</a> he has created.</p>

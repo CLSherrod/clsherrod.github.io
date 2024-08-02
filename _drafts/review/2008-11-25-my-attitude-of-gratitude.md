@@ -1,14 +1,9 @@
 ---
-layout: post
 title: My attitude of gratitude
 date: 2008-11-25 23:10:21.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'no'
@@ -42,12 +37,6 @@ meta:
   _nectar_quote_author: ''
   _edit_last: '1'
   _nectar_gallery_slider: 'off'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/my-attitude-of-gratitude/"
 ---
 <p>I recently received an email reply to why I was blessed last week.  I had sent out an email where I was blessed to have so much going on.  I was in a top 36 selling book on Amazon last week.  So a subscriber emailed me back explaining every major heartbreak in their life.  I emailed her back asking what she was grateful for.</p>

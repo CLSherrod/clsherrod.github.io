@@ -1,14 +1,9 @@
 ---
-layout: post
 title: What a Wonderful World
 date: 2010-06-27 21:50:36.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '126'
   _wp_rp_related_posts_query_result_cache_expiration: '1524960647'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1423";s:5:"score";s:15:"45.922988259751";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"717";s:5:"score";s:15:"45.922988259751";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:18:"37.170077080516116";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2074";s:5:"score";s:18:"37.170077080516116";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"741";s:5:"score";s:18:"37.170077080516116";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"722";s:5:"score";s:18:"37.170077080516116";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"703";s:5:"score";s:18:"37.170077080516116";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"686";s:5:"score";s:18:"37.170077080516116";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"684";s:5:"score";s:18:"37.170077080516116";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4580";s:5:"score";s:18:"35.800472663648854";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1347";s:5:"score";s:18:"35.800472663648854";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"850";s:5:"score";s:18:"35.800472663648854";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/what-a-wonderful-world/"
 ---
 <p>I don't usually use an alarm clock and when I do it's not an alarm. I wake up to the song "What a Wonderful World".</p>

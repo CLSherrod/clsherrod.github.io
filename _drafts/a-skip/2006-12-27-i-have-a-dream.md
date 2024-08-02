@@ -1,14 +1,9 @@
 ---
-layout: post
 title: I have a dream
 date: 2006-12-27 02:12:24.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -34,12 +29,6 @@ meta:
   nectar_blog_post_view_count: '209'
   _wp_rp_related_posts_query_result_cache_expiration: '1525215461'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:2:"16";s:5:"score";s:17:"25.39405597543563";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"438";s:5:"score";s:17:"24.78779900862466";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"271";s:5:"score";s:18:"21.020066140245508";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"192";s:5:"score";s:18:"20.598265429838886";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"21";s:5:"score";s:18:"20.182986700206875";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"51";s:5:"score";s:18:"19.371360226463302";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1569";s:5:"score";s:17:"18.71616286664536";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1280";s:5:"score";s:17:"18.39934562946554";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2395";s:5:"score";s:17:"18.32381118054641";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1229";s:5:"score";s:18:"18.281602383051872";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"649";s:5:"score";s:18:"18.214720029018753";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"197";s:5:"score";s:17:"18.10040320124655";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/i-have-a-dream/"
 ---
 <p>I have a dream that people will do what they want.  Everyone is prosperous and living life to the fullest.  I believe that what I'm doing to the most effective use of my time to bring this dream to me and others around me.  I have a dream and I want you to have a similar dream.  Only you can choose prosperity or poverty.</p>

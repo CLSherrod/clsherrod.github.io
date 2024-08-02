@@ -1,14 +1,9 @@
 ---
-layout: post
 title: The myth of launch PR
 date: 2008-10-01 23:58:16.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -24,12 +19,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884798'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:18:"61.401829916000835";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:18:"55.895637782498355";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1203";s:5:"score";s:18:"54.340146373253376";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1778";s:5:"score";s:17:"53.18796512304546";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"267";s:5:"score";s:18:"45.478512775370945";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1540";s:5:"score";s:17:"43.60352689651724";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1297";s:5:"score";s:17:"43.60352689651724";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1183";s:5:"score";s:18:"41.908931175658914";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"840";s:5:"score";s:17:"41.77560201237762";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1195";s:5:"score";s:17:"40.56333040518664";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1170";s:5:"score";s:16:"40.5365741532831";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"968";s:5:"score";s:18:"40.347783668067166";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/the-myth-of-launch-pr/"
 ---
 <p><img class="alignright size-full wp-image-1137" title="microphone" src="{{ site.baseurl }}/posts/2008/10/microphone1.jpg" alt="" width="180" height="262" />Many people in Internet Marketing strive for the big launch.  They setup a ton of bonuses and JV partners.  And promote their book on a particular day to get it to #1 for a category.  It may only be #1 for an hour because that is how often Amazon calculates these things.  Then they can go around and say they have a #1 selling book.  When I first learned of this technique I was a little put off.  Seemed sneaky and almost a lie.  But, it's true they had a #1 best selling novel on Amazon for a category for an hour.  Better than most all of us so nothing to fault them for.</p>

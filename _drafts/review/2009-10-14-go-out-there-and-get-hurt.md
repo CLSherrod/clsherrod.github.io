@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Go out there and get hurt
 date: 2009-10-14 23:00:25.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '132'
   _wp_rp_related_posts_query_result_cache_expiration: '1525008640'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1923";s:5:"score";s:17:"56.94943897884988";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1911";s:5:"score";s:17:"56.14127692934699";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"3535";s:5:"score";s:17:"29.75436286220497";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"626";s:5:"score";s:18:"24.455555539552357";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1753";s:5:"score";s:18:"23.023418953960405";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"20";s:5:"score";s:17:"22.27778907318221";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1034";s:5:"score";s:17:"22.14014136981259";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2830";s:5:"score";s:18:"21.901807131766827";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"724";s:5:"score";s:18:"18.818802912387596";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1387";s:5:"score";s:18:"18.753502576943877";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"740";s:5:"score";s:18:"18.463586367603327";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1801";s:5:"score";s:18:"18.042786865637535";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/go-out-there-and-get-hurt/"
 ---
 <p><img class="alignright size-full wp-image-2024" title="878051_first_aid_kit" src="{{ site.baseurl }}/posts/2009/10/878051_first_aid_kit.jpg" alt="878051_first_aid_kit" width="150" />In order to be successful in business you have to be willing to be hurt. If you avoid doing anything to get hurt you will not be successful at all.</p>

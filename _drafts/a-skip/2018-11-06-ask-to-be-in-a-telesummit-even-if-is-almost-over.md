@@ -1,12 +1,7 @@
 ---
-layout: post
 title: Ask to be in a telesummit even if is almost over
 date: 2018-11-06 16:12:46.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
@@ -37,12 +32,6 @@ meta:
   _wpb_vc_js_status: 'false'
   nectar_blog_post_view_count: '150'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/ask-to-be-in-a-telesummit-even-if-is-almost-over/"
 ---
 <p>My love Akasha just finished recording a call for a telesummit that is almost done.</p>

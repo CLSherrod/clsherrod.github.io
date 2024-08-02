@@ -1,14 +1,9 @@
 ---
-layout: post
 title: School results and age are no predictor of future success
 date: 2008-12-08 01:27:14.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '158'
   _wp_rp_related_posts_query_result_cache_expiration: '1525006034'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"360";s:5:"score";s:18:"26.575125855850626";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"225";s:5:"score";s:17:"26.29404759638733";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1145";s:5:"score";s:18:"22.375404486534272";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:18:"22.314877171223895";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"731";s:5:"score";s:17:"22.16666122691645";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"110";s:5:"score";s:18:"21.899598441700924";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"317";s:5:"score";s:17:"21.77834919802895";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"382";s:5:"score";s:17:"19.77963767894349";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1199";s:5:"score";s:18:"18.705880181193372";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:18:"18.705880181193372";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"158";s:5:"score";s:18:"18.705880181193372";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1309";s:5:"score";s:18:"16.632625872549763";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/school-results-and-age-are-no-predictor-of-future-success/"
 ---
 <p>My clientele vary a lot.  Men and women of all ages and backgrounds.  They all have one thing in common.  An entrepreneurial spirit.  Here are a couple of articles about how school results and age are not good predictors of your future success.</p>

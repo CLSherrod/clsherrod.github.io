@@ -1,16 +1,11 @@
 ---
-layout: post
 title: 5 Lessons learned from working with partners
 date: 2011-01-27 08:04:10.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags:
 - partnership
 meta:
@@ -50,12 +45,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/5-lessons-learned-from-working-with-partners/"
 excerpt: "Working with partners can be challenging.\r\n\r\nI recently bowed out of
   4 separate partnership deals. I reviewed everything I was doing at the end of the

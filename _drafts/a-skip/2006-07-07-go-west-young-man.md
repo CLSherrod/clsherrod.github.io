@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Go west young man
 date: 2006-07-07 15:10:50.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -27,12 +22,6 @@ meta:
   nectar_blog_post_view_count: '139'
   _wp_rp_related_posts_query_result_cache_expiration: '1525012702'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1052";s:5:"score";s:18:"18.127025272966723";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"2282";s:5:"score";s:18:"11.765369758131078";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1911";s:5:"score";s:18:"11.765369758131078";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1356";s:5:"score";s:18:"11.765369758131078";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"888";s:5:"score";s:18:"11.765369758131078";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"410";s:5:"score";s:18:"11.765369758131078";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:2:"37";s:5:"score";s:18:"11.765369758131078";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"3412";s:5:"score";s:18:"11.319082655502658";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3032";s:5:"score";s:18:"11.319082655502658";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2296";s:5:"score";s:18:"11.319082655502658";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1185";s:5:"score";s:18:"11.319082655502658";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"396";s:5:"score";s:18:"11.319082655502658";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/go-west-young-man/"
 ---
 <p><img hspace="10" width="128" height="75" align="right" id="image13" alt="Panama Downtown" src="{{ site.baseurl }}/posts/2006/07/Panama058_edited-1.jpg" />Opportunity is all around.  It is everywhere.  It is just a matter of whether you see it or not.</p>

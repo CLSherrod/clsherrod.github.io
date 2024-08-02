@@ -1,16 +1,11 @@
 ---
-layout: post
 title: 'New Release: Journey To Everywhere'
 date: 2017-08-15 09:00:03.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - My Art
 - Personal
-- Whole Enchilada
+- Essays
 tags:
 - music
 meta:
@@ -38,12 +33,6 @@ meta:
   _thumbnail_id: '15125'
   nectar_blog_post_view_count: '179'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/new-release-journey-to-everywhere/"
 ---
 <p>New meditation journey song has a very warm feel to it. 20 minutes. Enjoy.</p>

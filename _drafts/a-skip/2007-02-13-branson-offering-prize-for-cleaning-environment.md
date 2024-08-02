@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Branson offering prize for cleaning environment
 date: 2007-02-13 11:03:08.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '146'
   _wp_rp_related_posts_query_result_cache_expiration: '1525008092'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"377";s:5:"score";s:18:"42.726430722509875";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"742";s:5:"score";s:18:"33.472812000181484";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"360";s:5:"score";s:18:"28.752892322220774";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:17:"27.83426448808826";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1233";s:5:"score";s:17:"25.56040643762811";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"365";s:5:"score";s:18:"25.077235692040748";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1058";s:5:"score";s:18:"24.605151328993532";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"707";s:5:"score";s:17:"23.98159208083129";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"407";s:5:"score";s:17:"23.90704929127314";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"284";s:5:"score";s:17:"23.53031201688062";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"731";s:5:"score";s:18:"23.425799859154083";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"392";s:5:"score";s:18:"21.996345610118517";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/branson-offering-prize-for-cleaning-environment/"
 excerpt: |-
   Richard Branson has long been a mentor of mine.  He is so good at marketing and quickly understanding a business.  He is also great with people.  One surprising thing is his is not a good public speaker.  I always thought you had to be good a public speaking to be a good (and he is beyond good) entrepreneur.  What it takes is a good entrepreneur spirit which he has.

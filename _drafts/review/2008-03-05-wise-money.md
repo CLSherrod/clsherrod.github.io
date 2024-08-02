@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Wise money
 date: 2008-03-05 00:00:08.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - social responsibility
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '152'
   _wp_rp_related_posts_query_result_cache_expiration: '1524960701'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"353";s:5:"score";s:18:"54.476320497797076";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"2686";s:5:"score";s:17:"48.41122800442132";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1406";s:5:"score";s:17:"47.04162358755406";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1342";s:5:"score";s:18:"44.101548886115566";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"619";s:5:"score";s:18:"44.101548886115566";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1569";s:5:"score";s:18:"42.731944469248305";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1483";s:5:"score";s:18:"42.731944469248305";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"415";s:5:"score";s:18:"42.731944469248305";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"359";s:5:"score";s:18:"42.731944469248305";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1321";s:5:"score";s:17:"17.46134323755672";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1232";s:5:"score";s:18:"13.151664119250968";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"736";s:5:"score";s:18:"12.340733903029053";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/wise-money/"
 ---
 <p>A Wise One Will Never Step Over Dollarsto Pick Up Pennies.</p>

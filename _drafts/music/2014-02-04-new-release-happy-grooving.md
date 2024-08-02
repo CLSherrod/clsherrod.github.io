@@ -1,12 +1,7 @@
 ---
-layout: post
 title: 'New Release: Happy Grooving'
 date: 2014-02-04 09:00:54.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - My Art
 - Personal
@@ -38,12 +33,6 @@ meta:
   _wp_old_date: '2018-04-22'
   nectar_blog_post_view_count: '197'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/new-release-happy-grooving/"
 ---
 <p><iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2668010040/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://chr1stopher.bandcamp.com/track/happy-grooving">Happy Grooving by Chr1stoher</a></iframe></p>

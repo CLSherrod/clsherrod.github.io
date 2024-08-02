@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Creating an awesome password
 date: 2011-05-10 05:23:40.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - productivity
 meta:
@@ -93,12 +88,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/creating-awesome-password/"
 ---
 <p>I just wanted to write a little note on how to create an awesome password.</p>

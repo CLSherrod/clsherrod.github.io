@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Latest article about my friend dying has been picked up by Good Men Project
 date: 2015-08-12 17:49:10.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - love
 - RIP
@@ -69,12 +64,6 @@ meta:
   _wpb_vc_js_status: 'false'
   _wp_rp_related_posts_query_result_cache_expiration: '1525364001'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"8295";s:5:"score";s:17:"85.98965879760277";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:17:"75.45701954237427";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"8368";s:5:"score";s:17:"71.89547884724061";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"6684";s:5:"score";s:17:"58.42333173229591";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1436";s:5:"score";s:16:"53.3694569193309";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"809";s:5:"score";s:17:"48.28597667038051";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"277";s:5:"score";s:17:"48.28597667038051";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:17:"43.01888132278298";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2017";s:5:"score";s:17:"43.01888132278298";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1597";s:5:"score";s:17:"43.01888132278298";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1110";s:5:"score";s:17:"43.01888132278298";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1030";s:5:"score";s:17:"43.01888132278298";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/latest-article-about-my-friend-dying-has-been-picked-up-by-good-men-project/"
 ---
 <p data-reactid=".7.0.0.0.2.1.0.0"><span data-reactid=".7.0.0.0.2.1.0.0.1"><span data-reactid=".7.0.0.0.2.1.0.0.1.$text0:0:$text0:0">My article about my friend dying and its impact for me has been published by </span><a href="https://twitter.com/GoodMenProject" data-reactid=".7.0.0.0.2.1.0.0.1.$text0:0:$entity0:0">@goodmenproject</a><span data-reactid=".7.0.0.0.2.1.0.0.1.$text0:0:$text1:0"> As an author and publisher I love writing and journaling from my heart and daily experiences. That is where the magic happens. This article I hope will help support others and it helped me heal by writing it. I'm humble and honored that they published it. Thank you <a href="https://twitter.com/NextGent">D</a></span><a href="https://twitter.com/NextGent">ale Thomas Vaughn</a><span data-reactid=".7.0.0.0.2.1.0.0.1.$text0:0:$text2:0"> for the help in getting it published.</span></span></p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: I'm in TimeBridge's Press Release
 date: 2008-12-14 23:51:55.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '131'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957607'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"6806";s:5:"score";s:17:"43.82641799502369";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"645";s:5:"score";s:17:"38.62389912916154";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4082";s:5:"score";s:17:"37.75326298688887";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:17:"36.46000865699407";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2105";s:5:"score";s:16:"35.0681198867382";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1195";s:5:"score";s:18:"35.048661775738616";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"722";s:5:"score";s:18:"34.907623276924596";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"98";s:5:"score";s:17:"34.04646863921181";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1185";s:5:"score";s:17:"33.45164638334218";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1179";s:5:"score";s:17:"33.45164638334218";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1619";s:5:"score";s:18:"33.402261158144675";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"626";s:5:"score";s:18:"33.402261158144675";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/im-in-timebridges-press-release/"
 ---
 <p>Here is benefit of giving out testimonials to companies and people that you really dig.  You get free exposure when they use your testimonial.  Here is mine for TimeBridge which I use every week to schedule my phone appoitments.</p>

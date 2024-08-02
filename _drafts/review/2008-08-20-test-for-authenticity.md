@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Test for authenticity
 date: 2008-08-20 23:07:52.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '110'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986166'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1297";s:5:"score";s:17:"57.51418014432718";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"311";s:5:"score";s:16:"46.1994012741542";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1778";s:5:"score";s:17:"42.16959523306129";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:17:"41.80495211944824";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:18:"39.972370655725065";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"836";s:5:"score";s:17:"39.19742756965783";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1811";s:5:"score";s:16:"36.6355598786946";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1540";s:5:"score";s:16:"36.6355598786946";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"731";s:5:"score";s:16:"36.6355598786946";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4500";s:5:"score";s:17:"34.80297841497143";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"34.43833530135838";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:17:"34.43833530135838";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/test-for-authenticity/"
 ---
 <p><img class="alignright" src="{{ site.baseurl }}/posts/2008/08/twohumps2.png" alt="" width="293" height="146" /></p>

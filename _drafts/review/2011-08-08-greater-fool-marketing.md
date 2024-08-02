@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Greater Fool Marketing
 date: 2011-08-08 22:00:03.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -43,12 +38,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/greater-fool-marketing/"
 ---
 <p><img class="alignright size-medium wp-image-4501" title="Fool" src="{{ site.baseurl }}/posts/2011/08/676701_76825717-243x300.jpg" alt="" width="243" height="300" />Most of the so called experts in marketing operate on the "Greater Fool" theory.</p>

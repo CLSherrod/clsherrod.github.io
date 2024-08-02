@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Are you too Big to be an entrepreneur
 date: 2008-07-21 22:00:30.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '114'
   _wp_rp_related_posts_query_result_cache_expiration: '1524998278'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1162";s:5:"score";s:17:"67.72789003483986";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"2348";s:5:"score";s:17:"66.46005307774536";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"394";s:5:"score";s:17:"65.69182544716008";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"386";s:5:"score";s:17:"57.53266194950501";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"438";s:5:"score";s:17:"55.81776148574671";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2345";s:5:"score";s:17:"49.66341627484776";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:18:"28.421986046910853";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"317";s:5:"score";s:18:"24.492643637594043";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1199";s:5:"score";s:18:"24.344427693286598";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"310";s:5:"score";s:18:"24.202206446650514";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"179";s:5:"score";s:18:"21.783941723924137";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"410";s:5:"score";s:18:"19.578619969505194";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/are-you-too-big-to-be-an-entrepreneur/"
 ---
 <p>I watched the move Big a few months ago with the family.  I hadn't seen it since it came out in the theaters.</p>

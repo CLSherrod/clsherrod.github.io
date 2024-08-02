@@ -1,14 +1,9 @@
 ---
-layout: post
 title: What would you do with an assistant that helped you achieve your dreams?
 date: 2011-01-06 01:09:41.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _nectar_video_poster: ''
@@ -45,12 +40,6 @@ meta:
   _nectar_header_font_color: ''
   _nectar_video_embed: ''
   _nectar_audio_ogg: ''
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/assistant-helped-achieve-dreams/"
 excerpt: "I just got this testimonial in.\r\n\"Wow, the time Chris spent with me today
   was really eye-opening. I at one time had an assistant in my brick and mortar office,

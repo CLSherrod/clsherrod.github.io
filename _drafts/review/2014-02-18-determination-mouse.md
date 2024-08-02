@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Determination of a Mouse
 date: 2014-02-18 08:00:40.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -71,12 +66,6 @@ meta:
   _wpb_vc_js_status: 'false'
   _wp_rp_related_posts_query_result_cache_expiration: '1525362208'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4803";s:5:"score";s:17:"61.10816101362174";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:17:"37.18904649780727";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:17:"33.60549312457677";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:18:"21.277987295324223";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"7786";s:5:"score";s:18:"21.277987295324223";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"7773";s:5:"score";s:18:"21.277987295324223";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7173";s:5:"score";s:18:"21.277987295324223";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:18:"19.899974519727266";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"7888";s:5:"score";s:18:"19.899974519727266";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"7851";s:5:"score";s:18:"19.899974519727266";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"7215";s:5:"score";s:18:"19.899974519727266";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:18:"19.899974519727266";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/determination-mouse/"
 ---
 <p>Are you as determined as this mouse is in your business? If not, why?</p>

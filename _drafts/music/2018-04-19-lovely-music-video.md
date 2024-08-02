@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Lovely - Music Video
 date: 2018-04-19 10:00:36.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - My Art
 - Personal
-- Whole Enchilada
+- Essays
 tags:
 - music
 - music video
@@ -40,12 +35,6 @@ meta:
   _thumbnail_id: '15102'
   nectar_blog_post_view_count: '246'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/lovely-music-video/"
 ---
 <p>I wrote and performed this song "Lovely". The video I shot at Ek' Balam Mayan Pyramid in Mexico.</p>

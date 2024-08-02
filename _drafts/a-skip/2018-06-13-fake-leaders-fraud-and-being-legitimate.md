@@ -1,12 +1,7 @@
 ---
-layout: post
 title: Fake leaders, fraud and being legitimate
 date: 2018-06-13 10:00:55.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - Entrepreneurship

@@ -1,15 +1,10 @@
 ---
-layout: post
 title: Marriage Equality For My Kids
 date: 2015-06-29 15:10:06.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Philanthropy
-- Whole Enchilada
+- Essays
 tags:
 - equality
 meta:
@@ -68,12 +63,6 @@ meta:
   _wpb_vc_js_status: 'false'
   _wp_rp_related_posts_query_result_cache_expiration: '1525364097'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:5:"14801";s:5:"score";s:17:"37.75511330615859";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"7888";s:5:"score";s:17:"31.07591678776383";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"7824";s:5:"score";s:18:"29.803939254329364";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"7846";s:5:"score";s:18:"25.808821440166305";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"7173";s:5:"score";s:18:"25.407480049247525";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:17:"24.31439263646995";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:18:"22.300783157675887";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"7786";s:5:"score";s:18:"22.300783157675887";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"674";s:5:"score";s:18:"21.322933804077064";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"289";s:5:"score";s:18:"20.444770366152266";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"596";s:5:"score";s:18:"18.832502278276984";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"427";s:5:"score";s:18:"18.765269056629286";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/marriage-equality/"
 ---
 <p class="graf--h3"><img class="alignright wp-image-7894 size-medium" src="{{ site.baseurl }}/posts/2015/06/IMG_2361-300x225.jpg" alt="Gay Flag" width="300" height="225" />The last three days have been some of the most emotional days in my life.</p>

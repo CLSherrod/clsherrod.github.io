@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Is the truth of death being suppressed?
 date: 2017-05-10 10:00:09.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1505653691;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:4797;}i:1;a:1:{s:2:"id";i:4550;}i:2;a:1:{s:2:"id";i:298;}}}}
@@ -43,12 +38,6 @@ meta:
   _wp_old_slug: is-the-truth-of-death-being-surpressed
   _wp_rp_related_posts_query_result_cache_expiration: '1525364349'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:17:"71.89547884724061";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:17:"71.89547884724061";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"8352";s:5:"score";s:18:"36.094701160808036";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:18:"36.094701160808036";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"6939";s:5:"score";s:17:"32.86803174527806";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"6678";s:5:"score";s:18:"31.002787222106228";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"134";s:5:"score";s:18:"28.971695842065024";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"49";s:5:"score";s:18:"26.543775863522278";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"135";s:5:"score";s:18:"25.490487230412434";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"9307";s:5:"score";s:17:"24.57331334242347";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:17:"23.92299907849693";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:17:"22.81733899700243";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/is-the-truth-of-death-being-suppressed/"
 ---
 <p>Is the real purpose of death being suppressed from humans?</p>

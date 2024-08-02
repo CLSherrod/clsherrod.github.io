@@ -1,14 +1,9 @@
 ---
-layout: post
 title: 'Richard Branson: If pay deal isn''t enough, quit'
 date: 2008-01-01 07:00:59.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - abundance
 meta:
@@ -21,12 +16,6 @@ meta:
   nectar_blog_post_view_count: '168'
   _wp_rp_related_posts_query_result_cache_expiration: '1524959098'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"359";s:5:"score";s:17:"82.69577304439721";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"694";s:5:"score";s:17:"63.70236885918679";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1417";s:5:"score";s:17:"56.39825712806605";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"409";s:5:"score";s:17:"56.39825712806605";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1309";s:5:"score";s:17:"52.11253039188725";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"340";s:5:"score";s:17:"51.84118274121791";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"656";s:5:"score";s:17:"50.70677791977894";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:17:"50.39847656011325";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4423";s:5:"score";s:17:"49.66341627484776";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1438";s:5:"score";s:17:"49.66341627484776";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1371";s:5:"score";s:17:"49.66341627484776";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"318";s:5:"score";s:17:"48.89365456701904";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/richard-branson-if-pay-deal-isnt-enough-quit/"
 ---
 <p><a href="http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2008/01/01/nvirgin101.xml" rel="nofollow"><img src="https://christopher-sherrod.blisslifepress.com/wp-content/uploads/sites/2/2006/10/richardbranson.jpg" alt="richardbranson.jpg" align="right" / rel="nofollow"/></a>Some times when your employees ask for more than you can afford to profitably run your business you have to put your foot down.  Richard Branson just did that with Virgin Atlantic staff as they threaten to strike.  The bottom line comes first.  Richard Branson is well know to treat staff very very well but he can't if their demands hurt the financial ability of the company.</p>

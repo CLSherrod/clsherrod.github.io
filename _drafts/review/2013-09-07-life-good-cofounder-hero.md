@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Life Is Good Cofounder The Hero
 date: 2013-09-07 09:28:12.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - hero
 meta:
@@ -48,12 +43,6 @@ meta:
   nectar_blog_post_view_count: '205'
   _wp_rp_related_posts_query_result_cache_expiration: '1524884654'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"6757";s:5:"score";s:16:"74.8402760876095";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"6939";s:5:"score";s:17:"60.83647340465383";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"6817";s:5:"score";s:16:"57.3802824924823";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"6776";s:5:"score";s:17:"55.68109663810037";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4580";s:5:"score";s:18:"47.819236345561585";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"706";s:5:"score";s:18:"29.911553553093132";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"288";s:5:"score";s:18:"19.487729819737904";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1766";s:5:"score";s:18:"18.781451241592187";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"359";s:5:"score";s:18:"18.734756513897505";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"626";s:5:"score";s:18:"16.524520737889475";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"343";s:5:"score";s:18:"15.963916807536403";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8564";s:5:"score";s:18:"15.456929366255302";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/life-good-cofounder-hero/"
 ---
 <p>I recently meet Bert Jacobs the cofounder of <a href="http://lifeisgood.com" target="_blank">Life Is Good</a>.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Master of your own domain
 date: 2008-03-19 21:00:14.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -22,12 +17,6 @@ meta:
   nectar_blog_post_view_count: '143'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957772'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"577";s:5:"score";s:16:"65.9550755046406";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"312";s:5:"score";s:16:"65.9550755046406";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"189";s:5:"score";s:17:"61.36104740878774";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"404";s:5:"score";s:17:"59.16382283143756";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"119";s:5:"score";s:16:"58.2238155729377";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4806";s:5:"score";s:18:"53.629787477132325";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"412";s:5:"score";s:17:"52.99255953521342";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1211";s:5:"score";s:17:"51.43256289973465";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"605";s:5:"score";s:17:"51.43256289973465";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"320";s:5:"score";s:17:"51.43256289973465";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"282";s:5:"score";s:17:"51.43256289973465";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"130";s:5:"score";s:17:"51.43256289973465";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/master-of-your-own-domain/"
 ---
 <p>My girlfriend <a href="http://www.createyourownrealitynow.com" rel="nofollow">Nan</a> sent this to me via email.</p>

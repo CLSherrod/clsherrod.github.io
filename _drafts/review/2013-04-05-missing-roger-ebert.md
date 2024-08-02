@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Missing Roger Ebert
 date: 2013-04-05 13:23:45.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - RIP
 meta:
@@ -53,12 +48,6 @@ meta:
   nectar_blog_post_view_count: '181'
   _wp_rp_related_posts_query_result_cache_expiration: '1524884603'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:17:"58.30369214536675";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8295";s:5:"score";s:17:"54.75070815120299";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"241";s:5:"score";s:18:"16.728152296158747";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"310";s:5:"score";s:18:"16.576368108113254";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4201";s:5:"score";s:18:"16.492586224742485";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1293";s:5:"score";s:18:"14.395741136325306";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"152";s:5:"score";s:18:"14.395741136325306";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4410";s:5:"score";s:18:"14.084640616093411";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2074";s:5:"score";s:18:"13.925028629525924";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4072";s:5:"score";s:18:"13.719997502494314";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"343";s:5:"score";s:18:"13.114098413298406";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:17:"13.02338411394949";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/missing-roger-ebert/"
 ---
 <p><iframe src="http://embed.ted.com/talks/roger_ebert_remaking_my_voice.html" width="560" height="315" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>

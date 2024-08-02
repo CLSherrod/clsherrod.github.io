@@ -1,14 +1,9 @@
 ---
-layout: post
 title: A Daily Guide To Creativity And New Ideas
 date: 2008-07-30 22:00:08.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '130'
   _wp_rp_related_posts_query_result_cache_expiration: '1524998348'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1162";s:5:"score";s:17:"64.72250340792813";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"438";s:5:"score";s:17:"61.91451553140016";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"391";s:5:"score";s:17:"57.53266194950501";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2345";s:5:"score";s:17:"49.66341627484776";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"725";s:5:"score";s:18:"21.303066990665464";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"398";s:5:"score";s:18:"15.457023139393103";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1650";s:5:"score";s:18:"15.080080862662674";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"410";s:5:"score";s:18:"15.080080862662674";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"141";s:5:"score";s:18:"15.080080862662674";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"341";s:5:"score";s:18:"14.891459503636392";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"393";s:5:"score";s:18:"14.526816390042898";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"333";s:5:"score";s:18:"14.526816390042898";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/a-daily-guide-to-creativity-and-new-ideas/"
 ---
 <p>Here is an excellent article about creativity.</p>

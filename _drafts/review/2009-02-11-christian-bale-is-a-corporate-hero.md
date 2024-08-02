@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Christian Bale is a corporate hero
 date: 2009-02-11 12:36:38.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - abundance
 meta:
@@ -54,12 +49,6 @@ meta:
   nectar_blog_post_view_count: '476'
   _wp_rp_related_posts_query_result_cache_expiration: '1525372245'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1058";s:5:"score";s:18:"59.084997403588055";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"340";s:5:"score";s:17:"55.86983704427148";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1371";s:5:"score";s:18:"54.253991653963965";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"316";s:5:"score";s:17:"53.53430271410326";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"40";s:5:"score";s:18:"52.153525597988605";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"36";s:5:"score";s:18:"52.153525597988605";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4423";s:5:"score";s:16:"49.9220900848465";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"351";s:5:"score";s:16:"49.9220900848465";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2282";s:5:"score";s:18:"28.612679148142554";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"6757";s:5:"score";s:17:"27.05336630129802";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"310";s:5:"score";s:18:"26.065609461342184";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"6880";s:5:"score";s:17:"26.03723229878232";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/christian-bale-is-a-corporate-hero/"
 ---
 <p><img class="size-full wp-image-7092 alignright" alt="christian-bale-300" src="{{ site.baseurl }}/posts/2009/02/christian-bale-300.jpg" width="300" height="400" />An interesting point of view on the Christian Bale rant.</p>

@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Backing up passwords
 date: 2017-07-17 09:00:08.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - System Mastery
-- Whole Enchilada
+- Essays
 tags:
 - productivity
 meta:
@@ -40,12 +35,6 @@ meta:
   _wpas_done_all: '1'
   nectar_blog_post_view_count: '281'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/backing-up-passwords/"
 ---
 <p>In the quest to never lose any data I store my data on the cloud.</p>

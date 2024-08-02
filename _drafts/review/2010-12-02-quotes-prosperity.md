@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Quotes for Prosperity
 date: 2010-12-02 05:58:25.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _sexybookmarks_permaHash: b155342ab39b9059616ab2e53df8db79
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '134'
   _wp_rp_related_posts_query_result_cache_expiration: '1525006024'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"396";s:5:"score";s:17:"29.64142963930798";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:18:"19.033644254136536";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4201";s:5:"score";s:17:"18.69953608480462";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3470";s:5:"score";s:17:"18.66707141082979";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"438";s:5:"score";s:18:"17.950249913311154";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1289";s:5:"score";s:18:"17.783405906238194";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"427";s:5:"score";s:18:"17.681442079347537";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"700";s:5:"score";s:18:"17.237761067713446";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"626";s:5:"score";s:18:"17.211959490132113";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2365";s:5:"score";s:18:"16.937557247038104";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1642";s:5:"score";s:18:"16.575862433673358";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2330";s:5:"score";s:18:"16.455233133421086";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/quotes-prosperity/"
 ---
 <p><a href="http://www.amazon.com/gp/product/0646492799?ie=UTF8&amp;tag=abundaunlimi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0646492799" rel="nofollow"><img class="alignright" title="Quotes For Prosperity" src="http://ecx.images-amazon.com/images/I/61xDi3u%2BjzL._SL500_AA300_.jpg" alt="" width="300" height="300" / rel="nofollow"/></a>I got the book "Quotes for Prosperity: 369 Insights to Happiness and Success" last week.</p>

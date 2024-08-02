@@ -1,15 +1,10 @@
 ---
-layout: post
 title: Monkey Rescue Adventure Story
 date: 2018-06-05 10:20:59.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Philanthropy
-- Whole Enchilada
+- Essays
 tags:
 - animal rescue
 - philanthropy
@@ -38,12 +33,6 @@ meta:
   nectar_blog_post_view_count: '250'
   _nectar_love: '0'
   _thumbnail_id: '15231'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/monkey-rescue-adventure-story/"
 ---
 <p>Over the weekend I visited and donated to a wonderful <a href="http://www.akumalmonkeysanctuary.com">animal rescue center in Akumal</a> near where I'm living in the Mexican Caribbean. They are helping animals rehab to be released.</p>

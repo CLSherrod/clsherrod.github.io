@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Internet Get Rich Quick targeted
 date: 2008-10-27 00:05:07.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '173'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987554'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1261";s:5:"score";s:17:"48.55119049445332";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1188";s:5:"score";s:18:"45.423433387445264";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:18:"42.770446978627476";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:18:"40.592680512257324";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:18:"37.620512848901356";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"36.61610176772853";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"654";s:5:"score";s:17:"36.61610176772853";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1522";s:5:"score";s:17:"35.42328827150369";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1299";s:5:"score";s:18:"35.048661775738616";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:17:"34.43833530135838";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"3568";s:5:"score";s:17:"34.43833530135838";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2105";s:5:"score";s:17:"34.43833530135838";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/internet-get-rich-quick-targeted/"
 ---
 <p>Internet get rich quick people are being targeted by the Feds.  The hype is so great and the amount of just awful schemes that it was just a matter of time.</p>

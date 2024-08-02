@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Trip to Uxmal and Kabah in the Yucatan Mexico, Mayan Pyramids.
 date: 2018-10-10 14:57:22.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Personal
 - Travel
-- Whole Enchilada
+- Essays
 tags:
 - mexico
 - pyramids
@@ -40,12 +35,6 @@ meta:
   _thumbnail_id: '15277'
   nectar_blog_post_view_count: '155'
   _nectar_love: '0'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/trip-to-uxmal-and-kabah-in-the-yucatan-mexico-mayan-pyramids/"
 ---
 <p>I'm just back from a trip to the west side of the Mexican Yucatan to help scout out two Mayan Pyramids for my love's next retreat in March.</p>

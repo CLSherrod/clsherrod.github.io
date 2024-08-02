@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Sushi Innovation
 date: 2008-10-21 02:09:27.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '173'
   _wp_rp_related_posts_query_result_cache_expiration: '1524988231'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1179";s:5:"score";s:16:"79.5559030160563";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1187";s:5:"score";s:17:"64.19513385046216";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1266";s:5:"score";s:17:"62.82552943359489";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1195";s:5:"score";s:18:"45.423433387445264";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1201";s:5:"score";s:17:"41.04993006840893";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4500";s:5:"score";s:17:"36.81492786086426";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"628";s:5:"score";s:16:"34.2571896705135";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"33.61809082612377";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1619";s:5:"score";s:17:"33.61809082612377";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"731";s:5:"score";s:18:"32.985212137048364";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1778";s:5:"score";s:17:"32.96852219279573";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1540";s:5:"score";s:17:"32.96852219279573";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/sushi-innovation/"
 ---
 <p><img class="alignright size-medium wp-image-1189" title="tip" src="{{ site.baseurl }}/posts/2008/10/tip-300x225.png" alt="" width="300" height="225" />I had such a good morning yesterday.  I had two clients recommend me to all their family, friends and business associates.  Another client is going to record me a video testimonial.  I have new clients every week and I had the best weekend with my girlfriend Nan.</p>

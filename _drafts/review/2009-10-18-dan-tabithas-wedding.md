@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Dan & Tabitha's Wedding
 date: 2009-10-18 03:46:19.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -40,12 +35,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/dan-tabithas-wedding/"
 ---
 <p>I went to my second wedding in two weeks recently. My friends Dan and Tabitha got married in the rain with mosquitoes. When you plan a wedding months in advance sometimes it doesn't quite go according to plan.</p>

@@ -1,16 +1,11 @@
 ---
-layout: post
 title: I Killed Chris
 date: 2012-09-26 00:32:58.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags:
 - mindset
 meta:
@@ -44,12 +39,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524986576'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"134";s:5:"score";s:16:"77.5588085025316";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:17:"56.94943897884988";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"6678";s:5:"score";s:17:"31.45539453426281";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:18:"28.733654228230712";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"32";s:5:"score";s:18:"28.403281927233607";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"31";s:5:"score";s:18:"25.514715374853253";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"8368";s:5:"score";s:17:"22.80812971963418";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:17:"21.52691002520972";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:17:"21.52691002520972";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"135";s:5:"score";s:17:"21.52691002520972";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"9307";s:5:"score";s:17:"21.50591629562741";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2078";s:5:"score";s:18:"21.382784740802247";}}
   _nectar_page_header_bg_alignment: top
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/i-killed-chris/"
 ---
 <p>I killed Chris. Yup, I killed myself.</p>

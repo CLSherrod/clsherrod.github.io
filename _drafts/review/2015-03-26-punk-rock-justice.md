@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Punk Rock Justice
 date: 2015-03-26 12:36:03.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - music
 meta:
@@ -67,12 +62,6 @@ meta:
   _wpb_vc_js_status: 'false'
   _wp_rp_related_posts_query_result_cache_expiration: '1560796084'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:17:"62.44486775107303";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"6997";s:5:"score";s:18:"47.916497529307094";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"6885";s:5:"score";s:18:"47.916497529307094";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"317";s:5:"score";s:18:"47.916497529307094";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"316";s:5:"score";s:18:"47.916497529307094";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:16:"28.8227352755773";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7893";s:5:"score";s:18:"25.028392849471608";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"7888";s:5:"score";s:18:"25.028392849471608";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8206";s:5:"score";s:18:"19.814799914619442";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:18:"19.814799914619442";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:18:"19.814799914619442";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:18:"19.814799914619442";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/punk-rock-justice/"
 ---
 <p>[caption id="attachment_7847" align="alignright" width="300"]<img class="wp-image-7847 size-medium" src="{{ site.baseurl }}/posts/2015/03/IMG_0309-300x225.jpg" alt="Gang Of Four" width="300" height="225" /> Gang Of Four at Belly Up, Solana Beach, California[/caption]</p>

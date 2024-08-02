@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Dealing With a Career You Simply Hate
 date: 2008-03-17 01:22:54.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - leadership
 meta:
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '183'
   _wp_rp_related_posts_query_result_cache_expiration: '1525237538'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1597";s:5:"score";s:17:"56.43792688292933";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4593";s:5:"score";s:18:"53.210677004910735";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1110";s:5:"score";s:17:"53.10566037045349";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:2:"30";s:5:"score";s:17:"49.64946945828196";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:18:"25.349583692421586";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"411";s:5:"score";s:17:"24.91548491259143";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"710";s:5:"score";s:17:"21.72774407858762";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"737";s:5:"score";s:17:"20.33845812882387";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"370";s:5:"score";s:17:"19.66858155850091";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"624";s:5:"score";s:17:"19.13197727090168";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"673";s:5:"score";s:18:"18.108453003342902";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"396";s:5:"score";s:18:"16.030182399543666";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/dealing-with-a-career-you-simply-hate/"
 ---
 <p>Do you hate your job?Â  Many many people do.Â  It is incredible common.Â  I use to hate my job.Â  My quality of work went way way down and people starting noticing and not in a good way.Â  Fortunately I had a business that took off so I quit before they fired me.Â  Even if you spent four or five years in college and you find out that as soon as you have a full-time job in your field of choice that you don't like it, make a change before you get a reputation for sucking.</p>

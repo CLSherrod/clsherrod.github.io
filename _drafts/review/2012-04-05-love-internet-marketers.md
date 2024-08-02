@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Why I love Internet Marketers
 date: 2012-04-05 06:29:13.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _blogpost_images: http://blog.blog.christophersherrod.com/wp-content/uploads/images/video1.jpg
@@ -20,12 +15,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884652'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1821";s:5:"score";s:17:"67.73382554521649";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3540";s:5:"score";s:18:"29.206715016016187";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"968";s:5:"score";s:18:"26.320632004000014";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1403";s:5:"score";s:18:"20.747867914729905";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"179";s:5:"score";s:17:"20.10450874861611";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"124";s:5:"score";s:18:"19.575452929338628";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"152";s:5:"score";s:18:"18.594744225635623";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1347";s:5:"score";s:18:"17.222387203259807";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2297";s:5:"score";s:18:"16.999935933039357";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"6880";s:5:"score";s:18:"16.990284561404533";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"589";s:5:"score";s:18:"16.938873327373702";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"3454";s:5:"score";s:17:"16.32198519903342";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/love-internet-marketers/"
 ---
 <p><img class="alignright size-medium wp-image-4959" title="Seminar" src="{{ site.baseurl }}/posts/2012/04/329649_9775-300x225.jpg" alt="Seminar" width="300" height="225" />I absolutely love Internet Marketers.</p>

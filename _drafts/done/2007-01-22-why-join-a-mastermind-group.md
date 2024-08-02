@@ -1,15 +1,10 @@
 ---
-layout: post
 title: Why Join A Mastermind Group?
 date: 2007-01-22 09:24:36.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
-- Whole Enchilada
+- Essays
 tags:
 - Mastermind
 meta:
@@ -44,12 +39,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884547'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"105";s:5:"score";s:17:"85.74616429861697";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"125";s:5:"score";s:17:"72.63219696533642";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"20";s:5:"score";s:17:"60.62254981049794";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"425";s:5:"score";s:17:"51.01480893593289";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8470";s:5:"score";s:17:"39.19860807795696";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:18:"32.496234155759595";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:18:"27.704937993844496";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"379";s:5:"score";s:18:"23.191680524831952";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"9307";s:5:"score";s:18:"22.533778345751003";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2051";s:5:"score";s:17:"20.45906970197772";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"414";s:5:"score";s:17:"20.12102064437749";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"7824";s:5:"score";s:18:"19.852424906487016";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/why-join-a-mastermind-group/"
 excerpt: |-
   Phil Gerbyshak wrote a good article on why you should join a mastermind group.  Here is an excerpt.

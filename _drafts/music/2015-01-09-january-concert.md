@@ -1,17 +1,12 @@
 ---
-layout: post
 title: January Concert
 date: 2015-01-09 09:00:35.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - My Art
 - Personal
-- Whole Enchilada
+- Essays
 tags:
 - music concert
 meta:
@@ -44,12 +39,6 @@ meta:
   nectar_blog_post_view_count: '228'
   _wp_rp_related_posts_query_result_cache_expiration: '1525284692'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:5:"14765";s:5:"score";s:17:"90.11205560560762";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4414";s:5:"score";s:16:"65.2421990569843";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:5:"14751";s:5:"score";s:17:"36.64209904629803";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:5:"14771";s:5:"score";s:17:"24.86985654862332";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:5:"14768";s:5:"score";s:17:"24.86985654862332";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:18:"11.772242497674704";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4440";s:5:"score";s:18:"10.394229722077748";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4439";s:5:"score";s:18:"10.394229722077748";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"9324";s:5:"score";s:18:"1.3780127755969565";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"9315";s:5:"score";s:18:"1.3780127755969565";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"9312";s:5:"score";s:18:"1.3780127755969565";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8477";s:5:"score";s:18:"1.3780127755969565";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/january-concert/"
 ---
 <p>Here I am in concert performing a new album.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Flying Virgin in America
 date: 2007-03-25 23:08:27.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
@@ -22,12 +17,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884653'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"284";s:5:"score";s:17:"34.65129691580176";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1274";s:5:"score";s:17:"33.34813519275258";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1179";s:5:"score";s:18:"26.851242628477433";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"586";s:5:"score";s:18:"26.542941268817327";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"360";s:5:"score";s:17:"24.96602654808878";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"843";s:5:"score";s:18:"24.483702434376685";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"327";s:5:"score";s:17:"22.46050061101972";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"261";s:5:"score";s:17:"22.46050061101972";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"226";s:5:"score";s:17:"22.46050061101972";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1417";s:5:"score";s:17:"22.28647785702928";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"727";s:5:"score";s:17:"22.28647785702928";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"694";s:5:"score";s:17:"22.28647785702928";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/flying-virgin-in-america/"
 excerpt: |
   Richard Branson's Virgin America airline is a tentative go for the USA.

@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Becoming Marketable
 date: 2011-08-24 22:00:31.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -43,12 +38,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/marketable/"
 ---
 <p><img class="alignright size-medium wp-image-4551" title="Red carpet" src="{{ site.baseurl }}/posts/2011/08/1095615_74746244-300x260.jpg" alt="" width="300" height="260" />I find most people think they have to do more, more action, more speaking, more emails, more of everything in order to become a successful heart conscious entrepreneur.</p>

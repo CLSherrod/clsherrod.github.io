@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Living on a dollar a day
 date: 2017-05-24 10:00:14.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _nectar_love: '0'
@@ -42,12 +37,6 @@ meta:
   _force_transparent_header_color: light
   _wp_rp_related_posts_query_result_cache_expiration: '1525194494'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"8352";s:5:"score";s:18:"60.539726296442325";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"809";s:5:"score";s:18:"30.060704669234685";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"289";s:5:"score";s:18:"24.405203513731912";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"134";s:5:"score";s:18:"24.137975409168686";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8434";s:5:"score";s:18:"19.342184863571944";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8368";s:5:"score";s:18:"19.342184863571944";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:18:"19.342184863571944";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"6678";s:5:"score";s:18:"19.342184863571944";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"5870";s:5:"score";s:18:"19.342184863571944";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:18:"19.342184863571944";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"713";s:5:"score";s:18:"19.342184863571944";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"135";s:5:"score";s:18:"19.342184863571944";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/living-on-a-dollar-a-day/"
 ---
 <p>Staying in Mexico for awhile has shown me what poverty really looks like.</p>

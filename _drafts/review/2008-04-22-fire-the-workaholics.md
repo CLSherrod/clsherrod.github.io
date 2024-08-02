@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Fire the workaholics
 date: 2008-04-22 23:21:42.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '143'
   _wp_rp_related_posts_query_result_cache_expiration: '1525243220'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"626";s:5:"score";s:18:"60.691077672814586";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"615";s:5:"score";s:15:"55.832782040246";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"700";s:5:"score";s:18:"52.376591128074466";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"624";s:5:"score";s:18:"52.376591128074466";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"695";s:5:"score";s:17:"50.69041647235317";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"625";s:5:"score";s:17:"49.74093800415744";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"396";s:5:"score";s:18:"19.510557723739954";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"605";s:5:"score";s:18:"19.257432277207013";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"603";s:5:"score";s:18:"18.108453003342902";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"3431";s:5:"score";s:18:"17.896555847343723";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"666";s:5:"score";s:17:"16.76312656587473";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"177";s:5:"score";s:18:"15.813648097679007";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/fire-the-workaholics/"
 ---
 <p>Someone posted that they only hire workaholics (it's a startup, so go figure).  Another CEO then wrote a blog post in response saying fire the workaholics.  I've been a workaholic.  Almost killed me.  Made it out alive.  Then when my best friend died at such a young age my life changed forever.  When you have your life flash before your eyes and you think it is the end of this realm and all you can remember is working (even if inspired work) it's depressing.  I would rather be homeless then be a workaholic.  I enjoy life and funny thing is, I've found that I get more done, more inspiration and I make more money.</p>

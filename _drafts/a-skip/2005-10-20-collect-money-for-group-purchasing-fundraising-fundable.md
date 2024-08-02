@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Collect money for group purchasing, fundraising
 date: 2005-10-20 22:47:55.000000000 -05:00
 type: post
@@ -8,7 +7,7 @@ published: true
 password: ’'
 status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: ‘no’
@@ -35,12 +34,6 @@ meta:
   nectar_blog_post_view_count: ‘156’
   _wp_rp_related_posts_query_result_cache_expiration: ‘1560796549’
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“82”;s:5:“score”;s:17:“57.16042514906106”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“596”;s:5:“score”;s:17:“55.27997240990872”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“2294”;s:5:“score”;s:17:“51.32072999705262”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1728”;s:5:“score”;s:17:“51.32072999705262”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“3835”;s:5:“score”;s:17:“17.77387256880958”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1778”;s:5:“score”;s:18:“17.276949850262373”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“2116”;s:5:“score”;s:18:“17.123027767857337”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“605”;s:5:“score”;s:18:“13.594515373190688”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“404”;s:5:“score”;s:18:“13.594515373190688”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“15”;s:5:“score”;s:18:“13.594515373190688”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“968”;s:5:“score”;s:18:“13.420492619186533”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:1:“7”;s:5:“score”;s:18:“13.420492619186533”;}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: /collect-money-for-group-purchasing-fundraising-fundable/
 ---
 <p><a href="http://www.fundable.org" rel="nofollow">Fundable</a> is a free website that allows people to collect money for group pruchasing or fundraising.  We have used it and it is a brilliant idea.</p>

@@ -1,17 +1,12 @@
 ---
-layout: post
 title: Caribbean Chill - Piano Chill
 date: 2018-01-24 09:00:34.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - All Featured Articles
 - My Art
 - Personal
-- Whole Enchilada
+- Essays
 tags:
 - music video
 meta:
@@ -44,12 +39,6 @@ meta:
   _nectar_love: '0'
   _wp_rp_related_posts_query_result_cache_expiration: '1525284709'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:5:"14771";s:5:"score";s:17:"92.36823181915994";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:5:"14768";s:5:"score";s:17:"92.36823181915994";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:5:"14762";s:5:"score";s:17:"36.64209904629803";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:5:"14765";s:5:"score";s:17:"24.86985654862332";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4405";s:5:"score";s:18:"22.750117950178947";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4433";s:5:"score";s:18:"21.355542003536122";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"699";s:5:"score";s:17:"17.61193764968315";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4440";s:5:"score";s:18:"14.847630512966301";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"223";s:5:"score";s:15:"14.202441465198";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"206";s:5:"score";s:15:"14.202441465198";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2378";s:5:"score";s:18:"13.868333295866135";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1819";s:5:"score";s:18:"13.868333295866135";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/caribbean-chill-piano-chill/"
 ---
 <p>New piano chill song is out. I composed and performed this song. The video is a time-lapse of the sunrise over the Caribbean Sea that I took last week while I was composing and recording this song.</p>

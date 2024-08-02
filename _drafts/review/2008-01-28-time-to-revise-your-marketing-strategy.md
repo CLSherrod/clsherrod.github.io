@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Time to Revise Your Marketing Strategy!
 date: 2008-01-28 23:41:48.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 - Podcast
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '164'
   _wp_rp_related_posts_query_result_cache_expiration: '1560795446'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1211";s:5:"score";s:17:"69.10519898002272";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:17:"56.23149935551168";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1778";s:5:"score";s:17:"55.43238185753346";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:18:"43.644991254751915";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1185";s:5:"score";s:17:"42.35860344446081";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1923";s:5:"score";s:17:"40.97507342385568";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1300";s:5:"score";s:18:"40.613336020800006";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1522";s:5:"score";s:17:"38.97801576361684";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"311";s:5:"score";s:18:"38.105568163724584";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"241";s:5:"score";s:17:"37.45351160873517";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1265";s:5:"score";s:17:"36.59568807171057";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:2:"98";s:5:"score";s:17:"36.00816583459891";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/time-to-revise-your-marketing-strategy/"
 ---
 <p>Â What worked for you last year?Â  What didn't?Â  Revising your marketing, your automation, your life is necessary every one in a while in order to stay on track.Â  I've been doing the last four weeks.Â  Automating some more, refining my marketing and enjoying life.</p>

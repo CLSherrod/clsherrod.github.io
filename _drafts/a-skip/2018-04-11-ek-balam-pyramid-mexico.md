@@ -1,12 +1,7 @@
 ---
-layout: post
 title: Ek Balam Pyramid, Mexico
 date: 2018-04-11 22:00:35.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Travel
 tags:
@@ -38,12 +33,6 @@ meta:
   _nectar_love: '0'
   _thumbnail_id: '15057'
   _wpas_done_all: '1'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/ek-balam-pyramid-mexico/"
 ---
 <p>Wonderful full day at Ek Balam Pyramid in Mexico. Went with a group of friends and got a driver to drive us to and from and in-between for lunch, cenote break and margaritas in the nearby town. The jaguar temple was buried a long time ago to protect it and now in modern times it has been fully restored and protected. Awesome place.</p>

@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Portable affordable office phone numbers
 date: 2008-08-05 22:00:48.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - Richard Branson
 meta:
@@ -27,12 +22,6 @@ meta:
   nectar_blog_post_view_count: '155'
   _wp_rp_related_posts_query_result_cache_expiration: '1524958581'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1210";s:5:"score";s:17:"54.07188090378194";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1801";s:5:"score";s:17:"53.21078715808517";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"61";s:5:"score";s:17:"51.84118274121791";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1038";s:5:"score";s:17:"49.66341627484776";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"257";s:5:"score";s:18:"25.332811935356446";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"809";s:5:"score";s:17:"20.92434730642227";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"363";s:5:"score";s:18:"19.384242591825437";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"988";s:5:"score";s:18:"18.971901160873863";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2051";s:5:"score";s:17:"18.82091704983901";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4410";s:5:"score";s:18:"17.818404704358883";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4388";s:5:"score";s:18:"17.232369277550593";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"371";s:5:"score";s:17:"17.16755990348404";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/portable-affordable-office-phone-numbers/"
 ---
 <p>A former business associate pays $120 a month for a business phone line even though they are between offices so they are not even using it.</p>

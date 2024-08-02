@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Why Most B2B Web Sites Don't Work
 date: 2006-01-02 10:08:43.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -37,12 +32,6 @@ meta:
   nectar_blog_post_view_count: '185'
   _wp_rp_related_posts_query_result_cache_expiration: '1524986721'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"51.78467047225833";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"6885";s:5:"score";s:17:"46.50096140382479";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:17:"45.13135698695753";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"6880";s:5:"score";s:17:"45.13135698695753";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:17:"45.13135698695753";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"626";s:5:"score";s:17:"43.67718539291921";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7097";s:5:"score";s:17:"42.73629683449866";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"6806";s:5:"score";s:16:"41.3666924176314";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1179";s:5:"score";s:16:"41.3666924176314";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"3568";s:5:"score";s:17:"41.03560344257564";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1297";s:5:"score";s:18:"37.121498791009365";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1183";s:5:"score";s:17:"35.92225654590554";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/why-most-b2b-web-sites-dont-work/"
 ---
 <p>This is a good article on "How to Use Direct Marketing Principles to Fix Your Web Site and Get More Qualified Leads ? Immediately"</p>

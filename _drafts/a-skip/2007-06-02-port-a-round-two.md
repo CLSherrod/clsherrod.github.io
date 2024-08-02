@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Port A Round Two
 date: 2007-06-02 08:34:54.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
@@ -20,12 +15,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884593'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"200";s:5:"score";s:18:"30.907025346333537";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"293";s:5:"score";s:17:"27.51146650060076";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"869";s:5:"score";s:17:"23.25825248031707";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:2:"95";s:5:"score";s:18:"23.242566125593616";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"26";s:5:"score";s:17:"22.56175387264505";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"222";s:5:"score";s:18:"19.893702007524755";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1801";s:5:"score";s:18:"19.515121555148017";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"585";s:5:"score";s:18:"19.486803679662845";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"146";s:5:"score";s:18:"18.925376873506156";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"206";s:5:"score";s:17:"18.91143953476208";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1766";s:5:"score";s:18:"18.525784498572417";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"371";s:5:"score";s:18:"17.330110497061177";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/port-a-round-two/"
 excerpt: |-
   I'm just back from another vacation.

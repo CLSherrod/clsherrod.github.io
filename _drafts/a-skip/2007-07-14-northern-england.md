@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Northern England
 date: 2007-07-14 12:11:16.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - travel
 meta:
@@ -21,12 +16,6 @@ meta:
   nectar_blog_post_view_count: '156'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957871'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4411";s:5:"score";s:17:"59.15115065492543";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"213";s:5:"score";s:18:"51.892668279353785";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4419";s:5:"score";s:18:"50.799580866628816";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4413";s:5:"score";s:18:"50.799580866628816";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4406";s:5:"score";s:17:"43.23279713139427";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4418";s:5:"score";s:18:"41.235739471169225";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4417";s:5:"score";s:18:"41.235739471169225";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4416";s:5:"score";s:18:"41.235739471169225";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4414";s:5:"score";s:18:"41.235739471169225";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4410";s:5:"score";s:18:"41.235739471169225";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4437";s:5:"score";s:17:"33.97725709559757";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4412";s:5:"score";s:17:"33.97725709559757";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/northern-england/"
 ---
 <p><a href="http://www.flickr.com/photos/eaglechris/810139284/" title="Photo Sharing"><img align="right" src="{{ site.baseurl }}/posts/2007/07/810139284_8905329550_t.jpg" width="100" height="75" alt="IMG_1145" /></a>Nancy and I have been touring Northern England the last few days.</p>

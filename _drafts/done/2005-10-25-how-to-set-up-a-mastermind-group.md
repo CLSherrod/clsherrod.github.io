@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How to set up a mastermind group
 date: 2005-10-25 17:29:27.000000000 -05:00
 type: post
@@ -10,7 +9,7 @@ status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - Mastermind
 meta:
@@ -37,12 +36,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: ‘1524884709’
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:2:“20”;s:5:“score”;s:17:“73.02178470341573”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“108”;s:5:“score”;s:17:“72.63219696533642”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“105”;s:5:“score”;s:17:“63.64651496330807”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“425”;s:5:“score”;s:17:“51.01480893593289”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“741”;s:5:“score”;s:17:“34.62403564405953”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“4935”;s:5:“score”;s:17:“32.77570521374663”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1211”;s:5:“score”;s:17:“32.34013843927385”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“6806”;s:5:“score”;s:18:“25.015198832975194”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“320”;s:5:“score”;s:16:“23.9298205821211”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“310”;s:5:“score”;s:18:“23.674883508215192”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1438”;s:5:“score”;s:17:“22.86395329233453”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“194”;s:5:“score”;s:17:“20.98054883938038”;}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/how-to-set-up-a-mastermind-group/"
 ---
 <p>While I’d like to be able to offer “4 easy steps” to forming your own mastermind, there aren’t any. What I can provide are some guidelines that you can adapt and build on as you pursue a meeting of the minds.</p>

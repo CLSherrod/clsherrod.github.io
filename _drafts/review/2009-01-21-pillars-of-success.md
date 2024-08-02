@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Pillars of Success
 date: 2009-01-21 03:16:21.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'no'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '125'
   _wp_rp_related_posts_query_result_cache_expiration: '1524958487'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"707";s:5:"score";s:17:"55.99649501474975";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"690";s:5:"score";s:17:"53.82827094514825";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1027";s:5:"score";s:17:"50.25589409701451";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4546";s:5:"score";s:17:"48.88628968014725";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"364";s:5:"score";s:17:"48.88628968014725";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"293";s:5:"score";s:17:"46.30432131738204";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2774";s:5:"score";s:18:"44.101548886115566";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1513";s:5:"score";s:18:"44.101548886115566";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"157";s:5:"score";s:18:"42.731944469248305";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"277";s:5:"score";s:18:"19.768495588621118";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"315";s:5:"score";s:18:"18.248321071668443";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"271";s:5:"score";s:18:"17.049078826564614";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/pillars-of-success/"
 ---
 <p>How do you feel about 2009? For most of us it holds a great deal of ambivalence. It promises to be a year of great positive change, yet lurking in the background is an element of fear. None of us want to hold onto the fear for we do not want to create a self-fulfilling prophecy. 2009 may therefore be the year for caution, but it can also be your year for great opportunities.</p>

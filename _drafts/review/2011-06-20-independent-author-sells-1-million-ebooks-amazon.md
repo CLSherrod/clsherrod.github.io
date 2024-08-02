@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Independent Author Sells 1 Million Ebooks via Amazon
 date: 2011-06-20 06:37:23.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -26,12 +21,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: '1524884953'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4423";s:5:"score";s:17:"54.75070815120299";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4421";s:5:"score";s:17:"54.75070815120299";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:18:"21.511672864449828";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1274";s:5:"score";s:17:"17.05319015513472";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1110";s:5:"score";s:18:"16.031538907613925";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"3152";s:5:"score";s:18:"15.534145655996412";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"731";s:5:"score";s:18:"13.701564192248101";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"3563";s:5:"score";s:18:"13.336921078649004";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2779";s:5:"score";s:18:"13.336921078649004";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"968";s:5:"score";s:18:"13.336921078649004";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"3251";s:5:"score";s:18:"12.761556933756632";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"3234";s:5:"score";s:18:"12.761556933756632";}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/independent-author-sells-1-million-ebooks-amazon/"
 ---
 <p>Interesting how he uses a low price to gather fame and make some money.</p>

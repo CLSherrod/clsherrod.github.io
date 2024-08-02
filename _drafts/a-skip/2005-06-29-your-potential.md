@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Your Potential
 date: 2005-06-29 01:27:31.000000000 -05:00
 type: post
@@ -8,7 +7,7 @@ published: true
 password: ’'
 status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _sexybookmarks_shortUrl: http://b2l.me/43bmn
@@ -31,12 +30,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_expiration: ‘1524884612’
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“316”;s:5:“score”;s:18:“11.772276335226124”;}i:1;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“3123”;s:5:“score”;s:17:“8.999687612986344”;}i:2;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“3120”;s:5:“score”;s:17:“8.999687612986344”;}i:3;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1265”;s:5:“score”;s:17:“8.999687612986344”;}i:4;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“1027”;s:5:“score”;s:17:“8.999687612986344”;}i:5;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“721”;s:5:“score”;s:17:“8.999687612986344”;}i:6;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“701”;s:5:“score”;s:17:“8.999687612986344”;}i:7;O:8:“stdClass”:2:{s:7:“post_id”;s:3:“313”;s:5:“score”;s:17:“8.999687612986344”;}i:8;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“6997”;s:5:“score”;s:17:“7.742470294113622”;}i:9;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“6929”;s:5:“score”;s:17:“7.742470294113622”;}i:10;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“4699”;s:5:“score”;s:17:“7.742470294113622”;}i:11;O:8:“stdClass”:2:{s:7:“post_id”;s:4:“4429”;s:5:“score”;s:17:“7.742470294113622”;}}
   _wp_rp_image: empty
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/your-potential/"
 ---
 <p>Don’t die with your music in you.</p>

@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Britney's Public Relations Meltdown
 date: 2008-01-01 23:00:04.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - marketing
 meta:
@@ -48,12 +43,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/britneys-public-relations-meltdown/"
 ---
 <p>Jeff Crilley's Media Relations Channel on YouTube has great little tips. This episode has him talking about Britney Spears and how she is cut off from anyone that will give her honest unbiased feedback. I see this a lot in business people. I know some business people that are so cut off from reality that they think everything they produce is fantastic. When in reality I'm hearing from a lot of people that are seeing the person quality crash. Have people that will give you honest feedback. Don't surround yourself with only Yes men and women.</p>

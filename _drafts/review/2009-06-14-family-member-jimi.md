@@ -1,14 +1,9 @@
 ---
-layout: post
 title: New family member Jimi
 date: 2009-06-14 11:09:11.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -21,12 +16,6 @@ meta:
   nectar_blog_post_view_count: '141'
   _wp_rp_related_posts_query_result_cache_expiration: '1524987311'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4424";s:5:"score";s:18:"285.93834088739817";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4431";s:5:"score";s:17:"66.53273848528113";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4433";s:5:"score";s:17:"54.77167251247973";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4440";s:5:"score";s:18:"26.616580804237245";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4421";s:5:"score";s:18:"26.616580804237245";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4100";s:5:"score";s:18:"10.395765341263816";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4427";s:5:"score";s:17:"9.276533765379005";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4409";s:5:"score";s:17:"9.276533765379005";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1390";s:5:"score";s:17:"9.276533765379005";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"265";s:5:"score";s:17:"9.276533765379005";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"6862";s:5:"score";s:17:"6.986269156759033";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"6757";s:5:"score";s:17:"6.986269156759033";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/family-member-jimi/"
 ---
 <p>I would like to introduce the newest family member to the Sherrod/Gunn clan.</p>

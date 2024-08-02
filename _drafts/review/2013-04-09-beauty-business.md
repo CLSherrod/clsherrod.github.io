@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Beauty in Business
 date: 2013-04-09 04:30:45.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - System Mastery
-- Whole Enchilada
+- Essays
 tags:
 - business
 - Business Automation
@@ -73,12 +68,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/beauty-business/"
 ---
 <p><img class="alignright size-medium wp-image-6723" src="{{ site.baseurl }}/posts/2013/04/Mona_Lisa-201x300.jpg" alt="Mona Lisa" width="201" height="300" />Business in order to be successful has to be a thing of beauty. It has to have systems and procedures that when business is conducted it is a beautiful thing to watch.</p>

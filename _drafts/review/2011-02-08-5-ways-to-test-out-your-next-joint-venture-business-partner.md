@@ -1,16 +1,11 @@
 ---
-layout: post
 title: 5 Ways to Test Out Your Next Joint Venture Business Partner
 date: 2011-02-08 12:34:39.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - System Mastery
-- Whole Enchilada
+- Essays
 tags:
 - partnership
 meta:
@@ -48,12 +43,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/5-ways-to-test-out-your-next-joint-venture-business-partner/"
 excerpt: "My last article about the 5 lessons working with partners got a lot of comments
   on Facebook, so I thought I would follow that up with ways to test out a business

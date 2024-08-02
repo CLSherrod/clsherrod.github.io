@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Chinese restaurant Twitters way to success
 date: 2009-02-17 00:28:03.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '146'
   _wp_rp_related_posts_query_result_cache_expiration: '1524998433'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1619";s:5:"score";s:17:"99.88401417078083";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1383";s:5:"score";s:17:"93.78937488613096";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1278";s:5:"score";s:17:"93.78937488613096";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2132";s:5:"score";s:17:"64.22080451394761";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1540";s:5:"score";s:17:"63.75112533174811";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1642";s:5:"score";s:16:"56.1194582746064";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2560";s:5:"score";s:17:"54.74985385773914";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1797";s:5:"score";s:17:"54.74985385773914";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1811";s:5:"score";s:18:"50.024818989956536";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1681";s:5:"score";s:18:"50.024818989956536";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1280";s:5:"score";s:18:"50.024818989956536";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2830";s:5:"score";s:16:"49.8801889104066";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/chinese-restaurant-twitters-way-to-success/"
 ---
 <p>The owner of a Chinese restaurant in Manchester has credited a recent upsurge in bookings to her use of social messaging website Twitter.  This is just another way to make it easier for your customer to get your products and services.</p>

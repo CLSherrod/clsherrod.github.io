@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Decabling your life - getting your Entertainment for free on the Internet
 date: 2009-01-06 01:26:11.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   aktt_notify_twitter: 'yes'
@@ -24,12 +19,6 @@ meta:
   nectar_blog_post_view_count: '156'
   _wp_rp_related_posts_query_result_cache_expiration: '1525250551'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"2074";s:5:"score";s:17:"90.52322838732805";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1251";s:5:"score";s:17:"54.75772569592788";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"704";s:5:"score";s:18:"47.417468545055414";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"363";s:5:"score";s:18:"46.971181442410206";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1423";s:5:"score";s:17:"41.10704492161477";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"686";s:5:"score";s:17:"41.10704492161477";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"850";s:5:"score";s:18:"40.350172049981275";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1453";s:5:"score";s:18:"38.534269529191455";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:18:"35.786525847083055";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4580";s:5:"score";s:18:"35.786525847083055";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2861";s:5:"score";s:18:"35.786525847083055";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"747";s:5:"score";s:18:"35.786525847083055";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/decabling-life/"
 ---
 <p>Some of my relatives spend $1500 on cable tv a year.  I watch more DVDs than cable tv so spending that much seems crazy.  But, I understand that it's nice to watch a nice show or movie at times.  I do it also.  I rarely turn on cable tv so much so that I have no idea what's on and the digital guide isn't really helpful.  Even with the name of the show or movie and a one sentence description I don't know if I'll really like it.</p>

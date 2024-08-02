@@ -1,14 +1,9 @@
 ---
-layout: post
 title: What constitutes abundance?
 date: 2008-03-03 00:00:09.000000000 -06:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags:
 - social responsibility
 meta:
@@ -25,12 +20,6 @@ meta:
   nectar_blog_post_view_count: '151'
   _wp_rp_related_posts_query_result_cache_expiration: '1524960653'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"353";s:5:"score";s:17:"51.48485564848319";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"2686";s:5:"score";s:18:"42.731944469248305";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1569";s:5:"score";s:18:"42.731944469248305";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1483";s:5:"score";s:18:"42.731944469248305";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1406";s:5:"score";s:18:"42.731944469248305";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1342";s:5:"score";s:18:"42.731944469248305";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"619";s:5:"score";s:18:"42.731944469248305";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"426";s:5:"score";s:18:"42.731944469248305";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"359";s:5:"score";s:18:"42.731944469248305";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"414";s:5:"score";s:18:"10.971129486161791";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"17";s:5:"score";s:18:"10.971129486161791";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"647";s:5:"score";s:17:"8.773904908817192";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/what-constitutes-abundance/"
 ---
 <p>Not what we have but what we enjoy, constitutes our abundance. - John Petit-Senn</p>

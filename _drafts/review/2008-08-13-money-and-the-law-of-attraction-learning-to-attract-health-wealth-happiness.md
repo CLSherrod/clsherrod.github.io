@@ -1,16 +1,11 @@
 ---
-layout: post
 title: 'Money and The Law of Attraction: Learning to Attract Health, Wealth & Happiness'
 date: 2008-08-13 22:00:35.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Mindset
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -46,12 +41,6 @@ meta:
   _disable_transparent_header: 'off'
   _force_transparent_header_color: light
   _wpb_vc_js_status: 'false'
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/money-and-the-law-of-attraction-learning-to-attract-health-wealth-happiness/"
 ---
 <p><img class="alignright" src="{{ site.baseurl }}/posts/2008/08/MoneyAndLawOfAttraction3D.jpg" alt="" width="240" height="344" /> Esther and Jerry Hicks really helped me a few years ago.Â  I went to one of their small workshops that they had on their ranch and it made a signifant change in my and my life turned around.Â  I saw the first three people get in the hot seat in from of Abraham and tell them that the teachings of Abraham brought them success and happiness and thank you.Â  I thought the entire workshop was going to be people looking for guidance and how screwed up their lives were.Â  Some did but overall it was very positive. After that workshop my life changed all for the better.Â  Now they are coming out with a book on Money and Law of Attraction.Â  Can't wait to read this one.</p>

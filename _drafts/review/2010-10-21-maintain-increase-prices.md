@@ -1,14 +1,9 @@
 ---
-layout: post
 title: How To Maintain and Even Increase Your Prices
 date: 2010-10-21 22:00:00.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '153'
   _wp_rp_related_posts_query_result_cache_expiration: '1524957731'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3251";s:5:"score";s:17:"73.61133878146752";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3254";s:5:"score";s:18:"61.322281734648875";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1265";s:5:"score";s:17:"55.71556097274642";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4206";s:5:"score";s:18:"55.186175864297844";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"3034";s:5:"score";s:17:"49.56121576184748";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2436";s:5:"score";s:17:"49.56121576184748";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"3096";s:5:"score";s:17:"48.19161134498022";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2779";s:5:"score";s:17:"45.54350724039152";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3535";s:5:"score";s:17:"43.14844708793265";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"2610";s:5:"score";s:17:"41.77884267106539";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"320";s:5:"score";s:18:"25.904805939138722";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1313";s:5:"score";s:18:"22.865012589422818";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/maintain-increase-prices/"
 ---
 <p>With a good brand you can charge more for your products and services because you are seen as the best.</p>

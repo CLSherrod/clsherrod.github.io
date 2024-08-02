@@ -1,14 +1,9 @@
 ---
-layout: post
 title: Should you be the best?
 date: 2010-10-14 22:00:00.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
-- Whole Enchilada
+- Essays
 tags: []
 meta:
   _edit_last: '1'
@@ -23,12 +18,6 @@ meta:
   nectar_blog_post_view_count: '121'
   _wp_rp_related_posts_query_result_cache_expiration: '1524988109'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4420";s:5:"score";s:18:"10.971129486161791";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3123";s:5:"score";s:18:"10.971129486161791";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"2813";s:5:"score";s:18:"10.971129486161791";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:2:"25";s:5:"score";s:18:"10.971129486161791";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8477";s:5:"score";s:20:"0.020993729582306875";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8470";s:5:"score";s:20:"0.020993729582306875";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"8434";s:5:"score";s:20:"0.020993729582306875";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"8369";s:5:"score";s:20:"0.020993729582306875";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8368";s:5:"score";s:20:"0.020993729582306875";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8367";s:5:"score";s:20:"0.020993729582306875";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8360";s:5:"score";s:20:"0.020993729582306875";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8352";s:5:"score";s:20:"0.020993729582306875";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/should-you-be-the-best/"
 ---
 <p>There will always someone faster, stronger or better than you. But no one else is you. Be your own brand.</p>

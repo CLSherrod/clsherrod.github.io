@@ -1,16 +1,11 @@
 ---
-layout: post
 title: Never give up with RE/MAX co-founder
 date: 2013-06-22 04:30:32.000000000 -05:00
-type: post
-parent_id: '0'
 published: true
-password: ''
-status: publish
 categories:
 - Entrepreneurship
 - Marketing
-- Whole Enchilada
+- Essays
 tags:
 - hero
 meta:
@@ -51,12 +46,6 @@ meta:
   nectar_blog_post_view_count: '240'
   _wp_rp_related_posts_query_result_cache_expiration: '1560795665'
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"6862";s:5:"score";s:17:"75.22403758632831";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"6776";s:5:"score";s:16:"70.6585069479693";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"6817";s:5:"score";s:18:"59.080813934974486";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"6939";s:5:"score";s:17:"58.88332705577364";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4580";s:5:"score";s:17:"50.31952500614148";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"37";s:5:"score";s:17:"35.60607818307458";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4196";s:5:"score";s:17:"32.31412351890851";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"6806";s:5:"score";s:17:"32.12290391350529";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:18:"30.119768326890068";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:2:"52";s:5:"score";s:18:"29.794625423124693";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"61";s:5:"score";s:17:"27.69498117416053";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1438";s:5:"score";s:17:"27.07537560815044";}}
-author:
-  login: Chris
-  email: chris@christophersherrod.com
-  display_name: Christopher Sherrod
-  first_name: Christopher
-  last_name: Sherrod
 permalink: "/remax-cofounder/"
 ---
 <p>[caption id="attachment_6735" align="alignright" width="300"]<img class="size-medium wp-image-6735" alt="Chris with co-founder of RE/MAX David Liniger" src="{{ site.baseurl }}/posts/2013/06/IMG_0103-300x208.jpg" width="300" height="208" /> Chris with co-founder of RE/MAX David Liniger[/caption]</p>
