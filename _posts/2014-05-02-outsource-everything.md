@@ -1,10 +1,8 @@
 ---
 title: How to outsource everything but your sex life
-date: 2014-05-02 01:46:46.000000000 -05:00
+date: 2014-05-02
 published: true
 categories:
-- Entrepreneurship
-- System Mastery
 - Essays
 tags:
 - Business Automation

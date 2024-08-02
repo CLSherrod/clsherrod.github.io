@@ -3,8 +3,6 @@ title: I Killed Chris
 date: 2012-09-26 00:32:58.000000000 -05:00
 published: true
 categories:
-- Entrepreneurship
-- Mindset
 - Essays
 tags:
 - mindset
