@@ -8,35 +8,6 @@ categories:
 - Essays
 tags:
 - dolphin entrepreneur
-meta:
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1507329100;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:317;}i:1;a:1:{s:2:"id";i:382;}i:2;a:1:{s:2:"id";i:360;}}}}
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _edit_last: '1'
-  _post_item_masonry_sizing: regular
-  _nectar_gallery_slider: 'off'
-  _nectar_quote_author: ''
-  _nectar_quote: ''
-  _nectar_link: ''
-  _nectar_video_m4v: ''
-  _nectar_video_ogv: ''
-  _nectar_video_poster: ''
-  _nectar_video_embed: ''
-  _nectar_audio_mp3: ''
-  _nectar_audio_ogg: ''
-  _nectar_header_bg: ''
-  _nectar_header_parallax: 'off'
-  _nectar_header_bg_height: ''
-  _nectar_header_bg_color: ''
-  _nectar_header_font_color: ''
-  _wpb_vc_js_status: 'false'
-  _nectar_love: '0'
-  post_views_count: '0'
-  nectar_blog_post_view_count: '253'
-  _nectar_page_header_bg_alignment: top
-  _disable_transparent_header: 'off'
-  _force_transparent_header_color: light
-  _thumbnail_id: '10081'
-  td_post_theme_settings: a:1:{s:16:"td_post_template";s:15:"single_template";}
 permalink: "/forget-shark-thank-be-a-dolphin-entrepreneur-instead/"
 ---
 <h2>AS MUCH AS COMPETITION IS THE NORM IN BUSINESS, CONSCIOUS ENTREPRENEURS CAN DO BETTER BY EMBRACING A COOPERATION MINDSET</h2>
