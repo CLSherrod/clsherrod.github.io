@@ -20,7 +20,10 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1207";s:5:"score";s:17:"70.93257456901256";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1212";s:5:"score";s:17:"34.26308228948846";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4783";s:5:"score";s:17:"25.72648655074431";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1145";s:5:"score";s:18:"25.143782948054444";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1209";s:5:"score";s:18:"16.044117523285262";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1178";s:5:"score";s:18:"15.966684338597824";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1174";s:5:"score";s:18:"15.832220367277671";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2271";s:5:"score";s:18:"14.924566738447124";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8360";s:5:"score";s:18:"13.959826168753855";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"737";s:5:"score";s:18:"13.361769671612004";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1099";s:5:"score";s:18:"12.573531807633964";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4593";s:5:"score";s:18:"12.127244705005547";}}
 permalink: "/new-leadership-and-business/"
 ---
-<p>A lot of my business associates are apprehensive of President-Elect Obama.</p>
-<p>Will Social Security taxes go up?  Will Payroll taxes go up?  Will Income taxes go up?  Will President-Elect Obama ruin business?</p>
-<p>Funny, but why aren't business people asking President Bush about the current recession?  Worst bank disaster probably ever.  But, these questions are legitimate and I'm recording some interviews today with some business experts and will ask them what they think.</p>
-<p>But, what do you think?  Is President-Elect Obama going to be good for business?  Better than President Bush has?  Or is this change not that big a deal?  Share your thoughts in the comments.</p>
+A lot of my business associates are apprehensive of President-Elect Obama.
+
+Will Social Security taxes go up?  Will Payroll taxes go up?  Will Income taxes go up?  Will President-Elect Obama ruin business?
+
+Funny, but why aren't business people asking President Bush about the current recession?  Worst bank disaster probably ever.  But, these questions are legitimate and I'm recording some interviews today with some business experts and will ask them what they think.
+
+But, what do you think?  Is President-Elect Obama going to be good for business?  Better than President Bush has?  Or is this change not that big a deal?  Share your thoughts in the comments.</p>

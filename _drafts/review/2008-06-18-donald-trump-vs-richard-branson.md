@@ -21,6 +21,8 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:17:"38.75240925084322";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"742";s:5:"score";s:17:"38.75240925084322";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"731";s:5:"score";s:17:"38.75240925084322";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"318";s:5:"score";s:17:"38.75240925084322";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"261";s:5:"score";s:17:"38.75240925084322";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1305";s:5:"score";s:18:"36.357349098384354";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1289";s:5:"score";s:18:"36.357349098384354";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1250";s:5:"score";s:18:"36.357349098384354";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"874";s:5:"score";s:18:"36.357349098384354";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"349";s:5:"score";s:18:"36.357349098384354";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"327";s:5:"score";s:18:"36.357349098384354";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"319";s:5:"score";s:18:"36.357349098384354";}}
 permalink: "/donald-trump-vs-richard-branson/"
 ---
-<p>Someone has a poll of who is better at marketing Donald Trump or Richard Branson.</p>
-<p>I think you know my pick.Â  Go vote for your favorite.</p>
-<p><a href="http://mktg.typepad.com/marketingjoint/2008/06/donald-trump-vs.html" rel="nofollow">Marketing Joint: Donald Trump vs. Richard Branson</a></p>
+Someone has a poll of who is better at marketing Donald Trump or Richard Branson.
+
+I think you know my pick.Â  Go vote for your favorite.
+
+<a href="http://mktg.typepad.com/marketingjoint/2008/06/donald-trump-vs.html" rel="nofollow">Marketing Joint: Donald Trump vs. Richard Branson</a></p>

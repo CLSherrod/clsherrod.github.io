@@ -40,8 +40,10 @@ meta:
   _wpb_vc_js_status: 'false'
 permalink: "/too-small-to-fail/"
 ---
-<p>I love this quote.</p>
+I love this quote.</p>
 >If you act small and think big, you are too small to fail. You won't need a bailout because your business makes sense each and every day. You won't need a bailout because your flat organization no matter how large it is knows about problems long before they're too big to deal with.</p></blockquote>
-<p>People that try to act all big and are really faking it concern me.&nbsp; If you don't know how much money you are making then you're just faking it.&nbsp; It's amazing how many "big wigs" I've seen that due to marketing look huge but are really barely making it and really make all their money on how to market but have never made any money actually doing it.</p>
-<p>The closer you are to your customer the better.&nbsp; Don't isolate yourself and do get help.</p>
-<p><a href="http://sethgodin.typepad.com/seths_blog/2008/10/too-small-to-fa.html" rel="nofollow">Seth's Blog: Too small to fail</a></p>
+<p>People that try to act all big and are really faking it concern me.&nbsp; If you don't know how much money you are making then you're just faking it.&nbsp; It's amazing how many "big wigs" I've seen that due to marketing look huge but are really barely making it and really make all their money on how to market but have never made any money actually doing it.
+
+The closer you are to your customer the better.&nbsp; Don't isolate yourself and do get help.
+
+<a href="http://sethgodin.typepad.com/seths_blog/2008/10/too-small-to-fa.html" rel="nofollow">Seth's Blog: Too small to fail</a></p>

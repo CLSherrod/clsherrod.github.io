@@ -34,5 +34,5 @@ meta:
   _nectar_love: '0'
 permalink: "/new-release-warm/"
 ---
-<p>New meditation song has a very warm feel to it. 16 minutes. Enjoy.<br />
+New meditation song has a very warm feel to it. 16 minutes. Enjoy.<br />
 <iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=1116596357/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://chr1stopher.bandcamp.com/track/warm-2">Warm by Chr1stoher</a></iframe></p>

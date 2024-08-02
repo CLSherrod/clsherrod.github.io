@@ -63,12 +63,20 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"8434";s:5:"score";s:17:"69.88880032569017";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"688";s:5:"score";s:17:"54.84802635787217";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"271";s:5:"score";s:17:"48.73765387820697";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1041";s:5:"score";s:17:"46.08397308808518";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:2:"32";s:5:"score";s:17:"46.08397308808518";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1034";s:5:"score";s:17:"45.25644526655438";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2784";s:5:"score";s:17:"43.87566815043972";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"350";s:5:"score";s:17:"43.87566815043972";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"324";s:5:"score";s:17:"43.87566815043972";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8295";s:5:"score";s:17:"34.68524253589728";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"7786";s:5:"score";s:17:"27.90347469023007";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:5:"14801";s:5:"score";s:18:"25.407480049247525";}}
 permalink: "/forgiveness/"
 ---
-<p><img class=" wp-image-7175 alignright" src="{{ site.baseurl }}/posts/2014/03/Forgive.png" alt="Forgive" width="324" height="425" /></p>
-<p><span style="line-height: 1.5em;">In business, heck in life, there are a lot of egos. My extended family think parts of the family are idiots and vice versa.</span></p>
-<p><span style="line-height: 1.5em;">One expert thinks their business model is fantastic and everyone else is a business idiot.</span></p>
-<p>One musician thinks a manager ripped them off.</p>
-<p>The list goes on and on.</p>
-<p>Forgiveness needs to be had because being upset or invious with or about others is killing your growth.</p>
-<p>Your growth as a business, an expert, a musician and human being.</p>
-<p>Forgive, not because they deserve forgiveness...but because you deserve peace.</p>
-<p>With peace you can focus, you can grow, you can be successful. With peace you are your ideal self.</p>
+<img class=" wp-image-7175 alignright" src="{{ site.baseurl }}/posts/2014/03/Forgive.png" alt="Forgive" width="324" height="425" />
+
+<span style="line-height: 1.5em;">In business, heck in life, there are a lot of egos. My extended family think parts of the family are idiots and vice versa.</span>
+
+<span style="line-height: 1.5em;">One expert thinks their business model is fantastic and everyone else is a business idiot.</span>
+
+One musician thinks a manager ripped them off.
+
+The list goes on and on.
+
+Forgiveness needs to be had because being upset or invious with or about others is killing your growth.
+
+Your growth as a business, an expert, a musician and human being.
+
+Forgive, not because they deserve forgiveness...but because you deserve peace.
+
+With peace you can focus, you can grow, you can be successful. With peace you are your ideal self.</p>

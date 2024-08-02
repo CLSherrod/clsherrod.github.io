@@ -63,10 +63,16 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:18:"106.10189340853792";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"7824";s:5:"score";s:17:"70.38182190869136";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:18:"56.937216152373125";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"157";s:5:"score";s:17:"49.75353479951616";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:18:"20.622769863838478";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"7786";s:5:"score";s:18:"20.622769863838478";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7173";s:5:"score";s:18:"20.622769863838478";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"7097";s:5:"score";s:18:"20.622769863838478";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"6919";s:5:"score";s:18:"20.622769863838478";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:17:"19.24199274772382";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"7888";s:5:"score";s:17:"19.24199274772382";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"7851";s:5:"score";s:17:"19.24199274772382";}}
 permalink: "/create-ideas-bestseller/"
 ---
-<p><a href="https://amzn.to/2F1k68Z"><img class="alignright wp-image-7749 size-medium" src="{{ site.baseurl }}/posts/2014/09/flatcover-202x300.jpg" alt="How To Create New Business Ideas" width="202" height="300" /></a>Yesterday was a great day.</p>
-<p>My book "<a title="How To Create New Business Ideas" href="https://amzn.to/2F1k68Z" target="_blank" rel="noopener">How To Create New Business Ideas</a>" became a bestseller on Tuesday.</p>
-<p>That's two bestsellers I have in the last 8 days.</p>
-<p>Last week Monday the bestseller "The Way Out" with Greg S. Reid and yesterday with my book "How To Create New Business Ideas".</p>
-<p>I'm super thrilled and very grateful for everyone for their support in making it all happen. My growing audience is wonderful and I appreciate every one of you.</p>
-<p>P.S. In my book I have a cool video bonus "How To Implement Ideas Quickly". I'm rather proud of having implemented many hundreds of business ideas in the last 30 years and I sum up all my tips into this video.</p>
-<p>P.P.S. Thanks again for everyone's support. I really appreciate it.</p>
+<a href="https://amzn.to/2F1k68Z"><img class="alignright wp-image-7749 size-medium" src="{{ site.baseurl }}/posts/2014/09/flatcover-202x300.jpg" alt="How To Create New Business Ideas" width="202" height="300" /></a>Yesterday was a great day.
+
+My book "<a title="How To Create New Business Ideas" href="https://amzn.to/2F1k68Z" target="_blank" rel="noopener">How To Create New Business Ideas</a>" became a bestseller on Tuesday.
+
+That's two bestsellers I have in the last 8 days.
+
+Last week Monday the bestseller "The Way Out" with Greg S. Reid and yesterday with my book "How To Create New Business Ideas".
+
+I'm super thrilled and very grateful for everyone for their support in making it all happen. My growing audience is wonderful and I appreciate every one of you.
+
+P.S. In my book I have a cool video bonus "How To Implement Ideas Quickly". I'm rather proud of having implemented many hundreds of business ideas in the last 30 years and I sum up all my tips into this video.
+
+P.P.S. Thanks again for everyone's support. I really appreciate it.</p>

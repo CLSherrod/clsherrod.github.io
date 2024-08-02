@@ -18,13 +18,22 @@ meta:
   _wp_rp_image: empty
 permalink: "/thinking-rabbi-german-common/"
 ---
-<p>Wow, the last couple of days have been fun.</p>
-<p>Started off some think time. Then working with a Rabbi and then talked to a German.</p>
-<p>I've been using Monday to think. Yup, just sit and look out upon my great view from my office and think. Think about what I want to do this week. Think about what I want to do next month. And think about where I want to be a year from now.</p>
-<p>I've really been enjoying just thinking and dreaming about how I really want to live my life.</p>
-<p>And I'm making some tweaks as I see them. And things are getting better and better.</p>
-<p>And then getting to work with awesome clients around the world is just so cool.</p>
-<p>Having a worldwide Internet based business is fun.</p>
-<p>I get to learn about different cultures and thoughts and then how they can burst out on the scene and make a name for themselves.</p>
-<p>I totally love what I do.</p>
-<p>And that is the secret. Totally love what you do and get help on things you don't love.</p>
+Wow, the last couple of days have been fun.
+
+Started off some think time. Then working with a Rabbi and then talked to a German.
+
+I've been using Monday to think. Yup, just sit and look out upon my great view from my office and think. Think about what I want to do this week. Think about what I want to do next month. And think about where I want to be a year from now.
+
+I've really been enjoying just thinking and dreaming about how I really want to live my life.
+
+And I'm making some tweaks as I see them. And things are getting better and better.
+
+And then getting to work with awesome clients around the world is just so cool.
+
+Having a worldwide Internet based business is fun.
+
+I get to learn about different cultures and thoughts and then how they can burst out on the scene and make a name for themselves.
+
+I totally love what I do.
+
+And that is the secret. Totally love what you do and get help on things you don't love.</p>

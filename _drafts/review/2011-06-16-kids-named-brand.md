@@ -45,8 +45,12 @@ meta:
   _wpb_vc_js_status: 'false'
 permalink: "/kids-named-brand/"
 ---
-<p>Robins Williams (yes the comic) and his daughter who was named after Zelda the video game appear in an ad for the new Zelda game "The Legend of Zelda: Ocarina of Time 3D".</p>
-<p>You know you have a great brand name when people name their kids after them. Heck, someone name their kid Facebook recently. That's cruel. But Zelda. That's cool.</p>
-<p>Have a great product and be consistant about it and you too can have a name people want to name their kids after, even if it is a horrible name Facebook.</p>
-<p>Here is Robin and Zelda talking about the new Zelda video game.</p>
-<p><iframe src="https://www.youtube.com/embed/1uuz7w5HB4o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+Robins Williams (yes the comic) and his daughter who was named after Zelda the video game appear in an ad for the new Zelda game "The Legend of Zelda: Ocarina of Time 3D".
+
+You know you have a great brand name when people name their kids after them. Heck, someone name their kid Facebook recently. That's cruel. But Zelda. That's cool.
+
+Have a great product and be consistant about it and you too can have a name people want to name their kids after, even if it is a horrible name Facebook.
+
+Here is Robin and Zelda talking about the new Zelda video game.
+
+<iframe src="https://www.youtube.com/embed/1uuz7w5HB4o" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>

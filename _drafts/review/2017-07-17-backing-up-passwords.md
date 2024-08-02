@@ -37,12 +37,20 @@ meta:
   _nectar_love: '0'
 permalink: "/backing-up-passwords/"
 ---
-<p>In the quest to never lose any data I store my data on the cloud.</p>
-<p>Including my passwords.</p>
-<p>So that at any moment if my laptop dies or is stolen I don't lose anything.</p>
-<p>I'm on a Mac so I use Apple iCloud to get my documents backed up on the cloud. It's awesome.</p>
-<p>But, I don't use Safari for web browsing. I use Chrome due to a ton of extensions I use that are only on Chrome.</p>
-<p>And I don't want Google (the owner of Chrome web browser) to have my passwords stored. Sorry Google, you know too much.</p>
-<p>So I use <a href="http://lastpass.com">Lastpass</a>. It's the #1 most preferred password manager</p>
-<p>LastPass keeps your information private, secure, and hidden (even from them).</p>
-<p>Everything is encrypted on the cloud at all times and only unencrypted and usable on your computer when you're logged in.</p>
+In the quest to never lose any data I store my data on the cloud.
+
+Including my passwords.
+
+So that at any moment if my laptop dies or is stolen I don't lose anything.
+
+I'm on a Mac so I use Apple iCloud to get my documents backed up on the cloud. It's awesome.
+
+But, I don't use Safari for web browsing. I use Chrome due to a ton of extensions I use that are only on Chrome.
+
+And I don't want Google (the owner of Chrome web browser) to have my passwords stored. Sorry Google, you know too much.
+
+So I use <a href="http://lastpass.com">Lastpass</a>. It's the #1 most preferred password manager
+
+LastPass keeps your information private, secure, and hidden (even from them).
+
+Everything is encrypted on the cloud at all times and only unencrypted and usable on your computer when you're logged in.</p>

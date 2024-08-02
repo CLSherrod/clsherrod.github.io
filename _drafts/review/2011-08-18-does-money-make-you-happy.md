@@ -38,20 +38,36 @@ meta:
   _wpb_vc_js_status: 'false'
 permalink: "/does-money-make-you-happy/"
 ---
-<p><img class="alignright size-medium wp-image-4540" title="Happy jumping man" src="{{ site.baseurl }}/posts/2011/08/1171409_70263976-300x199.jpg" alt="" width="300" height="199" />People that don't have money think that more money will bring them happiness.</p>
-<p>It doesn't.</p>
-<p>Money provides opportunity and is a great tool. I love it.</p>
-<p>But if you don't have happiness when you're broke you won't have it when you're rich.</p>
-<p>I've seen it for myself. Having money didn't make me happier. I was already happy, a bit frustrated when my income sucked, but happy.</p>
-<p>I've meet many rich people that have "everything" except for happiness.</p>
-<p>Just because you make or even inherit money doesn't mean it comes with happiness.</p>
-<p>The documentary "One Percent" by Jamie Johnson of the Johnson &amp; Johnson company family. Is rich. He doesn't have to work. His Dad has never worked. They are "taken care of".</p>
-<p>Is Jamie Johnson happy? In the movie he sure doesn't look like it. He feels guilt of having access to so much money.</p>
-<p>The point is not the money.</p>
-<p>The point is what you can do to fulfill your wants and needs with money.</p>
-<p>How would you live?</p>
-<p>How would you change other lives thru charity?</p>
-<p>How are you going to make a difference in the world to yourself, your family and the entire planet.</p>
-<p>If you understand that then money becomes a tool that allows you to live to your fullest potential.</p>
-<p>Understand that and everything clicks. Everything makes sense.</p>
-<p>And your heart sings with joy that you have life figured out.</p>
+<img class="alignright size-medium wp-image-4540" title="Happy jumping man" src="{{ site.baseurl }}/posts/2011/08/1171409_70263976-300x199.jpg" alt="" width="300" height="199" />People that don't have money think that more money will bring them happiness.
+
+It doesn't.
+
+Money provides opportunity and is a great tool. I love it.
+
+But if you don't have happiness when you're broke you won't have it when you're rich.
+
+I've seen it for myself. Having money didn't make me happier. I was already happy, a bit frustrated when my income sucked, but happy.
+
+I've meet many rich people that have "everything" except for happiness.
+
+Just because you make or even inherit money doesn't mean it comes with happiness.
+
+The documentary "One Percent" by Jamie Johnson of the Johnson &amp; Johnson company family. Is rich. He doesn't have to work. His Dad has never worked. They are "taken care of".
+
+Is Jamie Johnson happy? In the movie he sure doesn't look like it. He feels guilt of having access to so much money.
+
+The point is not the money.
+
+The point is what you can do to fulfill your wants and needs with money.
+
+How would you live?
+
+How would you change other lives thru charity?
+
+How are you going to make a difference in the world to yourself, your family and the entire planet.
+
+If you understand that then money becomes a tool that allows you to live to your fullest potential.
+
+Understand that and everything clicks. Everything makes sense.
+
+And your heart sings with joy that you have life figured out.</p>

@@ -66,18 +66,32 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"7786";s:5:"score";s:18:"105.58933038456266";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8369";s:5:"score";s:17:"44.46458332865949";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:17:"41.06553214059643";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"7851";s:5:"score";s:18:"34.166937787719206";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"7824";s:5:"score";s:18:"29.579464716301214";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:18:"26.140587100601042";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"678";s:5:"score";s:18:"25.630240462189846";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"665";s:5:"score";s:18:"21.556476607634618";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:5:"14801";s:5:"score";s:17:"20.80230986301634";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:17:"20.80230986301634";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:17:"19.24199274772382";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:17:"19.24199274772382";}}
 permalink: "/outsource-everything/"
 ---
-<p><img class="alignright size-medium wp-image-7217" src="{{ site.baseurl }}/posts/2014/05/IMG_4157-300x300.jpg" alt="Christopher Sherrod at La Costa Resort" width="300" height="300" />I celebrated my birthday last week. Thai massage, comedy club, meals with friends, trip to a safari park with the family, resort, another massage, champagne, chocolate covered strawberries, on and on.<br style="color: #37404e;" /><br style="color: #37404e;" /><span style="color: #37404e;">I need a vacation from my vacation to recover.</span></p>
-<p>But seriously, it was my best birthday yet.<br style="color: #37404e;" /><br style="color: #37404e;" /><span style="color: #37404e;">I want to think my family and friends for the amazing time. Especially my love Nan Akasha.</span></p>
-<p>I’ve had the privilege of getting to be with her, she is so amazing.</p>
-<p><img class="alignright size-medium wp-image-7219" src="{{ site.baseurl }}/posts/2014/05/IMG_4109-225x300.jpg" alt="Christopher Sherrod at San Diego Zoo Safari Park" width="225" height="300" />With our business I’ve been perfecting outsourcing and have an amazing team.</p>
-<p>We had close to a record week while I was partying and enjoying my birthday week.</p>
-<p>Nan focuses on connecting with her audience. I focus on having the business run smoothly.</p>
-<p>So I've hired assistants, tech people, transcribers, marketing help, graphic designers, traffic generators, maids, handymen ( I have no idea how to fix anything in my home ), mechanics ( ditto for cars, double ditto actually ), private tutors for our daughter, lawyers, accountants, financial advice and tons more. I outsource almost everything except my sex life because…well duh and exercise because I haven't figured out how to get someone else to do it for me.</p>
-<p><img class="alignright size-medium wp-image-7216" src="{{ site.baseurl }}/posts/2014/05/IMG_4143-225x300.jpg" alt="Christopher Sherrod at Chopra Center" width="225" height="300" />I've had an assistant since 2000, over 14 years and I enjoy directing and leading my team.</p>
-<p>I focus on actually not doing anything but telling people what to do, training, operating procedures. Finding the best way to get things done.</p>
-<p>I thought it was boring and nobody wanted to hear about it.</p>
-<p>Nan got all the attention speaking and writing and I sat around on my iPhone directing and reading a lot.</p>
-<p>Not exactly sexy.</p>
-<p>But at the resort I just got back from I was encouraged to share my lifestyle as I was sipping a fine Merlot at the pool overlooking the golf course. And I got a new client at the same time.</p>
-<p>I’m thankful for my business, it takes good care of me.</p>
-<p><center><img src="{{ site.baseurl }}/posts/2014/05/IMG_4162-300x225.jpg" alt="La Costa Resort" width="300" height="225" /></center></p>
+<img class="alignright size-medium wp-image-7217" src="{{ site.baseurl }}/posts/2014/05/IMG_4157-300x300.jpg" alt="Christopher Sherrod at La Costa Resort" width="300" height="300" />I celebrated my birthday last week. Thai massage, comedy club, meals with friends, trip to a safari park with the family, resort, another massage, champagne, chocolate covered strawberries, on and on.<br style="color: #37404e;" /><br style="color: #37404e;" /><span style="color: #37404e;">I need a vacation from my vacation to recover.</span>
+
+But seriously, it was my best birthday yet.<br style="color: #37404e;" /><br style="color: #37404e;" /><span style="color: #37404e;">I want to think my family and friends for the amazing time. Especially my love Nan Akasha.</span>
+
+I’ve had the privilege of getting to be with her, she is so amazing.
+
+<img class="alignright size-medium wp-image-7219" src="{{ site.baseurl }}/posts/2014/05/IMG_4109-225x300.jpg" alt="Christopher Sherrod at San Diego Zoo Safari Park" width="225" height="300" />With our business I’ve been perfecting outsourcing and have an amazing team.
+
+We had close to a record week while I was partying and enjoying my birthday week.
+
+Nan focuses on connecting with her audience. I focus on having the business run smoothly.
+
+So I've hired assistants, tech people, transcribers, marketing help, graphic designers, traffic generators, maids, handymen ( I have no idea how to fix anything in my home ), mechanics ( ditto for cars, double ditto actually ), private tutors for our daughter, lawyers, accountants, financial advice and tons more. I outsource almost everything except my sex life because…well duh and exercise because I haven't figured out how to get someone else to do it for me.
+
+<img class="alignright size-medium wp-image-7216" src="{{ site.baseurl }}/posts/2014/05/IMG_4143-225x300.jpg" alt="Christopher Sherrod at Chopra Center" width="225" height="300" />I've had an assistant since 2000, over 14 years and I enjoy directing and leading my team.
+
+I focus on actually not doing anything but telling people what to do, training, operating procedures. Finding the best way to get things done.
+
+I thought it was boring and nobody wanted to hear about it.
+
+Nan got all the attention speaking and writing and I sat around on my iPhone directing and reading a lot.
+
+Not exactly sexy.
+
+But at the resort I just got back from I was encouraged to share my lifestyle as I was sipping a fine Merlot at the pool overlooking the golf course. And I got a new client at the same time.
+
+I’m thankful for my business, it takes good care of me.
+
+<center><img src="{{ site.baseurl }}/posts/2014/05/IMG_4162-300x225.jpg" alt="La Costa Resort" width="300" height="225" /></center></p>

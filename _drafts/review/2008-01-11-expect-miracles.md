@@ -18,17 +18,21 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"383";s:5:"score";s:16:"86.8861245325376";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1257";s:5:"score";s:18:"63.914287413681954";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"624";s:5:"score";s:18:"58.304155924420094";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"277";s:5:"score";s:18:"56.003011869169384";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"370";s:5:"score";s:17:"52.96415165710246";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2271";s:5:"score";s:17:"50.74144902819184";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2282";s:5:"score";s:17:"46.33298439925766";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"737";s:5:"score";s:18:"42.022179706069586";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1108";s:5:"score";s:17:"41.94373827972951";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"411";s:5:"score";s:16:"41.8515676795056";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1406";s:5:"score";s:17:"39.72103565081888";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"831";s:5:"score";s:17:"39.72103565081888";}}
 permalink: "/expect-miracles/"
 ---
-<p>Joe Vitale is launching a T.V. show soon called "Expect Miracles"</p>
+Joe Vitale is launching a T.V. show soon called "Expect Miracles"</p>
 >I believe nothing is impossible or<br />
-incurable.</p>
-<p>I want to prove it to you and the<br />
+incurable.
+
+I want to prove it to you and the<br />
 rest of the world with a weekly<br />
-national television show.</p>
-<p>The show is called "Expect Miracles."</p>
-<p>I'm working with celebrities and movie<br />
+national television show.
+
+The show is called "Expect Miracles."
+
+I'm working with celebrities and movie<br />
 directors and others from Hollywood<br />
-who want this show.</p>
-<p>I intend to find the people doing<br />
+who want this show.
+
+I intend to find the people doing<br />
 miraculous things, interview them,<br />
 and broadcast their stories.</p></blockquote>
 <p>Go to <a href="http://www.expectmiraclestv.com/ " rel="nofollow">Expect Miracles</a> and vote for his show if you would like to see it on national T.V.</p>

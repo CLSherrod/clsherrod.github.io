@@ -45,5 +45,6 @@ meta:
   _wpb_vc_js_status: 'false'
 permalink: "/britneys-public-relations-meltdown/"
 ---
-<p>Jeff Crilley's Media Relations Channel on YouTube has great little tips. This episode has him talking about Britney Spears and how she is cut off from anyone that will give her honest unbiased feedback. I see this a lot in business people. I know some business people that are so cut off from reality that they think everything they produce is fantastic. When in reality I'm hearing from a lot of people that are seeing the person quality crash. Have people that will give you honest feedback. Don't surround yourself with only Yes men and women.</p>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/tTOKA1rgio0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+Jeff Crilley's Media Relations Channel on YouTube has great little tips. This episode has him talking about Britney Spears and how she is cut off from anyone that will give her honest unbiased feedback. I see this a lot in business people. I know some business people that are so cut off from reality that they think everything they produce is fantastic. When in reality I'm hearing from a lot of people that are seeing the person quality crash. Have people that will give you honest feedback. Don't surround yourself with only Yes men and women.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tTOKA1rgio0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>

@@ -64,11 +64,18 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:17:"62.44486775107303";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"6997";s:5:"score";s:18:"47.916497529307094";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"6885";s:5:"score";s:18:"47.916497529307094";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"317";s:5:"score";s:18:"47.916497529307094";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"316";s:5:"score";s:18:"47.916497529307094";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:16:"28.8227352755773";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7893";s:5:"score";s:18:"25.028392849471608";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"7888";s:5:"score";s:18:"25.028392849471608";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"8206";s:5:"score";s:18:"19.814799914619442";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:18:"19.814799914619442";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8053";s:5:"score";s:18:"19.814799914619442";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:18:"19.814799914619442";}}
 permalink: "/punk-rock-justice/"
 ---
-<p>[caption id="attachment_7847" align="alignright" width="300"]<img class="wp-image-7847 size-medium" src="{{ site.baseurl }}/posts/2015/03/IMG_0309-300x225.jpg" alt="Gang Of Four" width="300" height="225" /> Gang Of Four at Belly Up, Solana Beach, California[/caption]</p>
-<p>I saw "Gang Of Four" an English punk rock band from the 70's last night and it reminded me I really love punk rock bands.</p>
-<p>Punk rock bands have a message of independence.</p>
-<p>Supporting the underdog.</p>
-<p>Making things right.</p>
-<p>Justice. Shining the light on injustice.</p>
-<p>I find punk rock to be very moving and uplifting. I don't find it depressing at all. It's empowering.</p>
-<p>Here's to all the musician, artists and writers out there uplifting us all.</p>
+[caption id="attachment_7847" align="alignright" width="300"]<img class="wp-image-7847 size-medium" src="{{ site.baseurl }}/posts/2015/03/IMG_0309-300x225.jpg" alt="Gang Of Four" width="300" height="225" /> Gang Of Four at Belly Up, Solana Beach, California[/caption]
+
+I saw "Gang Of Four" an English punk rock band from the 70's last night and it reminded me I really love punk rock bands.
+
+Punk rock bands have a message of independence.
+
+Supporting the underdog.
+
+Making things right.
+
+Justice. Shining the light on injustice.
+
+I find punk rock to be very moving and uplifting. I don't find it depressing at all. It's empowering.
+
+Here's to all the musician, artists and writers out there uplifting us all.</p>

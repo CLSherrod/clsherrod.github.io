@@ -37,17 +37,30 @@ meta:
   _nectar_love: '0'
 permalink: "/living-miami-vice-lifestyle-without-the-drugs/"
 ---
-<p>My favorite show as a teenager living in remote Alaska was, believe it or not, <a href="https://www.nbc.com/miami-vice?nbc=1">Miami Vice</a>.</p>
-<p>I loved the style, the action and not to mention the weather.</p>
-<p>I wanted to be Sonny Crocket. The clothes, the sailboat, the women, everything but the actual job he had.</p>
-<p>And when I moved to Arizona at the end of high school I was finally able to find the clothes that looked like the show. (I couldn't find any cool clothes in Alaska in the 80's.)</p>
-<p>I promptly bought an entire outfit including the shoes (no socks).</p>
-<p>And that is probably why I lost my first job because I showed up looking like Sonny Crocket. Oh well, I looked awesome.</p>
-<p>I even recorded each show on VHS tape (millennials r<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">ead the </span><a style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;" href="https://en.wikipedia.org/wiki/VHS">Wikipedia article</a><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;"> on what a VHS tape is).</span></p>
-<p>I carried those VHS tapes with all my moves for the next twenty-something years. Finally selling them on Craigslist since I could get a digital stream and I was planning to travel around the world slowly.</p>
-<p>And I was writing with a view of the Caribbean recently. This view in fact.</p>
-<p><img class="aligncenter wp-image-15091 size-large" src="{{ site.baseurl }}/posts/2018/04/fullsizeoutput_6900-1024x710.jpeg" alt="View" width="1024" height="710" />And the Miami Vice Theme came up on my AppleTV and bam, flashback to when I was a kid in snowy Alaska.</p>
-<p>I wanted to live in the tropics where it never snowed. Where it was always summer.</p>
-<p>And I have it.</p>
-<p>That moment when you realize you fulfilled a dream you had as a kid has already happened is just fantastic.</p>
-<p>Live the life you want.</p>
+My favorite show as a teenager living in remote Alaska was, believe it or not, <a href="https://www.nbc.com/miami-vice?nbc=1">Miami Vice</a>.
+
+I loved the style, the action and not to mention the weather.
+
+I wanted to be Sonny Crocket. The clothes, the sailboat, the women, everything but the actual job he had.
+
+And when I moved to Arizona at the end of high school I was finally able to find the clothes that looked like the show. (I couldn't find any cool clothes in Alaska in the 80's.)
+
+I promptly bought an entire outfit including the shoes (no socks).
+
+And that is probably why I lost my first job because I showed up looking like Sonny Crocket. Oh well, I looked awesome.
+
+I even recorded each show on VHS tape (millennials r<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">ead the </span><a style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;" href="https://en.wikipedia.org/wiki/VHS">Wikipedia article</a><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;"> on what a VHS tape is).</span>
+
+I carried those VHS tapes with all my moves for the next twenty-something years. Finally selling them on Craigslist since I could get a digital stream and I was planning to travel around the world slowly.
+
+And I was writing with a view of the Caribbean recently. This view in fact.
+
+<img class="aligncenter wp-image-15091 size-large" src="{{ site.baseurl }}/posts/2018/04/fullsizeoutput_6900-1024x710.jpeg" alt="View" width="1024" height="710" />And the Miami Vice Theme came up on my AppleTV and bam, flashback to when I was a kid in snowy Alaska.
+
+I wanted to live in the tropics where it never snowed. Where it was always summer.
+
+And I have it.
+
+That moment when you realize you fulfilled a dream you had as a kid has already happened is just fantastic.
+
+Live the life you want.</p>

@@ -35,5 +35,6 @@ meta:
   _nectar_love: '0'
 permalink: "/new-release-journey-to-everywhere/"
 ---
-<p>New meditation journey song has a very warm feel to it. 20 minutes. Enjoy.</p>
-<p><iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=690659108/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" width="300" height="150" seamless=""><a href="http://chr1stopher.bandcamp.com/track/journey-to-everywhere-2">Journey To Everywhere by Chr1stoher</a></iframe></p>
+New meditation journey song has a very warm feel to it. 20 minutes. Enjoy.
+
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=690659108/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" width="300" height="150" seamless=""><a href="http://chr1stopher.bandcamp.com/track/journey-to-everywhere-2">Journey To Everywhere by Chr1stoher</a></iframe></p>

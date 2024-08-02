@@ -48,17 +48,30 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:2:"61";s:5:"score";s:18:"136.90450996192726";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"6817";s:5:"score";s:18:"109.52235129537715";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"7097";s:5:"score";s:17:"98.29513766689897";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"6880";s:5:"score";s:17:"68.09197515501265";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8360";s:5:"score";s:17:"56.94943897884988";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1179";s:5:"score";s:17:"53.62373942800071";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"6885";s:5:"score";s:17:"45.67637153593715";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1299";s:5:"score";s:17:"43.82641799502369";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"43.54445888400154";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:16:"41.3666924176314";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:16:"41.3666924176314";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:2:"98";s:5:"score";s:16:"41.3666924176314";}}
 permalink: "/partner-fast-company/"
 ---
-<p>[caption id="attachment_6807" align="alignright" width="300"]<img class="size-medium wp-image-6807" alt="Nan Akasha in Fast Company August 2013 issue" src="{{ site.baseurl }}/posts/2013/07/NanAkashaFastCompany-300x300.jpg" width="300" height="300" /> Nan Akasha in Fast Company August 2013 issue[/caption]</p>
-<p>My partner is in Fast Company magazine on newsstands now as a top business leader.</p>
-<p>It's actually a lot of work to get into Fast Company.</p>
-<p>We set our intention to get into something big. Some magazine on every newsstand that fit the Nan Akasha brand.</p>
-<p>Fast Company is one of my favorite business magazines and it fits Nan's brand so we went for that.</p>
-<p>I've know how to do this for years, however I didn't approve this effort until I was comfortable with monetizing it.</p>
-<p>I've meet so many people that have gotten in big movies, books and magazine and barely survive because they had no way to make money from the exposure.</p>
-<p>It's great to brag about don't get me wrong. But, it needs to make money.</p>
-<p>I don't see much point on being popular if you can't make any money from it.</p>
-<p>It's great for the ego, but that doesn't last long. I would rather have the money. And since I live in a abundant world, I would like both fame and money.</p>
-<p>So, we focused on Fast Company. And got her in the issue.</p>
-<p>If you are starting out and doing personal branding like we are with Nan then you want to focus on making money first, then add your website, your own book, telesummits, radio, stages, magazines, tv, etc. The more money and how quickly you make it the faster you can go thru that progression.</p>
-<p>It was a hoot to see Nan holding Fast Company in our local bookstore. A great day and a great dinner to celebrate.</p>
-<p>Side note: It's easy to market the best in the world. I have that pleasure with me and Nan's company.</p>
+[caption id="attachment_6807" align="alignright" width="300"]<img class="size-medium wp-image-6807" alt="Nan Akasha in Fast Company August 2013 issue" src="{{ site.baseurl }}/posts/2013/07/NanAkashaFastCompany-300x300.jpg" width="300" height="300" /> Nan Akasha in Fast Company August 2013 issue[/caption]
+
+My partner is in Fast Company magazine on newsstands now as a top business leader.
+
+It's actually a lot of work to get into Fast Company.
+
+We set our intention to get into something big. Some magazine on every newsstand that fit the Nan Akasha brand.
+
+Fast Company is one of my favorite business magazines and it fits Nan's brand so we went for that.
+
+I've know how to do this for years, however I didn't approve this effort until I was comfortable with monetizing it.
+
+I've meet so many people that have gotten in big movies, books and magazine and barely survive because they had no way to make money from the exposure.
+
+It's great to brag about don't get me wrong. But, it needs to make money.
+
+I don't see much point on being popular if you can't make any money from it.
+
+It's great for the ego, but that doesn't last long. I would rather have the money. And since I live in a abundant world, I would like both fame and money.
+
+So, we focused on Fast Company. And got her in the issue.
+
+If you are starting out and doing personal branding like we are with Nan then you want to focus on making money first, then add your website, your own book, telesummits, radio, stages, magazines, tv, etc. The more money and how quickly you make it the faster you can go thru that progression.
+
+It was a hoot to see Nan holding Fast Company in our local bookstore. A great day and a great dinner to celebrate.
+
+Side note: It's easy to market the best in the world. I have that pleasure with me and Nan's company.</p>

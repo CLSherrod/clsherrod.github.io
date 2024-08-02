@@ -47,13 +47,20 @@ permalink: "/successful-person/"
 excerpt: "What would it be like if you understood what a successful person does?\r\n\r\nI
   just got this testimonial in."
 ---
-<p>What would it be like if you understood what a successful person does?</p>
-<p>I just got this testimonial in.</p>
-<p>[caption id="attachment_3471" align="alignright" width="201"]<img class="size-medium wp-image-3471" title="Bonnie Peterson" src="{{ site.baseurl }}/posts/2011/01/umm2-201x300.jpg" alt="" width="201" height="300" /> Bonnie Peterson[/caption]</p>
-<p>"Chris helped me make the shift. He is so patient and takes the guess work out of this techie stuff. He helped to expand my thinking about being a prosperous entrepreneur. He is a wealth of information. He mixes the law of attraction with common sense. Recommended him to several friend who are very happy with him as well."</p>
-<p>Bonnie Peterson<br />
+What would it be like if you understood what a successful person does?
+
+I just got this testimonial in.
+
+[caption id="attachment_3471" align="alignright" width="201"]<img class="size-medium wp-image-3471" title="Bonnie Peterson" src="{{ site.baseurl }}/posts/2011/01/umm2-201x300.jpg" alt="" width="201" height="300" /> Bonnie Peterson[/caption]
+
+"Chris helped me make the shift. He is so patient and takes the guess work out of this techie stuff. He helped to expand my thinking about being a prosperous entrepreneur. He is a wealth of information. He mixes the law of attraction with common sense. Recommended him to several friend who are very happy with him as well."
+
+Bonnie Peterson<br />
 Host of Wise Women Do Blog Talk Radio Show<br />
-bonniepetersonenterprise.com</p>
-<p>Bonnie has referred several client to me. People do that when they find something that works.</p>
-<p>I have a road map on how to be successful that many people have used.</p>
-<p>It works. It makes it so much easier.</p>
+bonniepetersonenterprise.com
+
+Bonnie has referred several client to me. People do that when they find something that works.
+
+I have a road map on how to be successful that many people have used.
+
+It works. It makes it so much easier.</p>

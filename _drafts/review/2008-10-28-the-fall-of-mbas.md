@@ -21,8 +21,12 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"391";s:5:"score";s:17:"67.72789003483986";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"386";s:5:"score";s:17:"64.72250340792813";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"2345";s:5:"score";s:17:"60.03818788652927";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"438";s:5:"score";s:17:"56.85325773327088";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"3835";s:5:"score";s:18:"23.528037835383216";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1183";s:5:"score";s:18:"20.211581682162183";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1160";s:5:"score";s:18:"18.644141690244894";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1438";s:5:"score";s:18:"18.110335328705712";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"6678";s:5:"score";s:17:"17.70780079382736";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1650";s:5:"score";s:18:"17.257847329032824";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8564";s:5:"score";s:17:"16.31720264737779";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2282";s:5:"score";s:18:"16.179854327578624";}}
 permalink: "/the-fall-of-mbas/"
 ---
-<p>We are in a time of creativity.  More than ever.  I heard recently that MFA (Masters of Fine Arts) is going to be the new MBA (Master of Business Administration).  Being creative in business is the key now because the MBA stuff can be outsourced.</p>
-<p>It's just a matter of figuring out your business plan to make the idea viable which you can get help with.  All business details that can even be outsourced.  But the passion is the core.  The idea is key.</p>
-<p>When I got my business degree I wanted to immediately get my masters.  Even started on it.  Quickly found out that I was being taught the most useless information.  Great if you want to get a job with a large corporation but not practically if you want to start your own business.  So I dropped that and continued on my adventure.</p>
-<p>Knowing about marketing is essential but also being creative is required.</p>
-<p>What are you doing to be creative?</p>
+We are in a time of creativity.  More than ever.  I heard recently that MFA (Masters of Fine Arts) is going to be the new MBA (Master of Business Administration).  Being creative in business is the key now because the MBA stuff can be outsourced.
+
+It's just a matter of figuring out your business plan to make the idea viable which you can get help with.  All business details that can even be outsourced.  But the passion is the core.  The idea is key.
+
+When I got my business degree I wanted to immediately get my masters.  Even started on it.  Quickly found out that I was being taught the most useless information.  Great if you want to get a job with a large corporation but not practically if you want to start your own business.  So I dropped that and continued on my adventure.
+
+Knowing about marketing is essential but also being creative is required.
+
+What are you doing to be creative?</p>

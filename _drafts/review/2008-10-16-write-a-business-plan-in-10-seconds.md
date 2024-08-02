@@ -21,10 +21,14 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1203";s:5:"score";s:18:"104.30491936876001";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1170";s:5:"score";s:17:"55.79213331207144";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"267";s:5:"score";s:18:"53.805468840942154";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:17:"44.11329514357445";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"43.72498311472606";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:16:"41.9355286772043";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1923";s:5:"score";s:18:"41.480134258359435";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1267";s:5:"score";s:16:"41.1388832243426";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2105";s:5:"score";s:17:"37.69686293593248";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"311";s:5:"score";s:17:"36.98074488134158";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"968";s:5:"score";s:17:"36.45878451902786";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1300";s:5:"score";s:18:"36.437724303605464";}}
 permalink: "/write-a-business-plan-in-10-seconds/"
 ---
-<p>Forming a business plan around a business idea can be very quick.  Check out this 10 second solution.</p>
->There are basically four major aspects of the ten-second business and marketing plan:</p>
-<p>1) What product or service you are offering?</p>
-<p>2) How it is going to help people?</p>
-<p>3) What are you going to call your business?</p>
-<p>4) How are you are going to reach your customers?</p></blockquote>
+Forming a business plan around a business idea can be very quick.  Check out this 10 second solution.</p>
+>There are basically four major aspects of the ten-second business and marketing plan:
+
+1) What product or service you are offering?
+
+2) How it is going to help people?
+
+3) What are you going to call your business?
+
+4) How are you are going to reach your customers?</p></blockquote>
 <p><a href="http://www.youngentrepreneur.com/blog/2008/02/18/write-a-business-plan-in-10-seconds-entrepreneur-university/" rel="nofollow">YoungEntrepreneur.com Blog » Write A Business Plan In 10 Seconds - Entrepreneur University</a>.</p>

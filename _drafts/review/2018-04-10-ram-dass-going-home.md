@@ -36,9 +36,14 @@ meta:
   _wpas_done_all: '1'
 permalink: "/ram-dass-going-home/"
 ---
-<p><a href="https://www.netflix.com/watch/80209895" target="_blank" rel="noopener"><img class="alignright wp-image-14949 size-medium" src="{{ site.baseurl }}/posts/2018/04/Ram-Dass-200x300.jpg" alt="Ram Dass: Going Home" width="200" height="300" /></a>"We are soul. As souls, we are not under time or space. We are infinite."</p>
-<p>That is how the new <a href="http://ramdassgoinghome.com/">Ram Dass: Going Home</a> documentary starts. Appropriately.</p>
-<p>Ram Dass is very influential for me. His first book <a href="https://amzn.to/2qmnZfX"><em>Be Here Now</em></a> influenced me before I read it. Everyone references back to Ram Dass. And I loved his book <a href="https://amzn.to/2v6SFaW"><em>Be Love Now</em></a> even more. Which helped me see love everywhere. I could see everything.</p>
-<p>Go check it out. It's on <a href="https://www.netflix.com/watch/80209895">Netflix</a> worldwide.</p>
-<p>"Start with your love, your passion and go from there. Then, love everything, everything"</p>
-<p>Life is a dream. How do you want to dream it?</p>
+<a href="https://www.netflix.com/watch/80209895" target="_blank" rel="noopener"><img class="alignright wp-image-14949 size-medium" src="{{ site.baseurl }}/posts/2018/04/Ram-Dass-200x300.jpg" alt="Ram Dass: Going Home" width="200" height="300" /></a>"We are soul. As souls, we are not under time or space. We are infinite."
+
+That is how the new <a href="http://ramdassgoinghome.com/">Ram Dass: Going Home</a> documentary starts. Appropriately.
+
+Ram Dass is very influential for me. His first book <a href="https://amzn.to/2qmnZfX"> *Be Here Now *</a> influenced me before I read it. Everyone references back to Ram Dass. And I loved his book <a href="https://amzn.to/2v6SFaW"> *Be Love Now *</a> even more. Which helped me see love everywhere. I could see everything.
+
+Go check it out. It's on <a href="https://www.netflix.com/watch/80209895">Netflix</a> worldwide.
+
+"Start with your love, your passion and go from there. Then, love everything, everything"
+
+Life is a dream. How do you want to dream it?</p>

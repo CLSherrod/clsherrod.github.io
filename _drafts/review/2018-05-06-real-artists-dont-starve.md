@@ -34,12 +34,20 @@ meta:
   _nectar_love: '0'
 permalink: "/real-artists-dont-starve/"
 ---
-<p><a href="https://amzn.to/2rqlJVp"><img class="alignright wp-image-15207 size-medium" src="{{ site.baseurl }}/posts/2018/05/Real-Artists-Dont-Starve-197x300.jpg" alt="Real Artists Don't Starve" width="197" height="300" /></a>A friend at a small dinner party recommended I read <a href="https://amzn.to/2rqlJVp">Real Artists Don't Starve</a>. Two days later I finished the book.</p>
-<p>I really loved it.</p>
-<p>"Money is the means to making art, but it must never be the master."</p>
-<p>"To be an artist is to be an entrepreneur. We must learn to embrace this tension and the beauty that comes from it."</p>
-<p>I've always thought of myself as an Entrepreneur but looking at it from an angle of an artist has intrigued me. I work on projects that are of interest to me. I've sold everything from software, real estate, spiritual training, and publishing education. And each project felt to me to be an art piece.</p>
-<p>I loved "Real Artists Don't Starve" because all the tips apply to entrepreneurs as well.</p>
-<p>Jeff Goins steps you thru the mind-set to be a thriving artist. How to market and make money. Sold techniques that artists don't talk about much.</p>
-<p>I've worked with artists and more business-type entrepreneurs. All of them entrepreneurs. And artists, musician, writers and creatives in general struggled the most because they don't focus on the difference between a starving artist and a thriving artist. This book steps them right thru to being a real artist.</p>
-<p>Highly recommended.</p>
+<a href="https://amzn.to/2rqlJVp"><img class="alignright wp-image-15207 size-medium" src="{{ site.baseurl }}/posts/2018/05/Real-Artists-Dont-Starve-197x300.jpg" alt="Real Artists Don't Starve" width="197" height="300" /></a>A friend at a small dinner party recommended I read <a href="https://amzn.to/2rqlJVp">Real Artists Don't Starve</a>. Two days later I finished the book.
+
+I really loved it.
+
+"Money is the means to making art, but it must never be the master."
+
+"To be an artist is to be an entrepreneur. We must learn to embrace this tension and the beauty that comes from it."
+
+I've always thought of myself as an Entrepreneur but looking at it from an angle of an artist has intrigued me. I work on projects that are of interest to me. I've sold everything from software, real estate, spiritual training, and publishing education. And each project felt to me to be an art piece.
+
+I loved "Real Artists Don't Starve" because all the tips apply to entrepreneurs as well.
+
+Jeff Goins steps you thru the mind-set to be a thriving artist. How to market and make money. Sold techniques that artists don't talk about much.
+
+I've worked with artists and more business-type entrepreneurs. All of them entrepreneurs. And artists, musician, writers and creatives in general struggled the most because they don't focus on the difference between a starving artist and a thriving artist. This book steps them right thru to being a real artist.
+
+Highly recommended.</p>

@@ -17,14 +17,24 @@ meta:
   _wp_rp_image: empty
 permalink: "/occupy-movement-failed/"
 ---
-<p><img class="alignright size-medium wp-image-4787" title="Occupy_Santa_Clarita" src="{{ site.baseurl }}/posts/2011/11/Occupy_Santa_Clarita-300x200.jpg" alt="" width="300" height="200" />The Occupy Movement was doomed to fail because they don't have a common voice.</p>
-<p>There is no leader. In fact they can't even decide on a leader and they give no authority to anyone to be a leader.</p>
-<p>Without a leader you can't have a cause.</p>
-<p>Without a leader no one can stand up and call an end to the violence at the occupy camps.</p>
-<p>They come off as a bunch of losers that want to steal from the rich and it will just fix everything.</p>
-<p>Some advocate for a special millionaire tax. That is socialism, plan and simple. And it won't help. The very rich aren't really personally rich, almost everything is in businesses and foundations. Entities that help this country.</p>
-<p>Without the rich this country would be worst off. The problem is the social welfare government system. Asking the government to save us from the super rich is crazy. The government special tax credits for super big companies is the problem, not the companies. Companies wouldn't get away with these crazy tax rebates if it wasn't because of the government.</p>
-<p>The bank and investment scandals wouldn't have happened if big companies know they couldn't get away with it, and get tax payers (government) money to bail them out.</p>
-<p>Let them go bankrupt. Bad businesses should go out of business and be replaced with good ones that create value.</p>
-<p>Yes there are some that don't help the country but I believe most help this country greatly. I've know many very rich people and they help by creating value. Doing any business with governments doesn't create value.</p>
-<p>If you can sit in a park with a sign and protest you are not creating value. Quite honesty you're the problem.</p>
+<img class="alignright size-medium wp-image-4787" title="Occupy_Santa_Clarita" src="{{ site.baseurl }}/posts/2011/11/Occupy_Santa_Clarita-300x200.jpg" alt="" width="300" height="200" />The Occupy Movement was doomed to fail because they don't have a common voice.
+
+There is no leader. In fact they can't even decide on a leader and they give no authority to anyone to be a leader.
+
+Without a leader you can't have a cause.
+
+Without a leader no one can stand up and call an end to the violence at the occupy camps.
+
+They come off as a bunch of losers that want to steal from the rich and it will just fix everything.
+
+Some advocate for a special millionaire tax. That is socialism, plan and simple. And it won't help. The very rich aren't really personally rich, almost everything is in businesses and foundations. Entities that help this country.
+
+Without the rich this country would be worst off. The problem is the social welfare government system. Asking the government to save us from the super rich is crazy. The government special tax credits for super big companies is the problem, not the companies. Companies wouldn't get away with these crazy tax rebates if it wasn't because of the government.
+
+The bank and investment scandals wouldn't have happened if big companies know they couldn't get away with it, and get tax payers (government) money to bail them out.
+
+Let them go bankrupt. Bad businesses should go out of business and be replaced with good ones that create value.
+
+Yes there are some that don't help the country but I believe most help this country greatly. I've know many very rich people and they help by creating value. Doing any business with governments doesn't create value.
+
+If you can sit in a park with a sign and protest you are not creating value. Quite honesty you're the problem.</p>

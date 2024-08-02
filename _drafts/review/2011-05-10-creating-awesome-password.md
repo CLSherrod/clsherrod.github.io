@@ -90,11 +90,16 @@ meta:
   _wpb_vc_js_status: 'false'
 permalink: "/creating-awesome-password/"
 ---
-<p>I just wanted to write a little note on how to create an awesome password.</p>
-<p>I had to change my main master password recently. It's the one password that I have memorized. I use it to on LastPass.com which stores most of my passwords I use on the Internet.</p>
-<p>I use diceware to create a long random passphrase, not password. It's five words long.</p>
-<p>First goto <a href="http://Diceware.com" rel="nofollow">Diceware.com</a> and get the complete list. Then use 5 dice to create a five digit number. If you don't have dice handy you can goto <a href="http://www.random.org/dice/?num=5" rel="nofollow">http://www.random.org/dice/?num=5</a> and generate the numbers that way.</p>
+I just wanted to write a little note on how to create an awesome password.
+
+I had to change my main master password recently. It's the one password that I have memorized. I use it to on LastPass.com which stores most of my passwords I use on the Internet.
+
+I use diceware to create a long random passphrase, not password. It's five words long.
+
+First goto <a href="http://Diceware.com" rel="nofollow">Diceware.com</a> and get the complete list. Then use 5 dice to create a five digit number. If you don't have dice handy you can goto <a href="http://www.random.org/dice/?num=5" rel="nofollow">http://www.random.org/dice/?num=5</a> and generate the numbers that way.</p>
 <p id="1837" class="graf--p">Roll your dice and look up that number in the long text file that is Diceware. That’s your first word in your passphrase.</p>
-<p id="cc52" class="graf--p is-withNotes">Now do that four more times.</p>
-<p>Memorize that sentence of words and then a formula you use to randomize it. For instance, let’s say your passphrase was (don’t use this) one two three four five. And the formula you use is is to use the first 2 letters of each word, a number and punctuation. Like this. on9tw8th7fo6fi5!</p>
-<p>You got yourself an awesome passphrase.</p>
+<p id="cc52" class="graf--p is-withNotes">Now do that four more times.
+
+Memorize that sentence of words and then a formula you use to randomize it. For instance, let’s say your passphrase was (don’t use this) one two three four five. And the formula you use is is to use the first 2 letters of each word, a number and punctuation. Like this. on9tw8th7fo6fi5!
+
+You got yourself an awesome passphrase.</p>

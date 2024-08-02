@@ -21,11 +21,13 @@ meta:
   _wp_rp_image: empty
 permalink: "/email-checklist/"
 ---
-<p>Here is a great checklist before you send out that email.  Here is just a few.  Click the link at the bottom for the full articles.</p>
-<p>   1. Is it going to just one person? (If yes, jump to #10)<br />
+Here is a great checklist before you send out that email.  Here is just a few.  Click the link at the bottom for the full articles.
+
+   1. Is it going to just one person? (If yes, jump to #10)<br />
    2. Since it's going to a group, have I thought about who is on my list?<br />
    3. Are they blind copied?<br />
    4. Did every person on the list really and truly opt in? Not like sort of, but really ask for it?<br />
    5. So that means that if I didn't send it to them, they'd complain about not getting it?<br />
-   6. See #5. If they wouldn't complain, take them off!</p>
-<p><a href="http://sethgodin.typepad.com/seths_blog/2008/06/email-checklist.html" rel="nofollow">Seth's Blog: Email checklist</a></p>
+   6. See #5. If they wouldn't complain, take them off!
+
+<a href="http://sethgodin.typepad.com/seths_blog/2008/06/email-checklist.html" rel="nofollow">Seth's Blog: Email checklist</a></p>

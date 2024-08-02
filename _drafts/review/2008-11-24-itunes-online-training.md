@@ -25,9 +25,14 @@ permalink: "/itunes-online-training/"
 <div class="zemanta-img zemanta-action-click">
 <p>[caption id="" align="alignright" width="200" caption="Image by  via CrunchBase"]<a href="http://www.crunchbase.com/company/apple" rel="nofollow"><img title="Image representing Apple as depicted in CrunchBase" src="http://www.crunchbase.com/assets/images/resized/0001/0923/10923v1-max-450x450.png" alt="Image representing Apple as depicted in CrunchBase" width="200" height="122" / rel="nofollow"/></a>[/caption]</p>
 </div>
-<p>During a recession which we are technically in you have a choice.</p>
-<p>You can ignore it which is actually a good strategy.  You can increase your innovation as your competitors go out of business.  And/or you can increase your skills.</p>
-<p>iTunes U give you access to colleges and universities around the world for free.  It's available 24/7 from literally hundreds of top colleges, universities and other educational organizations.</p>
-<p>You can even sych them to your iPod or iPhone and listen to them anywhere.</p>
-<p>Check out iTunes U and add to your skill set.</p>
-<p><a href="http://www.apple.com/education/itunesu_mobilelearning/itunesu.html" rel="nofollow">Apple - Education - iTunes U - Overview</a>.</p>
+<p>During a recession which we are technically in you have a choice.
+
+You can ignore it which is actually a good strategy.  You can increase your innovation as your competitors go out of business.  And/or you can increase your skills.
+
+iTunes U give you access to colleges and universities around the world for free.  It's available 24/7 from literally hundreds of top colleges, universities and other educational organizations.
+
+You can even sych them to your iPod or iPhone and listen to them anywhere.
+
+Check out iTunes U and add to your skill set.
+
+<a href="http://www.apple.com/education/itunesu_mobilelearning/itunesu.html" rel="nofollow">Apple - Education - iTunes U - Overview</a>.</p>

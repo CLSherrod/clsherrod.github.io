@@ -19,7 +19,10 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4407";s:5:"score";s:18:"124.36740061240502";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4408";s:5:"score";s:16:"96.1340462224182";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"193";s:5:"score";s:16:"96.1340462224182";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4410";s:5:"score";s:17:"91.38423471318707";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4406";s:5:"score";s:17:"90.32571606234444";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4405";s:5:"score";s:16:"89.5028789645734";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4411";s:5:"score";s:16:"85.7592746107367";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4404";s:5:"score";s:17:"77.74181299177201";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"746";s:5:"score";s:17:"57.18352021247223";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"788";s:5:"score";s:18:"53.545203325609165";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4437";s:5:"score";s:17:"49.16605859350753";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4412";s:5:"score";s:18:"47.383715249963856";}}
 permalink: "/photo-stream-europe-2008/"
 ---
-<p><img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/07/2636342054_384e5140bf_m.jpg" alt="" width="240" height="180" />I just finished uploading some photos from my <a href="http://flickr.com/photos/eaglechris">current trip to France</a> with my honey Nan up on to my Flickr account.</p>
-<p>I'll be updating it every couple of days.</p>
-<p>This photo is from Rennes France where we are currently staying at a home exchange.  Cobble stone streets and medival buildings in this area.</p>
-<p>Got to go, we are off to see Vitre a medival village east of here.  I'll post pictures in a couple of more days.  We're going to Mont St-Michel tomorrow.</p>
+<img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/07/2636342054_384e5140bf_m.jpg" alt="" width="240" height="180" />I just finished uploading some photos from my <a href="http://flickr.com/photos/eaglechris">current trip to France</a> with my honey Nan up on to my Flickr account.
+
+I'll be updating it every couple of days.
+
+This photo is from Rennes France where we are currently staying at a home exchange.  Cobble stone streets and medival buildings in this area.
+
+Got to go, we are off to see Vitre a medival village east of here.  I'll post pictures in a couple of more days.  We're going to Mont St-Michel tomorrow.</p>

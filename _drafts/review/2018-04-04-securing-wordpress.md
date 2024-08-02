@@ -35,6 +35,8 @@ meta:
   _nectar_love: '0'
 permalink: "/securing-wordpress/"
 ---
-<p>This morning one of my other Wordpress installations emailed me saying some IP address from China was trying to login as user admin. They got locked out because I have limit login lockout to lock people out after so many unsuccessful. I use Wordfence Security plugin (<a href="https://wordpress.org/plugins/wordfence/">https://wordpress.org/plugins/wordfence/</a>). I did double check all it's recommendations to make sure I did everything.</p>
-<p>Also a good idea to have your entire Wordpress site backed up off server. I use UpdraftPlus Backup/Restore (<a href="https://wordpress.org/plugins/updraftplus/">https://wordpress.org/plugins/updraftplus/</a>) and have multiple versions stored over on Amazon S3.</p>
-<p>These two plugins will secure you to make you an incredible hard target to hack. Hackers will most likely just move on to someone else that hasn't secured their website.</p>
+This morning one of my other Wordpress installations emailed me saying some IP address from China was trying to login as user admin. They got locked out because I have limit login lockout to lock people out after so many unsuccessful. I use Wordfence Security plugin (<a href="https://wordpress.org/plugins/wordfence/">https://wordpress.org/plugins/wordfence/</a>). I did double check all it's recommendations to make sure I did everything.
+
+Also a good idea to have your entire Wordpress site backed up off server. I use UpdraftPlus Backup/Restore (<a href="https://wordpress.org/plugins/updraftplus/">https://wordpress.org/plugins/updraftplus/</a>) and have multiple versions stored over on Amazon S3.
+
+These two plugins will secure you to make you an incredible hard target to hack. Hackers will most likely just move on to someone else that hasn't secured their website.</p>

@@ -21,6 +21,8 @@ meta:
   _wp_rp_image: empty
 permalink: "/money-game/"
 ---
-<p>I created a Google Document on playing the <a href="http://spreadsheets.google.com/pub?key=p_wO4GcmAAPnr4SiZK_Hudw" rel="nofollow">money game.</a> You may have heard the games from Abraham-Hicks.Â  The prosperity consciousness game has been around for a long time.</p>
-<p>Every day you get an additional $1000 and you have to write down what you would buy.Â  I've given a couple of suggestions at the beginning which you can change.</p>
-<p>Grab it while you can I'm offering it only for a limited time.Â  Have fun.</p>
+I created a Google Document on playing the <a href="http://spreadsheets.google.com/pub?key=p_wO4GcmAAPnr4SiZK_Hudw" rel="nofollow">money game.</a> You may have heard the games from Abraham-Hicks.Â  The prosperity consciousness game has been around for a long time.
+
+Every day you get an additional $1000 and you have to write down what you would buy.Â  I've given a couple of suggestions at the beginning which you can change.
+
+Grab it while you can I'm offering it only for a limited time.Â  Have fun.</p>

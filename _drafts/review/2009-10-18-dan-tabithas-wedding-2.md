@@ -37,9 +37,14 @@ meta:
   _wpb_vc_js_status: 'false'
 permalink: "/dan-tabithas-wedding-2/"
 ---
-<p>I went to my second wedding in two weeks recently. My friends Dan and Tabitha got married in the rain with mosquitoes. When you plan a wedding months in advance sometimes it doesn't quite go according to plan.</p>
-<p>The location was supposed to be outside. But it rained a lot the day before and was pouring the morning of. So backup plan was formed and we arrived at a cute Inn. Then found out it was still going to be outside but this place didn't have a foot of mud at least.</p>
-<p>While everyone is waiting for the rain to stop long enough to get the cute couple wed, we got attached by huge killer mosquitoes. I don't like to use mosquitoe spray but I waived that rule immediately and was fine under my umbrella.</p>
-<p>Then the sun peaks out from a cloud and the rain stops.</p>
-<p>The ceremony was beautiful and Nan and I with Sierra and Emily enjoyed ourselves.</p>
-<p>It totally worked out and it always does for the best. Just another example.</p>
+I went to my second wedding in two weeks recently. My friends Dan and Tabitha got married in the rain with mosquitoes. When you plan a wedding months in advance sometimes it doesn't quite go according to plan.
+
+The location was supposed to be outside. But it rained a lot the day before and was pouring the morning of. So backup plan was formed and we arrived at a cute Inn. Then found out it was still going to be outside but this place didn't have a foot of mud at least.
+
+While everyone is waiting for the rain to stop long enough to get the cute couple wed, we got attached by huge killer mosquitoes. I don't like to use mosquitoe spray but I waived that rule immediately and was fine under my umbrella.
+
+Then the sun peaks out from a cloud and the rain stops.
+
+The ceremony was beautiful and Nan and I with Sierra and Emily enjoyed ourselves.
+
+It totally worked out and it always does for the best. Just another example.</p>

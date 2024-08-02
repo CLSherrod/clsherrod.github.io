@@ -23,12 +23,18 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"302";s:5:"score";s:17:"106.4282384767804";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"290";s:5:"score";s:17:"58.37107607939983";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1196";s:5:"score";s:17:"57.56257411553162";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1176";s:5:"score";s:17:"56.41054371395744";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1038";s:5:"score";s:18:"55.379286877275135";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"843";s:5:"score";s:17:"53.25569024581233";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"392";s:5:"score";s:17:"52.76699872833585";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"742";s:5:"score";s:17:"52.09605325532323";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"287";s:5:"score";s:17:"51.88090497142406";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1417";s:5:"score";s:17:"51.07240300755585";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"380";s:5:"score";s:17:"51.07240300755585";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"365";s:5:"score";s:17:"51.07240300755585";}}
 permalink: "/big-banks-vs-regional/"
 ---
-<p>I have a great aunt with a lot of money.  She has many many accounts in many banks with no more than $100,000 USD in each because that is the limit the FDIC Insurance will pay.  Not many know this, but yes there is limit.  So if you have a lot of money use different accounts and banks.</p>
-<p>Also be careful what banks you use.  Many are going out of business.  Big rumors of another big one going under soon.  Don't ask me who.  And many many regional banks are going out of business.</p>
-<p>This story about Virgin Atlantic is sobering.  Richard Branson's main bank came to the rescue.  Looks like big big banks are going to be the survivors.</p>
->"Virgin Atlantic may have disappeared if HBOS had gone, it could have been that serious," Sir Richard said, adding it would have been "no fault of our own".</p>
-<p>In an interview with Fox News he said: "HBOS looked like it was going to go bankrupt in Europe so Virgin Atlantic rings up HBOS, we have a billion pounds on deposit - not really our money, it's people who've bought tickets, people who've bought holidays - and we said, 'We want it out. We want to move it to another bank.'</p>
-<p>"They said, 'Well, we actually, er,... Look at the small print, you can't have it out right now.'."</p>
-<p>He went on: "And now, fortunately, Lloyds (TSB) bank made a bid for them and we got our money out."</p>
-<p>Sir Richard made the comments as he explained why he thought governments, both in the US and the UK, should guarantee "all of their depositors' money in banks".</p></blockquote>
+I have a great aunt with a lot of money.  She has many many accounts in many banks with no more than $100,000 USD in each because that is the limit the FDIC Insurance will pay.  Not many know this, but yes there is limit.  So if you have a lot of money use different accounts and banks.
+
+Also be careful what banks you use.  Many are going out of business.  Big rumors of another big one going under soon.  Don't ask me who.  And many many regional banks are going out of business.
+
+This story about Virgin Atlantic is sobering.  Richard Branson's main bank came to the rescue.  Looks like big big banks are going to be the survivors.</p>
+>"Virgin Atlantic may have disappeared if HBOS had gone, it could have been that serious," Sir Richard said, adding it would have been "no fault of our own".
+
+In an interview with Fox News he said: "HBOS looked like it was going to go bankrupt in Europe so Virgin Atlantic rings up HBOS, we have a billion pounds on deposit - not really our money, it's people who've bought tickets, people who've bought holidays - and we said, 'We want it out. We want to move it to another bank.'
+
+"They said, 'Well, we actually, er,... Look at the small print, you can't have it out right now.'."
+
+He went on: "And now, fortunately, Lloyds (TSB) bank made a bid for them and we got our money out."
+
+Sir Richard made the comments as he explained why he thought governments, both in the US and the UK, should guarantee "all of their depositors' money in banks".</p></blockquote>
 <p><a href="http://news.sky.com/skynews/Home/Business/Sir-Richard-Branson-HBOS-Collapse-Could-Have-Wiped-Out-Virgin/Article/200810215118262?lpos=Business_First_UK_News_Article_Teaser_Region_3&amp;lid=ARTICLE_15118262_Sir_Richard_Branson%3A_HBOS_Collapse_Could_Have_Wiped_Out_Virgin" rel="nofollow">Sir Richard Branson: HBOS Collapse Could Have Wiped Out Virgin | Business | Sky News</a>.</p>

@@ -21,8 +21,12 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1266";s:5:"score";s:17:"84.83141655385111";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1041";s:5:"score";s:17:"63.52458369171462";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1882";s:5:"score";s:18:"24.690866970637806";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"688";s:5:"score";s:18:"24.221664557624962";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1188";s:5:"score";s:18:"20.518280937365965";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"7173";s:5:"score";s:18:"19.942916792470783";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"388";s:5:"score";s:18:"18.556622431350892";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"29";s:5:"score";s:18:"17.413721940152524";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1199";s:5:"score";s:17:"16.74073091185521";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"276";s:5:"score";s:17:"16.74073091185521";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"325";s:5:"score";s:17:"16.05109649435178";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1229";s:5:"score";s:18:"15.913110751377872";}}
 permalink: "/top-10-best-recession-proofing-strategies/"
 ---
-<p>After the worst bank failure of all time and quickly followed by the second, very little people would argue that we are not in a recession.  Some even say the beginning of a depression.</p>
-<p>Well, I've been thru them before and I've studied companies that have come out of a recession a winner.  With crisis' there is great opportunity.</p>
-<p>So here is my top 10 list of the best strategies to do in a recession.  These will keep you fresh and ahead of the pack. Innovation is the key to performance, growth and valuation.</p>
-<p>Get it totally free when you subscribe to my list.</p>
-<p><strong>Opportunity is over</strong></p>
+After the worst bank failure of all time and quickly followed by the second, very little people would argue that we are not in a recession.  Some even say the beginning of a depression.
+
+Well, I've been thru them before and I've studied companies that have come out of a recession a winner.  With crisis' there is great opportunity.
+
+So here is my top 10 list of the best strategies to do in a recession.  These will keep you fresh and ahead of the pack. Innovation is the key to performance, growth and valuation.
+
+Get it totally free when you subscribe to my list.
+
+<strong>Opportunity is over</strong></p>

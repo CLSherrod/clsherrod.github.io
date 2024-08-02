@@ -22,8 +22,11 @@ meta:
   _wp_rp_image: empty
 permalink: "/nigeria-tiff-sends-branson-packing/"
 ---
-<blockquote><img class="alignright size-medium wp-image-56" title="Richard Branson" src="{{ site.baseurl }}/posts/2008/09/richardbranson.jpg" alt="" width="200" height="236" />British carrier Virgin Atlantic Airways is looking to dispose of its equity stake in loss making Virgin Nigeria.</p>
-<p>The Sir Richard Branson- founded carrier owns 49 per cent of Virgin Nigeria together with Nigerian institutional investors who hold 51 per cent.</p>
-<p>The domestic carrier has recently been in dispute with the government over whether its operations should be based at the domestic or international terminal.</p></blockquote>
-<p>Another reason to try often and cut the losers quickly.Â  When government changes it minds then the whole country is off.Â  Move on and wait until they country settles down again.</p>
-<p><a href="http://www.bdafrica.com/index.php?option=com_content&amp;task=view&amp;id=9498&amp;Itemid=5810" rel="nofollow">Business Daily Africa - the international window into East African business opportunities - Nigeria tiff sends Branson packing</a></p>
+<blockquote><img class="alignright size-medium wp-image-56" title="Richard Branson" src="{{ site.baseurl }}/posts/2008/09/richardbranson.jpg" alt="" width="200" height="236" />British carrier Virgin Atlantic Airways is looking to dispose of its equity stake in loss making Virgin Nigeria.
+
+The Sir Richard Branson- founded carrier owns 49 per cent of Virgin Nigeria together with Nigerian institutional investors who hold 51 per cent.
+
+The domestic carrier has recently been in dispute with the government over whether its operations should be based at the domestic or international terminal.</p></blockquote>
+<p>Another reason to try often and cut the losers quickly.Â  When government changes it minds then the whole country is off.Â  Move on and wait until they country settles down again.
+
+<a href="http://www.bdafrica.com/index.php?option=com_content&amp;task=view&amp;id=9498&amp;Itemid=5810" rel="nofollow">Business Daily Africa - the international window into East African business opportunities - Nigeria tiff sends Branson packing</a></p>

@@ -63,12 +63,18 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"7204";s:5:"score";s:17:"38.41412044034065";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"7893";s:5:"score";s:17:"31.07591678776383";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"8013";s:5:"score";s:18:"27.441762232908204";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"7851";s:5:"score";s:18:"27.441762232908204";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"7846";s:5:"score";s:18:"25.808821440166305";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:18:"24.787170192617747";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7786";s:5:"score";s:18:"24.509088095321346";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1650";s:5:"score";s:18:"22.870024507426333";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"725";s:5:"score";s:18:"22.783463491151394";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:5:"14801";s:5:"score";s:18:"22.300783157675887";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:18:"22.300783157675887";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"7824";s:5:"score";s:18:"22.300783157675887";}}
 permalink: "/shut-up-and-write/"
 ---
-<p>So while I'm in San Francisco for a month on business and my daughter moved here to go to college I decided to go to the <a href="http://www.meetup.com/shutupandwriteSFO/" target="_blank" rel="noopener">San Francisco chapter of Shut Up and Write</a>. It's a bunch of writers (mostly fiction in this group) that get together at a local cafe and write. There were six other writers today.</p>
-<p><img class="alignright wp-image-7889 size-medium" src="{{ site.baseurl }}/posts/2015/06/IMG_2360-300x225.jpg" alt="IMG_2360" width="300" height="225" />We meet at Celtic Coffee in downtown San Francisco and took over a corner of the place which was cool.</p>
-<p>Shut up and Write! turns writing from a solitary, to a social experience.</p>
-<p>The concept is simple: meet up with others in a cafe and write. The concept originated here in San Francisco, amongst creative writers, but, thanks to social media, has spread amongst all writers around the world. The idea is to make the act of writing fun and relaxing, as the San Francisco group puts it:</p>
-<pre><em>No critiquing, exercises, lectures, ego, competition or feeling guilty.</em></pre>
-<p>The group is a bit popular and I was put on a waiting list three days before they meet. The host Genine commented the day before that if you were on the waitlist to still come, so I did. There was plenty of room so I'm glad I popped over the day.</p>
-<p>I used the time to work on my next book. Lots of finishing details, rewrote my biography, and wrote my introduction.</p>
-<p>I look forward to checking out my local group when this trip is over.</p>
-<p>Anyone can start a Shut up and Write! group – you don’t need permission or any extra resources. Look on <a href="http://Meetup.com" target="_blank" rel="noopener">Meetup.com</a> for the one nearest you.</p>
+So while I'm in San Francisco for a month on business and my daughter moved here to go to college I decided to go to the <a href="http://www.meetup.com/shutupandwriteSFO/" target="_blank" rel="noopener">San Francisco chapter of Shut Up and Write</a>. It's a bunch of writers (mostly fiction in this group) that get together at a local cafe and write. There were six other writers today.
+
+<img class="alignright wp-image-7889 size-medium" src="{{ site.baseurl }}/posts/2015/06/IMG_2360-300x225.jpg" alt="IMG_2360" width="300" height="225" />We meet at Celtic Coffee in downtown San Francisco and took over a corner of the place which was cool.
+
+Shut up and Write! turns writing from a solitary, to a social experience.
+
+The concept is simple: meet up with others in a cafe and write. The concept originated here in San Francisco, amongst creative writers, but, thanks to social media, has spread amongst all writers around the world. The idea is to make the act of writing fun and relaxing, as the San Francisco group puts it:</p>
+<pre> *No critiquing, exercises, lectures, ego, competition or feeling guilty. *</pre>
+<p>The group is a bit popular and I was put on a waiting list three days before they meet. The host Genine commented the day before that if you were on the waitlist to still come, so I did. There was plenty of room so I'm glad I popped over the day.
+
+I used the time to work on my next book. Lots of finishing details, rewrote my biography, and wrote my introduction.
+
+I look forward to checking out my local group when this trip is over.
+
+Anyone can start a Shut up and Write! group – you don’t need permission or any extra resources. Look on <a href="http://Meetup.com" target="_blank" rel="noopener">Meetup.com</a> for the one nearest you.</p>

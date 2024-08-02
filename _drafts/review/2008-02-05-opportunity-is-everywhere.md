@@ -23,9 +23,11 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"279";s:5:"score";s:18:"122.62221995350477";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"365";s:5:"score";s:18:"104.98896596625161";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"227";s:5:"score";s:18:"104.98896596625161";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"392";s:5:"score";s:18:"103.16575039828412";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"380";s:5:"score";s:18:"103.16575039828412";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"377";s:5:"score";s:18:"103.16575039828412";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"280";s:5:"score";s:17:"86.26255237015386";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1117";s:5:"score";s:17:"75.25558102768721";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"284";s:5:"score";s:17:"74.61867356542221";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"694";s:5:"score";s:17:"74.06456519050485";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"692";s:5:"score";s:17:"70.37640693557006";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"261";s:5:"score";s:17:"67.12866960927698";}}
 permalink: "/opportunity-is-everywhere/"
 ---
-<p>Apparently there is a lot of stories about the economy in the USA is slowing down and prosperity is disappearing.Â  I say Apparently because I don't watch the negative news, I focus on the positive and look for opportunity everywhere.</p>
-<p>This morning I'm reading my email and I have three tips in my inbox.Â  All three show that prosperity and opportunity is abound.</p>
-<p><a href="http://www.greendaily.com/2008/02/04/green-by-the-numbers-future-of-green-jobs-offer-economic-prospe/" rel="nofollow">Green By The Numbers</a> show statistics that green related fields are very economically viable and growing in the future. Â  After decades of almost no growth the green industry is growing.</p>
+Apparently there is a lot of stories about the economy in the USA is slowing down and prosperity is disappearing.Â  I say Apparently because I don't watch the negative news, I focus on the positive and look for opportunity everywhere.
+
+This morning I'm reading my email and I have three tips in my inbox.Â  All three show that prosperity and opportunity is abound.
+
+<a href="http://www.greendaily.com/2008/02/04/green-by-the-numbers-future-of-green-jobs-offer-economic-prospe/" rel="nofollow">Green By The Numbers</a> show statistics that green related fields are very economically viable and growing in the future. Â  After decades of almost no growth the green industry is growing.</p>
 <blockquote>
 <ul>
 <li>In 2002, the solar industry market was worth $200 million dollars. In 2007, the estimated worth of the solar industry market was $2 billion dollars.</li>

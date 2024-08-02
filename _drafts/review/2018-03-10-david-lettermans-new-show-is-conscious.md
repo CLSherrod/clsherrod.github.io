@@ -37,5 +37,6 @@ meta:
   _nectar_love: '0'
 permalink: "/david-lettermans-new-show-is-conscious/"
 ---
-<p><a href="https://www.netflix.com/title/80209096"><img class="alignright wp-image-15008 size-medium" src="{{ site.baseurl }}/posts/2018/03/My-Next-Guest-300x169.jpeg" alt="My Next Guest" width="300" height="169" /></a>Have you checked out <a href="https://www.netflix.com/title/80209096">David Letterman's new show</a>? Wow. He really cares. He's a good guy. Really interesting conversations with people that are helping the world. His latest guest Malala Yousafzai is a real inspiration for girl education around the world.</p>
-<p>&nbsp;</p>
+<a href="https://www.netflix.com/title/80209096"><img class="alignright wp-image-15008 size-medium" src="{{ site.baseurl }}/posts/2018/03/My-Next-Guest-300x169.jpeg" alt="My Next Guest" width="300" height="169" /></a>Have you checked out <a href="https://www.netflix.com/title/80209096">David Letterman's new show</a>? Wow. He really cares. He's a good guy. Really interesting conversations with people that are helping the world. His latest guest Malala Yousafzai is a real inspiration for girl education around the world.
+
+&nbsp;</p>

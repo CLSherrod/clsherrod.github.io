@@ -49,16 +49,28 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"6806";s:5:"score";s:17:"68.09197515501265";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8192";s:5:"score";s:16:"56.2893191188226";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4935";s:5:"score";s:17:"47.30912345332768";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"6885";s:5:"score";s:17:"45.13135698695753";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4873";s:5:"score";s:17:"45.13135698695753";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"98";s:5:"score";s:17:"45.13135698695753";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"7097";s:5:"score";s:17:"43.54445888400154";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1179";s:5:"score";s:17:"43.54445888400154";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1185";s:5:"score";s:17:"37.85947820088971";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"836";s:5:"score";s:17:"36.39709915116182";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1170";s:5:"score";s:17:"35.68171173451957";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"626";s:5:"score";s:17:"35.01908637510863";}}
 permalink: "/jayconradlevinson/"
 ---
-<p>[caption id="" align="alignright" width="300"]<img alt="Jay Conrad Levinson with Nan Akasha" src="{{ site.baseurl }}/posts/2013/10/15.jpg" width="300" height="290" /> Jay Conrad Levinson with Nan Akasha[/caption]</p>
-<p>The father of guerrilla marketing Jay Conrad Levinson passed from this realm yesterday.</p>
-<p>He wrote the book "Guerilla Marketing".</p>
-<p>That was the first book I read on marketing.</p>
-<p>After a horrible marketing class in college about corporate branding and stuff that really doesn't work for any business except for the top 1% of business I really thought "Guerilla Marketing" was the absolute best.</p>
-<p>Actual real marketing advice that I could actually do.</p>
-<p>No focus on branding, and multi-million dollar ads campaigns, but stuff a small business could do.</p>
-<p>It changed my direction in life.</p>
-<p>I started a software business while working at American Express. And I applied "Guerilla Marketing". Been doing it ever since.</p>
-<p>Last year I had the priviledge of meeting Jay and his lovely wife Jeannie at a marketing seminar.</p>
-<p>He was amazing. And a really nice guy with a great family.</p>
-<p>I will miss you Jay.</p>
-<p>RIP JCL</p>
+[caption id="" align="alignright" width="300"]<img alt="Jay Conrad Levinson with Nan Akasha" src="{{ site.baseurl }}/posts/2013/10/15.jpg" width="300" height="290" /> Jay Conrad Levinson with Nan Akasha[/caption]
+
+The father of guerrilla marketing Jay Conrad Levinson passed from this realm yesterday.
+
+He wrote the book "Guerilla Marketing".
+
+That was the first book I read on marketing.
+
+After a horrible marketing class in college about corporate branding and stuff that really doesn't work for any business except for the top 1% of business I really thought "Guerilla Marketing" was the absolute best.
+
+Actual real marketing advice that I could actually do.
+
+No focus on branding, and multi-million dollar ads campaigns, but stuff a small business could do.
+
+It changed my direction in life.
+
+I started a software business while working at American Express. And I applied "Guerilla Marketing". Been doing it ever since.
+
+Last year I had the priviledge of meeting Jay and his lovely wife Jeannie at a marketing seminar.
+
+He was amazing. And a really nice guy with a great family.
+
+I will miss you Jay.
+
+RIP JCL</p>

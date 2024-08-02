@@ -20,5 +20,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3229";s:5:"score";s:18:"13.575912431751675";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"695";s:5:"score";s:18:"13.575912431751675";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"4425";s:5:"score";s:15:"9.5848351250419";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4420";s:5:"score";s:15:"9.5848351250419";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"3120";s:5:"score";s:15:"9.5848351250419";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"647";s:5:"score";s:15:"9.5848351250419";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"203";s:5:"score";s:15:"9.5848351250419";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4806";s:5:"score";s:17:"9.276533765379005";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3690";s:5:"score";s:17:"9.276533765379005";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"3577";s:5:"score";s:17:"9.276533765379005";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1650";s:5:"score";s:17:"9.276533765379005";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1647";s:5:"score";s:17:"9.276533765379005";}}
 permalink: "/view-from-room-this-weekend/"
 ---
-<p>Here is the view from our this last weekend.Â  More pictures coming later today.</p>
-<p><img src="{{ site.baseurl }}/posts/2008/04/2449374114_4b48d868f3_m.jpg" alt="" width="180" height="240" /></p>
+Here is the view from our this last weekend.Â  More pictures coming later today.
+
+<img src="{{ site.baseurl }}/posts/2008/04/2449374114_4b48d868f3_m.jpg" alt="" width="180" height="240" /></p>

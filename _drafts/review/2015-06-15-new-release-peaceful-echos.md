@@ -34,5 +34,6 @@ meta:
   _nectar_love: '0'
 permalink: "/new-release-peaceful-echos/"
 ---
-<p>New electronic song is out.</p>
-<p><iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2026950630/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" width="300" height="150" seamless=""><a href="http://chr1stopher.bandcamp.com/track/peaceful-echos">Peaceful Echos by Chr1stoher</a></iframe></p>
+New electronic song is out.
+
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=2026950630/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" width="300" height="150" seamless=""><a href="http://chr1stopher.bandcamp.com/track/peaceful-echos">Peaceful Echos by Chr1stoher</a></iframe></p>

@@ -20,10 +20,15 @@ meta:
 permalink: "/cote-de-granit-rose/"
 ---
 <div>
-<p><a href="http://flickr.com/photos/eaglechris/sets/72157606056781746/"><img class="alignright" src="{{ site.baseurl }}/posts/2008/06/2651582267_94549b31ae_m.jpg" alt="" width="180" height="240" /></a>We drove north from Rennes and visited Cote de Granit Rose (Coast of the rose granite) in northern France.  The drive up was interesting in that we got lost twice in small villages.  The road system can be a little confusing because of the sheer number of roads and roundabouts.</p>
-<p>Once we made it to the village out of the Cote de Granit Rose we stopped at a restaurant that our book said was the best around the area.  It had a fantastic view of the marina and the food was top notch.  Fantastic.  The sea bass with a local cider sauce was wonderful.  Great French wine to top it off.</p>
-<p>Then we drove the last bit to Cote de Granit Rose.  I bought a French captain hat.  I love hats and always buy a hat to where I travel.  The we saw the rose granite coast. Wow.  Beautiful.  Great formations and interesting shapes.  I did a photography project years ago about rocks and shot the Grand Canyon and other formations in Arizona and these rocks would fit in well with that project.</p>
-<p>There was a lighthouse made of the local granite and I can see why they need a lighthouse.  Rocks everywhere and very windy.  Not friendly to boats.  It was kinda of cool and the local shop was selling swimsuits but how anyone can use them here I have no idea.</p>
-<p>The drive back was much easier and took at least 2/3 of the time.  Only got lost once once we hit Rennes but recovered beautifully.</p>
-<p><a href="http://flickr.com/photos/eaglechris/sets/72157606056781746/">Cote de Granit Rose France Photographs</a></p>
+<p><a href="http://flickr.com/photos/eaglechris/sets/72157606056781746/"><img class="alignright" src="{{ site.baseurl }}/posts/2008/06/2651582267_94549b31ae_m.jpg" alt="" width="180" height="240" /></a>We drove north from Rennes and visited Cote de Granit Rose (Coast of the rose granite) in northern France.  The drive up was interesting in that we got lost twice in small villages.  The road system can be a little confusing because of the sheer number of roads and roundabouts.
+
+Once we made it to the village out of the Cote de Granit Rose we stopped at a restaurant that our book said was the best around the area.  It had a fantastic view of the marina and the food was top notch.  Fantastic.  The sea bass with a local cider sauce was wonderful.  Great French wine to top it off.
+
+Then we drove the last bit to Cote de Granit Rose.  I bought a French captain hat.  I love hats and always buy a hat to where I travel.  The we saw the rose granite coast. Wow.  Beautiful.  Great formations and interesting shapes.  I did a photography project years ago about rocks and shot the Grand Canyon and other formations in Arizona and these rocks would fit in well with that project.
+
+There was a lighthouse made of the local granite and I can see why they need a lighthouse.  Rocks everywhere and very windy.  Not friendly to boats.  It was kinda of cool and the local shop was selling swimsuits but how anyone can use them here I have no idea.
+
+The drive back was much easier and took at least 2/3 of the time.  Only got lost once once we hit Rennes but recovered beautifully.
+
+<a href="http://flickr.com/photos/eaglechris/sets/72157606056781746/">Cote de Granit Rose France Photographs</a></p>
 </div>

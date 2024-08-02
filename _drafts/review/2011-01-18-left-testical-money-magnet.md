@@ -31,12 +31,20 @@ excerpt: This is a good story so stick with me here. Last night I went to the In
   was Roy H. Williams best known for being the wizard of ads. Writing great ads for
   really big clients. He asked some people to come up with [...]
 ---
-<p>This is a good story so stick with me here.</p>
-<p>Last night I went to the Internet Marketing Party here in Austin. Pretty cool group of marketers.</p>
-<p>The guest speaker was Roy H. Williams best known for being the wizard of ads. Writing great ads for really big clients.</p>
-<p>He asked some people to come up with an outrageous sentence and he would spin it into an ad.</p>
-<p>David Gonzalez one of the founders of the Internet Marketing Party came up with the best sentence that got a massive reaction from the crowd.</p>
-<p>David said "My left testical is a money magnet". After the roar of laughter died down Roy spun it into a great ad.</p>
-<p>My biggest takeaway from the night is since there are so many people talking in the world everyone has difficulty focusing and ignore most everything. You'll only be heard if you are saying something new, surprising or different.</p>
-<p>Go out there and be different. Which is really just being yourself. Do it your way and do it from the heart. Don't be like everyone else.</p>
-<p>In Austin check out the group at <a href="http://www.meetup.com/internetmarketingparty/" rel="nofollow">http://www.meetup.com/internetmarketingparty/</a></p>
+This is a good story so stick with me here.
+
+Last night I went to the Internet Marketing Party here in Austin. Pretty cool group of marketers.
+
+The guest speaker was Roy H. Williams best known for being the wizard of ads. Writing great ads for really big clients.
+
+He asked some people to come up with an outrageous sentence and he would spin it into an ad.
+
+David Gonzalez one of the founders of the Internet Marketing Party came up with the best sentence that got a massive reaction from the crowd.
+
+David said "My left testical is a money magnet". After the roar of laughter died down Roy spun it into a great ad.
+
+My biggest takeaway from the night is since there are so many people talking in the world everyone has difficulty focusing and ignore most everything. You'll only be heard if you are saying something new, surprising or different.
+
+Go out there and be different. Which is really just being yourself. Do it your way and do it from the heart. Don't be like everyone else.
+
+In Austin check out the group at <a href="http://www.meetup.com/internetmarketingparty/" rel="nofollow">http://www.meetup.com/internetmarketingparty/</a></p>

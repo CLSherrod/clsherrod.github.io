@@ -66,14 +66,20 @@ meta:
   _wp_rp_image: empty
 permalink: "/got-critics/"
 ---
-<p>If you don"t have critics then you aren't trying hard enough.  You think I"m kidding.  I"m not.  You"re not pushing the envelope, you"re not sharing yourself enough, you"re not out there.</p>
-<p>I get criticized and laughed at when I say you can be successful and not be a workaholic.  Many people like that is a big big lie.  Their mentors are major workaholics.  So they think I'm nuts.</p>
-<p>These suggestions from Alexandria are helpful when you get critics.  Hopefully soon if not already because it is a sign of success.</p>
->What I HAVE learned is that if any of these critics get nasty with you, don't sink to their level. Remember that as a publisher you're also in the business of customer service. I typically handle it via one of these three methods:</p>
-<p>a) respond calmly and acknowledge their point (some people just want to be heard)<br />
+If you don"t have critics then you aren't trying hard enough.  You think I"m kidding.  I"m not.  You"re not pushing the envelope, you"re not sharing yourself enough, you"re not out there.
+
+I get criticized and laughed at when I say you can be successful and not be a workaholic.  Many people like that is a big big lie.  Their mentors are major workaholics.  So they think I'm nuts.
+
+These suggestions from Alexandria are helpful when you get critics.  Hopefully soon if not already because it is a sign of success.</p>
+>What I HAVE learned is that if any of these critics get nasty with you, don't sink to their level. Remember that as a publisher you're also in the business of customer service. I typically handle it via one of these three methods:
+
+a) respond calmly and acknowledge their point (some people just want to be heard)<br />
 b) disregard or delete their message (if their comments are so inappropriate or hurtful that I can't answer back calmly)<br />
-c) remove them from my list</p>
-<p>Even better: Have someone else screen your email, like I do now. My assistants protect me in a wonderful way, and only pass on to me what I need to see. This does wonders for my mood and keeps me in a positive place and in good energy!</p>
-<p>Through these petty annoyances, remember the big picture of why you started your e-zine or your current venture. It was likely to gain credibility and expert status while increasing your marketing reach and revenues. Your professional reputation is always on the line.</p>
-<p>You may want to lash back, but in the long run, it ALWAYS pays to take the high road.</p></blockquote>
+c) remove them from my list
+
+Even better: Have someone else screen your email, like I do now. My assistants protect me in a wonderful way, and only pass on to me what I need to see. This does wonders for my mood and keeps me in a positive place and in good energy!
+
+Through these petty annoyances, remember the big picture of why you started your e-zine or your current venture. It was likely to gain credibility and expert status while increasing your marketing reach and revenues. Your professional reputation is always on the line.
+
+You may want to lash back, but in the long run, it ALWAYS pays to take the high road.</p></blockquote>
 <p><a href="http://bsetc.ca/blog/2008/05/29/got-critics-yeah-me-too" rel="nofollow">Got Critics? Yeah, Me Too</a></p>

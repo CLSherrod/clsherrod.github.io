@@ -48,9 +48,14 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"6862";s:5:"score";s:17:"75.22403758632831";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"6776";s:5:"score";s:16:"70.6585069479693";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"6817";s:5:"score";s:18:"59.080813934974486";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"6939";s:5:"score";s:17:"58.88332705577364";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4580";s:5:"score";s:17:"50.31952500614148";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"37";s:5:"score";s:17:"35.60607818307458";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"4196";s:5:"score";s:17:"32.31412351890851";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"6806";s:5:"score";s:17:"32.12290391350529";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:18:"30.119768326890068";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:2:"52";s:5:"score";s:18:"29.794625423124693";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:2:"61";s:5:"score";s:17:"27.69498117416053";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1438";s:5:"score";s:17:"27.07537560815044";}}
 permalink: "/remax-cofounder/"
 ---
-<p>[caption id="attachment_6735" align="alignright" width="300"]<img class="size-medium wp-image-6735" alt="Chris with co-founder of RE/MAX David Liniger" src="{{ site.baseurl }}/posts/2013/06/IMG_0103-300x208.jpg" width="300" height="208" /> Chris with co-founder of RE/MAX David Liniger[/caption]</p>
-<p>I had the pleasure of seeing David Liniger co-founder of RE/MAX speak recently. That's me and him afterwards.</p>
-<p>He told his story which is in his new book "<a href="http://www.amazon.com/gp/product/B00BMUZ8ZY/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00BMUZ8ZY&amp;linkCode=as2&amp;tag=sherrod-20" target="_blank">My Next Steps</a>" which I got autographed by him. An amazing story of how he owned one of the largest private companies in the world and could literally buy everything. And then how he lost the ability to move, literally move. And how he with the same tenacity to build a huge business overcame his paralysis.</p>
-<p>At the end of his talk he had everyone stand and said that he would have given up his vast fortune and his business to have the riches we had to just stand a year ago.</p>
-<p>I felt like the biggest loser in that I give up way before he does. And that is the difference between our incomes. I've stepped up since his inspiring talk.</p>
-<p>Check out his book, very inspiring. A great business hero.</p>
+[caption id="attachment_6735" align="alignright" width="300"]<img class="size-medium wp-image-6735" alt="Chris with co-founder of RE/MAX David Liniger" src="{{ site.baseurl }}/posts/2013/06/IMG_0103-300x208.jpg" width="300" height="208" /> Chris with co-founder of RE/MAX David Liniger[/caption]
+
+I had the pleasure of seeing David Liniger co-founder of RE/MAX speak recently. That's me and him afterwards.
+
+He told his story which is in his new book "<a href="http://www.amazon.com/gp/product/B00BMUZ8ZY/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B00BMUZ8ZY&amp;linkCode=as2&amp;tag=sherrod-20" target="_blank">My Next Steps</a>" which I got autographed by him. An amazing story of how he owned one of the largest private companies in the world and could literally buy everything. And then how he lost the ability to move, literally move. And how he with the same tenacity to build a huge business overcame his paralysis.
+
+At the end of his talk he had everyone stand and said that he would have given up his vast fortune and his business to have the riches we had to just stand a year ago.
+
+I felt like the biggest loser in that I give up way before he does. And that is the difference between our incomes. I've stepped up since his inspiring talk.
+
+Check out his book, very inspiring. A great business hero.</p>

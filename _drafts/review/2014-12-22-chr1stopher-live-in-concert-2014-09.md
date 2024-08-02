@@ -41,5 +41,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:5:"14762";s:5:"score";s:17:"90.11205560560762";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4414";s:5:"score";s:16:"65.2421990569843";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:5:"14771";s:5:"score";s:17:"24.86985654862332";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:5:"14768";s:5:"score";s:17:"24.86985654862332";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:5:"14751";s:5:"score";s:17:"24.86985654862332";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:18:"10.394229722077748";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"9312";s:5:"score";s:17:"4.787508960165093";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"8367";s:5:"score";s:17:"4.787508960165093";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"7893";s:5:"score";s:17:"4.787508960165093";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"6726";s:5:"score";s:17:"4.787508960165093";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"6545";s:5:"score";s:17:"4.787508960165093";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4765";s:5:"score";s:17:"4.787508960165093";}}
 permalink: "/chr1stopher-live-in-concert-2014-09/"
 ---
-<p>My first concert.</p>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/xhleSGi6Vy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+My first concert.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xhleSGi6Vy4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>

@@ -42,7 +42,10 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:5:"14768";s:5:"score";s:17:"99.86862357533185";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:5:"14751";s:5:"score";s:17:"92.36823181915994";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:5:"14765";s:5:"score";s:17:"24.86985654862332";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:5:"14762";s:5:"score";s:17:"24.86985654862332";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"6997";s:5:"score";s:17:"15.69739690091343";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4429";s:5:"score";s:17:"15.69739690091343";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"325";s:5:"score";s:17:"15.69739690091343";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1347";s:5:"score";s:18:"11.953792547060456";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"256";s:5:"score";s:18:"11.953792547060456";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:2:"92";s:5:"score";s:18:"11.953792547060456";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"2363";s:5:"score";s:18:"10.394229722077748";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"381";s:5:"score";s:18:"10.394229722077748";}}
 permalink: "/chaos-refined-music-video/"
 ---
-<p>My music video for my song Chaos Refined.</p>
-<p><iframe src="https://www.youtube.com/embed/EHeujcBDTdk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-<p>And you can download the song here.</p>
-<p><iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=463863659/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://chr1stopher.bandcamp.com/track/chaos-refined">Chaos Refined by Chr1stoher</a></iframe></p>
+My music video for my song Chaos Refined.
+
+<iframe src="https://www.youtube.com/embed/EHeujcBDTdk" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+And you can download the song here.
+
+<iframe style="border: 0; width: 350px; height: 442px;" src="https://bandcamp.com/EmbeddedPlayer/track=463863659/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="http://chr1stopher.bandcamp.com/track/chaos-refined">Chaos Refined by Chr1stoher</a></iframe></p>

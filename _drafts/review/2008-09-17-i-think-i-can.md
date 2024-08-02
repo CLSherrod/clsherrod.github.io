@@ -22,8 +22,12 @@ meta:
   _wp_rp_image: empty
 permalink: "/i-think-i-can/"
 ---
-<p>Do you know the difference between successful and unsuccessful business people?</p>
-<p>Successful business people think they are successful.Â  That's it.Â  Pretty simple.Â  You can quit reading and go forth and be successful.Â  So why are there so many how to be successful books/seminars/conferences/ebooks/audio program...etc?Â  Because a great many people don't believe they are successful or can be.Â  They think they have to learn a new technique or some hidden secret.</p>
-<p>The secret is you.Â  The secret is that you think you are successful.</p>
-<p>I believe in you.Â  I believe you are successful.</p>
-<p>Now go out there and do it.</p>
+Do you know the difference between successful and unsuccessful business people?
+
+Successful business people think they are successful.Â  That's it.Â  Pretty simple.Â  You can quit reading and go forth and be successful.Â  So why are there so many how to be successful books/seminars/conferences/ebooks/audio program...etc?Â  Because a great many people don't believe they are successful or can be.Â  They think they have to learn a new technique or some hidden secret.
+
+The secret is you.Â  The secret is that you think you are successful.
+
+I believe in you.Â  I believe you are successful.
+
+Now go out there and do it.</p>

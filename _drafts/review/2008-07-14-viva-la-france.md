@@ -37,9 +37,14 @@ meta:
   _wpb_vc_js_status: 'false'
 permalink: "/viva-la-france/"
 ---
-<p><img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/07/Monet-montorgueil.JPG" alt="" width="200" />Today is Bastille Day here in France.  On 14 July 1790 there was a huge feast and official event to celebrate the uprising of the short-lived constitutional monarchy in France and what people considered the happy conclusion of the French Revolution.  People ran down the streets naked in order to celebrate their new freedom, such as they occasionally do here in France, mostly beaches now though.</p>
-<p>I find many similarities between the USA and France.  We both had revolution to kick out the royals.  We are both a republic.  We both also have a president.</p>
-<p>France is different though.  Unisex bathrooms are standard.  Topfree beaches is the norm.  Adultist movies on public TV that have -12 and -16 rating which is not advised for people under the age of 12 and 16 and includes full nudity does exist.  I don't ever see that happening in the USA for another 250 years if ever.</p>
-<p>My cousin Milena is touring the world for six months.  She was just in France (different parts then I'm in) and a pre-judgement of France.  The normal American attitude that the French smell, are rude and hate Americans.Â  She quickly found out how untrue all that is.  She visited Paris and people are very nice, don't smell and love Americans.  The neighborhood here in Rennes threw us a <a href="http://flickr.com/photos/eaglechris/sets/72157606028718089/">4th of July party</a>.  The entire street came out to celebrate with us.  Incredible nice.  These neighbors are nicer than our own.</p>
-<p>So to all my friends, home exchange neighbors and everyone in France.  Viva La France.Â  I feel very welcome here during our summer visit.  You have a wonderful country.  Thank you for the Statue of Liberty it was a mighty fine gift from our friends here in France.  And thank you so much for helping us out to get rid of the British royals during our own Revolution.</p>
-<p>Viva La France.</p>
+<img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/07/Monet-montorgueil.JPG" alt="" width="200" />Today is Bastille Day here in France.  On 14 July 1790 there was a huge feast and official event to celebrate the uprising of the short-lived constitutional monarchy in France and what people considered the happy conclusion of the French Revolution.  People ran down the streets naked in order to celebrate their new freedom, such as they occasionally do here in France, mostly beaches now though.
+
+I find many similarities between the USA and France.  We both had revolution to kick out the royals.  We are both a republic.  We both also have a president.
+
+France is different though.  Unisex bathrooms are standard.  Topfree beaches is the norm.  Adultist movies on public TV that have -12 and -16 rating which is not advised for people under the age of 12 and 16 and includes full nudity does exist.  I don't ever see that happening in the USA for another 250 years if ever.
+
+My cousin Milena is touring the world for six months.  She was just in France (different parts then I'm in) and a pre-judgement of France.  The normal American attitude that the French smell, are rude and hate Americans.Â  She quickly found out how untrue all that is.  She visited Paris and people are very nice, don't smell and love Americans.  The neighborhood here in Rennes threw us a <a href="http://flickr.com/photos/eaglechris/sets/72157606028718089/">4th of July party</a>.  The entire street came out to celebrate with us.  Incredible nice.  These neighbors are nicer than our own.
+
+So to all my friends, home exchange neighbors and everyone in France.  Viva La France.Â  I feel very welcome here during our summer visit.  You have a wonderful country.  Thank you for the Statue of Liberty it was a mighty fine gift from our friends here in France.  And thank you so much for helping us out to get rid of the British royals during our own Revolution.
+
+Viva La France.</p>

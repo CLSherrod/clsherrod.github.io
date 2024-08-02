@@ -19,9 +19,12 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"4056";s:5:"score";s:17:"64.87214931845416";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"991";s:5:"score";s:17:"60.92601772337868";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"645";s:5:"score";s:17:"60.68115927433319";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"741";s:5:"score";s:18:"46.363282503481976";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"717";s:5:"score";s:18:"46.175244275330364";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2074";s:5:"score";s:17:"44.98121200852256";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"389";s:5:"score";s:17:"44.78894991421047";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"722";s:5:"score";s:17:"43.92269335767994";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"725";s:5:"score";s:17:"43.40265555309058";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"692";s:5:"score";s:17:"41.33450801801554";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1347";s:5:"score";s:18:"40.366914115256606";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"684";s:5:"score";s:18:"40.366914115256606";}}
 permalink: "/multiplying-output-in-groups-plus/"
 ---
-<p><img class="alignright" src="{{ site.baseurl }}/posts/2008/08/2455345820_a9a602d403.jpg" alt="" width="375" height="500" /></p>
-<p>Tim Ferris' latest blog post is awesome.Â  So much content.Â  I love that.</p>
-<p>The video is excellent on showing how employees can be more productive not just CEO and entreprenuers.Â  And the worksheet is going out to all my team.</p>
->There is a misconception that lifestyle design is just for entrepreneurs or CEOs.</p>
-<p>In reality, the principles â€” borrowed from economics and behavioral psychology â€” can be applied within organizations and groups with even more dramatic effects.</p></blockquote>
+<img class="alignright" src="{{ site.baseurl }}/posts/2008/08/2455345820_a9a602d403.jpg" alt="" width="375" height="500" />
+
+Tim Ferris' latest blog post is awesome.Â  So much content.Â  I love that.
+
+The video is excellent on showing how employees can be more productive not just CEO and entreprenuers.Â  And the worksheet is going out to all my team.</p>
+>There is a misconception that lifestyle design is just for entrepreneurs or CEOs.
+
+In reality, the principles  ” borrowed from economics and behavioral psychology  ” can be applied within organizations and groups with even more dramatic effects.</p></blockquote>
 <p><a href="http://www.fourhourworkweek.com/blog/2008/08/22/the-fortune-500-4-hour-workweek-multiplying-output-in-groups-plus-downloadable-checklists/" rel="nofollow">The Fortune 500 4-Hour Workweek: Multiplying Output in Groups Plus: Downloadable Checklists - The Blog of Author Tim Ferriss</a></p>

@@ -16,7 +16,7 @@ meta:
   _wp_rp_image: empty
 permalink: "/government-viral-apps/"
 ---
-<p>Code for America<br />
+Code for America<br />
 Two day apps are going viral and changing government<br />
 Government is changing<br />
 Government crowd sourcing<br />

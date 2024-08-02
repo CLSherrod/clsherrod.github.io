@@ -43,11 +43,18 @@ meta:
   _wpb_vc_js_status: 'false'
 permalink: "/i-read-cosmopolitan-magazine-no-really/"
 ---
-<p>[caption id="" align="alignright" width="180" caption="Image by Dplanet:: via Flickr"]<a href="http://www.flickr.com/photos/32068310@N00/2070596627" rel="nofollow"><img title="Ben Sharpa in Cosmo Magazine" src="http://farm3.static.flickr.com/2284/2070596627_e6de122f83_m.jpg" alt="Ben Sharpa in Cosmo Magazine" width="180" height="240" / rel="nofollow"/></a>[/caption]</p>
-<p>One of my mastermind members Daniel Topkis suggested on today's mastermind call to read <a class="zem_slink" title="Cosmopolitan (magazine)" rel="nofollow" href="http://www.cosmopolitan.com/">Cosmopolitan magazine</a> to learn about headline writing.&nbsp; My initial reaction was to laugh, but I went to <span class="entry-content">Cosmopolitan.com to check them out.&nbsp; And Daniel is right.&nbsp; Cosmopolitan has the best headlines.</span></p>
-<p>"10 Dating Truths You Can't Ignore"</p>
-<p>"Fashion That Will Make Him Want To Touch You"</p>
-<p>"9 Beauty Tricks You Need To Know"</p>
-<p>These are excellent headlines that get you to want to learn more.</p>
-<p>And the headline is the most important part of the article.</p>
-<p>So I'm going to make visiting Cosmopolitan magazine a regular to do item.&nbsp; I never thought I would ever read Cosmo.</p>
+[caption id="" align="alignright" width="180" caption="Image by Dplanet:: via Flickr"]<a href="http://www.flickr.com/photos/32068310@N00/2070596627" rel="nofollow"><img title="Ben Sharpa in Cosmo Magazine" src="http://farm3.static.flickr.com/2284/2070596627_e6de122f83_m.jpg" alt="Ben Sharpa in Cosmo Magazine" width="180" height="240" / rel="nofollow"/></a>[/caption]
+
+One of my mastermind members Daniel Topkis suggested on today's mastermind call to read <a class="zem_slink" title="Cosmopolitan (magazine)" rel="nofollow" href="http://www.cosmopolitan.com/">Cosmopolitan magazine</a> to learn about headline writing.&nbsp; My initial reaction was to laugh, but I went to <span class="entry-content">Cosmopolitan.com to check them out.&nbsp; And Daniel is right.&nbsp; Cosmopolitan has the best headlines.</span>
+
+"10 Dating Truths You Can't Ignore"
+
+"Fashion That Will Make Him Want To Touch You"
+
+"9 Beauty Tricks You Need To Know"
+
+These are excellent headlines that get you to want to learn more.
+
+And the headline is the most important part of the article.
+
+So I'm going to make visiting Cosmopolitan magazine a regular to do item.&nbsp; I never thought I would ever read Cosmo.</p>

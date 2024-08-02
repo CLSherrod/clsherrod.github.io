@@ -21,6 +21,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"646";s:5:"score";s:17:"61.45869318344945";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"298";s:5:"score";s:17:"61.45869318344945";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"299";s:5:"score";s:17:"53.26445620485712";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"172";s:5:"score";s:17:"17.10878475280811";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2753";s:5:"score";s:18:"12.340733903029053";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"390";s:5:"score";s:18:"11.782059702383707";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"721";s:5:"score";s:18:"10.971129486161791";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1342";s:5:"score";s:18:"10.954439541909162";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"108";s:5:"score";s:18:"10.954439541909162";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"4806";s:5:"score";s:17:"7.544943357348514";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"3835";s:5:"score";s:17:"7.544943357348514";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"3744";s:5:"score";s:17:"7.544943357348514";}}
 permalink: "/reaching-your-goals/"
 ---
-<p><span style="font-size: medium;">"If you know what to do to reach your goal, it's not a big enough goal."</span></p>
+<span style="font-size: medium;">"If you know what to do to reach your goal, it's not a big enough goal."</span></p>
 <p align="left"><span style="font-size: medium;">Bob Proctor<br />
 Author and Speaker</span></p>

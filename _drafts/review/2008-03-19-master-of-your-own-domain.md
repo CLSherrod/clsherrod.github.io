@@ -19,11 +19,12 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"577";s:5:"score";s:16:"65.9550755046406";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"312";s:5:"score";s:16:"65.9550755046406";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"189";s:5:"score";s:17:"61.36104740878774";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"404";s:5:"score";s:17:"59.16382283143756";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"119";s:5:"score";s:16:"58.2238155729377";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"4806";s:5:"score";s:18:"53.629787477132325";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"412";s:5:"score";s:17:"52.99255953521342";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1211";s:5:"score";s:17:"51.43256289973465";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"605";s:5:"score";s:17:"51.43256289973465";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"320";s:5:"score";s:17:"51.43256289973465";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"282";s:5:"score";s:17:"51.43256289973465";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"130";s:5:"score";s:17:"51.43256289973465";}}
 permalink: "/master-of-your-own-domain/"
 ---
-<p>My girlfriend <a href="http://www.createyourownrealitynow.com" rel="nofollow">Nan</a> sent this to me via email.</p>
+My girlfriend <a href="http://www.createyourownrealitynow.com" rel="nofollow">Nan</a> sent this to me via email.</p>
 >You are the master of your mind<br />
 You are the master of your emotions<br />
 You are a master of the law of attraction<br />
 You are the master of your life<br />
 I believe in you</p></blockquote>
-<p>A mastermind group and someone special in your life is a great resource in your life.</p>
-<p>Thanks Nan.</p>
+<p>A mastermind group and someone special in your life is a great resource in your life.
+
+Thanks Nan.</p>

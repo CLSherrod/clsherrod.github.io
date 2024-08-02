@@ -38,12 +38,20 @@ meta:
   _wpb_vc_js_status: 'false'
 permalink: "/internet-marketers-hated-part-2/"
 ---
-<p><img class="alignright size-medium wp-image-4942" title="business-success-mentor" src="{{ site.baseurl }}/posts/2012/02/business-success-mentor-300x273.jpg" alt="" width="300" height="273" />Some people after reading my <a href="https://christopher-sherrod.blisslifepress.com/internet-marketers-hated/">Why some Internet Marketers are hated</a> post last week think I hate Internet Marketers.</p>
-<p>I don't. I am one.</p>
-<p>There are bad people in every single business niche. In the Internet Marketing I think it is about equal to other businesses.</p>
-<p>One person commented that IMers use bait and switch a lot. I've never seen that. But, I believe he was confused what bait and switch is.&nbsp;When you buy something and you are offered something that the marketer thinks you would also like is called an <strong>upsell</strong>. People that buy a certain product typically would want another product. That's a sign of a good marketer. Bait and switch is fraud, where a product/service is advertised at a low price and then the customer finds out it isn't available and "switched" to a costlier item. Very different.</p>
-<p>Bad marketers go out of business.</p>
-<p>Some good ones that just focus on newbie products and don't offer anything to their audience as they get better is what I was writing about. I feel that people that have a full funnel and work with newbies all the way to experts is better.</p>
-<p>That is why I love coaches that can help transform people and get them from being a newbie to very successful. They offer a good product that clients want and then also offer VIP days, Mastermind, Laser Coaching. Products alone will not get you to your ultimate success, they can help you make money to get to the next level. Coaching has been the key to my success and in anyone of any success that I have met.</p>
-<p>Which is why I run <a href="http://NanAkasha.com" rel="nofollow">Nan Akasha's business</a>. She's a fantastic coach and she gets results and she has something for newbies and people with serious businesses already in place.</p>
-<p>With some teachers they focus on newbies and some feel they are lacking in helping to move forward. It's not the marketers fault. It's yours. Learn from what they offer and if they don't offer anything that resonates with you anymore than move on. Internet Marketers get a bad rap. It's up to you get value. Not them.</p>
+<img class="alignright size-medium wp-image-4942" title="business-success-mentor" src="{{ site.baseurl }}/posts/2012/02/business-success-mentor-300x273.jpg" alt="" width="300" height="273" />Some people after reading my <a href="https://christopher-sherrod.blisslifepress.com/internet-marketers-hated/">Why some Internet Marketers are hated</a> post last week think I hate Internet Marketers.
+
+I don't. I am one.
+
+There are bad people in every single business niche. In the Internet Marketing I think it is about equal to other businesses.
+
+One person commented that IMers use bait and switch a lot. I've never seen that. But, I believe he was confused what bait and switch is.&nbsp;When you buy something and you are offered something that the marketer thinks you would also like is called an <strong>upsell</strong>. People that buy a certain product typically would want another product. That's a sign of a good marketer. Bait and switch is fraud, where a product/service is advertised at a low price and then the customer finds out it isn't available and "switched" to a costlier item. Very different.
+
+Bad marketers go out of business.
+
+Some good ones that just focus on newbie products and don't offer anything to their audience as they get better is what I was writing about. I feel that people that have a full funnel and work with newbies all the way to experts is better.
+
+That is why I love coaches that can help transform people and get them from being a newbie to very successful. They offer a good product that clients want and then also offer VIP days, Mastermind, Laser Coaching. Products alone will not get you to your ultimate success, they can help you make money to get to the next level. Coaching has been the key to my success and in anyone of any success that I have met.
+
+Which is why I run <a href="http://NanAkasha.com" rel="nofollow">Nan Akasha's business</a>. She's a fantastic coach and she gets results and she has something for newbies and people with serious businesses already in place.
+
+With some teachers they focus on newbies and some feel they are lacking in helping to move forward. It's not the marketers fault. It's yours. Learn from what they offer and if they don't offer anything that resonates with you anymore than move on. Internet Marketers get a bad rap. It's up to you get value. Not them.</p>

@@ -20,5 +20,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1853";s:5:"score";s:18:"11.782059702383707";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8360";s:5:"score";s:17:"7.752253661285212";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"3540";s:5:"score";s:17:"7.752253661285212";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3535";s:5:"score";s:17:"7.752253661285212";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"3470";s:5:"score";s:17:"7.752253661285212";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"3463";s:5:"score";s:17:"7.752253661285212";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1934";s:5:"score";s:17:"7.752253661285212";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1811";s:5:"score";s:17:"7.752253661285212";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1399";s:5:"score";s:17:"7.752253661285212";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1203";s:5:"score";s:17:"7.752253661285212";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1160";s:5:"score";s:17:"7.752253661285212";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"627";s:5:"score";s:17:"7.752253661285212";}}
 permalink: "/membership-program-announced/"
 ---
-<p>I announced my membership program today.</p>
-<p><embed src="http://player.stickam.com/flashVarMediaPlayer/184572535" type="application/x-shockwave-flash" wmode="transparent" scale="noscale" allowfullscreen="true" width="400" height="300" allowscriptaccess="always" /></p>
+I announced my membership program today.
+
+<embed src="http://player.stickam.com/flashVarMediaPlayer/184572535" type="application/x-shockwave-flash" wmode="transparent" scale="noscale" allowfullscreen="true" width="400" height="300" allowscriptaccess="always" /></p>
