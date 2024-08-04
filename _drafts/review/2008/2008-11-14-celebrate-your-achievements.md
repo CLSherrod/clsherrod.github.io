@@ -1,6 +1,6 @@
 ---
 title: Celebrate your achievements
-date: 2008-11-14 04:00:32.000000000 -06:00
+date: 2008-11-14 04:00:32
 published: true
 categories:
 - Mindset

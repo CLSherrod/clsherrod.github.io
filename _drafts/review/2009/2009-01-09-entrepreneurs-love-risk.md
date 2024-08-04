@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurs love risk?
-date: 2009-01-09 07:25:46.000000000 -06:00
+date: 2009-01-09 07:25:46
 published: true
 categories:
 - Essays

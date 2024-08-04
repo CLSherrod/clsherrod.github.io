@@ -1,6 +1,6 @@
 ---
 title: How to monitor your name on the Internet
-date: 2008-12-01 02:33:20.000000000 -06:00
+date: 2008-12-01 02:33:20
 published: true
 categories:
 - Essays

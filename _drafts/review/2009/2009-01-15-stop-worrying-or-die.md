@@ -1,6 +1,6 @@
 ---
 title: Stop Worrying or Die
-date: 2009-01-15 23:20:34.000000000 -06:00
+date: 2009-01-15 23:20:34
 published: true
 categories:
 - Essays

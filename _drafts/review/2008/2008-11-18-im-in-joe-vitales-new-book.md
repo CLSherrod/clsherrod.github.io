@@ -1,6 +1,6 @@
 ---
 title: I'm in Joe Vitale's new book
-date: 2008-11-18 01:25:21.000000000 -06:00
+date: 2008-11-18 01:25:21
 published: true
 categories:
 - Essays

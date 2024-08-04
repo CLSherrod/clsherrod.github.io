@@ -1,6 +1,6 @@
 ---
 title: Internet Get Rich Quick targeted
-date: 2008-10-27 00:05:07.000000000 -06:00
+date: 2008-10-27 00:05:07
 published: true
 categories:
 - Essays

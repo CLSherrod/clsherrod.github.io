@@ -1,6 +1,6 @@
 ---
 title: Can Free Content Boost Your Sales? Yes, It Can
-date: 2009-02-17 23:00:06.000000000 -06:00
+date: 2009-02-17 23:00:06
 published: true
 categories:
 - Essays

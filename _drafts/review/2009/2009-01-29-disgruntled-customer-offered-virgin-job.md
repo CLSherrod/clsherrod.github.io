@@ -1,6 +1,6 @@
 ---
 title: Disgruntled customer offered Virgin job
-date: 2009-01-29 04:37:01.000000000 -06:00
+date: 2009-01-29 04:37:01
 published: true
 categories:
 - Essays

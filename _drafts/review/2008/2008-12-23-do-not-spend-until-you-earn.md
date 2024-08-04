@@ -1,6 +1,6 @@
 ---
 title: Do Not Spend Until You Earn
-date: 2008-12-23 01:19:22.000000000 -06:00
+date: 2008-12-23 01:19:22
 published: true
 categories:
 - Essays

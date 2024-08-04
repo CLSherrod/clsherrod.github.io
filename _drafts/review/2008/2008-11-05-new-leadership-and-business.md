@@ -1,6 +1,6 @@
 ---
 title: New leadership and business
-date: 2008-11-05 00:18:41.000000000 -06:00
+date: 2008-11-05 00:18:41
 published: true
 categories:
 - Essays

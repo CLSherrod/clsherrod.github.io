@@ -1,6 +1,6 @@
 ---
 title: Wholefoods Prosperity Campaign
-date: 2008-03-12 23:00:51.000000000 -06:00
+date: 2008-03-12 23:00:51
 published: true
 categories:
 - Essays

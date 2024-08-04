@@ -1,6 +1,6 @@
 ---
 title: Creative entrepreneurs can survive the crisis
-date: 2008-10-30 02:31:48.000000000 -06:00
+date: 2008-10-30 02:31:48
 published: true
 categories:
 - Essays

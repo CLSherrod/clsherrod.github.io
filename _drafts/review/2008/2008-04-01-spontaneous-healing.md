@@ -1,6 +1,6 @@
 ---
 title: Spontaneous Healing
-date: 2008-04-01 22:37:56.000000000 -06:00
+date: 2008-04-01 22:37:56
 published: true
 categories:
 - Essays

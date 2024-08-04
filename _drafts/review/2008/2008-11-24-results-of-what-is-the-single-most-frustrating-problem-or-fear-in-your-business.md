@@ -1,6 +1,6 @@
 ---
 title: Results of What is the single most frustrating problem or fear in your business?
-date: 2008-11-24 22:35:27.000000000 -06:00
+date: 2008-11-24 22:35:27
 published: true
 categories:
 - Essays

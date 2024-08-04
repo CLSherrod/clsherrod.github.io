@@ -1,6 +1,6 @@
 ---
 title: I read Cosmopolitan magazine, no really
-date: 2008-11-21 03:16:39.000000000 -06:00
+date: 2008-11-21 03:16:39
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Inspired Marketing
-date: 2008-03-24 22:45:31.000000000 -06:00
+date: 2008-03-24 22:45:31
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Six Horrible Financial Products You Should Avoid
-date: 2008-11-10 01:03:08.000000000 -06:00
+date: 2008-11-10 01:03:08
 published: true
 categories:
 - Essays

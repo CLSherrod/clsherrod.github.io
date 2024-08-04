@@ -1,6 +1,6 @@
 ---
 title: I hate voice mail
-date: 2009-11-02 23:56:00.000000000 -06:00
+date: 2009-11-02 23:56:00
 published: true
 categories:
 - Essays

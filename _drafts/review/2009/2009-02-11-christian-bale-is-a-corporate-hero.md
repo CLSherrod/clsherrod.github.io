@@ -1,6 +1,6 @@
 ---
 title: Christian Bale is a corporate hero
-date: 2009-02-11 12:36:38.000000000 -06:00
+date: 2009-02-11 12:36:38
 published: true
 categories:
 - Essays

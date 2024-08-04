@@ -1,6 +1,6 @@
 ---
 title: Too small to fail
-date: 2008-11-19 02:10:01.000000000 -06:00
+date: 2008-11-19 02:10:01
 published: true
 categories:
 - Essays

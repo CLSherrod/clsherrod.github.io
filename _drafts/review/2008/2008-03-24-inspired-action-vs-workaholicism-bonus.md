@@ -1,6 +1,6 @@
 ---
 title: Inspired Action vs. Workaholicism Bonus
-date: 2008-03-24 08:17:47.000000000 -06:00
+date: 2008-03-24 08:17:47
 published: true
 categories:
 - Essays

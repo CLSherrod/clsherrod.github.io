@@ -1,6 +1,6 @@
 ---
 title: Top 5 Tips to Moving Stress Free
-date: 2009-02-09 23:00:12.000000000 -06:00
+date: 2009-02-09 23:00:12
 published: true
 categories:
 - Essays

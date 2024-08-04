@@ -1,6 +1,6 @@
 ---
 title: Good job isn't so good
-date: 2008-11-10 22:34:03.000000000 -06:00
+date: 2008-11-10 22:34:03
 published: true
 categories:
 - Essays

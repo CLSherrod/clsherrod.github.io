@@ -1,6 +1,6 @@
 ---
 title: My attitude of gratitude
-date: 2008-11-25 23:10:21.000000000 -06:00
+date: 2008-11-25 23:10:21
 published: true
 categories:
 - Essays

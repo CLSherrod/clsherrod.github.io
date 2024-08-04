@@ -1,6 +1,6 @@
 ---
 title: Inspired Marketing Bonus
-date: 2008-03-25 23:52:24.000000000 -06:00
+date: 2008-03-25 23:52:24
 published: true
 categories:
 - Essays

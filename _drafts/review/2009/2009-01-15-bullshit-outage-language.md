@@ -1,6 +1,6 @@
 ---
 title: The bullshit of outage language
-date: 2009-01-15 02:14:49.000000000 -06:00
+date: 2009-01-15 02:14:49
 published: true
 categories:
 - Essays

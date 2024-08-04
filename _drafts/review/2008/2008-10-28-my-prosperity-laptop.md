@@ -1,6 +1,6 @@
 ---
 title: My Prosperity Laptop
-date: 2008-10-28 02:35:12.000000000 -06:00
+date: 2008-10-28 02:35:12
 published: true
 categories:
 - Essays

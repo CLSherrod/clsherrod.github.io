@@ -1,6 +1,6 @@
 ---
 title: Market every day
-date: 2008-12-02 00:30:36.000000000 -06:00
+date: 2008-12-02 00:30:36
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: School results and age are no predictor of future success
-date: 2008-12-08 01:27:14.000000000 -06:00
+date: 2008-12-08 01:27:14
 published: true
 categories:
 - Essays

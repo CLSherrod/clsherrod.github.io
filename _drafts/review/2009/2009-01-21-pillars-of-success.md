@@ -1,6 +1,6 @@
 ---
 title: Pillars of Success
-date: 2009-01-21 03:16:21.000000000 -06:00
+date: 2009-01-21 03:16:21
 published: true
 categories:
 - Essays

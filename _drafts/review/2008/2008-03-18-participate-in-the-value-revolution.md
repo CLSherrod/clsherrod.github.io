@@ -1,6 +1,6 @@
 ---
 title: Participate in the Value Revolution
-date: 2008-03-18 21:00:15.000000000 -06:00
+date: 2008-03-18 21:00:15
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Chinese restaurant Twitters way to success
-date: 2009-02-17 00:28:03.000000000 -06:00
+date: 2009-02-17 00:28:03
 published: true
 categories:
 - Essays

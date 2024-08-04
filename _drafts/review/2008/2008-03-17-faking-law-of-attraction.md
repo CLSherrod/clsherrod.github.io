@@ -1,6 +1,6 @@
 ---
 title: Faking Law of Attraction
-date: 2008-03-17 02:31:37.000000000 -06:00
+date: 2008-03-17 02:31:37
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Ten Reasons to Adopt the Law of Gratitude
-date: 2008-03-05 06:00:04.000000000 -06:00
+date: 2008-03-05 06:00:04
 published: true
 categories:
 - Essays

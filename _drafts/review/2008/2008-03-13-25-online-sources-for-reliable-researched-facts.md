@@ -1,6 +1,6 @@
 ---
 title: 25 Online Sources for Reliable, Researched Facts
-date: 2008-03-13 06:00:17.000000000 -06:00
+date: 2008-03-13 06:00:17
 published: true
 categories:
 - Essays

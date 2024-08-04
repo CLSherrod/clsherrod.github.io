@@ -1,6 +1,6 @@
 ---
 title: Lessons from Motrin
-date: 2008-11-17 00:31:29.000000000 -06:00
+date: 2008-11-17 00:31:29
 published: true
 categories:
 - Essays

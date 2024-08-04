@@ -1,6 +1,6 @@
 ---
 title: Dealing With a Career You Simply Hate
-date: 2008-03-17 01:22:54.000000000 -06:00
+date: 2008-03-17 01:22:54
 published: true
 categories:
 - Essays

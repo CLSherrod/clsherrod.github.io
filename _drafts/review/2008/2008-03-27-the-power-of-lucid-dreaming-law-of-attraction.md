@@ -1,6 +1,6 @@
 ---
 title: The Power of Lucid Dreaming | Law Of Attraction
-date: 2008-03-27 03:58:04.000000000 -06:00
+date: 2008-03-27 03:58:04
 published: true
 categories:
 - Essays

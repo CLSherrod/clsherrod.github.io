@@ -1,6 +1,6 @@
 ---
 title: Black Friday from your computer
-date: 2008-11-27 23:03:38.000000000 -06:00
+date: 2008-11-27 23:03:38
 published: true
 categories:
 - Essays

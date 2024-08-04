@@ -1,6 +1,6 @@
 ---
 title: Tim Ferriss Takes Wired.com's Self-Promotion Prize
-date: 2008-04-02 22:00:32.000000000 -06:00
+date: 2008-04-02 22:00:32
 published: true
 categories:
 - Essays

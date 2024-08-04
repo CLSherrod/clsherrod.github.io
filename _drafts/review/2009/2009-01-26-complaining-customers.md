@@ -1,6 +1,6 @@
 ---
 title: Complaining Customers Are The Best
-date: 2009-01-26 19:37:55.000000000 -06:00
+date: 2009-01-26 19:37:55
 published: true
 categories:
 - Essays

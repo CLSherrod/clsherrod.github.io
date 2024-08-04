@@ -1,6 +1,6 @@
 ---
 title: The Greatest Superpower in the World
-date: 2009-01-25 22:07:06.000000000 -06:00
+date: 2009-01-25 22:07:06
 published: true
 categories:
 - Essays

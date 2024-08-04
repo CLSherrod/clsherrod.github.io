@@ -1,6 +1,6 @@
 ---
 title: Number 1 Excuse For Failure By Far
-date: 2009-03-03 23:55:32.000000000 -06:00
+date: 2009-03-03 23:55:32
 published: true
 categories:
 - Essays

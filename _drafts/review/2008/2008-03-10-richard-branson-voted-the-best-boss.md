@@ -1,6 +1,6 @@
 ---
 title: Richard Branson voted the best boss
-date: 2008-03-10 23:29:36.000000000 -06:00
+date: 2008-03-10 23:29:36
 published: true
 categories:
 - Essays

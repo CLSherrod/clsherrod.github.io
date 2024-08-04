@@ -1,6 +1,6 @@
 ---
 title: Best Ways To Keep Social In Social Media Marketing And Still Make Money
-date: 2009-03-24 05:00:07.000000000 -06:00
+date: 2009-03-24 05:00:07
 published: true
 categories:
 - Essays

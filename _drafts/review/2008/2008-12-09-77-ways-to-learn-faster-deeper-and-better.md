@@ -1,6 +1,6 @@
 ---
 title: 77 Ways to Learn Faster, Deeper, and Better
-date: 2008-12-09 04:38:30.000000000 -06:00
+date: 2008-12-09 04:38:30
 published: true
 categories:
 - Essays

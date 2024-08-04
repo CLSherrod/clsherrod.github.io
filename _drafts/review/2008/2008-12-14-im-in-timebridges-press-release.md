@@ -1,6 +1,6 @@
 ---
 title: I'm in TimeBridge's Press Release
-date: 2008-12-14 23:51:55.000000000 -06:00
+date: 2008-12-14 23:51:55
 published: true
 categories:
 - Essays

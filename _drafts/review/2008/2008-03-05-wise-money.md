@@ -1,6 +1,6 @@
 ---
 title: Wise money
-date: 2008-03-05 00:00:08.000000000 -06:00
+date: 2008-03-05 00:00:08
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Master of your own domain
-date: 2008-03-19 21:00:14.000000000 -06:00
+date: 2008-03-19 21:00:14
 published: true
 categories:
 - Essays

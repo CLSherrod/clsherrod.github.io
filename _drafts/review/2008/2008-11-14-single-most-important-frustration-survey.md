@@ -1,6 +1,6 @@
 ---
 title: Single most important frustration survey
-date: 2008-11-14 03:28:02.000000000 -06:00
+date: 2008-11-14 03:28:02
 published: true
 categories:
 - Essays

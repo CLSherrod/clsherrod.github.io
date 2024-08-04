@@ -1,6 +1,6 @@
 ---
 title: Give me another great year and even better
-date: 2008-12-31 03:41:47.000000000 -06:00
+date: 2008-12-31 03:41:47
 published: true
 categories:
 - Essays

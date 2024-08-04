@@ -1,6 +1,6 @@
 ---
 title: Four star charity
-date: 2008-03-19 05:00:27.000000000 -06:00
+date: 2008-03-19 05:00:27
 published: true
 categories:
 - Essays
