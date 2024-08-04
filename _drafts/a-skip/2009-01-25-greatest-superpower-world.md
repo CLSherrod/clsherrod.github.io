@@ -6,21 +6,6 @@ categories:
 - Essays
 tags:
 - business
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
-  _sexybookmarks_shortUrl: http://b2l.me/55hp4
-  _sexybookmarks_permaHash: fa2167fb3ccc39577708d61da4fc07c2
-  dsq_thread_id: '43133753'
-  _nectar_love: '0'
-  _wpas_done_all: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1477722057;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:143;}i:1;a:1:{s:2:"id";i:425;}i:2;a:1:{s:2:"id";i:39;}}}}
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '139'
-  _wp_rp_related_posts_query_result_cache_expiration: '1525211040'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"3431";s:5:"score";s:16:"63.2939462868105";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"266";s:5:"score";s:18:"58.888276906443245";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"3463";s:5:"score";s:17:"56.70498966818676";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"3436";s:5:"score";s:17:"51.83275669653844";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"2078";s:5:"score";s:18:"23.816294475113892";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"3126";s:5:"score";s:17:"23.17654352669614";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:2:"37";s:5:"score";s:18:"20.886403625716955";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4954";s:5:"score";s:17:"20.72010197390518";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4491";s:5:"score";s:18:"19.807728269623464";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"267";s:5:"score";s:18:"19.739974709563764";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"3540";s:5:"score";s:17:"18.04537898876418";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"309";s:5:"score";s:17:"18.04537898876418";}}
 permalink: "/greatest-superpower-world/"
 ---
 So here's a question,

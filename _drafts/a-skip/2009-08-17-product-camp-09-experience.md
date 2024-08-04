@@ -1,46 +1,11 @@
 ---
 title: My Product Camp 09 Experience
-date: 2009-08-17 11:06:18.000000000 -05:00
+date: 2009-08-17
 published: true
 categories:
 - Essays
 tags:
 - business
-meta:
-  aktt_tweeted: '1'
-  aktt_notify_twitter: 'yes'
-  _aktt_hash_meta: "#au"
-  _edit_last: '1'
-  _sexybookmarks_shortUrl: http://b2l.me/4tv8x
-  _sexybookmarks_permaHash: 82c4505a864e9d85c2d082af666d11d5
-  dsq_thread_id: '43134079'
-  _wpas_done_all: '1'
-  _nectar_love: '0'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1465110980;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:1540;}i:1;a:1:{s:2:"id";i:1526;}i:2;a:1:{s:2:"id";i:1642;}}}}
-  nectar_blog_post_view_count: '260'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524884821'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1911";s:5:"score";s:17:"246.3708654651067";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1801";s:5:"score";s:18:"113.12500379599021";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1830";s:5:"score";s:16:"74.0044514094493";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1934";s:5:"score";s:16:"70.0453669503249";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4424";s:5:"score";s:17:"65.67893588578079";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1851";s:5:"score";s:17:"62.56722855306891";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1207";s:5:"score";s:18:"61.339664769826726";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1815";s:5:"score";s:17:"61.07967476993746";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1371";s:5:"score";s:17:"59.08183474203453";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:2:"33";s:5:"score";s:17:"59.08183474203453";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1853";s:5:"score";s:17:"58.51257747197328";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"783";s:5:"score";s:17:"56.93399538945947";}}
-  _wp_rp_image: empty
-  _nectar_gallery_slider: 'off'
-  _nectar_quote_author: ''
-  _nectar_quote: ''
-  _nectar_link: ''
-  _nectar_video_m4v: ''
-  _nectar_video_ogv: ''
-  _nectar_video_poster: ''
-  _nectar_video_embed: ''
-  _nectar_audio_mp3: ''
-  _nectar_audio_ogg: ''
-  _nectar_header_bg: ''
-  _nectar_header_parallax: 'off'
-  _nectar_header_bg_height: ''
-  _nectar_page_header_bg_alignment: top
-  _nectar_header_bg_color: ''
-  _nectar_header_font_color: ''
-  _disable_transparent_header: 'off'
-  _force_transparent_header_color: light
-  _wpb_vc_js_status: 'false'
-  _thumbnail_id: '1924'
 permalink: "/product-camp-09-experience/"
 ---
 [caption id="attachment_1924" align="alignright" width="240"]<img class="size-full wp-image-1924" title="Product Camp Austin Texas 2009-08-15 August" src="{{ site.baseurl }}/posts/2009/08/3823473024_28e656e422_m.jpg" alt="Product Camp Austin Texas 2009-08-15 August" width="240" height="180" /> Product Camp Austin 2009, photo by BWhichard[/caption]

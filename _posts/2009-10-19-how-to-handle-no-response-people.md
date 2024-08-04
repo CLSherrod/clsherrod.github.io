@@ -1,47 +1,14 @@
 ---
 title: How To Handle No Response People
-date: 2009-10-19 23:23:54.000000000 -05:00
+date: 2009-10-19
 published: true
 categories:
 - Essays
 tags:
 - business
-meta:
-  aktt_notify_twitter: 'yes'
-  _aktt_hash_meta: ''
-  _edit_last: '1'
-  aktt_tweeted: '1'
-  _wp_old_slug: answer-means
-  _sexybookmarks_shortUrl: http://b2l.me/4szp8
-  _sexybookmarks_permaHash: 758decea8bcc6c0969fd919ed693546f
-  dsq_thread_id: '43128577'
-  _wpb_vc_js_status: 'false'
-  _nectar_header_font_color: ''
-  _nectar_header_bg_color: ''
-  _nectar_header_bg_height: ''
-  _nectar_header_parallax: 'off'
-  _nectar_header_bg: ''
-  _nectar_audio_ogg: ''
-  _nectar_audio_mp3: ''
-  _nectar_video_embed: ''
-  _nectar_video_poster: ''
-  _nectar_video_ogv: ''
-  _nectar_video_m4v: ''
-  _nectar_link: ''
-  _nectar_quote: ''
-  _nectar_gallery_slider: 'off'
-  _nectar_quote_author: ''
-  _post_item_masonry_sizing: regular
-  _thumbnail_id: '2052'
-  _nectar_love: '0'
-  _wpas_done_all: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1506948540;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2074;}i:1;a:1:{s:2:"id";i:3589;}i:2;a:1:{s:2:"id";i:1267;}}}}
-  nectar_blog_post_view_count: '164'
-  _wp_rp_related_posts_query_result_cache_expiration: '1525008685'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1522";s:5:"score";s:16:"68.7548081026424";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1934";s:5:"score";s:18:"58.826323593589315";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1821";s:5:"score";s:18:"58.826323593589315";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2074";s:5:"score";s:16:"33.3820266677601";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1299";s:5:"score";s:17:"24.84943460999782";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"722";s:5:"score";s:18:"20.474443566291455";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"108";s:5:"score";s:18:"20.474443566291455";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"431";s:5:"score";s:17:"18.82091704983901";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:2:"17";s:5:"score";s:18:"18.641862102534766";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"105";s:5:"score";s:17:"18.49894417457606";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"414";s:5:"score";s:18:"17.482817791907966";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"644";s:5:"score";s:17:"17.15371901780048";}}
 permalink: "/how-to-handle-no-response-people/"
 ---
-<img class="alignright size-full wp-image-2052" title="No" src="{{ site.baseurl }}/posts/2009/10/200px-No_sign.svg.png" alt="No" width="150" />It's frustrating when people don't respond to your voice mail or email. Over the years I've worked with many people that don't respond. And for many years I didn't understand them.
+It's frustrating when people don't respond to your voice mail or email. Over the years I've worked with many people that don't respond. And for many years I didn't understand them.
 
 People that don't respond to your communications are of three types typically:
 

@@ -6,20 +6,6 @@ categories:
 - Essays
 tags:
 - business
-meta:
-  aktt_notify_twitter: 'no'
-  _edit_last: '1'
-  _sexybookmarks_shortUrl: http://b2l.me/4saD6
-  _sexybookmarks_permaHash: dea466b757b4e358d85e1ce5577ff081
-  dsq_thread_id: '43133752'
-  _nectar_love: '0'
-  _wpas_done_all: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1470815854;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:1569;}i:1;a:1:{s:2:"id";i:3463;}i:2;a:1:{s:2:"id";i:1414;}}}}
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '125'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524958487'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"707";s:5:"score";s:17:"55.99649501474975";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"690";s:5:"score";s:17:"53.82827094514825";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1027";s:5:"score";s:17:"50.25589409701451";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"4546";s:5:"score";s:17:"48.88628968014725";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"364";s:5:"score";s:17:"48.88628968014725";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"293";s:5:"score";s:17:"46.30432131738204";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2774";s:5:"score";s:18:"44.101548886115566";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1513";s:5:"score";s:18:"44.101548886115566";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"157";s:5:"score";s:18:"42.731944469248305";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"277";s:5:"score";s:18:"19.768495588621118";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"315";s:5:"score";s:18:"18.248321071668443";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"271";s:5:"score";s:18:"17.049078826564614";}}
 permalink: "/pillars-of-success/"
 ---
 How do you feel about 2009? For most of us it holds a great deal of ambivalence. It promises to be a year of great positive change, yet lurking in the background is an element of fear. None of us want to hold onto the fear for we do not want to create a self-fulfilling prophecy. 2009 may therefore be the year for caution, but it can also be your year for great opportunities.

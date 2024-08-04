@@ -1,25 +1,11 @@
 ---
 title: Best Ways To Keep Social In Social Media Marketing And Still Make Money
-date: 2009-03-24 05:00:07
+date: 2009-03-24
 published: true
 categories:
 - Essays
 tags:
 - marketing
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  aktt_tweeted: '1'
-  _sexybookmarks_shortUrl: http://b2l.me/43vw5
-  _sexybookmarks_permaHash: e2cb9b78f9d1c03d72d00efe6030d373
-  dsq_thread_id: '43133816'
-  _nectar_love: '0'
-  _wpas_done_all: '1'
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '171'
-  _wp_rp_related_posts_query_result_cache_expiration: '1525215477'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1619";s:5:"score";s:17:"94.53159283411411";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"2132";s:5:"score";s:17:"70.83515985258146";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1681";s:5:"score";s:17:"63.99281045622498";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2144";s:5:"score";s:17:"63.96995725189444";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1650";s:5:"score";s:17:"63.74760581208787";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"1451";s:5:"score";s:18:"63.737108661059224";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1647";s:5:"score";s:17:"57.90096642013642";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2830";s:5:"score";s:17:"56.49181885463844";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1919";s:5:"score";s:17:"56.49181885463844";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1801";s:5:"score";s:17:"55.33427363637355";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1383";s:5:"score";s:18:"52.023099771059286";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1278";s:5:"score";s:18:"52.023099771059286";}}
 permalink: "/best-ways-to-keep-social-in-social-media-marketing-and-still-make-money/"
 ---
 With social media you have to resist the opportunity to "hard sell".  It's like used car sales people selling during a funeral.  Instead of getting clients, you just made sure that these people will never buy from you ever.  Why?  Because it is a against etiquette to do this during social occasions.  Social media is not so hard lined but close.  I've seen people sell right away with an auto message when I first started following them with buy my stuff.  Not cool.  I've even seen people harassing others for promoting their products on social networks.

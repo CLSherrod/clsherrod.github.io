@@ -1,30 +1,11 @@
 ---
 title: Why The Soft Launch is Smart
-date: 2009-06-18 22:00:38.000000000 -05:00
+date: 2009-06-18
 published: true
 categories:
 - Essays
 tags:
 - business
-meta:
-  aktt_notify_twitter: 'yes'
-  _edit_last: '1'
-  thesis_post_image_horizontal: right
-  thesis_post_image_vertical: before-post
-  thesis_thumb_horizontal: center
-  aktt_tweeted: '1'
-  _sexybookmarks_shortUrl: http://b2l.me/4sktj
-  _sexybookmarks_permaHash: 20d1cb0777f5c56d9d98f22eada620b0
-  dsq_thread_id: '43134036'
-  _thesis_post_image: a:1:{s:9:"alignment";s:5:"right";}
-  _thesis_post_thumbnail: a:2:{s:9:"alignment";s:6:"center";s:5:"frame";a:1:{s:2:"on";b:1;}}
-  _nectar_love: '0'
-  _wpas_done_all: '1'
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '159'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524986734'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1853";s:5:"score";s:16:"76.1119501919657";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4954";s:5:"score";s:17:"67.76038040366907";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1934";s:5:"score";s:18:"62.590988162915444";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1210";s:5:"score";s:18:"59.696841006232304";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1280";s:5:"score";s:17:"59.24127314453557";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2753";s:5:"score";s:18:"58.826323593589315";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2051";s:5:"score";s:18:"58.826323593589315";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1251";s:5:"score";s:17:"58.65189352540938";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3250";s:5:"score";s:17:"49.66341627484776";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"1157";s:5:"score";s:17:"27.61864855755965";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1133";s:5:"score";s:17:"22.75755767643539";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"310";s:5:"score";s:18:"19.495521963718556";}}
 permalink: "/why-the-soft-launch-is-smart/"
 ---
 It seems all you hear about in Internet Marketing is the hard and fast launch.  It works and does create a frenzy for buying the product. And it is usually done for products that don't work for long.  You know the techniques that will work for a week or a month before not working anymore because Google changes their algorhymn or just the world changes.
