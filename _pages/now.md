@@ -7,7 +7,7 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Monday July 29th, 2024.
+Updated on Sunday August 4th, 2024.
 
 ## Currently Doing
 I'm a writer. I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot). Currently learning how to turn markdown files into book formats.
@@ -30,6 +30,7 @@ See [Projects](/projects) for a full list of past projects.
 - [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](/1001-albums/)
 
 ## Recently Published
+- Migrating old posts from previous WordPress version of this website.
 - Updated my [home page](/) to be more of a summary page.
 - I've been writing poems since December, something new to me and I finally posted them to my website [poems](/categories/#poems)
 - Added some book reviews I wrote 24 years ago to [Reviews](https://christophersherrod.com/categories/#reviews) 400+ old posts left to review before republishing.
