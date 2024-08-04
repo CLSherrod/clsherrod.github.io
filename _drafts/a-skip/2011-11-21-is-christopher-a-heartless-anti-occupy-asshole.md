@@ -5,16 +5,6 @@ published: true
 categories:
 - Essays
 tags: []
-meta:
-  _blogpost_images: http://blog.blog.christophersherrod.com/wp-content/uploads/images/video1.jpg
-  _edit_last: '1'
-  _wpas_done_all: '1'
-  _nectar_love: '0'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1469285979;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:4783;}i:1;a:1:{s:2:"id";i:267;}i:2;a:1:{s:2:"id";i:3589;}}}}
-  nectar_blog_post_view_count: '146'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524884945'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1000";s:5:"score";s:17:"24.26178829310402";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:18:"17.257552944479034";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1436";s:5:"score";s:18:"16.321985199380272";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2370";s:5:"score";s:17:"16.21529323810675";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"888";s:5:"score";s:18:"16.164008376849306";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"673";s:5:"score";s:18:"15.367015499374258";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"288";s:5:"score";s:18:"14.717108564937769";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2779";s:5:"score";s:17:"14.36061210208038";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3412";s:5:"score";s:18:"14.298783376023314";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"728";s:5:"score";s:18:"13.314447785055021";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4809";s:5:"score";s:18:"12.926426353647498";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"3568";s:5:"score";s:17:"12.69390674158081";}}
-  _wp_rp_image: empty
 permalink: "/is-christopher-a-heartless-anti-occupy-asshole/"
 ---
 <img class="alignright size-medium wp-image-4799" title="99 percent" src="{{ site.baseurl }}/posts/2011/11/99-percent-300x249.jpg" alt="" width="300" height="249" />I've got some emails from people on my list who think my blog post about my opinion that the Occupy Movement is a complete failure is the worst thing I've ever written and that I'm heartless.
@@ -53,4 +43,4 @@ I wrote these blogs posts because I wanted to help people see why it isn't worki
 
 If you don't like debate or opinions then don't read my blog and definitely don't be on my email list.
 
-I'm deep into helping heart conscious leaders be successful, but I don't just hug trees and pretend that will actually solve issues. Reality and good solid marketing are needed to be successful and get real results. The Occupy Movement is failing at that.</p>
+I'm deep into helping heart conscious leaders be successful, but I don't just hug trees and pretend that will actually solve issues. Reality and good solid marketing are needed to be successful and get real results. The Occupy Movement is failing at that.
