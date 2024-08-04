@@ -3,8 +3,6 @@ title: I read Cosmopolitan magazine, no really
 date: 2008-11-21 03:16:39.000000000 -06:00
 published: true
 categories:
-- Entrepreneurship
-- Marketing
 - Essays
 tags:
 - marketing
@@ -57,4 +55,4 @@ These are excellent headlines that get you to want to learn more.
 
 And the headline is the most important part of the article.
 
-So I'm going to make visiting Cosmopolitan magazine a regular to do item.&nbsp; I never thought I would ever read Cosmo.</p>
+So I'm going to make visiting Cosmopolitan magazine a regular to do item.&nbsp; I never thought I would ever read Cosmo.

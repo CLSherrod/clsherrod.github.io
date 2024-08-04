@@ -41,4 +41,4 @@ Having a discount the first week, limited quantity, etc. these are legitimate sc
 
 Why don't Internet Marketers talk about this?
 
-Well, they do. There are courses on it. It's just not called scripting and it sure isn't compared to Professional Wrestling.</p>
+Well, they do. There are courses on it. It's just not called scripting and it sure isn't compared to Professional Wrestling.

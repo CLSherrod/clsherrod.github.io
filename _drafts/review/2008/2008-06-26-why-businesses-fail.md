@@ -24,4 +24,4 @@ Government types say that businesses fail because they don't have enough money.�
 
 Everyone has to sell.Â  When you ask someone out on a date, you are selling your qualities that make the other person want to go out with you.Â  When a doctor is explaining a producedure he is selling his skills and how they will help you.Â  Everyone sells.
 
-Business that forget that are doomed.Â  "Build it and they will come".Â  No.Â  No.Â  Sell it.Â  Sell it.</p>
+Business that forget that are doomed.Â  "Build it and they will come".Â  No.Â  No.Â  Sell it.Â  Sell it.

@@ -52,4 +52,4 @@ I love to travel and I love my business. Since we are doing home exchanges with 
 
 In fact business is booming. But, I've noticed that I'm more productive when I'm not home.  I get more done and I get to see fabulous places. I also get great ideas. Travel is my favorite way to get ideas.  I talk about it in my book <a href="https://amzn.to/2q38olf">How To Create new Business Ideas Based On What You Love</a> a lot.
 
-Don't let your business get in the way of enjoying life  In fact, find that enjoying life makes your business better.</p>
+Don't let your business get in the way of enjoying life  In fact, find that enjoying life makes your business better.

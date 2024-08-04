@@ -33,4 +33,4 @@ Use what works for you needs right now and progress when needed.
 
 The clients that have a decent budget are the ones that are more successful. They get what they need done professional and quickly and have money to market.
 
-If you need help getting up and running quickly check out my video on <a href="https://christopher-sherrod.blisslifepress.com/branding/" rel="nofollow">Expert Branding</a> and what we can do for you.</p>
+If you need help getting up and running quickly check out my video on <a href="https://christopher-sherrod.blisslifepress.com/branding/" rel="nofollow">Expert Branding</a> and what we can do for you.

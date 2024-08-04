@@ -23,7 +23,7 @@ permalink: "/black-friday-from-your-computer/"
 ---
 The first time I went out of the house on Black Friday I had no idea it was the most popular shopping day of the year.  I was new to Phoenix Arizona and before when I lived in Alaska shopping was 45 minutes away if the weather was ideal.  So I never knew about Black Friday until I showed up at the biggest mall in Arizona.  Of did I mention that I wasn't use to crowds.  I came back home with nothing and stressed.  Never went out on Black Friday again.
 
-Even though I can do crowds now I don't like wasting my time in lines so I get online.  Here are some great Black Friday deal hunter websites.  Enjoy.</p>
+Even though I can do crowds now I don't like wasting my time in lines so I get online.  Here are some great Black Friday deal hunter websites.  Enjoy.
 <ul>
 <li><a href="http://www.blackfriday.info/" rel="nofollow">http://www.blackfriday.info/</a></li>
 <li><a href="http://www.black-friday.net" rel="nofollow">http://www.black-friday.net</a></li>

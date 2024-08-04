@@ -28,7 +28,7 @@ I ask why she unfollowed and blocked me on twitter so I can never follow her aga
 
 What makes no sense is why I was unfollowed and blocked on twitter and facebook for something that I have nothing to do with.  It looks immature.  I was completely not involved and wasn't getting involved.  I in fact didn't care.  But, then this person's husband email me and my friend accounting details about the argument.  Again I have no idea what this has to do with me.  I responded asking how this involves me.  Why anyone would email private accounting details to someone that isn't involved in this I have no idea.  My only guess is they want to prove their point to someone else.  Why I would care I have no idea.
 
-So what is the lesson out of all this?</p>
+So what is the lesson out of all this?
 <ul>
 <li> When people are upset don't "talk" via email.  Upset people read emails and think they mean something entirely different from what the person wrote.  I personally switch from email to phone after two tense emails, I think it should be one if it is especially bad.</li>
 <li>Talking things through works much better.</li>
@@ -50,4 +50,4 @@ On a side note that may or may not have anything to do with this particular case
 
 So I have one person that is blocking me on twitter now and removed me as a friend on Facebook.  I can live with it since I can't do anything about it and I couldn't have done anything to prevent it from happening.  I hope it make the person feel better.  And I hope this anonymous post helps you and my friend move on with life and that the attacks will end.  You both deserve happiness.
 
-P.S.  Does anyone know of a web application that let's you know who is blocking you?  <a href="http://useqwitter.com/" rel="nofollow">Twitter Quitter</a> only tells you when people quit following you on twitter.</p>
+P.S.  Does anyone know of a web application that let's you know who is blocking you?  <a href="http://useqwitter.com/" rel="nofollow">Twitter Quitter</a> only tells you when people quit following you on twitter.

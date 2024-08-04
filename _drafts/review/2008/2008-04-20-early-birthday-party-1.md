@@ -26,4 +26,4 @@ When they got back home I had several presents and some great food.  I got two a
 
 <img src="{{ site.baseurl }}/posts/2008/04/2431054016_474ebc167d_m.jpg" border="0" alt="Chris Sherrod" align="left" />My love Nan got me a picture frame that plays "What a Wonderful World" by Louis Armstrong.  I have it on my iPod all the time.  If I need to set an alarm in the morning I wake up to that song.  That present really touched me.  I'm going to put a photo of my wonderful family in it.
 
-Enjoy life.  Celebrate it often.  Have a blast.</p>
+Enjoy life.  Celebrate it often.  Have a blast.

@@ -23,7 +23,7 @@ permalink: "/creative-entrepreneurs-can-survive-the-crisis/"
 ---
 Big companies that are not creative will hurt and many go out of business.  Nimble small companies that are creative will florish.  Be creative.  Now is the time for using your brain first and then money second.  Brains always wins.
 
-The best product never goes bankrupt.  Be the best.</p>
+The best product never goes bankrupt.  Be the best.
 >“It’s not the creative entrepreneurs but it’s the large companies that are being challenged. Creative companies can survive any condition,” Larréché said at the recent World Knowledge Forum in Seoul, South Korea.
 
 Virgin Atlantic, which was founded by British entrepreneur Sir Richard Branson in 1984, survived and came out stronger after the airline crisis of the early 1990s when many established airlines went bankrupt, notes Larréché.
@@ -32,7 +32,7 @@ Speaking via satellite, Branson said a lot of opportunities will emerge as a res
 
 need to be nimble to move quickly and decisively to realise these opportunities.
 
-“There are enormous opportunities when there is a crisis. In a situation like this, it’s absolutely essential to conserve cash. I think companies that do have cash owe it to their country and the people in the company to actually invest that cash in order to grow out of the crisis,” Branson says.</p></blockquote>
+“There are enormous opportunities when there is a crisis. In a situation like this, it’s absolutely essential to conserve cash. I think companies that do have cash owe it to their country and the people in the company to actually invest that cash in order to grow out of the crisis,” Branson says.</blockquote>
 <p>Watch the video at this link.  Very good advice from several people.
 
-<a href="http://knowledge.insead.edu/CreativeEntrepreneursSurviveCrisis081008.cfm?vid=105" rel="nofollow">Creative entrepreneurs can survive the crisis</a>.</p>
+<a href="http://knowledge.insead.edu/CreativeEntrepreneursSurviveCrisis081008.cfm?vid=105" rel="nofollow">Creative entrepreneurs can survive the crisis</a>.

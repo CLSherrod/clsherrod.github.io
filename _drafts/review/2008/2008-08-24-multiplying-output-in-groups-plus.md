@@ -23,8 +23,8 @@ permalink: "/multiplying-output-in-groups-plus/"
 
 Tim Ferris' latest blog post is awesome.Â  So much content.Â  I love that.
 
-The video is excellent on showing how employees can be more productive not just CEO and entreprenuers.Â  And the worksheet is going out to all my team.</p>
+The video is excellent on showing how employees can be more productive not just CEO and entreprenuers.Â  And the worksheet is going out to all my team.
 >There is a misconception that lifestyle design is just for entrepreneurs or CEOs.
 
-In reality, the principles  ” borrowed from economics and behavioral psychology  ” can be applied within organizations and groups with even more dramatic effects.</p></blockquote>
+In reality, the principles  ” borrowed from economics and behavioral psychology  ” can be applied within organizations and groups with even more dramatic effects.</blockquote>
 <p><a href="http://www.fourhourworkweek.com/blog/2008/08/22/the-fortune-500-4-hour-workweek-multiplying-output-in-groups-plus-downloadable-checklists/" rel="nofollow">The Fortune 500 4-Hour Workweek: Multiplying Output in Groups Plus: Downloadable Checklists - The Blog of Author Tim Ferriss</a></p>

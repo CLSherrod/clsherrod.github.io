@@ -24,4 +24,4 @@ permalink: "/chinese-restaurant-twitters-way-to-success/"
 ---
 The owner of a Chinese restaurant in Manchester has credited a recent upsurge in bookings to her use of social messaging website Twitter.  This is just another way to make it easier for your customer to get your products and services.
 
-via <a href="http://www.bighospitality.co.uk/item/2899/pg_dtl_art_news/238/pg_ftr_art" rel="nofollow">Chinese restaurant Twitters way to success - BigHospitality</a>.</p>
+via <a href="http://www.bighospitality.co.uk/item/2899/pg_dtl_art_news/238/pg_ftr_art" rel="nofollow">Chinese restaurant Twitters way to success - BigHospitality</a>.

@@ -22,7 +22,7 @@ permalink: "/my-prosperity-laptop/"
 ---
 <img class="alignright size-medium wp-image-1197" title="laptopcards" src="{{ site.baseurl }}/posts/2008/10/laptopcards-300x225.jpg" alt="" width="300" height="225" />Since most of my work is done on my laptop I have tricked it out as they would say.  But I also decorate it.  I put on what I want.
 
-I bought two cards decks at a couple of bookstores and then picked out the ones that most fit what I wanted.</p>
+I bought two cards decks at a couple of bookstores and then picked out the ones that most fit what I wanted.
 <ul>
 <li>Focus on opportunities</li>
 <li>Solve problems for people</li>
@@ -33,4 +33,4 @@ I bought two cards decks at a couple of bookstores and then picked out the ones 
 <li>I am earning an excellent income doing what I love</li>
 <li>I trust that my inner guidance will lead me to my dreams</li>
 </ul>
-<p>Where do you post what you want?  Share in the comments.</p>
+<p>Where do you post what you want?  Share in the comments.

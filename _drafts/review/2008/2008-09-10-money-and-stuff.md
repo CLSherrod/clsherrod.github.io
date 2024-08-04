@@ -38,4 +38,4 @@ When you laugh at your current sucky situation you are on your way to change.Â�
 
 The point of life is not to amass fortunes.Â  You're going to lose it when you die anyways.Â  The point is to have fun.Â  Now making a lot of money for me is a lot of fun.Â  But losing money, even all of it is that the end of the world.Â  In fact losing money will make you a better player at the money game next time around.Â  Play full out.Â  Go for what you want.Â  Enjoy the experience.Â  Enjoy life.Â  Bancruptsy is not the end of the world.Â  Many successful people have gone bankrupt and started anew and became successful again and much faster because of their experience.Â  Use those bad situations as growing experiences.Â  Grow from it and move forward.
 
-Play the money game, play at life with a sense of adventure.Â  Don't take it so seriously.Â  Enjoy the experiences, grow from them and have fun.</p>
+Play the money game, play at life with a sense of adventure.Â  Don't take it so seriously.Â  Enjoy the experiences, grow from them and have fun.

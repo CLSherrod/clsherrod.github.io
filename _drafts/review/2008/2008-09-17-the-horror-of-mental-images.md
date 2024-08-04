@@ -60,4 +60,4 @@ So decide to see only positive situations.  Cut out horror movies and the news.
 
 Sit down once a day and mentally visualize what you want in life.  See it, feel it.
 
-If you can't see success then nothing will help you. Nothing I do can help you.  Nothing anyone can do will help you. You must know you can be positive before anybody can help.</p>
+If you can't see success then nothing will help you. Nothing I do can help you.  Nothing anyone can do will help you. You must know you can be positive before anybody can help.

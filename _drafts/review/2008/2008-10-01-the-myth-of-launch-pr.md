@@ -25,8 +25,8 @@ permalink: "/the-myth-of-launch-pr/"
 
 But, I think the big publicity scares a lot of newbies.  It looks like a lot of work (it is).  And it just seems overwhelming.  Don't worry about it.  You can make money without having the big huge publicity.  You can do it by having a sales funnel of products and services.  Don't rely on one ebook or one teleclass.  Rely on your sales funnel of many products and services.  Starting from free to high price.  The different levels are for different types of clients and for people that progress up the sales funnel.  Some people will get your high price item first while some (a lot) will get your free stuff first and progress from there.  It's up to them, but provide them with choices.
 
-Here is a quote from Seth Godin.  Great advice.</p>
+Here is a quote from Seth Godin.  Great advice.
 >Great publicity is a treasured gift. But it's hardly necessary, and the search for it is often a significant distraction.
 
-It works for movies, in fact, it's essentially required for movies. But for just about every product, service or company, the relentless quest for media validation doesn't really pay. If you get it, congratulations. If you don't, that's just fine. But don't break the bank or your timetable in the quest.</p></blockquote>
+It works for movies, in fact, it's essentially required for movies. But for just about every product, service or company, the relentless quest for media validation doesn't really pay. If you get it, congratulations. If you don't, that's just fine. But don't break the bank or your timetable in the quest.</blockquote>
 <p><a href="http://sethgodin.typepad.com/seths_blog/2008/09/the-myth-of-lau.html" rel="nofollow">Seth's Blog: The myth of launch PR</a></p>

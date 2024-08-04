@@ -25,4 +25,4 @@ I forgot to mention that I have a bonus on the new book  *Inspired Marketing *.
 **Inspired Action vs Workaholicism by Chris Sherrod**<br />
 Are you doing inspired action or are you just working to pay for everything? Are you a work-a-holic? Do you think you have to work all the time? I use to. It didn't work for me. I didn't have time to enjoy life. I didn't have time to think. I didn't have time to let inspiration come to me. I failed. Repeatly. And it wasn't fun. I now focus on what I want to get done and not all of it is business. I am more successful now.  Learn the difference between inspiration and workaholicism.
 
-Visit <a href="http://inspiredmarketing.com/invitation/" title="http://inspiredmarketing.com/invitation/" rel="nofollow">http://inspiredmarketing.com/invitation/</a> grab a copy of the book and get my bonus.</p>
+Visit <a href="http://inspiredmarketing.com/invitation/" title="http://inspiredmarketing.com/invitation/" rel="nofollow">http://inspiredmarketing.com/invitation/</a> grab a copy of the book and get my bonus.

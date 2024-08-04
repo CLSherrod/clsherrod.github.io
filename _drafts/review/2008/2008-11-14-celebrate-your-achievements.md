@@ -45,4 +45,4 @@ I'm about to leave for an extended weekend out of town.  I'm taking Richard Bra
 
 I love my clients and I want to celebrate with them their businesses.  Business is fantastic and growing and I'm having a blast.  Let's party.
 
-What are you doing to celebrate your achievements?</p>
+What are you doing to celebrate your achievements?

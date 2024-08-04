@@ -29,4 +29,4 @@ We're having our own version of the movie "My Big Fat Greek Wedding". I'm so hap
 
 Be Greek.  Celebrate life.  Enjoy it. Your business will be more profitable, you'll be happier and the people around you will join you in having a fantastic life.
 
-I would like to thank my love Nan Akasha for helping me see that life is a wonderful adventure again. We've been together three and a half years and it has been truly wonderful. Let's party our asses off this weekend honey.</p>
+I would like to thank my love Nan Akasha for helping me see that life is a wonderful adventure again. We've been together three and a half years and it has been truly wonderful. Let's party our asses off this weekend honey.

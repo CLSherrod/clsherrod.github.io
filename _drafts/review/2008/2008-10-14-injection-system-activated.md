@@ -3,8 +3,6 @@ title: Injection System Activated
 date: 2008-10-14 01:24:39.000000000 -05:00
 published: true
 categories:
-- Entrepreneurship
-- Marketing
 - Essays
 tags:
 - marketing
@@ -48,4 +46,4 @@ Virgin America, partially owned by Richard Branson is going to get a cash inject
 
 If you don't have extra cash you can still turn your inject system on.  Your idea injection system.  I use mine <a href="http://amzn.to/2hLiqXj">How To Create New Business Ideas Based On What You Love</a> and I'm implementing new ideas every week.
 
-What are you doing to injection freshness into your company?</p>
+What are you doing to injection freshness into your company?

@@ -26,4 +26,4 @@ Walmart is know for being the best value, they would have a hard time increasing
 
 Their is a big market for people that want the best. This is why I tell everyone pick your passion and be the best at it. Study it, be it, do it. And then charge for it. Charge what it takes to do all the studying and being the best. And the deliver it the best you can. Focus on solving your client biggest challenges, not on selling stuff. Then market and bring awareness on how you solve their challenges.
 
-Create unforgettable experiences for your clients. Give them extra touches, bonuses, exclusive access and the like. That is how you increase your prices and not get stuck into being a commodity.</p>
+Create unforgettable experiences for your clients. Give them extra touches, bonuses, exclusive access and the like. That is how you increase your prices and not get stuck into being a commodity.

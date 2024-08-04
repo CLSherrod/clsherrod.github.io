@@ -70,7 +70,7 @@ If you don"t have critics then you aren't trying hard enough.  You think I"m ki
 
 I get criticized and laughed at when I say you can be successful and not be a workaholic.  Many people like that is a big big lie.  Their mentors are major workaholics.  So they think I'm nuts.
 
-These suggestions from Alexandria are helpful when you get critics.  Hopefully soon if not already because it is a sign of success.</p>
+These suggestions from Alexandria are helpful when you get critics.  Hopefully soon if not already because it is a sign of success.
 >What I HAVE learned is that if any of these critics get nasty with you, don't sink to their level. Remember that as a publisher you're also in the business of customer service. I typically handle it via one of these three methods:
 
 a) respond calmly and acknowledge their point (some people just want to be heard)<br />
@@ -81,5 +81,5 @@ Even better: Have someone else screen your email, like I do now. My assistants p
 
 Through these petty annoyances, remember the big picture of why you started your e-zine or your current venture. It was likely to gain credibility and expert status while increasing your marketing reach and revenues. Your professional reputation is always on the line.
 
-You may want to lash back, but in the long run, it ALWAYS pays to take the high road.</p></blockquote>
+You may want to lash back, but in the long run, it ALWAYS pays to take the high road.</blockquote>
 <p><a href="http://bsetc.ca/blog/2008/05/29/got-critics-yeah-me-too" rel="nofollow">Got Critics? Yeah, Me Too</a></p>

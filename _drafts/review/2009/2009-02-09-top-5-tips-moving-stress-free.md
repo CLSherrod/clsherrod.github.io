@@ -33,7 +33,7 @@ We are cleaning out our garage today only (Saturday January 31st) and we want to
 
 Update: Sunday 6:30pm - Today is our last day to pack, we move tomorrow (Monday 2nd February). Still lots of stuff, come on by and great some great items for free. Way more now than the pictures show. Everything gets thrown away mid day Monday.
 
-Address with link to Google Map &lt;- Google Map of our place.</p></blockquote>
+Address with link to Google Map &lt;- Google Map of our place.</blockquote>
 <p>We had a lot of people come by and pick up our free stuff in the front yard.  At one point someone honked their car horn wondering where all the stuff was.  Someone before them took it all in their truck.  So I deleted the listing until we had some more free stuff.
 
 We listed a great many items for sale and found that having a photo and listing it in the morning greatly increased the amount of calls.  I also didn't give the option for people to email me and just listed a local phone number that they could call.  This helped because we were in the garage alot and couldn't check my email and could easily answer the phone and answer questions and directions to our place.
@@ -45,7 +45,7 @@ An example of a for sale listing:</p>
 
 &lt;p&gt;Call 210-535-8239&lt;/p&gt;
 
-and a picture of the item.</p></blockquote>
+and a picture of the item.</blockquote>
 <p>Listing everything you want to sell at once also helps a great deal because we had many people come by for one thing and buy something else or many items.  The person that bought Nan's moose fern didn't come for it but for some plant pots.  In the end she bought an entire truck bed full of plants and pots.
 
 When anyone came by we told them about everything for sale and upsold them.  It worked really well.  The people that came for the free stuff in the front yard are a much different clientelle from the people coming by for items for sale.  The free people never wanted to spend any money at all and that is why we had the free stuff in the front yard and the good stuff in the garage or back yard.
@@ -68,4 +68,4 @@ Need someone between 12pm and 3pm for two hours tomorrow (Wednesday Feb 4th)
 Call [my phone #]</p></blockquote>
 <p>I had six people in about 15 minutes call.  I picked who I thought was the best and scheduled him to come over.  Mark came over while I was working with clients so my girlfriend started him moving boxes up and down stairs and whatever else she needed to have done to get the place looking good.  We plan on having him over at least one more time.
 
-5.  Get pleny of sleep.  I took me a few days to catch up with my sleep.  Without enough sleep moving can be painful.  Make sure you get plenty.  Rely on your help.  Don't go crazy wanting to get thru it fast.  Be consistant in packing and after the move unpacking.  Get enough sleep so you don't crash.</p>
+5.  Get pleny of sleep.  I took me a few days to catch up with my sleep.  Without enough sleep moving can be painful.  Make sure you get plenty.  Rely on your help.  Don't go crazy wanting to get thru it fast.  Be consistant in packing and after the move unpacking.  Get enough sleep so you don't crash.

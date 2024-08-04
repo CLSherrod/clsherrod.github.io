@@ -27,4 +27,4 @@ David at 37 Signals says:</p>
 >Service operators generally suck at saying they’re sorry. I should know, I’ve had to do it plenty of times and it’s always hard. There’s really never a great way to say it, but there sure are plenty of terrible ways.
 
 One of the worst stock dummies that even I have resorted to in a moment of weakness is this terrible non-apology: “We apologize for any inconvenience this may have caused”. Oh please. Let’s break down why it’s bad:</p></blockquote>
-<p>Read David's entire post and learn what to say instead at <a href="http://www.37signals.com/svn/posts/1528-the-bullshit-of-outage-language" rel="nofollow">The bullshit of outage language</a>.</p>
+<p>Read David's entire post and learn what to say instead at <a href="http://www.37signals.com/svn/posts/1528-the-bullshit-of-outage-language" rel="nofollow">The bullshit of outage language</a>.

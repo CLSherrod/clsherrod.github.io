@@ -22,7 +22,7 @@ permalink: "/inspired-action-vs-workaholicism-bonus/"
 ---
 <img src="{{ site.baseurl }}/posts/2008/03/j0422325.jpg" alt="Stress" width="150" align="right" />Are you doing inspired action or are you just working to pay for everything?  Are you a work-a-holic? Do you think you have to work all the time? I use to. It didn't work for me. I didn't have time to enjoy life. I didn't have time to think. I didn't have time to let inspiration come to me. I failed. Repeatly. And it wasn't fun. I now focus on what I want to get done and not all of it is business. I am more successful now.
 
-Learn the difference between inspiration and workaholicism.</p>
+Learn the difference between inspiration and workaholicism.
 <form action="https://www.mcssl.com/app/contactsave.asp" method="post"><input type="hidden" name="phpMyAdmin" value="QNjMR3Pz-4LXmWY8GykUfQMUUdd" /> <input id="merchantid" name="merchantid" type="hidden" value="101104" /> <input id="ARThankyouURL" name="ARThankyouURL" type="hidden" value="blog.christophersherrod.com/contact/thankyou" /> <input id="copyarresponse" name="copyarresponse" type="hidden" value="1" /> <input id="custom" name="custom" type="hidden" value="0" /> <input id="defaultar" name="defaultar" type="hidden" value="322242" /> <input id="allowmulti" name="allowmulti" type="hidden" value="0" /> <input id="visiblefields" name="visiblefields" type="hidden" value="Name,Email1" /> <input id="requiredfields" name="requiredfields" type="hidden" value="Name,Email1" /></p>
 <table border="0">
 <tbody>

@@ -33,4 +33,4 @@ If you are an investor then a recession is a fantastic time to invest.  You buy
 
 Some people go to grad school during bad times and come out with a degree and good times again.  Adapt to the situation and do what is best for you.  I doubt it is staying the status quo.
 
-The threats to your company are not in the news.  The threats are in the mirror, you.  It always comes down to the people.  Period.</p>
+The threats to your company are not in the news.  The threats are in the mirror, you.  It always comes down to the people.  Period.

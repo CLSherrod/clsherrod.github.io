@@ -26,4 +26,4 @@ Have you checked out <a href="http://www.youtube.com/montypython" target="_blank
 
 And you know what? Despite the entertainment industry’s constant cries about how bad they’re doing, it works. As we wrote yesterday, Monty Python’s <a href="http://mashable.com/2009/01/21/youtube-click-to-buy-overlay-ads/" rel="nofollow">DVDs climbed to No. 2 on Amazon’s Movies &amp; TV bestsellers list</a>, with increased sales of 23,000 percent.
 
-via <a href="http://mashable.com/2009/01/22/youtube-boost-sales" rel="nofollow">Can Free Content Boost Your Sales? Yes, It Can</a>.</p>
+via <a href="http://mashable.com/2009/01/22/youtube-boost-sales" rel="nofollow">Can Free Content Boost Your Sales? Yes, It Can</a>.

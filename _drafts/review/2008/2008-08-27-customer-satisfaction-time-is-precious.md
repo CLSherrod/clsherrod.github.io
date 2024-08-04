@@ -24,6 +24,6 @@ I've noticed in Internet Marketing that many professional Internet Marketers are
 
 I think Internet Marketing is at the end of it's infancy.Â  In a few years not having good customer service will be paramount to not being in business.Â  Banning people for simply wanting some customer service on a product they bought just isn't going to fly in the future.
 
-This blog post below is from a study that shows that customer service time has a high correlation to customer satisfaction.Â  Talking to real people does help.</p>
->The takeaway from all this is that important customer relationships need to include listening to the customer. This may mean face time for big customers, perhaps phone time or even web chat for smaller ones. And these contacts can't be one-way sales pitches - the customer needs to believe his concerns are being heard.</p></blockquote>
-<p><a href="http://www.neurosciencemarketing.com/blog/articles/customer-satisfaction-time-is-precious.htm" rel="nofollow">Neuromarketing Â» Customer Satisfaction: Time is Precious</a>.</p>
+This blog post below is from a study that shows that customer service time has a high correlation to customer satisfaction.Â  Talking to real people does help.
+>The takeaway from all this is that important customer relationships need to include listening to the customer. This may mean face time for big customers, perhaps phone time or even web chat for smaller ones. And these contacts can't be one-way sales pitches - the customer needs to believe his concerns are being heard.</blockquote>
+<p><a href="http://www.neurosciencemarketing.com/blog/articles/customer-satisfaction-time-is-precious.htm" rel="nofollow">Neuromarketing Â» Customer Satisfaction: Time is Precious</a>.

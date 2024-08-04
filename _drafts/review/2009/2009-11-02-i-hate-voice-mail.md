@@ -34,4 +34,4 @@ This has been helpful when people just leave me a message informing of status an
 
 I love voice mail now and don't mind if people go to voice mail and leave a message anymore. It saves me a ton of time.
 
-<a href="http://google.com/voice" rel="nofollow">Google Voice</a> is free. You can get a Google Voice phone number and/or just have it take over your mobile phone voice mail system. Check it out.</p>
+<a href="http://google.com/voice" rel="nofollow">Google Voice</a> is free. You can get a Google Voice phone number and/or just have it take over your mobile phone voice mail system. Check it out.

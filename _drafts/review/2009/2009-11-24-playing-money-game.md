@@ -30,4 +30,4 @@ It's not the game's fault that you sucked at playing. It's not the other players
 
 It's you.
 
-Learn, adapt, play again.</p>
+Learn, adapt, play again.

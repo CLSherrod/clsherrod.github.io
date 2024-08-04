@@ -25,4 +25,4 @@ The campaign is just like my favorite Village Banking, making micro loans to sma
 
 Here is a typical story:</p>
 > *Maria, a wife and mother of three, has never had problems selling her exquisite hand-beaded belts worn in the traditional Guatemalan dress.  Her earnings are used to cover basic family expenses like food and clothing.  Before her first loan, she could only buy enough beads to make one belt at a time and would pay a premium for purchasing in such small quantities.  After taking her first loan, Maria increased her profit margin by 33% due to reduced costs by purchasing beads in bulk. "With the additional income, I will invest in education for my children," she explains.  With the continued support from Grameen Guatemala, a Whole Planet Foundation Partner, Maria plans to continue to increase her production and create new opportunities for her family.  *</p></blockquote>
-<p>To check out this campaign visit <a href="http://ww.wholeplanetfoundation.org" rel="nofollow">Whole Planet Foundation</a>.</p>
+<p>To check out this campaign visit <a href="http://ww.wholeplanetfoundation.org" rel="nofollow">Whole Planet Foundation</a>.

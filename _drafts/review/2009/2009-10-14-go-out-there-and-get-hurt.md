@@ -39,4 +39,4 @@ Takeaways:</p>
 </ol>
 <p>I hope you get hurt in the future. Not because I want you to have pain but because I know you will be growing and having successes.
 
-P.S. All current partners, please don't infer anything from this. This was based on past deals.</p>
+P.S. All current partners, please don't infer anything from this. This was based on past deals.

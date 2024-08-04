@@ -21,7 +21,7 @@ permalink: "/waiting-my-turn/"
 ---
 Listen.  Listening is important.  There isn't enough of it going around in the world I believe.  I learn the most when I listen to my friends and clients.  Clients will tell you everything they want just by listening to them.
 
-Here is a good article on waiting your turn in your mastermind group.  Full article link at the bottom.  Enjoy.</p>
+Here is a good article on waiting your turn in your mastermind group.  Full article link at the bottom.  Enjoy.
 <blockquote><p>One of the things I keep learning from the Mastermind groups I'm in is waiting for my turn. I keep bumping into my own ego - I keep wanting everyone to be there for me - for me to tell them what they should do and for everyone concentrating on supporting what I want. Particularly those times when I'm either bubbling up with ideas or doubling over with problems</p>
 </blockquote>
 <p><a href="http://www.evancarmichael.com/Mastermind-Group/2008/06/waiting-my-turn.html" rel="nofollow">Mastermind Group Resources: Waiting My Turn</a></p>

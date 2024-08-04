@@ -24,4 +24,4 @@ There are many many success books.  Health, diet, finance, relationships, etc, e
 
 Keep on your success course.  Try many options and never give up on your vision.  Some books will help you, some will not.  Some people you will like and then fall out of out it and move on to others.  Go with the flow.  Keep on course and feel your way.
 
-You create your own reality and you are in charge of it.  It is up to you.</p>
+You create your own reality and you are in charge of it.  It is up to you.

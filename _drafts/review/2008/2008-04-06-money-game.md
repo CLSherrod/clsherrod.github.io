@@ -25,4 +25,4 @@ I created a Google Document on playing the <a href="http://spreadsheets.google.c
 
 Every day you get an additional $1000 and you have to write down what you would buy.Â  I've given a couple of suggestions at the beginning which you can change.
 
-Grab it while you can I'm offering it only for a limited time.Â  Have fun.</p>
+Grab it while you can I'm offering it only for a limited time.Â  Have fun.

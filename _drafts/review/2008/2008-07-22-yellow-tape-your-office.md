@@ -32,4 +32,4 @@ Some companies in Japan allow employees to wear red sashes that easily let every
 
 My partner and I have work usually in the same room when traveling. So, we just tell each other when we are about to go into deep think mode.  I also usually put on some think music on my iPod Nano and jack in.  Unless the building is on fire I'm out of touch.
 
-So wear a hat or a sash or even yellow tape your office off.  Get productive and enjoy your life.</p>
+So wear a hat or a sash or even yellow tape your office off.  Get productive and enjoy your life.

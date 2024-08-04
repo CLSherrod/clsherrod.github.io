@@ -54,4 +54,4 @@ Losing energy with leaches will eventually destroy your business, yourself, your
 
 Leaches need you, you don't need them.
 
-You deserve better and you are the only one that can make that decision.</p>
+You deserve better and you are the only one that can make that decision.

@@ -34,4 +34,4 @@ I get concerned when people have a lot of money to spend on their new business b
 
 Money can and does solves problems but you need to know when and how to use it.  If you're just starting off with your first business then be cheap and proceed slowly.  Constantly learn but always implement on a daily basis.
 
-Learn, do, rinse repeat.</p>
+Learn, do, rinse repeat.

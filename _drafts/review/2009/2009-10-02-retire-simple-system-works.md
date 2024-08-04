@@ -67,4 +67,4 @@ You'll avoid the having something to do one day and then nothing the next. So ma
 
 It's a simple system which is why I know it works.
 
-Richard Branson is doing this. With Virgin Unite he even let's other via a social network get involved in charity work. A brilliant idea. Over the years his kids will get more and more responsibility in Virgin and Richard will do more and more charity work.</p>
+Richard Branson is doing this. With Virgin Unite he even let's other via a social network get involved in charity work. A brilliant idea. Over the years his kids will get more and more responsibility in Virgin and Richard will do more and more charity work.

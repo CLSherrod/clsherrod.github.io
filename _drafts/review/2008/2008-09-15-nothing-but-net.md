@@ -32,4 +32,4 @@ That is why the people that blog about their toys and such really don't thrill m
 
 I know quite a few stories but can't recount them here because they are people I know very very well and I don't want to embarrass them.Â  You would be surprised even shocked and their business would tank.
 
-Bottom line, don't look up to people and expect them to be perfect.Â  Look at your bottom line.Â  Look at your net profit.Â  What is working for you?Â  Don't over spend but also don't be cheap.Â  Money attracts money.Â  Spending money attracts people spending money.Â  But going broke attracts somethings you don't want.</p>
+Bottom line, don't look up to people and expect them to be perfect.Â  Look at your bottom line.Â  Look at your net profit.Â  What is working for you?Â  Don't over spend but also don't be cheap.Â  Money attracts money.Â  Spending money attracts people spending money.Â  But going broke attracts somethings you don't want.

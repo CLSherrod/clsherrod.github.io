@@ -25,4 +25,4 @@ It's at The New Movement Theater.
 <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=The+New+Movement+Austin&amp;sll=30.291802,-97.718998&amp;sspn=0.008245,0.018926&amp;ie=UTF8&amp;hq=The+New+Movement&amp;hnear=Austin,+TX&amp;ll=30.2776,-97.719097&amp;spn=0.032392,0.074844&amp;z=14&amp;iwloc=A" rel="nofollow">1819 Rosewood Ave. Austin, TX USA<br />
 </a><a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=The+New+Movement+Austin&amp;sll=30.291802,-97.718998&amp;sspn=0.008245,0.018926&amp;ie=UTF8&amp;hq=The+New+Movement&amp;hnear=Austin,+TX&amp;ll=30.2776,-97.719097&amp;spn=0.032392,0.074844&amp;z=14&amp;iwloc=A" rel="nofollow">512-788-2669</a>
 
-Come on by and encourage me and my class.</p>
+Come on by and encourage me and my class.

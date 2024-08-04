@@ -85,4 +85,4 @@ I want you to benefit from this wonderful opportunity.  I personally wish you th
 
 Thank you and enjoy!
 
-P.S. Sorry, this offer is only available in English and cannot be shipped to Australia, Brunei, China, India, Malaysia, Papua New Guinea, Singapore, Taiwan or U.K.</p>
+P.S. Sorry, this offer is only available in English and cannot be shipped to Australia, Brunei, China, India, Malaysia, Papua New Guinea, Singapore, Taiwan or U.K.

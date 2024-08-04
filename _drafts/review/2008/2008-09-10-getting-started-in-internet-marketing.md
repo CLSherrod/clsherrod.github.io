@@ -66,4 +66,4 @@ Be a little wary of Internet Marketers that sell Internet Marketing products.  
 
 When you are working, understand what you are doing in relation to the theory you are using.  When studying think of when you have seen that problem when you were working.  Know what you are doing and why.  It works much better than randomness and getting lucky.
 
-When you see someone come out with a product ask yourself how they did it.  Don't go "wow" and believe you can't do the same thing.  And don't feel like you're stealing someone's idea if you try the technique yourself.  Just ask yourself "how did they do that?" and come up with answers.</p>
+When you see someone come out with a product ask yourself how they did it.  Don't go "wow" and believe you can't do the same thing.  And don't feel like you're stealing someone's idea if you try the technique yourself.  Just ask yourself "how did they do that?" and come up with answers.

@@ -22,4 +22,4 @@ permalink: "/seize-the-day/"
 ---
 Sandpipers run towards the waves to eat and take their opportunity.Â  Then when the waves come back they get out of the way.Â  They seize the day and take their opporunity.
 
-Are you seizing your day?</p>
+Are you seizing your day?

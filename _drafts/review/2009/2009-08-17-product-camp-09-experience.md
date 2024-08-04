@@ -3,7 +3,6 @@ title: My Product Camp 09 Experience
 date: 2009-08-17 11:06:18.000000000 -05:00
 published: true
 categories:
-- Marketing
 - Essays
 tags: []
 meta:
@@ -55,4 +54,4 @@ The presentation by Jonas Lamis on how he uses Google Adwords to test a business
 
 At another session I learned why link building is still a lot of work.  Check out <a href="http://hubspot.com">hubspot.com</a> and <a href="http://buzzstream.com">buzzstream.com</a>.  I just ran the <a href="http://www.websitegrader.com/">website grader</a> from hubspot.com on this website and got a great score of 97.9 out of 100. I'm very happy with that.
 
-I'll be back at the next Product Camp.  Check your local area if they have a product camp near you. It's great to have a group come together and brainstorm together.</p>
+I'll be back at the next Product Camp.  Check your local area if they have a product camp near you. It's great to have a group come together and brainstorm together.

@@ -35,4 +35,4 @@ Here are some links to other ways to stop worrying:</p>
 <li><a href="http://www.helpguide.org/mental/anxiety_self_help.htm" rel="nofollow">Self-Help for Anxiety Relief</a></li>
 <li><a href="http://www.westegg.com/unmaintained/carnegie/stop-worry.html" rel="nofollow">Dale Carnegie</a></li>
 </ul>
-<p>If you want to <a href="http://flickr.com/photos/eaglechris/1008055669/" rel="nofollow">favorite my photo</a> go for it.</p>
+<p>If you want to <a href="http://flickr.com/photos/eaglechris/1008055669/" rel="nofollow">favorite my photo</a> go for it.

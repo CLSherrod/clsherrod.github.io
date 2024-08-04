@@ -26,4 +26,4 @@ Will Social Security taxes go up?  Will Payroll taxes go up?  Will Income taxe
 
 Funny, but why aren't business people asking President Bush about the current recession?  Worst bank disaster probably ever.  But, these questions are legitimate and I'm recording some interviews today with some business experts and will ask them what they think.
 
-But, what do you think?  Is President-Elect Obama going to be good for business?  Better than President Bush has?  Or is this change not that big a deal?  Share your thoughts in the comments.</p>
+But, what do you think?  Is President-Elect Obama going to be good for business?  Better than President Bush has?  Or is this change not that big a deal?  Share your thoughts in the comments.

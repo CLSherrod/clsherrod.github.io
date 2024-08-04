@@ -28,8 +28,8 @@ I did another series of automation last summer for my two month trip to Europe. 
 
 The "retreat" was so successful and fun that we have extended thru mid April.
 
-I'm getting all the businesses to run without me while I travel.  I'm looking at <span class="entry-content">Sacre Coeur from an apartment (not a hotel) in Paris right now</span> and business is going on as usual.</p>
+I'm getting all the businesses to run without me while I travel.  I'm looking at <span class="entry-content">Sacre Coeur from an apartment (not a hotel) in Paris right now</span> and business is going on as usual.
 <blockquote><p>In a recent Mastermind Group meeting, it became apparent that some of the most successful people in the group actually work the least. This is something I've known for quite some time, but I needed to be reminded of it often.
 
-There's are many good reasons why business owners who work less make more, and I believe that this concept is even more applicable...</p></blockquote>
+There's are many good reasons why business owners who work less make more, and I believe that this concept is even more applicable...</blockquote>
 <p><a href="http://www.addbusinessowner.com/2008/01/time-is-not-on.html" rel="nofollow">The ADD Business Owner: Time Is Not On Your Side</a></p>

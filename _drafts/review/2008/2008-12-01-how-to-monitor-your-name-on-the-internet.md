@@ -27,4 +27,4 @@ I use <a href="http://www.google.com/alerts" rel="nofollow">Google Alerts</a> an
 
 A vast majority of the the time these tools find good uses of your name, etc.  Which you can blog about.  Rarely they find content isn't so nice.  You can respond in comments if it is a blog or by twitter with a @reply.  Of course sometimes it's best to ignore but these tools will help you monitor your good name and give you the option of resonding.
 
-Any other tools that help with this let us know in the comments.</p>
+Any other tools that help with this let us know in the comments.

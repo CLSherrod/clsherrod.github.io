@@ -45,7 +45,7 @@ The successful Internet Marketers or businesses have a whole product line.  Whe
 
 My back catalog is going strong and my new products bring new clients who will look at my back catalog.  This strategy may be a little slow but it is a very profitable strategy.  Many Internet Marketers rely on the big hit.  Then another big hit.  If they don't have a big hit their income goes away.  Because a lot of the big hits are short term.  Especially in Internet Marketing, some products only work for clients for a short term before the technique quits working.  So a back catalog of still viable products and services is much better long term.
 
-Seth summarizes it well.</p>
+Seth summarizes it well.
 >the strategy:
 
 1. Assemble a tribe, a group of true fans, followers, people who have given you permission. Give them all the frontlist they can handle. Make it easy for them to spread the word, to Digg you or bring a friend to your movie or buy your new book for their friends. If you create too much content for this crowd, then you're publishing too much. They care, and they want to hear from you.
@@ -54,5 +54,5 @@ Seth summarizes it well.</p>
 
 3. Repeat. Frontlist becomes backlist, backlist grows, fan base grows, it scales.
 
-Frontlist reaches your fans. Your fans spread the word, and eventually your backlist reaches everyone else. The backlist turns some people into fans, who then look for the frontlist.</p></blockquote>
-<p><a href="http://sethgodin.typepad.com/seths_blog/2008/09/how-often-shoul.html" rel="nofollow">Seth's Blog: How often should you publish?</a>.</p>
+Frontlist reaches your fans. Your fans spread the word, and eventually your backlist reaches everyone else. The backlist turns some people into fans, who then look for the frontlist.</blockquote>
+<p><a href="http://sethgodin.typepad.com/seths_blog/2008/09/how-often-shoul.html" rel="nofollow">Seth's Blog: How often should you publish?</a>.

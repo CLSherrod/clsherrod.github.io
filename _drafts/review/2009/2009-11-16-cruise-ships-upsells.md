@@ -34,4 +34,4 @@ And of course onboard gambling.
 
 And it's a ship, you can't get off and do something else. It's a captured audience.
 
-The cruise ship business is the perfect marketing funnel. I'm impressed.</p>
+The cruise ship business is the perfect marketing funnel. I'm impressed.

@@ -59,4 +59,4 @@ Take advantage of this limited-time book launch offer and you will receive:</p>
 <li>receive access to gifts from some of your favorite Hay House authors</li>
 <li>receive access to gifts, products and services from our sponsors</li>
 </ul>
-<p>I have a <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">bonus</a> available after you purchase the book named  *Above All Is Love * with a special link inside it.Â  Check it out at <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">Gregg Braden - Spontaneous Healing</a>.</p>
+<p>I have a <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">bonus</a> available after you purchase the book named  *Above All Is Love * with a special link inside it.Â  Check it out at <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">Gregg Braden - Spontaneous Healing</a>.

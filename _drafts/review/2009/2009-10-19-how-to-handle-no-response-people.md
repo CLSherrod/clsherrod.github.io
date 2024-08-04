@@ -64,4 +64,4 @@ Now a few times I've meet someone a year or two later and they would tell me why
 
 So my rule is to followup three times with people. On the third try I tell them this is my last time that I'll be leaving them a message. I then will contact them a few months later once and trickle on them occasionally. It could be months or years before they recover from their stresses to think straight or they can afford to do business with you. Don't put so much pressure on them that they hate you. Be nice and respect their no response and move on.
 
-Thankfully most people are not like these people. Most people are upfront and frank about things which makes doing business much easier. Just understand the no response types and move forward with the people that want to do business with you.</p>
+Thankfully most people are not like these people. Most people are upfront and frank about things which makes doing business much easier. Just understand the no response types and move forward with the people that want to do business with you.

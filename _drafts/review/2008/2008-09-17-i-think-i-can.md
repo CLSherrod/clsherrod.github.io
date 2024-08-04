@@ -30,4 +30,4 @@ The secret is you.Â  The secret is that you think you are successful.
 
 I believe in you.Â  I believe you are successful.
 
-Now go out there and do it.</p>
+Now go out there and do it.

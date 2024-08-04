@@ -22,4 +22,4 @@ permalink: "/four-star-charity/"
 **Nargiz Ohanyan can send her children to university**<br />
 Thanks to her business skills and FINCA loans, <a href="http://www.kintera.org/TR.asp?a=ehJQLXOxFfKQL8I&amp;s=hrKVK3OIImJWL6PHKoG&amp;m=mvL3KjPYLgI3F" rel="nofollow">FINCA Armenia</a> client Nargiz Ohanyan has expanded her fruit stand business from one to four stands, and now offers a wider range of fruits, even citrus imported from Georgia.
 
-She has a son and a daughter in school; her daughter will start university next year. Nargiz is very happy she can afford their education, "the best and most profitable investment," she said.</p>
+She has a son and a daughter in school; her daughter will start university next year. Nargiz is very happy she can afford their education, "the best and most profitable investment," she said.

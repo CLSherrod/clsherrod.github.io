@@ -44,4 +44,4 @@ Make mistakes in front of small audiences and you'll learn what works and then y
 
 I see so many people not doing anything because they look up to big Internet Marketers and try to do what they are doing.  They didn't start big, they went through a process to get big.  You do to.
 
-Take the first step.</p>
+Take the first step.

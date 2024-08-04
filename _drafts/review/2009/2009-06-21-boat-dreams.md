@@ -57,4 +57,4 @@ I'm feeling my way to what I want.
 
 So what I learned this week is to review your dreams and pick something new if you are stuck. Something big and exciting and major. I have smaller goals as well but this new goal is very exciting to me.
 
-My favorite Abundance Unlimited blog post this week. <a href="https://christopher-sherrod.blisslifepress.com/why-the-soft-launch-is-smart/">Why The Soft Launch is Smart</a> weaves with this nicely. You have to feel your way to success and goals. Every big Internet Marketer I've meet felt their way to success, they started with soft launches and progressed. Got some nice feedback from some clients on it.</p>
+My favorite Abundance Unlimited blog post this week. <a href="https://christopher-sherrod.blisslifepress.com/why-the-soft-launch-is-smart/">Why The Soft Launch is Smart</a> weaves with this nicely. You have to feel your way to success and goals. Every big Internet Marketer I've meet felt their way to success, they started with soft launches and progressed. Got some nice feedback from some clients on it.

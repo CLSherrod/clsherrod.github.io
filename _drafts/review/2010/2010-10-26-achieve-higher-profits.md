@@ -26,4 +26,4 @@ Now with higher prices you're going to need to deliver higher service. More touc
 
 For products it may be surprising to you but many products with different brand names are manufactured by the same factory. One brand in the morning and another in the afternoon. What's the difference? The brand, yes some quality differences are there for sure, but the big difference is the logo on the shirt or shoes. A strong brand may come out with a new design first but soon others will copy it as close as they can. The only way the brand stays ahead is because of their brand value, their marketing and their status in your head. Product A made in the morning is retailed at twice of Product B in the afternoon and the manufacturing cost difference is less than 5%.
 
-Again, the beauty of a good brand image is that it gives you options and allows you to achieve higher profits.</p>
+Again, the beauty of a good brand image is that it gives you options and allows you to achieve higher profits.

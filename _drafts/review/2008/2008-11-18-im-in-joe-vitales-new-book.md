@@ -25,7 +25,7 @@ permalink: "/im-in-joe-vitales-new-book/"
 
 If you're looking for a book that can show you how to attract miracles in your life check out Joe's book.
 
-You'll learn...</p>
+You'll learn...
 <ul>
 <li> How to use a five-step system for attracting any kind of miracle</li>
 <li> Why you need to avoid fear if you want to attract miracles</li>
@@ -46,6 +46,6 @@ At that price it makes a great inspirational<br />
 stocking stuffer for any family member, co-worker<br />
 or friend.
 
-Order <a href="http://www.amazon.com/Expect-Miracles-Joe-Vitale/dp/1897404069/ref=sr_1_3?ie=UTF8&amp;s=books&amp;qid=1226944584&amp;sr=1-3" rel="nofollow">"Expect Miracles"</a> today.</p>
+Order <a href="http://www.amazon.com/Expect-Miracles-Joe-Vitale/dp/1897404069/ref=sr_1_3?ie=UTF8&amp;s=books&amp;qid=1226944584&amp;sr=1-3" rel="nofollow">"Expect Miracles"</a> today.
 <div>"Expect Miracles" not only will show you how to use a five-step system for attracting any kind of miracle, why you need to avoid fear if you want to attract miracles, how to eliminate counter-intentions that will block you from achieving goals, the exact method for getting clear about what you want, how to forgive anyone for anything and get on with your life, how your mind works, ways to go from indecision to focused intention, the importance gratitude for what you already have plays into what you will attract in your life --- you will also get story after story about people who've attracted miracles in their life and how they did it.</div>
 <div>Only today do you get the <a href="http://www.amazon.com/Expect-Miracles-Joe-Vitale/dp/1897404069/ref=sr_1_3?ie=UTF8&amp;s=books&amp;qid=1226944584&amp;sr=1-3" rel="nofollow">25% off</a>.</div>

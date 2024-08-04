@@ -58,4 +58,4 @@ Pretend you are Richard Branson when making decisions.  "If I was Richard Brans
 
 I know when I worked hard I couldn't think about my business.  I couldn't think about how to market, improve business or tweak the bottom line.  Now I take time to relax.  Do something creative and non work related every week and enjoy life.  I notice I get better ideas when I do this.
 
-Not everyone is built to be an entrepreneur.  That's okay.  But if you really want to be one you must master your attitude about business.  Work smart and not hard.</p>
+Not everyone is built to be an entrepreneur.  That's okay.  But if you really want to be one you must master your attitude about business.  Work smart and not hard.

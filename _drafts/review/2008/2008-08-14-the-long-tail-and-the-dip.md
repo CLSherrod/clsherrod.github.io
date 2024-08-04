@@ -24,8 +24,8 @@ permalink: "/the-long-tail-and-the-dip/"
 ---
 <img class="alignright" src="{{ site.baseurl }}/posts/2008/08/profitpockets583_2.jpg" alt="" width="280" height="204" />
 
-I loved Seth's book on the Dip.Â  Here Seth explains the Long Tail and the Dip together.Â  Excellent.</p>
+I loved Seth's book on the Dip.Â  Here Seth explains the Long Tail and the Dip together.Â  Excellent.
 >The most common misconception about Long Tail thinking is that if you don't succeed at pocket 1, don't worry, because the tail will take care of your product and you'll just end up in #2. That's not true. #2 isn't a consolation prize for mass market losers. Mass market losers are still losers. In order to become a mass market star you make choices about features and pricing and quality--and if you lose that game, there's no reason to believe that those choices are going to pay off for a different market.
 
-The long tail doesn't offer a consolation prize. Instead, the wide selection (in every market, not just digital ones) is a collection of smaller long tails, each with its own dip, each with its own winners (and losers). Pick the biggest market you can successfully dominate, the biggest slice where you can get through the Dip and be seen as the best in that world.</p></blockquote>
+The long tail doesn't offer a consolation prize. Instead, the wide selection (in every market, not just digital ones) is a collection of smaller long tails, each with its own dip, each with its own winners (and losers). Pick the biggest market you can successfully dominate, the biggest slice where you can get through the Dip and be seen as the best in that world.</blockquote>
 <p><a href="http://sethgodin.typepad.com/seths_blog/2008/07/the-long-tail-t.html" rel="nofollow">Seth's Blog: The Long Tail and the Dip</a></p>

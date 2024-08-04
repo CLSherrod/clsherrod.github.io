@@ -51,4 +51,4 @@ Get rid of the excuses about starting and just start.  Start networking, start 
 
 Anyways the people that try to scare you into putting these layers in are the people that sell the layers.  Publishers and authors of books and magazines, lawyers and the million other people that make money selling you the "correct" way to success.  They have have their place but you don't need them to start.  You can add as you go.
 
-The only things you really need (not required) is a business card and a website.  You really don't even need those to start but you'll want them pretty quickly.  Everything else you can add as you go.  If you can get by without it right now then you don't need it right now.  Only add items when you really need it.</p>
+The only things you really need (not required) is a business card and a website.  You really don't even need those to start but you'll want them pretty quickly.  Everything else you can add as you go.  If you can get by without it right now then you don't need it right now.  Only add items when you really need it.

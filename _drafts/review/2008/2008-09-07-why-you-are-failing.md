@@ -70,7 +70,7 @@ Last week I had a mastermind member call me the Internet Marketing guru of the g
 
 My conversation with one of my mastermind members got me thinking why he and other think I"m a guru of Internet Marketing.  I simply think it is because I actually create products.  So many people simply don"t do anything at all.  Period.  I think I can be successful so I do something and make corrections as I go.  Ready, Fire, Aim.  Some people are scared of failing. Do it a few times and you get over it.  I did.
 
-Then I thought of a recent email my girlfriend Nan forwarded to me from Marlon, a successful Internet Marketer.  I think it clearly reflects why some people are failing.</p>
+Then I thought of a recent email my girlfriend Nan forwarded to me from Marlon, a successful Internet Marketer.  I think it clearly reflects why some people are failing.
 >But dominantly, I'm a producer and a promoter of products.<br />
 My job in life is to come up with new products that create<br />
 value for my customers and to promote them to the best of<br />
@@ -89,5 +89,5 @@ Let me explain...
 
 The problem I see a lot of people have is they consume,<br />
 consume, consume. But NEVER cross the bridge to creating,<br />
-producing and promoting.</p></blockquote>
-<p>Go out and fail a lot.  It's the best thing you can do.  Start creating now.  If you need some ideas check out my book <a href="http://amzn.to/2hLiqXj">How To Create New Business Ideas Based On What You Love</a> where you can create new business ideas based on what you love.</p>
+producing and promoting.</blockquote>
+<p>Go out and fail a lot.  It's the best thing you can do.  Start creating now.  If you need some ideas check out my book <a href="http://amzn.to/2hLiqXj">How To Create New Business Ideas Based On What You Love</a> where you can create new business ideas based on what you love.

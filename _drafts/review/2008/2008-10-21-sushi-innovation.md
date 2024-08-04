@@ -25,4 +25,4 @@ permalink: "/sushi-innovation/"
 
 So I went to a local sushi restaurant for lunch yesterday to celebrate.  After a very nice sushi selection I received my bill.  See the picture on the right.  They automatically print what the tip would at 15%, 18% and 20%.  This is such a nice little touch.  A great  little innovation.
 
-A few little fine touches is what makes a great business.  It is what makes your different.  Innovation is key, especially during a recession.</p>
+A few little fine touches is what makes a great business.  It is what makes your different.  Innovation is key, especially during a recession.

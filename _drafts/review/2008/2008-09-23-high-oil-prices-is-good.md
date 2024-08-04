@@ -33,4 +33,4 @@ There is plenty of energy out there for everyone to use, it is just a matter of 
 
 And high prices helps the environment with a reduction of hydrocarbons.&nbsp; Alternative energy is more earth friendly too.
 
-So high oil prices are the perfect solution to meeting the growing energy demand, helping out the environment.&nbsp; Have a smile next time you pay $70 filling your car with gasoline, you're helping solve energy and the environment.</p>
+So high oil prices are the perfect solution to meeting the growing energy demand, helping out the environment.&nbsp; Have a smile next time you pay $70 filling your car with gasoline, you're helping solve energy and the environment.

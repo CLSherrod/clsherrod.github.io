@@ -31,4 +31,4 @@ I use to be shy....actually painfully shy.Â  Sometime I am still but not often
 
 Asking is fun and it pays great dividends.Â  Nan and I love to ask for extra things when at restaurants, seminars, companies, massage therapists and others.Â  Ask for what you want and it is amazing how easy you get it.
 
-Don't be silent.Â  Ask and you shall receive.</p>
+Don't be silent.Â  Ask and you shall receive.

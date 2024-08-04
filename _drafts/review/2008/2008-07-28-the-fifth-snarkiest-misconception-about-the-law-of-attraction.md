@@ -20,7 +20,7 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1406";s:5:"score";s:17:"59.74146846342309";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"354";s:5:"score";s:17:"54.57887147247462";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1285";s:5:"score";s:17:"50.80193692594082";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1108";s:5:"score";s:17:"50.80193692594082";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"398";s:5:"score";s:17:"49.67499821140448";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"364";s:5:"score";s:18:"48.393991317294535";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"393";s:5:"score";s:18:"47.406285741408674";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1373";s:5:"score";s:17:"42.60769994734849";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"604";s:5:"score";s:17:"42.60769994734849";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"333";s:5:"score";s:17:"42.60769994734849";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"233";s:5:"score";s:17:"42.60769994734849";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:17:"41.23809553048123";}}
 permalink: "/the-fifth-snarkiest-misconception-about-the-law-of-attraction/"
 ---
-I get the question "Where's my stuff?" often.Â  Many people think that once they start focusing on prosperity and abundance that it should instantly manifest.Â  It can.Â  Instantly.Â  No doubt about it.</p>
+I get the question "Where's my stuff?" often.Â  Many people think that once they start focusing on prosperity and abundance that it should instantly manifest.Â  It can.Â  Instantly.Â  No doubt about it.
 >Scientists estimate that the human brain thinks about 70,000 thoughts a day.If you multiply that by 365 days in a year, that's 25,550,000 thoughts. (I did that in my head.)
 
 That, by the way, is twenty-five million, five hundred and fifty thousand thoughts.
@@ -35,5 +35,5 @@ So, now, let's say you decide in your 35th year, that you're going to add, I am 
 
 This can be likened (to use the words of a colorful ex-military man to whom I once had the pleasure of living next door) to farting at a hurricane. 
 
-In other words, it might take longer than two weeks.</p></blockquote>
+In other words, it might take longer than two weeks.</blockquote>
 <p><a href="http://www.christinekane.com/blog/the-fifth-snarkiest-misconception-about-the-law-of-attraction/" rel="nofollow">The Fifth Snarkiest Misconception about the Law of Attraction | Christine Kane</a></p>

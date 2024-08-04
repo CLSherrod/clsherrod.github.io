@@ -55,4 +55,4 @@ I have some aversion to personality marketing  <a href="http://www.victoryag.org
 
 So I"m still averse to personality marketing because I think some people use it and deliver horrible products and services.  Their stuff is popular because of the name and the name only.  It won"t last long though.  People will start to notice and then your name/brand will tarnish.  Richard Branson talks about this in his new book "Business Stripped Bare" (excellent book).  With your name you must also have excellent products and services.  If your Virgin Atlantic flight was horrible then you may reconsider renewing your Virgin Gym membership, etc.  All of Virgins companies must be excellent.  One bad company can tarnish the rest.
 
-If you have excellent products and services then personality marketing will work long term.  If you don"t then your days are numbered.  Could be a rather large number though.  Just look at the backlash with Paris Hilton.</p>
+If you have excellent products and services then personality marketing will work long term.  If you don"t then your days are numbered.  Could be a rather large number though.  Just look at the backlash with Paris Hilton.

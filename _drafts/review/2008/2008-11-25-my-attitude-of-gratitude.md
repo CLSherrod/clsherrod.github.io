@@ -43,6 +43,6 @@ I recently received an email reply to why I was blessed last week.  I had sent 
 
 I believe you should focus on what you are grateful for.
 
-Here is a quote from someone grateful for rich people.</p>
-<blockquote><p>I'm thankful for people who still dare to believe in big ideas, like Sir Richard Branson. Despite what sensible economists and naysayers tell him, he still believes space tourism will become a viable industry, and he's put his money behind those beliefs in Virgin Galactic Space Tourism Co. This winter, test flights begin on the company's mother ship, the White Knight Two. Space tourism doesn't make sense, but neither did landing on the moon decades ago, or powered flight a little more than 100 years ago. I hope Branson will be as stubborn as the Wright Brothers and John F. Kennedy were.</p></blockquote>
-<p>What are you grateful for?</p>
+Here is a quote from someone grateful for rich people.
+<blockquote><p>I'm thankful for people who still dare to believe in big ideas, like Sir Richard Branson. Despite what sensible economists and naysayers tell him, he still believes space tourism will become a viable industry, and he's put his money behind those beliefs in Virgin Galactic Space Tourism Co. This winter, test flights begin on the company's mother ship, the White Knight Two. Space tourism doesn't make sense, but neither did landing on the moon decades ago, or powered flight a little more than 100 years ago. I hope Branson will be as stubborn as the Wright Brothers and John F. Kennedy were.</blockquote>
+<p>What are you grateful for?

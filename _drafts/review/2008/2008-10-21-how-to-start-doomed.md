@@ -19,11 +19,11 @@ meta:
   _wp_rp_image: empty
 permalink: "/how-to-start-doomed/"
 ---
-When I saw this comic I had to laugh.</p>
+When I saw this comic I had to laugh.
 <p style="text-align: center;"><a href="http://www.whattheduck.net/" rel="nofollow"><img class="aligncenter size-medium wp-image-1191" title="wtd129" src="https://christopher-sherrod.blisslifepress.com/wp-content/uploads/sites/2/wtd129.jpg" alt="" / rel="nofollow"/></a>
 
 It is not only photographers but every business that has some people doing this.  You're doomed if a vast majority of cases if you quit your old job and buy a bunch of gear/gadgets/equipment and then start your business.
 
 It's not the gear, it's you.  There are highly paid fashion photographers that use a very inexpensive cameras.  One even uses throwaway cameras.  It's how you use it that counts.  Start with the basics for your industry and move forward with that.  Then get your business to buy only the necessary upgrades or stuff that you need to do a project.  As you learn you may find out that some items are simply not needed or you clients don't care about it.  Follow the money.
 
-Check out all the comics at <a href="http://www.whattheduck.net" rel="nofollow">What The Duck</a>.</p>
+Check out all the comics at <a href="http://www.whattheduck.net" rel="nofollow">What The Duck</a>.

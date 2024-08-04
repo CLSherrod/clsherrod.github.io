@@ -30,4 +30,4 @@ They don't know that I know. They don't know I have that client. I'm very discre
 
 So I'm sometimes at a group function or party and there is a hacker that hacked a client of mine. I have to be nice and pretend that I don't have a clue. I have to be like Switzerland. Outing people in a big group is just going to embarrass them and mostly likely have them attacking you. It won't end pleasantly.
 
-Look into your own business and see if acting like Switzerland is a match. If you are providing any type of service I bet it aligns with you very well.</p>
+Look into your own business and see if acting like Switzerland is a match. If you are providing any type of service I bet it aligns with you very well.

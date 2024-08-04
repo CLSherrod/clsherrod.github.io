@@ -25,4 +25,4 @@ I see that happening for Internet Marketers.&#160; The time of easily making mon
 
 Take your business seriously.&#160; Don't hide behind your website.&#160; Don't produce brain dead junk and dumb down the Internet.&#160; Take your passion, create value, build relationship, sell your items in the context of creating value.
 
-Participate in the value revolution.</p>
+Participate in the value revolution.

@@ -28,4 +28,4 @@ People with a lot of money to get started in business scare me.  I've just seen
 
 If you are having to quit your job then you really don't want to do anything with a large capital outlay.  Find money streams that will start making you money right away.  Like starting a service where you trade money for time and then move into products as you make money.
 
-Find some that can give you money immediately for what you are selling.  Don't waste any time planning endlessly.  Find a problem and solve it.  Rinse and repeat.</p>
+Find some that can give you money immediately for what you are selling.  Don't waste any time planning endlessly.  Find a problem and solve it.  Rinse and repeat.

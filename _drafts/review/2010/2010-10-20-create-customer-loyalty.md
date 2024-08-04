@@ -29,7 +29,7 @@ The brand is you or your company and what it stands for. It's your attitude, you
 
 When your brand and products are aligned and make sense to your target audience then it clicks. People align with your brand and when you have that you have the opportunity to create great and long lasting customer loyalty.
 
-They love you, they think your products rock and when you come out with something new they want it. Some clients buy things in some stores just for the shopping experience they actual product is a minor part of it, but the product is awesome. The experience is awesome on steroids.</p>
+They love you, they think your products rock and when you come out with something new they want it. Some clients buy things in some stores just for the shopping experience they actual product is a minor part of it, but the product is awesome. The experience is awesome on steroids.
 <ul>
 <li>Do something unexpected.</li>
 <li>Communicate, I know simple thing but many companies don't do this</li>
@@ -44,4 +44,4 @@ They love you, they think your products rock and when you come out with somethin
 </ul>
 <p>If you haven’t started or are stuck and need help defining your brand call me. I do online brand analysis’ now and I can stream line your brand and your product mix. Give me a call at 512-772-2798.
 
-Have something that would make yourself proud that you created and treat your customers like family (minus the fights) and you'll have life long customer loyalty.</p>
+Have something that would make yourself proud that you created and treat your customers like family (minus the fights) and you'll have life long customer loyalty.

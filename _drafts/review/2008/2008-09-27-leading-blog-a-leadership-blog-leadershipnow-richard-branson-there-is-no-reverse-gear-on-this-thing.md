@@ -24,6 +24,6 @@ permalink: "/leading-blog-a-leadership-blog-leadershipnow-richard-branson-there-
 ---
 <img class="alignright" src="{{ site.baseurl }}/posts/2008/09/9781905264421sm.jpg" alt="" width="80" height="120" />
 
-I love this quote.</p>
-<blockquote><p>There are many ways to run a successful company. What works once may never work again. What everyone tells you never to do may just work, once. There are no rules. You don’t learn to walk by following rules. You learn by doing, and by falling over, and it’s because you fall over that you learn to save yourself from falling over. It’s the greatest thrill in the world and it runs away screaming at the first sight of bullet points….So all I can do for you now is map the territory I’ve seen. The good news is, I’ve covered a lot of territory.</p></blockquote>
+I love this quote.
+<blockquote><p>There are many ways to run a successful company. What works once may never work again. What everyone tells you never to do may just work, once. There are no rules. You don’t learn to walk by following rules. You learn by doing, and by falling over, and it’s because you fall over that you learn to save yourself from falling over. It’s the greatest thrill in the world and it runs away screaming at the first sight of bullet points….So all I can do for you now is map the territory I’ve seen. The good news is, I’ve covered a lot of territory.</blockquote>
 <p><a href="http://www.leadershipnow.com/leadingblog/2008/09/richard_branson_there_is_no_re.html" rel="nofollow">Leading Blog: A Leadership Blog @ LeadershipNow: Richard Branson: There Is No Reverse Gear On This Thing</a></p>

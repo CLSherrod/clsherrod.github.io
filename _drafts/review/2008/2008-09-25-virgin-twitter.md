@@ -48,4 +48,4 @@ I'm his biggest fan...no really I'm serious.  I read everything he writes, eve
 
 When I was looking at the twitter reply from virgindotcom I started remembering memories of having my picture taken in front of Virgin Mega store in Paris on the Champs-Élysées last summer, looking thru the windows of the Virgin Mega store in London (it was very late), browsing the Virgin Mega store next to the Louvre in Paris and Rennes France this last summer.  I then started having visions of meeting Richard Branson in person or even just talking to him on the phone.
 
-Today is a great day.</p>
+Today is a great day.

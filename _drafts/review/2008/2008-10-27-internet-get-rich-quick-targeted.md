@@ -47,4 +47,4 @@ You need the following items to have a profitable online business:</p>
 </ul>
 <p>Having bad customer service which a lot of Internet Markets have is one of the biggest problems I see.  If you are banning people's IP address, manually unsubscribing people, black listing people and ignoring all support emails that are negative then you have a problem.  You are ignoring your client and it just takes one to complain to a government department and an official to make you into a case and you are in serious trouble.
 
-Be careful who you promote and do business ethically.  Be trueful about what you can do and help people as much as possible.  You can easily start your business and succeed if you have the desire just don't let the get rich quick people get you off track.</p>
+Be careful who you promote and do business ethically.  Be trueful about what you can do and help people as much as possible.  You can easily start your business and succeed if you have the desire just don't let the get rich quick people get you off track.

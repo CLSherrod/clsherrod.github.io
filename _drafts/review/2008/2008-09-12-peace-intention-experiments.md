@@ -28,4 +28,4 @@ On September 14, 2008 will see the start of the first in a series of Peace Inten
 
 If you have read her book or know someone that has you know how these intentional experiments really work.Â  It's amazing.
 
-Join me at <a href="http://www.thepeaceintentionexperiment.com/" rel="nofollow">ThePeaceintentionExperiment.com</a> and lets's intend peace.</p>
+Join me at <a href="http://www.thepeaceintentionexperiment.com/" rel="nofollow">ThePeaceintentionExperiment.com</a> and lets's intend peace.

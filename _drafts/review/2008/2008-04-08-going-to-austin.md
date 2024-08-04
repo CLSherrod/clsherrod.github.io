@@ -45,4 +45,4 @@ The Warrior Forum is the most famous gathering place online for Internet markete
 
 I'll be hanging out with Craig Perrine the Maverick Marketer probably over a great bottle of wine and I'm going to dinner with Keith Wilke of Nitro Marketing.  Come along.
 
-Hope you can make it.  Say hi.</p>
+Hope you can make it.  Say hi.

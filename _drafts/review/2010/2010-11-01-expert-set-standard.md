@@ -26,4 +26,4 @@ When you are setting the standard and focusing on being the best, people notice.
 
 Be the person that people compare to. Do your best and provide an experience that everyone else strives for.
 
-Set the standard. That's an expert. That's something you can build a brand on.</p>
+Set the standard. That's an expert. That's something you can build a brand on.
