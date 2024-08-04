@@ -3,7 +3,6 @@ title: How To Retire - A simple system that works
 date: 2009-10-02 03:09:27.000000000 -05:00
 published: true
 categories:
-- Entrepreneurship
 - Essays
 tags:
 - Retirement

@@ -1,24 +1,11 @@
 ---
 title: How To Create Customer Loyalty
-date: 2010-10-20 22:00:00.000000000 -05:00
+date: 2010-10-20
 published: true
 categories:
 - Essays
 tags:
-- business
-meta:
-  _edit_last: '1'
-  _sexybookmarks_permaHash: 43de5d9cf56140daeb3fe7f884389dcc
-  _sexybookmarks_shortUrl: http://b2l.me/azrfna
-  dsq_thread_id: '159753282'
-  _nectar_love: '0'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1491431654;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:3229;}i:1;a:1:{s:2:"id";i:3251;}i:2;a:1:{s:2:"id";i:1313;}}}}
-  _wpas_done_all: '1'
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  nectar_blog_post_view_count: '166'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524884644'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1142";s:5:"score";s:15:"68.398043674659";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"1436";s:5:"score";s:17:"66.32886281491139";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"39";s:5:"score";s:17:"62.49898923633559";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1411";s:5:"score";s:18:"61.403521798371806";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"8086";s:5:"score";s:18:"53.246244449074986";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"7786";s:5:"score";s:18:"53.246244449074986";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1387";s:5:"score";s:17:"51.01480893593289";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"1313";s:5:"score";s:17:"25.17957079741066";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1187";s:5:"score";s:17:"24.53640354922007";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"3251";s:5:"score";s:16:"19.0877267613221";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"3234";s:5:"score";s:16:"19.0877267613221";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"1170";s:5:"score";s:18:"17.715369738946283";}}
-  _wp_rp_image: empty
+- branding
 permalink: "/create-customer-loyalty/"
 ---
 The times of having quicky products, products that are for a lack of a better word "crap" are over. People won't put up with bad products anymore. You're probably thinking people use to? Yeah, I've meet many millionaires that sold horrible products. They realized that the tide changed and started making great products. If you're starting out you don't have a choice, you have to have a great product or service.

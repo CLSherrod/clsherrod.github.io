@@ -4,7 +4,8 @@ date: 2009-10-14 23:00:25.000000000 -05:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   _edit_last: '1'
   podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
@@ -31,11 +32,11 @@ I've also had joint ventures where I did most of my work up front and my partner
 
 Takeaways:</p>
 <ol>
-<li>Be nice and point out the problem. A vast majority of people would gladly correct the problem. Stick to your guns if you know you are right. Admit wrong doing if you have made a mistake. It's always best.</li>
-<li>If they are not taking the situation seriously then make then understand the seriousness of the it.</li>
-<li>Keep any single client to only 10% or less of your business so if they start demanding things that are unreasonable you can easily fire them and not be financially dependent on them.</li>
-<li>Fix things quickly instead of slowly. Problems dragged out never end well. Better to cut the deal and move on.</li>
-<li>Recover your costs from ex-partner and outsource the handling of it so it doesn't take any of your energy</li>
+- Be nice and point out the problem. A vast majority of people would gladly correct the problem. Stick to your guns if you know you are right. Admit wrong doing if you have made a mistake. It's always best.
+- If they are not taking the situation seriously then make then understand the seriousness of the it.
+- Keep any single client to only 10% or less of your business so if they start demanding things that are unreasonable you can easily fire them and not be financially dependent on them.
+- Fix things quickly instead of slowly. Problems dragged out never end well. Better to cut the deal and move on.
+- Recover your costs from ex-partner and outsource the handling of it so it doesn't take any of your energy
 </ol>
 <p>I hope you get hurt in the future. Not because I want you to have pain but because I know you will be growing and having successes.
 

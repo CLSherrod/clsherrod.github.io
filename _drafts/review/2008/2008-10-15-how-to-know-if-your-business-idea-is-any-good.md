@@ -3,9 +3,9 @@ title: How To Know If Your Business Idea Is Any Good
 date: 2008-10-15 23:54:34.000000000 -05:00
 published: true
 categories:
-- Entrepreneurship
 - Essays
-tags: []
+tags:
+- business
 meta:
   aktt_tweeted: '1'
   _sexybookmarks_shortUrl: http://b2l.me/4s8a8

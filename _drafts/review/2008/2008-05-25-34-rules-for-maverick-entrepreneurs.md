@@ -4,7 +4,8 @@ date: 2008-05-25 23:06:33.000000000 -05:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
   _edit_last: '1'

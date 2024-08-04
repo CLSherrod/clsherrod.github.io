@@ -43,21 +43,21 @@ So how do you keep social in social media and still make money?  By being conve
 The most common clicked tweets are statements and opening questions.  Using the word best, most, great, worst and how to helped a lot as well.  Just like blog post titles using these words create a lot of interest and people will click to read about it.
 <h3>Tips for staying social:</h3>
 <ul>
-<li>Follow people who are in your niche</li>
-<li>Meet others that have lists and can promote your product</li>
-<li>Connect with other like you</li>
-<li>Make friends and be genuine about it other social networking is not for you</li>
-<li>Tweet cool web sites and resources</li>
-<li>Don't argue with people</li>
-<li>Don’t use it for refund or disputes, call the company or person directly</li>
-<li>Learn the art of the RT which stand for “retweet”.  When you retweet you are sharing that tweet with your list so they can see it.  If you share someone's tweet they might share yours in the future.</li>
-<li>Anything will be retweeted so write only things that you will be happy if retweeted</li>
-<li>Watch people for at least a week before you get very active on twitter to learn what and how to do things.</li>
-<li>Give first.  Offer to promote them before asking for them to promote you.</li>
-<li>Offer viral ebooks and reports on Twitter.  A little report gets a better chance of retweeting than a big product.</li>
-<li>Do not send a lot of messages without the @ symbol.  The @ symbol gets you involved in your followers.</li>
-<li>Twitter from you mobile phone.</li>
-<li>Inspire people to pursue what they know</li>
+- Follow people who are in your niche
+- Meet others that have lists and can promote your product
+- Connect with other like you
+- Make friends and be genuine about it other social networking is not for you
+- Tweet cool web sites and resources
+- Don't argue with people
+- Don’t use it for refund or disputes, call the company or person directly
+- Learn the art of the RT which stand for “retweet”.  When you retweet you are sharing that tweet with your list so they can see it.  If you share someone's tweet they might share yours in the future.
+- Anything will be retweeted so write only things that you will be happy if retweeted
+- Watch people for at least a week before you get very active on twitter to learn what and how to do things.
+- Give first.  Offer to promote them before asking for them to promote you.
+- Offer viral ebooks and reports on Twitter.  A little report gets a better chance of retweeting than a big product.
+- Do not send a lot of messages without the @ symbol.  The @ symbol gets you involved in your followers.
+- Twitter from you mobile phone.
+- Inspire people to pursue what they know
 </ul>
 <p>Do not twitter all day long.  Use Twitter and don't let it control you.  Otherwise you wind up like that person in the video above which will just annoy your followers.</div>
 <p>If you’d like to “follow” me, just check out <a id="drz3" title="my twitter page" href="http://www.twitter.com/EagleChris" target="_blank" rel="nofollow">my twitter page</a> and click on follow.  See you online.

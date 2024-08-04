@@ -4,7 +4,8 @@ date: 2008-03-18 21:00:15.000000000 -06:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   _nectar_love: '0'
   _sexybookmarks_shortUrl: http://b2l.me/42kte

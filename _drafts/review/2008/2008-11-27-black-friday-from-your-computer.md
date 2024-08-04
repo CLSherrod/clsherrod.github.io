@@ -4,7 +4,8 @@ date: 2008-11-27 23:03:38.000000000 -06:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   aktt_notify_twitter: 'no'
   _edit_last: '1'
@@ -25,8 +26,8 @@ The first time I went out of the house on Black Friday I had no idea it was the 
 
 Even though I can do crowds now I don't like wasting my time in lines so I get online.  Here are some great Black Friday deal hunter websites.  Enjoy.
 <ul>
-<li><a href="http://www.blackfriday.info/" rel="nofollow">http://www.blackfriday.info/</a></li>
-<li><a href="http://www.black-friday.net" rel="nofollow">http://www.black-friday.net</a></li>
-<li><a href="http://bfads.net/" rel="nofollow">http://bfads.net/</a></li>
-<li><a href="http://tgiblackfriday.com/" rel="nofollow">http://tgiblackfriday.com/</a></li>
+- <a href="http://www.blackfriday.info/" rel="nofollow">http://www.blackfriday.info/</a>
+- <a href="http://www.black-friday.net" rel="nofollow">http://www.black-friday.net</a>
+- <a href="http://bfads.net/" rel="nofollow">http://bfads.net/</a>
+- <a href="http://tgiblackfriday.com/" rel="nofollow">http://tgiblackfriday.com/</a>
 </ul>

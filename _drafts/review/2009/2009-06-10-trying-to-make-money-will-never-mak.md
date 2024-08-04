@@ -3,7 +3,6 @@ title: Trying to make money will never make you rich
 date: 2009-06-10 08:26:07.000000000 -05:00
 published: true
 categories:
-- Entrepreneurship
 - Essays
 tags:
 - business

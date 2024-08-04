@@ -4,7 +4,8 @@ date: 2008-10-30 02:31:48.000000000 -06:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   _edit_last: '1'
   aktt_tweeted: '1'

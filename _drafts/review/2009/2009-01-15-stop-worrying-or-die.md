@@ -4,7 +4,8 @@ date: 2009-01-15 23:20:34.000000000 -06:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   aktt_notify_twitter: 'no'
   _edit_last: '1'
@@ -31,8 +32,8 @@ So how do you stop worrying.  I like pattern interrupts.  Music, walking, and 
 
 Here are some links to other ways to stop worrying:</p>
 <ul>
-<li><a href="http://www.anxietyculture.com/worry.htm" rel="nofollow">Anxiety Culture</a></li>
-<li><a href="http://www.helpguide.org/mental/anxiety_self_help.htm" rel="nofollow">Self-Help for Anxiety Relief</a></li>
-<li><a href="http://www.westegg.com/unmaintained/carnegie/stop-worry.html" rel="nofollow">Dale Carnegie</a></li>
+- <a href="http://www.anxietyculture.com/worry.htm" rel="nofollow">Anxiety Culture</a>
+- <a href="http://www.helpguide.org/mental/anxiety_self_help.htm" rel="nofollow">Self-Help for Anxiety Relief</a>
+- <a href="http://www.westegg.com/unmaintained/carnegie/stop-worry.html" rel="nofollow">Dale Carnegie</a>
 </ul>
 <p>If you want to <a href="http://flickr.com/photos/eaglechris/1008055669/" rel="nofollow">favorite my photo</a> go for it.

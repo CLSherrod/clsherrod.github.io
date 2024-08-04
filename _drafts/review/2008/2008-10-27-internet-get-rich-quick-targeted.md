@@ -32,18 +32,18 @@ Be careful and do business ethically.  Don't let greed grab your head and lead 
 
 You need the following items to have a profitable online business:</p>
 <ul>
-<li>****Having a high quality product or service to sell</li>
-<li>****Selling your product or service at a reasonable price</li>
-<li>****Having a business plan and some idea of how to implement it</li>
-<li>****Providing outstanding customer support and service</li>
-<li>****Having a target audience and a strong marketing strategy</li>
+- ****Having a high quality product or service to sell
+- ****Selling your product or service at a reasonable price
+- ****Having a business plan and some idea of how to implement it
+- ****Providing outstanding customer support and service
+- ****Having a target audience and a strong marketing strategy
 </ul>
 <p>And you need to focus on:</p>
 <ul>
-<li>Pick a profitable niche that you love.</li>
-<li>Create a web site for that niche.</li>
-<li>Gather targeted traffic to that web site.</li>
-<li>Convert the traffic into paying clients.</li>
+- Pick a profitable niche that you love.
+- Create a web site for that niche.
+- Gather targeted traffic to that web site.
+- Convert the traffic into paying clients.
 </ul>
 <p>Having bad customer service which a lot of Internet Markets have is one of the biggest problems I see.  If you are banning people's IP address, manually unsubscribing people, black listing people and ignoring all support emails that are negative then you have a problem.  You are ignoring your client and it just takes one to complain to a government department and an official to make you into a case and you are in serious trouble.
 

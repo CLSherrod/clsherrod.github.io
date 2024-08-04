@@ -4,7 +4,8 @@ date: 2009-01-06 01:26:11.000000000 -06:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   aktt_notify_twitter: 'yes'
   _edit_last: '1'
@@ -40,9 +41,9 @@ You can also buy and download tv shows and movies using iTunes.  Plus you can r
 <h2>Up on the big screen</h2>
 <p>You can also use a media center to get your online content up on your big screen tv.  There are many options for having a media center as it is basically a computer with high end video.
 <ul>
-<li><a href="http://www.apple.com/appletv/" rel="nofollow">Apple TV</a> redefines what your TV can do.  Rent HD movies. Buy HD TV shows. Listen to your iTunes music. Watch podcasts. Even show off your photos.  Anything on iTunes you can listen or watch on your big screen.</li>
-<li>Another alternative to Apple TV is <a href="http://www.mythtv.org/" rel="nofollow">MythTV</a>.  MythTV is a free Linux application which turns a computer with the necessary hardware into a network streaming digital video recorder, a digital multimedia home entertainment system, or Home Theater Personal Computer. It can be considered as a free and open source alternative to Tivo or Windows Media Center.</li>
-<li>Windows Media Center is the Microsoft version.</li>
+- <a href="http://www.apple.com/appletv/" rel="nofollow">Apple TV</a> redefines what your TV can do.  Rent HD movies. Buy HD TV shows. Listen to your iTunes music. Watch podcasts. Even show off your photos.  Anything on iTunes you can listen or watch on your big screen.
+- Another alternative to Apple TV is <a href="http://www.mythtv.org/" rel="nofollow">MythTV</a>.  MythTV is a free Linux application which turns a computer with the necessary hardware into a network streaming digital video recorder, a digital multimedia home entertainment system, or Home Theater Personal Computer. It can be considered as a free and open source alternative to Tivo or Windows Media Center.
+- Windows Media Center is the Microsoft version.
 </ul>
 <p>I haven't made the move to a media center yet but I'm looking into it.
 

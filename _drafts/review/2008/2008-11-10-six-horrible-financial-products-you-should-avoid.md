@@ -4,7 +4,8 @@ date: 2008-11-10 01:03:08.000000000 -06:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   _sexybookmarks_shortUrl: http://b2l.me/4ta4a
   _sexybookmarks_permaHash: b39b8feb5522a5f06b09470704e7fe81

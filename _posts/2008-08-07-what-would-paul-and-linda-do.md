@@ -3,8 +3,6 @@ title: What would Paul and Linda do?
 date: 2008-08-07
 published: true
 categories:
-- Entrepreneurship
-- Mindset
 - Essays
 tags:
 - love

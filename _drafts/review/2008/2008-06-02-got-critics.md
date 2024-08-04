@@ -6,7 +6,8 @@ categories:
 - Entrepreneurship
 - Mindset
 - Essays
-tags: []
+tags:
+- business
 meta:
   tie_hide_related: ''
   tie_sidebar_post: ''

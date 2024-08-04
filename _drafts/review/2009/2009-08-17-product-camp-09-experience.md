@@ -4,7 +4,8 @@ date: 2009-08-17 11:06:18.000000000 -05:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   aktt_tweeted: '1'
   aktt_notify_twitter: 'yes'

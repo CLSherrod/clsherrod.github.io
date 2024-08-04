@@ -24,13 +24,13 @@ permalink: "/my-prosperity-laptop/"
 
 I bought two cards decks at a couple of bookstores and then picked out the ones that most fit what I wanted.
 <ul>
-<li>Focus on opportunities</li>
-<li>Solve problems for people</li>
-<li>Associate with successful people</li>
-<li>Get support or create a team</li>
-<li>I have an attitude of gratitude</li>
-<li>I choose thoughts that support my prosperous future</li>
-<li>I am earning an excellent income doing what I love</li>
-<li>I trust that my inner guidance will lead me to my dreams</li>
+- Focus on opportunities
+- Solve problems for people
+- Associate with successful people
+- Get support or create a team
+- I have an attitude of gratitude
+- I choose thoughts that support my prosperous future
+- I am earning an excellent income doing what I love
+- I trust that my inner guidance will lead me to my dreams
 </ul>
 <p>Where do you post what you want?  Share in the comments.

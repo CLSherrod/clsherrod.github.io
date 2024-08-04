@@ -4,7 +4,8 @@ date: 2008-12-04 23:00:34.000000000 -06:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   aktt_notify_twitter: 'yes'
   _edit_last: '1'
@@ -30,21 +31,21 @@ What makes no sense is why I was unfollowed and blocked on twitter and facebook 
 
 So what is the lesson out of all this?
 <ul>
-<li> When people are upset don't "talk" via email.  Upset people read emails and think they mean something entirely different from what the person wrote.  I personally switch from email to phone after two tense emails, I think it should be one if it is especially bad.</li>
-<li>Talking things through works much better.</li>
-<li>Threatening that you'll unleash an attack never seen before is immature.  Telling someone that they are barred from talking to you is immature.  Let's be adults and talk things thru.</li>
-<li>Blocking people that have nothing to do with a conflict just makes you look like the one at fault and is rude.</li>
-<li>Sending personal accounting details to someone not involved is an evasion of privacy and simply rude. (To my friend, I didn't read it and was shocked when I got it)</li>
-<li>Don't get involved in other people's conflicts if you know any of them unless asked.  People will think you are biased.  Suggest a mediator instead which I did, no response yet.</li>
-<li>Pick your fights.  If you believe they will get extremely upset and start spreading rumors and it isn't worth pursing the matter then just drop it and move on.</li>
+-  When people are upset don't "talk" via email.  Upset people read emails and think they mean something entirely different from what the person wrote.  I personally switch from email to phone after two tense emails, I think it should be one if it is especially bad.
+- Talking things through works much better.
+- Threatening that you'll unleash an attack never seen before is immature.  Telling someone that they are barred from talking to you is immature.  Let's be adults and talk things thru.
+- Blocking people that have nothing to do with a conflict just makes you look like the one at fault and is rude.
+- Sending personal accounting details to someone not involved is an evasion of privacy and simply rude. (To my friend, I didn't read it and was shocked when I got it)
+- Don't get involved in other people's conflicts if you know any of them unless asked.  People will think you are biased.  Suggest a mediator instead which I did, no response yet.
+- Pick your fights.  If you believe they will get extremely upset and start spreading rumors and it isn't worth pursing the matter then just drop it and move on.
 </ul>
 <p>I believe all conflict can be eliminated if people will communication and all conflict is a lack of communication.
 
 On a side note that may or may not have anything to do with this particular case:</p>
 <ul>
-<li> Not transferring money because you owe the another person money is a form of money laundering.  I've seen people do this on a much much bigger scale and go to jail.  Just pay what is owed and let the dollars fall where they be.  Tax collectors don't like it either.</li>
-<li>Use affiliate links when doing business with partners at all times, no matter what.  Claiming people are your sales and you didn't use an affiliate link is bad business.</li>
-<li>Refusing to send an accounting report for weeks doesn't help.</li>
+-  Not transferring money because you owe the another person money is a form of money laundering.  I've seen people do this on a much much bigger scale and go to jail.  Just pay what is owed and let the dollars fall where they be.  Tax collectors don't like it either.
+- Use affiliate links when doing business with partners at all times, no matter what.  Claiming people are your sales and you didn't use an affiliate link is bad business.
+- Refusing to send an accounting report for weeks doesn't help.
 </ul>
 <p>Blocking people on twitter is almost worthless as you can to to their twitter feed on twitter.com/ and then their username.  People can still put you in replies on twitter.  It does remove people from being able to direct message you when you block them.
 

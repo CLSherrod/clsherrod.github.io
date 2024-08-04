@@ -4,7 +4,8 @@ date: 2008-03-05 06:00:04.000000000 -06:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 permalink: "/ten-reasons-to-adopt-the-law-of-gratitude/"
 ---
 Â Amirah wrote this article about the ten reasons to adopt the law of gratitude.Â  The last reason is my favorite.

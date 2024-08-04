@@ -4,7 +4,8 @@ date: 2008-04-01 22:37:56.000000000 -06:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
   _edit_last: '1'
@@ -44,8 +45,8 @@ In my newest  book,  ***The Spontaneous Healing of Belief: Shattering The Paradi
 
 To fully embrace the power of this code in our lives we must:</p>
 <ol>
-<li>Understand how it works.</li>
-<li>Speak the language that it recognizes</li>
+- Understand how it works.
+- Speak the language that it recognizes
 </ol>
 </blockquote>
 <blockquote><p> ***The Spontaneous Healing of Belief** * provides you with  the keys to do both. Between 1998 and 2005, my journeys into the remote  monasteries of Egypt and Tibet revealed the ancient manuscripts, and the living  practices, that have preserved the techniques of heart-based belief for over  2,500 years. Supported by today's science, I will share what I found and  describe how a change in your perception holds the timeless secret to healing,  peace, and even reality itself!</p></blockquote>
@@ -53,10 +54,10 @@ To fully embrace the power of this code in our lives we must:</p>
 
 Take advantage of this limited-time book launch offer and you will receive:</p>
 <ul>
-<li>receive an entire program of content from Gregg Braden</li>
-<li>be entered to win a trip to Las Vegas to see Gregg Braden LIVE</li>
-<li>be entered to win additional prizes from Hay House</li>
-<li>receive access to gifts from some of your favorite Hay House authors</li>
-<li>receive access to gifts, products and services from our sponsors</li>
+- receive an entire program of content from Gregg Braden
+- be entered to win a trip to Las Vegas to see Gregg Braden LIVE
+- be entered to win additional prizes from Hay House
+- receive access to gifts from some of your favorite Hay House authors
+- receive access to gifts, products and services from our sponsors
 </ul>
 <p>I have a <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">bonus</a> available after you purchase the book named  *Above All Is Love * with a special link inside it.Â  Check it out at <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">Gregg Braden - Spontaneous Healing</a>.

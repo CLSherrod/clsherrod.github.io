@@ -4,7 +4,8 @@ date: 2008-11-18 01:25:21.000000000 -06:00
 published: true
 categories:
 - Essays
-tags: []
+tags:
+- business
 meta:
   aktt_notify_twitter: 'no'
   _edit_last: '1'
@@ -27,14 +28,14 @@ If you're looking for a book that can show you how to attract miracles in your l
 
 You'll learn...
 <ul>
-<li> How to use a five-step system for attracting any kind of miracle</li>
-<li> Why you need to avoid fear if you want to attract miracles</li>
-<li> How to eliminate counter-intentions that will block you from achieving goals</li>
-<li> The exact method for getting clear about what you want</li>
-<li> How to forgive anyone for anything and get on with your life</li>
-<li> How your mind works (it may surprise you)</li>
-<li> Ways to go from indecision to focused intention</li>
-<li> The importance of gratitude for what you already have and how it plays into what you will attract in your life</li>
+-  How to use a five-step system for attracting any kind of miracle
+-  Why you need to avoid fear if you want to attract miracles
+-  How to eliminate counter-intentions that will block you from achieving goals
+-  The exact method for getting clear about what you want
+-  How to forgive anyone for anything and get on with your life
+-  How your mind works (it may surprise you)
+-  Ways to go from indecision to focused intention
+-  The importance of gratitude for what you already have and how it plays into what you will attract in your life
 </ul>
 <p>You'll also get story after story about other people who've attracted miracles in their life, like my story.
 
