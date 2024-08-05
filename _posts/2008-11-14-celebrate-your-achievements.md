@@ -3,7 +3,6 @@ title: Celebrate your achievements
 date: 2008-11-14
 published: true
 categories:
-- Mindset
 - Essays
 tags:
 - abundance
