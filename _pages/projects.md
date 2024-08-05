@@ -59,7 +59,8 @@ Presenter of my business theory that you need to start a business based on what 
 
 Consulting on getting online that turned into website hosting for a time and current web agency and maintenance firm. Works with referrals only.
 - 2024 - Added Static Web Framework Development
-- 2022 - Added custom graphic design
+- 2022 - Added custom art design
+- 2018 - Added WooCommerce shop setup & maintenance
 - 2015 - [Won A Publishing Award](/publishing-award/)
 - 2007 - Added WordPress Development
 - 1999 - HTML Web Development
