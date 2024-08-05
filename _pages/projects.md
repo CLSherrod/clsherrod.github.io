@@ -32,7 +32,7 @@ Weekly newsletter educating people in the expat niche.
 
 I'm a musician and artist known as Chr1stopher.
 
-**2012 - [DateNightSpinner](/date-night-spinner/)**
+**2012 - [Date Night Spinner](/date-night-spinner/)**
 
 I believe no matter how old your relationship is you still need to set aside at least one night a week for a date night. 
 
@@ -44,7 +44,9 @@ Minority investor in one of my previous clients.
 
 Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
 
-**2008 [Consolidated several websites into ChristopherSherrod.com](/welcome/)**
+**2008 [Consolidated several blogs](/welcome/)**
+
+Consolidated several website blogs on here ChristopherSherrod.com
 
 **2007 - 2012 Speaker**
 
