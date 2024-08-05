@@ -7,7 +7,7 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Sunday August 4th, 2024.
+Updated on Monday August 5th, 2024.
 
 ## Currently Doing
 I'm a writer. I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot). Currently learning how to turn markdown files into book formats.
