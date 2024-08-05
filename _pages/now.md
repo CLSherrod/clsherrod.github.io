@@ -19,6 +19,7 @@ I'm a writer. I’m currently writing a book about my [electromagnetic hypersens
 - [Customer Relationship Management Markdown](/crm)
 - [Gardening Project Managment Markdown](/gardening)
 - I publish an [expat newsletter](/expatrebel).
+- [Date Night Spinner](/date-night-spinner)
 - I operate a [web design firm](/whodefinesyou) on referrals only.
 
 ## Previous Projects
