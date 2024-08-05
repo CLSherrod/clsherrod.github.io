@@ -1,6 +1,6 @@
 ---
 title: Branson's doctor in the house
-date: 2008-07-29 01:05:08.000000000 -05:00
+date: 2008-07-29 01:05:08
 published: true
 categories:
 - Essays

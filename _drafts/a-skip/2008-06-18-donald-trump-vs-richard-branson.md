@@ -1,6 +1,6 @@
 ---
 title: Donald Trump vs. Richard Branson
-date: 2008-06-18 05:11:39.000000000 -05:00
+date: 2008-06-18 05:11:39
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: 'Customer Satisfaction: Time is Precious'
-date: 2008-08-27 01:07:49.000000000 -05:00
+date: 2008-08-27 01:07:49
 published: true
 categories:
 - Essays

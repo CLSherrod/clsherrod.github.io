@@ -1,6 +1,6 @@
 ---
 title: How to brand yourself between websites
-date: 2009-07-29 04:28:28.000000000 -05:00
+date: 2009-07-29 04:28:28
 published: true
 categories:
 - Essays

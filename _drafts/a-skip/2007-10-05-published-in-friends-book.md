@@ -1,6 +1,6 @@
 ---
 title: Published in friend's book
-date: 2007-10-05 05:12:43.000000000 -05:00
+date: 2007-10-05 05:12:43
 published: true
 categories:
 - Essays

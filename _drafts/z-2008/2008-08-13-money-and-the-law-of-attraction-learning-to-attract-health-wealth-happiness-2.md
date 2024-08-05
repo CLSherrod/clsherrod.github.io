@@ -1,6 +1,6 @@
 ---
 title: 'Money and The Law of Attraction: Learning to Attract Health, Wealth & Happiness'
-date: 2008-08-13 22:00:35.000000000 -05:00
+date: 2008-08-13 22:00:35
 published: true
 categories:
 - Entrepreneurship

@@ -1,6 +1,6 @@
 ---
 title: There Is No Reverse Gear On This Thing
-date: 2008-09-27 03:09:59.000000000 -05:00
+date: 2008-09-27 03:09:59
 published: true
 categories:
 - Essays

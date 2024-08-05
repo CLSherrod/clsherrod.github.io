@@ -1,6 +1,6 @@
 ---
 title: 'Early Birthday Party #1'
-date: 2008-04-20 20:00:11.000000000 -05:00
+date: 2008-04-20 20:00:11
 published: true
 categories:
 - Essays

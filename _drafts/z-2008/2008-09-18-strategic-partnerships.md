@@ -1,6 +1,6 @@
 ---
 title: Strategic partnerships
-date: 2008-09-18 22:43:19.000000000 -05:00
+date: 2008-09-18 22:43:19
 published: true
 categories:
 - Essays

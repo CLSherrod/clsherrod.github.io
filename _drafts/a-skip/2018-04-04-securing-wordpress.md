@@ -1,6 +1,6 @@
 ---
 title: Securing WordPress 2018
-date: 2018-04-04 10:26:46.000000000 -05:00
+date: 2018-04-04 10:26:46
 published: true
 categories:
 - Entrepreneurship

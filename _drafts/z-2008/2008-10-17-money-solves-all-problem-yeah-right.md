@@ -1,6 +1,6 @@
 ---
 title: Money solves all problems, yeah right
-date: 2008-10-17 23:46:02.000000000 -05:00
+date: 2008-10-17 23:46:02
 published: true
 categories:
 - Essays

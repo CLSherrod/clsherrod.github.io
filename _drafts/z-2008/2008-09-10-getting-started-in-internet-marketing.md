@@ -1,6 +1,6 @@
 ---
 title: Getting started in Internet Marketing
-date: 2008-09-10 00:51:18.000000000 -05:00
+date: 2008-09-10 00:51:18
 published: true
 categories:
 - Essays

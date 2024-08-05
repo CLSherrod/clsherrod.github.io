@@ -1,6 +1,6 @@
 ---
 title: Multiplying Output in Groups Plus
-date: 2008-08-24 23:00:06.000000000 -05:00
+date: 2008-08-24 23:00:06
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Prosperity Games Party
-date: 2007-06-17 23:00:28.000000000 -05:00
+date: 2007-06-17 23:00:28
 published: true
 categories:
 - Essays

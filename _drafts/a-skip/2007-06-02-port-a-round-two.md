@@ -1,6 +1,6 @@
 ---
 title: Port A Round Two
-date: 2007-06-02 08:34:54.000000000 -05:00
+date: 2007-06-02 08:34:54
 published: true
 categories:
 - Essays

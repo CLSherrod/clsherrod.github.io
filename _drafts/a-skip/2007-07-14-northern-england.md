@@ -1,6 +1,6 @@
 ---
 title: Northern England
-date: 2007-07-14 12:11:16.000000000 -05:00
+date: 2007-07-14 12:11:16
 published: true
 categories:
 - Essays

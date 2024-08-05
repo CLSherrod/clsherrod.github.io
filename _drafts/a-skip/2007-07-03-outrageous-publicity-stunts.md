@@ -1,6 +1,6 @@
 ---
 title: Outrageous publicity stunts!
-date: 2007-07-03 10:56:17.000000000 -05:00
+date: 2007-07-03 10:56:17
 published: true
 categories:
 - Essays

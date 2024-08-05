@@ -1,6 +1,6 @@
 ---
 title: Lovely - Music Video
-date: 2018-04-19 10:00:36.000000000 -05:00
+date: 2018-04-19 10:00:36
 published: true
 categories:
 - My Art

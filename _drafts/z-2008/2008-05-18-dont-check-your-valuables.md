@@ -1,6 +1,6 @@
 ---
 title: Don't Check Your Valuables
-date: 2008-05-18 22:00:13.000000000 -05:00
+date: 2008-05-18 22:00:13
 published: true
 categories:
 - Essays

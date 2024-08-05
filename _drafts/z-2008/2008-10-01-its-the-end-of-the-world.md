@@ -1,6 +1,6 @@
 ---
 title: It's the end of the world
-date: 2008-10-01 02:56:44.000000000 -05:00
+date: 2008-10-01 02:56:44
 published: true
 categories:
 - Essays

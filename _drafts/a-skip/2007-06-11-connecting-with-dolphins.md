@@ -1,6 +1,6 @@
 ---
 title: Connecting with Dolphins
-date: 2007-06-11 02:07:26.000000000 -05:00
+date: 2007-06-11 02:07:26
 published: true
 categories:
 - Essays

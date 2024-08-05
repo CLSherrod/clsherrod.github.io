@@ -1,6 +1,6 @@
 ---
 title: Ten Commandments of Leadership
-date: 2005-05-05 11:39:01.000000000 -05:00
+date: 2005-05-05 11:39:01
 type: post
 parent_id: ‘0’
 published: true

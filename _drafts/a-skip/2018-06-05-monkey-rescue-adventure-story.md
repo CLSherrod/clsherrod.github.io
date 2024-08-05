@@ -1,6 +1,6 @@
 ---
 title: Monkey Rescue Adventure Story
-date: 2018-06-05 10:20:59.000000000 -05:00
+date: 2018-06-05 10:20:59
 published: true
 categories:
 - Philanthropy

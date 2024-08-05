@@ -1,6 +1,6 @@
 ---
 title: 2 year celebration of living internationally and Mayan Pyramids.
-date: 2018-10-03 18:00:45.000000000 -05:00
+date: 2018-10-03 18:00:45
 published: true
 categories:
 - Personal

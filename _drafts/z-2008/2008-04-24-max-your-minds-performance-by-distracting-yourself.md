@@ -1,6 +1,6 @@
 ---
 title: Max Your Minds Performance by Distracting Yourself
-date: 2008-04-24 22:00:26.000000000 -05:00
+date: 2008-04-24 22:00:26
 published: true
 categories:
 - Essays

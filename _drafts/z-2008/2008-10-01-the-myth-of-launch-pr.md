@@ -1,6 +1,6 @@
 ---
 title: The myth of launch PR
-date: 2008-10-01 23:58:16.000000000 -05:00
+date: 2008-10-01 23:58:16
 published: true
 categories:
 - Essays

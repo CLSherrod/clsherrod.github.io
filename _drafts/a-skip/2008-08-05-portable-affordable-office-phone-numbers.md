@@ -1,6 +1,6 @@
 ---
 title: Portable affordable office phone numbers
-date: 2008-08-05 22:00:48.000000000 -05:00
+date: 2008-08-05 22:00:48
 published: true
 categories:
 - Essays

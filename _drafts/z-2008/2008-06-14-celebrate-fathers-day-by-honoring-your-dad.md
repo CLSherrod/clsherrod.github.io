@@ -1,6 +1,6 @@
 ---
 title: Celebrate Father's Day by honoring your Dad
-date: 2008-06-14 22:00:52.000000000 -05:00
+date: 2008-06-14 22:00:52
 published: true
 categories:
 - Essays

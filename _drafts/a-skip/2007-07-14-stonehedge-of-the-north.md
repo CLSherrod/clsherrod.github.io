@@ -1,6 +1,6 @@
 ---
 title: Stonehedge of the North
-date: 2007-07-14 05:28:35.000000000 -05:00
+date: 2007-07-14 05:28:35
 published: true
 categories:
 - Personal

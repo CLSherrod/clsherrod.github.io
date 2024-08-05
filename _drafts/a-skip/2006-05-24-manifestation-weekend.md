@@ -1,6 +1,6 @@
 ---
 title: Manifestation Weekend
-date: 2006-05-24 01:11:01.000000000 -05:00
+date: 2006-05-24 01:11:01
 published: true
 categories:
 - Essays

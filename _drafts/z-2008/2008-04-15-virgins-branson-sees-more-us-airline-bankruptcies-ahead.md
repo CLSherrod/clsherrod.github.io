@@ -1,6 +1,6 @@
 ---
 title: Virgins Branson Sees More US Airline Bankruptcies Ahead
-date: 2008-04-15 04:38:57.000000000 -05:00
+date: 2008-04-15 04:38:57
 published: true
 categories:
 - Essays

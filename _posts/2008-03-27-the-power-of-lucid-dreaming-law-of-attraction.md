@@ -15,7 +15,4 @@ Focus on what you want to dream just right before you sleep and it will appear i
 
 Think of a problem you want to solve. Focus on finding the solution when you are about to sleep and when you sleep, your subconscious mind will travel around and find the solution for you and it will come to you through your dream.
 
-Have you ever heard people say, I'll sleep on it (the problem) ?
-
-That's lucid dream.</blockquote>
-<p><a href="http://attractingyourgoals.com/the-power-of-lucid-dreaming/" rel="nofollow">The Power of Lucid Dreaming | Law Of Attraction</a></p>
+Have you ever heard people say, I'll sleep on it (the problem)?

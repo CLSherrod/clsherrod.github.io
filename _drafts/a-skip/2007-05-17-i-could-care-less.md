@@ -1,6 +1,6 @@
 ---
 title: I could care less!
-date: 2007-05-17 00:59:13.000000000 -05:00
+date: 2007-05-17 00:59:13
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Abundance vs. Scarcity Mindset
-date: 2008-04-07 22:00:07.000000000 -05:00
+date: 2008-04-07 22:00:07
 published: true
 categories:
 - Essays

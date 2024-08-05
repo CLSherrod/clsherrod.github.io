@@ -1,6 +1,6 @@
 ---
 title: The Law of Attraction, Plain and Simple
-date: 2008-09-29 21:52:37.000000000 -05:00
+date: 2008-09-29 21:52:37
 published: true
 categories:
 - Essays

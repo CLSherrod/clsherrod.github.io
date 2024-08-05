@@ -1,6 +1,6 @@
 ---
 title: Prosperous Virgin
-date: 2006-10-02 20:43:01.000000000 -05:00
+date: 2006-10-02 20:43:01
 published: true
 categories:
 - Essays

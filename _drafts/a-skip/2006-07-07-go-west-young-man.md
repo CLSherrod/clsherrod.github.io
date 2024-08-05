@@ -1,6 +1,6 @@
 ---
 title: Go west young man
-date: 2006-07-07 15:10:50.000000000 -05:00
+date: 2006-07-07 15:10:50
 published: true
 categories:
 - Essays

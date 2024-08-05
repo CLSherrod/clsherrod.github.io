@@ -1,6 +1,6 @@
 ---
 title: How often should you publish?
-date: 2008-10-07 03:32:49.000000000 -05:00
+date: 2008-10-07 03:32:49
 published: true
 categories:
 - Essays

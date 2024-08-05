@@ -1,6 +1,6 @@
 ---
 title: Miley Cyrus is a marketing genius
-date: 2013-10-15 09:00:25.000000000 -05:00
+date: 2013-10-15 09:00:25
 published: true
 categories:
 - Entrepreneurship

@@ -1,6 +1,6 @@
 ---
 title: Pow-Wows & The Law Of Attraction
-date: 2007-06-24 23:00:53.000000000 -05:00
+date: 2007-06-24 23:00:53
 published: true
 categories:
 - Essays

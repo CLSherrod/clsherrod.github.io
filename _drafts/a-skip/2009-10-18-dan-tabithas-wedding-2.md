@@ -1,6 +1,6 @@
 ---
 title: Dan & Tabitha's Wedding
-date: 2009-10-18 03:46:19.000000000 -05:00
+date: 2009-10-18 03:46:19
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Warm and Cozy Fleece Blankets With Powerful Affirmations
-date: 2007-05-17 00:52:18.000000000 -05:00
+date: 2007-05-17 00:52:18
 published: true
 categories:
 - Essays

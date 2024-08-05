@@ -1,6 +1,6 @@
 ---
 title: 4th of July in France
-date: 2008-07-07 08:00:31.000000000 -05:00
+date: 2008-07-07 08:00:31
 published: true
 categories:
 - Essays

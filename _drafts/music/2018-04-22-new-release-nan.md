@@ -1,6 +1,6 @@
 ---
 title: 'New Release: Nan'
-date: 2018-04-22 14:04:37.000000000 -05:00
+date: 2018-04-22 14:04:37
 published: true
 categories:
 - My Art

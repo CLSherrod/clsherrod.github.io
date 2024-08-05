@@ -1,6 +1,6 @@
 ---
 title: Private jet experience
-date: 2007-07-04 06:33:24.000000000 -05:00
+date: 2007-07-04 06:33:24
 published: true
 categories:
 - Personal

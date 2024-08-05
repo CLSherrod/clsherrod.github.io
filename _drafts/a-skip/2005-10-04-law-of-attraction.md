@@ -1,6 +1,6 @@
 ---
 title: Law Of Attraction
-date: 2005-10-04 01:24:26.000000000 -05:00
+date: 2005-10-04 01:24:26
 type: post
 parent_id: ‘0’
 published: true

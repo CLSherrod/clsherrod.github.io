@@ -1,6 +1,6 @@
 ---
 title: I love Paris
-date: 2007-08-15 08:00:09.000000000 -05:00
+date: 2007-08-15 08:00:09
 published: true
 categories:
 - Personal

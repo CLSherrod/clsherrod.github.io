@@ -1,6 +1,6 @@
 ---
 title: Play Prosperity Games Testimonials
-date: 2007-06-28 05:45:53.000000000 -05:00
+date: 2007-06-28 05:45:53
 published: true
 categories:
 - Essays

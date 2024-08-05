@@ -1,6 +1,6 @@
 ---
 title: Podcasting Blueprint is a best seller
-date: 2015-09-15 19:10:39.000000000 -05:00
+date: 2015-09-15 19:10:39
 published: true
 categories:
 - Entrepreneurship

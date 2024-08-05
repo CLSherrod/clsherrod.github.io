@@ -1,6 +1,6 @@
 ---
 title: We specialize in everything
-date: 2008-05-12 22:29:51.000000000 -05:00
+date: 2008-05-12 22:29:51
 published: true
 categories:
 - Essays

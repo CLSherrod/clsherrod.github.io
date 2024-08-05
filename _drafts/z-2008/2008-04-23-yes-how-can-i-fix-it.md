@@ -1,6 +1,6 @@
 ---
 title: Yes, how can I fix it?
-date: 2008-04-23 21:00:02.000000000 -05:00
+date: 2008-04-23 21:00:02
 published: true
 categories:
 - Essays

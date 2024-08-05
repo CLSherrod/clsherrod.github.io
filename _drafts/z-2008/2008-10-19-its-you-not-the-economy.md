@@ -1,6 +1,6 @@
 ---
 title: It's You, Not The Economy
-date: 2008-10-19 22:38:38.000000000 -05:00
+date: 2008-10-19 22:38:38
 published: true
 categories:
 - Essays

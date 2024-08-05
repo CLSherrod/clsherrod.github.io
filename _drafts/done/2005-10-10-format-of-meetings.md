@@ -1,6 +1,6 @@
 ---
 title: Format of meetings
-date: 2005-10-10 05:38:59.000000000 -05:00
+date: 2005-10-10 05:38:59
 type: post
 parent_id: ‘0’
 published: true

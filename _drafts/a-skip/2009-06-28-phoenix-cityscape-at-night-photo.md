@@ -1,6 +1,6 @@
 ---
 title: Phoenix Cityscape at Night Photo
-date: 2009-06-28 22:14:12.000000000 -05:00
+date: 2009-06-28 22:14:12
 published: true
 categories:
 - Essays

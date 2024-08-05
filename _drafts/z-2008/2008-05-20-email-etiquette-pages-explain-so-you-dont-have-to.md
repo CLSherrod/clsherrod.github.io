@@ -1,6 +1,6 @@
 ---
 title: Email Etiquette Pages Explain So You Don't Have To
-date: 2008-05-20 00:12:19.000000000 -05:00
+date: 2008-05-20 00:12:19
 published: true
 categories:
 - Essays

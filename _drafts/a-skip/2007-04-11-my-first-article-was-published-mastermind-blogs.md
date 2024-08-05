@@ -1,6 +1,6 @@
 ---
 title: My first article was published - Mastermind Blogs
-date: 2007-04-11 03:45:32.000000000 -05:00
+date: 2007-04-11 03:45:32
 published: true
 categories:
 - Essays

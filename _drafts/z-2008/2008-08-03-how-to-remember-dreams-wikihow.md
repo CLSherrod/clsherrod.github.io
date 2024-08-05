@@ -1,6 +1,6 @@
 ---
 title: How to Remember Dreams
-date: 2008-08-03 22:00:38.000000000 -05:00
+date: 2008-08-03 22:00:38
 published: true
 categories:
 - Essays

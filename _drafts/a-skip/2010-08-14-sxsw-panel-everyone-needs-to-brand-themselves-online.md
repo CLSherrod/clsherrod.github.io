@@ -1,6 +1,6 @@
 ---
 title: SXSW panel Everyone Needs to Brand Themselves Online
-date: 2010-08-14 00:11:35.000000000 -05:00
+date: 2010-08-14 00:11:35
 published: true
 categories:
 - Essays

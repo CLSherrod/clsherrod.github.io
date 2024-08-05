@@ -1,6 +1,6 @@
 ---
 title: Hiring an assistant
-date: 2015-05-12 09:00:02.000000000 -05:00
+date: 2015-05-12 09:00:02
 published: true
 categories:
 - Entrepreneurship

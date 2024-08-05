@@ -1,6 +1,6 @@
 ---
 title: Got Critics?
-date: 2008-06-02 22:00:53.000000000 -05:00
+date: 2008-06-02 22:00:53
 published: true
 categories:
 - Entrepreneurship

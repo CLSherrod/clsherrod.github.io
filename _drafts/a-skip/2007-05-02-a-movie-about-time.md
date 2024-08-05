@@ -1,6 +1,6 @@
 ---
 title: A movie about time
-date: 2007-05-02 04:27:08.000000000 -05:00
+date: 2007-05-02 04:27:08
 published: true
 categories:
 - Essays

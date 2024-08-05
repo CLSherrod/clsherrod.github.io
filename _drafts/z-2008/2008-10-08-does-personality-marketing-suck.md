@@ -1,6 +1,6 @@
 ---
 title: Does Personality Marketing Suck?
-date: 2008-10-08 23:28:47.000000000 -05:00
+date: 2008-10-08 23:28:47
 published: true
 categories:
 - Essays

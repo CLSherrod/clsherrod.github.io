@@ -1,6 +1,6 @@
 ---
 title: Seize the day
-date: 2008-07-31 22:00:15.000000000 -05:00
+date: 2008-07-31 22:00:15
 published: true
 categories:
 - Essays

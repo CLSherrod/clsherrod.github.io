@@ -1,6 +1,6 @@
 ---
 title: Richard Branson sailing the Atlantic
-date: 2008-09-22 09:28:36.000000000 -05:00
+date: 2008-09-22 09:28:36
 published: true
 categories:
 - Essays

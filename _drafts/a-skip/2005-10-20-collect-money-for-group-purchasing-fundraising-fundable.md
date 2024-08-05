@@ -1,6 +1,6 @@
 ---
 title: Collect money for group purchasing, fundraising
-date: 2005-10-20 22:47:55.000000000 -05:00
+date: 2005-10-20 22:47:55
 type: post
 parent_id: ‘0’
 published: true

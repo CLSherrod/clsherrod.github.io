@@ -1,6 +1,6 @@
 ---
 title: 'New Release: Journey To Everywhere'
-date: 2017-08-15 09:00:03.000000000 -05:00
+date: 2017-08-15 09:00:03
 published: true
 categories:
 - My Art

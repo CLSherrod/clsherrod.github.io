@@ -1,6 +1,6 @@
 ---
 title: Forget Shark Thank; Be A Dolphin Entrepreneur Instead
-date: 2017-10-02 14:23:48.000000000 -05:00
+date: 2017-10-02 14:23:48
 published: true
 categories:
 - All Featured Articles

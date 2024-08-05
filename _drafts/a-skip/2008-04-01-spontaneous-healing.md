@@ -6,25 +6,9 @@ categories:
 - Essays
 tags:
 - business
-meta:
-  podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
-  _edit_last: '1'
-  _aioseop_keywords: gregg braden, hay house, spontaneous healing of belief
-  _sexybookmarks_shortUrl: 'File: /data/app/webapp/functions.php<br />Line: 7<br />Message:
-    Can''t connect to local MySQL server through socket ''/var/run/mysqld/mysqld.sock''
-    (11)'
-  _sexybookmarks_permaHash: 18295d33a6d3f11846ee23240312d6be
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1448243711;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:7824;}i:1;a:1:{s:2:"id";i:347;}i:2;a:1:{s:2:"id";i:707;}}}}
-  _nectar_love: '0'
-  _wpas_done_all: '1'
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '198'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524988168'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"7824";s:5:"score";s:16:"22.7108374186257";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:17:"19.23525365212069";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"6929";s:5:"score";s:18:"18.566515279280203";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"347";s:5:"score";s:18:"18.002492495090138";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1373";s:5:"score";s:18:"15.174577432541742";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"354";s:5:"score";s:18:"15.010736036856862";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"1052";s:5:"score";s:18:"14.783616670213558";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"587";s:5:"score";s:18:"14.767019064503163";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"355";s:5:"score";s:18:"14.767019064503163";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:4:"3152";s:5:"score";s:18:"14.407632195711033";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"184";s:5:"score";s:18:"14.407632195711033";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"297";s:5:"score";s:18:"14.310839114082304";}}
 permalink: "/spontaneous-healing/"
 ---
-<img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/04/cvr_braden_shob_cd.jpg" alt="" width="100" height="88" />Gregg Braden former scientist now best selling spirtual author has a new book out,Â  <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">The Spontaneous Healing of Belief</a>.Â  I love the information that he writes about, science is proving that there is something to spirtuality.Â  In order to succeed in life you have to belief in yourself.
+Gregg Braden former scientist now best selling spirtual author has a new book out,Â  <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">The Spontaneous Healing of Belief</a>.Â  I love the information that he writes about, science is proving that there is something to spirtuality.Â  In order to succeed in life you have to belief in yourself.
 
  *"Brilliant and insightful...I see Gregg Braden as one of our great  visionaries." *<br />
  ”**Dr. Wayne Dyer**, author of  *The Power  of Intention *

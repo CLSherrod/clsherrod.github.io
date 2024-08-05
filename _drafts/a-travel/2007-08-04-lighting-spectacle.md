@@ -1,6 +1,6 @@
 ---
 title: Lighting Spectacle
-date: 2007-08-04 21:04:47.000000000 -05:00
+date: 2007-08-04 21:04:47
 published: true
 categories:
 - News

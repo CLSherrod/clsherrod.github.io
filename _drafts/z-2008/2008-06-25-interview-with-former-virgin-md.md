@@ -1,6 +1,6 @@
 ---
 title: Interview with former Virgin MD
-date: 2008-06-25 07:16:49.000000000 -05:00
+date: 2008-06-25 07:16:49
 published: true
 categories:
 - Essays

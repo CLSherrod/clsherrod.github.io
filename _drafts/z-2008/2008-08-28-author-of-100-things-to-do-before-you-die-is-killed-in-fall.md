@@ -1,6 +1,6 @@
 ---
 title: Author of '100 Things to Do Before You Die' is killed in fall
-date: 2008-08-28 23:16:52.000000000 -05:00
+date: 2008-08-28 23:16:52
 published: true
 categories:
 - Essays

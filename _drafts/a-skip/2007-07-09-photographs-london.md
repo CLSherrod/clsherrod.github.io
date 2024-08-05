@@ -1,6 +1,6 @@
 ---
 title: Photographs of London
-date: 2007-07-09 08:00:15.000000000 -05:00
+date: 2007-07-09 08:00:15
 published: true
 categories:
 - Essays

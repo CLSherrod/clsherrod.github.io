@@ -1,6 +1,6 @@
 ---
 title: My Morning Routine on A Hacker's Day
-date: 2018-06-01 10:03:57.000000000 -05:00
+date: 2018-06-01 10:03:57
 published: true
 categories:
 - All Featured Articles

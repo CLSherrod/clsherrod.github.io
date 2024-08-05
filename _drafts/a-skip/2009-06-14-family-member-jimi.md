@@ -1,6 +1,6 @@
 ---
 title: New family member Jimi
-date: 2009-06-14 11:09:11.000000000 -05:00
+date: 2009-06-14 11:09:11
 published: true
 categories:
 - Essays

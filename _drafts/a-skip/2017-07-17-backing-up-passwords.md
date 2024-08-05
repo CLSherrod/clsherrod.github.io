@@ -1,6 +1,6 @@
 ---
 title: Backing up passwords
-date: 2017-07-17 09:00:08.000000000 -05:00
+date: 2017-07-17 09:00:08
 published: true
 categories:
 - Entrepreneurship

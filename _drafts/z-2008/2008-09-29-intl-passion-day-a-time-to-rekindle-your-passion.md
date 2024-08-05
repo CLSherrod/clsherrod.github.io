@@ -1,6 +1,6 @@
 ---
 title: Intl Passion Day -- a time to rekindle your passion
-date: 2008-09-29 22:00:42.000000000 -05:00
+date: 2008-09-29 22:00:42
 published: true
 categories:
 - Essays

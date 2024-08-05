@@ -1,6 +1,6 @@
 ---
 title: Mastermind  - Group Meet and Grow Rich
-date: 2006-04-10 03:09:27.000000000 -05:00
+date: 2006-04-10 03:09:27
 published: true
 categories:
 - Essays

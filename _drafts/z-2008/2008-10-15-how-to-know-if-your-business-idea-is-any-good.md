@@ -1,6 +1,6 @@
 ---
 title: How To Know If Your Business Idea Is Any Good
-date: 2008-10-15 23:54:34.000000000 -05:00
+date: 2008-10-15 23:54:34
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Escaping the Amish
-date: 2008-08-12 23:57:46.000000000 -05:00
+date: 2008-08-12 23:57:46
 published: true
 categories:
 - Essays

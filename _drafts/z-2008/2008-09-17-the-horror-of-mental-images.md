@@ -1,6 +1,6 @@
 ---
 title: The Horror of Mental Images
-date: 2008-09-17 22:19:59.000000000 -05:00
+date: 2008-09-17 22:19:59
 published: true
 categories:
 - All Featured Articles

@@ -1,6 +1,6 @@
 ---
 title: How to be prosperous
-date: 2006-06-14 12:37:25.000000000 -05:00
+date: 2006-06-14 12:37:25
 published: true
 categories:
 - Entrepreneurship

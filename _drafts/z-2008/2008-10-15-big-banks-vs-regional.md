@@ -1,6 +1,6 @@
 ---
 title: Big banks vs regional
-date: 2008-10-15 05:45:03.000000000 -05:00
+date: 2008-10-15 05:45:03
 published: true
 categories:
 - Essays

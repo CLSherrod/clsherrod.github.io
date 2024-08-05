@@ -1,6 +1,6 @@
 ---
 title: Design matters
-date: 2007-06-19 23:00:59.000000000 -05:00
+date: 2007-06-19 23:00:59
 published: true
 categories:
 - Essays

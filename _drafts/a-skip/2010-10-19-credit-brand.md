@@ -1,6 +1,6 @@
 ---
 title: Get Credit For What You Do - Get A Brand
-date: 2010-10-19 22:00:00.000000000 -05:00
+date: 2010-10-19 22:00:00
 published: true
 categories:
 - Essays

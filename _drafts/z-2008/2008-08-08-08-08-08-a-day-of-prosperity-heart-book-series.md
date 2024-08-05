@@ -1,6 +1,6 @@
 ---
 title: '08 08 08 - A Day of Prosperity | Heart Book Series'
-date: 2008-08-08 22:00:20.000000000 -05:00
+date: 2008-08-08 22:00:20
 published: true
 categories:
 - Essays

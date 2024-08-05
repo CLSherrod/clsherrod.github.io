@@ -1,6 +1,6 @@
 ---
 title: 'Massive Change to Success: Ep # 46'
-date: 2011-08-22 22:27:39.000000000 -05:00
+date: 2011-08-22 22:27:39
 published: true
 categories:
 - Essays

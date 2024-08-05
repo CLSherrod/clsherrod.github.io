@@ -1,6 +1,6 @@
 ---
 title: The Fifth Snarkiest Misconception about the Law of Attraction
-date: 2008-07-28 22:00:04.000000000 -05:00
+date: 2008-07-28 22:00:04
 published: true
 categories:
 - Essays

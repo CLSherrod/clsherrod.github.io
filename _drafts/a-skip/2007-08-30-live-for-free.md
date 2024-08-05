@@ -1,6 +1,6 @@
 ---
 title: Learn How To Live For Free On Vacation Bonus
-date: 2007-08-30 22:44:38.000000000 -05:00
+date: 2007-08-30 22:44:38
 published: true
 categories:
 - Essays

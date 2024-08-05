@@ -1,6 +1,6 @@
 ---
 title: My Membership Program announced
-date: 2009-07-01 04:32:30.000000000 -05:00
+date: 2009-07-01 04:32:30
 published: true
 categories:
 - Essays

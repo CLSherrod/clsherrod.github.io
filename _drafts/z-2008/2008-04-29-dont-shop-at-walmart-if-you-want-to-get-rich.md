@@ -1,6 +1,6 @@
 ---
 title: Don't Shop at Walmart if you want to get rich
-date: 2008-04-29 22:00:50.000000000 -05:00
+date: 2008-04-29 22:00:50
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Money Game
-date: 2008-04-06 22:00:14.000000000 -05:00
+date: 2008-04-06 22:00:14
 published: true
 categories:
 - Essays

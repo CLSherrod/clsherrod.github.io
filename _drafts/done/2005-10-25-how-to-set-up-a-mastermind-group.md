@@ -1,6 +1,6 @@
 ---
 title: How to set up a mastermind group
-date: 2005-10-25 17:29:27.000000000 -05:00
+date: 2005-10-25 17:29:27
 type: post
 parent_id: ‘0’
 published: true

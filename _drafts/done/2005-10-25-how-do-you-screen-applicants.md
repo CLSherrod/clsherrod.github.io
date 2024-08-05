@@ -1,6 +1,6 @@
 ---
 title: How Do You Screen Applicants?
-date: 2005-10-25 07:17:50.000000000 -05:00
+date: 2005-10-25 07:17:50
 type: post
 parent_id: ‘0’
 published: true

@@ -1,6 +1,6 @@
 ---
 title: My partner is in Fast Company
-date: 2013-07-02 11:27:21.000000000 -05:00
+date: 2013-07-02 11:27:21
 published: true
 categories:
 - Entrepreneurship

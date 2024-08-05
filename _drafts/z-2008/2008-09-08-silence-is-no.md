@@ -1,6 +1,6 @@
 ---
 title: Silence is no
-date: 2008-09-08 23:59:51.000000000 -05:00
+date: 2008-09-08 23:59:51
 published: true
 categories:
 - Essays

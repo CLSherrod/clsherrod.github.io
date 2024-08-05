@@ -1,6 +1,6 @@
 ---
 title: The Secret is now in Hebrew
-date: 2007-09-19 23:14:05.000000000 -05:00
+date: 2007-09-19 23:14:05
 published: true
 categories:
 - Essays

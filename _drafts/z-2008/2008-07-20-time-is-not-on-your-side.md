@@ -1,6 +1,6 @@
 ---
 title: Time Is Not On Your Side
-date: 2008-07-20 23:00:17.000000000 -05:00
+date: 2008-07-20 23:00:17
 published: true
 categories:
 - Essays

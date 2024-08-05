@@ -1,6 +1,6 @@
 ---
 title: Viva La France
-date: 2008-07-14 08:00:18.000000000 -05:00
+date: 2008-07-14 08:00:18
 published: true
 categories:
 - Essays

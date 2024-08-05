@@ -1,6 +1,6 @@
 ---
 title: Write A Business Plan In 10 Seconds
-date: 2008-10-16 00:04:17.000000000 -05:00
+date: 2008-10-16 00:04:17
 published: true
 categories:
 - Essays

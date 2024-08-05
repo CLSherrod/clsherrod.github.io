@@ -1,6 +1,6 @@
 ---
 title: Reversible business models
-date: 2008-08-27 22:06:15.000000000 -05:00
+date: 2008-08-27 22:06:15
 published: true
 categories:
 - Essays

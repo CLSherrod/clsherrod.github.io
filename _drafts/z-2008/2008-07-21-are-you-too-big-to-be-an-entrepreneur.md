@@ -1,6 +1,6 @@
 ---
 title: Are you too Big to be an entrepreneur
-date: 2008-07-21 22:00:30.000000000 -05:00
+date: 2008-07-21 22:00:30
 published: true
 categories:
 - Essays

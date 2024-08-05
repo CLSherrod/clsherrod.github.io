@@ -1,6 +1,6 @@
 ---
 title: The Unstoppable Potato Farmer
-date: 2007-04-03 03:31:01.000000000 -05:00
+date: 2007-04-03 03:31:01
 published: true
 categories:
 - Essays

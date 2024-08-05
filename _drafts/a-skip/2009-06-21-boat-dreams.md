@@ -1,6 +1,6 @@
 ---
 title: Boat dreams
-date: 2009-06-21 10:12:59.000000000 -05:00
+date: 2009-06-21 10:12:59
 published: true
 categories:
 - Essays

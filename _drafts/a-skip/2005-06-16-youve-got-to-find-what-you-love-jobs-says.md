@@ -1,6 +1,6 @@
 ---
 title: “‘You’ve got to find what you love,’ Jobs says”
-date: 2005-06-16 01:35:57.000000000 -05:00
+date: 2005-06-16 01:35:57
 type: post
 parent_id: ‘0’
 published: true

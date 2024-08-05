@@ -1,6 +1,6 @@
 ---
 title: 'New Release: Warm'
-date: 2017-05-30 09:00:19.000000000 -05:00
+date: 2017-05-30 09:00:19
 published: true
 categories:
 - My Art

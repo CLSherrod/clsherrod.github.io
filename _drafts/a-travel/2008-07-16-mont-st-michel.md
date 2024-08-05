@@ -1,6 +1,6 @@
 ---
 title: Mont St. Michel
-date: 2008-07-16 08:00:52.000000000 -05:00
+date: 2008-07-16 08:00:52
 published: true
 categories:
 - Essays

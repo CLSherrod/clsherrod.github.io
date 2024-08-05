@@ -1,6 +1,6 @@
 ---
 title: 30 Minute Free Consultation
-date: 2008-06-08 05:57:15.000000000 -05:00
+date: 2008-06-08 05:57:15
 published: true
 categories:
 - Essays

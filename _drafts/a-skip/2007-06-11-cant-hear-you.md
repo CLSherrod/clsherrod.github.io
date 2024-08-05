@@ -1,6 +1,6 @@
 ---
 title: Can't hear you
-date: 2007-06-11 00:18:11.000000000 -05:00
+date: 2007-06-11 00:18:11
 published: true
 categories:
 - Essays

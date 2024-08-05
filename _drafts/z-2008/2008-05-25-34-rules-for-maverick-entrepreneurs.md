@@ -1,6 +1,6 @@
 ---
 title: 34 Rules for Maverick Entrepreneurs
-date: 2008-05-25 23:06:33.000000000 -05:00
+date: 2008-05-25 23:06:33
 published: true
 categories:
 - Essays

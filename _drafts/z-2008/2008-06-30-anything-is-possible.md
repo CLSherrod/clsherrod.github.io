@@ -1,6 +1,6 @@
 ---
 title: Anything is possible
-date: 2008-06-30 08:00:04.000000000 -05:00
+date: 2008-06-30 08:00:04
 published: true
 categories:
 - Essays

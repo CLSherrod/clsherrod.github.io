@@ -1,6 +1,6 @@
 ---
 title: ABC Formula for Success
-date: 2008-07-23 22:00:58.000000000 -05:00
+date: 2008-07-23 22:00:58
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: 'New Release: Peaceful Echos'
-date: 2015-06-15 09:00:01.000000000 -05:00
+date: 2015-06-15 09:00:01
 published: true
 categories:
 - My Art

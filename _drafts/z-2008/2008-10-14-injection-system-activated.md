@@ -1,6 +1,6 @@
 ---
 title: Injection System Activated
-date: 2008-10-14 01:24:39.000000000 -05:00
+date: 2008-10-14 01:24:39
 published: true
 categories:
 - Essays

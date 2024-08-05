@@ -1,6 +1,6 @@
 ---
 title: Richard Branson adds tribal elder to list of achievements
-date: 2007-06-12 22:58:55.000000000 -05:00
+date: 2007-06-12 22:58:55
 published: true
 categories:
 - Essays

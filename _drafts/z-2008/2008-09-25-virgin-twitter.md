@@ -1,6 +1,6 @@
 ---
 title: Virgin Twitter
-date: 2008-09-25 19:52:38.000000000 -05:00
+date: 2008-09-25 19:52:38
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Published Works
-date: 2007-05-02 22:11:06.000000000 -05:00
+date: 2007-05-02 22:11:06
 published: true
 categories:
 - Essays

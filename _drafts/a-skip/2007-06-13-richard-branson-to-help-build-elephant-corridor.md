@@ -1,6 +1,6 @@
 ---
 title: Richard Branson to Help Build Elephant Corridor
-date: 2007-06-13 04:06:41.000000000 -05:00
+date: 2007-06-13 04:06:41
 published: true
 categories:
 - Essays

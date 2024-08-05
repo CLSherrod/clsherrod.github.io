@@ -1,6 +1,6 @@
 ---
 title: What I learned from the Crocodile Hunter
-date: 2006-09-08 12:19:07.000000000 -05:00
+date: 2006-09-08 12:19:07
 type: post
 parent_id: ‘0’
 published: true

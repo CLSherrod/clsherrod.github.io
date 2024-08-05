@@ -1,6 +1,6 @@
 ---
 title: Cote de Granit Rose
-date: 2008-06-09 08:00:06.000000000 -05:00
+date: 2008-06-09 08:00:06
 published: true
 categories:
 - Essays

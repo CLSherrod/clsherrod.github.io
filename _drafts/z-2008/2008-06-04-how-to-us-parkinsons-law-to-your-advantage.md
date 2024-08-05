@@ -1,6 +1,6 @@
 ---
 title: How to Us Parkinson's Law to Your Advantage
-date: 2008-06-04 23:00:49.000000000 -05:00
+date: 2008-06-04 23:00:49
 published: true
 categories:
 - Essays

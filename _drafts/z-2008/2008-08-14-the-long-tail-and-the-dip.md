@@ -1,6 +1,6 @@
 ---
 title: The Long Tail and the Dip
-date: 2008-08-14 23:03:10.000000000 -05:00
+date: 2008-08-14 23:03:10
 published: true
 categories:
 - Essays

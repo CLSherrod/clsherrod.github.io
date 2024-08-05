@@ -1,6 +1,6 @@
 ---
 title: My current 20-minute meditation
-date: 2017-09-05 09:00:04.000000000 -05:00
+date: 2017-09-05 09:00:04
 published: true
 categories:
 - Entrepreneurship

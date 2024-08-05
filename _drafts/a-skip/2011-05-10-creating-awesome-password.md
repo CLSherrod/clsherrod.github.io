@@ -1,6 +1,6 @@
 ---
 title: Creating an awesome password
-date: 2011-05-10 05:23:40.000000000 -05:00
+date: 2011-05-10 05:23:40
 published: true
 categories:
 - Essays

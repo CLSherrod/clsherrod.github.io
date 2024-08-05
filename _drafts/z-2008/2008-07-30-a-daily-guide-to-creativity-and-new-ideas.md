@@ -1,6 +1,6 @@
 ---
 title: A Daily Guide To Creativity And New Ideas
-date: 2008-07-30 22:00:08.000000000 -05:00
+date: 2008-07-30 22:00:08
 published: true
 categories:
 - Essays

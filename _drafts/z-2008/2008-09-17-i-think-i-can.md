@@ -1,6 +1,6 @@
 ---
 title: I Think I Can
-date: 2008-09-17 00:25:36.000000000 -05:00
+date: 2008-09-17 00:25:36
 published: true
 categories:
 - Essays

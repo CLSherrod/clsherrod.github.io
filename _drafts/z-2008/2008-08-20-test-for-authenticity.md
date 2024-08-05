@@ -1,6 +1,6 @@
 ---
 title: Test for authenticity
-date: 2008-08-20 23:07:52.000000000 -05:00
+date: 2008-08-20 23:07:52
 published: true
 categories:
 - Essays

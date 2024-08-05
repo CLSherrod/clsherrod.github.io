@@ -1,6 +1,6 @@
 ---
 title: How to beat a speeding ticket
-date: 2008-05-13 23:34:06.000000000 -05:00
+date: 2008-05-13 23:34:06
 published: true
 categories:
 - Essays

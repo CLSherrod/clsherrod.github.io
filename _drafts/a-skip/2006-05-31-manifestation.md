@@ -1,6 +1,6 @@
 ---
 title: Manifestation
-date: 2006-05-31 02:52:30.000000000 -05:00
+date: 2006-05-31 02:52:30
 published: true
 categories:
 - Essays

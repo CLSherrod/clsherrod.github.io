@@ -1,6 +1,6 @@
 ---
 title: Nigeria tiff sends Branson packing
-date: 2008-09-04 03:00:56.000000000 -05:00
+date: 2008-09-04 03:00:56
 published: true
 categories:
 - Essays

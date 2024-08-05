@@ -1,6 +1,6 @@
 ---
 title: Fake leaders, fraud and being legitimate
-date: 2018-06-13 10:00:55.000000000 -05:00
+date: 2018-06-13 10:00:55
 published: true
 categories:
 - All Featured Articles

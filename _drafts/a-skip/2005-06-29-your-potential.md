@@ -1,6 +1,6 @@
 ---
 title: Your Potential
-date: 2005-06-29 01:27:31.000000000 -05:00
+date: 2005-06-29 01:27:31
 type: post
 parent_id: ‘0’
 published: true

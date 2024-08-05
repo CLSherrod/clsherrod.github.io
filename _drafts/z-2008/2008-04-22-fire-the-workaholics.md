@@ -1,6 +1,6 @@
 ---
 title: Fire the workaholics
-date: 2008-04-22 23:21:42.000000000 -05:00
+date: 2008-04-22 23:21:42
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Government viral apps
-date: 2013-05-27 04:45:56.000000000 -05:00
+date: 2013-05-27 04:45:56
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Virgin Comics Venture Is Shut Down
-date: 2008-09-03 03:00:58.000000000 -05:00
+date: 2008-09-03 03:00:58
 published: true
 categories:
 - Essays

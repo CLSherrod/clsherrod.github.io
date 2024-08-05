@@ -1,6 +1,6 @@
 ---
 title: Crystal Meditation Experience
-date: 2018-07-19 16:23:47.000000000 -05:00
+date: 2018-07-19 16:23:47
 published: true
 categories:
 - Personal

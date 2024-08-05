@@ -1,25 +1,14 @@
 ---
 title: You get what you pay for
-date: 2008-10-22 23:50:43.000000000 -05:00
+date: 2008-10-22
 published: true
 categories:
 - Essays
 tags:
 - business
-meta:
-  _edit_last: '1'
-  aktt_tweeted: '1'
-  _sexybookmarks_shortUrl: http://b2l.me/42zap
-  _sexybookmarks_permaHash: 4fe91bad1b9d401cd9fc85c0e59ab37c
-  _nectar_love: '0'
-  _wpas_done_all: '1'
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '133'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524986793'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"189";s:5:"score";s:17:"26.91958826183768";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"3126";s:5:"score";s:18:"23.077380461585033";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"1882";s:5:"score";s:17:"22.63010736519952";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2370";s:5:"score";s:18:"18.757745178021445";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1267";s:5:"score";s:18:"18.362747253438663";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"3232";s:5:"score";s:17:"17.65216553234727";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"968";s:5:"score";s:17:"17.65216553234727";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"4593";s:5:"score";s:18:"17.123283314989088";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"3835";s:5:"score";s:18:"16.860505939506105";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"705";s:5:"score";s:18:"16.860505939506105";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1229";s:5:"score";s:17:"16.14867682270461";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"587";s:5:"score";s:17:"16.14867682270461";}}
 permalink: "/you-get-what-you-pay-for/"
 ---
-<img class="alignright size-medium wp-image-1194" title="calculator" src="{{ site.baseurl }}/posts/2008/10/calculator-300x224.gif" alt="" width="210" height="157" />I recently had a client who's website went offline for a few days.  I did my best to make sure this didn't happen but when the people that make mistakes are the only people that can fix it I can't do much.
+I recently had a client who's website went offline for a few days.  I did my best to make sure this didn't happen but when the people that make mistakes are the only people that can fix it I can't do much.
 
 My client originally got her domain names from a company that runs two page ads in business magazines and caters to newbies.  She also had them host them.  Some months ago she upgraded her hosting to another company but the first company still was her domain registrar (place you buy domain names).  No problem everything is working properly.
 
@@ -34,7 +23,3 @@ Just image how you would feel if your website didn't work?  Would you be able t
 Get the best you can afford.  If fantastic customer service is not important to you then go cheap, you'll regret it eventually.  If you're not making any money then if your website is down for a few days does it really matter?  But if you live and die by your website then get the best you can afford.  It is well worth it.
 
 I host my websites and several of my clients and if I could make it any better I would.  I want Google uptime and I'm very picky.  If I'm happy and know my client will be too.
-
-If you are happy with your hosting uptime and their customer service is good then good for you.  If not, let us know how we can help.
-
-[CONTACT-FORM]</p>

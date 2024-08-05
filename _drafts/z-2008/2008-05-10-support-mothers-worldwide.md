@@ -1,6 +1,6 @@
 ---
 title: Support Mothers Worldwide
-date: 2008-05-10 22:00:06.000000000 -05:00
+date: 2008-05-10 22:00:06
 published: true
 categories:
 - Essays

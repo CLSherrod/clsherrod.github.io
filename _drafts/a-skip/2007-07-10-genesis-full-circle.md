@@ -1,6 +1,6 @@
 ---
 title: My Genesis comes full circle
-date: 2007-07-10 17:11:11.000000000 -05:00
+date: 2007-07-10 17:11:11
 published: true
 categories:
 - Essays

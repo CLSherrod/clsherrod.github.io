@@ -1,6 +1,6 @@
 ---
 title: Why I like Seth Godin
-date: 2019-07-17 07:00:18.000000000 -05:00
+date: 2019-07-17 07:00:18
 published: true
 categories:
 - All Featured Articles

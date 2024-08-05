@@ -1,6 +1,6 @@
 ---
 title: Top 10 Best Recession Proofing Strategies
-date: 2008-10-10 04:10:28.000000000 -05:00
+date: 2008-10-10 04:10:28
 published: true
 categories:
 - Essays

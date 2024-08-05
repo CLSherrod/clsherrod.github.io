@@ -1,6 +1,6 @@
 ---
 title: Email checklist
-date: 2008-06-24 00:03:52.000000000 -05:00
+date: 2008-06-24 00:03:52
 published: true
 categories:
 - Essays

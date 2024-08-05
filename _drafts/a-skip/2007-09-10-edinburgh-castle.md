@@ -1,6 +1,6 @@
 ---
 title: Edinburgh Castle
-date: 2007-09-10 12:33:33.000000000 -05:00
+date: 2007-09-10 12:33:33
 published: true
 categories:
 - Personal

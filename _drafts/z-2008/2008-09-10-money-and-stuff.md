@@ -1,6 +1,6 @@
 ---
 title: Money and stuff
-date: 2008-09-10 21:30:19.000000000 -05:00
+date: 2008-09-10 21:30:19
 published: true
 categories:
 - Essays

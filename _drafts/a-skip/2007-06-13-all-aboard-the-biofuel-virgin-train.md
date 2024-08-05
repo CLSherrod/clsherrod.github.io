@@ -1,6 +1,6 @@
 ---
 title: All Aboard the Biofuel Virgin Train
-date: 2007-06-13 04:50:20.000000000 -05:00
+date: 2007-06-13 04:50:20
 published: true
 categories:
 - Essays

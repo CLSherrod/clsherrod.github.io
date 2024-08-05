@@ -1,6 +1,6 @@
 ---
 title: Lost Generation
-date: 2008-05-15 22:00:34.000000000 -05:00
+date: 2008-05-15 22:00:34
 published: true
 categories:
 - Mindset

@@ -1,6 +1,6 @@
 ---
 title: Trip to Uxmal and Kabah in the Yucatan Mexico, Mayan Pyramids.
-date: 2018-10-10 18:00:09.000000000 -05:00
+date: 2018-10-10 18:00:09
 published: true
 categories:
 - Personal

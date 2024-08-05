@@ -1,6 +1,6 @@
 ---
 title: Realization
-date: 2006-05-13 05:03:48.000000000 -05:00
+date: 2006-05-13 05:03:48
 published: true
 categories:
 - Essays

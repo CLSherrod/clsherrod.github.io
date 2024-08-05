@@ -1,6 +1,6 @@
 ---
 title: Spoof of "The Secret"
-date: 2007-05-02 11:10:32.000000000 -05:00
+date: 2007-05-02 11:10:32
 published: true
 categories:
 - Essays

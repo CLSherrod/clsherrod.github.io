@@ -1,6 +1,6 @@
 ---
 title: Austin Warrior
-date: 2008-04-10 22:00:29.000000000 -05:00
+date: 2008-04-10 22:00:29
 published: true
 categories:
 - Essays

@@ -1,6 +1,6 @@
 ---
 title: Live Blogging this afternoon in South Austin
-date: 2009-05-21 20:17:33.000000000 -05:00
+date: 2009-05-21 20:17:33
 published: true
 categories:
 - Essays

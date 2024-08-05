@@ -1,6 +1,6 @@
 ---
 title: View from room this weekend
-date: 2008-04-28 00:08:05.000000000 -05:00
+date: 2008-04-28 00:08:05
 published: true
 categories:
 - Essays

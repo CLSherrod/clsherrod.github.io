@@ -1,6 +1,6 @@
 ---
 title: Online Business Networking
-date: 2005-10-21 09:11:58.000000000 -05:00
+date: 2005-10-21 09:11:58
 type: post
 parent_id: ‘0’
 published: true

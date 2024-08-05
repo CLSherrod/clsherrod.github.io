@@ -1,6 +1,6 @@
 ---
 title: Photo Stream Europe 2008
-date: 2008-07-04 08:00:53.000000000 -05:00
+date: 2008-07-04 08:00:53
 published: true
 categories:
 - Essays

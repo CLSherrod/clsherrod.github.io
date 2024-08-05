@@ -1,6 +1,6 @@
 ---
 title: Older than Stonehenge
-date: 2008-07-15 08:00:49.000000000 -05:00
+date: 2008-07-15 08:00:49
 published: true
 categories:
 - Essays
