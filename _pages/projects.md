@@ -20,6 +20,9 @@ Track your contacts using plain text Markdown and wiki-style backlinks.
 
 Track your gardening using plain text Markdown and wiki-style backlinks.
 
+**2021 - 2022 [Fresh Living](/freshliving/)**
+Import company of Mexican fresh produce to the US.
+
 **2020 - [Hiring Virtual Workers For Small Business Book](/hiring)**
 
 I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
@@ -55,7 +58,10 @@ Presenter of my business theory that you need to start a business based on what 
 **1999 - [Who Defines You - Web Agency](/whodefinesyou)**
 
 Consulting on getting online that turned into website hosting for a time and current web agency and maintenance firm. Works with referrals only.
-- [Won A Publishing Award in 2015](/publishing-award/)
+- 2024 - Added Static Web Framework
+- 2015 - [Won A Publishing Award](/publishing-award/)
+- 2007 - Added WordPress Development
+- 1999 - HTML Web Development
 
 **1996 - 2001 Niche business software**
 
