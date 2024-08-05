@@ -6,4 +6,4 @@ permalink: /nanakasha/
 ---
 2010 - 2017
 
-I was a minority investor in a [previous client](https://nanakasha.com) that first got onlin back in 2006.
+I was a minority investor in a [previous client](https://nanakasha.com) that first got online back in 2006.

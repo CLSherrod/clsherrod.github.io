@@ -32,6 +32,10 @@ Weekly newsletter educating people in the expat niche.
 
 I'm a musician and artist known as Chr1stopher.
 
+**2012 - [DateNightSpinner](/date-night-spinner/)**
+
+I believe no matter how old your relationship is you still need to set aside at least one night a week for a date night. 
+
 **2010 - 2017 [Nan Akasha](/nanakasha)**
 
 Minority investor in one of my previous clients.
@@ -46,9 +50,9 @@ Published my book on how to create new ideas based on what you love that came ou
 
 Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book [How To Create New Business Ideas Based On What You Love](/business-ideas).
 
-**1999 - [Who Defines You - Web Design Firm](/whodefinesyou)**
+**1999 - [Who Defines You - Web Agency](/whodefinesyou)**
 
-Consulting on getting online that turned into website hosting for a time and current website design and web maintenance firm. Works with referrals only.
+Consulting on getting online that turned into website hosting for a time and current web agency and maintenance firm. Works with referrals only.
 
 **1996 - 2001 Niche business software**
 

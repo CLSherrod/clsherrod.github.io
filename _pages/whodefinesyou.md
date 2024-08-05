@@ -6,4 +6,4 @@ permalink: /whodefinesyou/
 ---
 2013
 
-[Website design firm](https://whodefinesyou.com) that only works with referrals.
+[Web agency](https://whodefinesyou.com) that only works with referrals.
