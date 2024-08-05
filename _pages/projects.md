@@ -50,7 +50,7 @@ Published my book on how to create new ideas based on what you love that came ou
 
 **2008 [Consolidated several blogs](/welcome/)**
 
-Consolidated several website blogs on here ChristopherSherrod.com
+Consolidated several website blogs on here.
 
 **2007 - 2012 Speaker**
 
