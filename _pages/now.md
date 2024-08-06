@@ -7,7 +7,7 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Monday August 5th, 2024.
+Updated on Tuesday August 6th, 2024.
 
 ## Currently Doing
 I'm a writer. I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot). Currently learning how to turn markdown files into book formats.
@@ -31,14 +31,12 @@ See [Projects](/projects) for a full list of past projects.
 - [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](/1001-albums/)
 
 ## Recently Published
-- Migrating old posts from previous WordPress version of this website.
-- Updated my [home page](/) to be more of a summary page.
-- I've been writing poems since December, something new to me and I finally posted them to my website [poems](/categories/#poems)
-- Added some book reviews I wrote 24 years ago to [Reviews](https://christophersherrod.com/categories/#reviews) 400+ old posts left to review before republishing.
-- New website design and updated [projects page](/projects).
+- wrote [Striving for Balance - My True Life Goals](/striving-for-balance/) - My true life goals is beyond wealth.
+- Finished migrating old posts from previous WordPress version of this website.
 - Updated [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication and PassKeys](/security/) with PassKeys
-- Added [Explore page](/explore) to see all the major areas on the website
-- Updated [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/) from 2008. Inspiring list of successful people that dropped out of high school and went on to make it big.
+- Wrote poem [No Such Thing](/no-such-thing/)
+- Wrote poem [Insomniac's Solitude](/insomniac-solitude/)
+- Write poem [Flowers Are Fallen](/flowers-are-fallen/)
 - Wrote [Transformative Giving: Empowering Lives Through Direct Entrepreneurial Philanthropy](giving/)
 - Updated my [robots.txt file](/robots.txt) to disallow bad bots and AI crawlers and turned on [AI bot blocker in Cloudflare](http://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click) as well.
 - New article because a friend got hacked [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication](/security/)
