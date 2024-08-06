@@ -56,9 +56,9 @@ Consolidated several website blogs on here.
 
 Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book [How To Create New Business Ideas Based On What You Love](/business-ideas).
 
-**2006 - 2008 Real Estate**
+**2006 - 2008 [Real Estate](/real-estate/)**
 
-I found real estate deals and flipped them to investors. Closed after global financial crisis.
+I flipped real estate deals.
 
 **1999 - [Who Defines You - Web Agency](/whodefinesyou)**
 

@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: Captain Buys & Sells Real Estate
-permalink: /realestate/
+permalink: /real-estate/
 ---
 2006-2008
 
