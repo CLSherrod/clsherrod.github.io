@@ -22,4 +22,4 @@ Here is my <a href="https://s3.amazonaws.com/christophersherrod/hireassistant/VA
 
 And my <a href="https://s3.amazonaws.com/christophersherrod/hireassistant/Standard+Operating+Procedure+(SOP)+Template.txt">standard operating procedure template</a>. Modify it to suite your needs.
 
-&nbsp;</p>
+</p>

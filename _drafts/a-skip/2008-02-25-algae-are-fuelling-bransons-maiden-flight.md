@@ -9,7 +9,7 @@ tags:
 - clean technologies
 permalink: "/algae-are-fuelling-bransons-maiden-flight/"
 ---
-Richard Branson's new biofuel plane apparently has algae in part of the secret biofuel recipe.Â&nbsp; It will fly today.
+Richard Branson's new biofuel plane apparently has algae in part of the secret biofuel recipe.Â It will fly today.
 
 This is a great moment because it is the first time in history that air transportation and alternative fuel are being shown as commercially viable.</p>
 > This morning Virgin Atlantic and its suppliers Boeing and GE will stage a test flight of the world's first commercial biofuel plane.One of the airline's top pilots, Captain Geoff Andreason, Virgin Atlantic's chief Boeing pilot, will fly his plane from Heathrow to Amsterdam. It is a one-and-a-half hour flight and the assembled company watches on big screens as the plane takes off and lands.
