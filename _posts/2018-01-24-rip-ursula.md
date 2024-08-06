@@ -1,5 +1,5 @@
 ---
-title: Honoring Ursula K. Le Guin: A Sci-Fi Visionary Who Showed Us New Possibilities
+title: Honoring Ursula K. Le Guin - A Sci-Fi Visionary Who Showed Us New Possibilities
 date: 2018-01-24
 published: true
 categories:
