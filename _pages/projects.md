@@ -4,20 +4,17 @@ classes: wide
 title: Projects
 permalink: /projects/
 ---
-**2023 - [OBTF (One Big Text File) Journal Markdown](/obtf)**
-
+**2022 Markdown Projects**
+- [OBTF (One Big Text File) Journal Markdown](/obtf)
 OBTF (One Big Text File) Journal is a simple yet powerful solution for maintaining a journal in Markdown or plain text format.
 
-**2023 - [Home Manual Markdown](/home-manual)**
-
+- [Home Manual Markdown](/home-manual)
 Home Manual to track everything about your home in Markdown and wiki-style backlinks.
 
-**2022 - [Customer Relationship Management Markdown](/crm)**
-
+- [Customer Relationship Management Markdown](/crm)
 Track your contacts using plain text Markdown and wiki-style backlinks.
 
-**2022 - [Gardening Project Managment Markdown](/gardening)**
-
+- [Gardening Project Managment Markdown](/gardening)
 Track your gardening using plain text Markdown and wiki-style backlinks.
 
 **2021 - 2022 [Fresh Living](/freshliving/)**
