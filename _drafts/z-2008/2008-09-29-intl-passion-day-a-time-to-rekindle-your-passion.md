@@ -7,20 +7,6 @@ categories:
 tags:
 - leadership
 - love
-meta:
-  podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
-  _edit_last: '1'
-  _nectar_love: '0'
-  _sexybookmarks_shortUrl: http://b2l.me/4tuz2
-  _sexybookmarks_permaHash: 1a33fb454a801673c82e1d99099f16ed
-  dsq_thread_id: '43133188'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1475669552;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:4765;}i:1;a:1:{s:2:"id";i:1160;}i:2;a:1:{s:2:"id";i:7097;}}}}
-  _wpas_done_all: '1'
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '159'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524957642'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1597";s:5:"score";s:17:"92.56542389055737";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"289";s:5:"score";s:17:"55.63752754188322";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:2:"30";s:5:"score";s:16:"53.2191955172711";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"603";s:5:"score";s:17:"53.12240243564237";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"4593";s:5:"score";s:17:"49.66341627484776";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"632";s:5:"score";s:17:"46.49537819342565";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"277";s:5:"score";s:17:"46.49537819342565";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2017";s:5:"score";s:18:"46.381987506086524";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"1030";s:5:"score";s:18:"46.381987506086524";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"587";s:5:"score";s:18:"46.381987506086524";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"274";s:5:"score";s:18:"46.381987506086524";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"8023";s:5:"score";s:18:"42.923001345291915";}}
 permalink: "/intl-passion-day-a-time-to-rekindle-your-passion/"
 ---
 <a href="http://www.thepassiontest.com/offer/home/?af=na" rel="nofollow"><img class="alignright" title="The Passion Test" src="http://www.thepassiontest.com/images/database/830.jpg" alt="" width="156" height="240" / rel="nofollow"/></a>Chris and Janet Attwood are probably the most knowledgeable, most impressive, and most practical experts I know on what it takes to discover and live your passions.
