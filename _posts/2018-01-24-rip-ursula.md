@@ -6,7 +6,7 @@ categories:
 - Essays
 tags:
 - tribute
-permalink: /ursula-k-le-guin/"
+permalink: /ursula-k-le-guin/
 ---
 One of my favorite SciFi writers died Monday. She wrote stories that showed us how different things could be for us. “Light Hand To Darkness” was a major influence for me and highly recommended.
 
