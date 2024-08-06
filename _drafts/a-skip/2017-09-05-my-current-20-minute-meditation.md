@@ -4,7 +4,6 @@ date: 2017-09-05 09:00:04
 published: true
 categories:
 - Entrepreneurship
-- Mindset
 - Essays
 tags:
 - meditation

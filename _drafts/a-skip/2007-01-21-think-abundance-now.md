@@ -4,7 +4,6 @@ date: 2007-01-21 06:24:33.000000000 -06:00
 published: true
 categories:
 - Entrepreneurship
-- Mindset
 - Essays
 tags:
 - abundance

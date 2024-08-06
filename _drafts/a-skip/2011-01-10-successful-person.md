@@ -4,7 +4,6 @@ date: 2011-01-10 23:02:50.000000000 -06:00
 published: true
 categories:
 - Entrepreneurship
-- Mindset
 - Essays
 tags:
 - success

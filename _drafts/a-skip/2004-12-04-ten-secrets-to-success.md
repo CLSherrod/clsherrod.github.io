@@ -8,7 +8,6 @@ password: ’’
 status: publish
 categories:
 - Entrepreneurship
-- Mindset
 - Essays
 tags: []
 permalink: ”/ten-secrets-to-success/"

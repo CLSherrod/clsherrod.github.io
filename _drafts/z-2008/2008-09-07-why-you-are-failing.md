@@ -4,7 +4,6 @@ date: 2008-09-07 18:00:43
 published: true
 categories:
 - Entrepreneurship
-- Mindset
 - Essays
 tags:
 - business

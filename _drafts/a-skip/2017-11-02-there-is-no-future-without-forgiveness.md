@@ -4,7 +4,6 @@ date: 2017-11-02 09:00:30.000000000 -06:00
 published: true
 categories:
 - Entrepreneurship
-- Mindset
 - Essays
 tags: []
 permalink: "/there-is-no-future-without-forgiveness/"
