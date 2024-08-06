@@ -3,7 +3,6 @@ title: Dozens of new ideas created in one night
 date: 2007-01-30 09:13:13.000000000 -06:00
 published: true
 categories:
-- Entrepreneurship
 - Essays
 tags:
 - Business Ideas

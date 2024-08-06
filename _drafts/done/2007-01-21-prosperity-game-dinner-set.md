@@ -3,7 +3,6 @@ title: Prosperity Game Dinner set
 date: 2007-01-21 06:36:40.000000000 -06:00
 published: true
 categories:
-- Entrepreneurship
 - Essays
 tags:
 - Business Ideas

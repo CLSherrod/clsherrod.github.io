@@ -4,7 +4,6 @@ date: 2017-10-02 14:23:48
 published: true
 categories:
 - All Featured Articles
-- Entrepreneurship
 - Essays
 tags:
 - dolphin entrepreneur

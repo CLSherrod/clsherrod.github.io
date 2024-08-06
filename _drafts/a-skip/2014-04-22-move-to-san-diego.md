@@ -3,7 +3,6 @@ title: How I moved without knowing where I was going - Taking a leap of faith
 date: 2014-04-22 03:47:59
 published: true
 categories:
-- Entrepreneurship
 - Essays
 tags:
 - abundance

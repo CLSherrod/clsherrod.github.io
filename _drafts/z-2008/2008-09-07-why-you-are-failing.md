@@ -3,7 +3,6 @@ title: Why you are failing
 date: 2008-09-07 18:00:43
 published: true
 categories:
-- Entrepreneurship
 - Essays
 tags:
 - business

@@ -3,7 +3,6 @@ title: Are you the next Enlightened Entrepreneur that I publish?
 date: 2015-03-03 15:12:07.000000000 -06:00
 published: true
 categories:
-- Entrepreneurship
 - Essays
 tags:
 - book

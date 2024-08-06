@@ -3,7 +3,6 @@ title: 'Money and The Law of Attraction: Learning to Attract Health, Wealth & Ha
 date: 2008-08-13 22:00:35
 published: true
 categories:
-- Entrepreneurship
 - Essays
 tags:
 - business

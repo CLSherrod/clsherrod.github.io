@@ -3,7 +3,6 @@ title: Why Join A Mastermind Group?
 date: 2007-01-22 09:24:36.000000000 -06:00
 published: true
 categories:
-- Entrepreneurship
 - Essays
 tags:
 - Mastermind

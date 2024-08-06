@@ -3,7 +3,6 @@ title: What does a successful person do?
 date: 2011-01-10 23:02:50.000000000 -06:00
 published: true
 categories:
-- Entrepreneurship
 - Essays
 tags:
 - success

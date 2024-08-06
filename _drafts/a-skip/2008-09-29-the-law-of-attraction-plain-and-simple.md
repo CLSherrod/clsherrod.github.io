@@ -1,25 +1,11 @@
 ---
 title: The Law of Attraction, Plain and Simple
-date: 2008-09-29 21:52:37
+date: 2008-09-29
 published: true
 categories:
 - Essays
 tags:
 - business
-meta:
-  podPressPostSpecific: s:254:"s:245:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:2:"No";s:12:"itunes:block";s:2:"No";}";";
-  _edit_last: '1'
-  _sexybookmarks_shortUrl: http://b2l.me/4spmk
-  _sexybookmarks_permaHash: db29e23d2982782c9551d9cc29afbabe
-  dsq_thread_id: '43128912'
-  _nectar_love: '0'
-  _wpas_done_all: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1504198640;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:347;}i:1;a:1:{s:2:"id";i:1110;}i:2;a:1:{s:2:"id";i:1285;}}}}
-  _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '122'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524960465'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1285";s:5:"score";s:17:"63.11700900330271";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"398";s:5:"score";s:17:"58.71017018982042";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:3:"737";s:5:"score";s:17:"55.07185330295735";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:3:"427";s:5:"score";s:17:"50.80193692594082";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:4:"1373";s:5:"score";s:17:"48.26945853940958";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"831";s:5:"score";s:17:"48.26945853940958";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"393";s:5:"score";s:17:"48.26945853940958";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:3:"333";s:5:"score";s:17:"44.81047237861496";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"4550";s:5:"score";s:17:"44.69708169127584";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"383";s:5:"score";s:17:"41.94373827972951";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:3:"356";s:5:"score";s:17:"41.94373827972951";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:3:"604";s:5:"score";s:17:"41.23809553048123";}}
 permalink: "/the-law-of-attraction-plain-and-simple/"
 ---
 <div style="margin: 1ex;">

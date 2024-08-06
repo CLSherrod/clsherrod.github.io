@@ -4,7 +4,6 @@ date: 2018-12-05
 published: true
 categories:
 - All Featured Articles
-- Entrepreneurship
 - Essays
 tags:
 - launch

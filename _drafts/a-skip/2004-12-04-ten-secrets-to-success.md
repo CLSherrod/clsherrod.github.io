@@ -7,7 +7,6 @@ published: true
 password: ’’
 status: publish
 categories:
-- Entrepreneurship
 - Essays
 tags: []
 permalink: ”/ten-secrets-to-success/"
