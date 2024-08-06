@@ -21,7 +21,7 @@ permalink: "/4th-july-france/"
 
 They shut down the street.  They had to get permission from the major of Rennes to do this.  They had tables in the middle of the street with an iPod speaker playing French and American music.
 
-The food was fabulous.  Very very good.  Champagne, wine and hot dogs on the grill, French style hot dogs.Â  I don't eat pork so they made (just for me) two steaks.  I so wanted to eat it all so they won't feel bad but I could only eat one before I was stuffed.
+The food was fabulous.  Very very good.  Champagne, wine and hot dogs on the grill, French style hot dogs. I don't eat pork so they made (just for me) two steaks.  I so wanted to eat it all so they won't feel bad but I could only eat one before I was stuffed.
 
 Then we danced into the early morning.  Neighbors here are so friendly and helpful.  Best home exchange we have ever had.  I feel like we are living here and really getting a local flavor of what life is like here.  And we are seeing so many great sights and enjoying the local culture.
 

@@ -24,9 +24,9 @@ permalink: "/test-for-authenticity/"
 ---
 <img class="alignright" src="{{ site.baseurl }}/posts/2008/08/twohumps2.png" alt="" width="293" height="146" />
 
-I was reading Seth Godin's article about Real vs Slick and it my mind thought people resonate with real people.Â  They like authentic people.Â  That is why a lot of Internet Marketers are not highly thought of.Â  Kinda of like used car sales people.Â  People like real people.Â  Not flashy marketers but real people that happen to market.
+I was reading Seth Godin's article about Real vs Slick and it my mind thought people resonate with real people. They like authentic people. That is why a lot of Internet Marketers are not highly thought of. Kinda of like used car sales people. People like real people. Not flashy marketers but real people that happen to market.
 
-Are you being honest with yourself and your audience?Â  What is your perception from your audiences perspective?
+Are you being honest with yourself and your audience? What is your perception from your audiences perspective?
 >You can send me a hand-written note but don't write it in crayon with words spelled wrong and I'll read it. And you can send me a beautifully typeset Fedex package. But if you send me mass-produced junk with a dot matrix printer, out it goes. The dead zone again.
 
 That's why really well done HTML email works, as does unique, hand-typed text email. It's the banal stuff in the middle that people don't read. And yet, 95% of what I see is precisely in the dead spot of the middle zone.

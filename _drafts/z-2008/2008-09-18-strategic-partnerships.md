@@ -22,10 +22,10 @@ meta:
   _wp_rp_image: empty
 permalink: "/strategic-partnerships/"
 ---
-Are you struggling? Â Does it seem you are not moving forward?
+Are you struggling? Does it seem you are not moving forward?
 
 Have you thought about doing strategic partnerships?
 
-If you are running out of time to do what you want to do then partner with someone that can help. Â I was having this same problem and I started to partner with people. Â I have a ton of products coming on down the pipeline and I'm partnering on most of them.
+If you are running out of time to do what you want to do then partner with someone that can help. I was having this same problem and I started to partner with people. I have a ton of products coming on down the pipeline and I'm partnering on most of them.
 
-There is always a way to get something done. Â It is just a matter of figuring it out...or better yet intending it.
+There is always a way to get something done. It is just a matter of figuring it out...or better yet intending it.

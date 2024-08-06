@@ -8,7 +8,7 @@ tags:
 - business
 permalink: "/spontaneous-healing/"
 ---
-Gregg Braden former scientist now best selling spirtual author has a new book out,Â  <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">The Spontaneous Healing of Belief</a>.Â  I love the information that he writes about, science is proving that there is something to spirtuality.Â  In order to succeed in life you have to belief in yourself.
+Gregg Braden former scientist now best selling spirtual author has a new book out, <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">The Spontaneous Healing of Belief</a>. I love the information that he writes about, science is proving that there is something to spirtuality. In order to succeed in life you have to belief in yourself.
 
  *"Brilliant and insightful...I see Gregg Braden as one of our great  visionaries." *<br />
  ”**Dr. Wayne Dyer**, author of  *The Power  of Intention *
@@ -44,4 +44,4 @@ Take advantage of this limited-time book launch offer and you will receive:</p>
 - receive access to gifts from some of your favorite Hay House authors
 - receive access to gifts, products and services from our sponsors
 </ul>
-<p>I have a <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">bonus</a> available after you purchase the book named  *Above All Is Love * with a special link inside it.Â  Check it out at <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">Gregg Braden - Spontaneous Healing</a>.
+<p>I have a <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">bonus</a> available after you purchase the book named  *Above All Is Love * with a special link inside it. Check it out at <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">Gregg Braden - Spontaneous Healing</a>.

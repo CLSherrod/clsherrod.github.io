@@ -22,5 +22,5 @@ permalink: "/big-change-songs-for-finca/"
 ---
 <p>One of our charities that we support FINCA and their Village Banking project has a charity album.</p>
 <p style="margin-left: 40px"><strong>For every music lover on your list, </strong><a href="http://www.kintera.org/TR.asp?a=9eIHJRMoG6IML6J&amp;s=jjKZK9OQIoI0JcPPJqH&amp;m=juITJ5PSIkK3G" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)" rel="nofollow"><em style="color: #0000ff" rel="nofollow"><strong rel="nofollow">Big Change: Songs for FINCA</strong></em></a>, compiled by <em>Ambassador of Hope</em> Natalie Portman, is the ideal gift. Net proceeds from the first-ever iTunes charity album benefit the <a href="http://www.kintera.org/TR.asp?a=fuLUI6PIIiJ0JkL&amp;s=jjKZK9OQIoI0JcPPJqH&amp;m=juITJ5PSIkK3G" target="_blank" onclick="return top.js.OpenExtLink(window,event,this)" rel="nofollow">Village Banking Campaign</a>.</p>
-<p><strong><span style="font-weight: normal">Great album and a good cause.Â  Please support microeconomics and people directly by giving to this wonderful project.</span><br />
+<p><strong><span style="font-weight: normal">Great album and a good cause. Please support microeconomics and people directly by giving to this wonderful project.</span><br />
 </strong></p>

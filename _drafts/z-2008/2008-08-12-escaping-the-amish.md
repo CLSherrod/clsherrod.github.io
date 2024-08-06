@@ -25,11 +25,11 @@ permalink: "/escaping-the-amish/"
 ---
 <img class="alignright" title="Amish Girl" src="{{ site.baseurl }}/posts/2008/08/2672146709_f5613999e6.jpg" alt="" width="240" height="220" />
 
-Back in the late 1990's I wanted to be Amish.Â  I wanted freedom in what I considered an unfree world.Â  I wanted to live my life happy and thought being Amish would do that.
+Back in the late 1990's I wanted to be Amish. I wanted freedom in what I considered an unfree world. I wanted to live my life happy and thought being Amish would do that.
 
-I didn't become Amish and I found how to live free in what many considered an unfree world.Â  I found this article about one woman's escape from being Amish very interesting.Â  I believe that learning more and becoming more educated is the ultimate freedom.
+I didn't become Amish and I found how to live free in what many considered an unfree world. I found this article about one woman's escape from being Amish very interesting. I believe that learning more and becoming more educated is the ultimate freedom.
 
-People that know me now find it hard to understand how a very technical person like myself would want to become Amish and my personality now just makes people scratch their head, but the Amish were very intriguing to me.Â  This former Amish woman show that the grass isn't necessarily better on the other side.
+People that know me now find it hard to understand how a very technical person like myself would want to become Amish and my personality now just makes people scratch their head, but the Amish were very intriguing to me. This former Amish woman show that the grass isn't necessarily better on the other side.
 >I branded that thought and feeling into my head. I told myself never to forget it, that no matter how depressed or how much I might want to kill myself in the future, even if I don't have that same feeling again about wanting to live, I still shouldn't kill myself because there was a better life in store for me.
 
 At that point, I knew I had to escape.</blockquote>

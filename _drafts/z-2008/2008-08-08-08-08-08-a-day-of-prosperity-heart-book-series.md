@@ -26,7 +26,7 @@ permalink: "/08-08-08-a-day-of-prosperity-heart-book-series/"
 ---
 <img class="alignright" src="{{ site.baseurl }}/posts/2008/08/8s.jpg" alt="" width="328" height="218" />
 
-Yesterday was prosperity day.Â  08-08-08.
+Yesterday was prosperity day. 08-08-08.
 
 This blogger has a great article about prosperity day and a lot of cool history.
 >Today is a most unusual day. if you embrace the Gregorian calendar, like we do in the Western World.  Today is the 8th of August, 2008.  We indicated it with 8/8/8 and the multiple 8s mean some interesting things to many people.

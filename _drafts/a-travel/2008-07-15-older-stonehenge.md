@@ -22,7 +22,7 @@ permalink: "/older-stonehenge/"
 ---
 <a href="http://flickr.com/photos/eaglechris/sets/72157606014898048/"><img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/07/2648419429_c9bbf3e665_m.jpg" alt="" width="240" height="180" /></a>Last week I went to Carnac here on the north west coast of France.  I hadn't heard of Carnac the place.  When I heard it the first time I thought my friends were talking about the Johnny Carson skit he used to do.
 
-Well, Carnac is an amazing place.  It has thousands of stones in strange formations.Â  Here were are in front of them.
+Well, Carnac is an amazing place.  It has thousands of stones in strange formations. Here were are in front of them.
 
 <a href="http://flickr.com/photos/eaglechris/sets/72157606014898048/"><img class="alignleft" style="float: left;" src="{{ site.baseurl }}/posts/2008/07/2646694922_70a461e890_m.jpg" alt="" width="240" height="180" /></a>They are dated older than Stonehenge and they number around 3000.  Strange thing is that on Google Earth the area with large stones (see photo to the left) are blacked out.  I thought only governments could do this due to national secrets.  What secret is being hidden here?
 

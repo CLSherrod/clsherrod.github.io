@@ -32,17 +32,17 @@ Dave Freeman had visited half the places mentioned in his book whose recommendat
 He died after falling over at his home in Venice, California, and hitting his head.</blockquote>
 <p>He wrote the book on what to do before you die and he only gets through half the book.
 
-What are you doing to live your life?Â  Are you waiting until you retire?
+What are you doing to live your life? Are you waiting until you retire?
 
 Another quote from a blog post. From one of the founders of Wall Street Stock Market.
 >Do not save money, that's the most foolish thing you can do. Whatever money you earn, give instantly half to your children, they will love you for that. Spend the other half traveling and enjoying life. Money is of no worth when you are old and then you realize that it's the time that matters.</blockquote>
-<p>You can enjoy life and save and invest money.Â  But live life.Â  Don't live and then find out it's too late to travel, have fun and enjoy life.
+<p>You can enjoy life and save and invest money. But live life. Don't live and then find out it's too late to travel, have fun and enjoy life.
 
-My grandmother was retired most of my life.Â  All I remember her doing is sitting in front of the T.V. and staring at it.Â  If someone got up she would immediately ask them to go get her a Coke or food.Â  She never moved.Â  She did this for at least 30 years, day after day.Â  I would rather be dead.
+My grandmother was retired most of my life. All I remember her doing is sitting in front of the T.V. and staring at it. If someone got up she would immediately ask them to go get her a Coke or food. She never moved. She did this for at least 30 years, day after day. I would rather be dead.
 
-I grew up in Alaska.Â  I move all the time.Â  Flew from lake to lake and incredible small town to even smaller town.Â  I had a blast.Â  When I moved to Arizona I drove all over the state and took photographs.Â  I took a consulting job in the Bahamas just because it was in the Bahamas.Â  I had a blast diving and snorkeling.
+I grew up in Alaska. I move all the time. Flew from lake to lake and incredible small town to even smaller town. I had a blast. When I moved to Arizona I drove all over the state and took photographs. I took a consulting job in the Bahamas just because it was in the Bahamas. I had a blast diving and snorkeling.
 
-The last two summers I've gone to Europe.Â  Three summers ago I went to Panama and Mexico.Â  And I've been to the beach five or six times in the last three years.Â  Life is a blast.
+The last two summers I've gone to Europe. Three summers ago I went to Panama and Mexico. And I've been to the beach five or six times in the last three years. Life is a blast.
 
 What are you doing to have a blast?
 

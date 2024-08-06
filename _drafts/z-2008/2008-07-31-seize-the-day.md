@@ -21,6 +21,6 @@ meta:
   _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:4:"1034";s:5:"score";s:17:"52.13711941405335";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:4:"7173";s:5:"score";s:17:"43.78554962575674";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"2784";s:5:"score";s:17:"43.78554962575674";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"1041";s:5:"score";s:17:"43.78554962575674";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"688";s:5:"score";s:17:"43.78554962575674";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:3:"350";s:5:"score";s:17:"43.78554962575674";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:3:"271";s:5:"score";s:17:"43.78554962575674";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:2:"32";s:5:"score";s:17:"43.78554962575674";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:4:"2099";s:5:"score";s:18:"19.959606736723412";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"280";s:5:"score";s:17:"17.93640491333852";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"1289";s:5:"score";s:17:"15.25685622232383";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"4408";s:5:"score";s:18:"10.971129486161791";}}
 permalink: "/seize-the-day/"
 ---
-Sandpipers run towards the waves to eat and take their opportunity.Â  Then when the waves come back they get out of the way.Â  They seize the day and take their opporunity.
+Sandpipers run towards the waves to eat and take their opportunity. Then when the waves come back they get out of the way. They seize the day and take their opporunity.
 
 Are you seizing your day?

@@ -27,6 +27,6 @@ permalink: "/nigeria-tiff-sends-branson-packing/"
 The Sir Richard Branson- founded carrier owns 49 per cent of Virgin Nigeria together with Nigerian institutional investors who hold 51 per cent.
 
 The domestic carrier has recently been in dispute with the government over whether its operations should be based at the domestic or international terminal.</blockquote>
-<p>Another reason to try often and cut the losers quickly.Â  When government changes it minds then the whole country is off.Â  Move on and wait until they country settles down again.
+<p>Another reason to try often and cut the losers quickly. When government changes it minds then the whole country is off. Move on and wait until they country settles down again.
 
 <a href="http://www.bdafrica.com/index.php?option=com_content&amp;task=view&amp;id=9498&amp;Itemid=5810" rel="nofollow">Business Daily Africa - the international window into East African business opportunities - Nigeria tiff sends Branson packing</a></p>

@@ -23,6 +23,6 @@ permalink: "/donald-trump-vs-richard-branson/"
 ---
 Someone has a poll of who is better at marketing Donald Trump or Richard Branson.
 
-I think you know my pick.Â  Go vote for your favorite.
+I think you know my pick. Go vote for your favorite.
 
 <a href="http://mktg.typepad.com/marketingjoint/2008/06/donald-trump-vs.html" rel="nofollow">Marketing Joint: Donald Trump vs. Richard Branson</a></p>

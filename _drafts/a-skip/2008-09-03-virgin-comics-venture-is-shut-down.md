@@ -24,8 +24,8 @@ meta:
 permalink: "/virgin-comics-venture-is-shut-down/"
 ---
 <blockquote>Virgin Comics, the joint venture between Richard Branson's Virgin Group and the Indian comics publisher Gotham Entertainment Group, has been shut down</p></blockquote>
-<p>Try often and cut the ideas that don't work.Â  That is what Richard Branson is good at.Â  Virgin Comics was shut down because it wasn't making enough or any money.
+<p>Try often and cut the ideas that don't work. That is what Richard Branson is good at. Virgin Comics was shut down because it wasn't making enough or any money.
 
-I learned this myself again a few months ago. I came out with a product that didn't do well.Â  My next product was a big hit.Â  Sometimes you never know so it's just best to plan your best and go for it.Â  Ready, Fire and Aim mentality.Â  It works.
+I learned this myself again a few months ago. I came out with a product that didn't do well. My next product was a big hit. Sometimes you never know so it's just best to plan your best and go for it. Ready, Fire and Aim mentality. It works.
 
 <a href="http://www.nytimes.com/2008/08/27/arts/27arts-VIRGINCOMICS_BRF.html?_r=1&amp;ref=arts&amp;oref=slogin" rel="nofollow">Arts, Briefly - Virgin Comics Venture Is Shut Down - Brief - NYTimes.com</a></p>

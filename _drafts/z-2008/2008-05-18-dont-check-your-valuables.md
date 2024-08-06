@@ -22,6 +22,6 @@ permalink: "/dont-check-your-valuables/"
 ---
 Here is a story about a very frequent traveler losing thousands of dollars of electronics out of his luggage.
 
-Moral of story.Â  Do not check your electronics ever.Â  You can buy toothpaste and underwear anywhere for spare change.Â  Electronics are a pain to replace and costly.
+Moral of story. Do not check your electronics ever. You can buy toothpaste and underwear anywhere for spare change. Electronics are a pain to replace and costly.
 
 <a href="http://ma.tt/2008/05/dont-check-your-valuables/" rel="nofollow">Ma.tt Â» Don't Check Your Valuables</a></p>

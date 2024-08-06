@@ -12,6 +12,6 @@ Lynne McTaggart who wrote the book <a href="http://www.amazon.com/gp/product/074
 
 On September 14, 2008 will see the start of the first in a series of Peace Intention Experiments testing the power of group intention to lower violence in areas around the world.
 
-If you have read her book or know someone that has you know how these intentional experiments really work.Â  It's amazing.
+If you have read her book or know someone that has you know how these intentional experiments really work. It's amazing.
 
 Join me at <a href="http://www.thepeaceintentionexperiment.com/" rel="nofollow">ThePeaceintentionExperiment.com</a> and lets's intend peace.

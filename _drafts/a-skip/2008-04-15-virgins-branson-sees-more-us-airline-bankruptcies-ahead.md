@@ -10,7 +10,7 @@ permalink: "/virgins-branson-sees-more-us-airline-bankruptcies-ahead/"
 ---
 With American Airlines making a major customer service mistake that with this current airline environment could spell the end of the airline and with fuel costs a well run company like Virgin America can do very well in the USA.
 
-When the economy for an industry is growing companies that are well run can stay in business, but when the economy gets hard a ton of companies will go out of business.Â  Well run companies will last, poorly run companies will go out of business.
+When the economy for an industry is growing companies that are well run can stay in business, but when the economy gets hard a ton of companies will go out of business. Well run companies will last, poorly run companies will go out of business.
 
 >The weak American economy will force more U.S. airlines, including a major carrier, into bankruptcy within 18 months, Virgin Atlantic Airways chief Richard Branson said Thursday.
 

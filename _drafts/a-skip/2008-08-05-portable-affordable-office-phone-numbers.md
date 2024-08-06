@@ -26,6 +26,6 @@ permalink: "/portable-affordable-office-phone-numbers/"
 ---
 A former business associate pays $120 a month for a business phone line even though they are between offices so they are not even using it.
 
-I told them about <a href="http://www.skype.com" rel="nofollow">Skype</a> In phone number and how you can choose what country and area code.Â  You can also receive the phone call from anywhere in the world.Â  Just login to your Skype account on a computer and it'll ring right on it.
+I told them about <a href="http://www.skype.com" rel="nofollow">Skype</a> In phone number and how you can choose what country and area code. You can also receive the phone call from anywhere in the world. Just login to your Skype account on a computer and it'll ring right on it.
 
 I'm in Paris France as I write this and my Skype In phone number rings here.</p>

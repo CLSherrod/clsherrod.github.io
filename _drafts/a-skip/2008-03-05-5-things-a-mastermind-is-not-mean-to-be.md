@@ -39,7 +39,7 @@ meta:
   _wpb_vc_js_status: 'false'
 permalink: "/5-things-a-mastermind-is-not-mean-to-be/"
 ---
-<p>These five items that a mastermind is not is a great reminder.Â  Mastermind members are there to give good feedback not be a coach.</p>
+<p>These five items that a mastermind is not is a great reminder. Mastermind members are there to give good feedback not be a coach.</p>
 >A few years ago I was in a similar situation where I was in a six figure mastermind group. One of the members, who happened to be my buddy, started to drift off and not engage. I could tell he wasn't really too involved with our calls and his energy was totally off. When I would ask him what he wanted that wasn't happening I could never get a straight answer.</p>
 <p>What I finally realized is that on some level, he had inappropriate expectations about how the group should support him.</p></blockquote>
 <p><a href="http://www.evancarmichael.com/Mastermind-Group/2008/03/5-things-mastermind-is-not-mean-to-be.html" rel="nofollow">Mastermind Group Resources: 5 Things a Mastermind IS NOT Mean to Be</a></p>

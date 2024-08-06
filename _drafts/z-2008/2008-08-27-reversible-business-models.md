@@ -23,7 +23,7 @@ meta:
   _wp_rp_image: empty
 permalink: "/reversible-business-models/"
 ---
-I just finished reading this excellent post.Â  Here is a quote.
+I just finished reading this excellent post. Here is a quote.
 >In China, some doctors are paid monthly when you are healthy. If you are sick, it's their fault, so you don't have to pay that month. It's their goal to get you healthy and keep you healthy so they can get paid.
 
 Shai Agassi of Better Place designed a business model for electric cars where the car is given away for free because the company makes its profit on the electricity and battery maintenance.</blockquote>
