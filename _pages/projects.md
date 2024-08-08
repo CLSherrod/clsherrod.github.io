@@ -37,7 +37,7 @@ I'm a musician and artist known as Chr1stopher.
 
 I believe no matter how old your relationship is you still need to set aside at least one night a week for a date night. 
 
-**2010 - 2017 [Nan Akasha](/nanakasha)**
+**2011 - 2014 [Nan Akasha](/nanakasha)**
 
 Minority investor in one of my previous clients.
 
@@ -60,12 +60,12 @@ I flipped real estate deals.
 **1999 - [Who Defines You - Web Agency](/whodefinesyou)**
 
 Consulting on getting online that turned into website hosting for a time and current web agency and maintenance firm. Works with referrals only.
-- 2024 - Added Static Web Framework Development
+- 2023 - Added Static Web Framework Development
 - 2022 - Added custom art design
 - 2018 - Added WooCommerce shop setup & maintenance
 - 2015 - [Won A Publishing Award](/publishing-award/)
 - 2007 - Added WordPress Development
-- 1999 - HTML Web Development
+- 1999 - HTML & PHPNuke Web Development
 
 **1996 - 2001 Niche business software**
 
