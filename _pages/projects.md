@@ -19,7 +19,7 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 
 **2021 - 2022 [Fresh Living](/freshliving/)**
 
-Import company of Mexican fresh produce to the US.
+Import company of fresh produce to the US.
 
 **2020 - [Hiring Virtual Workers For Small Business Book](/hiring)**
 
