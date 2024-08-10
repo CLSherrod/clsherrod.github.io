@@ -6,6 +6,7 @@ categories:
 tags:
 - slow lifestyle
 permalink: /striving-for-balance/
+toc: true
 published: true
 excerpt: My true life goals is beyond wealth
 ---

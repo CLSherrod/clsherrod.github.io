@@ -7,6 +7,7 @@ tags:
 - entreprenuership
 - partnerships
 permalink: "slicing-pie"
+toc: true
 published: true
 excerpt: The Slicing Pie Handbook offers a refreshingly fair and practical approach to equity splits, making it an indispensable guide for anyone involved in the startup world.
 ---
@@ -17,10 +18,6 @@ excerpt: The Slicing Pie Handbook offers a refreshingly fair and practical appro
 ## Addressing Equitable Equity Splits
 
 The book addresses a critical and often overlooked aspect of startups: equitable equity splits. Entrepreneurs and early-stage company participants frequently find themselves at a disadvantage with bad equity deals, which have become the norm rather than the exception. Moyer's framework, based on the dynamic equity model from his earlier book *Slicing Pie*, offers a refreshingly fair and logical approach to equity distribution.
-
-## Lessons Learned
-
-If I knew what is in this book many years ago I would have avoided a situation where I owned a small percentage of a company but all the debt and had no control over sales.
 
 ## The Simple Yet Profound Slicing Pie Model
 
@@ -34,6 +31,14 @@ What sets *The Slicing Pie Handbook* apart is its practical application. Moyer b
 
 If you're involved in a small business or startup with big plans or even considering starting one, this book is indispensable. It will save you from potential pitfalls and provide a roadmap to fair and sustainable equity distribution. *The Slicing Pie Handbook* is not just a guide; it's a toolkit for building stronger, fairer partnerships and ultimately more successful businesses.
 
+## My Lessons Learned
+
+If I knew what is in this book many years ago I would have avoided a situation where I owned a small percentage of a company but all the debt and had no control over sales.
+
+I've also learned that for most situations just paying for a service provider is better than giving them equity in the company. And only give out equity when someone provides something that is unique and leveragable. And following this book methodology only givng out slices of equity as people earn it.
+
+Fifty fifty splits are always at some point unfair to one side. I've been fortunate in not doing that, but I've had clients who come to regret their 50/50 splits. This book fixes that issue.
+
 ## A Must Read
 
-Mike Moyer's [The Slicing Pie Handbook](https://amzn.to/3Yy5Ptl) is a must-read for anyone serious about entrepreneurship. Its fair and practical approach to equity splits is revolutionary and essential for small businesses. Don't start your next venture without it.
+Mike Moyer's [The Slicing Pie Handbook](https://amzn.to/3Yy5Ptl) is a must-read for anyone serious about entrepreneurship. Its fair and practical approach to equity splits is revolutionary and essential for small businesses. Don't start your next venture without it. And fix your current ventures with this book.

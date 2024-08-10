@@ -64,7 +64,7 @@ Consulting on getting online that turned into website hosting for a time and cur
 - 2022 - Added custom art design
 - 2018 - Added WooCommerce shop setup & maintenance
 - 2015 - [Won A Publishing Award](/publishing-award/)
-- 2007 - Added WordPress Development
+- 2007 - Added WordPress Development, WordPress before public release
 - 1999 - HTML & PHPNuke Web Development
 
 **1996 - 2001 Niche business software**

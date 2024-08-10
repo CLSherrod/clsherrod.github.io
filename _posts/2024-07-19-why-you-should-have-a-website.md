@@ -1,11 +1,12 @@
 ---
 title: Why You Should Have a Website
-date: 2024-07-19T22:32:46.623Z
+date: 2024-07-19
 categories:
 - Essays
 tags:
 - writing
 permalink: /why-you-should-have-a-website/
+toc: true
 published: false
 excerpt: Having your own website offers numerous benefits, making it a valuable asset for anyone.
 ---
