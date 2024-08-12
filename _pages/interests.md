@@ -32,16 +32,8 @@ I love photography. I even got a minor in it in college. I sold a single photo t
 ## Sci-fi
 I love a good thought provoking scifi movie or series. Not the horror ones, but the classic 50s thought experiments style.  A good Star Trek over anything Star Wars.
 
-- Currently watching [Dark Matter](https://www.imdb.com/title/tt19231492/?ref_=fn_al_tt_1) - fun sci-fi
-- Truly weird sc-fi planet on [Scavengers Reign](https://www.imdb.com/title/tt21056886/?ref_=hm_rvi_tt_i_3) made it very different from most sci-fi out there. The animation led to making the truly weird and foreign plants and animals.
-- Enjoyed Season 3 of [Resident Alien](https://www.imdb.com/title/tt8690918/episodes/?season=3)
-- I found the moral questions and sci-fi comedy of [Uploads Season 3](https://www.imdb.com/title/tt7826376/episodes/?season=3) to be fun.
-- I really liked [3 Body Problem](https://www.netflix.com/search?q=3%20body%20problem&jbv=81024821) on Netflix. I watched the Chinese 30 episode show last year which was excellent. The English remake makes it more accessible with a faster pace and even better effects.
-
-[My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
-
-### Enjoying My Cats
-It’s been over a year since three stray cats crawled over our wall into our compound. One was adopted out and the mother and daughter became part of the family. We were told they were unadopted because they were both a bit wild but now they are great at couch cuddling and playing.
+## Enjoying My Cats
+We have two cats. One in our living area and another in my writer's casita.
 
 ![Ixchel](/assets/images/Ixchel.webp)
 

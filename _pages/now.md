@@ -45,7 +45,7 @@ See [Projects](/projects) for a full list of past projects.
 - I updated my team workflow article for 2024 [Boost Your Content Production Game: Essential Apps and Tools for 2024!](/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing and livestream service StreamYard.
 - Wrote [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/) on how I write my learning notes.
 
-## Interests
+## Reading
 ### Currently Reading
 - [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So are I really like it. 
 - I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
@@ -57,11 +57,23 @@ See [Projects](/projects) for a full list of past projects.
 
 My past books I’ve read listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
-### Music
+## Music
 I'm listening to:
+- Looking forward to listening to the new [Tycho album - Infinite Health](https://tychomusic.com)
 - New [Pearl Jam](https://pearljam.com) album [Dark Matter](https://pearljam.com/news/dark-matter-out-now) is great.
 - The album [Better Will Come](https://lnk.dmsmusic.co/flamingosis_betterwillcome) by [Flamingosis](http://www.flamingosis.com) is a fun listen.
 - Love [Kamasi Washington](https://www.kamasiwashington.com)’s new Album “Fearless Movement”. He is one of the best modern jazz musicians.
-- I recommend the [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com) challenge. You can [see my rated albums](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476). I enjoyed it so much I wrote an [entire essay about it](https://christophersherrod.com/1001-albums/).
-- [My profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
 
+I recommend the [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com) challenge. You can [see my rated albums](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476). I enjoyed it so much I wrote an [entire essay about it](https://christophersherrod.com/1001-albums/).
+
+And check out [my profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
+
+## Sci-Fi Movies
+- Watching Tron Uprising currently
+- Enjoyed [Dark Matter](https://www.imdb.com/title/tt19231492/?ref_=fn_al_tt_1) - fun sci-fi
+- Truly weird sc-fi planet on [Scavengers Reign](https://www.imdb.com/title/tt21056886/?ref_=hm_rvi_tt_i_3) made it very different from most sci-fi out there. The animation led to making the truly weird and foreign plants and animals.
+- Enjoyed Season 3 of [Resident Alien](https://www.imdb.com/title/tt8690918/episodes/?season=3)
+- I found the moral questions and sci-fi comedy of [Uploads Season 3](https://www.imdb.com/title/tt7826376/episodes/?season=3) to be fun.
+- I really liked [3 Body Problem](https://www.netflix.com/search?q=3%20body%20problem&jbv=81024821) on Netflix. I watched the Chinese 30 episode show last year which was excellent. The English remake makes it more accessible with a faster pace and even better effects.
+
+[My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
