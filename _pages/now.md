@@ -24,8 +24,9 @@ See [Projects](/projects) for a full list of past projects.
 
 ## Popular Essays
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
-- [Boost Your Content Production Game: Essential Apps and Tools for 2024!](/workflow/)
 - [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](/1001-albums/)
+- [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
+- [Boost Your Content Production Game: Essential Apps and Tools for 2024!](/workflow/)
 
 ## Recently Published
 - Wrote a review [Mastering Startup Equity: A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships](/slicing-pie/)
