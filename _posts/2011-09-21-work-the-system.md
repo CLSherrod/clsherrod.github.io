@@ -1,7 +1,7 @@
 ---
 title: "Work the System - The Simple Mechanics of Making More and Working Less"
 date: 2021-09-21
-last_updated: 2024-08-11
+last_updated: 2024-08-12
 categories:
 - Reviews
 tags:
@@ -10,11 +10,11 @@ tags:
 permalink: "/work-the-system/"
 toc: true
 published: true
-excerpt: *Work the System* by Sam Carpenter is a game-changing guide that teaches readers how to streamline their work and life by adopting a systems-based approach, ultimately leading to greater efficiency, less stress, and more success with less effort.
+excerpt: Work the System by Sam Carpenter is a game-changing guide that teaches readers how to streamline their work and life by adopting a systems-based approach, ultimately leading to greater efficiency, less stress, and more success with less effort.
 ---
 ## Systemizing Your Business
 
-Sam Carpenter's [*Work the System: The Simple Mechanics of Making More and Working Less*](https://amzn.to/4cuI3lC)) offers a refreshing and practical approach to achieving efficiency, productivity, and ultimately, a more fulfilling life. Carpenter’s work provides both insightful guidance and real-world examples that resonate with readers across industries.
+Sam Carpenter's [Work the System: The Simple Mechanics of Making More and Working Less](https://amzn.to/4cuI3lC)) offers a refreshing and practical approach to achieving efficiency, productivity, and ultimately, a more fulfilling life. Carpenter’s work provides both insightful guidance and real-world examples that resonate with readers across industries.
 
 ## The Core Message: A Systems Mindset
 
