@@ -1,14 +1,13 @@
 ---
-title: How To Live Review
+title: "Why How To Live by Derek Sivers is the Next Self-Development Classic You'll Reference for Life"
 date: 2021-06-24
 categories:
 - Reviews
 tags:
 - self-worth
-last_modified_at: 2024-08-12
 toc: true
-permalink: "/how-to-live/"
 published: true
+permalink: "/how-to-live/"
 excerpt: "My review on the new book How To Live"
 ---
 [How To Live](https://sive.rs/h) is an instant classic that will be referenced a hundred years from now. Did you ever want a book that spelled out how to live various parts of your life, from living an independent life, thinking long-term and how to make memories. Even, how to become rich.
