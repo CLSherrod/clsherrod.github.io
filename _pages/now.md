@@ -7,19 +7,16 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Tuesday August 6th, 2024.
+Updated on August 12th, 2024.
 
 ## Currently Doing
-I'm a writer. I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot). Currently learning how to turn markdown files into book formats.
+I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot). Currently learning how to turn markdown files into book formats.
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
-- [One Big Text File Markdown Journal](/obtf)
-- [Home Manual Markdown](/home-manual)
-- [Customer Relationship Management Markdown](/crm)
-- [Gardening Project Managment Markdown](/gardening)
 - I publish an [expat newsletter](/expatrebel).
 - [Date Night Spinner](/date-night-spinner)
+- Created some markdown projects for certain tasks I do [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), [Gardening Project Managment Markdown](/gardening)
 - I operate a [web design firm](/whodefinesyou) on referrals only.
 
 ## Previous Projects
@@ -31,6 +28,7 @@ See [Projects](/projects) for a full list of past projects.
 - [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](/1001-albums/)
 
 ## Recently Published
+- wrote a review [Mastering Startup Equity: A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships](/slicing-pie/)
 - wrote [Striving for Balance - My True Life Goals](/striving-for-balance/) - My true life goals is beyond wealth.
 - Finished migrating old posts from previous WordPress version of this website.
 - Updated [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication and PassKeys](/security/) with PassKeys
