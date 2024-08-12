@@ -1,6 +1,6 @@
 ---
 title: "My Bed is a Spaceship - Poem"
-date: 
+date: 2024-08-16
 categories:
 - Poem
 tags:

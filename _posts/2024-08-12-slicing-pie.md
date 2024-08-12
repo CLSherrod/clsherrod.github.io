@@ -1,5 +1,5 @@
 ---
-title: "The Slicing Pie Handbook: A Must-Read Guide for Fair and Sustainable Equity Splits in Startups and Small Businesses"
+title: "Mastering Startup Equity: A Review of *The Slicing Pie Handbook* for Fair and Sustainable Partnerships"
 date: 2024-08-12
 categories:
 - Reviews
@@ -35,10 +35,20 @@ If you're involved in a small business or startup with big plans or even conside
 
 If I knew what is in this book many years ago I would have avoided a situation where I owned a small percentage of a company but all the debt and had no control over sales.
 
-I've also learned that for most situations just paying for a service provider is better than giving them equity in the company. And only give out equity when someone provides something that is unique and leveragable. And following this book methodology only givng out slices of equity as people earn it.
+I've also learned that for most situations just paying for a service provider is better than giving them equity in the company. And only give out equity when someone provides something that is unique, has leveragable skills and is a great compliment. And following this book methodology only givng out slices of equity as people **earn it**.
 
-Fifty fifty splits are always at some point unfair to one side. I've been fortunate in not doing that, but I've had clients who come to regret their 50/50 splits. This book fixes that issue.
+Fifty fifty splits are always at some point unfair to one side. Don't do it. I've had clients who come to regret their 50/50 splits. This book fixes that issue.
 
 ## A Must Read
 
 Mike Moyer's [The Slicing Pie Handbook](https://amzn.to/3Yy5Ptl) is a must-read for anyone serious about entrepreneurship. Its fair and practical approach to equity splits is revolutionary and essential for small businesses. Don't start your next venture without it. And fix your current ventures with this book.
+
+## Past Partnership Essays
+
+Also read my past posts about partnerships:
+
+- [Strategic Partnerships](/strategic-partnerships/)
+- [5 Lessons learned from working with partners](/5-lessons-learned-from-working-with-partners/)
+- [5 Ways to Test Out Your Next Joint Venture Business Partner](/5-ways-to-test-out-your-next-joint-venture-business-partner/)
+- [ Lessons From My Partnership Telesummit](/partnerships/)
+- [Boyfriend/Girlfriend/Partner it’s all the same](/boyfriend-girlfriend-partner-its-all-the-same/)
