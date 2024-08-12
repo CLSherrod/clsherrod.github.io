@@ -46,7 +46,7 @@ See [Projects](/projects) for a full list of past projects.
 - Wrote [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/) on how I write my learning notes.
 
 ## Currently Reading
-- [Nobody Wants To Read Your Sh*t](https://amzn.to/4fK9Tgy) - great so far
+- [Nobody Wants To Read Your Sh*t: Why That Is And What You Can Do About It](https://amzn.to/4fK9Tgy) - great so far
 - [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So are I really like it. 
 - I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
 
