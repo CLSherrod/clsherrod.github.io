@@ -16,11 +16,11 @@ I’m currently writing a book about my [electromagnetic hypersensitivity](/emf)
 - Writing helpful essays here on what has worked for me in life. See recently published below.
 - I publish an [expat newsletter](/expatrebel).
 - Created [Date Night Spinner](/date-night-spinner) for the romantic types.
-- Created some markdown projects for certain tasks I do [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), and [Gardening Project Managment Markdown](/gardening).
-- I operate a [web design firm](/whodefinesyou) on referrals only.
+- Created some markdown projects for certain tasks I do: [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), and [Gardening Project Managment Markdown](/gardening).
+- I operate a [web agency firm](/whodefinesyou) on referrals only.
 
 ## Previous Projects
-See [Projects](/projects) for a full list of past projects.
+See [Projects](/projects) for a full list of public past projects.
 
 ## Popular Essays
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
