@@ -45,15 +45,10 @@ See [Projects](/projects) for a full list of past projects.
 - I updated my team workflow article for 2024 [Boost Your Content Production Game: Essential Apps and Tools for 2024!](/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing and livestream service StreamYard.
 - Wrote [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/) on how I write my learning notes.
 
-## Reading
-### Currently Reading
+## Currently Reading
+- [Nobody Wants To Read Your Sh*t](https://amzn.to/4fK9Tgy) - great so far
 - [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So are I really like it. 
 - I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
-
-### Last Read Books
-- [Generative AI for Busy Business Leaders: How to Use AI With Your Team (A short book that covers simple frameworks and strategies for using gen AI at work)](https://amzn.to/436CyX3) which gave some ideas on how to implement AI into my business.
-- [Email reputation explained well: How to keep your domains’ reputation clean while growing your business, from someone who had to learn the hard way by Nicolò Rebughini](https://amzn.to/3V9gzwA) which helped me clean up my newsletter lists and increase my deliverability.
-- [This Book is One Page Long: A One-Page Guide that Explains Why (and How) to Write Short Nonfiction Books (Everything You Need to Know to Start Writing and Publishing Kindle Books on Amazon) by Hassan Osman](https://amzn.to/48PiiKE).
 
 My past books I’ve read listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
