@@ -6,7 +6,7 @@ categories:
 tags:
 - entreprenuership
 - partnerships
-permalink: "slicing-pie"
+permalink: "/slicing-pie"
 toc: true
 published: true
 excerpt: The Slicing Pie Handbook offers a refreshingly fair and practical approach to equity splits, making it an indispensable guide for anyone involved in the startup world.
