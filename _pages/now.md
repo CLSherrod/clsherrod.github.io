@@ -45,14 +45,14 @@ See [Projects](/projects) for a full list of past projects.
 - I updated my team workflow article for 2024 [Boost Your Content Production Game: Essential Apps and Tools for 2024!](/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing and livestream service StreamYard.
 - Wrote [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/) on how I write my learning notes.
 
-## Currently Reading
+## Reading
 - [Nobody Wants To Read Your Sh*t: Why That Is And What You Can Do About It](https://amzn.to/4fK9Tgy) - great so far
-- [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So are I really like it. 
-- I’m reading [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
+- [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So far I really like it. 
+- [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
 
-My past books I’ve read listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
+I [review](/categories/#reviews) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
-## Music
+## Listening
 I'm listening to:
 - Looking forward to listening to the new [Tycho album - Infinite Health](https://tychomusic.com)
 - New [Pearl Jam](https://pearljam.com) album [Dark Matter](https://pearljam.com/news/dark-matter-out-now) is great.
@@ -63,7 +63,7 @@ I recommend the [1001 Albums You Must Hear Before You Die](https://1001albumsgen
 
 And check out [my profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
 
-## Sci-Fi Movies
+## Watching
 - Watching Tron Uprising currently
 - Enjoyed [Dark Matter](https://www.imdb.com/title/tt19231492/?ref_=fn_al_tt_1) - fun sci-fi
 - Truly weird sc-fi planet on [Scavengers Reign](https://www.imdb.com/title/tt21056886/?ref_=hm_rvi_tt_i_3) made it very different from most sci-fi out there. The animation led to making the truly weird and foreign plants and animals.
