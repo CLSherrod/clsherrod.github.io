@@ -28,9 +28,8 @@ See [Projects](/projects) for a full list of past projects.
 - [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](/1001-albums/)
 
 ## Recently Published
-- wrote a review [Mastering Startup Equity: A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships](/slicing-pie/)
-- wrote [Striving for Balance - My True Life Goals](/striving-for-balance/) - My true life goals is beyond wealth.
-- Finished migrating old posts from previous WordPress version of this website.
+- Wrote a review [Mastering Startup Equity: A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships](/slicing-pie/)
+- Wrote [Striving for Balance - My True Life Goals](/striving-for-balance/) - My true life goals is beyond wealth.
 - Updated [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication and PassKeys](/security/) with PassKeys
 - Wrote poem [No Such Thing](/no-such-thing/)
 - Wrote poem [Insomniac's Solitude](/insomniac-solitude/)

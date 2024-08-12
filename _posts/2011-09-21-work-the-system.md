@@ -7,7 +7,7 @@ categories:
 tags:
 - entreprenuership
 - systems
-permalink: "work-the-system"
+permalink: "/work-the-system/"
 toc: true
 published: true
 excerpt: *Work the System* by Sam Carpenter is a game-changing guide that teaches readers how to streamline their work and life by adopting a systems-based approach, ultimately leading to greater efficiency, less stress, and more success with less effort.
