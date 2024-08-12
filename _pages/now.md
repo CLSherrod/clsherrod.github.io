@@ -63,8 +63,10 @@ I recommend the [1001 Albums You Must Hear Before You Die](https://1001albumsgen
 
 And check out [my profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
 
-## Watching
-- Watching Tron Uprising currently
+## Watched
+- Interesting movie [Wonderland](https://www.imdb.com/title/tt31254554/?ref_=rt_t_6)
+- Fun [Kingdom of the Planet of the Apes](https://www.imdb.com/title/tt11389872/?ref_=rt_t_10)
+- Good, but not a huge fan of [Dune: Part Two](https://www.imdb.com/title/tt15239678/?ref_=rt_t_22)
 - Enjoyed [Dark Matter](https://www.imdb.com/title/tt19231492/?ref_=fn_al_tt_1) - fun sci-fi
 - Truly weird sc-fi planet on [Scavengers Reign](https://www.imdb.com/title/tt21056886/?ref_=hm_rvi_tt_i_3) made it very different from most sci-fi out there. The animation led to making the truly weird and foreign plants and animals.
 - Enjoyed Season 3 of [Resident Alien](https://www.imdb.com/title/tt8690918/episodes/?season=3)
