@@ -1,6 +1,6 @@
 ---
-title: Email Deliverbility
-date: 2023-11-28
+title: "Mastering Email Deliverability: Key Takeaways from Email Reputation Explained Well"
+date: 2023-12-14
 categories:
 - Reviews
 tags:
