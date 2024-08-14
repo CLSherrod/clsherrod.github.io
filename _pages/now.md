@@ -7,7 +7,7 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on August 12th, 2024.
+Updated on August 14th, 2024.
 
 ## Currently Doing
 I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot). Currently learning how to turn markdown files into book formats.
@@ -16,8 +16,8 @@ I’m currently writing a book about my [electromagnetic hypersensitivity](/emf)
 - Writing helpful essays here on what has worked for me in life. See recently published below.
 - I publish an [expat newsletter](/expatrebel).
 - Created [Date Night Spinner](/date-night-spinner) for the romantic types.
-- Created some markdown projects for certain tasks I do: [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), and [Gardening Project Managment Markdown](/gardening).
-- I operate a [web agency firm](/whodefinesyou) on referrals only.
+- Created some markdown projects for certain tracking I do in markdown text: [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), and [Gardening Project Managment Markdown](/gardening).
+- I operate a [web agency](/whodefinesyou) on referrals only.
 
 ## Previous Projects
 See [Projects](/projects) for a full list of public past projects.
@@ -30,6 +30,7 @@ See [Projects](/projects) for a full list of public past projects.
 
 ## Recently Published
 - Wrote a review [Mastering Startup Equity: A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships](/slicing-pie/)
+- Wrote a love letter to my love [A Heartfelt Love Letter to My Soulmate: Celebrating Our Timeless Connection](/love-letter/)
 - Wrote [Striving for Balance - My True Life Goals](/striving-for-balance/) - My true life goals is beyond wealth.
 - Updated [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication and PassKeys](/security/) with PassKeys
 - Wrote poem [No Such Thing](/no-such-thing/)
