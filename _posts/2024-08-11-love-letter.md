@@ -5,6 +5,9 @@ categories:
 - Poems
 tags:
 - love
+teaser: /assets/images/poems/love-letter.webp
+header:
+  image: /assets/images/poems/love-letter.webp
 permalink: "/love-letter/"
 published: true
 excerpt: Love letter to my love.
