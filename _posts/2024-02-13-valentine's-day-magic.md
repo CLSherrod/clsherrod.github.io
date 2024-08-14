@@ -7,6 +7,9 @@ categories:
 tags:
 - love
 - lyric poem
+teaser: /assets/images/poems/valentines-day-magic.webp
+header:
+  image: /assets/images/poems/valentines-day-magic.webp
 permalink: /valentines-day-magic/
 excerpt: A love poem for my love on Valentine's Day.
 ---

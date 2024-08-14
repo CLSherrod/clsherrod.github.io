@@ -13,7 +13,7 @@ teaser: /assets/images/poems/loves-journey.webp
 header:
   image: /assets/images/poems/loves-journey.webp
 ---
-I recently celebrated 19 years together with the love of my life Nan Akasha. Having a love so deep I think is quite rare in the world. I wrote a poem to celebrate.
+I recently celebrated 19 years together with the love of my life. Having a love so deep I think is quite rare in the world. I wrote a poem to celebrate.
 
 ## Love's Journey: Nineteen Years and Counting
 
