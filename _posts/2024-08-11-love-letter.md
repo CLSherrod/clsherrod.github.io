@@ -27,4 +27,5 @@ I cherish every moment we share, whether it’s in the serenity of meditation or
 Thank you for being my partner, my confidant, my everything. My love for you grows deeper every day, and I am forever grateful that I get to spend my life loving you.
 
 With all my heart,
+
 Chris
