@@ -12,7 +12,7 @@ permalink: "/love-letter/"
 published: true
 excerpt: Love letter to my love.
 ---
-I miss see romantic gestures in public. So, besides my poems about love and self-worth. I wrote a love letter to my love.
+I miss seeing romantic gestures in public. So, besides my poems about love and self-worth. I wrote a love letter to my love.
 
 To my love,
 

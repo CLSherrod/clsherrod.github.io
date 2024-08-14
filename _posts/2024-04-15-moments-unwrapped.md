@@ -7,6 +7,9 @@ categories:
 tags:
 - slow lifestyle
 - lyric poem
+teaser: /assets/images/poems/moments-unwrapped.webp
+header:
+  image: /assets/images/poems/moments-unwrapped.webp
 permalink: /moments-unwrapped/
 excerpt: Poem about the present, the now, what you are actually living is a gift, a present.
 ---

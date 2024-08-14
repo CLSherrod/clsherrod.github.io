@@ -7,6 +7,9 @@ categories:
 tags:
 - slow lifestyle
 - lyric poem
+teaser: /assets/images/poems/life-between-the-waves.webp
+header:
+  image: /assets/images/poems/life-between-the-waves.webp
 permalink: /life-between-the-waves/
 excerpt: Poem about living life between the waves.
 ---

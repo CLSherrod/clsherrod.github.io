@@ -7,6 +7,9 @@ categories:
 tags:
 - self-worth
 - lyric poem
+teaser: /assets/images/poems/to-be.webp
+header:
+  image: /assets/images/poems/to-be.webp
 permalink: /to-be-the-only-answer/
 excerpt: Poem about to be is a gift.
 ---

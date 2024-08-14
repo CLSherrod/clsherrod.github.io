@@ -7,6 +7,9 @@ categories:
 tags:
 - slow lifestyle
 - lyric poem
+teaser: /assets/images/poems/sunset-blessings.webp
+header:
+  image: /assets/images/poems/sunset-blessings.webp
 permalink: /sunset-blessings/
 excerpt: Poem about xploring the beauty and wisdom of each fleeting moment.
 ---

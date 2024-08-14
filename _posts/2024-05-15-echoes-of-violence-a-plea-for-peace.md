@@ -7,6 +7,9 @@ categories:
 tags:
 - peace
 - lyric poem
+teaser: /assets/images/poems/echoes-of-violence.webp
+header:
+  image: /assets/images/poems/echoes-of-violence.webp
 permalink: /echoes-of-violence/
 excerpt: 
 ---

@@ -7,6 +7,9 @@ categories:
 tags:
 - slow lifestyle
 - lyric poem
+teaser: /assets/images/poems/silent-joy.webp
+header:
+  image: /assets/images/poems/silent-joy.webp
 permalink: /silent-joy/
 excerpt: Poem about enjoying the silence.
 ---

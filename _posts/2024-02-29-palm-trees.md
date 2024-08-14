@@ -6,6 +6,9 @@ categories:
 - Poems
 tags:
 - haiku poem
+teaser: /assets/images/poems/palm-trees.webp
+header:
+  image: /assets/images/poems/palm-trees.webp
 permalink: /palm-trees/
 excerpt: Haiku poem about palm trees.
 ---
