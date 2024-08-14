@@ -1,7 +1,7 @@
 main:
 - title: "Blog"
   url: /blog/
-  children:
+  subnav:
   - title: "Essays"
     url: /categories/#essays/
   - title: "Reviews"
@@ -10,11 +10,8 @@ main:
     url: /categories/#poems/
   - title: "News"
     url: /categories/#news/
-  - title: "Categories"
-    url: /categories/
   - title: "Tags"
     url: /tags/
-
 - title: "Newsletter"
   url: /newsletter/
 - title: "Books"
