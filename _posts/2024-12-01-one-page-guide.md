@@ -1,5 +1,5 @@
 ---
-title: "This Book is One Page Long - A One-Page Guide that Explains Why (and How) to Write Short Nonfiction Books"
+title: "A One-Page Guide that Explains Why (and How) to Write Short Nonfiction Books - Book Review"
 date: 2023-12-01
 categories:
 - Reviews
