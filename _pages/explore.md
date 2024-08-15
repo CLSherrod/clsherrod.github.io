@@ -9,18 +9,18 @@ header:
 ---
 Explore more that is on my website.
 
-- [Blog](/blog)
+- [Blog](/blog/)
   - [Essays](/categories/#essays), [Reviews](/categories/#reviews), [Poems](/categories/#poems), [News](/categories/#news)
-- [Newsletter](/newsletter)
+- [Newsletter](/newsletter/)
 - [About](/about/)
 - [Hello](/hello/)
 - [Now](/now/)
-- [Projects](/projects)
+- [Projects](/projects/)
 - [Uses](/uses/)
 - [Interests](/interests/)
 - [Blogroll](h/blogroll/)
 - [Podroll](/podroll/)
 - [Colophon](/colophon/)
-- [ChangeLog]/changelog/)
-- [Feed](/feed)
+- [ChangeLog](/changelog/)
+- [Feed](/feed/)
 - [Sitemap](/sitemap.xml)
