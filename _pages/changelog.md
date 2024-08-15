@@ -10,4 +10,4 @@ Changed theme to [Minimal Mistakes](https://github.com/mmistakes/minimal-mistake
 Switched site to the [Jekyll platform](https://jekyllrb.com) with the [Jekyll TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme) and [GitHub Pages](https://pages.github.com).
 
 ## V 1 (2008-11-21)
-Setup using [WordPress](https://wordpress.org) from numerous other WordPress blogs and content from [GeoCities](https://en.wikipedia.org/wiki/GeoCities) and [PHPNuke](https://en.wikipedia.org/wiki/PHP-Nuke) sites.
+Setup using [WordPress](https://wordpress.org) from numerous other WordPress blogs, [GeoCities](https://en.wikipedia.org/wiki/GeoCities), and [PHPNuke](https://en.wikipedia.org/wiki/PHP-Nuke) sites.
