@@ -16,6 +16,7 @@ ChristopherSherrod.com is written by Christopher Sherrod.
 - [Eagle](https://en.eagle.cool) to export graphics to webp format
 
 ## Server Software
+- [CloudFlare](https://www.cloudflare.com) - DNS rules galore
 - [Jekyll](https://jekyllrb.com) - static website builder
 - [GitHub Pages](https://pages.github.com) - to host site
 
