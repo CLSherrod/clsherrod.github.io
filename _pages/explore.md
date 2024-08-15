@@ -22,5 +22,5 @@ Explore more that is on my website.
 - [Podroll](/podroll/)
 - [Colophon](/colophon/)
 - [ChangeLog](/changelog/)
-- [Feed](/feed/)
+- [Feed](/feed)
 - [Sitemap](/sitemap.xml)
