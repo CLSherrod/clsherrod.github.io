@@ -18,7 +18,7 @@ Explore more that is on my website.
 - [Projects](/projects/)
 - [Uses](/uses/)
 - [Interests](/interests/)
-- [Blogroll](h/blogroll/)
+- [Blogroll](/blogroll/)
 - [Podroll](/podroll/)
 - [Colophon](/colophon/)
 - [ChangeLog](/changelog/)
