@@ -26,4 +26,4 @@ I use [Obsidian](http://obsidian.md/) to write and [VSCodium](http://vscodium.co
 I also use [Eagle](https://en.eagle.cool) to export graphics to webp format to keep the website page speed really fast.
 
 ## Change Log
-See the detailed [change log](/changelog/).
+See the [change log](/changelog/).
