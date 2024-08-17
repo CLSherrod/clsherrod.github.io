@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Site Colophon
+title: Colophon
 permalink: /colophon/
 toc: true
 ---
