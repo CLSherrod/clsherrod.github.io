@@ -1,7 +1,7 @@
 ---
 title: "The Power of Letting Go: Why Not Caring What Others Think is One of Life's Greatest Lessons"
 description: ""
-date: 2024-08-26
+date: 2024-09-02
 categories:
 - Essays
 tags:
