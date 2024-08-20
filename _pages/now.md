@@ -29,7 +29,7 @@ See [Projects](/projects) for a full list of public past projects.
 - [Boost Your Content Production Game: Essential Apps and Tools for 2024!](/workflow/)
 
 ## Recently Published
-- Wrote an essay [Why Preparing for the Olympics and Building a Business Are Not the Same](/olypmics-is-not-business/)
+- Wrote an essay [Why Preparing for the Olympics and Building a Business Are Not the Same](/olympics-is-not-business/)
 - Wrote a review [Mastering Startup Equity: A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships](/slicing-pie/)
 - Wrote a love letter to my love [A Heartfelt Love Letter to My Soulmate: Celebrating Our Timeless Connection](/love-letter/)
 - Wrote [Striving for Balance - My True Life Goals](/striving-for-balance/) - My true life goals is beyond wealth.
