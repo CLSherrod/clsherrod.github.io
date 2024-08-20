@@ -32,7 +32,7 @@ lunr:
 
 # Google Analytics
 analytics:
-  provider: false # false (default), "google", "custom"
+  provider: google # false (default), "google", "custom"
   google:
     tracking_id : G-JZPN0Q5H4L # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
