@@ -18,6 +18,10 @@ Consulting on getting online that turned into website hosting for a time and cur
 
 Weekly newsletter educating people in the expat niche.
 
+**2012 - [Chr1stopher](/chr1stopher)**
+
+I'm a musician and artist known as Chr1stopher.
+
 **2022 Markdown Projects**
 - [OBTF (One Big Text File) Journal Markdown](/obtf)
 OBTF (One Big Text File) Journal is a simple yet powerful solution for maintaining a journal in Markdown or plain text format.
@@ -38,10 +42,6 @@ Import company of fresh produce to the US.
 **2020 [Hiring Virtual Workers For Small Business Book](/hiring)**
 
 I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
-
-**2012 - [Chr1stopher](/chr1stopher)**
-
-I'm a musician and artist known as Chr1stopher.
 
 **2012 [Date Night Spinner](/date-night-spinner/)**
 
