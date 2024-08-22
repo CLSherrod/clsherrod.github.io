@@ -4,12 +4,12 @@ classes: wide
 title: Projects
 permalink: /projects/
 ---
-**1999 - [Who Defines You - Web Agency](/whodefinesyou)** - Consulting on getting online that turned into website hosting for a time and current web agency and maintenance firm. Works with referrals only.
+**1999 - [Who Defines You - Web Agency](/whodefinesyou)** - Consulting on getting online that turned into website hosting for a time and current web agency. Works with referrals only.
 
 
 **2018 - [Expat Rebel](/expatrebel)** - Weekly newsletter educating people in the expat niche.
 
-**2012 - [Chr1stopher](/chr1stopher)** - I'm a musician and artist known as Chr1stopher.
+**2012 - [Chr1stopher](/chr1stopher)** - I'm a musician and visual artist known as Chr1stopher.
 
 **2022 Markdown Projects**
 - [OBTF (One Big Text File) Journal Markdown](/obtf)
