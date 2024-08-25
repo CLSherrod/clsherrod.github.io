@@ -6,9 +6,6 @@ permalink: /projects/
 ---
 **1999 - [Who Defines You - Web Agency](/whodefinesyou)** - Consulting on getting online that turned into website hosting for a time and current web agency. Works with referrals only.
 
-
-**2018 - [Expat Rebel](/expatrebel)** - Becoming and being an Expat.
-
 **2012 - [Chr1stopher](/chr1stopher)** - I'm a musician and visual artist known as Chr1stopher.
 
 **2022 Markdown Projects**
@@ -27,6 +24,8 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 **2021 - 2022 [Fresh Living](/freshliving/)** - Import company of fresh produce to the US.
 
 **2020 [Hiring Virtual Workers For Small Business Book](/hiring)** - I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
+
+**2018 [Expat Rebel](/expatrebel)** - Becoming and being an Expat.
 
 **2012 [Date Night Spinner](/date-night-spinner/)** - I believe no matter how old your relationship is you still need to set aside at least one night a week for a date night. 
 
