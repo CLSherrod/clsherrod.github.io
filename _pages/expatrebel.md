@@ -6,4 +6,4 @@ permalink: /expatrebel/
 ---
 2018
 
-An [expat newsletter](https://expatrebel.com) with content from current expats, mini-courses and guidebooks.
+An how to become and be an [expat course](https://expatrebel.com).

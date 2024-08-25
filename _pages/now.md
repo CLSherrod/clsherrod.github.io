@@ -15,7 +15,7 @@ I’m currently writing a book about my [electromagnetic hypersensitivity](/emf)
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
 - I operate a [web agency](/whodefinesyou) on referrals only.
-- I publish an [expat newsletter](/expatrebel).
+- I have a course on becoming and being an [Expat](/expatrebel).
 - Created [Date Night Spinner](/date-night-spinner) for the romantic types.
 - Created some markdown projects for certain tracking I do in markdown text: [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), and [Gardening Project Managment Markdown](/gardening).
 
