@@ -21,11 +21,9 @@ I’ve penned down my business philosophy, dubbed the [Dolphin Entrepreneur](/do
 Being in the game for the long haul, I enjoy sharing my business insights through my [my articles here](/blog). You can catch ‘em all right here on my site.
 
 ## My current featured articles
-[Expert Book Writing and Publishing: 19 Proven Strategies](/book-advice/)
-
-[Boost Your Content Production Game: Apps and Tools for 2024!](/workflow)
-
-[How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
+- [Expert Book Writing and Publishing: 19 Proven Strategies](/book-advice/)
+- [Boost Your Content Production Game: Apps and Tools for 2024!](/workflow)
+- [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 
 ## Main Topics
 [#entreneurship](/tags#entrepreneurship), [#workflow](/tags/#workflow-apps), [#idea generation](tags/#idea-generation), [#tributes](/tags/#tribute)
