@@ -7,7 +7,7 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Monday August 19th, 2024.
+Updated on Monday August 26th, 2024.
 
 ## Currently Doing
 I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot). Currently learning how to turn markdown files into book formats.
@@ -29,6 +29,7 @@ See [Projects](/projects) for a full list of public past projects.
 - [Boost Your Content Production Game: Essential Apps and Tools for 2024!](/workflow/)
 
 ## Recently Published
+- Wrote a poem [Forests Are For Rest](/forests-are-for-rest/)
 - Wrote an essay [Why Preparing for the Olympics and Building a Business Are Not the Same](/olympics-is-not-business/)
 - Wrote a review [Mastering Startup Equity: A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships](/slicing-pie/)
 - Wrote a love letter to my love [A Heartfelt Love Letter to My Soulmate: Celebrating Our Timeless Connection](/love-letter/)
