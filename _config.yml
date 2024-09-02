@@ -11,7 +11,7 @@ title: 👋 • Christopher Sherrod
 subtitle: "Author & web agency owner"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Author & web agency owner.
+  Author & web agency owner
 twitter_username: chrissherrod
 github_username: clsherrod
 minimal_mistakes_skin: air
@@ -99,7 +99,7 @@ plugins:
 author:
   name   : "Christopher Sherrod"
   avatar : "/assets/images/avatar.webp"
-  bio    : "Author & web agency owner."
+  bio    : "Author & web agency owner"
   links:
     - label: "Newsletter"
       icon: "fa-regular fa-envelope"
