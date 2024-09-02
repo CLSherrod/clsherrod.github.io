@@ -10,7 +10,7 @@ header:
 Updated on Monday September 2nd, 2024.
 
 ## Currently Doing
-- editing the 10th edition of [How To Create New Business Ideas Based On What You Love](/books/#how-to-create-new-business-ideas-based-on-what-you-love)
+- Editing the 10th edition of [How To Create New Business Ideas Based On What You Love](/books/#how-to-create-new-business-ideas-based-on-what-you-love)
 - I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot). Currently learning how to turn markdown files into book formats.
 
 ## Current Projects
