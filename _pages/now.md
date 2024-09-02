@@ -7,10 +7,11 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Monday August 26th, 2024.
+Updated on Monday September 2nd, 2024.
 
 ## Currently Doing
-I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot). Currently learning how to turn markdown files into book formats.
+- editing the 10th edition of [How To Create New Business Ideas Based On What You Love](/books/#how-to-create-new-business-ideas-based-on-what-you-love)
+- I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot). Currently learning how to turn markdown files into book formats.
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
@@ -29,6 +30,7 @@ See [Projects](/projects) for a full list of public past projects.
 - [Boost Your Content Production Game: Essential Apps and Tools for 2024!](/workflow/)
 
 ## Recently Published
+- Review a book [Why Nobody Wants to Read Your Sh-t is a Must-Read for Aspiring Writers: Lessons from a Marketing and Screenwriting Pro](/nobody-wants-to-read-you/)
 - Wrote a poem [Forests Are For Rest](/forests-are-for-rest/)
 - Wrote an essay [Why Preparing for the Olympics and Building a Business Are Not the Same](/olympics-is-not-business/)
 - Wrote a review [Mastering Startup Equity: A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships](/slicing-pie/)

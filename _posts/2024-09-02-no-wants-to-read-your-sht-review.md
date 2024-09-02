@@ -1,13 +1,13 @@
 ---
-title: "Why *Nobody Wants to Read Your Sh*t* is a Must-Read for Aspiring Writers: Lessons from a Marketing and Screenwriting Pro"
-date: 2024-08-30
+title: "Why Nobody Wants to Read Your Sh-t is a Must-Read for Aspiring Writers: Lessons from a Marketing and Screenwriting Pro"
+date: 2024-09-02
 categories:
 - Reviews
 tags:
 - book
 - writing
-permalink: "/nobody-wants-to-read-your-sht/"
-published: false
+permalink: "/nobody-wants-to-read-you/"
+published: true
 excerpt:
 ---
 A friend recommended that I read [Nobody Wants To Read Your Sh*t](https://amzn.to/3SOgFaT), and I didn’t take it as an insult. I’ve had my share of hits and misses with my writing, so I was intrigued that someone tackled this topic head-on.
