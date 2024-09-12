@@ -43,7 +43,7 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 
 **2006 - 2008 [Real Estate](/real-estate/)** - I flipped real estate deals.
 
-**1996 - 1997 [American Express](https://americanexpress.com)** - On launch team for first online presence of American Express. Project won internal award for innovation. Resigned when my software company launched.
+**1996 - 1997 [American Express](https://americanexpress.com)** - On launch team for first online presence of American Express. Project won internal award for innovation. Resigned when my software company had a big launch.
 
 **1992 - 2001 Niche business software** - Created and sold business software for a niche market on Windows & Mac.
 
@@ -53,4 +53,4 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 
 **1989-1991 Business document delivery business** - my own business I ran during summer breaks between college semeters delivering timely important mortage documents
 
-**1988 - 1991 [Northern Arizona University](https://degree-search.nau.edu/degree/CISBSBAX) & [Phoenix College](https://phoenixcollege.edu)** - with a Bachelor of Science in Business Administration and a minor in Photography with cum laude honors
+**1988 - 1991 [Northern Arizona University](https://degree-search.nau.edu/degree/CISBSBAX) & [Phoenix College](https://phoenixcollege.edu)** - with a Bachelor of Science in Business Administration and a minor in Photography graduated with cum laude
