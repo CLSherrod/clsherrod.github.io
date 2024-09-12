@@ -6,7 +6,7 @@ permalink: /projects/
 ---
 **1999 - [Who Defines You - Web Agency](/whodefinesyou)** - Consulting on getting online that turned into website hosting for a time and current web agency. Works with referrals only.
 
-**2008 - Writer** - [books](/books/) and [essays](/blog/)
+**2000 - Author** - [books](/books/) and [essays](/blog/)
 
 **2012 - [Chr1stopher](/chr1stopher)** - I'm a visual artist and musician known as Chr1stopher.
 
