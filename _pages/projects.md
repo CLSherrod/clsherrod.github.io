@@ -47,7 +47,7 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 
 **1992- 1992 [Arizona State University](https://asu.edu)** - one semeter in a Decision Information Systems Graduate degree that confirmed I wanted to do my own company and not this degree
 
-**1991 - 1992 [Salt River Project](https://srpnet.com))** - documented an engineering project for management
+**1991 - 1992 [Salt River Project](https://srpnet.com)** - documented an engineering project for management
 
 **1989-1991 Business document delivery business** - my own business I ran during summer breaks between college semeters delvering timely important mortage documents
 
