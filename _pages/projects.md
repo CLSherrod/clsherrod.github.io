@@ -33,9 +33,9 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 
 **2011 - 2014 [Nan Akasha](/nanakasha)** - Minority investor in one of my previous clients.
 
-**2008 [How To Create New Business Ideas Based On What You Love Book](/business-ideas)** - Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
-
 **2008 [Consolidated several blogs](/welcome/)** - Consolidated several website blogs on here.
+
+**2007 [How To Create New Business Ideas Based On What You Love Book](/business-ideas)** - Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
 
 **2007 - 2012 Speaker** - Presenter of my business theory that you need to start a business based on what you love so you’ll stick with it during startup and when it’s difficult. Several speaking opportunities lead to self-publishing a book [How To Create New Business Ideas Based On What You Love](/business-ideas).
 
