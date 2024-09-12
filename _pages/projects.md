@@ -53,4 +53,4 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 
 **1989-1991 Business document delivery business** - my own business I ran during summer breaks between college semeters delivering timely important mortage documents
 
-**1988 - 1991 [Northern Arizona University](https://degree-search.nau.edu/degree/CISBSBAX) & [Phoenix College](https://phoenixcollege.edu)** - with a Bachelor of Science in Business Administration and a minor in Photography
+**1988 - 1991 [Northern Arizona University](https://degree-search.nau.edu/degree/CISBSBAX) & [Phoenix College](https://phoenixcollege.edu)** - with a Bachelor of Science in Business Administration and a minor in Photography with cum laude honors
