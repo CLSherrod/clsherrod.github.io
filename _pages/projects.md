@@ -23,15 +23,15 @@ Track your contacts using plain text Markdown and wiki-style backlinks.
 - [Gardening Project Managment Markdown](/gardening)
 Track your gardening using plain text Markdown and wiki-style backlinks.
 
+**2018 [Expat Rebel](/expatrebel)** - Becoming and being an Expat.
+
+**2012 [Date Night Spinner](/date-night-spinner/)** - I believe no matter how old your relationship is you still need to set aside at least one night a week for a date night. 
+
 ## Previous Projects
 
 **2021 - 2022 [Fresh Living](/freshliving/)** - Import company of fresh produce to the US.
 
 **2020 [Hiring Virtual Workers For Small Business Book](/hiring)** - I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
-
-**2018 [Expat Rebel](/expatrebel)** - Becoming and being an Expat.
-
-**2012 [Date Night Spinner](/date-night-spinner/)** - I believe no matter how old your relationship is you still need to set aside at least one night a week for a date night. 
 
 **2011 - 2014 [Nan Akasha](/nanakasha)** - Minority investor in one of my previous clients.
 
@@ -47,7 +47,7 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 
 **1992 - 2001 Niche business software** - Created and sold business software for a niche market on Windows & Mac.
 
-**1992- 1992 [Arizona State University](https://asu.edu)** - one semeter in a Decision Information Systems Graduate degree that confirmed I wanted to do my own company and not this degree
+**1992- 1992 [Arizona State University](https://asu.edu)** - one semeter in a Decision Information Systems Masters degree that confirmed I wanted to do my own company
 
 **1991 - 1992 [Salt River Project](https://srpnet.com)** - documented an engineering project for management
 
