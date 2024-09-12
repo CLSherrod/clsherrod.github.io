@@ -44,3 +44,5 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 **1996 - 2001 Niche business software** - Created and sold business software for a niche market on Windows & Mac.
 
 **1996 - 1997 [American Express](https://americanexpress.com)** - On launch team for first online presence of American Express. Project won internal award for innovation. Resigned when my software company launched.
+
+**1988 - 1991 [Northern Arizone University](https://degree-search.nau.edu/degree/CISBSBAX) & [Phoenix College](https://phoenixcollege.edu)** - with a Bachelor of Science in Business Administration and a minor in Photography
