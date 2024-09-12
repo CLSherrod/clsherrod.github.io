@@ -49,6 +49,6 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 
 **1991 - 1992 [Salt River Project](https://srpnet.com))** - documented an engineering project for management
 
-**1989-1991 Business document delivery business for mortage companies** - my own business I ran during summer breaks between college semeters
+**1989-1991 Business document delivery business** - my own business I ran during summer breaks between college semeters delvering timely important mortage documents
 
 **1988 - 1991 [Northern Arizona University](https://degree-search.nau.edu/degree/CISBSBAX) & [Phoenix College](https://phoenixcollege.edu)** - with a Bachelor of Science in Business Administration and a minor in Photography
