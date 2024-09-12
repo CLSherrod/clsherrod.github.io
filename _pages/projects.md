@@ -41,8 +41,14 @@ Track your gardening using plain text Markdown and wiki-style backlinks.
 
 **2006 - 2008 [Real Estate](/real-estate/)** - I flipped real estate deals.
 
-**1996 - 2001 Niche business software** - Created and sold business software for a niche market on Windows & Mac.
-
 **1996 - 1997 [American Express](https://americanexpress.com)** - On launch team for first online presence of American Express. Project won internal award for innovation. Resigned when my software company launched.
 
-**1988 - 1991 [Northern Arizone University](https://degree-search.nau.edu/degree/CISBSBAX) & [Phoenix College](https://phoenixcollege.edu)** - with a Bachelor of Science in Business Administration and a minor in Photography
+**1992 - 2001 Niche business software** - Created and sold business software for a niche market on Windows & Mac.
+
+**1992- 1992 [Arizona State University](https://asu.edu)** - one semeter in a Decision Information Systems Graduate degree that confirmed I wanted to do my own company and not this degree
+
+**1991 - 1992 [Salt River Project](https://srpnet.com))** - documented an engineering project for management
+
+**1989-1991 Business document delivery business for mortage companies** - my own business I ran during summer breaks between college semeters
+
+**1988 - 1991 [Northern Arizona University](https://degree-search.nau.edu/degree/CISBSBAX) & [Phoenix College](https://phoenixcollege.edu)** - with a Bachelor of Science in Business Administration and a minor in Photography
