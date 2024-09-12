@@ -23,6 +23,8 @@ Track your contacts using plain text Markdown and wiki-style backlinks.
 - [Gardening Project Managment Markdown](/gardening)
 Track your gardening using plain text Markdown and wiki-style backlinks.
 
+## Previous Projects
+
 **2021 - 2022 [Fresh Living](/freshliving/)** - Import company of fresh produce to the US.
 
 **2020 [Hiring Virtual Workers For Small Business Book](/hiring)** - I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
