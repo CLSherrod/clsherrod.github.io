@@ -4,10 +4,10 @@ title: What I Use
 permalink: /uses/
 toc: true
 ---
-Contact me from my [hello page](/hello/) on any improvements. Last update: 2024-07-18
+Contact me from my [hello page](/hello/) on any improvements. Last update: 2024-10-08
 
 ## Hardware
-- [MacBook Air](https://www.apple.com/macbook-air/) since 2017, MacBook Pro before that
+- [MacBook Air M3](https://www.apple.com/macbook-air/) now, first real computer was an Apple IIe - long list of computers dating back to 1976ish, mostly Apple.
 - [Keychron K6 Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard)
 - [Logitech MX ERGO Mouse](https://www.logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.html)
 - [Rode smartLav+ Microphone](https://rode.com/en/microphones/mobile/smartlav-plus)
