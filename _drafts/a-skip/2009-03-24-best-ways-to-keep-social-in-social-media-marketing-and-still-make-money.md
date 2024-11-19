@@ -46,4 +46,4 @@ The most common clicked tweets are statements and opening questions.  Using the
 - Inspire people to pursue what they know
 </ul>
 <p>Do not twitter all day long.  Use Twitter and don't let it control you.  Otherwise you wind up like that person in the video above which will just annoy your followers.</div>
-<p>If you’d like to “follow” me, just check out <a id="drz3" title="my twitter page" href="http://www.twitter.com/EagleChris" target="_blank" rel="nofollow">my twitter page</a> and click on follow.  See you online.
+<p>If you’d like to “follow” me, just check out <a id="drz3" title="my twitter page" href="http://www.x.com/EagleChris" target="_blank" rel="nofollow">my twitter page</a> and click on follow.  See you online.

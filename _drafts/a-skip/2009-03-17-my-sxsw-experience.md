@@ -23,4 +23,4 @@ Last night Nan and I went to Plutopia.  I felt like the most corporate guy ther
 
 <object width="400" height="300" data="http://www.flickr.com/apps/video/stewart.swf?v=68975" type="application/x-shockwave-flash"><param name="flashvars" value="intl_lang=en-us&amp;photo_secret=e5894b10de&amp;photo_id=3362635257&amp;show_info_box=true" /><param name="bgcolor" value="#000000" /><param name="allowFullScreen" value="true" /><param name="src" value="http://www.flickr.com/apps/video/stewart.swf?v=68975" /><param name="allowfullscreen" value="true" /></object>
 
-I had a good time Follow me on <a href="http://www.twitter.com/eaglechris" rel="nofollow">Twitter</a> to get my updates and free tips every day.  For people in Austin, hope to see you around.</p>
+I had a good time Follow me on <a href="http://www.x.com/eaglechris" rel="nofollow">Twitter</a> to get my updates and free tips every day.  For people in Austin, hope to see you around.</p>

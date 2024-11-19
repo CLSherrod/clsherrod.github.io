@@ -26,6 +26,6 @@ And this is why David is one of my favorite artists.</p>
 
 I don't find it cheesy either and why I work on my music everyday with my motto #AboveAllIsLove
 
-I <a href="https://twitter.com/ChrisSherrod/status/405004196577280001">tweeted about it this morning</a>. Come join me and David Guetta, United Nations and the rest of the world.
+I <a href="https://x.com/ChrisSherrod/status/405004196577280001">tweeted about it this morning</a>. Come join me and David Guetta, United Nations and the rest of the world.
 
 Read more: <a href="http://www.rollingstone.com/music/news/david-guetta-partners-with-the-united-nations-20131122#ixzz2lgAR46Xz">http://www.rollingstone.com/music/news/david-guetta-partners-with-the-united-nations-20131122#ixzz2lgAR46Xz</a></p>

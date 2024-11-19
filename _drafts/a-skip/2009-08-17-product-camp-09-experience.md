@@ -10,7 +10,7 @@ permalink: "/product-camp-09-experience/"
 ---
 [caption id="attachment_1924" align="alignright" width="240"]<img class="size-full wp-image-1924" title="Product Camp Austin Texas 2009-08-15 August" src="{{ site.baseurl }}/posts/2009/08/3823473024_28e656e422_m.jpg" alt="Product Camp Austin Texas 2009-08-15 August" width="240" height="180" /> Product Camp Austin 2009, photo by BWhichard[/caption]
 
-I spoke at Product Camp here in Austin on Saturday.  If you follow me on Twitter (<a href="http://twitter.com/chrissherrod">@ChrisSherrod</a>) you saw that I streamed video during some of it. Wifi was very busy with 400+ people tweeting and blogging so at times it didn't work for me.
+I spoke at Product Camp here in Austin on Saturday.  If you follow me on Twitter (<a href="http://x.com/chrissherrod">@ChrisSherrod</a>) you saw that I streamed video during some of it. Wifi was very busy with 400+ people tweeting and blogging so at times it didn't work for me.
 
 I gave a presentation of Twitter For Small Business.  The biggest question was why small businesses should even use twitter. Many feel it's a big waste of time.
 

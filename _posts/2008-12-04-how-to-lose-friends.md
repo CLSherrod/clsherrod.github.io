@@ -8,7 +8,7 @@ tags:
 - business
 permalink: "/how-to-lose-friends/"
 ---
-Recently a very good friend of mine had a falling out with a business partner.  I don't know the details but I was supportive.  Then a couple of weeks later the business partner removed me from twitter.com.
+Recently a very good friend of mine had a falling out with a business partner.  I don't know the details but I was supportive.  Then a couple of weeks later the business partner removed me from x.com.
 
 I ask why she unfollowed and blocked me on twitter so I can never follow her again?  She mentioned it may be an overreaction but then retracted when she thought I supported my friend more than her.  I don't know the details to offer an opinion.
 
@@ -31,6 +31,6 @@ On a side note that may or may not have anything to do with this particular case
 - Use affiliate links when doing business with partners at all times, no matter what.  Claiming people are your sales and you didn't use an affiliate link is bad business.
 - Refusing to send an accounting report for weeks doesn't help.
 
-Blocking people on twitter is almost worthless as you can to to their twitter feed on twitter.com/ and then their username.  People can still put you in replies on twitter.  It does remove people from being able to direct message you when you block them.
+Blocking people on twitter is almost worthless as you can to to their twitter feed on x.com/ and then their username.  People can still put you in replies on twitter.  It does remove people from being able to direct message you when you block them.
 
 So I have one person that is blocking me on twitter now and removed me as a friend on Facebook.  I can live with it since I can't do anything about it and I couldn't have done anything to prevent it from happening.  I hope it make the person feel better.  And I hope this anonymous post helps you and my friend move on with life and that the attacks will end.  You both deserve happiness.
