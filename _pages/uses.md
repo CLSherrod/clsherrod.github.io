@@ -7,7 +7,7 @@ toc: true
 Contact me from my [hello page](/hello/) on any improvements. Last update: 2024-10-08
 
 ## Hardware
-- [MacBook Air](https://www.apple.com/macbook-air/) on my third MacBook Air, first real computer was an Apple IIe - long list of computers dating back to 1976ish, mostly Apple, couple of Dells long-time ago.
+- [MacBook Air](https://www.apple.com/macbook-air/) on my 4th MacBook Air, first real computer was an Apple IIe - long list of computers dating back to 1976ish, mostly Apple, couple of Dells long-time ago.
 - [Keychron K6 Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard)
 - [Logitech MX ERGO Mouse](https://www.logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.html)
 - [Rode smartLav+ Microphone](https://rode.com/en/microphones/mobile/smartlav-plus)

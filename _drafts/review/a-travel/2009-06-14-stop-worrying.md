@@ -1,7 +1,7 @@
 ---
 title: Stop Worrying
 date: 2009-06-14
-published: true
+published: false
 categories:
 - Essays
 tags:

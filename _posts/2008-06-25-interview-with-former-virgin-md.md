@@ -1,7 +1,7 @@
 ---
 title: Interview with former Virgin MD
 date: 2008-06-25
-published: true
+published: false
 categories:
 - Essays
 tags:
