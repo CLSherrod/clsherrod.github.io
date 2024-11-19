@@ -40,7 +40,7 @@ See [Projects](/projects) for a full list of public past projects.
 - Wrote poem [No Such Thing](/no-such-thing/)
 - Wrote poem [Insomniac's Solitude](/insomniac-solitude/)
 - Write poem [Flowers Are Fallen](/flowers-are-fallen/)
-- Wrote [Transformative Giving: Empowering Lives Through Direct Entrepreneurial Philanthropy](giving/)
+- Wrote [Transformative Giving: Empowering Lives Through Direct Entrepreneurial Philanthropy](/giving/)
 - Updated my [robots.txt file](/robots.txt) to disallow bad bots and AI crawlers and turned on [AI bot blocker in Cloudflare](http://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click) as well.
 - New article because a friend got hacked [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication](/security/)
 - Wrote [Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers](/fred-rogers/)
