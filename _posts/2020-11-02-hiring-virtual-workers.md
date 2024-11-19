@@ -22,4 +22,4 @@ I will walk you through my step-by-step process to finding a virtual worker that
 [Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9)
 
 ## Addtional Resources
-Join my [newsletter](newsletter/) to get the bonus materials that goes along with the book. Includes a Standard Operating Procedure Template and a job posting for a virtual assistant.
+Join my [newsletter](/newsletter/) to get the bonus materials that goes along with the book. Includes a Standard Operating Procedure Template and a job posting for a virtual assistant.

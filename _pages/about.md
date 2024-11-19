@@ -26,7 +26,7 @@ Being in the game for the long haul, I enjoy sharing my business insights throug
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 
 ## Main Topics
-[#entreneurship](/tags#entrepreneurship), [#workflow](/tags/#workflow-apps), [#idea generation](tags/#idea-generation), [#tributes](/tags/#tribute)
+[#entreneurship](/tags#entrepreneurship), [#workflow](/tags/#workflow-apps), [#idea generation](/tags/#idea-generation), [#tributes](/tags/#tribute)
 
 ## Newsletter
 Join my [newsletter](/newsletter/) to keep updated on my projects, articles and books.

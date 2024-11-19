@@ -13,4 +13,4 @@ excerpt: My review of the movie What The Bleep Do We Know
 ---
 We create our own reality. Our mind thinks things that are real and imagined equally. They can't tell the difference. Very deep movie that shows how quantum physics and spirtuality are mixed.
 
-<a href="http://www.whatthebleep.com/" rel="nofollow">Visit the What the Bleep Do We Know!?™ - The Movie website</a>
+<a href="https://www.imdb.com/title/tt0399877/" rel="nofollow">Visit the What the Bleep Do We Know!?™</a>
