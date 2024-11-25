@@ -8,10 +8,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 👋 • Christopher Sherrod
-subtitle: "Author & web agency owner"
+subtitle: "Writer, Artist & web agency owner"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Author & web agency owner
+  Writer, Artist & web agency owner
 twitter_username: chrissherrod
 github_username: clsherrod
 minimal_mistakes_skin: air
@@ -53,6 +53,7 @@ social:
   type:  Person # Person or Organization (defaults to Person)
   name:  Christopher Sherrod # If the user or organization name differs from the site's name
   links:
+  - "https://bsky.app/profile/christophersherrod.com"
     - "https://pkm.social/chris"
     - "https://instagram.com/christophersherrod"
     - "https://x.com/chrissherrod"
@@ -104,6 +105,9 @@ author:
     - label: "Newsletter"
       icon: "fa-regular fa-envelope"
       url: "https://christophersherrod.com/newsletter/"
+    - label: "BlueSky"
+      icon: "fa-regular fa-envelope"
+      url: "https://bsky.app/profile/christophersherrod.com"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
       url: "https://pkm.social/@chris"
@@ -123,6 +127,9 @@ footer:
     - label: "Newsletter"
       icon: "fa-regular fa-envelope"
       url: "https://christophersherrod.com/newsletter/"
+    - label: "BlueSky"
+      icon: "fa-regular fa-envelope"
+      url: "https://bsky.app/profile/christophersherrod.com"
     - label: "Mastodon"
       icon: "fa-brands fa-mastodon fa-bounce"
       url: "https://pkm.social/@chris"
