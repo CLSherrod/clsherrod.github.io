@@ -7,10 +7,9 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Monday September 2nd, 2024.
+Updated on Monday November 25th, 2024.
 
 ## Currently Doing
-- Editing the 10th edition of [How To Create New Business Ideas Based On What You Love](/books/#how-to-create-new-business-ideas-based-on-what-you-love)
 - I’m currently writing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot). Currently learning how to turn markdown files into book formats.
 
 ## Current Projects
@@ -51,15 +50,15 @@ See [Projects](/projects) for a full list of public past projects.
 - Wrote [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/) on how I write my learning notes.
 
 ## Reading
-- [Nobody Wants To Read Your Sh*t: Why That Is And What You Can Do About It](https://amzn.to/4fK9Tgy) - great so far
+- [Nobody Wants To Read Your Sh*t: Why That Is And What You Can Do About It](https://amzn.to/4fK9Tgy) - great and wrote a [review of it](https://christophersherrod.com/nobody-wants-to-read-you/)
 - [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So far I really like it. 
 - [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
 
 I [review](/categories/#reviews) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
 ## Listening
-I'm listening to:
-- Looking forward to listening to the new [Tycho album - Infinite Health](https://tychomusic.com)
+- Love the new [Buddha Bar](https://www.buddhabar.com/en/buddha-bar-by-dole-kom-ravin/) album.
+- Enjoying the new [Tycho album - Infinite Health](https://tychomusic.com).
 - New [Pearl Jam](https://pearljam.com) album [Dark Matter](https://pearljam.com/news/dark-matter-out-now) is great.
 - The album [Better Will Come](https://lnk.dmsmusic.co/flamingosis_betterwillcome) by [Flamingosis](http://www.flamingosis.com) is a fun listen.
 - Love [Kamasi Washington](https://www.kamasiwashington.com)’s new Album “Fearless Movement”. He is one of the best modern jazz musicians.
@@ -69,6 +68,7 @@ I recommend the [1001 Albums You Must Hear Before You Die](https://1001albumsgen
 And check out [my profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
 
 ## Watched
+- Looking forwarded to watching [Dune: Prophecy (TV Series 2024– ) - Season 1 - IMDb](https://www.imdb.com/title/tt10466872/episodes/?ref_=tt_ov_epl) 
 - Interesting movie [Wonderland](https://www.imdb.com/title/tt31254554/?ref_=rt_t_6)
 - Fun [Kingdom of the Planet of the Apes](https://www.imdb.com/title/tt11389872/?ref_=rt_t_10)
 - Good, but not a huge fan of [Dune: Part Two](https://www.imdb.com/title/tt15239678/?ref_=rt_t_22)
