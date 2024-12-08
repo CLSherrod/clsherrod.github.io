@@ -1,7 +1,7 @@
 ---
 title: "How Smart Notes Transformed My Productivity and Well-being"
 date: 2023-10-02
-last_modified_at: 2024-07-02
+last_modified_at: 2024-12-08
 tags:
 - workflow-apps
 - implementing
@@ -28,7 +28,7 @@ Hugely profound for me but a little boring to talk about so bare with me and I�
 ## Boring But Profound
 Like I mentioned I learned how to take smart notes back in 2019 after my big gran mal seizure. I was having to relearn a lot of things and needed a way to take notes.
 
-I was an early adopter of Evernote way back when and I still have it but I found it to be a dumpster of notes with only folder structure but a good good search function. But, it wasn’t nearly enough anymore. I found it confusing and couldn’t handle relearning it.
+I was an early adopter of Evernote way back when and I still have it but I found it to be a dumpster of notes but a good search function. But, it wasn’t nearly enough anymore. I found it confusing and couldn’t handle relearning it.
 
 After reading some books and some videos on learning and retention I tried a few apps and learned by doing.
 
