@@ -14,7 +14,7 @@ Updated on Sunday December 8th, 2024.
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
-- I'm an artist known as [Chr1stopher](https://chr1stopher.com)
+- I'm an artist known as [Chr1stopher](/chr1stopher)
 - I operate a [web agency](/whodefinesyou) on referrals only.
 - I have a course on becoming and being an [Expat](/expatrebel).
 - Created [Date Night Spinner](/date-night-spinner) for the romantic types.
