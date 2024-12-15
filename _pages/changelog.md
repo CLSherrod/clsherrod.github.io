@@ -3,6 +3,9 @@ layout: single
 title: Change Log
 permalink: /changelog/
 ---
+## V 2.2 (2024-07-15)
+Add Facebook comments to blog posts
+
 ## V 2.1 (2024-07-02)
 Changed theme to [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) remote.
 
