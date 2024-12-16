@@ -2,7 +2,7 @@
 title: "My Bed is a Spaceship - Poem"
 date: 2024-12-08
 categories:
-- Poem
+- Poems
 tags:
 - lyric poem 
 permalink: /my-bed-is-a-spaceship/
