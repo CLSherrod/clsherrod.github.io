@@ -42,7 +42,7 @@ share: true
 
 # => Comments
 comments:
-  provider: facebook # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
   facebook:
     appid: # optional
     num_posts: # 5 (default)
@@ -105,6 +105,9 @@ author:
     - label: "Newsletter"
       icon: "fa-regular fa-envelope"
       url: "https://christophersherrod.com/newsletter/"
+    - label: "RSS"
+      icon: "fa-solid fa-rss"
+      url: "https://christophersherrod.com/feed.xml"
     - label: "BlueSky"
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/christophersherrod.com"
@@ -112,9 +115,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clsherrod"
-    - label: "RSS"
-      icon: "fa-solid fa-rss"
-      url: "https://christophersherrod.com/feed.xml"
 
 # Footer
 footer:
@@ -122,15 +122,15 @@ footer:
     - label: "Newsletter"
       icon: "fa-regular fa-envelope"
       url: "https://christophersherrod.com/newsletter/"
+    - label: "Explore"
+      icon: "fa-solid fa-slash"
+      url: "https://christophersherrod.com/explore/"
     - label: "BlueSky"
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/christophersherrod.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clsherrod"
-    - label: "Explore"
-      icon: "fa-solid fa-slash"
-      url: "https://christophersherrod.com/explore/"
 
 # Defaults
 defaults:
