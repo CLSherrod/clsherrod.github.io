@@ -12,6 +12,8 @@ teaser: /assets/images/poems/my-bed-is-a-spaceship.webp
 header:
   image: /assets/images/poems/my-bed-is-a-spaceship.webp
 ---
+I wrote this poem during a writing session from my book I’m currently writing about my electromagnetic hypersensitivity. It's about about my time being confined to my darkened bedroom recovering from a gran mal seziure and my time dreaming, traveling the cosmos, and the magic of imagination from my bed. 
+
 **My Bed is a Spaceship**
 
 My bed is a spaceship, floating through space,
