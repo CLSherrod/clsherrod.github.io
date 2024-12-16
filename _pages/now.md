@@ -10,7 +10,7 @@ header:
 Updated on Sunday December 8th, 2024.
 
 ## Currently Doing
-- I’m currently editing a book about my [electromagnetic hypersensitivity](/emf) from my gran mal seizure and what I learned from it (a lot).
+- I’m currently editing a book about my [electromagnetic hypersensitivity](/emf) after my gran mal seizure and what I learned from it (a lot).
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
