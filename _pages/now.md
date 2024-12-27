@@ -7,7 +7,7 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Sunday December 8th, 2024.
+Updated on Friday December 27th, 2024.
 
 ## Currently Doing
 - I’m currently editing a book about my [electromagnetic hypersensitivity](/ehs).
@@ -52,13 +52,14 @@ See [Projects](/projects) for a full list of public past projects.
 - Wrote [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/) on how I write my learning notes.
 
 ## Reading
-- [Nobody Wants To Read Your Sh*t: Why That Is And What You Can Do About It](https://amzn.to/4fK9Tgy) - great and wrote a [review of it](https://christophersherrod.com/nobody-wants-to-read-you/)
+- [Grow A New Brain](https://amzn.to/40duPqt)
 - [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So far I really like it. 
-- [You Can’t Screw This Up: Why Eating Takeout, Enjoying Dessert, and Taking the Stress out of Dieting Leads to Weight Loss That Lasts by Adam Bornstein](https://amzn.to/3uTa7PT). I don’t read diet books but this one is actually really practical. Enjoying it so far.
 
 I [review](/categories/#reviews) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
 ## Listening
+- Looking forward to the new album "Equilibrium" by sing-songwriter [Waves Rush In](https://wavesrushin.com) coming out in April.
+- Looking forward to the new album "Blackbird and the Sun of October" by [Federico Albanese](https://www.federicoalbanese.com) on February 7th.
 - Love the new [Buddha Bar](https://www.buddhabar.com/en/buddha-bar-by-dole-kom-ravin/) album.
 - Enjoying the new [Tycho album - Infinite Health](https://tychomusic.com).
 - New [Pearl Jam](https://pearljam.com) album [Dark Matter](https://pearljam.com/news/dark-matter-out-now) is great.
