@@ -6,7 +6,7 @@ permalink: /ehs/
 ---
 I'm currently editing a book about my electromagnetic hypersensitivity. It's coming out in 2025.
 
-## Unplugged: Electronic Sensitivity - Thriving with Electromagnetic Hypersensitivity
+## Unplugged: Electronic Sensitivity - Thriving with Electromagnetic Hypersensitivity Book Coming in 2025
 
 In 2018, a massive seizure brought my world to a screeching halt. Overexposure to electronics pushed my body and mind to the brink, leaving me clinging to life and facing a long, grueling recovery. This is my story—a journey of rediscovery, resilience, and hope.  
 
