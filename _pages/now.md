@@ -7,7 +7,7 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Friday December 27th, 2024.
+Updated on Tuesday January 7th, 2025.
 
 ## Currently Doing
 - I’m currently editing a book about my [electromagnetic hypersensitivity](/ehs).
@@ -21,7 +21,7 @@ Updated on Friday December 27th, 2024.
 - Created some markdown projects for certain tracking I do in markdown text: [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), and [Gardening Project Managment Markdown](/gardening).
 
 ## Previous Projects
-See [Projects](/projects) for a full list of public past projects.
+See [Projects](/projects) for a list of projects.
 
 ## Popular Essays
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
