@@ -111,7 +111,6 @@ author:
     - label: "BlueSky"
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/christophersherrod.com"
-      url: "https://instagram.com/christophersherrod"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/clsherrod"
