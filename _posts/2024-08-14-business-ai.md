@@ -5,9 +5,10 @@ categories:
 - Reviews
 tags:
 - business
-permalink: "business-ai"
-published: false
-excerpt: A Practical Guide to Generative AI for Non-Tech Business Leaders
+- artificial intelligence
+permalink: "/business-ai"
+published: true
+excerpt: "A Practical Guide to Generative AI for Non-Tech Business Leaders"
 ---
 *Generative AI for Busy Business Leaders* is an excellent resource for managers and executives who want to embrace the power of generative AI without needing a deep technical background. This concise and accessible guide is perfect for anyone looking to quickly understand and implement generative AI solutions in the workplace.  
 
