@@ -6,7 +6,7 @@ categories:
 tags:
 - self-image
 permalink: "/power-of-letting-go/"
-published: false
+published: true
 toc: true
 excerpt: "Learning to not care about what others think has been one of the most liberating lessons of my life, allowing me to focus on my own happiness, growth, and the relationships that truly matter."
 ---
