@@ -30,26 +30,12 @@ See [Projects](/projects) for a list of projects.
 - [Boost Your Content Production Game: Essential Apps and Tools for 2024!](/workflow/)
 
 ## Recently Published
+- Wrote a new essay [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](power-of-letting-go/)
 - Published a new poem [My Bed Is A Spaceship](/my-bed-is-a-spaceship/)
 - Reviewed a good book [Why Nobody Wants to Read Your Sh-t is a Must-Read for Aspiring Writers: Lessons from a Marketing and Screenwriting Pro](/nobody-wants-to-read-you/)
 - Wrote a poem [Forests Are For Rest](/forests-are-for-rest/)
-- Wrote an essay [Why Preparing for the Olympics and Building a Business Are Not the Same](/olympics-is-not-business/)
 - Wrote a review [Mastering Startup Equity: A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships](/slicing-pie/)
-- Wrote a love letter to my love [A Heartfelt Love Letter to My Soulmate: Celebrating Our Timeless Connection](/love-letter/)
-- Wrote [Striving for Balance - My True Life Goals](/striving-for-balance/) - My true life goals is beyond wealth.
-- Updated [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication and PassKeys](/security/) with PassKeys
-- Wrote poem [No Such Thing](/no-such-thing/)
-- Wrote poem [Insomniac's Solitude](/insomniac-solitude/)
-- Write poem [Flowers Are Fallen](/flowers-are-fallen/)
-- Wrote [Transformative Giving: Empowering Lives Through Direct Entrepreneurial Philanthropy](/giving/)
 - Updated my [robots.txt file](/robots.txt) to disallow bad bots and AI crawlers and turned on [AI bot blocker in Cloudflare](http://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click) as well.
-- New article because a friend got hacked [Strengthening Your Online Security: The Power of Strong Passphrases and Two-Factor Authentication](/security/)
-- Wrote [Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers](/fred-rogers/)
-- Wrote [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](/1001-albums/)
-- Wrote [Embracing Earth Day Every Day: A Call for Continuous Environmental Consciousness](/earth-day-everyday/)
-- New article [Expert Book Writing and Publishing: 19 Proven Strategies for Success](/book-advice/) based on a few conversations with many people over the years about self-publishing books - physical, ebooks and articles.
-- I updated my team workflow article for 2024 [Boost Your Content Production Game: Essential Apps and Tools for 2024!](/workflow/) with more usage of AI in Descript for title and summaries for shows and ChatGPT for creating email subject lines and editing and livestream service StreamYard.
-- Wrote [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/) on how I write my learning notes.
 
 ## Reading
 - [Grow A New Brain](https://amzn.to/40duPqt)
