@@ -2,7 +2,7 @@
 title: A Game-Changer for Organizing Your Life and Unlocking Creativity
 date: 2022-07-27
 categories:
-- Review
+- Reviews
 tags: 
 - book
 permalink: "/second-brain"
