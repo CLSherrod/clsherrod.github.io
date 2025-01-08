@@ -8,7 +8,7 @@ permalink: /projects/
 
 **2000 - Author** - [books](/books/), [essays](/categories/#essays) and [poems](/categories/#poems)
 
-**2012 - [Chr1stopher](/chr1stopher)** - I'm a visual artist and musician known as Chr1stopher.
+**2012 - [Chr1stopher](/chr1stopher)** - I'm an artist known as Chr1stopher.
 
 ## Markdown Projects
 I like using [MarkDown](https://en.wikipedia.org/wiki/Markdown) to record notes and have devloped these projects on what is working for me.
