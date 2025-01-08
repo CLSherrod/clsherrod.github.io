@@ -42,7 +42,7 @@ I’ve also authored a couple of business books:
 ## Current Projects and More
 Curious about what I’m up to these days? Check out my current projects section. And if you want a glimpse into my past endeavors, I’ve got a full list of past projects too.
 - [What I’m doing now](/now/)
-- See [Projects](/projects) for a full list of past projects.
+- See [Projects](/projects) for a full list of projects.
 
 ## Stay Connected
 Want to stay in the loop? Goto my [Hello page](/hello).
