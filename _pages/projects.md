@@ -23,10 +23,10 @@ Track your contacts using plain text Markdown and wiki-style backlinks.
 - [Gardening Project Managment Markdown](/gardening)
 Track your gardening using plain text Markdown and wiki-style backlinks.
 
-**2018 [Expat Rebel](/expatrebel)** - Becoming and being an Expat.
+**2020 [Hiring Virtual Workers For Small Business Book](/hiring)** - I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant.
+
+**2018 [Expat Rebel](/expatrebel)** - Course of becoming and being an Expat.
 
 **2012 [Date Night Spinner](/date-night-spinner/)** - I believe no matter how old your relationship is you still need to set aside at least one night a week for a date night. 
-
-**2020 [Hiring Virtual Workers For Small Business Book](/hiring)** - I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant.
 
 **2007 [How To Create New Business Ideas Based On What You Love Book](/business-ideas)** - Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
