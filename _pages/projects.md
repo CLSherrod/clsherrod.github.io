@@ -13,13 +13,10 @@ permalink: /projects/
 **2022 Markdown Projects**
 - [OBTF (One Big Text File) Journal Markdown](/obtf)
 OBTF (One Big Text File) Journal is a simple yet powerful solution for maintaining a journal in Markdown or plain text format.
-
 - [Home Manual Markdown](/home-manual)
 Home Manual to track everything about your home in Markdown and wiki-style backlinks.
-
 - [Customer Relationship Management Markdown](/crm)
 Track your contacts using plain text Markdown and wiki-style backlinks.
-
 - [Gardening Project Managment Markdown](/gardening)
 Track your gardening using plain text Markdown and wiki-style backlinks.
 
