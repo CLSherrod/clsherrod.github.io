@@ -13,7 +13,7 @@ Contact me from my [hello page](/hello/) on any improvements. Last update: 2024-
 - [Rode smartLav+ Microphone](https://rode.com/en/microphones/mobile/smartlav-plus)
 - [iPhone SE 2](https://www.apple.com/iphone-se/) - I dislike fancy & big phones
 - [Kindle Paperwhite](https://amzn.to/4a1RdEJ) since 2016, best reader
-- [Raspberry Pi](https://www.raspberrypi.com) home server running Raspberry Pi OS
+- [Raspberry Pi 5](https://www.raspberrypi.com) home server running Raspberry Pi OS
 
 ## Software
 - Safari
