@@ -23,7 +23,7 @@ Contact me from my [hello page](/hello/) on any improvements. Last update: 2024-
 - [Obsidian](https://obsidian.md) for personal knowledge management aka notes see [my article about Smart Notes](/smart-notes/)
 - [VSCodium](https://vscodium.com) static website editor and any code editor
 - [Calibre](https://calibre-ebook.com) ebook manager
-- [Boost Your Content Production Game: Essential Apps and Tools for 2025!](/workflow/) - I upodate yearly with my essential apps
+- [Boost Your Content Production Game: Essential Apps and Tools for 2025!](/workflow/) - I update yearly with my essential apps
 
 ## Services
 - [NameCheap](https://www.namecheap.com) domain names
