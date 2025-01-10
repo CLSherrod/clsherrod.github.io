@@ -7,7 +7,7 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Tuesday January 7th, 2025.
+Updated on Tuesday January 10th, 2025.
 
 ## Currently Doing
 - I’m currently editing a book about my [electromagnetic hypersensitivity](/ehs).
@@ -27,7 +27,7 @@ See [Projects](/projects) for a list of projects.
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 - [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](/1001-albums/)
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
-- [Boost Your Content Production Game: Essential Apps and Tools for 2024!](/workflow/)
+- [Boost Your Content Production Game: Essential Apps and Tools for 2025!](/workflow/) - I upodate yearly with my essential apps
 
 ## Recently Published
 - Wrote a new essay [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](power-of-letting-go/)
