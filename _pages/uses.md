@@ -4,7 +4,7 @@ title: What I Use
 permalink: /uses/
 toc: true
 ---
-Contact me from my [hello page](/hello/) on any improvements. Last update: 2024-10-08
+Contact me from my [hello page](/hello/) on any improvements. Last update: 2025-02-06
 
 ## Hardware
 - [MacBook Air](https://www.apple.com/macbook-air/) on my 4th MacBook Air, first real computer was an Apple IIe - long list of computers dating back to 1976ish, mostly Apple, couple of Dells long-time ago.
@@ -20,6 +20,7 @@ Contact me from my [hello page](/hello/) on any improvements. Last update: 2024-
 - Apple Mail
 - [WordPress](https://wordpress.org) Membership & eCommerce shops
 - [Jekyll Websites](https://jekyllrb.com) - static websites
+- [Astro Websites](https://astro.build) - newer websites
 - [Obsidian](https://obsidian.md) for personal knowledge management aka notes see [my article about Smart Notes](/smart-notes/)
 - [VSCodium](https://vscodium.com) static website editor and any code editor
 - [Calibre](https://calibre-ebook.com) ebook manager

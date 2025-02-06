@@ -14,6 +14,7 @@ I love to read, mostly books but also love reading blogs via RSS since it was in
 
 ## Music
 I’m a huge music fan. Love a lot of different styles of music. I have even created some music.
+
 ### Musician
 I post my music on my artist site [chr1stopher](https://chr1stopher.com).
 

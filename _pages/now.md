@@ -7,7 +7,7 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Tuesday January 10th, 2025.
+Updated on Tuesday February 6th, 2025.
 
 ## Currently Doing
 - I’m currently editing a book about my [electromagnetic hypersensitivity](/ehs).
@@ -16,9 +16,7 @@ Updated on Tuesday January 10th, 2025.
 - Writing helpful essays here on what has worked for me in life. See recently published below.
 - I operate a [web agency](/whodefinesyou) on referrals only since 1999.
 - I'm an artist known as [Chr1stopher](/chr1stopher)
-- I have a course on becoming and being an [Expat](/expatrebel).
 - Created some markdown projects for certain tracking I do in markdown text: [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), and [Gardening Project Managment Markdown](/gardening).
-- Created [Date Night Spinner](/date-night-spinner) for the romantic types.
 
 ## Previous Projects
 See [Projects](/projects) for a list of projects.
