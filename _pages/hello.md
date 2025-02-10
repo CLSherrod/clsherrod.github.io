@@ -23,7 +23,7 @@ Here is how I prefer to keep in touch:
   </form>
 
 ## Encrypted Messages
-- Send me a message on [Signal](https://signal.me/#eu/dH9DTAPmm2FNDnOok4j-8Fh7u2azNWRlNwAC45j_i-MoSJPpu29CmZiLyi9_pmgt).
+- Send me a message on [Signal](https://signal.me/#eu/oFHrwnGtx3ZADoIf0RjR_8-Asiw-ifYopG7hSGqysDb2bcHwrQ1NprhMxFW3bFGE).
 
 ## Social Media
 - I'm active on [BlueSky](https://bsky.app/profile/christophersherrod.com)
