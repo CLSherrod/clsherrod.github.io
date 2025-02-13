@@ -2,13 +2,13 @@
 layout: single
 classes: wide
 title: "Unplugged: Electronic Sensitivity"
-permalink: /ehs/
+permalink: /emrs/
 ---
-I'm currently editing a book about my electromagnetic hypersensitivity. It's coming out in 2025.
+I'm currently editing a book about my electromagnetic radiation syndrone or electronic hypersensitivity. It's coming out later this year.
 
-## Unplugged: Electronic Sensitivity - Thriving with Electromagnetic Hypersensitivity Book Coming in 2025
+## Unplugged: Electronic Sensitivity - Thriving with Electromagnetic Radiation Syndrone Book Coming in 2025
 
-In 2018, a massive seizure brought my world to a screeching halt. Overexposure to electronics pushed my body and mind to the brink, leaving me clinging to life and facing a long, grueling recovery. This is my story—a journey of rediscovery, resilience, and hope.  
+In 2018, a massive seizure brought my world to a screeching halt. Overexposure to electronics pushed my body and mind to the brink, leaving me clinging to life and facing a long, grueling recovery. This is my story — a journey of rediscovery, resilience, and hope.  
 
 In *Unplugged*, I share my deeply personal experience of battling sensitivity to electronic devices, the lessons I learned along the way, and how I reclaimed my health and happiness by transforming my lifestyle. This book is more than a memoir—it's a guide for anyone feeling the weight of technology on their body and soul.  
 

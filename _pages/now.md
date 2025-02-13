@@ -7,10 +7,10 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Tuesday February 6th, 2025.
+Updated on Tuesday February 13th, 2025.
 
 ## Currently Doing
-- I’m currently editing a book about my [electromagnetic hypersensitivity](/ehs).
+- I’m currently editing a book about my [electromagnetic hypersensitivity](/emrs).
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
@@ -28,8 +28,11 @@ See [Projects](/projects) for a list of projects.
 - [Boost Your Content Production Game: Essential Apps and Tools for 2025!](/workflow/) - I update yearly with my essential apps
 
 ## Recently Published
+- Wrote a new essay [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
 - Wrote a new essay [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](power-of-letting-go/)
+- Published a new poem [Live Your Best Life](/live-your-best-life/)
 - Published a new poem [My Bed Is A Spaceship](/my-bed-is-a-spaceship/)
+- Published a new poem [Peace Broke Out Everywhere](/peace-broke-out-everywhere/)
 - Reviewed a good book [Why Nobody Wants to Read Your Sh-t is a Must-Read for Aspiring Writers: Lessons from a Marketing and Screenwriting Pro](/nobody-wants-to-read-you/)
 - Wrote a poem [Forests Are For Rest](/forests-are-for-rest/)
 - Wrote a review [Mastering Startup Equity: A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships](/slicing-pie/)

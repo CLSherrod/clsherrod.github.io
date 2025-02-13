@@ -1,14 +1,14 @@
 ---
 title: Peace Broke Out Everywhere
 description: "A poem about peace"
-date: 
+date: 2024-09-04
 preview: "One quiet dawn, without a sound..."
-tags:
-- lyric poem
 categories:
 - Poem
+tags:
+- lyric poem
 permalink: "/peace-broke-out-everywhere/"
-published: false
+published: true
 ---
 One quiet dawn, without a sound,  
 Peace broke out, spread all around.  

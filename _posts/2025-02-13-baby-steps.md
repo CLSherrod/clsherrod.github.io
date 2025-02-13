@@ -1,13 +1,13 @@
 ---
 title: "Success is Built in Baby Steps: Why Overnight Success is a Myth"
 description: "Success is Built in Baby Steps: Why Overnight Success is a Myth"
-date: 2025-01-24
+date: 2025-02-13
 preview: "Most motivational speakers won't: real success isn't about grand slams. It's about tiny, consistent hits that build momentum."
-tags: [Essays]
-categories: [success]
+categories: [Essays]
+tags: [success]
 last_modified_at: null
-permalink: "baby-steps"
-published: false
+permalink: "/baby-steps/"
+published: true
 comments: true
 ---
 # Success is Built in Baby Steps: Why Overnight Success is a Myth

@@ -1,13 +1,14 @@
 ---
 title: Live Your Best Life - Poem
-date: 
+date: 2024-09-26
 categories:
 - Poems
 tags:
 - lyric poem
 permalink: /live-your-best-life/
-published: false
+published: true
 ---
+I wrote this poem to motivate a friend and thought my audience would like to read it.
 
 ## Live Your Best Life
 
