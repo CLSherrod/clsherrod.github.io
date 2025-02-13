@@ -7,7 +7,7 @@ teaser: /assets/images/now-header.webp
 header:
   image: /assets/images/now-header.webp
 ---
-Updated on Tuesday February 13th, 2025.
+Updated on Thursday February 13th, 2025.
 
 ## Currently Doing
 - I’m currently editing a book about my [electromagnetic hypersensitivity](/emrs).
