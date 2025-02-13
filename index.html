@@ -37,19 +37,25 @@ header:
       My newsletter goes out anywhere from weekly to monthly depending on my
       schedule.
     </p>
-
     <form
       action="https://mail.nanakasha.com/subscribe"
       method="POST"
       accept-charset="utf-8"
-      style="display: flex; align-items: center; width: 100%"
+      style="
+        display: flex;
+        align-items: center;
+        width: 100%;
+        background-color: turquoise;
+        padding: 15px;
+        border-radius: 8px;
+      "
     >
       <label for="name" style="margin-right: 10px">Name</label>
       <input
         type="text"
         name="name"
         id="name"
-        style="margin-right: 20px; border: 2px solid blue"
+        style="margin-right: 20px; border: 2px solid blue; padding: 5px"
       />
 
       <label for="email" style="margin-right: 10px">Email</label>
@@ -57,7 +63,7 @@ header:
         type="email"
         name="email"
         id="email"
-        style="margin-right: 20px; border: 2px solid blue"
+        style="margin-right: 20px; border: 2px solid blue; padding: 5px"
       />
 
       <div style="display: none">
@@ -73,7 +79,13 @@ header:
         name="submit"
         id="submit"
         value="Subscribe"
-        style="margin-left: 10px; border: 2px solid blue"
+        style="
+          margin-left: 10px;
+          border: 2px solid blue;
+          padding: 5px;
+          background-color: white;
+          cursor: pointer;
+        "
       />
     </form>
   </section>
