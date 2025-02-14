@@ -10,8 +10,6 @@ permalink: "/baby-steps/"
 published: true
 comments: true
 ---
-# Success is Built in Baby Steps: Why Overnight Success is a Myth
-
 Listen up. I've been in the game for decades, and I'm going to tell you something most motivational speakers won't: real success isn't about grand slams. It's about tiny, consistent hits that build momentum.
 
 Everyone wants the sexy story of instant success. The viral startup. The overnight millionaire. But here's the hard truth: those stories are bullshit. They're marketing. They're the exception, not the rule.
