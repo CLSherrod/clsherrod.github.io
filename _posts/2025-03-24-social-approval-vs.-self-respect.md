@@ -1,6 +1,6 @@
 ---
 title: Social Approval vs. Self-Respect - Clear Thinking in a World of Conformity
-date: 2024-07-30T14:44:21.716Z
+date: 2025-03-24
 categories:
 - Essay
 tags:

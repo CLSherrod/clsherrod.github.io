@@ -4,7 +4,7 @@ description: "A poem about peace"
 date: 2024-09-04
 preview: "One quiet dawn, without a sound..."
 categories:
-- Poem
+- Poems
 tags:
 - lyric poem
 permalink: "/peace-broke-out-everywhere/"
