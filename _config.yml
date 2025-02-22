@@ -100,7 +100,7 @@ plugins:
 author:
   name   : "Christopher Sherrod"
   avatar : "/assets/images/avatar.webp"
-  bio    : "Author and Artist
+  bio    : "Author and Artist"
   links:
     - label: "Newsletter"
       icon: "fa-regular fa-envelope"
