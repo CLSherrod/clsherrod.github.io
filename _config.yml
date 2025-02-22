@@ -8,10 +8,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 👋 • Christopher Sherrod
-subtitle: "Author, Artist & Web Agency Owner"
+subtitle: "Author and Artist"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Author, Artist & Web Agency Owner
+  Author and Artist
 twitter_username: chrissherrod
 github_username: clsherrod
 minimal_mistakes_skin: air
@@ -100,7 +100,7 @@ plugins:
 author:
   name   : "Christopher Sherrod"
   avatar : "/assets/images/avatar.webp"
-  bio    : "Author, Artist & Web Agency Owner"
+  bio    : "Author and Artist
   links:
     - label: "Newsletter"
       icon: "fa-regular fa-envelope"
