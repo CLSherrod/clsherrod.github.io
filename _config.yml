@@ -19,7 +19,7 @@ search: true
 locale: "en-US"
 logo: "/assets/images/logo/logo.webp"
 masthead_title: "Christopher Sherrod"
-breadcrumbs: false  # disabled by default
+breadcrumbs: false # disabled by default
 date_format: "%Y-%m-%d"
 teaser: /assets/images/related_posts.webp
 
@@ -34,7 +34,7 @@ lunr:
 analytics:
   provider: google # false (default), "google", "custom"
   google:
-    tracking_id : G-JZPN0Q5H4L # Google Analytics id for the site
+    tracking_id: G-JZPN0Q5H4L # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
 # Sharing
@@ -50,8 +50,8 @@ comments:
 
 # Social tags for search
 social:
-  type:  Person # Person or Organization (defaults to Person)
-  name:  Christopher Sherrod # If the user or organization name differs from the site's name
+  type: Person # Person or Organization (defaults to Person)
+  name: Christopher Sherrod # If the user or organization name differs from the site's name
   links:
     - "https://bsky.app/profile/christophersherrod.com"
     - "https://pkm.social/chris"
@@ -66,7 +66,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 10 # amount of posts to show
 paginate_path: /page:num/
-timezone: MX # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Merida # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -75,13 +75,13 @@ include:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
-   - Gemfile
-   - Gemfile.lock
-   - node_modules
-   - README.md
-   - clsherrod.github.io.code-workspace
-   - fontmatter.json
-   - screenshot.jpg
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
+  - clsherrod.github.io.code-workspace
+  - fontmatter.json
+  - screenshot.jpg
 #   - vendor/bundle/
 #   - vendor/cache/
 #   - vendor/gems/
@@ -98,9 +98,9 @@ plugins:
 
 # Author sidebar
 author:
-  name   : "Christopher Sherrod"
-  avatar : "/assets/images/avatar.webp"
-  bio    : "Author and Artist"
+  name: "Christopher Sherrod"
+  avatar: "/assets/images/avatar.webp"
+  bio: "Author and Artist"
   links:
     - label: "Newsletter"
       icon: "fa-regular fa-envelope"
@@ -176,4 +176,4 @@ license: CC-BY-ND-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4
 compress_html:
   clippings: all
   ignore:
-    envs: development  # disable compression in dev environment
+    envs: development # disable compression in dev environment
