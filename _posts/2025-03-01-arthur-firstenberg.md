@@ -8,6 +8,7 @@ categories:
 - Essays
 tags:
 - electromagnetic awareness
+- tribute
 permalink: /arthur-firstenberg/
 excerpt: Tribute to Arthur Firstenberg Electromagnetic Awareness Pioneer
 ---
