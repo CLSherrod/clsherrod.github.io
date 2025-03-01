@@ -11,6 +11,10 @@ tags:
 - tribute
 permalink: /arthur-firstenberg/
 excerpt: Tribute to Arthur Firstenberg Electromagnetic Awareness Pioneer
+toc: true
+teaser: /assets/images/arthur-firstenberg.webp
+header:
+  image: /assets/images/articles/arthur-firstenberg.webp
 ---
 ## The Passing of an Electromagnetic Pollution Pioneer
 
