@@ -1,16 +1,14 @@
 ---
-title: Radical Acceptance
+title: "The Entrepreneur's Guide to Radical Acceptance: Why Fighting Reality Is Killing Your Business"
 description: "The Entrepreneur's Guide to Radical Acceptance: Why Fighting Reality Is Killing Your Business"
 date: 2025-04-14
 preview: "The Entrepreneur's Guide to Radical Acceptance: Why Fighting Reality Is Killing Your Business"
 categories: Essays
 tags: acceptance
 last_modified_at: null
-permalink: "avoid-arguments"
+permalink: "radical-acceptance"
 published: false
 ---
-# The Entrepreneur's Guide to Radical Acceptance: Why Fighting Reality Is Killing Your Business
-
 ## The Hidden Cost of Resistance in Business
 
 Let me cut through the noise and tell you the one thing that saved my business and my sanity: learning to accept reality exactly as it is.
