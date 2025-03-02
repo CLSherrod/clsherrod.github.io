@@ -1,6 +1,6 @@
 ---
 title: "The Digital Canary: Arthur Firstenberg's Legacy of Electromagnetic Awareness"
-description: "Tribute to Arthur Firstenberg"
+description: "Tribute to Arthur Firstenberg Electromagnetic Awareness Pioneer"
 date: 2025-03-01
 preview: "Tribute to Arthur Firstenberg Electromagnetic Awareness Pioneer"
 published: true
