@@ -5,7 +5,9 @@ permalink: /books/
 toc: true
 teaser: /assets/images/books-header.webp
 header:
-  image: /assets/images/books-header.webp
+  overlay_image: /assets/images/books-header.webp
+  overlay_filter: 0.1
+  caption: "Art by [**Chr1stopher**](https://christopher.com)"
 ---
 ## Hiring Virtual Workers For Small Business
 I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
