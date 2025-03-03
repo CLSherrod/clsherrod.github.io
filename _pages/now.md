@@ -5,7 +5,9 @@ permalink: /now/
 toc: true
 teaser: /assets/images/now-header.webp
 header:
-  image: /assets/images/now-header.webp
+  overlay_image: /assets/images/now-header.webp
+  overlay_filter: 0.1
+  caption: "Art by [**Chr1stopher**](https://christopher.com)"
 ---
 Updated on Sunday March 2nd, 2025.
 
