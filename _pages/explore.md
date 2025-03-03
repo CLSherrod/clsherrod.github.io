@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: Explore
+title: Explore Christopher Sherrod
 permalink: /explore/
 teaser: /assets/images/explore-header.webp
 header:

@@ -5,7 +5,9 @@ title: Newsletter
 permalink: /newsletter/
 teaser: /assets/images/newsletter-header.webp
 header:
-  image: /assets/images/newsletter-header.webp
+  overlay_image: /assets/images/newsletter-header.webp
+  overlay_filter: 0.1
+  caption: "Art by [**Chr1stopher**](https://christopher.com)"
 ---
 
   <!-- Newsletter -->
