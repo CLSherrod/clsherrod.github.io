@@ -5,9 +5,9 @@ published: true
 categories:
 - Essays
 tags:
-- hilanthropy
+- philanthropy
 - social responsibility
-- Volutourism
+- volutourism
 permalink: "/j-k-rowling-volutourism-stoporphantrips/"
 ---
 ## Volutourism

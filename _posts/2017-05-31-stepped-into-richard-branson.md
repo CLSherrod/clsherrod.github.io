@@ -6,7 +6,7 @@ categories:
 - Essays
 tags:
 - Richard Branson
-- entreprenuership
+- entrepreneurship
 permalink: "/stepped-into-richard-branson/"
 ---
 Back in 2016 I took part in a Native American ceremony and had some major visions.  It was an interesting night.

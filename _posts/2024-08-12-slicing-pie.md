@@ -4,7 +4,7 @@ date: 2024-08-12
 categories:
 - Reviews
 tags:
-- entreprenuership
+- entrepreneurship
 - partnerships
 permalink: "/slicing-pie/"
 toc: true

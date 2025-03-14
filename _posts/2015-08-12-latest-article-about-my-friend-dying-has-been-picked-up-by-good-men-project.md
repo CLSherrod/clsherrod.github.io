@@ -6,7 +6,7 @@ categories:
 - Essays
 tags:
 - love
-- RIP
+- tribute
 permalink: "/latest-article-about-my-friend-dying-has-been-picked-up-by-good-men-project/"
 ---
 My article about my friend dying and its impact for me has been published by Good Men Project.
