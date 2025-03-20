@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://christopher.com)"
 ---
-Updated on Monday March 17th, 2025.
+Updated on Thursday March 20th, 2025.
 
 ## Currently Doing
 - I’m currently writing a book about my [electromagnetic hypersensitivity](/emrs).
