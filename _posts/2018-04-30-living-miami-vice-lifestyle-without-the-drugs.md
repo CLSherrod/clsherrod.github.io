@@ -25,7 +25,7 @@ I even recorded each show on VHS tape.</span>
 
 I carried those VHS tapes with all my moves for the next twenty-something years. Finally selling them on Craigslist since I could get a digital stream and I was planning to travel around the world slowly.
 
-And I was writing with a view of the Caribbean recently. This view in fact.
+And I was writing with a view of the Caribbean recently.
 
 And the Miami Vice Theme came up on my AppleTV and bam, flashback to when I was a kid in snowy Alaska.
 
