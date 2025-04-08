@@ -31,7 +31,7 @@ See [Projects](/projects) for a list of projects.
 
 ## Recently Published
 - Wrote an essay [Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You](/billionaires/)
-- Wrote a new essay [Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success](/finding-ballance/)
+- Wrote a new essay [Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success](/finding-balance/)
 - Wrote a tribute [The Digital Canary: Arthur Firstenberg's Legacy of Electromagnetic Awareness](/arthur-firstenberg/)
 - Wrote a new essay [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
 - Wrote a new essay [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](power-of-letting-go/)
