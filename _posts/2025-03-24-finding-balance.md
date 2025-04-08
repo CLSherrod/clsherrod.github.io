@@ -1,12 +1,15 @@
 ---
-title: Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success
+title: "Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success"
 description: "Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success"
 date: 2025-03-24
 preview: "Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success"
-tags: [success]
-categories: [Essays]
+tags:
+- success
+categories:
+- Essays
 permalink: "/finding-balance/"
 published: true
+excerpt: Extreme mindsets don't lead to lasting success.
 ---
 Extreme mindsets don't lead to lasting success. Achieving true success involves maintaining a balanced approach that combines hustle with a healthy dose of reality. It's not about taking extreme measures but rather about being consistent and steady in your efforts. 
 
