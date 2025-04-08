@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://christopher.com)"
 ---
-Updated on Thursday March 20th, 2025.
+Updated on Tuesday April 8th, 2025.
 
 ## Currently Doing
 - I’m currently writing a book about my [electromagnetic hypersensitivity](/emrs).
@@ -31,6 +31,7 @@ See [Projects](/projects) for a list of projects.
 
 ## Recently Published
 - Wrote an essay [Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You](/billionaires/)
+- Wrote a new essay [Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success](/finding-ballance/)
 - Wrote a tribute [The Digital Canary: Arthur Firstenberg's Legacy of Electromagnetic Awareness](/arthur-firstenberg/)
 - Wrote a new essay [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
 - Wrote a new essay [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](power-of-letting-go/)
