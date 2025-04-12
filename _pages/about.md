@@ -36,7 +36,7 @@ Beyond books, Christopher shares insights through [blog posts](/blog), [reviews]
 
 #### My current featured articles
 - [Expert Book Writing and Publishing: 19 Proven Strategies](/book-advice/)
-- [Boost Your Content Production Game: Apps and Tools for 2024!](/workflow)
+- [Boost Your Content Production Game: Apps and Tools for 2025!](/workflow)
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 
 #### Main Topics
@@ -57,5 +57,3 @@ You can also experience his art at [Chr1stopher.com](https://Chr1stopher.com).
 
 ### Stay Connected
 Want to stay in the loop? Goto my [Hello page](/hello).
-
-That’s the scoop, folks. Thanks for tuning in!
