@@ -47,3 +47,5 @@ I eventually switched to a small, independent hosting company that specializes i
 You get what you pay for. When you cut corners with hosting, it can cost you a lot more than a few bucks a month—it can cost you customers, trust, and peace of mind.
 
 Spend the extra time to choose a provider that fits your real-world needs. Your future self—and your business—will thank you.
+
+Check out my [services](/uses/#services) I currently use.
