@@ -56,6 +56,7 @@ social:
     - "https://bsky.app/profile/christophersherrod.com"
     - "https://pkm.social/chris"
     - "https://instagram.com/christophersherrod"
+    - "https://github.com/clsherrod"
 
 # Build settings
 markdown: kramdown
@@ -112,9 +113,6 @@ author:
     - label: "BlueSky"
       icon: "fa-brands fa-bluesky"
       url: "https://bsky.app/profile/christophersherrod.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/clsherrod"
 
 # Footer
 footer:

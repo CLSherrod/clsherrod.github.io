@@ -9,14 +9,14 @@ header:
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://christopher.com)"
 ---
-Updated on Tuesday April 21st, 2025.
+Updated on Thursday May 15th, 2025.
 
 ## Currently Doing
 - I’m currently writing a book about my [electromagnetic hypersensitivity](/emrs).
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
-- I operate a [web agency](/whodefinesyou) on referrals only since 1999.
+- I operate a [web agency](/whodefinesyou) (closed to new clients) since 1999.
 - I'm an artist known as [Chr1stopher](/chr1stopher)
 - Created some markdown projects for certain tracking I do in markdown text: [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), and [Gardening Project Managment Markdown](/gardening).
 
@@ -46,8 +46,10 @@ See [Projects](/projects) for a list of projects.
 - Updated my [robots.txt file](/robots.txt) to disallow bad bots and AI crawlers and turned on [AI bot blocker in Cloudflare](http://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click) as well.
 
 ## Reading
+- [Email Storyselling Playbook](https://amzn.to/431wFMo)
 - [Grow A New Brain](https://amzn.to/40duPqt)
 - [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So far I really like it. 
+- [On The Plain Of Snakes: A Mexican Journey](https://amzn.to/3GQGq7F)
 
 I [review](/categories/#reviews) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
@@ -63,10 +65,10 @@ I recommend the [1001 Albums You Must Hear Before You Die](https://1001albumsgen
 And check out [my profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
 
 ## Watched
+- I'm really liking Andor right now
 - I liked [Dune: Prophecy (TV Series 2024– ) - Season 1 - IMDb](https://www.imdb.com/title/tt10466872/episodes/?ref_=tt_ov_epl) 
 - Interesting movie [Wonderland](https://www.imdb.com/title/tt31254554/?ref_=rt_t_6)
 - Fun [Kingdom of the Planet of the Apes](https://www.imdb.com/title/tt11389872/?ref_=rt_t_10)
 - Good, but not a huge fan of [Dune: Part Two](https://www.imdb.com/title/tt15239678/?ref_=rt_t_22)
-- Enjoyed [Dark Matter](https://www.imdb.com/title/tt19231492/?ref_=fn_al_tt_1) - fun sci-fi
 
 [My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
