@@ -6,7 +6,7 @@ preview: "The Soundtrack That Changed My Life: What Vangelis Taught Me About Leg
 categories: Essays
 tags: tribute, music
 permalink: /vangelis/
-published: false
+published: true
 toc: true
 teaser: /assets/images/vangelis.webp
 header:
