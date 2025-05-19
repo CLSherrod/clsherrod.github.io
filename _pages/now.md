@@ -30,7 +30,7 @@ See [Projects](/projects) for a list of projects.
 - [Boost Your Content Production Game: Essential Apps and Tools for 2025!](/workflow/) - I update yearly with my essential apps
 
 ## Recently Published
-- Wrote my tribut to Vangelis [The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy](/vangelis)
+- Wrote my tribute to Vangelis [The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy](/vangelis)
 - Wrote an essay [The Hidden Cost of Cutting Corners: Why Quality Hosting Matters More Than You Think](/why-good-hosting-matters/)
 - Rewviewed a good book [The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific]("/happy-isles-of-oceania/)
 - Wrote an essay [Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success](/finding-balance/)
