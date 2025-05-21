@@ -1,14 +1,14 @@
 ---
-title: I'm in Joe Vitale's new book
+title: "My Story Featured in Joe Vitale’s New Book Expect Miracles — Learn How to Attract Miracles Into Your Life"
 date: 2008-11-18
 published: true
 categories:
 - News
 tags:
 - books
-permalink: "/im-in-joe-vitales-new-book/"
+permalink: "/expect-miracles/"
 ---
-I'm in a new book again.  Joe Vitale came out with a new book today called [Expect Miracles](http://www.amazon.com/Expect-Miracles-Joe-Vitale/dp/1897404069/ref=sr_1_3?ie=UTF8&amp;s=books&amp;qid=1226944584&amp;sr=1-3). I have a story inside the book.
+I'm in a new book again.  Joe Vitale came out with a new book called [Expect Miracles](https://amzn.to/4dtThZE). I have a story inside the book.
 
 If you're looking for a book that can show you how to attract miracles in your life check out Joe's book.
 
@@ -26,8 +26,4 @@ You'll also get story after story about other people who've attracted miracles i
 
 Let "Expect Miracles" inspire you or a friend, coworker or family member today.
 
-If you order today on Amazon.com, you won't pay the standard retail price of $14.95. You can get "Expect Miracles" at a specially discounted price of only $10.85!
-
-At that price it makes a great inspirational stocking stuffer for any family member, co-worker or friend.
-
-Order [Expect Miracles](http://www.amazon.com/Expect-Miracles-Joe-Vitale/dp/1897404069/ref=sr_1_3?ie=UTF8&amp;s=books&amp;qid=1226944584&amp;sr=1-3) now.
+Order [Expect Miracles](https://amzn.to/4dtThZE) now.
