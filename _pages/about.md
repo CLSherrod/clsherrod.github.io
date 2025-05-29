@@ -30,7 +30,7 @@ I’ve penned down my business philosophy, dubbed the [Dolphin Entrepreneur](/do
 ### Books & Writing  
 Christopher’s books, [How To Create New Business Ideas Based On What You Love](/business-ideas/) and [Hiring Virtual Workers For Small Business](/hiring), provide practical guidance for those seeking to build a business that supports their ideal lifestyle.  
 
-He is currently writing [Unplugged](/emrs/), a book exploring his experience with electronic sensitivity and how to live a balanced, low-tech life in an increasingly digital world.  
+He is currently writing [Unplugged](/ehs/), a book exploring his experience with electronic sensitivity and how to live a balanced, low-tech life in an increasingly digital world.  
 
 Beyond books, Christopher shares insights through [blog posts](/blog), [reviews](/categories/#reviews), and [poetry](/categories/#poems)—offering real-world lessons on self-improvement, lifestyle design, and the mindset shifts needed for true success.  
 

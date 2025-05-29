@@ -9,10 +9,10 @@ header:
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://christopher.com)"
 ---
-Updated on Monday May 19th, 2025.
+Updated on Thursday May 29th, 2025.
 
 ## Currently Doing
-- I’m currently writing a book about my [electromagnetic hypersensitivity](/emrs).
+- I’m currently writing a book about my [electromagnetic hypersensitivity](/ehs).
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
