@@ -1,5 +1,5 @@
 ---
-title: "A Rebellious Revelation in 125 Pages: The Anti-Guru’s Guide to Email That Actually Sells"
+title: "The Anti-Guru’s Guide to Email That Actually Sells"
 description: "A Rebellious Revelation in 125 Pages: The Anti-Guru’s Guide to Email That Actually Sells"
 date: 2025-05-30
 preview: "A Rebellious Revelation in 125 Pages: The Anti-Guru’s Guide to Email That Actually Sells"
