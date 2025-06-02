@@ -1,10 +1,11 @@
 ---
 title: "Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose"
 description: "Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose"
-date: 2025-06-01
 preview: "Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose"
-tags: [tribute]
+date: 2025-06-01
 categories: [Essays]
+tags: [tribute]
+toc: true
 permalink: "/montgomery/"
 teaser: /assets/images/articles/montgomery.webp
 header:
