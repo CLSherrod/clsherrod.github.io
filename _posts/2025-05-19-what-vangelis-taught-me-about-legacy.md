@@ -8,7 +8,7 @@ tags: tribute, music
 permalink: /vangelis/
 published: true
 toc: true
-teaser: /assets/images/vangelis.webp
+teaser: /assets/images/articles/vangelis.webp
 header:
   image: /assets/images/articles/vangelis.webp
 ---

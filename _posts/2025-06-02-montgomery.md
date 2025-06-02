@@ -6,6 +6,9 @@ preview: "Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Pla
 tags: [tribute]
 categories: [Essays]
 permalink: "/montgomery/"
+teaser: /assets/images/articles/montgomery.webp
+header:
+  image: /assets/images/articles/montgomery.webp
 published: true
 ---
 ## How One Cardiologist Changed Countless Lives—Including Mine
