@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://christopher.com)"
 ---
-Updated on Thursday May 29th, 2025.
+Updated on Monday June 2nd, 2025.
 
 ## Currently Doing
 - I’m currently writing a book about my [electromagnetic hypersensitivity](/ehs).
@@ -30,6 +30,8 @@ See [Projects](/projects) for a list of projects.
 - [Boost Your Content Production Game: Essential Apps and Tools for 2025!](/workflow/) - I update yearly with my essential apps
 
 ## Recently Published
+- Wrote my [Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose](/montgomery/)
+- Wrote a review of [Email Storyselling Playbook](/email-storyselling/)
 - Wrote my tribute to Vangelis [The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy](/vangelis)
 - Wrote an essay [The Hidden Cost of Cutting Corners: Why Quality Hosting Matters More Than You Think](/why-good-hosting-matters/)
 - Rewviewed a good book [The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific]("/happy-isles-of-oceania/)
@@ -47,7 +49,6 @@ See [Projects](/projects) for a list of projects.
 - Updated my [robots.txt file](/robots.txt) to disallow bad bots and AI crawlers and turned on [AI bot blocker in Cloudflare](http://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click) as well.
 
 ## Reading
-- [Email Storyselling Playbook](https://amzn.to/431wFMo)
 - [Grow A New Brain](https://amzn.to/40duPqt)
 - [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So far I really like it. 
 - [On The Plain Of Snakes: A Mexican Journey](https://amzn.to/3GQGq7F)
