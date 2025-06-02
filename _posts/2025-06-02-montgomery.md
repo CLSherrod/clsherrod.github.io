@@ -32,7 +32,7 @@ Dr. Montgomery was a rare force—a man who could operate on your heart and also
 
 I’ve followed his work all these years. I’ve admired his courage, his consistency, and the deep compassion that lived at the center of everything he did.
 
-His death is a massive loss to the many communities he touched, but his work continues through the patients he transformed, the ideas he fearlessly shared, and the legacy he built at [Montgomery Heart & Wellness](https://montgomeryheart.com/).
+His death is a massive loss to the many communities he touched, but his work continues through the patients he transformed, the ideas he fearlessly shared, and the legacy he built at Montgomery Heart & Wellness.
 
 ## Thank You, Dr. Montgomery
 
