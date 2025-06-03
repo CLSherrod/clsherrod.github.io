@@ -50,7 +50,6 @@ See [Projects](/projects) for a list of projects.
 
 ## Reading
 - [Grow A New Brain](https://amzn.to/40duPqt)
-- [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So far I really like it. 
 
 I [review](/categories/#reviews) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
