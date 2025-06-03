@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://christopher.com)"
 ---
-Updated on Monday June 2nd, 2025.
+Updated on Tuesday June 3rd, 2025.
 
 ## Currently Doing
 - I’m currently writing a book about my [electromagnetic hypersensitivity](/ehs).
@@ -26,8 +26,8 @@ See [Projects](/projects) for a list of projects.
 ## Popular Essays
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 - [Completing the 1001 Albums You Must Hear Before You Die Challenge: A Musical Journey](/1001-albums/)
-- [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 - [Boost Your Content Production Game: Essential Apps and Tools for 2025!](/workflow/) - I update yearly with my essential apps
+- [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published
 - Wrote my [Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose](/montgomery/)
@@ -51,7 +51,6 @@ See [Projects](/projects) for a list of projects.
 ## Reading
 - [Grow A New Brain](https://amzn.to/40duPqt)
 - [What This Comedian Said Will Shock You by Bill Maher](https://amzn.to/3KX2v35). So far I really like it. 
-- [On The Plain Of Snakes: A Mexican Journey](https://amzn.to/3GQGq7F)
 
 I [review](/categories/#reviews) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
