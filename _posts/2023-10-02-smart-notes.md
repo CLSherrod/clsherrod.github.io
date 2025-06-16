@@ -1,7 +1,7 @@
 ---
 title: "How Smart Notes Transformed My Productivity and Well-being"
 date: 2023-10-02
-last_modified_at: 2024-12-08
+last_modified_at: 2025-06-16
 tags:
 - workflow-apps
 - implementing
@@ -195,6 +195,8 @@ Here is a comprehensive list of [Resources, links, projects, and ideas for garde
 
 Using a template vault is a great shortcut to get started.  Pick one that is close to what you are. Some are more geared towards content making, others for college and some for researchers.
 
+I use [this vault template](https://github.com/kepano/kepano-obsidian) as it's simple.
+
 ### Additional Markdown Resources
 I’ve created some markdown projects to help me organize things in my life. I hope you find them helpful.
 - [One Big Text File Markdown Journal](https://github.com/CLSherrod/OBTF/) - I keep track on what I’ve worked on in one big text file where I add the new day at the top of the file. Been doing this since January 2022. 
@@ -210,6 +212,7 @@ Folders with project related files are name YYYY-MM-DD and a project name with p
 I also liked this article [File Structure For Life](https://plaintext-productivity.net/3-02-file-folder-structure-for-life.html).
 
 ### Books & Videos
+- [How To Use Obsidian](https://stephango.com/vault) - simple way to track your smart notes
 - [Building A Second Brain](https://amzn.to/3OXMQmU) - good introductory book (on Amazon)
 - [Using Obsidian MD](https://youtu.be/QgbLb6QCK88) - nice video on the basic of using Obsidian MD (YouTube Video)
 - [Using Obisidian Bookmarks](https://medium.com/obsidian-observer/zen-like-focus-with-obsidian-bookmarks-a60d24382eb)
