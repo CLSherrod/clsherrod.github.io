@@ -11,8 +11,6 @@ tags:
 permalink: "/corp-bonics/"
 published: true
 ---
-# Why *Corp-bonics* Is the Funniest—and Truest—Book About Corporate Life You'll Ever Read
-
 **If you’ve ever rolled your eyes at “let’s circle back” or groaned through a Zoom filled with buzzwords, *Corp-bonics* belongs on your desk.**
 
 Anthony Kates’ *[Corp-bonics: A Comprehensive Field Guide to Unpacking the Buzzwords of the Modern Day Workplace](https://amzn.to/4erOkku)* is part dictionary, part satire, and part survival manual for anyone who’s had to navigate the strange theater of modern office communication.
