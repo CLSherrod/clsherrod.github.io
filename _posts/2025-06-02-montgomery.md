@@ -16,7 +16,7 @@ published: true
 
 Dr. Baxter D. Montgomery passed away suddenly last week, and I’ve been sitting with the shock, the sadness, and the deep gratitude I feel for having known him—if only from the other side of a screen.
 
-Years ago, I had the privilege of building Dr. Montgomery’s website. He came to me with a dilemma that most wouldn’t even recognize as one: he was a top-tier heart surgeon, but he wanted to publicly champion a plant-based approach to healing. Would that confuse people? Would it undermine his credibility?
+Years ago, I had the privilege of building [Dr. Montgomery’s website](https://montgomeryheart.com). He came to me with a dilemma that most wouldn’t even recognize as one: he was a top-tier heart surgeon, but he wanted to publicly champion a plant-based approach to healing. Would that confuse people? Would it undermine his credibility?
 
 But Dr. Montgomery wasn’t interested in staying quiet about what he knew to be true. He had seen firsthand that the vast majority of his patients were suffering from diet-related heart disease. And he wasn’t content with simply treating symptoms—he wanted to get to the root of the problem.
 
