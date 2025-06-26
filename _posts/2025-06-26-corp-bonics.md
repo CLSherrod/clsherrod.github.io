@@ -8,6 +8,7 @@ categories:
 - Reviews
 tags:
 - corporations
+- books
 permalink: "/corp-bonics/"
 published: true
 ---
