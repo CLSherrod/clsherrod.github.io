@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://christopher.com)"
 ---
-Updated on Tuesday June 3rd, 2025.
+Updated on Tuesday June 26th, 2025.
 
 ## Currently Doing
 - I’m currently writing a book about my [electromagnetic hypersensitivity](/ehs).
@@ -30,6 +30,7 @@ See [Projects](/projects) for a list of projects.
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published
+- Review of an old client's book [Corp-bonics](/corp-bonics/)
 - Wrote my [Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose](/montgomery/)
 - Wrote a review of [Email Storyselling Playbook](/email-storyselling/)
 - Wrote my tribute to Vangelis [The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy](/vangelis)
