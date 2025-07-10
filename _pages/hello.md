@@ -7,7 +7,7 @@ teaser: /assets/images/hello-header.webp
 header:
   overlay_image: /assets/images/hello-header.webp
   overlay_filter: 0.1
-  caption: "Art by [**Chr1stopher**](https://christopher.com)"
+  caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 ---
 If you'd like to find out more about me, [check out my About page](/about).
 
