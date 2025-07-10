@@ -11,7 +11,7 @@ header:
 ---
 ## Hiring Virtual Workers For Small Business
 
-[![Hiring Virtual Workers For Small Business on Amazon Kindle](/assets/images/books/Hiring-Virtual-Workers.webp){: .align-right style="width:320px;" }]https://amzn.to/2FvAxx9
+[![Hiring Virtual Workers For Small Business on Amazon Kindle](/assets/images/books/Hiring-Virtual-Workers.webp){: .align-right style="width:320px;" }](https://amzn.to/2FvAxx9)
 
 I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
 
