@@ -4,15 +4,11 @@ classes: wide
 title: "Unplug: The 3-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health"
 permalink: /ehs/
 ---
-I'm currently editing my electronic hypersensitivity book. It's coming out later this year.
-
-## Unplug: The 3-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health Book Coming late 2025
-
 In 2018, a massive seizure brought my world to a screeching halt. Overexposure to electronics pushed my body and mind to the brink, leaving me clinging to life and facing a long, grueling recovery. This is my story — a journey of rediscovery, resilience, and hope.  
 
 In *Unplug*, I share my deeply personal experience of battling sensitivity to electronic devices, the lessons I learned along the way, and how I reclaimed my health and happiness by transforming my lifestyle. This book is more than a memoir—it's a guide for anyone feeling the weight of technology on their body and soul.  
 
-You’ll discover:  
+## You’ll discover:  
 - **The hidden dangers of our tech-saturated lives** and the surprising ways electronics can affect your health.  
 - **Practical tips to minimize exposure** to harmful electronic frequencies while staying connected in a modern world.  
 - **Holistic strategies for living healthier and more intentionally**, from mindfulness practices to creating tech-free spaces.  
