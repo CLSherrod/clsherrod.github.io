@@ -25,7 +25,7 @@ Here is how I prefer to keep in touch:
   </form>
 
 ## Encrypted Messages
-![Christopher on Signal](/assets/images/signal-qr-code.webp){: .align-center}
+![Christopher on Signal](/assets/images/signal-qr-code.webp){: .align-center style="width:320px;" }
 Send me a message on Signal.
 
 ## Social Media
@@ -38,4 +38,4 @@ Send me a message on Signal.
 
 Learn more about [Hello pages](https://alastairjohnston.com/introducing-hello-pages/).
 
-![Chris](/assets/images/Chris-Uxmal.webp)
+![Chris](/assets/images/Chris-Uxmal.webp){: .align-left style="width:500px;" }
