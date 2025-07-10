@@ -7,7 +7,7 @@ teaser: /assets/images/explore-header.webp
 header:
   overlay_image: /assets/images/explore-header.webp
   overlay_filter: 0.1
-  caption: "Art by [**Chr1stopher**](https://christopher.com)"
+  caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 ---
 Explore more that is on my website.
 

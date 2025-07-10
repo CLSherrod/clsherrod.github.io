@@ -8,7 +8,7 @@ teaser: /assets/images/categories-header.webp
 header:
   overlay_image: /assets/images/categories-header.webp
   overlay_filter: 0.1
-  caption: "Art by [**Chr1stopher**](https://christopher.com)"
+  caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 
 ---
 Or by <a href="/blog/">year</a> or <a href="/tags/">tag</a>
