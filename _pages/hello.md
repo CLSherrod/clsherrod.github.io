@@ -25,12 +25,11 @@ Here is how I prefer to keep in touch:
   </form>
 
 ## Encrypted Messages
-![Christopher on Signal](/assets/images/signal-qr-code.webp){: .align-center style="width:320px;" }
 Send me a message on Signal.
+![Christopher on Signal](/assets/images/signal-qr-code.webp){: .align-center style="width:320px;" }
 
 ## Social Media
 - I'm active on [BlueSky](https://bsky.app/profile/christophersherrod.com)
-- I'm active on [Mastodon](https://pkm.social/@chris)
 - I am not active on any other social media
 
 ## Open-Source Projects
@@ -38,4 +37,4 @@ Send me a message on Signal.
 
 Learn more about [Hello pages](https://alastairjohnston.com/introducing-hello-pages/).
 
-![Chris](/assets/images/Chris-Uxmal.webp){: .align-left style="width:500px;" }
+![Chris](/assets/images/Chris-Uxmal.webp){: .align-left style="width:600px;" }
