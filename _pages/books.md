@@ -21,6 +21,9 @@ I will walk you through my step-by-step process to finding a virtual worker that
 [Get Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9){: .btn .btn--primary .btn--large}{: .align-center}
 
 ## How To Create New Business Ideas Based On What You Love
+
+![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp){: .align-right style="width:320px;" }
+
 A simple step by step guide to creating new business ideas based on what you love
 
 My book on how to create new business ideas that started as a printed book before Amazon Kindles existed is now out in it’s 8th edition.
@@ -31,7 +34,6 @@ My opinion and what I’ve seen with myself and all the entrepreneurs I’ve mee
 
 I’ve taken readers feedback to make this 8th edition.
 
-![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp){: .align-center}
 
 [Get How To Create New Business Ideas on Amazon Kindle](https://amzn.to/3oZlRrW){: .btn .btn--primary .btn--large}{: .align-center}
 
