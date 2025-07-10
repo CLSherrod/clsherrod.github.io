@@ -11,7 +11,7 @@ header:
 ---
 ## Hiring Virtual Workers For Small Business
 
-![Hiring Virtual Workers For Small Business on Amazon Kindle](/assets/images/books/Hiring-Virtual-Workers.webp){: .align-right style="width:320px;" }
+[![Hiring Virtual Workers For Small Business on Amazon Kindle](/assets/images/books/Hiring-Virtual-Workers.webp){: .align-right style="width:320px;" }]https://amzn.to/2FvAxx9
 
 I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
 
@@ -22,7 +22,7 @@ I will walk you through my step-by-step process to finding a virtual worker that
 
 ## How To Create New Business Ideas Based On What You Love
 
-![How To Create New Business Ideas Based On What You Love Book on Amazon Kindle](/assets/images/books/How-To-Create-New-Business-Ideas.webp){: .align-right style="width:320px;" }
+[![How To Create New Business Ideas Based On What You Love Book](/assets/images/books/How-To-Create-New-Business-Ideas.webp){: .align-right style="width:320px;" }]((https://amzn.to/3oZlRrW))
 
 A simple step by step guide to creating new business ideas based on what you love
 
