@@ -66,7 +66,7 @@ I send short, real-world reflections on living a fulfilling life — straight to
 Here’s what people explore next:
 
 - 📚 [Books & Works in Progress](https://christophersherrod.com/books/)
-- 🖼 [My Sacred Geometry Art](/chr1stopher/)
+- 🖼 [My Sacred Geometry Art at Chr1stopher.com](https://Chr1stopher.com)
 
 ### 👋 Let’s Stay Connected
 
