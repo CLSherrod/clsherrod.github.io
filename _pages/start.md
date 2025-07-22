@@ -46,7 +46,7 @@ Success doesn’t have to cost your soul. I write about doing meaningful work wi
 
 I’ve been living abroad since 2016. It’s not just about escaping — it’s about choosing better.
 
-→ [How to travel and still do business](https://christophersherrod.com/how-to-travel-and-still-do-business/)
+- [How to travel and still do business](https://christophersherrod.com/how-to-travel-and-still-do-business/)
 
 ### 📬 Get My Personal Notes
 
