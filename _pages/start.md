@@ -8,6 +8,13 @@ header:
   overlay_image: /assets/images/now-header.webp
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
+
+# SEO meta tags
+description: "Learn how to live a slower, more fulfilling life with Christopher Sherrod—writer, artist, and slow lifestyle advocate. Explore his core teachings on balance, health, creativity, and expat life."
+keywords: ["slow living", "electromagnetic sensitivity", "EMF health", "fulfilling work", "digital nomad", "expat lifestyle", "creative entrepreneur", "Christopher Sherrod"]
+author: "Christopher Sherrod"
+robots: index, follow
+canonical_url: "https://christophersherrod.com/start/"
 ---
 **Hi, I’m Christopher Sherrod.**  
 I’m a writer, artist, and slow lifestyle advocate. I help people unplug from toxic modern systems and reconnect with what really matters: health, truth, creativity, and joy.
