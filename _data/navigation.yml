@@ -1,4 +1,6 @@
 main:
+- title: "Start Here"
+  url: /stårt/
 - title: "Blog"
   url: /blog/
   subnav:
