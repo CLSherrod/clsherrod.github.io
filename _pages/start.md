@@ -4,8 +4,10 @@ description: "Welcome to ChristopherSherrod.com — A Simpler, More Fulfilling W
 date: 2025-07-22T15:58:43.725Z
 preview: "Welcome to ChristopherSherrod.com — A Simpler, More Fulfilling Way to Live"
 permalink: "/start/"
-published: true
+layout: single
+classes: wide
 toc: true
+published: true
 header:
  image: /assets/images/about-header.webp
 ---
