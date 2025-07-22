@@ -59,14 +59,14 @@ I’ve been living abroad since 2016. It’s not just about escaping — it’s 
 
 I send short, real-world reflections on living a fulfilling life — straight to your inbox.
 
-[Click here to join the email list](https://christophersherrod.com/newsletter/) _No fluff. Just truth, creativity, and clarity._
+[Click here to join the email list](https://christophersherrod.com/newsletter/) - _No fluff. Just truth, creativity, and clarity._
 
 ### 💡 Want to Dive Deeper?
 
 Here’s what people explore next:
 
 - 📚 [Books & Works in Progress](https://christophersherrod.com/books/)
-- 🖼 [My Sacred Geometry Art](https:/chr1stopher.com/)
+- 🖼 [My Sacred Geometry Art](/chr1stopher/)
 
 ### 👋 Let’s Stay Connected
 
