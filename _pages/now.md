@@ -9,10 +9,10 @@ header:
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 ---
-Updated on Tuesday June 26th, 2025.
+Updated on Tuesday July 22nd, 2025.
 
 ## Currently Doing
-- I’m currently writing a book about my [electromagnetic hypersensitivity](/ehs).
+- I’m currently writing a book about my [electromagnetic hypersensitivity](/unplug/).
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
@@ -30,6 +30,7 @@ See [Projects](/projects) for a list of projects.
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published
+- Wrote [Why Successful People Don’t Waste Time Arguing](https://christophersherrod.com/arguing/)
 - Review of an old client's book [Corp-bonics](/corp-bonics/)
 - Wrote my [Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose](/montgomery/)
 - Wrote a review of [Email Storyselling Playbook](/email-storyselling/)
@@ -60,7 +61,7 @@ I recommend the [1001 Albums You Must Hear Before You Die](https://1001albumsgen
 And check out [my profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
 
 ## Watched
-- I'm really liked [Andor](https://www.imdb.com/title/tt9253284/?ref_=fn_all_ttl_1)
+- I really liked [Andor](https://www.imdb.com/title/tt9253284/?ref_=fn_all_ttl_1)
 - Good biopic on [Douglas Adams](https://www.imdb.com/title/tt36399785/?ref_=rt_t_26)
 - Liked [Paddington In Peru](https://www.imdb.com/title/tt5822536/?ref_=rt_t_36)
 

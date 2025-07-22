@@ -37,7 +37,7 @@ Read my essays:
 
 I have had several seizures that have changed my life. Now I teach others how to reduce EMF exposure and reclaim their well-being.
 
-- My upcoming book: [Unplug](https://christophersherrod.com/unplug) (Coming Soon)
+- My upcoming book: [Unplug: The 3-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](https://christophersherrod.com/unplug) (Coming Soon)
 - Practical guide: Reducing EMF Exposure Checklist (Coming Soon)
 - And my tribute to [The Digital Canary: Arthur Firstenberg’s Legacy of Electromagnetic Awareness](https://christophersherrod.com/arthur-firstenberg/)
 
