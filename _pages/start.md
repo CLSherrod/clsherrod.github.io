@@ -1,15 +1,13 @@
 ---
-title: Welcome to ChristopherSherrod.com — A Simpler, More Fulfilling Way to Live
-description: "Welcome to ChristopherSherrod.com — A Simpler, More Fulfilling Way to Live"
-date: 2025-07-22T15:58:43.725Z
-preview: "Welcome to ChristopherSherrod.com — A Simpler, More Fulfilling Way to Live"
-permalink: "/start/"
 layout: single
-classes: wide
+title: Welcome to ChristopherSherrod.com — A Simpler, More Fulfilling Way to Live
+permalink: /start/
 toc: true
-published: true
+teaser: /assets/images/about-header.webp
 header:
- image: /assets/images/about-header.webp
+  overlay_image: /assets/images/about-header.webp
+  overlay_filter: 0.1
+  caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 ---
 **Hi, I’m Christopher Sherrod.**  
 I’m a writer, artist, and slow lifestyle advocate. I help people unplug from toxic modern systems and reconnect with what really matters: health, truth, creativity, and joy.
