@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Welcome to ChristopherSherrod.com — A Simpler, More Fulfilling Way to Live
+title: "Welcome to ChristopherSherrod.com — A Simpler, More Fulfilling Way to Live"
 permalink: /start/
 toc: true
 teaser: /assets/images/about-header.webp
