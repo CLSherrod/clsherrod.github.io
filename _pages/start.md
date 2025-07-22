@@ -30,7 +30,7 @@ We’ve been sold a hustle myth. I believe in a different rhythm — one that ho
 
 Read my essays:
 - [Striving For Balance - My True Life Goals](https://christophersherrod.com/striving-for-balance/)
-- [Finding Balance: Why Extreme Mindsets Don’t Lead to Entrepreneurial Success](https://christophersherrod.com/finding-balance/)]
+- [Finding Balance: Why Extreme Mindsets Don’t Lead to Entrepreneurial Success](https://christophersherrod.com/finding-balance/)
 - [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](https://christophersherrod.com/power-of-letting-go/)
 
 ### ⚡️ **Electromagnetic Sensitivity & Modern Health**
@@ -66,13 +66,13 @@ I send short, real-world reflections on living a fulfilling life — straight to
 Here’s what people explore next:
 
 - 📚 [Books & Works in Progress](https://christophersherrod.com/books/)
-- 🖼 [My Sacred Geometry Art](https:/chr1stopher.com)
+- 🖼 [My Sacred Geometry Art](https:/chr1stopher.com/)
 
 ### 👋 Let’s Stay Connected
 
 I’m most active on:
 - [BlueSky](https://bsky.app/profile/christophersherrod.com)
-- [Instagram](http://instagram.com/christophersherrod/)
+- [Instagram](https://instagram.com/christophersherrod/)
 - Feel free to reply to any email — I actually read them.
 
 > "Living well isn’t about doing more. It’s about doing what matters — and letting the rest fall away."
