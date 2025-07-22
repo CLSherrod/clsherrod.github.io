@@ -52,7 +52,7 @@ I’ve been living abroad since 2016. It’s not just about escaping — it’s 
 
 I send short, real-world reflections on living a fulfilling life — straight to your inbox.
 
-→ [Click here to join the email list](https://christophersherrod.com/newsletter/) _No fluff. Just truth, creativity, and clarity._
+[Click here to join the email list](https://christophersherrod.com/newsletter/) _No fluff. Just truth, creativity, and clarity._
 
 ### 💡 Want to Dive Deeper?
 
