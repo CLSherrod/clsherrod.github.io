@@ -3,9 +3,9 @@ layout: single
 title: "A Simpler, More Fulfilling Way to Live"
 permalink: /start/
 toc: true
-teaser: /assets/images/about-header.webp
+teaser: /assets/images/now-header.webp
 header:
-  overlay_image: /assets/images/about-header.webp
+  overlay_image: /assets/images/now-header.webp
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 ---
