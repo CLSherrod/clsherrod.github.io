@@ -1,6 +1,6 @@
 main:
 - title: "Start Here"
-  url: /stårt/
+  url: /start/
 - title: "Blog"
   url: /blog/
   subnav:
