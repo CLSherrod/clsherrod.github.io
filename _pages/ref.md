@@ -32,6 +32,7 @@ So is it better to compete in the war of the sharks or cooperate within a networ
 Five ways to be a dolphin entrepreneur
 
 ## Expect Miracles by Joe Vitale
-[Expect Miracles](https://amzn.to/4kWAjg6)
+
+[![Expect Miracles](https://m.media-amazon.com/images/I/812TzsPoC9L._SL1500_.jpg){: .align-right style="width:320px;" }]((https://amzn.to/45jUXSO)){:target="_blank" rel="noopener noreferrer" title="Expect Miracles"}
 
 I contributed to Joe Vitale's book on Manifesting one's dreams and wishes is not as hard we we think it is. Vitale's practical, easy to apply psychology involves attracting one's life desires by understanding and accepting them. This book enables readers to show results on their own quickly and easily. Miracles are neither impossible to experience nor difficult to achieve if we allow ourselves to make them possible.
