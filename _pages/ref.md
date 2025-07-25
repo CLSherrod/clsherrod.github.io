@@ -13,7 +13,7 @@ canonical_url: "https://christophersherrod.com/start/"
 ---
 Any missing [let me know](/hello/).
 
-## Parenting With Love: How to Raise Emotionally Healthy Children 
+## Parenting With Love: How to Raise Emotionally Healthy Children by Kent Sherrod
 [Parenting With Love: How to Raise Emotionally Healthy Children](https://amzn.to/45jUXSO)
 
 I wrote the foreword for my Dad's book on raising children.
@@ -30,3 +30,7 @@ Let’s learn from the cooperative brilliance of dolphins
 So is it better to compete in the war of the sharks or cooperate within a network of dolphins?
 Five ways to be a dolphin entrepreneur
 
+## Expect Miracles by Joe Vitale
+[Expect Miracles](https://amzn.to/4kWAjg6)
+
+I contributed to Joe Vitale's book on Manifesting one's dreams and wishes is not as hard we we think it is. Vitale's practical, easy to apply psychology involves attracting one's life desires by understanding and accepting them. This book enables readers to show results on their own quickly and easily. Miracles are neither impossible to experience nor difficult to achieve if we allow ourselves to make them possible.
