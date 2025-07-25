@@ -30,8 +30,6 @@ If Word of Mouth is so great, then why do 95% of these so-called “MLM” compa
 
 It has to do with the difference between what I call “Incentivized Word of Mouth” and “Inspired Word of Mouth.”
 
-(Not to be confused, by the way, with the excellent “Inspired Marketing” concepts by Joe Vitale and Craig Perrine coming soon …)
-
 MLM, affiliate marketing, bribed tell-a-friend forms, and the like are all “incentivized.”
 
 That’s people telling people for the promise of some reward.

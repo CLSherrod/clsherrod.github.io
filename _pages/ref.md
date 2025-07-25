@@ -1,0 +1,32 @@
+---
+layout: single
+title: "Sources That Refer To Me"
+permalink: /ref/
+toc: true
+
+# SEO meta tags
+description: "Learn how to live a slower, more fulfilling life with Christopher Sherrod—writer, artist, and slow lifestyle advocate. Explore his core teachings on balance, health, creativity, and expat life."
+keywords: ["slow living", "electromagnetic sensitivity", "EMF health", "fulfilling work", "digital nomad", "expat lifestyle", "creative entrepreneur", "Christopher Sherrod"]
+author: "Christopher Sherrod"
+robots: index, follow
+canonical_url: "https://christophersherrod.com/start/"
+---
+Any missing [let me know](/hello/).
+
+## Parenting With Love: How to Raise Emotionally Healthy Children 
+[Parenting With Love: How to Raise Emotionally Healthy Children](https://amzn.to/45jUXSO)
+
+I wrote the foreword for my Dad's book on raising children.
+
+A simple and powerful book on remembering the #1 thing that all kids need - Love. Inspired by his loving heart and desire to see all being in happy relationship, Kent saw how often parents project their frustrations and anger into their parenting. Seeing how damaging it is to yell, and carry that anger around, and how deeply it affects children, he wrote this inspired book to help parents remember what is important and that each little thing is nothing in comparison to the lifelong impact you have on your children.
+
+## Forget Shark Tank; Be A Dolphin Entrepreneur Instead
+[Forget Shark Tank; Be A Dolphin Entrepreneur Instead](https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/)
+
+Article I wrote for Conscious Business.
+
+So which is more important: competition or cooperation?
+Let’s learn from the cooperative brilliance of dolphins
+So is it better to compete in the war of the sharks or cooperate within a network of dolphins?
+Five ways to be a dolphin entrepreneur
+

@@ -22,6 +22,7 @@ Explore more that is on my website.
 - [Interests](/interests/)
 - [Blogroll](/blogroll/)
 - [Podroll](/podroll/)
+- [Refer](/ref/)
 - [Colophon](/colophon/)
 - [ChangeLog](/changelog/)
 - [Feed](/feed)
