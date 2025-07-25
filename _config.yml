@@ -108,7 +108,7 @@ author:
       icon: "fa-regular fa-envelope"
       url: "https://christophersherrod.com/newsletter/"
     - label: "Hello"
-      icon: "fa-solid fa-address=card"
+      icon: "fa-solid fa-address-card"
       url: "https://christophersherrod.com/hello/"
     - label: "RSS"
       icon: "fa-solid fa-rss"
