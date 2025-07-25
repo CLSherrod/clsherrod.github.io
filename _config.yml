@@ -107,6 +107,9 @@ author:
     - label: "Newsletter"
       icon: "fa-regular fa-envelope"
       url: "https://christophersherrod.com/newsletter/"
+    - label: "Hello"
+      icon: "fa-solid fa-address=card"
+      url: "https://christophersherrod.com/hello/"
     - label: "RSS"
       icon: "fa-solid fa-rss"
       url: "https://christophersherrod.com/feed.xml"
@@ -125,7 +128,7 @@ footer:
       url: "https://christophersherrod.com/blog/"
     - label: "About"
       icon: "fa-solid fa-address-card"
-      url: "https://christophersherrod.com/about/"
+      url: "https://christophersherrod.com/hello/"
 
 # Defaults
 defaults:
