@@ -14,6 +14,7 @@ canonical_url: "https://christophersherrod.com/start/"
 Any missing [let me know](/hello/).
 
 ## Parenting With Love: How to Raise Emotionally Healthy Children by Kent Sherrod
+
 [![Parenting With Love: How to Raise Emotionally Healthy Children](https://m.media-amazon.com/images/I/91-3kbL9eXL._SL1500_.jpg){: .align-right style="width:320px;" }]((https://amzn.to/45jUXSO))){:target="_blank" rel="noopener noreferrer" title="Parenting With Love: How to Raise Emotionally Healthy Children"}
 
 I wrote the foreword for my Dad's book on raising children.
