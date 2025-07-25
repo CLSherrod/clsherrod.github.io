@@ -69,10 +69,6 @@ Here’s what people explore next:
 - 🖼 [My Sacred Geometry Art at Chr1stopher.com](https://Chr1stopher.com)
 
 ### 👋 Let’s Stay Connected
-
-I’m most active on:
-- [BlueSky](https://bsky.app/profile/christophersherrod.com)
-- [Instagram](https://instagram.com/christophersherrod/)
-- Feel free to reply to any email — I actually read them.
+Want to stay in the loop? Goto my [Hello page](/hello).
 
 > "Living well isn’t about doing more. It’s about doing what matters — and letting the rest fall away."
