@@ -15,7 +15,7 @@ Any missing [let me know](/hello/).
 
 ## Parenting With Love: How to Raise Emotionally Healthy Children by Kent Sherrod
 
-[![Parenting With Love: How to Raise Emotionally Healthy Children](https://m.media-amazon.com/images/I/91-3kbL9eXL._SL1500_.jpg){: .align-right style="width:250px;" }]((https://amzn.to/45jUXSO)){:target="_blank" rel="noopener noreferrer" title="Parenting With Love: How to Raise Emotionally Healthy Children"}
+[![Parenting With Love: How to Raise Emotionally Healthy Children](https://m.media-amazon.com/images/I/91-3kbL9eXL._SL1500_.jpg){: .align-right style="width:250px;" }](https://amzn.to/45jUXSO){:target="_blank" rel="noopener noreferrer" title="Parenting With Love: How to Raise Emotionally Healthy Children"}
 
 I wrote the foreword for [my Dad's book on raising children](https://amzn.to/45jUXSO).
 
@@ -24,7 +24,6 @@ A simple and powerful book on remembering the #1 thing that all kids need - Love
 ## Forget Shark Tank; Be A Dolphin Entrepreneur Instead
 
 [![Forget Shark Tank - Be A Dolphin Entrepreneur Instead](https://socapglobal.com/wp-content/themes/socap/assets/img/logo-socap-black.svg){: .align-right style="width:250px;" }]((https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/)){:target="_blank" rel="noopener noreferrer" title="Forget Shark Tank; Be A Dolphin Entrepreneur Instead"}
-
 
 Article I wrote about Conscious Business.
 
