@@ -28,13 +28,7 @@ Here is how I prefer to keep in touch:
 Send me a message on Signal.
 ![Christopher on Signal](/assets/images/signal-qr-code.webp){: .align-center style="width:320px;" }
 
-## Social Media
-- I'm active on [BlueSky](https://bsky.app/profile/christophersherrod.com)
-- I am not active on any other social media
-
-## Open-Source Projects
-- I have some markdown smart note projects on [GitHub](https://github.com/clsherrod)
-
+## Hello Pages
 Learn more about [Hello pages](https://alastairjohnston.com/introducing-hello-pages/).
 
 ![Chris](/assets/images/Chris-Uxmal.webp){: .align-left style="width:600px;" }
