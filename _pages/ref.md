@@ -23,7 +23,7 @@ A simple and powerful book on remembering the #1 thing that all kids need - Love
 
 ## Forget Shark Tank; Be A Dolphin Entrepreneur Instead
 
-[![Forget Shark Tank; Be A Dolphin Entrepreneur Instead](https://socapglobal.com/wp-content/themes/socap/assets/img/logo-socap-black.svg){: .align-right style="width:250px;" }](((https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/)){:target="_blank" rel="noopener noreferrer" title="Forget Shark Tank; Be A Dolphin Entrepreneur Instead"}
+[![Forget Shark Tank - Be A Dolphin Entrepreneur Instead](https://socapglobal.com/wp-content/themes/socap/assets/img/logo-socap-black.svg){: .align-right style="width:250px;" }]((https://socapglobal.com/2017/08/forget-shark-tank-dolphin-entrepreneur-instead/)){:target="_blank" rel="noopener noreferrer" title="Forget Shark Tank; Be A Dolphin Entrepreneur Instead"}
 
 
 Article I wrote about Conscious Business.
