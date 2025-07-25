@@ -22,7 +22,7 @@ I will walk you through my step-by-step process to finding a virtual worker that
 
 ## How To Create New Business Ideas Based On What You Love
 
-[![How To Create New Business Ideas Based On What You Love Book](/assets/images/books/How-To-Create-New-Business-Ideas.webp){: .align-right style="width:320px;" }]((https://amzn.to/3oZlRrW)){:target="_blank" rel="noopener noreferrer" title="How To Create New Business Ideas Based On What You Love Book"}
+[![How To Create New Business Ideas Based On What You Love Book](/assets/images/books/How-To-Create-New-Business-Ideas.webp){: .align-right style="width:320px;" }](https://amzn.to/3oZlRrW){:target="_blank" rel="noopener noreferrer" title="How To Create New Business Ideas Based On What You Love Book"}
 
 A simple step by step guide to creating new business ideas based on what you love
 
