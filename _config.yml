@@ -19,7 +19,7 @@ search: true
 locale: "en-US"
 logo: "/assets/images/logo/logo.webp"
 masthead_title: "Christopher Sherrod"
-breadcrumbs: false # disabled by default
+breadcrumbs: true # disabled by default
 date_format: "%Y-%m-%d"
 teaser: /assets/images/related_posts.webp
 
@@ -110,9 +110,6 @@ author:
     - label: "RSS"
       icon: "fa-solid fa-rss"
       url: "https://christophersherrod.com/feed.xml"
-    - label: "BlueSky"
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/christophersherrod.com"
 
 # Footer
 footer:
@@ -123,12 +120,12 @@ footer:
     - label: "Explore"
       icon: "fa-solid fa-slash"
       url: "https://christophersherrod.com/explore/"
-    - label: "BlueSky"
-      icon: "fa-brands fa-bluesky"
-      url: "https://bsky.app/profile/christophersherrod.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/clsherrod"
+    - label: "Blog"
+      icon: "fa-solid fa-blog"
+      url: "https://christophersherrod.com/blog/"
+    - label: "About"
+      icon: "fa-solid fa-address-card"
+      url: "https://christophersherrod.com/about/"
 
 # Defaults
 defaults:
