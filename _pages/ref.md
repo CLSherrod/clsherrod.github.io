@@ -9,7 +9,7 @@ description: "Learn how to live a slower, more fulfilling life with Christopher 
 keywords: ["slow living", "electromagnetic sensitivity", "EMF health", "fulfilling work", "digital nomad", "expat lifestyle", "creative entrepreneur", "Christopher Sherrod"]
 author: "Christopher Sherrod"
 robots: index, follow
-canonical_url: "https://christophersherrod.com/start/"
+canonical_url: "https://christophersherrod.com/ref/"
 ---
 Any missing [let me know](/hello/).
 

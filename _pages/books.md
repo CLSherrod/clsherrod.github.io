@@ -7,6 +7,7 @@ teaser: /assets/images/books-header.webp
 header:
   overlay_image: /assets/images/books-header.webp
   overlay_filter: 0.1
+  image_description: "Art Books by Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 ---
 ## Hiring Virtual Workers For Small Business
