@@ -7,6 +7,7 @@ teaser: /assets/images/start-header.webp
 header:
   overlay_image: /assets/images/start-header.webp
   overlay_filter: 0.1
+  image_description: "Art Running by Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 
 # SEO meta tags

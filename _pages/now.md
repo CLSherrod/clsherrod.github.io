@@ -7,6 +7,7 @@ teaser: /assets/images/now-header.webp
 header:
   overlay_image: /assets/images/now-header.webp
   overlay_filter: 0.1
+  image_description: "Art Time by Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 ---
 Updated on Tuesday July 22nd, 2025.
