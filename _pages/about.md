@@ -4,8 +4,11 @@ title: "About Christopher Sherrod"
 permalink: /about/
 toc: true
 author_profile: true
+teaser: /assets/images/about-header.webp
 header:
- image: /assets/images/about-header.webp
+  overlay_image: /assets/images/about-header.webp
+  overlay_filter: 0.1
+  caption: "Christopher in Playa del Carmen Mexico"
 ---
 ## Author & Guide to Living a Fulfilling Life  
 
