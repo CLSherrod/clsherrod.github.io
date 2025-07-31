@@ -137,163 +137,24 @@ canonical_url: "https://christophersherrod.com/"
     Learn <a href="/about/">more about me</a>.
   </section>
 
-  <!-- Latest -->
-  <section id="recent">
-    <h2>Latest</h2>
-    <article>
-      <ul>
+<!-- Latest -->
+<section id="recent">
+  <h2>Latest Writings</h2>
+  <article>
+    <ul>
+      {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+      {% for post in sorted_posts limit:20 %}
         <li>
-          <b
-            >Review -
-            <a href="/arguing/"
-              >Why Successful People Don’t Waste Time Arguing</a
-            ></b
-          >
-          - <i>July 22nd</i>
+          <b>
+            {{ post.categories[0] | capitalize }} –
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </b>
+          – <i>{{ post.date | date: "%B %e, %Y" }}</i>
         </li>
-        <li>
-          <b
-            >Review -
-            <a href="/corp-bonics/"
-              >Why Corp-bonics Is the Funniest—and Truest—Book About Corporate
-              Life You'll Ever Read</a
-            ></b
-          >
-          - <i>June 26th</i>
-        </li>
-        <li>
-          <b
-            >Tribute -
-            <a href="/montgomery/"
-              >Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed
-              With Plants and Purpose</a
-            ></b
-          >
-          - <i>June 2nd</i>
-        </li>
-        <li>
-          <b
-            >Review -
-            <a href="/email-storyselling/"
-              >The Anti-Guru’s Guide to Email That Actually Sells</a
-            ></b
-          >
-          - <i>May 30th</i>
-        </li>
-        <li>
-          <b
-            >Tribute -
-            <a href="/vangelis/"
-              >The Soundtrack That Changed My Life: What Vangelis Taught Me
-              About Legacy</a
-            ></b
-          >
-          - <i>May 19th</i>
-        </li>
-        <li>
-          <b
-            >Essay -
-            <a href="/why-good-hosting-matters/"
-              >The Hidden Cost of Cutting Corners: Why Quality Hosting Matters
-              More Than You Think</a
-            ></b
-          >
-          - <i>April 21st</i>
-        </li>
-        <li>
-          <b
-            >Review -
-            <a href="/happy-isles-of-oceania/"
-              >The Happy Isles of Oceania by Paul Theroux – A Fascinating
-              Journey Through the South Pacific</a
-            ></b
-          >
-          - <i>April 19th</i>
-        </li>
-        <li>
-          <b
-            >Essay -
-            <a href="/finding-balance/"
-              >Finding Balance: Why Extreme Mindsets Don't Lead to
-              Entrepreneurial Success</a
-            ></b
-          >
-          - <i>March 24th</i>
-        </li>
-        <li>
-          <b
-            >Essay -
-            <a href="/billionaires/"
-              >Quit Worshipping Billionaires, Influencers and Egomaniacs—They
-              Don’t Care About You</a
-            ></b
-          >
-          - <i>March 17th</i>
-        </li>
-        <li>
-          <b
-            >Tribute -
-            <a href="/arthur-firstenberg/"
-              >The Digital Canary: Arthur Firstenberg’s Legacy of
-              Electromagnetic Awareness</a
-            ></b
-          >
-          - <i>March 1st</i>
-        </li>
-        <li>
-          <b
-            >Essay -
-            <a href="/baby-steps/"
-              >Success is Built in Baby Steps: Why Overnight Success is a
-              Myth</a
-            ></b
-          >
-          - <i>February 13th</i>
-        </li>
-        <li>
-          <b
-            >Essay -
-            <a href="/power-of-letting-go/"
-              >The Power of Letting Go: Why Not Caring What Others Think is One
-              of Life’s Greatest Lessons</a
-            ></b
-          >
-          - <i>January 7th</i>
-        </li>
-        <li>
-          <b
-            >Poem -
-            <a href="/my-bed-is-a-spaceship/">My Bed Is A Spaceship</a></b
-          >
-          - A poem about when I was confined to bed - <i>December 8th</i>
-        </li>
-        <li>
-          <b>Poem - <a href="/live-your-best-life/">Live Your Best Life</a></b>
-          - A poem I wrote I wrote to motivate a friend and thought my audience
-          would like to read it. - <i>September 26th</i>
-        </li>
-        <li>
-          <b
-            >Poem -
-            <a href="/peace-broke-out-everywhere/"
-              >Peace Broke Our Everywhere</a
-            ></b
-          >
-          - A poem about my dream. - <i>September 4th</i>
-        </li>
-        <li>
-          <b
-            >Review -
-            <a href="/nobody-wants-to-read-you/"
-              >Why Nobody Wants to Read Your Sh-t is a Must-Read for Aspiring
-              Writers: Lessons from a Marketing and Screenwriting Pro</a
-            ></b
-          >
-          - <i>September 2nd</i>
-        </li>
-      </ul>
-    </article>
-  </section>
+      {% endfor %}
+    </ul>
+  </article>
+</section>
 
   <!-- Read More -->
   <section id="more">
