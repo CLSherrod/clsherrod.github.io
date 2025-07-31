@@ -29,6 +29,13 @@ $link-color: blue;
   margin: 0 auto 3rem;
 }
 
+.full-bleed {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  box-sizing: border-box;
+}
+
+
 /* === Custom Footer Styles === */
 .page__footer-follow .social-icons {
     display: flex;
