@@ -9,6 +9,8 @@ header:
   overlay_filter: 0.1
   image_description: "Art Time by Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
+# SEO overrides
+og_image: /assets/images/now-header.webp
 ---
 Updated on Tuesday July 22nd, 2025.
 

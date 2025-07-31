@@ -11,8 +11,6 @@ header:
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 
 # SEO overrides
-og_title: "A Simpler, More Fulfilling Way to Live — Christopher Sherrod"
-og_description: "Learn how to unplug from toxic tech, slow down, and live more fully. Explore Christopher Sherrod's reflections on health, creativity, and building a meaningful life."
 og_image: /assets/images/start-header.webp
 ---
 **Hi, I’m Christopher Sherrod.**  

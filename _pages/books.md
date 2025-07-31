@@ -9,6 +9,8 @@ header:
   overlay_filter: 0.1
   image_description: "Art Books by Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
+# SEO overrides
+og_image: /assets/images/books-header.webp
 ---
 ## Hiring Virtual Workers For Small Business
 

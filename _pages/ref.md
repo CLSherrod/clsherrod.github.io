@@ -3,12 +3,6 @@ layout: single
 title: "Sources That Refer To Me"
 permalink: /ref/
 toc: true
-
-# SEO meta tags
-description: "Learn how to live a slower, more fulfilling life with Christopher Sherrod—writer, artist, and slow lifestyle advocate. Explore his core teachings on balance, health, creativity, and expat life."
-keywords: ["slow living", "electromagnetic sensitivity", "EMF health", "fulfilling work", "digital nomad", "expat lifestyle", "creative entrepreneur", "Christopher Sherrod"]
-author: "Christopher Sherrod"
-robots: index, follow
 canonical_url: "https://christophersherrod.com/ref/"
 ---
 Any missing [let me know](/hello/).
