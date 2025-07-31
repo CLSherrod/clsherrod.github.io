@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: "Christopher Sherrod"
 permalink: /home/
 author_profile: false
@@ -30,8 +31,6 @@ I'm a visual artist known as [Chr♪stopher](https://chr1stopher.com),
 and I’ve launched several helpful [projects](/projects/).  
 
 You can learn [more about me here](/about/).
-
----
 
 ## The Art of Living a Fulfilling Life  
 ### Join my newsletter for essays, poems, and slow living insights
