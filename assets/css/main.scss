@@ -24,6 +24,26 @@ $link-color: blue;
   padding-right: 0.5rem;
 }
 
+.full-width {
+  margin: 0 auto;
+  padding: 0;
+  max-width: 100vw;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.home.full-width section {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+@media (min-width: 768px) {
+  .home.full-width section {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
 .page section {
   max-width: 1200px;
   margin: 0 auto 3rem;
