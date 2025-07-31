@@ -132,12 +132,12 @@ footer:
     - label: "Blog"
       icon: "fa-solid fa-blog"
       url: "https://christophersherrod.com/blog/"
-    - label: "Colophon"
-      icon: "fa-solid fa-file-code"
-      url: "https://christophersherrod.com/colophon/"
     - label: "About"
       icon: "fa-solid fa-address-card"
       url: "https://christophersherrod.com/hello/"
+    - label: "Colophon"
+      icon: "fa-solid fa-file-code"
+      url: "https://christophersherrod.com/colophon/"
 
 # Defaults
 defaults:
