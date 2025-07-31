@@ -29,12 +29,6 @@ $link-color: blue;
   margin: 0 auto 3rem;
 }
 
-.full-bleed {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  box-sizing: border-box;
-}
-
 .hero-title {
   text-align: center;
   font-size: 2.2rem;
@@ -52,7 +46,7 @@ $link-color: blue;
   }
 }
 
-/* home page newsletter section
+/* home page newsletter section */
 .full-bleed {
   width: 100vw;
   margin-left: calc(50% - 50vw);
