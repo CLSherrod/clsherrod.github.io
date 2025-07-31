@@ -18,6 +18,13 @@ main:
     url: /newsletter/
   - title: "Books"
     url: /books/
+    children:
+      - title: "Unplug"
+        url: /unplug/
+      - title: "Hiring VAs"
+        url: /hiring/
+      - title: "How To Create New Business Ideas Based On What You Love"
+        url: /business-ideas/
   - title: "About"
     url: /about/
   - title: "Hello"
@@ -26,3 +33,8 @@ main:
     url: /now/
   - title: "Explore"
     url: /explore/
+    children:
+      - title: "Projects"
+        url: /projects/
+      - title: "My Sacred Art"
+        url: https://chr1stopher.com
