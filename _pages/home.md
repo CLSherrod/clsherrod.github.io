@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Christopher Sherrod"
-permalink: /
+permalink: /home/
 author_profile: false
 toc: false
 teaser: /assets/images/home-header2.webp
