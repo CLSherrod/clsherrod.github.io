@@ -19,18 +19,7 @@ og_image: /assets/images/home-header2.webp
 ## Hi, I'm Christopher
 
 I'm the author of two books:  
-[**How To Create New Business Ideas Based On What You Love**](/business-ideas/)  
-and  
-[**Hiring Virtual Workers For Small Business**](/hiring/).  
-
-I'm currently editing my next book,  
-[**Unplug: The 3-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health**](/unplug/).
-
-I also write [essays](/categories/#essays), [reviews](/categories/#reviews/), and [poems](/categories/#poems).  
-I'm a visual artist known as [Chr♪stopher](https://chr1stopher.com),  
-and I’ve launched several helpful [projects](/projects/).  
-
-You can learn [more about me here](/about/).
+[**How To Create New Business Ideas Based On What You Love**](/business-ideas/) and [**Hiring Virtual Workers For Small Business**](/hiring/). I'm currently editing my next book, [**Unplug: The 3-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health**](/unplug/). I also write [essays](/categories/#essays), [reviews](/categories/#reviews/), and [poems](/categories/#poems). I'm a visual artist known as [Chr♪stopher](https://chr1stopher.com), and I’ve launched several helpful [projects](/projects/). You can learn [more about me here](/about/).
 
 ## The Art of Living a Fulfilling Life  
 ### Join my newsletter for essays, poems, and slow living insights
