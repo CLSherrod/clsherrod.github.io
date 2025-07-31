@@ -1,4 +1,5 @@
 <!-- start custom head snippets -->
+
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic" rel="stylesheet" type="text/css">
 
@@ -16,23 +17,24 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-JZPN0Q5H4L');
 </script>
 
-<!-- Open Graph -->
+<!-- SEO: Open Graph -->
 <meta property="og:type" content="website">
-<meta property="og:title" content="A Simpler, More Fulfilling Way to Live">
-<meta property="og:description" content="Learn how to unplug from toxic tech, slow down, and live more fully. Christopher Sherrod shares insights on health, creativity, and real success.">
-<meta property="og:url" content="https://christophersherrod.com/start/">
-<meta property="og:image" content="https://christophersherrod.com/assets/images/now-header.webp">
+<meta property="og:title" content="{{ page.og_title | default: page.title | xml_escape }}">
+<meta property="og:description" content="{{ page.og_description | default: site.description | xml_escape }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ page.og_image | default: site.og_image | absolute_url }}">
 
-<!-- Twitter Card -->
+<!-- SEO: Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="A Simpler, More Fulfilling Way to Live">
-<meta name="twitter:description" content="Essays, tools, and guidance from Christopher Sherrod on slow living, EMF healing, creative work, and expatriate life.">
-<meta name="twitter:image" content="https://christophersherrod.com/assets/images/now-header.webp">
-<meta name="twitter:creator" content="@chrisherrod"> <!-- if you use a Twitter handle -->
+<meta name="twitter:title" content="{{ page.og_title | default: page.title | xml_escape }}">
+<meta name="twitter:description" content="{{ page.og_description | default: site.description | xml_escape }}">
+<meta name="twitter:image" content="{{ page.og_image | default: site.og_image | absolute_url }}">
+<meta name="twitter:creator" content="@chrisherrod">
 
+<!-- Jekyll SEO tag -->
 {% seo %}
+
 <!-- end custom head snippets -->

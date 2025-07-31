@@ -10,12 +10,10 @@ header:
   image_description: "Art Running by Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 
-# SEO meta tags
-description: "Learn how to live a slower, more fulfilling life with Christopher Sherrod—writer, artist, and slow lifestyle advocate. Explore his core teachings on balance, health, creativity, and expat life."
-keywords: ["slow living", "electromagnetic sensitivity", "EMF health", "fulfilling work", "digital nomad", "expat lifestyle", "creative entrepreneur", "Christopher Sherrod"]
-author: "Christopher Sherrod"
-robots: index, follow
-canonical_url: "https://christophersherrod.com/start/"
+# SEO overrides
+og_title: "A Simpler, More Fulfilling Way to Live — Christopher Sherrod"
+og_description: "Learn how to unplug from toxic tech, slow down, and live more fully. Explore Christopher Sherrod's reflections on health, creativity, and building a meaningful life."
+og_image: /assets/images/now-header.webp
 ---
 **Hi, I’m Christopher Sherrod.**  
 I’m a writer, artist, and slow lifestyle advocate. I help people unplug from toxic modern systems and reconnect with what really matters: health, truth, creativity, and joy.
@@ -38,7 +36,7 @@ Read my essays:
 
 I have had several seizures that have changed my life. Now I teach others how to reduce EMF exposure and reclaim their well-being.
 
-- My upcoming book: [Unplug: The 3-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug) (Coming Soon)
+- My upcoming book: [Unplug: The 3-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug/) (Coming Soon)
 - Practical guide: Reducing EMF Exposure Checklist (Coming Soon)
 - And my tribute to [The Digital Canary: Arthur Firstenberg’s Legacy of Electromagnetic Awareness](/arthur-firstenberg/)
 
@@ -71,6 +69,6 @@ Here’s what people explore next:
 - 🖼 [My Sacred Geometry Art at Chr1stopher.com](https://Chr1stopher.com)
 
 ### 👋 Let’s Stay Connected
-Want to stay in the loop? Goto my [Hello page](/hello).
+Want to stay in the loop? Goto my [Hello page](/hello/). Feel free to reply to any email — I actually read them.
 
 > "Living well isn’t about doing more. It’s about doing what matters — and letting the rest fall away."
