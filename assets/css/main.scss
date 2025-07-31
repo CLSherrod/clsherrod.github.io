@@ -16,6 +16,19 @@ $link-color: blue;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* Full-width custom homepage content */
+.home {
+  width: 100%;
+  max-width: 100%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.page .home section {
+  max-width: 1200px;
+  margin: 0 auto 3rem;
+}
+
 /* === Custom Footer Styles === */
 .page__footer-follow .social-icons {
     display: flex;
