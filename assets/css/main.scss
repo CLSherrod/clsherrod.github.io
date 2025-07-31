@@ -20,21 +20,25 @@ $link-color: blue;
 .home {
   width: 100%;
   max-width: 100%;
+  padding-top: 0.5em;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
+  padding-bottom: 0.5em;
 }
 
 .full-width {
   margin: 0 0 0 0;
-  padding: 0;
+  padding: 0 0 0 0;
   max-width: 100vw;
   width: 100%;
   overflow-x: hidden;
 }
 
 .home.full-width section {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-top: 0.5em;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-bottom: 0.5em;
 }
 
 @media (min-width: 768px) {
@@ -46,7 +50,7 @@ $link-color: blue;
 
 .page section {
   max-width: 1200px;
-  margin: 0 auto 3rem;
+  margin: 0 0 0 0;
 }
 
 .full-bleed {
