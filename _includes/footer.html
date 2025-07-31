@@ -1,34 +1,68 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
-    <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %} {% if site.footer.links %} {% for link in site.footer.links %}
-    {% if link.label and link.url %}
-    <li>
-      <a href="{{ link.url }}" rel="nofollow noopener noreferrer"
-        ><i
-          class="{{ link.icon | default: 'fas fa-link' }}"
-          aria-hidden="true"
-        ></i>
-        {{ link.label }}</a
-      >
-    </li>
-    {% endif %} {% endfor %} {% endif %} {% unless site.atom_feed.hide %}
-    <li>
-      <a
-        href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"
-        ><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{
-        site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a
-      >
-    </li>
+      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %}
+
+    {% if site.footer.links %}
+      {% for link in site.footer.links %}
+        {% if link.label and link.url %}
+          <li>
+            <a href="{{ link.url }}"
+               target="_blank"
+               rel="noopener noreferrer nofollow">
+              <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
+              {{ link.label }}
+            </a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
+    {% unless site.atom_feed.hide %}
+      <li>
+        <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"
+           rel="noopener noreferrer">
+          <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i>
+          {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
+        </a>
+      </li>
     {% endunless %}
   </ul>
 </div>
 
 <div class="page__footer-copyright">
-  <a href="https://christophersherrod.com/copyright/">Copyright &copy; 2000-2025 Christopher Sherrod</a> |
-  Technology specs at <a href="https://christophersherrod.com/colophon/" rel="nofollow">Colophon</a> |
-  Created by <a href="https://whodefinesyou.com">Who Defines You - Web Agency</a>.
+  <p style="text-align: center; font-size: 0.9rem;">
+    <span id="copyright-year">© 2000–<span id="year"></span> Christopher Sherrod</span><br />
+    <a href="https://christophersherrod.com/copyright/" rel="noopener noreferrer">Copyright</a> |
+    <a href="https://christophersherrod.com/colophon/" rel="noopener noreferrer">Colophon</a> |
+    Created by <a href="https://whodefinesyou.com" rel="noopener noreferrer">Who Defines You – Web Agency</a>
+  </p>
 </div>
 
-<script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"fae2a45ec9c5777b255cdfd7d2a79fdc"})});</script>
+<script>
+  // Auto-update the year
+  document.addEventListener("DOMContentLoaded", function () {
+    var yearSpan = document.getElementById("year");
+    if (yearSpan) {
+      yearSpan.textContent = new Date().getFullYear();
+    }
+  });
+</script>
+
+<!-- Metricool Tracker -->
+<script>
+  function loadScript(callback) {
+    var head = document.getElementsByTagName("head")[0];
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = "https://tracker.metricool.com/resources/be.js";
+    script.onreadystatechange = callback;
+    script.onload = callback;
+    head.appendChild(script);
+  }
+
+  loadScript(function () {
+    beTracker.t({ hash: "fae2a45ec9c5777b255cdfd7d2a79fdc" });
+  });
+</script>
