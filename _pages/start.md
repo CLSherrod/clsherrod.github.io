@@ -46,10 +46,10 @@ I have had several seizures that have changed my life. Now I teach others how to
 
 Success doesn’t have to cost your soul. I write about doing meaningful work without burning out.
 
-- Book: [How To Create New Business Ideas Based On What You Love](https://amzn.to/2FvAxx9)
-- Book: [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)  
-- Essay: [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
 - Essay: [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](/dolphin-entrepreneur/)  
+- Essay: [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
+- Book: [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
+- Book: [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)  
 
 ### 🌎 **Expat Life & Travel Reflections**
 
