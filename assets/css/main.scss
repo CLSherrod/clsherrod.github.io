@@ -16,6 +16,14 @@ $link-color: blue;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* page */
+.page_content {
+  padding-top: 0.5em;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-bottom: 0.5em;
+}
+
 /* Full-width custom homepage content */
 .home {
   width: 100%;
