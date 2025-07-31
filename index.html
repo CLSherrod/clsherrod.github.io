@@ -143,7 +143,7 @@ canonical_url: "https://christophersherrod.com/"
   <article>
     <ul>
       {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-      {% for post in sorted_posts limit:20 %}
+      {% for post in sorted_posts limit:15 %}
         <li>
           <b>
             {{ post.categories[0] | capitalize }} –
