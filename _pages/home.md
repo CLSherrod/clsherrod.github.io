@@ -4,6 +4,7 @@ classes: wide
 title: "Christopher Sherrod"
 permalink: /home/
 author_profile: false
+breadcrumbs: false
 toc: false
 teaser: /assets/images/home-header2.webp
 header:
