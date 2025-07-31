@@ -13,7 +13,7 @@ header:
 # SEO overrides
 og_title: "A Simpler, More Fulfilling Way to Live — Christopher Sherrod"
 og_description: "Learn how to unplug from toxic tech, slow down, and live more fully. Explore Christopher Sherrod's reflections on health, creativity, and building a meaningful life."
-og_image: /assets/images/now-header.webp
+og_image: /assets/images/start-header.webp
 ---
 **Hi, I’m Christopher Sherrod.**  
 I’m a writer, artist, and slow lifestyle advocate. I help people unplug from toxic modern systems and reconnect with what really matters: health, truth, creativity, and joy.
