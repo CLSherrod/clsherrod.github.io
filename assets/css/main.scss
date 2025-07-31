@@ -79,7 +79,7 @@ $link-color: blue;
 }
 
 .newsletter-content {
-  max-width: 1200px;
+  max-width: 100%;
   margin: 0 auto;
   text-align: center;
 }
@@ -90,14 +90,14 @@ $link-color: blue;
   max-width: 750px;
   flex-wrap: nowrap;
   justify-content: center;
-  gap: 1rem;
-  margin-top: 0.5rem;
+  gap: 0rem;
+  margin-top: 0rem;
 }
 
 .newsletter-field {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 250px;
   max-width: 250px;
 }
 
