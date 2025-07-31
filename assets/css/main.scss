@@ -52,6 +52,63 @@ $link-color: blue;
   }
 }
 
+/* home page newsletter section
+.full-bleed {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  box-sizing: border-box;
+}
+
+.turquoise-banner {
+  background-color: turquoise;
+  padding: 2rem 1rem;
+}
+
+.newsletter-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.newsletter-form {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.newsletter-field {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 250px;
+}
+
+.newsletter-field input {
+  border: 2px solid blue;
+  padding: 5px;
+}
+
+.newsletter-submit {
+  border: 0;
+  padding: 0.8em 1.4em;
+  background-color: rgb(185, 75, 75);
+  color: white;
+  cursor: pointer;
+  border-radius: 100px;
+  width: 100%;
+  font-size: 1.5rem;
+  font-weight: 600;
+  letter-spacing: -0.004em;
+  line-height: 1;
+  max-width: 200px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.4em;
+}
+
 /* === Custom Footer Styles === */
 .page__footer-follow .social-icons {
     display: flex;

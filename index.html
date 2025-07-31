@@ -29,97 +29,46 @@ canonical_url: "https://christophersherrod.com/"
 ---
 
 <div class="home">
-  <!-- Newsletter -->
-  <section
-    id="newsletter"
-    style="background-color: turquoise; padding: 10px; border-radius: 8px"
-  >
-    <br />
-    <h1 class="hero-title animate-slide-up">
-      The Art of Living a Fulfilling Life<br />with Christopher Sherrod
-    </h1>
+  <!-- Newsletter (Full-Width, Turquoise) -->
+  <section id="newsletter-banner" class="full-bleed turquoise-banner">
+    <div class="newsletter-content">
+      <h1 class="hero-title animate-slide-up">
+        The Art of Living a Fulfilling Life<br />with Christopher Sherrod
+      </h1>
 
-    <form
-      action="https://mail.nanakasha.com/subscribe"
-      method="POST"
-      accept-charset="utf-8"
-      style="
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 10px;
-        background-color: turquoise;
-        padding: 15px;
-        border-radius: 8px;
-      "
-    >
-      <div
-        style="
-          display: flex;
-          flex-direction: column;
-          width: 100%;
-          max-width: 250px;
-        "
+      <form
+        action="https://mail.nanakasha.com/subscribe"
+        method="POST"
+        accept-charset="utf-8"
+        class="newsletter-form"
       >
-        <label for="name" style="margin-right: 10px">Name</label>
-        <input
-          type="text"
-          name="name"
-          id="name"
-          style="margin-right: 20px; border: 2px solid blue; padding: 5px"
-        />
-      </div>
-      <div
-        style="
-          display: flex;
-          flex-direction: column;
-          width: 100%;
-          max-width: 250px;
-        "
-      >
-        <label for="email" style="margin-right: 10px">Email</label>
-        <input
-          type="email"
-          name="email"
-          id="email"
-          style="margin-right: 20px; border: 2px solid blue; padding: 5px"
-        />
-      </div>
-      <div style="display: none">
-        <label for="hp">HP</label>
-        <input type="text" name="hp" id="hp" style="border: 2px solid blue" />
-      </div>
+        <div class="newsletter-field">
+          <label for="name">Name</label>
+          <input type="text" name="name" id="name" />
+        </div>
+        <div class="newsletter-field">
+          <label for="email">Email</label>
+          <input type="email" name="email" id="email" />
+        </div>
+        <div style="display: none">
+          <label for="hp">HP</label>
+          <input type="text" name="hp" id="hp" />
+        </div>
 
-      <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
-      <input type="hidden" name="subform" value="yes" />
+        <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
+        <input type="hidden" name="subform" value="yes" />
 
-      <input
-        type="submit"
-        name="submit"
-        id="submit"
-        value="Subscribe"
-        style="
-          border: 0;
-          padding: 0.8em 1.4em;
-          background-color: rgb(185, 75, 75);
-          color: white;
-          cursor: pointer;
-          border-radius: 100px;
-          width: 100%;
-          font-size: 1.5rem;
-          font-weight: 600;
-          letter-spacing: -0.004em;
-          line-height: 1;
-          max-width: 200px;
-          align-items: center;
-          display: inline-flex;
-          gap: 0.4em;
-          justify-content: center;
-        "
-      />
-    </form>
+        <input
+          type="submit"
+          name="submit"
+          id="submit"
+          value="Subscribe"
+          class="newsletter-submit"
+        />
+      </form>
+    </div>
   </section>
-  <hr />
+
   <!-- Intro -->
   <section id="intro">
     <h2>Hi, I'm Christopher</h2>
@@ -192,7 +141,7 @@ canonical_url: "https://christophersherrod.com/"
   <section id="newsletter">
     <h2>Receive My Newsletter</h2>
     <p>
-      Get on <a href="/newsletter">my newsletter</a> for notification of new
+      Get on <a href="#newsletter">my newsletter</a> for notification of new
       essays, reviews, poems and projects.
     </p>
   </section>
