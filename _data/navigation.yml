@@ -1,28 +1,28 @@
 main:
-- title: "Start Here"
-  url: /start/
-- title: "Blog"
-  url: /blog/
-  subnav:
-  - title: "Essays"
-    url: /categories/#essays/
-  - title: "Reviews"
-    url: /categories/#reviews/
-  - title: "Poems"
-    url: /categories/#poems/
-  - title: "News"
-    url: /categories/#news/
-  - title: "Tags"
-    url: /tags/
-- title: "Newsletter"
-  url: /newsletter/
-- title: "Books"
-  url: /books/
-- title: "About"
-  url: /about/
-- title: "Hello"
-  url: /hello/
-- title: "Now"
-  url: /now/
-- title: "Explore"
-  url: /explore/
+  - title: "Start Here"
+    url: /start/
+  - title: "Blog"
+    url: /blog/
+    children:
+      - title: "Essays"
+        url: /categories/#essays/
+      - title: "Reviews"
+        url: /categories/#reviews/
+      - title: "Poems"
+        url: /categories/#poems/
+      - title: "News"
+        url: /categories/#news/
+      - title: "Tags"
+        url: /tags/
+  - title: "Newsletter"
+    url: /newsletter/
+  - title: "Books"
+    url: /books/
+  - title: "About"
+    url: /about/
+  - title: "Hello"
+    url: /hello/
+  - title: "Now"
+    url: /now/
+  - title: "Explore"
+    url: /explore/
