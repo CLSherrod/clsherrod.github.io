@@ -40,8 +40,17 @@ $link-color: blue;
   font-size: 2.2rem;
   margin-bottom: 2rem;
   line-height: 1.3;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: slide-up 0.8s ease-out 0.1s forwards;
 }
 
+@keyframes slide-up {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
 
 /* === Custom Footer Styles === */
 .page__footer-follow .social-icons {

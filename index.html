@@ -12,11 +12,22 @@ header:
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 # ✅ SEO Meta Tags
 description: "Christopher Sherrod is a writer, artist, and slow lifestyle advocate. Discover his essays, poems, and books on living a fulfilling life, unplugging from toxic tech, and doing meaningful creative work."
-keywords: ["Christopher Sherrod", "slow living", "electromagnetic sensitivity", "fulfilling life", "creative entrepreneurship", "expat lifestyle", "digital detox", "meaningful work"]
+keywords:
+  [
+    "Christopher Sherrod",
+    "slow living",
+    "electromagnetic sensitivity",
+    "fulfilling life",
+    "creative entrepreneurship",
+    "expat lifestyle",
+    "digital detox",
+    "meaningful work",
+  ]
 author: "Christopher Sherrod"
 robots: index, follow
 canonical_url: "https://christophersherrod.com/"
 ---
+
 <div class="home">
   <!-- Newsletter -->
   <section
@@ -24,7 +35,10 @@ canonical_url: "https://christophersherrod.com/"
     style="background-color: turquoise; padding: 10px; border-radius: 8px"
   >
     <br />
-    <h1 class="hero-title">The Art of Living a Fulfilling Life<br />with Christopher Sherrod</h1>
+    <h1 class="hero-title animate-slide-up">
+      The Art of Living a Fulfilling Life<br />with Christopher Sherrod
+    </h1>
+
     <form
       action="https://mail.nanakasha.com/subscribe"
       method="POST"
@@ -122,18 +136,18 @@ canonical_url: "https://christophersherrod.com/"
     plus numerous <a href="/categories/#essays">essays</a>,
     <a href="/categories/#reviews">reviews</a>, and
     <a href="/categories/#poems">poems</a>. I am also an artist known as
-    <a href="https://chr1stopher.com">Chr♪stopher</a>. Plus I've done some helpful
-    <a href="/projects/">projects</a>.<br /><br />
+    <a href="https://chr1stopher.com">Chr♪stopher</a>. Plus I've done some
+    helpful <a href="/projects/">projects</a>.<br /><br />
     Learn <a href="/about/">more about me</a>.
   </section>
 
-<!-- Latest -->
-<section id="recent">
-  <h2>Latest Writings</h2>
-  <article>
-    <ul>
-      {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-      {% for post in sorted_posts limit:15 %}
+  <!-- Latest -->
+  <section id="recent">
+    <h2>Latest Writings</h2>
+    <article>
+      <ul>
+        {% assign sorted_posts = site.posts | sort: 'date' | reverse %} {% for
+        post in sorted_posts limit:15 %}
         <li>
           <b>
             {{ post.categories[0] | capitalize }} –
@@ -141,10 +155,10 @@ canonical_url: "https://christophersherrod.com/"
           </b>
           – <i>{{ post.date | date: "%B %e, %Y" }}</i>
         </li>
-      {% endfor %}
-    </ul>
-  </article>
-</section>
+        {% endfor %}
+      </ul>
+    </article>
+  </section>
 
   <!-- Read More -->
   <section id="more">
@@ -184,18 +198,18 @@ canonical_url: "https://christophersherrod.com/"
   </section>
 </div>
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Christopher Sherrod",
-  "url": "https://christophersherrod.com",
-  "sameAs": [
-    "https://chr1stopher.com",
-    "https://bsky.app/profile/christophersherrod.com",
-    "https://instagram.com/christophersherrod"
-  ],
-  "jobTitle": "Writer, Artist, and Slow Lifestyle Advocate",
-  "image": "https://christophersherrod.com/assets/images/home-header2.webp",
-  "description": "Christopher Sherrod is a writer, artist, and slow lifestyle advocate sharing essays, books, and reflections on fulfilling living, creative entrepreneurship, and EMF sensitivity."
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Christopher Sherrod",
+    "url": "https://christophersherrod.com",
+    "sameAs": [
+      "https://chr1stopher.com",
+      "https://bsky.app/profile/christophersherrod.com",
+      "https://instagram.com/christophersherrod"
+    ],
+    "jobTitle": "Writer, Artist, and Slow Lifestyle Advocate",
+    "image": "https://christophersherrod.com/assets/images/home-header2.webp",
+    "description": "Christopher Sherrod is a writer, artist, and slow lifestyle advocate sharing essays, books, and reflections on fulfilling living, creative entrepreneurship, and EMF sensitivity."
+  }
 </script>
