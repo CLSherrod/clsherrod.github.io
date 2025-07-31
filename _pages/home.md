@@ -34,7 +34,7 @@ I'm the author of two books:
     <label for="name">Name</label>
     <input type="text" name="name" id="name" />
   </div>
-
+&nbsp;
   <div class="newsletter-field">
     <label for="email">Email</label>
     <input type="email" name="email" id="email" />
@@ -47,7 +47,7 @@ I'm the author of two books:
 
   <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
   <input type="hidden" name="subform" value="yes" />
-
+&nbsp;
   <input
     type="submit"
     name="submit"
@@ -64,7 +64,7 @@ I'm the author of two books:
 <article>
   <ul>
     {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
-    {% for post in sorted_posts limit: 15 %}
+    {% for post in sorted_posts limit: 10 %}
       <li>
         <strong>{{ post.categories[0] | capitalize }}</strong> – 
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
