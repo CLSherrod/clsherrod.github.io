@@ -24,9 +24,15 @@ $link-color: blue;
   padding-right: 0.5rem;
 }
 
-.page .home section {
+.page section {
   max-width: 1200px;
   margin: 0 auto 3rem;
+}
+
+.full-bleed {
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  box-sizing: border-box;
 }
 
 .hero-title {
@@ -47,15 +53,9 @@ $link-color: blue;
 }
 
 /* home page newsletter section */
-.full-bleed {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  box-sizing: border-box;
-}
-
 .turquoise-banner {
   background-color: turquoise;
-  padding: 2rem 1rem;
+  padding: 3rem 1rem;
 }
 
 .newsletter-content {
@@ -65,23 +65,25 @@ $link-color: blue;
 }
 
 .newsletter-form {
+  background-color: transparent; // inherits turquoise from section
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 1rem;
-  margin-top: 1rem;
+  margin-top: 2rem;
 }
 
 .newsletter-field {
   display: flex;
   flex-direction: column;
-  width: 200px;
+  width: 100%;
   max-width: 250px;
 }
 
 .newsletter-field input {
   border: 2px solid blue;
   padding: 5px;
+  background-color: white; /* Optional: adds contrast */
 }
 
 .newsletter-submit {
