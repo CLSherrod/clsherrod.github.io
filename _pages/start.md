@@ -30,43 +30,43 @@ These are the themes I return to again and again. Click to explore:
 We’ve been sold a hustle myth. I believe in a different rhythm — one that honors rest, creativity, and simplicity.
 
 Read my essays:
-- [Striving For Balance - My True Life Goals](https://christophersherrod.com/striving-for-balance/)
-- [Finding Balance: Why Extreme Mindsets Don’t Lead to Entrepreneurial Success](https://christophersherrod.com/finding-balance/)
-- [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](https://christophersherrod.com/power-of-letting-go/)
+- [Striving For Balance - My True Life Goals](/striving-for-balance/)
+- [Finding Balance: Why Extreme Mindsets Don’t Lead to Entrepreneurial Success](/finding-balance/)
+- [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](/power-of-letting-go/)
 
 ### ⚡️ **Electromagnetic Sensitivity & Modern Health**
 
 I have had several seizures that have changed my life. Now I teach others how to reduce EMF exposure and reclaim their well-being.
 
-- My upcoming book: [Unplug: The 3-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](https://christophersherrod.com/unplug) (Coming Soon)
+- My upcoming book: [Unplug: The 3-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug) (Coming Soon)
 - Practical guide: Reducing EMF Exposure Checklist (Coming Soon)
-- And my tribute to [The Digital Canary: Arthur Firstenberg’s Legacy of Electromagnetic Awareness](https://christophersherrod.com/arthur-firstenberg/)
+- And my tribute to [The Digital Canary: Arthur Firstenberg’s Legacy of Electromagnetic Awareness](/arthur-firstenberg/)
 
 ### 🐬 **Fulfilling Work & Slow Entrepreneurship**
 
 Success doesn’t have to cost your soul. I write about doing meaningful work without burning out.
 
 - Book: [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)  
-- Essay: [Success is Built in Baby Steps: Why Overnight Success is a Myth](https://christophersherrod.com/baby-steps/)
-- Essay: [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](https://christophersherrod.com/dolphin-entrepreneur/)  
+- Essay: [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
+- Essay: [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](/dolphin-entrepreneur/)  
 
 ### 🌎 **Expat Life & Travel Reflections**
 
 I’ve been living abroad since 2016. It’s not just about escaping — it’s about choosing better.
 
-- [How to travel and still do business](https://christophersherrod.com/how-to-travel-and-still-do-business/)
+- [How to travel and still do business](/how-to-travel-and-still-do-business/)
 
 ### 📬 Get My Personal Notes
 
 I send short, real-world reflections on living a fulfilling life — straight to your inbox.
 
-[Click here to join the email list](https://christophersherrod.com/newsletter/) - _No fluff. Just truth, creativity, and clarity._
+[Click here to join the email list](/newsletter/) - _No fluff. Just truth, creativity, and clarity._
 
 ### 💡 Want to Dive Deeper?
 
 Here’s what people explore next:
 
-- 📚 [Books & Works in Progress](https://christophersherrod.com/books/)
+- 📚 [Books & Works in Progress](/books/)
 - 🖼 [My Sacred Geometry Art at Chr1stopher.com](https://Chr1stopher.com)
 
 ### 👋 Let’s Stay Connected
