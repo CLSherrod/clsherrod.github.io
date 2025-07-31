@@ -67,6 +67,7 @@ $link-color: blue;
 .newsletter-form {
   background-color: transparent; // inherits turquoise from section
   display: flex;
+  max-width: 500px;
   flex-wrap: wrap;
   justify-content: center;
   gap: 1rem;
@@ -83,7 +84,7 @@ $link-color: blue;
 .newsletter-field input {
   border: 2px solid blue;
   padding: 5px;
-  background-color: whitesmoke;
+  background-color: whitesmoke0;
   color: black;
 }
 
