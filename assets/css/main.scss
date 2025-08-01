@@ -69,6 +69,7 @@ $link-color: blue;
 
 .narrow {
   width: 500px;
+  margin-left: calc(50% - 50vw);
   justify-content: center;
   box-sizing: border-box;
 }
