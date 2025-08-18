@@ -12,7 +12,7 @@ header:
 # SEO overrides
 og_image: /assets/images/now-header.webp
 ---
-Updated on Tuesday July 22nd, 2025.
+Updated on Sunday August 17th, 2025.
 
 ## Currently Doing
 - I’m currently writing a book about my [electromagnetic hypersensitivity](/unplug/).
@@ -49,13 +49,16 @@ See [Projects](/projects) for a list of projects.
 
 See my [past essays](/categories/)
 
-## Reading
-- [Grow A New Brain](https://amzn.to/40duPqt)
+## Recently Read
+- [Travels with Charley: In Search of America](https://amzn.to/3JCa9lP)
+- [The Best American Food and Travel Writing 2024: A Delicious Anthology with Rich Narratives and Bold Flavors, Taste the Best in Culinary Writing](https://amzn.to/4lxuSEY)
+- [Zen in the Art of Writing: Releasing the Creative Genius Within You](https://amzn.to/3V3Vxy7)
 
 I [review](/categories/#reviews) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 
 ## Listening
-- Enjoying the new album "Equilibrium" by sing-songwriter [Waves Rush In](https://wavesrushin.com) coming out in April.
+- Loved the new live album [The Lamb Stands Up Live At The Royal Albert Hall](https://hackettsongs.com/news/steve-hackett-the-lamb-stands-up-live-at-the-royal-albert-hall.html) by Steve Hackett.
+- Enjoying the new album "Equilibrium" by sing-songwriter [Waves Rush In](https://wavesrushin.com)
 - Enjoying the new album "Blackbird and the Sun of October" by [Federico Albanese](https://www.federicoalbanese.com).
 - Love the new [Buddha Bar](https://www.buddhabar.com/en/buddha-bar-by-dole-kom-ravin/) album.
 
@@ -64,6 +67,7 @@ I recommend the [1001 Albums You Must Hear Before You Die](https://1001albumsgen
 And check out [my profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
 
 ## Watched
+- Enjoyed the new [Superman (2025)](https://www.imdb.com/title/tt5950044/?ref_=rt_t_1) movie
 - I really liked [Andor](https://www.imdb.com/title/tt9253284/?ref_=fn_all_ttl_1)
 - Good biopic on [Douglas Adams](https://www.imdb.com/title/tt36399785/?ref_=rt_t_26)
 - Liked [Paddington In Peru](https://www.imdb.com/title/tt5822536/?ref_=rt_t_36)
