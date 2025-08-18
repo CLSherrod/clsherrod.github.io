@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: "Unplug: The 3-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health"
+title: "Unplug: Heal from Hidden EMF Radiation with My 4-Step Plan to Reclaim Your Life"
 permalink: /unplug/
 ---
 ![Unplug](/assets/images/books/Unplug.webp){: .align-right style="width:320px;" }
