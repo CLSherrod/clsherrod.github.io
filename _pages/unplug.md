@@ -4,7 +4,7 @@ classes: wide
 title: "Unplug: Heal from Hidden EMF Radiation with My 4-Step Plan to Reclaim Your Life"
 permalink: /unplug/
 ---
-![Unplug](/assets/images/books/Unplug.webp){: .align-right style="width:320px;" }
+![Unplug - Heal from Hidden EMF Radiation with My 4-Step Plan to Reclaim Your Life](/assets/images/books/Unplug.webp){: .align-right style="width:320px;" }
 
 In 2018, a massive seizure brought my world to a screeching halt. Overexposure to electronics pushed my body and mind to the brink, leaving me clinging to life and facing a long, grueling recovery. This is my story — a journey of rediscovery, resilience, and hope.  
 
