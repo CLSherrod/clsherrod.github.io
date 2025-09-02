@@ -17,8 +17,9 @@ If you need something else, feel free to email me at **chris [at] christophershe
 
 Click to download high-res versions:
 
-- [Professional Headshot](https://christophersherrod.com/assets/images/christopher-headshot1.jpg)  
-- [Casual Headshot](https://christophersherrod.com/assets/images/christopher-headshot2.jpg)
+- [Photo 1](https://christophersherrod.com/assets/images/christopher-sherrod-1.jpg)  
+- [Photo 2](https://christophersherrod.com/assets/images/christopher-sherrod-2.jpg)
+- [Photo 3](https://christophersherrod.com/assets/images/christopher-sherrod-3.jpg)
 
 ## ✍️ Short Bio
 
@@ -67,11 +68,4 @@ I love discussing…
 ## 🛠️ Tech Setup
 
 I use a professional mic and camera setup with Zoom.  
-I record in a quiet space with stable Ethernet. Based in Yucatan Mexico, Central Time (CST/CDT).
-
----
-
-## 📄 Optional One-Sheet (PDF)
-
-Download my one-sheet here:  
-👉 [Christopher Sherrod Podcast One-Sheet PDF](https://christophersherrod.com/assets/podcast-one-sheet.pdf)
+I record in a quiet space with stable Ethernet. Based in Yucatan Mexico, Central Time (CST).
