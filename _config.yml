@@ -103,8 +103,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-loading-lazy
- - jekyll-redirect-from
- 
+  - jekyll-redirect-from
+
 # Author sidebar
 author:
   name: "Christopher Sherrod"
