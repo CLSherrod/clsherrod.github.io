@@ -8,9 +8,8 @@ permalink: /earth-day-everyday/
 published: true
 comments: true
 toc: true
+excerp: Earth Day Every Day
 ---
-Earth Day Everyday
-<!--more--> 
 ## Rethinking Earth Day: Making Environmental Stewardship a Daily Practice
 
 In today’s world, Earth Day stands as a crucial reminder of our responsibility towards environmental preservation. However, confining our efforts to a single day each year is no longer adequate given the urgent environmental challenges we face. Instead, we must foster a mindset where every decision, every purchase, and every system is fine-tuned to benefit the environment continuously, transforming Earth Day into an everyday commitment.
