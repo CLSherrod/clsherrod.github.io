@@ -3,10 +3,10 @@ title: 5 Lessons learned from working with partners
 date: 2011-01-27
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- partnership
-permalink: "/5-lessons-learned-from-working-with-partners/"
+  - partnership
+permalink: /5-lessons-learned-from-working-with-partners/
 ---
 Working with partners can be challenging.
 

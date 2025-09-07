@@ -3,10 +3,10 @@ title: Should you be the best?
 date: 2010-10-14
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- branding
-permalink: "/should-you-be-the-best/"
+  - branding
+permalink: /should-you-be-the-best/
 ---
 There will always someone faster, stronger or better than you. But no one else is you. Be your own brand.
 

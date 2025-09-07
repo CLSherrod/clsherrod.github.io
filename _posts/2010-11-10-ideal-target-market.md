@@ -3,10 +3,10 @@ title: What's your ideal target market?
 date: 2010-11-10
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- partnership
-permalink: "/ideal-target-market/"
+  - partnership
+permalink: /ideal-target-market/
 ---
 Yesterday was a day of contrast for me. I when to an art opening lecture with my girlfriend. It was full of artistic people listening to two people about architecture and art, how they are different and what makes a great building.
 

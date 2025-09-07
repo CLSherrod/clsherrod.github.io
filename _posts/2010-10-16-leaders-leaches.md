@@ -3,10 +3,10 @@ title: Leaders and Leaches Which are you?
 date: 2010-10-16
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- ideas
-permalink: "/leaders-leaches/"
+  - ideas
+permalink: /leaders-leaches/
 ---
 You're not a leader if you
 - are a CEO of your own company and you have two contractors having a dispute and you tell you staff that you don't want to hear about it and you're the only one that can resolve the issue. Leaders are not afraid of confrontation.

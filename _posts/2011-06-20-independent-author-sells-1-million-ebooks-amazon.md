@@ -3,10 +3,10 @@ title: Independent Author Sells 1 Million Ebooks via Amazon
 date: 2011-06-20
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- book-review
-permalink: "/independent-author-sells-1-million-ebooks-amazon/"
+  - book-review
+permalink: /independent-author-sells-1-million-ebooks-amazon/
 ---
 Interesting how he uses a low price to gather fame and make some money.
 

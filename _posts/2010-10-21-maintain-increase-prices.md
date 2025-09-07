@@ -3,10 +3,10 @@ title: How To Maintain and Even Increase Your Prices
 date: 2010-10-21
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- branding
-permalink: "/maintain-increase-prices/"
+  - branding
+permalink: /maintain-increase-prices/
 ---
 With a good brand you can charge more for your products and services because you are seen as the best.
 

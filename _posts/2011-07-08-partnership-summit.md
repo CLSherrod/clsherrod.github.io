@@ -1,13 +1,13 @@
 ---
-title: "Lessons From My Partnership Telesummit"
+title: Lessons From My Partnership Telesummit
 date: 2011-07-08
-categories: Essays
+categories: Business & Entrepreneurship
 tags:
-- partnerships
+  - partnerships
 permalink: /partnerships/
 published: true
 comments: true
-excerpt: "Lessons from Partnership Summit"
+excerpt: Lessons from Partnership Summit
 ---
 My Partnership Telesummit ended yesterday.
 

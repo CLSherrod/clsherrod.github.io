@@ -3,10 +3,10 @@ title: How To Manage Your Value Benefits
 date: 2010-10-26
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- branding
-permalink: "/how-to-manage-your-value-benefits/"
+  - branding
+permalink: /how-to-manage-your-value-benefits/
 ---
 When you're the best at what you do you can more easily manage the benefits you provide to your customers.
 

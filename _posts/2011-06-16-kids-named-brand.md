@@ -3,10 +3,10 @@ title: When kids are named after your brand name...
 date: 2011-06-16
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- branding
-permalink: "/kids-named-brand/"
+  - branding
+permalink: /kids-named-brand/
 ---
 Robins Williams (yes the comic) and his daughter who was named after Zelda the video game appear in an ad for the new Zelda game "The Legend of Zelda: Ocarina of Time 3D".
 

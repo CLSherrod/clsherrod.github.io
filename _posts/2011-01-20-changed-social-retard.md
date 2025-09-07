@@ -3,10 +3,10 @@ title: How I changed from being a social retard
 date: 2011-01-20
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- networking
-permalink: "/changed-social-retard/"
+  - networking
+permalink: /changed-social-retard/
 ---
 I had a former neighbor tell me recently that she really looked up to me.
 
