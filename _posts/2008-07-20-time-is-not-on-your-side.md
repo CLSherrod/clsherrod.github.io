@@ -3,10 +3,10 @@ title: Time Is Not On Your Side
 date: 2008-07-20
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/time-is-not-on-your-side/"
+  - business
+permalink: /time-is-not-on-your-side/
 ---
 Back in December when I was on a "writer's retreat" on the coast of Texas, My partner Nan and I wanted to focus on getting more done while having a life.  I've automated some more business and added a virtual assistant to make calls for me.  I've turned off my ringer on my mobile phone.  I'm filtering my email and just focusing on learning, brainstorming and creating.
 

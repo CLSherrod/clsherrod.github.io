@@ -2,7 +2,7 @@
 title: Money & Prosperity
 date: 2006-02-09
 last_modified_at: 2024-03-11
-categories: Essays
+categories: Business & Entrepreneurship
 tags: prosperity
 published: true
 status: publish
@@ -11,7 +11,7 @@ published: true
 comments: true
 ---
 Money is not designed to be spent or saved. It is not designed to be hoarded or ignored. It is not designed to be worshipped or coveted. It is designed to be worked to make more money. It is designed to be used and given away to help improve and enrich your life and others.
-<!--more-->
+
 Prosperity is a mindset. It is how and what you think about money that will determine how much money you make and how and if it will work for you and others.
 
 Your prosperity begins with your personal definition of what prosperity means to you.

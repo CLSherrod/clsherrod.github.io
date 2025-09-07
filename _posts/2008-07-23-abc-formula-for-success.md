@@ -3,10 +3,10 @@ title: ABC Formula for Success
 date: 2008-07-23
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/abc-formula-for-success/"
+  - business
+permalink: /abc-formula-for-success/
 ---
 There is no ABC formula for success that everybody can get to work.  Doesn't exist.  If it did then there would only be on success book.  Nobody else would have written a success book if the only one worked for everyone.
 

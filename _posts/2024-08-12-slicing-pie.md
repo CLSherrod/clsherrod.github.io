@@ -1,15 +1,16 @@
 ---
-title: "Mastering Startup Equity - A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships"
+title: Mastering Startup Equity - A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships
 date: 2024-08-12
 categories:
-- Reviews
+  - Business & Entrepreneurship
 tags:
-- entrepreneurship
-- partnerships
-permalink: "/slicing-pie/"
+  - entrepreneurship
+  - partnerships
+  - book-review
+permalink: /slicing-pie/
 toc: true
 published: true
-excerpt: "The Slicing Pie Handbook offers a refreshingly fair and practical approach to equity splits, making it an indispensable guide for anyone involved in the startup world."
+excerpt: The Slicing Pie Handbook offers a refreshingly fair and practical approach to equity splits, making it an indispensable guide for anyone involved in the startup world.
 ---
 ## An Absolute Gem for Entrepreneurs
 

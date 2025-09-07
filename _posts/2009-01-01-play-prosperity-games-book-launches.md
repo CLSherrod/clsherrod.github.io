@@ -4,7 +4,7 @@ date: 2009-01-01
 categories:
 - News
 tags:
-- books
+- book-review
 permalink: "/play-prosperity-games-book-launches/"
 published: true
 excerpt: My book came out today.

@@ -2,9 +2,9 @@
 title: Above All Is Love
 date: 2007-10-05
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- self-love
+  - self-love
 permalink: /above-all-love/
 excerpt: Do your business in the name of love.
 published: true

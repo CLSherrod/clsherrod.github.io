@@ -1,11 +1,11 @@
 ---
 title: What separates winners from losers?
-description: "What separates winners from losers?"
-preview: "What separates winners from losers?"
+description: What separates winners from losers?
+preview: What separates winners from losers?
 date: 2007-03-01
 last_modified_at: 2024-03-11
 toc: false
-categories: Essays
+categories: Success & Prosperity
 tags: entrepreneurship
 permalink: /what-separates-winners-from-losers/
 published: true

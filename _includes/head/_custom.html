@@ -1,4 +1,4 @@
-<!-- start custom head snippets -->
+<!-- start combined head snippets -->
 
 <!-- Google Fonts -->
 <link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic" rel="stylesheet" type="text/css">
@@ -20,21 +20,58 @@
   gtag('config', 'G-JZPN0Q5H4L');
 </script>
 
+<!-- SEO: Dynamic Title + Description + Canonical -->
+{%- assign page_title = page.seo_title | default: page.title -%}
+<title>{{ page_title }} — {{ site.title }}</title>
+<meta name="description" content="{{ page.excerpt | strip_html | truncate: 160 | default: site.description }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
 <!-- SEO: Open Graph -->
 <meta property="og:type" content="website">
-<meta property="og:title" content="{{ page.og_title | default: page.title | xml_escape }}">
+<meta property="og:title" content="{{ page.og_title | default: page_title | xml_escape }}">
 <meta property="og:description" content="{{ page.og_description | default: site.description | xml_escape }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:image" content="{{ page.og_image | default: site.og_image | absolute_url }}">
 
 <!-- SEO: Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ page.og_title | default: page.title | xml_escape }}">
+<meta name="twitter:title" content="{{ page.og_title | default: page_title | xml_escape }}">
 <meta name="twitter:description" content="{{ page.og_description | default: site.description | xml_escape }}">
 <meta name="twitter:image" content="{{ page.og_image | default: site.og_image | absolute_url }}">
 <meta name="twitter:creator" content="@chrisherrod">
 
-<!-- Jekyll SEO tag -->
+<!-- Jekyll SEO tag fallback -->
 {% seo %}
 
-<!-- end custom head snippets -->
+<!-- JSON-LD: Article Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  },
+  "headline": "{{ page_title | strip_newlines | escape }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author.name | default: site.title | escape }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.title | escape }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ site.logo | default: '/assets/logo.png' }}"
+    }
+  },
+  "image": "{{ page.image | default: site.social_image | prepend: site.url }}",
+  "articleSection": "{{ page.categories | join: ', ' }}",
+  "keywords": "{{ page.tags | join: ', ' }}",
+  "description": "{{ page.excerpt | strip_html | strip_newlines | escape | truncate: 200 }}"
+}
+</script>
+
+<!-- end combined head snippets -->

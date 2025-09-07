@@ -3,10 +3,10 @@ title: How to Us Parkinson's Law to Your Advantage
 date: 2008-06-04
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/how-to-us-parkinsons-law-to-your-advantage/"
+  - business
+permalink: /how-to-us-parkinsons-law-to-your-advantage/
 ---
 Ever heard of Parkinson's Law?  The simple statement that work expands to fill the time available for its completion.  Joel has an excellent article about Parkinson's Law and some tips on how to use it to your advantage.
 

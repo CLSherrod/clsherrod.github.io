@@ -4,10 +4,10 @@ date: 2008-01-29
 published: true
 comments: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- idea-generation
-permalink: "/hot-tub-ideas/"
+  - idea-generation
+permalink: /hot-tub-ideas/
 excerpt: Soaking in a hot tub generates ideas.
 ---
 I'm know for being Mr. Jacuzzi.  I can sit and enjoy a good jacuzzi for hours.  I'm the first one to notify management when at a resort if the jacuzzi isn't working or too cold.  The condo we are renting right now has excellent management and the jacuzzi is very good.

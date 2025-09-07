@@ -1,14 +1,14 @@
 ---
-title: "Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose"
-description: "Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose"
-preview: "Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose"
+title: Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose
+description: Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose
+preview: Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose
 date: 2025-06-01
 categories:
-- Essays
+  - Lifestyle & Travel
 tags:
-- tribute
+  - tribute
 toc: true
-permalink: "/montgomery/"
+permalink: /montgomery/
 teaser: /assets/images/articles/montgomery.webp
 header:
   image: /assets/images/articles/montgomery.webp
@@ -18,7 +18,7 @@ published: true
 
 Dr. Baxter D. Montgomery passed away suddenly last week, and I’ve been sitting with the shock, the sadness, and the deep gratitude I feel for having known him—if only from the other side of a screen.
 
-Years ago, I had the privilege of building [Dr. Montgomery’s website](https://montgomeryheart.com). He came to me with a dilemma that most wouldn’t even recognize as one: he was a top-tier heart surgeon, but he wanted to publicly champion a plant-based approach to healing. Would that confuse people? Would it undermine his credibility?
+Years ago, I had the privilege of building his website and consulting packages. He came to me with a dilemma that most wouldn’t even recognize as one: he was a top-tier heart surgeon, but he wanted to publicly champion a plant-based approach to healing. Would that confuse people? Would it undermine his credibility?
 
 But Dr. Montgomery wasn’t interested in staying quiet about what he knew to be true. He had seen firsthand that the vast majority of his patients were suffering from diet-related heart disease. And he wasn’t content with simply treating symptoms—he wanted to get to the root of the problem.
 
@@ -43,5 +43,7 @@ His death is a massive loss to the many communities he touched, but his work con
 ## Thank You, Dr. Montgomery
 
 Thank you for trusting me to help shape your digital presence. Thank you for showing me—and so many others—that healing is possible when we face the truth with courage. You didn’t just change lives. You changed the direction of lives. Including mine.
+
+Read his book [The Food Prescription for Better Health: A Cardiologists Proven Method to Reverse Heart Disease, Diabetes, Obesity, and Other Chronic Illnesses Naturally!: Montgomery MD, Baxter D.: 9780983128717: Amazon.com: Books](https://amzn.to/4gmoHT5) to understand his philosophy to health. It's excellent.
 
 Rest well, Dr. Montgomery. You were the heart in heart medicine.

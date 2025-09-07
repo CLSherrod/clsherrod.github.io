@@ -3,10 +3,10 @@ title: Why I's Important To Know Who You're Sharing Your Goals
 date: 2008-04-04 03:00:27
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/why-its-important-to-know-who-youre-sharing-your-goals-with/"
+  - business
+permalink: /why-its-important-to-know-who-youre-sharing-your-goals-with/
 ---
 I've had mastermind members (and I was surprised by this) tell me that being successful and not working all the time is bulls**t.  That is my goal and I do pretty good at it.  I'm off for a home exchange for a week and I'm writing this days before so I can enjoy the beach home in Virginia.  
 

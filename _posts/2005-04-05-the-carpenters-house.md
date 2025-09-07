@@ -1,9 +1,11 @@
 ---
-title: "The Carpenter’s House Fable"
+title: The Carpenter’s House Fable
 date: 2005-04-05
 last_modified_at: 2024-03-12
-categories: Essays
-tags: entrepreneurship
+categories: Business & Entrepreneurship
+tags:
+  - entrepreneurship
+  - book-review
 permalink: /carpenters-house-fable/
 published: true
 comments: true

@@ -5,7 +5,7 @@ last_modified_at: 2024-03-08
 categories: Essays
 tags:
 - entrepreneurship
-- books
+- book-review
 permalink: /book-advice/
 published: true
 comments: true

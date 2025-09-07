@@ -3,10 +3,10 @@ title: Perfection vs. Efficiency
 date: 2008-05-05
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- implementing
-permalink: "/perfection-vs-efficiency/"
+  - implementing
+permalink: /perfection-vs-efficiency/
 excerpt: Excellence comes from balancing efficiency with perfection.
 ---
 > If you achieve perfection without any control of the expense, you will end up with waste. This takes you out of the green excellence zone. If you only focus on keeping your costs down without any focus on perfection, you will produce shoddy work.

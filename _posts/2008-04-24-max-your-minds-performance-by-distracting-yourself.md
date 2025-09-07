@@ -3,11 +3,11 @@ title: Max Your Minds Performance by Distracting Yourself
 date: 2008-04-24
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
+  - business
 meta:
-permalink: "/max-your-minds-performance-by-distracting-yourself/"
+permalink: /max-your-minds-performance-by-distracting-yourself/
 ---
 Cool mind hacks for maximum performance.
 

@@ -4,10 +4,10 @@ description: "Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneuria
 date: 2025-03-24
 preview: "Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success"
 tags:
-- success
+  - success
 categories:
-- Essays
-permalink: "/finding-balance/"
+  - Business & Entrepreneurship
+permalink: /finding-balance/
 published: true
 excerpt: Extreme mindsets don't lead to lasting success.
 ---

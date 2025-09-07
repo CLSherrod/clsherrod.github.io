@@ -3,10 +3,10 @@ title: Silent Joy - Poem
 date: 2024-06-10
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- slow lifestyle
-- lyric poem
+  - fulfilling-lifestyle
+  - lyric-poem
 teaser: /assets/images/poems/silent-joy.webp
 header:
   image: /assets/images/poems/silent-joy.webp

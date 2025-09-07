@@ -4,11 +4,11 @@ date: 2007-04-02
 published: true
 comments: true
 categories:
-- Reviews
+  - Learning & Growth
 tags:
-- peace
-- movie
-permalink: "/peaceful-warrior/"
+  - peace
+  - movie-review
+permalink: /peaceful-warrior/
 excerpt: My review of a Peaceful Warrior movie
 ---
 I had a wonderful weekend.

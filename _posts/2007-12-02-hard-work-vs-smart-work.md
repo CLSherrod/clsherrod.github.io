@@ -4,9 +4,9 @@ date: 2007-12-02
 published: true
 comments: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- productivity
+  - productivity
 permalink: /hard-work-vs-smart-work/
 excerpt: What's better hard work or smart work.
 ---

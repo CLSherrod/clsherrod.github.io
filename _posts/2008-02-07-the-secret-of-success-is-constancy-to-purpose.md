@@ -3,10 +3,10 @@ title: The secret of success is constancy to purpose
 date: 2008-02-07
 published: true
 categories:
-- Essays
-tags: 
-- success
-permalink: "/the-secret-of-success-is-constancy-to-purpose/"
+  - Success & Prosperity
+tags:
+  - success
+permalink: /the-secret-of-success-is-constancy-to-purpose/
 ---
 Benjamin Disraeli wrote "The secret of success is constancy to purpose."
 

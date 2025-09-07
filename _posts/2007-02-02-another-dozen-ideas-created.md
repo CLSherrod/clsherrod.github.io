@@ -2,7 +2,7 @@
 title: "Play Prosperity Games: A Resounding Success and the Birth of Creative Ideas"
 date: 2007-02-02
 last_modified_at: 2023-11-03
-categories: Essays
+categories: Success & Prosperity
 tags: idea-generation
 permalink: /play-prosperity-games-party/
 published: true

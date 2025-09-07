@@ -2,13 +2,13 @@
 title: The Art of Money Getting or Golden Rules for Making Money Review
 date: 2006-09-19
 categories:
-- Reviews
+  - Success & Prosperity
 tags:
-- entrepreneurship
-- books
+  - entrepreneurship
+  - book-review
 published: true
 comments: true
-permalink: "/the-art-of-money-getting-or-golden-rules-for-making-money/"
+permalink: /the-art-of-money-getting-or-golden-rules-for-making-money/
 ---
 [The Art of Money Getting or Golden Rules for Making Money](https://amzn.to/3VUgjjK)
 

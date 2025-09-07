@@ -3,10 +3,10 @@ title: Yellow tape your office
 date: 2008-07-22
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/yellow-tape-your-office/"
+  - business
+permalink: /yellow-tape-your-office/
 ---
 I've gone thru simplifying my life.  I've turned off my mobile phone ringer, muted my computer, put Skype and GTalk on do not disturb a vast majority of the day, filtered my email (newsletter get archived and labeled 'Read' for later), unsubscribed from some newsletters that I just don't have time to read ever and I've gotten more done.
 

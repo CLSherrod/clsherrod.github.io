@@ -1,12 +1,14 @@
 ---
 title: Why Successful People Don’t Waste Time Arguing
-description: "Why Successful People Don’t Waste Time Arguing"
+description: Why Successful People Don’t Waste Time Arguing
 date: 2025-07-22
 toc: true
-preview: "Why Successful People Don’t Waste Time Arguing"
-tags: [success]
-categories: [Essays]
-permalink: "/arguing/"
+preview: Why Successful People Don’t Waste Time Arguing
+tags:
+  - success
+categories:
+  - Success & Prosperity
+permalink: /arguing/
 published: true
 ---
 # Why Successful People Don’t Waste Time Arguing

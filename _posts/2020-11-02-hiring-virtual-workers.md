@@ -5,7 +5,7 @@ last_modified_at: 2023-10-03
 categories: News
 tags: 
 - business-management
-- books
+- book-review
 permalink: /hiring-virtual-workers/
 comments: true
 excerpt: My new book Hiring Virtual Workers For Small Business is published

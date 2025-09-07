@@ -3,10 +3,10 @@ title: "To Be: The Only Answer - Poem"
 date: 2024-05-20
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- self-worth
-- lyric poem
+  - self-worth
+  - lyric-poem
 teaser: /assets/images/poems/to-be.webp
 header:
   image: /assets/images/poems/to-be.webp

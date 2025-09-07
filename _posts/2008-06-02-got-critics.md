@@ -3,10 +3,10 @@ title: Got Critics?
 date: 2008-06-02
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/got-critics/"
+  - business
+permalink: /got-critics/
 ---
 If you don’t have critics, then you aren’t trying hard enough. You might think I’m kidding, but I’m not. If you're not pushing the envelope, not sharing enough of yourself, and not putting yourself out there, you're not truly striving.
 

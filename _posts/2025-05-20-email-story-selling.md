@@ -1,11 +1,14 @@
 ---
-title: "The Anti-Guru’s Guide to Email That Actually Sells"
+title: The Anti-Guru’s Guide to Email That Actually Sells
 description: "A Rebellious Revelation in 125 Pages: The Anti-Guru’s Guide to Email That Actually Sells"
 date: 2025-05-30
 preview: "A Rebellious Revelation in 125 Pages: The Anti-Guru’s Guide to Email That Actually Sells"
-tags: [marketing]
-categories: [Reviews]
-permalink: "/email-storyselling/"
+tags:
+  - marketing
+  - book-review
+categories:
+  - Business & Entrepreneurship
+permalink: /email-storyselling/
 published: true
 ---
 Let me be clear: I don’t typically enjoy most email marketing books. Too long, too bloated, too obsessed with “delivering value” while delivering very little profit. But every so often, something scrappy and disruptive finds its way onto my digital desk—and Email Storyselling Playbook hit me like a lightning bolt in a sea of drizzle.

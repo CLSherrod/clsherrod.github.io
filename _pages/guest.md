@@ -58,12 +58,11 @@ I love discussing…
 - Checklist: [Reducing EMF Exposure](https://christophersherrod.com/unplug/#checklist)  
 - Course: [Less-EMF in the Modern World](https://christophersherrod.com/unplug/#course)
 
-## 🌐 Social & Website
+## 🌐 Websites
 
 - Website: [ChristopherSherrod.com](https://ChristopherSherrod.com)  
 - Art: [Chr1stopher.com](https://Chr1stopher.com)  
-- Email List: [Subscribe here](https://ChristopherSherrod.com/#newsletter)  
-- BlueSky: [@chr1stopher.bsky.social](https://bsky.app/profile/chr1stopher.bsky.social)
+- Email List: [Subscribe here](https://ChristopherSherrod.com/#newsletter)
 
 ## 🛠️ Tech Setup
 

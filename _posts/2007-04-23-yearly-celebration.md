@@ -3,10 +3,10 @@ title: Yearly Celebration
 date: 2007-04-23
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- celebration
-permalink: "/yearly-celebration/"
+  - celebration
+permalink: /yearly-celebration/
 excerpt: I had one of two birthday parties last night.
 ---
 I had one of two birthday parties last night.

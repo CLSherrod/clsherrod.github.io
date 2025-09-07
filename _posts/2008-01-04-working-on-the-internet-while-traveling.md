@@ -3,10 +3,10 @@ title: Working on the Internet while traveling
 date: 2008-01-04 12:33:32.000000000 -06:00
 published: true
 categories:
-- Essays
+  - Lifestyle & Travel
 tags:
-- travel
-permalink: "/working-on-the-internet-while-traveling/"
+  - travel
+permalink: /working-on-the-internet-while-traveling/
 ---
 I'm traveling and we just moved into another condo for a month.  At first the Internet looked fine then I started to have some issues.
 

@@ -1,11 +1,12 @@
 ---
-title: "Holistic Healing for Depression - A Review of Reboot Your Bliss - Your Guide to Mental Wellness"
+title: Holistic Healing for Depression - A Review of Reboot Your Bliss - Your Guide to Mental Wellness
 date: 2024-04-22
 categories:
-- Reviews
+  - Learning & Growth
 tags:
-- depression
-permalink: "/reboot-your-bliss/"
+  - depression
+  - book-review
+permalink: /reboot-your-bliss/
 published: true
 ---
 ## Discover Hope and Healing: A Holistic Approach to Overcoming Depression

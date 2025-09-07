@@ -3,9 +3,9 @@ title: Abundance Marketing
 date: 2007-12-03
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
+  - marketing
 permalink: /abundance-marketing/
 excerpt: Optimistic marketing viewpoint
 ---

@@ -2,11 +2,11 @@
 title: How To Be Rich Review
 date: 2000-01-15
 categories:
-- Reviews
+  - Business & Entrepreneurship
 tags:
-- books
-- prosperity
-permalink: "/how-to-be-rich/"
+  - prosperity
+  - book-review
+permalink: /how-to-be-rich/
 published: true
 comments: true
 excerpt: This is a must book for your success library.

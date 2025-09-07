@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- books
+- book-review
 - prosperity
 permalink: "/play-prosperity-games-is-on-kindle/"
 ---

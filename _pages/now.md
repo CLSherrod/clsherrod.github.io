@@ -12,7 +12,7 @@ header:
 # SEO overrides
 og_image: /assets/images/now-header.webp
 ---
-Updated on Sunday August 17th, 2025.
+Updated on Sunday September 7th, 2025.
 
 ## Currently Doing
 - I’m currently writing a book about my [electromagnetic hypersensitivity](/unplug/).
@@ -33,6 +33,7 @@ See [Projects](/projects) for a list of projects.
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published
+- Created new blog categories to help you find the right essay I've written
 - Wrote [Why Successful People Don’t Waste Time Arguing](https://christophersherrod.com/arguing/)
 - Review of an old client's book [Corp-bonics](/corp-bonics/)
 - Wrote my [Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose](/montgomery/)

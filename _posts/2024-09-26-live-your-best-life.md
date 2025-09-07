@@ -2,9 +2,9 @@
 title: Live Your Best Life - Poem
 date: 2024-09-26
 categories:
-- Poems
+  - Poems
 tags:
-- lyric poem
+  - lyric-poem
 permalink: /live-your-best-life/
 published: true
 ---

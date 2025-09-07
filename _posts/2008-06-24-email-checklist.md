@@ -3,10 +3,10 @@ title: Email checklist
 date: 2008-06-24
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/email-checklist/"
+  - business
+permalink: /email-checklist/
 ---
 Here is a great checklist before you send out that email.  Here is just a few.  Click the link at the bottom for the full articles.
 

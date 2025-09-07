@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- book
+- book-review
 permalink: "/create-ideas-bestseller/"
 ---
 Yesterday was a great day.

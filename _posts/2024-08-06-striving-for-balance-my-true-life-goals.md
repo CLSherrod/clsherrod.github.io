@@ -2,9 +2,9 @@
 title: Striving for Balance - My True Life Goals
 date: 2024-08-06
 categories:
-- Essays
+  - Lifestyle & Travel
 tags:
-- slow lifestyle
+  - fulfilling-lifestyle
 permalink: /striving-for-balance/
 toc: true
 published: true

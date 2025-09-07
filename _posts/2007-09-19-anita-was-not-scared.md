@@ -3,10 +3,10 @@ title: Anita was not scared
 date: 2007-09-19
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- tribute
-permalink: "/anita-was-not-scared/"
+  - tribute
+permalink: /anita-was-not-scared/
 excerpt: Anita Roddick, founder of The Body Shop, spoke up for what she believed in
 ---
 Many successful people get scared.

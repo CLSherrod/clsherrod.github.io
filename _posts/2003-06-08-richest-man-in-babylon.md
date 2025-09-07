@@ -2,11 +2,11 @@
 title: Richest Man In Babylon Review
 date: 2003-06-08
 categories:
-- Reviews
+  - Business & Entrepreneurship
 tags:
-- books
-- prosperity
-permalink: "/richest-man-in-babylon/"
+  - prosperity
+  - book-review
+permalink: /richest-man-in-babylon/
 published: true
 comments: true
 excerpt: Book that teaches to have a plan and work the plan.

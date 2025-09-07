@@ -4,10 +4,10 @@ date: 2007-08-15
 published: true
 comments: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- entrepreneurship
-permalink: "/how-to-identify-an-opportunity/"
+  - entrepreneurship
+permalink: /how-to-identify-an-opportunity/
 excerpt: What to consider when looking for opportunities.
 ---
 Richard Branson is what I consider the best entrepreneur.  Here is what he considers for looking for an opportunity.

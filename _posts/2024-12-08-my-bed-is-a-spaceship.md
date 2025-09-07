@@ -1,13 +1,13 @@
 ---
-title: "My Bed is a Spaceship - Poem"
+title: My Bed is a Spaceship - Poem
 date: 2024-12-08
 categories:
-- Poems
+  - Poems
 tags:
-- lyric poem 
+  - lyric-poem
 permalink: /my-bed-is-a-spaceship/
 published: true
-excerpt: "Remembering when I was confined to bed."
+excerpt: Remembering when I was confined to bed.
 teaser: /assets/images/poems/my-bed-is-a-spaceship.webp
 header:
   image: /assets/images/poems/my-bed-is-a-spaceship.webp

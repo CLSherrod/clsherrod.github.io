@@ -1,15 +1,15 @@
 ---
 title: Why Corp-bonics Is the Funniest—and Truest—Book About Corporate Life You'll Ever Read
-description: "Why Corp-bonics Is the Funniest—and Truest—Book About Corporate Life You'll Ever Read"
-preview: "Why Corp-bonics Is the Funniest—and Truest—Book About Corporate Life You'll Ever Read"
+description: Why Corp-bonics Is the Funniest—and Truest—Book About Corporate Life You'll Ever Read
+preview: Why Corp-bonics Is the Funniest—and Truest—Book About Corporate Life You'll Ever Read
 date: 2025-06-26
 toc: true
 categories:
-- Reviews
+  - Business & Entrepreneurship
 tags:
-- corporations
-- books
-permalink: "/corp-bonics/"
+  - corporations
+  - book-review
+permalink: /corp-bonics/
 published: true
 ---
 **If you’ve ever rolled your eyes at “let’s circle back” or groaned through a Zoom filled with buzzwords, *Corp-bonics* belongs on your desk.**

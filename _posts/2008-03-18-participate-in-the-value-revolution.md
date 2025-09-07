@@ -3,10 +3,10 @@ title: Participate in the Value Revolution
 date: 2008-03-18
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/participate-in-the-value-revolution/"
+  - business
+permalink: /participate-in-the-value-revolution/
 ---
 Back in the heyday of car manufacturers there were literally thousands of car manufacturers throughout the USA. Every town practically had someone making cars. Then Ford started producing cars cheaper and with great quality. The small time manufacturers went out of business very quickly. Now there is very few car manufacturers and some of them are on the verge of going out of business.
 

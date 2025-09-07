@@ -3,10 +3,10 @@ title: Abundance vs. Scarcity Mindset
 date: 2008-04-07
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/abundance-vs-scarcity-mindset/"
+  - business
+permalink: /abundance-vs-scarcity-mindset/
 ---
 Great article about the differences thinking about abundance vs. scarcity.
 

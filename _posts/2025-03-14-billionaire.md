@@ -1,14 +1,14 @@
 ---
-title: "Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You"
-description: "Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You"
+title: Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You
+description: Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You
 date: 2025-03-17
-preview: "Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You"
+preview: Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-- self-worth
+  - business
+  - self-worth
 permalink: /billionaires/
 excerpt: Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You
 toc: true

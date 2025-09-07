@@ -3,10 +3,10 @@ title: Wholefoods Prosperity Campaign
 date: 2008-03-12
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/wholefoods-prosperity-campaign/"
+  - business
+permalink: /wholefoods-prosperity-campaign/
 ---
 Wholefood the grocery store is running a prosperity campaign.  It's good to see a grocery store helping to increase prosperity instead of the usual giving away food.  Giving away food is a short-term fix.  Prosperity is long-term.
 

@@ -4,10 +4,10 @@ date: 2007-09-24
 published: true
 comments: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- love
-permalink: "/truth-beauty-freedom-love/"
+  - love
+permalink: /truth-beauty-freedom-love/
 excerpt: I live by these ideals.  Truth, Beauty, Freedom and above all Love.
 ---
 I live by these ideals.  Truth, Beauty, Freedom and above all Love.

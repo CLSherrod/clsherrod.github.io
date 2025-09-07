@@ -2,9 +2,9 @@
 title: When Is It Time To Leave?
 date: 2007-11-26
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- management
+  - management
 permalink: /when-is-it-time-to-leave/
 published: true
 excerpt: How do you know when it's time to leave what you are doing and move on?

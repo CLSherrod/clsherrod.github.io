@@ -3,9 +3,9 @@ title: The Secret to Earning Money
 date: 2008-01-03
 published: true
 categories:
-- Essays
-tags: 
-- prosperity
+  - Success & Prosperity
+tags:
+  - abundance
 permalink: /the-secret-to-earning-money/
 ---
 When I first learned of Prosperity Consciousness it snapped for me right away. I love it. Just learning the concept changed me.

@@ -3,10 +3,10 @@ title: Don't Check Your Valuables
 date: 2008-05-18
 published: true
 categories:
-- Essays
+  - Lifestyle & Travel
 tags:
-- business
-permalink: "/dont-check-your-valuables/"
+  - travel
+permalink: /dont-check-your-valuables/
 ---
 Here is a story about a very frequent traveler losing thousands of dollars of electronics out of his luggage.
 

@@ -1,10 +1,10 @@
 ---
 title: "Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers"
 date: 2024-06-03
-categories: Essays
+categories: Lifestyle & Travel
 tags:
-- entrepreneurship
-- tribute
+  - entrepreneurship
+  - tribute
 permalink: /fred-rogers/
 published: true
 comments: true

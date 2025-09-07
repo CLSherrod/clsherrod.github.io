@@ -4,7 +4,7 @@ date: 2010-07-28
 categories:
 - News
 tags:
-- books
+- book-review
 - games
 permalink: /play-prosperity-games-workshop/
 published: true

@@ -5,7 +5,7 @@ published: true
 categories:
 - News
 tags:
-- books
+- book-review
 permalink: "/expect-miracles/"
 ---
 I'm in a new book again.  Joe Vitale came out with a new book called [Expect Miracles](https://amzn.to/4dtThZE). I have a story inside the book.

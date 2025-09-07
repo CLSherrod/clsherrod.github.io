@@ -4,12 +4,12 @@ date: 2000-01-15
 published: true
 comments: true
 categories:
-- Reviews
+  - Business & Entrepreneurship
 tags:
-- books
-- entrepreneurship
-permalink: "/think-like-a-tycoon/"
-excerpt: His story of his success is inspiring. 
+  - entrepreneurship
+  - book-review
+permalink: /think-like-a-tycoon/
+excerpt: His story of his success is inspiring.
 ---
 From [Think Like A Tycoon](https://amzn.to/3LokrDY).
 

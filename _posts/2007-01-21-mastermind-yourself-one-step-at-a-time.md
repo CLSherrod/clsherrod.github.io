@@ -4,11 +4,11 @@ date: 2007-01-21
 published: true
 comments: true
 categories:
-- Reviews
+  - Learning & Growth
 tags:
-- mastermind
-- books
-permalink: "/mastermind-yourself-one-step-at-a-time/"
+  - mastermind
+  - book-review
+permalink: /mastermind-yourself-one-step-at-a-time/
 excerpt: My review of Meet and Grow Rich
 ---
 I met Bill Hibbler last night who along with Joe Vitale wrote  [Meet and Grow Rich](http://www.meetandgrowrich.com) a book about the inner workings of mastermind groups.  I discussed with him my experiences with mastermind group.  I had just finished reading his book the night before so it was fresh on my mind.

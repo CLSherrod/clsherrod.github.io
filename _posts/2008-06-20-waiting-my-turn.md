@@ -3,10 +3,10 @@ title: Waiting My Turn
 date: 2008-06-20
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/waiting-my-turn/"
+  - business
+permalink: /waiting-my-turn/
 ---
 Listen.  Listening is important.  There isn't enough of it going around in the world I believe.  I learn the most when I listen to my friends and clients.  Clients will tell you everything they want just by listening to them.
 

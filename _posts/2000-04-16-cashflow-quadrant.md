@@ -2,10 +2,11 @@
 title: Cashflow Quadrant Review
 date: 2000-04-16
 categories:
-- Essays
-tags: 
-- prosperity
-permalink: "/cashflow-quadrant/"
+  - Business & Entrepreneurship
+tags:
+  - prosperity
+  - book-review
+permalink: /cashflow-quadrant/
 excerpt: My review of Cashflow Quadrant
 ---
 From [Cashflow Quadrant](https://amzn.to/4cCta1g)

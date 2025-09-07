@@ -2,11 +2,11 @@
 title: Atlas Shrugged Review
 date: 2000-01-07
 categories:
-- Reviews
+  - Business & Entrepreneurship
 tags:
-- books
-- self-worth
-permalink: "/atlas-shrugged/"
+  - self-worth
+  - book-review
+permalink: /atlas-shrugged/
 published: true
 comments: true
 excerpt: It is an incredible story that reflects todays society. Highly recommended to start with.

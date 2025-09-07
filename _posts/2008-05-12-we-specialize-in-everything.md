@@ -3,10 +3,10 @@ title: We specialize in everything
 date: 2008-05-12 22:29:51
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/we-specialize-in-everything/"
+  - business
+permalink: /we-specialize-in-everything/
 ---
 Seth asks a great question for your business.  What are you specializing in?  What are you really good at?  What is your passion?  Know that and you know your next step.  Also, Seth has an action figure out.  See picture.  Marketing is powerful.
 

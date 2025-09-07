@@ -1,10 +1,10 @@
 ---
-title: "Keep Moving Forward"
+title: Keep Moving Forward
 date: 2008-01-06
 last_modified_at: 2024-03-12
-categories: Essays
+categories: Learning & Growth
 tags: entrepreneurship
-permalink: "/keep-moving-forward/"
+permalink: /keep-moving-forward/
 published: true
 comments: true
 ---

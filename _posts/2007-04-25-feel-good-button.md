@@ -4,10 +4,10 @@ date: 2007-04-25
 published: true
 comments: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- celebration
-permalink: "/feel-good-button/"
+  - celebration
+permalink: /feel-good-button/
 excerpt: I got a button that simply says "Feel Good Button" on it for my birthday.
 ---
 I got a button that simply says "Feel Good Button" on it for my birthday.

@@ -2,13 +2,13 @@
 title: "The Power of Letting Go: Why Not Caring What Others Think is One of Life's Greatest Lessons"
 date: 2025-01-07
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- self-image
-permalink: "/power-of-letting-go/"
+  - self-image
+permalink: /power-of-letting-go/
 published: true
 toc: true
-excerpt: "Learning to not care about what others think has been one of the most liberating lessons of my life, allowing me to focus on my own happiness, growth, and the relationships that truly matter."
+excerpt: Learning to not care about what others think has been one of the most liberating lessons of my life, allowing me to focus on my own happiness, growth, and the relationships that truly matter.
 ---
 One of the most transformative lessons I've learned in life is this: don't care too much about what others think of you. This realization has freed me from unnecessary stress, allowing me to focus on what truly matters—my own growth, happiness, and the relationships that genuinely enrich my life. We all, at some point, get caught up in the opinions of others, and it's easy to fall into the trap of trying to please everyone. But the truth is, it's a losing game.
 

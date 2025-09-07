@@ -1,15 +1,15 @@
 ---
 title: The Tipping Point Review
 date: 2005-05-17
-categories: Reviews
+categories: Business & Entrepreneurship
 tags:
-- idea-generation
-- books
-permalink: "/the-tipping-point/"
+  - idea-generation
+  - book-review
+permalink: /the-tipping-point/
 published: true
 comments: true
 toc: true
-excerpt: "About how small ideas explode by word of mouth and how you can help in the process"
+excerpt: About how small ideas explode by word of mouth and how you can help in the process
 ---
 ---
 [The Tipping Point](https://amzn.to/3S83vWa) was recommended to me for two weeks by many different people. It is unusal to have a book recommended so many times by so many different people so I purchased it right away. I read it in two days and learned a great deal about how small ideas explode by word of mouth and how you can help in the process.

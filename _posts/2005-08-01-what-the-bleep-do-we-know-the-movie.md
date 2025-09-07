@@ -4,11 +4,11 @@ date: 2005-08-01
 published: true
 comments: true
 categories:
-- Reviews
+  - Learning & Growth
 tags:
-- prosperity
-- movie
-permalink: "/what-the-bleep-do-we-know-the-movie/"
+  - movie-review
+  - self-worth
+permalink: /what-the-bleep-do-we-know-the-movie/
 excerpt: My review of the movie What The Bleep Do We Know
 ---
 We create our own reality. Our mind thinks things that are real and imagined equally. They can't tell the difference. Very deep movie that shows how quantum physics and spirtuality are mixed.

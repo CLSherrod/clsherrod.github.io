@@ -4,11 +4,11 @@ date: 2007-01-02
 published: true
 comments: true
 categories:
-- Reviews
+  - Learning & Growth
 tags:
-- happiness
-- books
-permalink: "/happy-for-no-reason-7-steps-to-being-happy-from-the-inside-out/"
+  - happiness
+  - book-review
+permalink: /happy-for-no-reason-7-steps-to-being-happy-from-the-inside-out/
 ---
 Marci Shimoff from the movie "The Secret" just released a new book.
 

@@ -2,7 +2,7 @@
 title: It isn’t always about the money
 date: 2007-01-12
 last_modified_at: 2024-03-11
-categories: Essays
+categories: Success & Prosperity
 tags: prosperity
 permalink: /prosperity/
 published: true

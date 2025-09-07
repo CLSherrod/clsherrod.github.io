@@ -2,9 +2,9 @@
 title: The Power of Gratitude
 date: 2007-11-27
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- gratitude
+  - gratitude
 permalink: /the-power-of-gratitude/
 published: true
 excerpt: Being more grateful more often makes us happier and more optimistic.

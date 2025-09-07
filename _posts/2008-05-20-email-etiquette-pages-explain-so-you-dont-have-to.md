@@ -3,10 +3,10 @@ title: Email Etiquette Pages Explain So You Don't Have To
 date: 2008-05-20
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/email-etiquette-pages-explain-so-you-dont-have-to/"
+  - business
+permalink: /email-etiquette-pages-explain-so-you-dont-have-to/
 ---
 I use to send people a blog link of mine years ago to tell them about my dislike for forwarded emails. Now people are using whole websites. Cool.
 

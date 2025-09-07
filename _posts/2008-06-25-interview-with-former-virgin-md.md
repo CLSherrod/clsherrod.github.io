@@ -3,10 +3,10 @@ title: Interview with former Virgin MD
 date: 2008-06-25
 published: false
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- Virgin Group
-permalink: "/interview-with-former-virgin-md/"
+  - richard-branson
+permalink: /interview-with-former-virgin-md/
 ---
 Leon sent me this tip. Thank Leon. Leon blogs about the managing directors for Richard Branson's Virgin group. A great interview. Enjoy. Link at bottom.
 

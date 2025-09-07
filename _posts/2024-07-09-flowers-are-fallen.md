@@ -2,10 +2,10 @@
 title: Flowers Are Fallen - Poem
 date: 2024-07-09
 categories:
-- Poems
-tags: 
-- self-worth
-- lyric poem
+  - Poems
+tags:
+  - self-worth
+  - lyric-poem
 permalink: /flowers-are-fallen/
 published: true
 excerpt: Poem about flowers are flowers because they have fallen.

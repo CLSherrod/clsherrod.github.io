@@ -2,9 +2,9 @@
 title: Raining money chart
 date: 2007-11-20
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- prosperity
+  - prosperity
 permalink: /raining-money-chart/
 exerpt: Using a multiple streams of income chart.
 published: true

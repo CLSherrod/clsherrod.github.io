@@ -4,12 +4,12 @@ date: 2007-11-30
 published: true
 comments: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- prosperity
-- sex
-permalink: "/more-money-better-sex/"
-excerpt: "The richer you are the better sex you have."
+  - prosperity
+  - sex
+permalink: /more-money-better-sex/
+excerpt: The richer you are the better sex you have.
 ---
 This seems like a waste of money on a survey as for most people when you take away the stress of little or no money life gets better. Another good reason to be successful.
 

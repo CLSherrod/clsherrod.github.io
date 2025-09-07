@@ -2,9 +2,9 @@
 title: Is Taking Action Part of the Law of Attraction Formula?
 date: 2007-11-29
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- prosperity
+  - prosperity
 permalink: /is-taking-action-part-of-the-law-of-attraction-formula/
 published: true
 excerpt: Taking Action is part of the Law of Attraction Formula?

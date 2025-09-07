@@ -3,9 +3,9 @@ title: Wise money
 date: 2008-03-05
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- social responsibility
-permalink: "/wise-money/"
+  - wealth
+permalink: /wise-money/
 ---
 A Wise One Will Never Step Over Dollars to Pick Up Pennies.

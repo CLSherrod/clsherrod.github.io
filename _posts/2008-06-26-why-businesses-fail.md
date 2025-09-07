@@ -3,10 +3,10 @@ title: Why businesses fail
 date: 2008-06-26 00:17:55
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/why-businesses-fail/"
+  - business
+permalink: /why-businesses-fail/
 ---
 Government types say that businesses fail because they don't have enough money. I don't believe this at all. Businesses fail because business forget to sell. Professionals think they don't have to sell.
 

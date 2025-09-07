@@ -2,10 +2,10 @@
 title: Forests Are For Rest
 date: 2024-08-26
 categories:
-- Poems
+  - Poems
 tags:
-- enviromentalism
-- lyric poem
+  - enviromentalism
+  - lyric-poem
 permalink: /forests-are-for-rest/
 published: true
 excerpt: Poem about forests and rest

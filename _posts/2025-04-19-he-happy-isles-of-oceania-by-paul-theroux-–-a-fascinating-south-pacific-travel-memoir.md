@@ -1,12 +1,12 @@
 ---
-title: "The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific"
-description: "The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific"
+title: The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific
+description: The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific
 date: 2025-04-19
-preview: "The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific"
-categories: Reviews
+preview: The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific
+categories: Lifestyle & Travel
 tags: travel
-last_modified_at: null
-permalink: "/happy-isles-of-oceania/"
+last_modified_at:
+permalink: /happy-isles-of-oceania/
 published: true
 toc: false
 ---

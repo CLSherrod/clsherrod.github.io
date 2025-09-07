@@ -2,9 +2,9 @@
 title: Avoiding Negative talk
 date: 2007-11-29
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- self-love
+  - self-love
 permalink: /avoiding-negative-talk/
 published: true
 excerpt: Have you ever noticed that successful people are positive and unsuccessful people are negative.

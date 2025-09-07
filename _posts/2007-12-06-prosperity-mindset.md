@@ -3,9 +3,9 @@ title: Prosperity Mindset
 date: 2007-12-06
 published: true
 categories:
-- Essays
-tags: 
-- prosperity
+  - Success & Prosperity
+tags:
+  - prosperity
 permalink: /prosperity-mindset/
 excerpt: Only people with the right mindset will win.
 ---

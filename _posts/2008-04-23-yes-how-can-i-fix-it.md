@@ -3,10 +3,10 @@ title: Yes, how can I fix it?
 date: 2008-04-23
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/yes-how-can-i-fix-it/"
+  - business
+permalink: /yes-how-can-i-fix-it/
 ---
 I've blogged before how I find most businesses on the Internet have horrible customer service or none.  I had one person when I asked that I haven't gotten a response in two weeks via email and they have no published phone number when I met him he just said "I'm busy".  Have your heard of an assistant?  Do you think I'm going to buy anything you come out with again?  Or go to one of your seminars?  Are you kidding me?
 

@@ -3,10 +3,10 @@ title: Master of your own domain
 date: 2008-03-19
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/master-of-your-own-domain/"
+  - business
+permalink: /master-of-your-own-domain/
 ---
 A mastermind member sent this to me via email.
 

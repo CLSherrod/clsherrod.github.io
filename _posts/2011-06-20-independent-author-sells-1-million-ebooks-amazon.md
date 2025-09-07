@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- books
+- book-review
 permalink: "/independent-author-sells-1-million-ebooks-amazon/"
 ---
 Interesting how he uses a low price to gather fame and make some money.

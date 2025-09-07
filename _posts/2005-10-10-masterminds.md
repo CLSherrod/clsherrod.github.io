@@ -2,8 +2,10 @@
 title: "Unlocking Business Success: The Power of Mastermind Groups"
 date: 2005-10-10
 last_modified_at: 2024-03-11
-categories: Essays
-tags: entrepreneurship
+categories: Business & Entrepreneurship
+tags:
+  - entrepreneurship
+  - book-review
 permalink: /masterminds/
 published: true
 comments: true

@@ -2,10 +2,10 @@
 title: No Such Thing - Poem
 date: 2024-07-15
 categories:
-- Poems
+  - Poems
 tags:
-- self-worth
-- lyric poem
+  - self-worth
+  - lyric-poem
 permalink: /no-such-thing/
 published: true
 excerpt: Poem about that there is no such thing as a life better than yours

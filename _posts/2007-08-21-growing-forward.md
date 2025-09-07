@@ -3,10 +3,10 @@ title: Growing forward
 date: 2007-08-21
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- entrepreneurship
-permalink: "/growing-forward/"
+  - entrepreneurship
+permalink: /growing-forward/
 excerpt: How does a founder retire?
 ---
 When a company is known for it's founder it can be a problem.  When the person behind the company wants to retire what does the company do?  Virgin is having this discussion right now.

@@ -3,10 +3,10 @@ title: How to beat a speeding ticket
 date: 2008-05-13
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/how-to-beat-a-speeding-ticket/"
+  - business
+permalink: /how-to-beat-a-speeding-ticket/
 ---
 I've gotten three speeding tickets. Two I got of of and one I went to a class. I've found these tips to one that I also would recommend. This first I think should be don't drive over the speed limit though. :-)
 

@@ -2,10 +2,11 @@
 title: The Meaning Of Money Review
 date: 2004-11-04
 categories:
-- Reviews
+  - Business & Entrepreneurship
 tags:
-- prosperity
-permalink: "/the-meaning-of-money-zig-ziglar/"
+  - prosperity
+  - book-review
+permalink: /the-meaning-of-money-zig-ziglar/
 published: true
 comments: true
 excerpt: Does money really matter?

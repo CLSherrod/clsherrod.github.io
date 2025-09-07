@@ -3,11 +3,11 @@ title: Happiness
 date: 2007-09-23
 last_updated: 2024-07-30
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- happiness
+  - happiness
 permalink: /happiness/
-excerpt: "The moment you are asking am I happy, you're not."
+excerpt: The moment you are asking am I happy, you're not.
 published: true
 ---
 > "The moment you are asking am I happy, you're not." - Krishna Murti
