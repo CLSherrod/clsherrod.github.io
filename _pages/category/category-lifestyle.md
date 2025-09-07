@@ -1,7 +1,8 @@
 ---
 title: Lifestyle & Travel
-layout: default
+layout: single
 permalink: /category/lifestyle/
+published: false
 ---
 
 # Lifestyle & Travel

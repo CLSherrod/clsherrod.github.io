@@ -1,7 +1,8 @@
 ---
 title: Topics Hub
-layout: default
+layout: single
 permalink: /topics/
+published: false
 ---
 
 # Topics Hub

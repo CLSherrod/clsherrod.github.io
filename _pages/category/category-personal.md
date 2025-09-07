@@ -1,7 +1,8 @@
 ---
 title: Creative & Personal Essays
-layout: default
+layout: single
 permalink: /category/personal/
+published: false
 ---
 
 # Creative & Personal Essays

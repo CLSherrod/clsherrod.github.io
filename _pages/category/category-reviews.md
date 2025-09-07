@@ -1,7 +1,8 @@
 ---
 title: Book Reviews
-layout: default
+layout: single
 permalink: /category/reviews/
+published: false
 ---
 
 # Book Reviews

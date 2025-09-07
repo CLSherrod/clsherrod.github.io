@@ -1,7 +1,8 @@
 ---
 title: Learning & Growth
-layout: default
+layout: single
 permalink: /category/learning/
+published: false
 ---
 
 # Learning & Growth

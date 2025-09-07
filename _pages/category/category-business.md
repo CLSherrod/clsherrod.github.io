@@ -1,7 +1,8 @@
 ---
 title: Business & Entrepreneurship
-layout: default
+layout: single
 permalink: /category/business/
+published: false
 ---
 
 # Business & Entrepreneurship

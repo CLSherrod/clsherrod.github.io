@@ -1,7 +1,8 @@
 ---
 title: Success & Prosperity
-layout: default
+layout: single
 permalink: /category/success/
+published: true
 ---
 
 # Success & Prosperity
