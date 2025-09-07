@@ -4,11 +4,11 @@ date: 2015-10-24
 published: true
 comments: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- entrepreneurship
+  - entrepreneurship
 permalink: /business-sharks-vs-dolphins/
-excerpt: "Be a dolphin entrepreneur"
+excerpt: Be a dolphin entrepreneur
 ---
 In the last year I broke off associating with or doing business with sharks in business.
 

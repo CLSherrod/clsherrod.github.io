@@ -3,10 +3,10 @@ title: Never give up with RE/MAX co-founder
 date: 2013-06-22
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- entrepreneurship
-permalink: "/remax-cofounder/"
+  - entrepreneurship
+permalink: /remax-cofounder/
 ---
 I had the pleasure of seeing David Liniger co-founder of RE/MAX speak recently. That's me and him afterwards.
 

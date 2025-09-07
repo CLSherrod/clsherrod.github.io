@@ -3,10 +3,10 @@ title: "Alive in Gratitude: A Hymn to Life - Poem"
 date: 2024-02-10
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- slow lifestyle
-- lyric poem
+  - fulfilling-lifestyle
+  - lyric-poem
 permalink: /alive-in-gratitude/
 excerpt: Poem about being gratiful for life.
 ---

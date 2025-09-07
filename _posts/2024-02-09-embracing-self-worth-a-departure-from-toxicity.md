@@ -3,10 +3,10 @@ title: "Embracing Self-Worth: A Departure from Toxicity - Poem"
 date: 2024-02-09
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- self-worth
-- lyric poem
+  - self-worth
+  - lyric-poem
 permalink: /embracing-self-worth/
 excerpt: Poem about embracing your worth.
 ---

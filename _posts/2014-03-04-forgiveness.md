@@ -3,10 +3,10 @@ title: Forgiveness
 date: 2014-03-04
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- forgiveness
-permalink: "/forgiveness/"
+  - forgiveness
+permalink: /forgiveness/
 ---
 In business, heck in life, there are a lot of egos. My extended family think parts of the family are idiots and vice versa.
 

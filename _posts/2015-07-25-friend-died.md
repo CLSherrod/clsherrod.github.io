@@ -2,10 +2,10 @@
 title: My Friend Died And We Are Loved
 date: 2015-07-25
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- love
-- tribute
+  - love
+  - tribute
 published: true
 permalink: /friend-died/
 ---

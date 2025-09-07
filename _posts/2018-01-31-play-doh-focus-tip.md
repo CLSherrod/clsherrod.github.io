@@ -3,9 +3,9 @@ title: Play-Doh focus tip
 date: 2018-01-31
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- productivity
+  - productivity
 permalink: /play-doh-focus-tip/
 excerpt: I use Play-Doh to help me focus sometimes.
 ---

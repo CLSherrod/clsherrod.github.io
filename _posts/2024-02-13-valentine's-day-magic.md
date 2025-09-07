@@ -3,10 +3,10 @@ title: Valentine's Day Magic - Poem
 date: 2024-02-13
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- love
-- lyric poem
+  - love
+  - lyric-poem
 teaser: /assets/images/poems/valentines-day-magic.webp
 header:
   image: /assets/images/poems/valentines-day-magic.webp

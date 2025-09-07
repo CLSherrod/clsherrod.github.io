@@ -3,10 +3,10 @@ title: Real Artists Don't Starve
 date: 2018-05-06
 published: true
 categories:
-- Reviews
+  - Success & Prosperity
 tags:
-- book-review
-permalink: "/real-artists-dont-starve/"
+  - book-review
+permalink: /real-artists-dont-starve/
 ---
 A friend at a small dinner party recommended I read [Real Artists Don't Starve](https://amzn.to/2rqlJVp). Two days later I finished the book.
 

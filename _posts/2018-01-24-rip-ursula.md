@@ -3,9 +3,9 @@ title: Honoring Ursula K. Le Guin - A Sci-Fi Visionary Who Showed Us New Possibi
 date: 2018-01-24
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- tribute
+  - tribute
 permalink: /ursula-k-le-guin/
 ---
 One of my favorite SciFi writers died Monday. She wrote stories that showed us how different things could be for us. “Light Hand To Darkness” was a major influence for me and highly recommended.

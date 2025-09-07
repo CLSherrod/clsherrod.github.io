@@ -4,10 +4,10 @@ date: 2013-12-11
 published: true
 comments: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- tribute
-permalink: "/nelson-mandela-hero/"
+  - tribute
+permalink: /nelson-mandela-hero/
 excerpt: I learned from Nelson Mandala that it is best to not hate anyone, no matter what.
 ---
 I grew up reading about Nelson Mandela and rejoiced when he was finally released from prison like most of the rest of the planet. And I mourned his recent passing.

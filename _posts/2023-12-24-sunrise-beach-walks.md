@@ -3,10 +3,9 @@ title: Sunrise Beach Walks - Poem
 date: 2023-12-24
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- slow lifestyle
-- lyric poem
+  - lyric-poem
 permalink: /sunrise-beach-walks/
 excerpt: Poem about sunrise beach walks with my love
 ---

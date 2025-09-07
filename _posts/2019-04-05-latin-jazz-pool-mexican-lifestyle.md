@@ -3,10 +3,11 @@ title: Latin Jazz, pool, Mexican lifestyle
 date: 2019-04-05
 published: false
 categories:
-- News
+  - Lifestyle & Travel
 tags:
-- mexico
-- travel
+  - mexico
+  - travel
+  - news
 permalink: /latin-jazz-pool-mexican-lifestyle/
 excerpt: My last day in Playa del Carmen.
 ---

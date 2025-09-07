@@ -1,11 +1,11 @@
 ---
-title: 'Carrie Fisher: My First Feminist Role Model'
+title: "Carrie Fisher: My First Feminist Role Model"
 date: 2017-01-09
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- tribute
+  - tribute
 permalink: /carrie-fisher/
 excerpt: Carrie Fisher my first feminist role model.
 ---

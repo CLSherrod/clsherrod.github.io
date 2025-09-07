@@ -2,9 +2,10 @@
 title: I Was In Concert
 date: 2015-02-05
 categories:
-- News
+  - Lifestyle & Travel
 tags:
-- music
+  - music
+  - news
 permalink: /in-concert/
 published: true
 ---

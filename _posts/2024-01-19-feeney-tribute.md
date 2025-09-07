@@ -1,10 +1,10 @@
 ---
 title: "Honoring the Legacy of Charles F. Feeney: A Tribute to a Luminary Entrepreneur"
 date: 2024-01-19
-categories: Essays
+categories: Business & Entrepreneurship
 tags:
-- entrepreneurship
-- tribute
+  - entrepreneurship
+  - tribute
 permalink: /charles-feeney/
 published: true
 comments: true

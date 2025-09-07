@@ -3,11 +3,11 @@ title: Stepped Into Richard Branson
 date: 2017-05-31
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- Richard Branson
-- entrepreneurship
-permalink: "/stepped-into-richard-branson/"
+  - entrepreneurship
+  - richard-branson
+permalink: /stepped-into-richard-branson/
 ---
 Back in 2016 I took part in a Native American ceremony and had some major visions.  It was an interesting night.
 

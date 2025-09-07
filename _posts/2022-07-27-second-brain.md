@@ -2,13 +2,13 @@
 title: A Game-Changer for Organizing Your Life and Unlocking Creativity
 date: 2022-07-27
 categories:
-- Reviews
-tags: 
-- book-review
-permalink: "/second-brain"
+  - Success & Prosperity
+tags:
+  - book-review
+permalink: /second-brain
 published: true
 comments: true
-preview: "Building a Second Brain is a groundbreaking guide to managing the overwhelming flow of information in our digital age."
+preview: Building a Second Brain is a groundbreaking guide to managing the overwhelming flow of information in our digital age.
 ---
 *Building a Second Brain* is a groundbreaking guide to managing the overwhelming flow of information in our digital age. Tiago Forte offers a simple yet powerful system that enables you to organize your ideas, knowledge, and projects in a way that enhances creativity, productivity, and peace of mind.  
 

@@ -3,9 +3,10 @@ title: Minimalism is it the answer?
 date: 2017-04-13
 published: true
 categories:
-- Essays
-tags: []
-permalink: "/minimalism-is-it-the-answer/"
+  - Lifestyle & Travel
+tags:
+  - mindset
+permalink: /minimalism-is-it-the-answer/
 ---
 I watched the documentary [Minimalism on Netflix](https://www.netflix.com/title/80114460) and was struck that I essentially did that by going on around the world trip slowly that began in October 2016.
 

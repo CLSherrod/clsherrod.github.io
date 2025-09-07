@@ -4,7 +4,6 @@ date: 2024-07-09T16:22:02.149Z
 categories:
   - Poems
 tags:
-  - lyric poem
   - fulfilling-lifestyle
   - lyric-poem
 permalink: /insomniac-solitude/

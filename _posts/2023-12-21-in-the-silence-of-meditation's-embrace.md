@@ -3,10 +3,10 @@ title: In the Silence of Meditation's Embrace - Poem
 date: 2023-12-21
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- slow lifestyle
-- lyric poem
+  - fulfilling-lifestyle
+  - lyric-poem
 permalink: /silence-of-meditations-embrace/
 excerpt: A poem about meditating with the love of my life
 ---

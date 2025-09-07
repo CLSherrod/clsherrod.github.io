@@ -4,10 +4,10 @@ date: 2017-04-27
 published: true
 comments: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- security
-- vpn
+  - security
+  - vpn
 permalink: /your-own-vpn/
 excerpt: Own your own VPN for super privacy
 ---

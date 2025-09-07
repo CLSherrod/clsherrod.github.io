@@ -3,9 +3,9 @@ title: Marketing in Pokemon Go
 date: 2016-07-20 13:01:35.000000000 -05:00
 status: publish
 categories:
-- Essays
+  - Lifestyle & Travel
 tags:
-- marketing
+  - marketing
 permalink: /marketing-pokemon/
 excerpt: Taking advantage of Pokemon marketing.
 ---

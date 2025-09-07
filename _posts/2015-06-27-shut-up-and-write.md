@@ -3,10 +3,10 @@ title: Shut Up and Write - My Experience With Other Writers
 date: 2015-06-27
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- book-review
-permalink: "/shut-up-and-write/"
+  - book-review
+permalink: /shut-up-and-write/
 ---
 So while I'm in San Francisco for a month on business and my daughter moved here to go to college I decided to go to the [San Francisco chapter of Shut Up and Write](http://www.meetup.com/shutupandwriteSFO/). It's a bunch of writers (mostly fiction in this group) that get together at a local cafe and write. There were six other writers today.
 

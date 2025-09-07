@@ -2,9 +2,10 @@
 title: I Won A Publishing Award
 date: 2015-02-28
 categories:
-- News
+  - Business & Entrepreneurship
 tags:
-- award
+  - award
+  - news
 permalink: /publishing-award/
 published: true
 excerpt: I won a publishing award

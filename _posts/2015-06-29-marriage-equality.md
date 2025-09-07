@@ -3,10 +3,10 @@ title: Marriage Equality For My Kids
 date: 2015-06-29
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- equality
-permalink: "/marriage-equality/"
+  - equality
+permalink: /marriage-equality/
 ---
 he last three days have been some of the most emotional days in my life.
 

@@ -3,10 +3,10 @@ title: Johnny Carson The Hero
 date: 2013-07-14
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- tribute
-permalink: "/johnny-carson/"
+  - tribute
+permalink: /johnny-carson/
 ---
 Johnny Carson was better than most people thought.
 

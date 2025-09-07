@@ -2,10 +2,10 @@
 title: Nan the Crystal Lady - Poem
 date: 2023-12-10
 categories:
-- Poems
+  - Poems
 tags:
-- love
-- lyric poem
+  - love
+  - lyric-poem
 permalink: /crytal-lady/
 published: true
 excerpt: Poem about my love and her love of crystals.

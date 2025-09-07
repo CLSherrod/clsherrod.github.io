@@ -1,17 +1,17 @@
 ---
-title: "How Smart Notes Transformed My Productivity and Well-being"
+title: How Smart Notes Transformed My Productivity and Well-being
 date: 2023-10-02
 last_modified_at: 2025-06-16
 tags:
-- workflow-apps
-- implementing
-categories: Essays
+  - workflow-apps
+  - implementing
+categories: Success & Prosperity
 permalink: /smart-notes/
 published: true
 comments: true
 toc: true
 ---
-## What Are Smart Notes?<!--more--><br>
+## What Are Smart Notes?]
 First let’s start off with defining smart notes, which is a modern application of the Zettelkasten method (an old index card note system, pre computers), a systematic and thoughtful approach to taking and organizing notes. 
 
 Instead of passively transcribing information, users of smart notes engage actively with the content, summarizing insights in their own words and linking them to related ideas or notes. This creates a web of interconnected thoughts, allowing for easier recall, deeper understanding, and the synthesis of new ideas. 

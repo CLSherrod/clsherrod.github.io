@@ -2,14 +2,14 @@
 title: "Daily Reflection: Gaining Insight Every Morning"
 date: 2014-07-08
 date_last_modified: 2024-07-09
-categories: Essays
-tags: 
-- systems
+categories: Learning & Growth
+tags:
+  - systems
 permalink: /daily-reflection/
 published: true
 comments: true
 toc: true
-excerpt: "How to gain insight every morning."
+excerpt: How to gain insight every morning.
 ---
 The world is crazy fast and getting faster every second so finding time to pause and reflect can be challenging. However, incorporating a few moments of daily reflection into your morning routine can bring profound insights and set a positive tone for the day ahead. The practice of morning reflection, where you contemplate your actions, thoughts, and plans, can significantly impact your personal and professional life.
 

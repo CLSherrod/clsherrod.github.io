@@ -3,10 +3,10 @@ title: Life Between the Waves - Poem
 date: 2024-02-20
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- slow lifestyle
-- lyric poem
+  - fulfilling-lifestyle
+  - lyric-poem
 teaser: /assets/images/poems/life-between-the-waves.webp
 header:
   image: /assets/images/poems/life-between-the-waves.webp

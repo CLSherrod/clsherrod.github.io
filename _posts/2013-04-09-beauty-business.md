@@ -3,11 +3,11 @@ title: Beauty in Business
 date: 2013-04-09
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-- automation
-permalink: "/beauty-business/"
+  - business
+  - automation
+permalink: /beauty-business/
 ---
 Business in order to be successful has to be a thing of beauty. It has to have systems and procedures that when business is conducted it is a beautiful thing to watch.
 

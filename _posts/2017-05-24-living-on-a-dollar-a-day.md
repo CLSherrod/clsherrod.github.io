@@ -3,10 +3,10 @@ title: Living on a dollar a day
 date: 2017-05-24
 published: true
 categories:
-- Essays
+  - Lifestyle & Travel
 tags:
-- mindset
-permalink: "/living-on-a-dollar-a-day/"
+  - mindset
+permalink: /living-on-a-dollar-a-day/
 ---
 Staying in Mexico for awhile has shown me what poverty really looks like.
 

@@ -3,10 +3,10 @@ title: In Love's Embrace - Poem
 date: 2024-02-02
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- love
-- lyric poem
+  - love
+  - lyric-poem
 permalink: /loves-embrace/
 excerpt: A love poem about my love.
 ---

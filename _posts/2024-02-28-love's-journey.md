@@ -3,10 +3,10 @@ title: Love's Journey - Nineteen Years and Counting - Poem
 date: 2024-02-28
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- love
-- lyric poem
+  - love
+  - lyric-poem
 permalink: /loves-journey/
 excerpt: Poem about my love of my life.
 teaser: /assets/images/poems/loves-journey.webp

@@ -3,10 +3,10 @@ title: Saxophone Serenade - Poem
 date: 2024-02-27
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- music
-- lyric poem
+  - music
+  - lyric-poem
 permalink: /saxophone-serenade/
 excerpt: Poem about the love of the saxophone.
 ---

@@ -3,10 +3,10 @@ title: Resonance of New Beginnings - Poem
 date: 2023-12-27
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- celebration
-- lyric poem
+  - celebration
+  - lyric-poem
 permalink: /resonance-of-new-beginnings/
 excerpt: A Slam Poem for Family and Friends in the Year Ahead.
 ---

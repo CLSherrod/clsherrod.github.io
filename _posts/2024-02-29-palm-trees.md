@@ -3,9 +3,9 @@ title: Palm trees - Poem
 date: 2024-02-29
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- haiku poem
+  - haiku-poem
 teaser: /assets/images/poems/palm-trees.webp
 header:
   image: /assets/images/poems/palm-trees.webp

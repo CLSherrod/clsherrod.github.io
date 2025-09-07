@@ -3,10 +3,10 @@ title: Embracing Mortality - Poem
 date: 2024-03-04
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- slow lifestyle
-- lyric poem
+  - fulfilling-lifestyle
+  - lyric-poem
 permalink: /embracing-mortality/
 excerpt: Poem about not fearing death.
 ---

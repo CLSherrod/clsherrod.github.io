@@ -3,10 +3,10 @@ title: Silencing Interruptions - Poem
 date: 2024-03-12
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- slow lifestyle
-- lyric poem
+  - fulfilling-lifestyle
+  - lyric-poem
 permalink: /silencing-interruptions/
 excerpt: Poem about silencing interruptions while being creative.
 ---

@@ -1,13 +1,13 @@
 ---
-title: 'Ram Dass: Going Home'
+title: "Ram Dass: Going Home"
 date: 2018-04-10
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- tribute
-- spirituality
-permalink: "/ram-dass-going-home/"
+  - tribute
+  - spirituality
+permalink: /ram-dass-going-home/
 ---
 [Ram Dass: Going Home](https://www.netflix.com/watch/80209895)
 

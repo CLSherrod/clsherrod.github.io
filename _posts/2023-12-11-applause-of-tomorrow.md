@@ -3,10 +3,10 @@ title: Applause of Tomorrow - Poem
 date: 2023-12-11
 published: true
 categories:
-- Poems
+  - Poems
 tags:
-- self-worth
-- lyric poem
+  - self-worth
+  - lyric-poem
 permalink: /applause-of-tomorrow/
 excerpt: Poem about my future self looking back at me now.
 ---

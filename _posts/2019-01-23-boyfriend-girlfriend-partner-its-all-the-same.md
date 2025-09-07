@@ -3,9 +3,9 @@ title: Boyfriend/Girlfriend/Partner it's all the same
 date: 2019-01-23
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- happiness
+  - happiness
 permalink: /boyfriend-girlfriend-partner-its-all-the-same/
 excerpt: Boyfriend/Girlfriend, Husband/Wife, Domestic Partner are all old terms for what is really a Partner.
 ---

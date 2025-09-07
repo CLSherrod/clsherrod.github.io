@@ -3,10 +3,10 @@ title: Is the truth of death being suppressed?
 date: 2017-05-10
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- death
-permalink: "/is-the-truth-of-death-being-suppressed/"
+  - death
+permalink: /is-the-truth-of-death-being-suppressed/
 ---
 Is the real purpose of death being suppressed from humans?
 

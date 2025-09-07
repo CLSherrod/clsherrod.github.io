@@ -3,11 +3,11 @@ title: Living the Miami Vice lifestyle without the drugs
 date: 2018-04-30
 published: true
 categories:
-- Essays
+  - Lifestyle & Travel
 tags:
-- lifestyle
-- travel
-permalink: "/living-miami-vice-lifestyle-without-the-drugs/"
+  - lifestyle
+  - travel
+permalink: /living-miami-vice-lifestyle-without-the-drugs/
 ---
 My favorite show as a teenager living in remote Alaska was, believe it or not was *Miami Vice*.
 

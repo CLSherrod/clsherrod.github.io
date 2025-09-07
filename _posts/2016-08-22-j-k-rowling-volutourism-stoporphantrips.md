@@ -1,14 +1,12 @@
 ---
-title: 'J.K. Rowling #Volutourism #StopOrphanTrips'
+title: "J.K. Rowling #Volutourism #StopOrphanTrips"
 date: 2016-08-22
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- philanthropy
-- social responsibility
-- volutourism
-permalink: "/j-k-rowling-volutourism-stoporphantrips/"
+  - philanthropy
+permalink: /j-k-rowling-volutourism-stoporphantrips/
 ---
 ## Volutourism
 With the recent statements by JK Rowling and some questions from my authors mastermind, I wanted to share my opinion on Volutourism. Which is volunteering to help a charity in a way that is pretty light and a bit of a vacation.

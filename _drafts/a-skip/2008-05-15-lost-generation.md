@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- happy
+- happiness
 permalink: "/lost-generation/"
 ---
 My girlfriend Nan sent me this YouTube video. It seems negative for a few seconds and then wham it gave me the chills. It's powerful. Check it out.

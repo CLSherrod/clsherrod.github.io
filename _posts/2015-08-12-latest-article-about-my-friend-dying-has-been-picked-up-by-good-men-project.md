@@ -3,11 +3,11 @@ title: Latest article about my friend dying has been picked up by Good Men Proje
 date: 2015-08-12
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- love
-- tribute
-permalink: "/latest-article-about-my-friend-dying-has-been-picked-up-by-good-men-project/"
+  - love
+  - tribute
+permalink: /latest-article-about-my-friend-dying-has-been-picked-up-by-good-men-project/
 ---
 My article about my friend dying and its impact for me has been published by Good Men Project.
 

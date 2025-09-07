@@ -3,11 +3,11 @@ title: Biggest Problem in Business
 date: 2018-04-16
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-- marketing
-permalink: "/biggest-problem-in-business/"
+  - business
+  - marketing
+permalink: /biggest-problem-in-business/
 ---
 I get so frustrated when I see entrepreneurs struggling in business. It's almost always because they don't have enough business. And after a short talk it's almost always that they don't have nearly enough qualified leads.
 

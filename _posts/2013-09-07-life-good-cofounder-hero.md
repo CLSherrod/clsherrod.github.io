@@ -3,10 +3,10 @@ title: Life Is Good Cofounder The Hero
 date: 2013-09-07
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- happiness
-permalink: "/life-good-cofounder-hero/"
+  - happiness
+permalink: /life-good-cofounder-hero/
 ---
 I recently meet Bert Jacobs the cofounder of [Life Is Good](http://lifeisgood.com).
 

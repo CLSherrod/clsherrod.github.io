@@ -3,10 +3,10 @@ title: How to outsource everything but your sex life
 date: 2014-05-02
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- Business Automation
-permalink: "/outsource-everything/"
+  - business
+permalink: /outsource-everything/
 ---
 I celebrated my birthday last week. Thai massage, comedy club, meals with friends, trip to a safari park with the family, resort, another massage, champagne, chocolate covered strawberries, on and on. I need a vacation from my vacation to recover.
 

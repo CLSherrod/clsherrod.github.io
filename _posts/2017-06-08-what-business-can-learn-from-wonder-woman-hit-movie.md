@@ -3,10 +3,10 @@ title: What business can learn from Wonder Woman hit movie
 date: 2017-06-08
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- conscious business
-permalink: "/what-business-can-learn-from-wonder-woman-hit-movie/"
+  - conscious-business
+permalink: /what-business-can-learn-from-wonder-woman-hit-movie/
 ---
 The Wonder Woman movie is a huge sign that people want things that matter. It isn’t all about how fast the superhero can fight. It’s about doing the right thing and doing it well.
 

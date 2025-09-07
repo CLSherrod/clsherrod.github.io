@@ -3,10 +3,10 @@ title: Missing The Father of Guerilla Marketing
 date: 2013-10-11
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- tribute
-permalink: "/jayconradlevinson/"
+  - tribute
+permalink: /jayconradlevinson/
 ---
 The father of guerrilla marketing Jay Conrad Levinson passed from this realm yesterday.
 

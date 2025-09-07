@@ -2,12 +2,13 @@
 title: "Mastering Email Deliverability: Key Takeaways from Email Reputation Explained Well"
 date: 2024-08-18
 categories:
-- Reviews
+  - Business & Entrepreneurship
 tags:
-- marketing
-- email
+  - marketing
+  - email
+  - book-review
 published: true
-permalink: "/email-deliverability/"
+permalink: /email-deliverability/
 ---
 A Must-Read for Anyone Navigating Email Reputation!
 
