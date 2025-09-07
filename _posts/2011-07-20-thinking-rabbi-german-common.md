@@ -3,10 +3,10 @@ title: Thinking, Rabbi, and German - What do they have in common?
 date: 2011-07-20
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/thinking-rabbi-german-common/"
+  - business
+permalink: /thinking-rabbi-german-common/
 ---
 Wow, the last couple of days have been fun.
 

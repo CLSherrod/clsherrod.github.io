@@ -4,10 +4,10 @@ date: 2011-11-27
 published: true
 comments: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- tribute
-permalink: "/tribute-jerry-hicks-abrahamhicks/"
+  - tribute
+permalink: /tribute-jerry-hicks-abrahamhicks/
 excerpt: My tribute to Jerry Hicks
 ---
 Jerry Hicks kicked the bucket a few days ago.

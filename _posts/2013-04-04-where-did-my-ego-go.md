@@ -3,9 +3,9 @@ title: Where did my ego go?
 date: 2013-04-04
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- success
+  - success
 permalink: /where-did-my-ego-go/
 excerpt: In order to grow business to be real big I've had to let go of my ego.
 ---

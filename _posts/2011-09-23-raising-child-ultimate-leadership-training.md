@@ -3,10 +3,10 @@ title: Raising a child is the ultimate leadership training
 date: 2011-09-23
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- leadership
-permalink: "/raising-child-ultimate-leadership-training/"
+  - leadership
+permalink: /raising-child-ultimate-leadership-training/
 ---
 Raising a child is the ultimate leadership training.
 

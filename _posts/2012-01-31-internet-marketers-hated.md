@@ -3,9 +3,9 @@ title: Why some Internet Marketers are hated
 date: 2012-01-31
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
+  - marketing
 permalink: /internet-marketers-hated/
 excerpt: Why some Internet Marketers are hated more than used car salesmen
 ---

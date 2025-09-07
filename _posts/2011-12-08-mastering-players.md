@@ -3,10 +3,10 @@ title: Mastering with A players
 date: 2011-12-08
 published: true
 categories:
-- Essays
-tags: 
-- business
-permalink: "/mastering-players/"
+  - Success & Prosperity
+tags:
+  - business
+permalink: /mastering-players/
 ---
 I had a great mastermind weekend. My main business won an affiliate contest. Instead of winning an iPad or brownies (it's happened! They were good) We won an entire weekend hanging out with other winners and just masterminding.
 

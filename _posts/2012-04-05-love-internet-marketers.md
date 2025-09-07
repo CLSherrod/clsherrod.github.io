@@ -3,10 +3,10 @@ title: Why I love Internet Marketers
 date: 2012-04-05
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
-permalink: "/love-internet-marketers/"
+  - marketing
+permalink: /love-internet-marketers/
 ---
 I absolutely love Internet Marketers.
 

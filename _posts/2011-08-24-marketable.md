@@ -3,10 +3,10 @@ title: Becoming Marketable
 date: 2011-08-24 22:00:31.000000000 -05:00
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
-permalink: "/marketable/"
+  - marketing
+permalink: /marketable/
 ---
 I find most people think they have to do more, more action, more speaking, more emails, more of everything in order to become a successful heart conscious entrepreneur.
 

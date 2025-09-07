@@ -3,9 +3,10 @@ title: Why emotions are key to your success
 date: 2011-12-14
 published: true
 categories:
-- Essays
-tags: []
-permalink: "/why-emotions-are-key-to-your-success/"
+  - Success & Prosperity
+tags:
+  - success
+permalink: /why-emotions-are-key-to-your-success/
 ---
 I recently had Rhys Thomas of the Rhys Method evaluate me. He did my life purpose profile.
 

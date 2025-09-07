@@ -3,10 +3,10 @@ title: Greater Fool Marketing
 date: 2011-08-08
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
-permalink: "/greater-fool-marketing/"
+  - marketing
+permalink: /greater-fool-marketing/
 ---
 Most of the so called experts in marketing operate on the "Greater Fool" theory.
 

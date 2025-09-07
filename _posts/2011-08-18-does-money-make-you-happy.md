@@ -1,12 +1,12 @@
 ---
 title: Does Money Make You Happy?
-date: 2011-08-18 
+date: 2011-08-18
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- abundance
-permalink: "/does-money-make-you-happy/"
+  - abundance
+permalink: /does-money-make-you-happy/
 ---
 People that don't have money think that more money will bring them happiness.
 

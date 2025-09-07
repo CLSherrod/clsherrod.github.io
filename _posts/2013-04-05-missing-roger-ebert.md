@@ -3,10 +3,10 @@ title: Missing Roger Ebert
 date: 2013-04-05
 published: true
 categories:
-- Essays
+  - Lifestyle & Travel
 tags:
-- tribute
-permalink: "/missing-roger-ebert/"
+  - tribute
+permalink: /missing-roger-ebert/
 ---
 I always loved Roger Ebert"s movie reviews, even if I didn"t agree with him.
 

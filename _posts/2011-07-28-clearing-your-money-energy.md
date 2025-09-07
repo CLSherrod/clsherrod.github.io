@@ -3,10 +3,10 @@ title: Clearing your money energy
 date: 2011-07-28
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- prosperity
-permalink: "/clearing-your-money-energy/"
+  - prosperity
+permalink: /clearing-your-money-energy/
 ---
 This week has been summer cleaning for me with money.
 
