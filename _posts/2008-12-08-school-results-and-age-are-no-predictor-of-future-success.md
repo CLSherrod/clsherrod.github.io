@@ -3,10 +3,10 @@ title: School results and age are no predictor of future success
 date: 2008-12-08
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/school-results-and-age-are-no-predictor-of-future-success/"
+  - school
+permalink: /school-results-and-age-are-no-predictor-of-future-success/
 ---
 My clientele vary a lot.  Men and women of all ages and backgrounds.  They all have one thing in common.  An entrepreneurial spirit.  Here are a couple of articles about how school results and age are not good predictors of your future success.
 >John Lennon left school without any qualifications, Damien Hirst did marginally better and was awarded an E for his art A-Level whilst Bill Gates dropped out of college on his way to becoming the world's richest man.

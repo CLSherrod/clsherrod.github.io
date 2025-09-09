@@ -3,10 +3,10 @@ title: Entrepreneurs love risk?
 date: 2009-01-09
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/entrepreneurs-love-risk/"
+  - entreneurship
+permalink: /entrepreneurs-love-risk/
 ---
 One of the best quotes I've seen in a while.
 >People think entrepreneurs are risk-loving. Really what you find is successful entrepreneurs hate risk, because the founding of the enterprise is already so risky that what they do is take their early resources, the small amounts of capital that they have, whatever assets they have, and they deploy those resources systematically, eliminating the largest risk first, the second-largest risk, and so on, and so on.

@@ -3,10 +3,10 @@ title: Money Game
 date: 2008-04-06 22:00:14
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/money-game/"
+  - business
+permalink: /money-game/
 ---
 I created a Google Document on playing the <a href="http://spreadsheets.google.com/pub?key=p_wO4GcmAAPnr4SiZK_Hudw" rel="nofollow">money game.</a> You may have heard the games from Abraham-Hicks. The prosperity consciousness game has been around for a long time.
 

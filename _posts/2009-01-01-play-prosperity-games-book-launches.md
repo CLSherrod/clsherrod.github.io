@@ -2,10 +2,11 @@
 title: Play Prosperity Games Book Launches
 date: 2009-01-01
 categories:
-- News
+  - Success & Prosperity
 tags:
-- book-review
-permalink: "/play-prosperity-games-book-launches/"
+  - book-review
+  - news
+permalink: /play-prosperity-games-book-launches/
 published: true
 excerpt: My book came out today.
 ---

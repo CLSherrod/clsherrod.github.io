@@ -3,10 +3,10 @@ title: Results of What is the single most frustrating problem or fear in your bu
 date: 2008-11-24 22:35:27
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
-permalink: "/results-of-what-is-the-single-most-frustrating-problem-or-fear-in-your-business/"
+  - marketing
+permalink: /results-of-what-is-the-single-most-frustrating-problem-or-fear-in-your-business/
 ---
 Here are the results of my survey "What is the single most frustrating problem or fear in your business?
 

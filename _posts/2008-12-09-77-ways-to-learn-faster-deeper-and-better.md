@@ -3,10 +3,10 @@ title: 77 Ways to Learn Faster, Deeper, and Better
 date: 2008-12-09
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/77-ways-to-learn-faster-deeper-and-better/"
+  - life-hack
+permalink: /77-ways-to-learn-faster-deeper-and-better/
 ---
 I've become interested in life hacking my brain lately.  Here is a 74 techniques I found interesting.
 

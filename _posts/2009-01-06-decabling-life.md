@@ -3,10 +3,10 @@ title: Decabling your life - getting your Entertainment for free on the Internet
 date: 2009-01-06
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- time
-permalink: "/decabling-life/"
+  - time
+permalink: /decabling-life/
 ---
 Some of my relatives spend $1500 on cable tv a year.  I watch more DVDs than cable tv so spending that much seems crazy.  But, I understand that it's nice to watch a nice show or movie at times.  I do it also.  I rarely turn on cable tv so much so that I have no idea what's on and the digital guide isn't really helpful.  Even with the name of the show or movie and a one sentence description I don't know if I'll really like it.
 

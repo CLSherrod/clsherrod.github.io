@@ -3,9 +3,9 @@ title: How to Avoid Getting Burned by the Next Bernard Madoff
 date: 2009-01-05
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- prosperity
+  - prosperity
 permalink: /avoid-burned-bernard-madoff/
 ---
 Here are some basic checks to avoid getting into a ponzi scheme.

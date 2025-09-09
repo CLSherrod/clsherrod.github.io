@@ -3,10 +3,10 @@ title: Christian Bale is a corporate hero
 date: 2009-02-11
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- abundance
-permalink: "/christian-bale-is-a-corporate-hero/"
+  - abundance
+permalink: /christian-bale-is-a-corporate-hero/
 ---
 An interesting point of view on the Christian Bale rant.
 

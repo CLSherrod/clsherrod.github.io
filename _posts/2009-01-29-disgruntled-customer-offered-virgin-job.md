@@ -3,10 +3,10 @@ title: Disgruntled customer offered Virgin job
 date: 2009-01-29
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- Virgin Group
-permalink: "/disgruntled-customer-offered-virgin-job/"
+  - richard-branson
+permalink: /disgruntled-customer-offered-virgin-job/
 ---
 Yesterday I blogged about Virgin and why [complaining customers are the best](/complaining-customers/).  Well, today Virgin offers the complaining customer a job.
 

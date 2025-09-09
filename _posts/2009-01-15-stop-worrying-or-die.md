@@ -3,10 +3,10 @@ title: Stop Worrying or Die
 date: 2009-01-15
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- self-worth
-permalink: "/stop-worrying-or-die/"
+  - self-worth
+permalink: /stop-worrying-or-die/
 ---
 Stop worrying about doing everything.  Stop worrying about things beyond your control. Stop worrying about what some people think about you.
 

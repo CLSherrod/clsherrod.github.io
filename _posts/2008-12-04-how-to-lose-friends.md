@@ -3,10 +3,10 @@ title: How to lose friends
 date: 2008-12-04 23:00:34
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/how-to-lose-friends/"
+  - friends
+permalink: /how-to-lose-friends/
 ---
 Recently a very good friend of mine had a falling out with a business partner.  I don't know the details but I was supportive.  Then a couple of weeks later the business partner removed me from x.com.
 

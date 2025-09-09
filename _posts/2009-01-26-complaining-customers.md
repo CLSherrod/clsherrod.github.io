@@ -3,10 +3,10 @@ title: Complaining Customers Are The Best
 date: 2009-01-26
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/complaining-customers/"
+  - customers
+permalink: /complaining-customers/
 ---
 Virgin has what some are calling the world's best passenger complaint letter floating around.  It's been emailed around the world.  Of course it is very embarrasing for Richard Branson and everyone at Virgin.  They are know for excellent service, but the passenger has some valid points with pictures.
 
