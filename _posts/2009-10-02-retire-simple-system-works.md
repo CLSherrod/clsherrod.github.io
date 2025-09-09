@@ -3,11 +3,11 @@ title: How To Retire - A simple system that works
 date: 2009-10-02
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- Retirement
-- Richard Branson
-permalink: "/retire-simple-system-works/"
+  - Retirement
+  - richard-branson
+permalink: /retire-simple-system-works/
 ---
 I heard a growing trend is for people to retire to college towns where they can volunteer and keep learning new things.  Good idea.
 

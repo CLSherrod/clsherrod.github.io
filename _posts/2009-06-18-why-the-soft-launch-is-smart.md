@@ -3,10 +3,11 @@ title: Why The Soft Launch is Smart
 date: 2009-06-18
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/why-the-soft-launch-is-smart/"
+  - business
+  - marketing
+permalink: /why-the-soft-launch-is-smart/
 ---
 It seems all you hear about in Internet Marketing is the hard and fast launch.  It works and does create a frenzy for buying the product. And it is usually done for products that don't work for long.  You know the techniques that will work for a week or a month before not working anymore because Google changes their algorhymn or just the world changes.
 

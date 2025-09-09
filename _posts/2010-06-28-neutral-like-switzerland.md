@@ -3,10 +3,10 @@ title: Neutral like Switzerland
 date: 2010-06-28
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/neutral-like-switzerland/"
+  - business
+permalink: /neutral-like-switzerland/
 ---
 I'm like Switzerland. Me and my company are neutral.
 

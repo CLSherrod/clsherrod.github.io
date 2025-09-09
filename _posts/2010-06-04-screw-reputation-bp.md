@@ -3,10 +3,10 @@ title: How To Screw Your Reputation Like BP
 date: 2010-06-04 09:53:07.000000000 -05:00
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- branding
-permalink: "/screw-reputation-bp/"
+  - branding
+permalink: /screw-reputation-bp/
 ---
 BP started ads addressing the 6 week old oil spill today.
 >As the Obama administration opens civil and criminal investigations into the huge oil spill in the Gulf of Mexico, the party responsible for the spill, BP, has rolled out advertising addressing the crisis.

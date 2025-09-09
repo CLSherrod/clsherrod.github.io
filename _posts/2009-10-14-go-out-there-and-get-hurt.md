@@ -3,10 +3,10 @@ title: Go out there and get hurt
 date: 2009-10-14
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/go-out-there-and-get-hurt/"
+  - business
+permalink: /go-out-there-and-get-hurt/
 ---
 In order to be successful in business you have to be willing to be hurt. If you avoid doing anything to get hurt you will not be successful at all.
 

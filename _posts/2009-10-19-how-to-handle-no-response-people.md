@@ -3,10 +3,10 @@ title: How To Handle No Response People
 date: 2009-10-19
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/how-to-handle-no-response-people/"
+  - business
+permalink: /how-to-handle-no-response-people/
 ---
 It's frustrating when people don't respond to your voice mail or email. Over the years I've worked with many people that don't respond. And for many years I didn't understand them.
 

@@ -3,10 +3,10 @@ title: I am my first client
 date: 2010-10-05
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/i-am-my-first-client/"
+  - business
+permalink: /i-am-my-first-client/
 ---
 You are your first client. If you don't prioritize yourself everyone else suffers.
 

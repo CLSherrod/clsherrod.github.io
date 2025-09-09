@@ -3,10 +3,10 @@ title: Internet Marketing is Professional Wrestling
 date: 2009-12-06
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- marketing
-permalink: "/internet-marketing-professional-wrestling/"
+  - marketing
+permalink: /internet-marketing-professional-wrestling/
 ---
 Internet Marketers remind me of Professional Wrestlers.
 

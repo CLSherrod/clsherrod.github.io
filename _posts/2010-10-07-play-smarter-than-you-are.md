@@ -3,10 +3,10 @@ title: Play smarter than you are
 date: 2010-10-07
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- self-worth
-permalink: "/play-smarter-than-you-are/"
+  - self-worth
+permalink: /play-smarter-than-you-are/
 ---
 People like your point of view. The people that don't can move on. You can't please everyone.
 

@@ -4,11 +4,10 @@ date: 2010-09-30
 description: Lot's of money leads to failure
 preview: Lot's of money leads to failure
 categories: Success & Prosperity
-  - 
 tags:
   - failure
 toc: true
-permalink: "/lots-of-money-leads-to-failure/"
+permalink: /lots-of-money-leads-to-failure/
 published: true
 ---
 Most of my clients that have quite a bit of money to invest in their online business lose it all before they come to me.

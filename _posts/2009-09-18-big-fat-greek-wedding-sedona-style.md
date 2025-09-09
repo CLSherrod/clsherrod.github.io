@@ -3,10 +3,10 @@ title: Big Fat Greek Wedding Sedona Style
 date: 2009-09-18
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- travel
-permalink: "/big-fat-greek-wedding-sedona-style/"
+  - travel
+permalink: /big-fat-greek-wedding-sedona-style/
 ---
 I'm a big fan of celebrating life.  I love to work hard but I also love to party.
 

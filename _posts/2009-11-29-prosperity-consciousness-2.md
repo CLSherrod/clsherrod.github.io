@@ -4,10 +4,10 @@ date: 2009-11-29
 published: true
 comments: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- prosperity
-permalink: "/prosperity-consciousness-2/"
+  - prosperity
+permalink: /prosperity-consciousness-2/
 excerpt: Prosperity is an ongoing state of being.
 ---
 Prosperity is an ongoing state of being.  A journey.  Only by freeing yourself from the struggle with money will you be able to find your real purpose in life.  Enjoy the adventure.

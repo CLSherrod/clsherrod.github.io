@@ -3,11 +3,11 @@ title: Trying to make money will never make you rich
 date: 2009-06-10
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-- Richard Branson
-permalink: "/trying-to-make-money-will-never-mak/"
+  - business
+  - richard-branson
+permalink: /trying-to-make-money-will-never-mak/
 ---
 In over 23 years of working with small business client I've heard "I just want to quit my job and do my own business" or "If I just made a bit more money life would be good".
 

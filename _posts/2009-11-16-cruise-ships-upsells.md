@@ -3,10 +3,10 @@ title: Cruise Ships and upsells
 date: 2009-11-16 22:00:39
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
-permalink: "/cruise-ships-upsells/"
+  - marketing
+permalink: /cruise-ships-upsells/
 ---
 I recently went to a seminar on a cruise ship. It was the first time for me to be on a cruise ship.
 

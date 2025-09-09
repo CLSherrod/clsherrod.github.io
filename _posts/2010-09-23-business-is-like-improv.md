@@ -3,10 +3,10 @@ title: Business is like Improv
 date: 2010-09-23
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/business-is-like-improv/"
+  - business
+permalink: /business-is-like-improv/
 ---
 I recently took an Improv class. I loved it so much I signed up for the full course which start in a week. What I noticed when doing Improv is it's a lot like doing business.
 

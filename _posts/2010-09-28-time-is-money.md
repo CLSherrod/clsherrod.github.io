@@ -1,12 +1,15 @@
 ---
 title: Time is Money
 date: 2010-09-28
-published: true
+description: Time is Money
+preview: Time is Money
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- prosperity
-permalink: "/time-is-money/"
+  - money
+toc: false
+permalink: /time-is-money/
+published: true
 ---
 Time has value. If you're 100% sold out, then you need to charge more.
 

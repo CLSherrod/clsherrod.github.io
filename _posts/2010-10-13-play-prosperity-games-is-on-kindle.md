@@ -3,11 +3,12 @@ title: Play Prosperity Games is on Kindle
 date: 2010-10-13
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- book-review
-- prosperity
-permalink: "/play-prosperity-games-is-on-kindle/"
+  - book-review
+  - prosperity
+  - news
+permalink: /play-prosperity-games-is-on-kindle/
 ---
 My book <a href="http://www.amazon.com/gp/product/B0044KM13Q?ie=UTF8&amp;tag=abundaunlimi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0044KM13Q" rel="nofollow">
 

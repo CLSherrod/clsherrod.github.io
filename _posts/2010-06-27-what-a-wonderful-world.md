@@ -3,10 +3,10 @@ title: What a Wonderful World
 date: 2010-06-27
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/what-a-wonderful-world/"
+  - business
+permalink: /what-a-wonderful-world/
 ---
 I don't usually use an alarm clock and when I do it's not an alarm. I wake up to the song "What a Wonderful World".
 

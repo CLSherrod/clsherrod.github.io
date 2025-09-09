@@ -3,10 +3,10 @@ title: Playing the Money Game
 date: 2009-11-24
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- abundance
-permalink: "/playing-money-game/"
+  - abundance
+permalink: /playing-money-game/
 ---
 If you lose all your money, it sucks. But, it's not the end of the world. You get another opportunity to get right back in the game.
 
