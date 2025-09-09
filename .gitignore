@@ -47,3 +47,18 @@ _site/
 .obsidian/plugins/obsidian-style-settings/styles.css
 .obsidian/themes/Dracula for Obsidian/manifest.json
 .obsidian/themes/Dracula for Obsidian/theme.css
+.obsidian/plugins/calendar/data.json
+.obsidian/plugins/calendar/main.js
+.obsidian/plugins/calendar/manifest.json
+.obsidian/plugins/obsidian-full-calendar/data.json
+.obsidian/plugins/obsidian-full-calendar/main.js
+.obsidian/plugins/obsidian-full-calendar/manifest.json
+.obsidian/plugins/obsidian-full-calendar/styles.css
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/recent-files-obsidian/main.js
+.obsidian/plugins/recent-files-obsidian/manifest.json
+.obsidian/plugins/recent-files-obsidian/styles.css
+.obsidian/templates.json
+_basees/Posts.md
+_templates/Post Template.md
+_templates/Posts.base
