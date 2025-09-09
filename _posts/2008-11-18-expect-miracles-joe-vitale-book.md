@@ -1,12 +1,12 @@
 ---
-title: "My Story Featured in Joe Vitale’s New Book Expect Miracles — Learn How to Attract Miracles Into Your Life"
+title: My Story Featured in Joe Vitale’s New Book Expect Miracles — Learn How to Attract Miracles Into Your Life
 date: 2008-11-18
 published: true
 categories:
-- News
+  - Learning & Growth
 tags:
-- book-review
-permalink: "/expect-miracles/"
+  - book-review
+permalink: /expect-miracles/
 ---
 I'm in a new book again.  Joe Vitale came out with a new book called [Expect Miracles](https://amzn.to/4dtThZE). I have a story inside the book.
 

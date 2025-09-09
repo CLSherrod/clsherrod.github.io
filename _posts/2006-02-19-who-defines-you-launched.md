@@ -2,9 +2,9 @@
 title: Who Defines You Launched
 date: 2006-02-19
 categories:
-- News
+  - Learning & Growth
 tags:
-- website
+  - news
 permalink: /who-defines-you-launched/
 published: true
 excerpt: Launched web design firm website
