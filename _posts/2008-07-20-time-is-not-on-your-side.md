@@ -3,7 +3,7 @@ title: Time Is Not On Your Side
 date: 2008-07-20
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - business
 permalink: /time-is-not-on-your-side/

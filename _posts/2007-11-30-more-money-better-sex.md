@@ -4,7 +4,7 @@ date: 2007-11-30
 published: true
 comments: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - prosperity
   - sex

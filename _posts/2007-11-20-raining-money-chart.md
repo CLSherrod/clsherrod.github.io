@@ -2,7 +2,7 @@
 title: Raining money chart
 date: 2007-11-20
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - prosperity
 permalink: /raining-money-chart/

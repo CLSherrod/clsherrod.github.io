@@ -3,7 +3,7 @@ title: How To Achieve Higher Profits
 date: 2010-10-26
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - branding
 permalink: /achieve-higher-profits/

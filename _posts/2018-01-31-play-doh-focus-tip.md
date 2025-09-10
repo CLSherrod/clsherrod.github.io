@@ -3,7 +3,7 @@ title: Play-Doh focus tip
 date: 2018-01-31
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - productivity
 permalink: /play-doh-focus-tip/

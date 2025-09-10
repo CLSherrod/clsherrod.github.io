@@ -3,7 +3,7 @@ title: "Being an Expert: Set The Standard"
 date: 2010-11-01
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - branding
 permalink: /expert-set-standard/

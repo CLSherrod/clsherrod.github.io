@@ -3,7 +3,7 @@ title: Master of your own domain
 date: 2008-03-19
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - business
 permalink: /master-of-your-own-domain/

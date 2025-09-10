@@ -4,7 +4,7 @@ description: "The Soundtrack That Changed My Life: What Vangelis Taught Me About
 date: 2025-05-19
 preview: "The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy"
 categories:
-- "Success and Prosperity"
+- "Success & Prosperity"
 tags:
   - tribute
   - music

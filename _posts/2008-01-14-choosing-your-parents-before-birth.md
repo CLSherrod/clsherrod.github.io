@@ -3,7 +3,7 @@ title: Choosing Your Parents Before Birth
 date: 2008-01-14
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - happiness
 permalink: /choosing-your-parents-before-birth/

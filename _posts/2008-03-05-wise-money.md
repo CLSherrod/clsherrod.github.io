@@ -3,7 +3,7 @@ title: Wise money
 date: 2008-03-05
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - wealth
 permalink: /wise-money/

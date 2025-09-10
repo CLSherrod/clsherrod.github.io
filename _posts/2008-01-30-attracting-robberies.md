@@ -3,7 +3,7 @@ title: Attracting Robberies?
 date: 2008-01-30
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - prosperity
 permalink: /attracting-robberies/

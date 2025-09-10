@@ -3,7 +3,7 @@ title: Interview with former Virgin MD
 date: 2008-06-25
 published: false
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - richard-branson
 permalink: /interview-with-former-virgin-md/

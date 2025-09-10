@@ -3,7 +3,7 @@ title: The Secret to Earning Money
 date: 2008-01-03
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - abundance
 permalink: /the-secret-to-earning-money/

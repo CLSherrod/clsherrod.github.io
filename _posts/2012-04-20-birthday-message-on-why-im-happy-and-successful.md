@@ -3,7 +3,7 @@ title: Birthday message on why I'm happy and successful
 date: 2012-04-20
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - happiness
 permalink: /birthday-message-on-why-im-happy-and-successful/

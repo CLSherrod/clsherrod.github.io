@@ -3,7 +3,7 @@ title: How I changed from being a social retard
 date: 2011-01-20
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - networking
 permalink: /changed-social-retard/

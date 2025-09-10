@@ -7,7 +7,7 @@ published: true
 password: ’'
 status: publish
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - law-of-attraction
 permalink: /law-of-attraction/

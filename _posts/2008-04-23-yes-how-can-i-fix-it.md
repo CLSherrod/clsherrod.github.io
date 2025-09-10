@@ -3,7 +3,7 @@ title: Yes, how can I fix it?
 date: 2008-04-23
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - business
 permalink: /yes-how-can-i-fix-it/

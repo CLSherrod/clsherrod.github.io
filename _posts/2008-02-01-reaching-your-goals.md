@@ -3,7 +3,7 @@ title: Reaching your goals
 date: 2008-02-01
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - goals
 permalink: /reaching-your-goals/

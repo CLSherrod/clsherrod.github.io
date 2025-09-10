@@ -3,7 +3,7 @@ title: Quotes for Prosperity
 date: 2010-12-02
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - book-review
 permalink: /quotes-prosperity/

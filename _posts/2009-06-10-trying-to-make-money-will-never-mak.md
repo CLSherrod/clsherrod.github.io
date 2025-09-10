@@ -3,7 +3,7 @@ title: Trying to make money will never make you rich
 date: 2009-06-10
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - business
   - richard-branson

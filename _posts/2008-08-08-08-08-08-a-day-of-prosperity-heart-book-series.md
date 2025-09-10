@@ -3,7 +3,7 @@ title: 08 08 08 - A Day of Prosperity | Heart Book Series
 date: 2008-08-08 22:00:20
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - business
 permalink: /08-08-08-a-day-of-prosperity-heart-book-series/

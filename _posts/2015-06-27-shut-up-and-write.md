@@ -3,7 +3,7 @@ title: Shut Up and Write - My Experience With Other Writers
 date: 2015-06-27
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - book-review
 permalink: /shut-up-and-write/

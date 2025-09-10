@@ -3,7 +3,7 @@ title: Why I's Important To Know Who You're Sharing Your Goals
 date: 2008-04-04 03:00:27
 published: true
 categories:
-  - "Success and Prosperity"ity"
+  - "Success & Prosperity"ity"
 tags:
   - business
 permalink: /why-its-important-to-know-who-youre-sharing-your-goals-with/

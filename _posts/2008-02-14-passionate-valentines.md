@@ -3,7 +3,7 @@ title: Passionate Valentines
 date: 2008-02-14
 published: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - love
 permalink: /passionate-valentines/

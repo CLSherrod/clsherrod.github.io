@@ -2,7 +2,7 @@
 title: Why How To Live by Derek Sivers is the Next Self-Development Classic You'll Reference for Life
 date: 2021-06-24
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - self-worth
   - book-review

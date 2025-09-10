@@ -3,7 +3,7 @@ title: Play Prosperity Games - A Weekend Testimonial
 date: 2009-04-23
 published: true
 categories:
-  - "Success and Prosperity"ity"
+  - "Success & Prosperity"ity"
 tags:
   - business
   - news

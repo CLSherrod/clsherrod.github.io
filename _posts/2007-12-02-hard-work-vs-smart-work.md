@@ -4,7 +4,7 @@ date: 2007-12-02
 published: true
 comments: true
 categories:
-  - "Success and Prosperity"
+  - "Success & Prosperity"
 tags:
   - productivity
 permalink: /hard-work-vs-smart-work/
