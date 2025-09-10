@@ -2,7 +2,8 @@
 title: "Daily Reflection: Gaining Insight Every Morning"
 date: 2014-07-08
 date_last_modified: 2024-07-09
-categories: Learning & Growth
+categories:
+- Learning & Growth
 tags:
   - systems
 permalink: /daily-reflection/

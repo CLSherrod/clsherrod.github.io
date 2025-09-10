@@ -2,7 +2,8 @@
 title: When To Say No
 date: 2007-01-28
 last_modified_at: 2024-03-11
-categories: Learning & Growth
+categories:
+- Learning & Growth
 tags: entrepreneurship
 permalink: /when-to-say-no/
 published: true
