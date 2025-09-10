@@ -3,10 +3,10 @@ title: Lessons from Motrin
 date: 2008-11-17 00:31:29
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
-permalink: "/lessons-from-motrin/"
+  - marketing
+permalink: /lessons-from-motrin/
 ---
 Motrin released an ad on their website on Saturday.  That said this in 20-something voice:</p>
 >Wearing your baby seems to be in fashion. I mean, in theory it’s a great idea. There’s the front baby carrier, sling, schwing, wrap, pouch. And who knows what else they’ve come up with. Wear your baby on your side, your front, go hands free. Supposedly, it’s a real bonding experience. They say that babies carried close to the body tend to cry less than others. But what about me? Do moms that wear their babies cry more than those who don’t. I sure do! These things put a ton of strain on your back, your neck, your shoulders. Did I mention your back? I mean, I’ll put up with the pain because it’s a good kind of pain; it’s for my kid. Plus, it totally makes me look like an official mom. And so if I look tired and crazy, people will understand why.

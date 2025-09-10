@@ -3,10 +3,10 @@ title: Asset Allocation beats the market every time
 date: 2008-11-20
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- investments
-- wealth
+  - investments
+  - wealth
 permalink: /asset-allocation-beats-the-market-every-time/
 ---
 Asset allocation beats stock selection every time.

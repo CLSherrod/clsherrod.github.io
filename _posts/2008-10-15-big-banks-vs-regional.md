@@ -3,11 +3,10 @@ title: Big banks vs regional
 date: 2008-10-15 05:45:03
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- mind map
-- Virgin Group
-permalink: "/big-banks-vs-regional/"
+  - richard-branson
+permalink: /big-banks-vs-regional/
 ---
 I have a great aunt with a lot of money.  She has many many accounts in many banks with no more than $100,000 USD in each because that is the limit the FDIC Insurance will pay.  Not many know this, but yes there is limit.  So if you have a lot of money use different accounts and banks.
 

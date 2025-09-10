@@ -3,10 +3,10 @@ title: Strategic partnerships
 date: 2008-09-18 22:43:19
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/strategic-partnerships/"
+  - business
+permalink: /strategic-partnerships/
 ---
 Are you struggling? Does it seem you are not moving forward?
 

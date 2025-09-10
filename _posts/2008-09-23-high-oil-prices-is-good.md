@@ -3,10 +3,10 @@ title: High Oil Prices Is Good
 date: 2008-09-23 23:35:28
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/high-oil-prices-is-good/"
+  - business
+permalink: /high-oil-prices-is-good/
 ---
 High oil prices are good? Why when everyone on the news says it's bad? When all your neighbors and friends say it is bad?
 

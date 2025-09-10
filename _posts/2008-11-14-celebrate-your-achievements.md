@@ -3,11 +3,11 @@ title: Celebrate your achievements
 date: 2008-11-14
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- abundance
-- gratitude
-permalink: "/celebrate-your-achievements/"
+  - abundance
+  - gratitude
+permalink: /celebrate-your-achievements/
 ---
 I'm about to leave for an extended weekend out of town.  I'm taking Richard Branson's advice in his new book "Business Stripped Bare" and I'm throwing a party.  Yup, Saturday night my girlfriend Nan and I are throwing a party.  I invited all my friends and web clients around the world to come.
 

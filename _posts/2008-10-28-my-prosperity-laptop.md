@@ -3,10 +3,10 @@ title: My Prosperity Laptop
 date: 2008-10-28 02:35:12
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- Retirement
-permalink: "/my-prosperity-laptop/"
+  - Retirement
+permalink: /my-prosperity-laptop/
 ---
 Since most of my work is done on my laptop I have tricked it out as they would say.  But I also decorate it.  I put on what I want.
 

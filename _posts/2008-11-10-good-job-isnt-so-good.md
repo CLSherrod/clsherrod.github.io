@@ -3,10 +3,10 @@ title: Good job isn't so good
 date: 2008-11-10
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/good-job-isnt-so-good/"
+  - business
+permalink: /good-job-isnt-so-good/
 ---
 Having a good job is not what it used to be.  In fact, it's pretty risky.  After working your ass off for many years companies just let you go.  It's happened to many of my family members.
 

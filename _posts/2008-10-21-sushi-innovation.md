@@ -3,10 +3,10 @@ title: Sushi Innovation
 date: 2008-10-21
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- marketing
-permalink: "/sushi-innovation/"
+  - marketing
+permalink: /sushi-innovation/
 ---
 I had such a good morning yesterday.  I had two clients recommend me to all their family, friends and business associates.  Another client is going to record me a video testimonial.  I have new clients every week and I had the best weekend with my girlfriend Nan.
 

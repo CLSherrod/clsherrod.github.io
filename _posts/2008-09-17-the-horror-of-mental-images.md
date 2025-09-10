@@ -3,11 +3,11 @@ title: The Horror of Mental Images
 date: 2008-09-17
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- love
-- spirituality
-permalink: "/the-horror-of-mental-images/"
+  - love
+  - spirituality
+permalink: /the-horror-of-mental-images/
 ---
 At a dinner party at a friend's place last weekend the subject of favorite movies came up.  Out of six people only two people like horror movies.  Us four couldn't understand why.
 

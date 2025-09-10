@@ -3,10 +3,10 @@ title: Six Horrible Financial Products You Should Avoid
 date: 2008-11-10
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- prosperity
-permalink: "/six-horrible-financial-products-you-should-avoid/"
+  - prosperity
+permalink: /six-horrible-financial-products-you-should-avoid/
 ---
 When I read this article I thought it was a joke...a 401K Debit Card.  But they really exist.
 

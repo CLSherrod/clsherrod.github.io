@@ -3,10 +3,10 @@ title: Write A Business Plan In 10 Seconds
 date: 2008-10-16
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
-permalink: "/write-a-business-plan-in-10-seconds/"
+  - marketing
+permalink: /write-a-business-plan-in-10-seconds/
 ---
 Forming a business plan around a business idea can be very quick.  Check out this 10 second solution.
 

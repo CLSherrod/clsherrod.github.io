@@ -3,10 +3,10 @@ title: Virgin Twitter
 date: 2008-09-25
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/virgin-twitter/"
+  - richard-branson
+permalink: /virgin-twitter/
 ---
 I blogged about Richard Branson having a blog two days ago.  I was very excited that he was going to blog occasionally.  His fans and I (his biggest fan) could hear directly from him.  I ordered his new book and looked forward to reading it.
 

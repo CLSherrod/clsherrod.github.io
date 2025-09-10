@@ -3,10 +3,10 @@ title: I read Cosmopolitan magazine, no really
 date: 2008-11-21
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
-permalink: "/i-read-cosmopolitan-magazine-no-really/"
+  - marketing
+permalink: /i-read-cosmopolitan-magazine-no-really/
 ---
 One of my mastermind members suggested on today's mastermind call to read [Cosmopolitan magazine](http://www.cosmopolitan.com/) to learn about headline writing and my initial reaction was to laugh, but they were right. Cosmopolitan has the best headlines.
 

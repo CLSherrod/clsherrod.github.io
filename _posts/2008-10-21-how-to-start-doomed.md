@@ -3,10 +3,10 @@ title: How to start doomed
 date: 2008-10-21
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/how-to-start-doomed/"
+  - business
+permalink: /how-to-start-doomed/
 ---
 You're doomed if a vast majority of cases if you quit your old job and buy a bunch of gear/gadgets/equipment and then start your business.
 

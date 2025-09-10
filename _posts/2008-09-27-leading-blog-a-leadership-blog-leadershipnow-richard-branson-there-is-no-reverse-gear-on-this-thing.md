@@ -3,11 +3,11 @@ title: There Is No Reverse Gear On This Thing
 date: 2008-09-27 03:09:59
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- ideas
-- Virgin Group
-permalink: "/leading-blog-a-leadership-blog-leadershipnow-richard-branson-there-is-no-reverse-gear-on-this-thing/"
+  - ideas
+  - richard-branson
+permalink: /leading-blog-a-leadership-blog-leadershipnow-richard-branson-there-is-no-reverse-gear-on-this-thing/
 ---
 I love this quote.
 

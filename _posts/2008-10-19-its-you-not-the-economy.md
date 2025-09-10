@@ -3,10 +3,10 @@ title: It's You, Not The Economy
 date: 2008-10-19
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/its-you-not-the-economy/"
+  - business
+permalink: /its-you-not-the-economy/
 ---
 The biggest factor in a new startup company is you, the founder(s).  It's not the economy, it's you.  Microsoft and Apple both started in a recession in the 70's.  They had the ideas and the founders to make it work.  They had people that told them they were crazy to start some unknown industry in a recession.  Good thing they totally ignored them.
 

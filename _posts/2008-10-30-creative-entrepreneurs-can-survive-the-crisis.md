@@ -3,10 +3,10 @@ title: Creative entrepreneurs can survive the crisis
 date: 2008-10-30
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/creative-entrepreneurs-can-survive-the-crisis/"
+  - business
+permalink: /creative-entrepreneurs-can-survive-the-crisis/
 ---
 Big companies that are not creative will hurt and many go out of business.  Nimble small companies that are creative will florish.  Be creative.  Now is the time for using your brain first and then money second.  Brains always wins.
 

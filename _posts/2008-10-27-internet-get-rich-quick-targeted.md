@@ -3,10 +3,10 @@ title: Internet Get Rich Quick targeted
 date: 2008-10-27
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
-permalink: "/internet-get-rich-quick-targeted/"
+  - marketing
+permalink: /internet-get-rich-quick-targeted/
 ---
 Internet get rich quick people are being targeted by the Feds.  The hype is so great and the amount of just awful schemes that it was just a matter of time.
 

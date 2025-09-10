@@ -3,10 +3,10 @@ title: Too small to fail
 date: 2008-11-19
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/too-small-to-fail/"
+  - business
+permalink: /too-small-to-fail/
 ---
 I love this quote.
 >If you act small and think big, you are too small to fail. You won't need a bailout because your business makes sense each and every day. You won't need a bailout because your flat organization no matter how large it is knows about problems long before they're too big to deal with.
