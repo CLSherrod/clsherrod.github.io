@@ -3,7 +3,7 @@ title: Should you be the best?
 date: 2010-10-14
 published: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - branding
 permalink: /should-you-be-the-best/

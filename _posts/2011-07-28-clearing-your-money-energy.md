@@ -3,7 +3,7 @@ title: Clearing your money energy
 date: 2011-07-28
 published: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - prosperity
 permalink: /clearing-your-money-energy/

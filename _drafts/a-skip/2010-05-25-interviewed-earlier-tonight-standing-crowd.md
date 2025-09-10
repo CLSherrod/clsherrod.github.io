@@ -3,7 +3,7 @@ title: I was interviewed earlier tonight on Standing Above The Crowd
 date: 2010-05-25
 published: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - interview
 permalink: /interviewed-earlier-tonight-standing-crowd/

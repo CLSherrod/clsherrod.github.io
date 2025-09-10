@@ -3,7 +3,7 @@ title: Is the truth of death being suppressed?
 date: 2017-05-10
 published: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - death
 permalink: /is-the-truth-of-death-being-suppressed/

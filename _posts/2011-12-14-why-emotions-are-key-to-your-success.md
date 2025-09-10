@@ -3,7 +3,7 @@ title: Why emotions are key to your success
 date: 2011-12-14
 published: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - success
 permalink: /why-emotions-are-key-to-your-success/

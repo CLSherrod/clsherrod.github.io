@@ -3,7 +3,7 @@ title: "Money and The Law of Attraction: Learning to Attract Health, Wealth & Ha
 date: 2008-08-13
 published: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - happiness
 permalink: /money-and-the-law-of-attraction/

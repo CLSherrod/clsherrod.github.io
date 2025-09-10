@@ -5,7 +5,7 @@ last_modified_at: 2025-06-16
 tags:
   - workflow-apps
   - implementing
-categories: Success & Prosperity
+categories: "Success and Prosperity"
 permalink: /smart-notes/
 published: true
 comments: true

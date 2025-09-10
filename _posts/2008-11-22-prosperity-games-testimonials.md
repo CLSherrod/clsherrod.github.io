@@ -2,7 +2,7 @@
 title: Play Prosperity Games Dinner Party Testimonials
 date: 2008-11-22
 last_modified_at: 2023-10-03
-categories: Success & Prosperity
+categories: "Success and Prosperity"
 tags:
   - idea-generation
   - games

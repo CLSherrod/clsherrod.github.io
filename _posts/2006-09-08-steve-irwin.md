@@ -2,7 +2,7 @@
 title: "Steve Irwin: A Life Lived Full Out, A Lesson for Entrepreneurs"
 date: 2006-09-08
 last_modified_at: 2023-11-02
-categories: Success & Prosperity
+categories: "Success and Prosperity"
 tags:
   - entrepreneurship
   - tribute

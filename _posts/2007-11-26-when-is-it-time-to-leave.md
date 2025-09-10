@@ -2,7 +2,7 @@
 title: When Is It Time To Leave?
 date: 2007-11-26
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - management
 permalink: /when-is-it-time-to-leave/

@@ -4,7 +4,7 @@ date: 2009-11-29
 published: true
 comments: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - prosperity
 permalink: /prosperity-consciousness-2/

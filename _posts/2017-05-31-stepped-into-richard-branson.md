@@ -3,7 +3,7 @@ title: Stepped Into Richard Branson
 date: 2017-05-31
 published: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - entrepreneurship
   - richard-branson

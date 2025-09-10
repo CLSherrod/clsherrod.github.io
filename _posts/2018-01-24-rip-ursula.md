@@ -3,7 +3,7 @@ title: Honoring Ursula K. Le Guin - A Sci-Fi Visionary Who Showed Us New Possibi
 date: 2018-01-24
 published: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - tribute
 permalink: /ursula-k-le-guin/

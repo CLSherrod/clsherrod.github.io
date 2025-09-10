@@ -3,7 +3,7 @@ title: Number 1 Excuse For Failure By Far
 date: 2009-03-03
 published: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - business
 permalink: /number-1-excuse-for-failure-by-far/

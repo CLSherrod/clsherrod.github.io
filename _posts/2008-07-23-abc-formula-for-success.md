@@ -3,7 +3,7 @@ title: ABC Formula for Success
 date: 2008-07-23
 published: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - business
 permalink: /abc-formula-for-success/

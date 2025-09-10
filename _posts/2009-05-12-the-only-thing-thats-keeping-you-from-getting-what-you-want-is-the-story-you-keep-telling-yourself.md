@@ -3,7 +3,7 @@ title: The Only Thing That’s Keeping You From Getting What You Want Is The Sto
 date: 2009-05-12
 published: true
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - business
 permalink: /the-only-thing-thats-keeping-you-from-getting-what-you-want-is-the-story-you-keep-telling-yourself/

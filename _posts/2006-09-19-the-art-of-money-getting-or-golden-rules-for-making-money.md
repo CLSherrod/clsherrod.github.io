@@ -2,7 +2,7 @@
 title: The Art of Money Getting or Golden Rules for Making Money Review
 date: 2006-09-19
 categories:
-  - Success & Prosperity
+  - "Success and Prosperity"
 tags:
   - entrepreneurship
   - book-review
