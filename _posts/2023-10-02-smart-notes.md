@@ -6,7 +6,7 @@ tags:
   - workflow-apps
   - implementing
 categories:
-- "Success and Prosperity"
+- "Success & Prosperity"
 permalink: /smart-notes/
 published: true
 comments: true

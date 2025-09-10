@@ -4,7 +4,7 @@ description: I'm on Mind your Own Business in Boston today
 preview: I'm on Mind your Own Business in Boston today
 date: 2010-09-26
 categories:
-- "Success and Prosperity"
+- "Success & Prosperity"
 tags:
   - interview
   - games

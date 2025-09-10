@@ -4,7 +4,7 @@ date: 2010-09-30
 description: Lot's of money leads to failure
 preview: Lot's of money leads to failure
 categories:
-- "Success and Prosperity"
+- "Success & Prosperity"
 tags:
   - failure
 toc: true
