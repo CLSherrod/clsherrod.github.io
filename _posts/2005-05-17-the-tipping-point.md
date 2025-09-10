@@ -1,7 +1,8 @@
 ---
 title: The Tipping Point Review
 date: 2005-05-17
-categories: Business & Entrepreneurship
+categories:
+- Business & Entrepreneurship
 tags:
   - idea-generation
   - book-review

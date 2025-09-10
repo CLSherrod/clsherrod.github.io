@@ -2,7 +2,8 @@
 title: Money & Prosperity
 date: 2006-02-09
 last_modified_at: 2024-03-11
-categories: Business & Entrepreneurship
+categories:
+- Business & Entrepreneurship
 tags: prosperity
 published: true
 status: publish

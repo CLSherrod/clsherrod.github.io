@@ -2,7 +2,8 @@
 title: Play Prosperity Games Book Renamed & Now On Kindle
 date: 2012-11-27
 last_modified_at: 2023-10-03
-categories: Business & Entrepreneurship
+categories:
+- Business & Entrepreneurship
 tags:
   - idea-generation
   - games

@@ -2,7 +2,8 @@
 title: "Book Released: Hiring Virtual Workers For Small Business"
 date: 2020-11-02
 last_modified_at: 2023-10-03
-categories: Business & Entrepreneurship
+categories:
+- Business & Entrepreneurship
 tags:
   - business-management
   - book-review

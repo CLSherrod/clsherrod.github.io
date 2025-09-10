@@ -2,7 +2,8 @@
 title: Forget Shark Tank; Be A Dolphin Entrepreneur Instead
 date: 2017-08-18
 last_modified_at: 2023-10-03
-categories: Business & Entrepreneurship
+categories:
+- Business & Entrepreneurship
 tags: entrepreneurship
 permalink: /dolphin-entrepreneur/
 published: true
