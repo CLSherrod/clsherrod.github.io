@@ -2,7 +2,8 @@
 title: "Play Prosperity Games Dinner Party: A Night of Creative Fun and Unique Ideas"
 date: 2007-03-05
 last_modified_at: 2023-11-02
-categories: "Success and Prosperity"
+categories:
+- "Success and Prosperity"
 tags:
   - idea-generation
   - games

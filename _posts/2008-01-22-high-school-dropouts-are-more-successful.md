@@ -2,7 +2,8 @@
 title: Are High School Dropouts More Successful?
 date: 2008-01-22
 last_modified_at: 2024-07-03
-categories: "Success and Prosperity"
+categories:
+- "Success and Prosperity"
 tags: entrepreneurship
 toc: true
 permalink: /high-school-dropouts-are-more-successful/
