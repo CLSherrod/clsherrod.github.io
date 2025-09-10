@@ -3,7 +3,7 @@ title: How To Screw Your Reputation Like BP
 date: 2010-06-04 09:53:07.000000000 -05:00
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - branding
 permalink: /screw-reputation-bp/

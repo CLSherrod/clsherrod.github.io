@@ -3,7 +3,7 @@ title: My attitude of gratitude
 date: 2008-11-25
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - gratitude
 permalink: /my-attitude-of-gratitude/

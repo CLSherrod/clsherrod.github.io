@@ -2,7 +2,7 @@
 title: "The Power of Letting Go: Why Not Caring What Others Think is One of Life's Greatest Lessons"
 date: 2025-01-07
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - self-image
 permalink: /power-of-letting-go/

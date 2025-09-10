@@ -3,7 +3,7 @@ title: The bullshit of outage language
 date: 2009-01-15
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - language
 permalink: /bullshit-outage-language/

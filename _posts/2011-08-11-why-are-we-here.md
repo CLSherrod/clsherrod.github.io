@@ -3,7 +3,7 @@ title: Why are we here?
 date: 2011-08-11
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 permalink: /why-are-we-here/
 ---
 Why?

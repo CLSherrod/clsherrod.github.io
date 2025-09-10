@@ -3,7 +3,7 @@ title: Johnny Carson The Hero
 date: 2013-07-14
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - tribute
 permalink: /johnny-carson/

@@ -3,7 +3,7 @@ title: What a Wonderful World
 date: 2010-06-27
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - business
 permalink: /what-a-wonderful-world/

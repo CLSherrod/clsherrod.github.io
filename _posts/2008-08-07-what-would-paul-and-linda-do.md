@@ -3,7 +3,7 @@ title: What would Paul and Linda do?
 date: 2008-08-07
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - love
 permalink: /what-would-paul-and-linda-do/

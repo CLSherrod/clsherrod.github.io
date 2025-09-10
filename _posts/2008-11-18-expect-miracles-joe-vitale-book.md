@@ -3,7 +3,7 @@ title: My Story Featured in Joe Vitale’s New Book Expect Miracles — Learn Ho
 date: 2008-11-18
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - book-review
 permalink: /expect-miracles/

@@ -3,7 +3,7 @@ title: Never give up with RE/MAX co-founder
 date: 2013-06-22
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - entrepreneurship
 permalink: /remax-cofounder/

@@ -4,7 +4,7 @@ date: 2005-08-01
 published: true
 comments: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - movie-review
   - self-worth

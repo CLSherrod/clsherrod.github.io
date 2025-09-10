@@ -3,7 +3,7 @@ title: "Ram Dass: Going Home"
 date: 2018-04-10
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - tribute
   - spirituality

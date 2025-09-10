@@ -3,7 +3,7 @@ title: Do Not Spend Until You Earn
 date: 2008-12-23
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - money
 permalink: /do-not-spend-until-you-earn/

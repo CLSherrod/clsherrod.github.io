@@ -3,7 +3,7 @@ title: 77 Ways to Learn Faster, Deeper, and Better
 date: 2008-12-09
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - life-hack
 permalink: /77-ways-to-learn-faster-deeper-and-better/

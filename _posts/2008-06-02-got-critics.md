@@ -3,7 +3,7 @@ title: Got Critics?
 date: 2008-06-02
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - business
 permalink: /got-critics/

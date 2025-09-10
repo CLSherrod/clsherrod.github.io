@@ -2,7 +2,7 @@
 title: Saw Genesis In Concert Finally
 date: 2007-07-08
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - music
 permalink: /genesis-in-concert/

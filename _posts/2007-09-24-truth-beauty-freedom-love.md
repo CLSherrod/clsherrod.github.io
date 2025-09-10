@@ -4,7 +4,7 @@ date: 2007-09-24
 published: true
 comments: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - love
 permalink: /truth-beauty-freedom-love/

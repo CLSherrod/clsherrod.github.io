@@ -3,7 +3,7 @@ title: Open Source Living
 date: 2007-12-27
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - open source
 permalink: /open-source-living/

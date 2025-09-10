@@ -3,7 +3,7 @@ title: Neutral like Switzerland
 date: 2010-06-28
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - business
 permalink: /neutral-like-switzerland/

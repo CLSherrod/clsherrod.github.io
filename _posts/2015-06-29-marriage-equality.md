@@ -3,7 +3,7 @@ title: Marriage Equality For My Kids
 date: 2015-06-29
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - equality
 permalink: /marriage-equality/

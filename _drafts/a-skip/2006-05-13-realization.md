@@ -3,7 +3,7 @@ title: Realization
 date: 2006-05-13 05:03:48
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - law-of-attraction
 permalink: /realization/

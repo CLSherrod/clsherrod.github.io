@@ -3,7 +3,7 @@ title: Forgiveness
 date: 2014-03-04
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - forgiveness
 permalink: /forgiveness/

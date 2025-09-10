@@ -4,7 +4,7 @@ date: 2015-03-24
 date_updated: 2024-07-30
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - leadership
 permalink: /leading-with-heart-and-being-strong/

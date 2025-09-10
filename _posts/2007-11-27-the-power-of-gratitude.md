@@ -2,7 +2,7 @@
 title: The Power of Gratitude
 date: 2007-11-27
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - gratitude
 permalink: /the-power-of-gratitude/

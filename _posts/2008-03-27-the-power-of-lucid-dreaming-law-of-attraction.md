@@ -3,7 +3,7 @@ title: The Power of Lucid Dreaming | Law Of Attraction
 date: 2008-03-27
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - business
 permalink: /the-power-of-lucid-dreaming-law-of-attraction/

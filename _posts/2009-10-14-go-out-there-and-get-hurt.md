@@ -3,7 +3,7 @@ title: Go out there and get hurt
 date: 2009-10-14
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - business
 permalink: /go-out-there-and-get-hurt/

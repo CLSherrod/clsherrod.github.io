@@ -3,7 +3,7 @@ title: Missing The Father of Guerilla Marketing
 date: 2013-10-11
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - tribute
 permalink: /jayconradlevinson/

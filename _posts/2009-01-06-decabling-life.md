@@ -3,7 +3,7 @@ title: Decabling your life - getting your Entertainment for free on the Internet
 date: 2009-01-06
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - time
 permalink: /decabling-life/

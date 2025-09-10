@@ -4,7 +4,7 @@ date: 2007-01-02
 published: true
 comments: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - happiness
   - book-review

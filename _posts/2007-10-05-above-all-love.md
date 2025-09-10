@@ -2,7 +2,7 @@
 title: Above All Is Love
 date: 2007-10-05
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - self-love
 permalink: /above-all-love/

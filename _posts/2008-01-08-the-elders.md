@@ -3,7 +3,7 @@ title: The Elders
 date: 2008-01-08
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - peace
 permalink: /the-elders/

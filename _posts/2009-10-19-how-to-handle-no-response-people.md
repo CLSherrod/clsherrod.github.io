@@ -3,7 +3,7 @@ title: How To Handle No Response People
 date: 2009-10-19
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - business
 permalink: /how-to-handle-no-response-people/

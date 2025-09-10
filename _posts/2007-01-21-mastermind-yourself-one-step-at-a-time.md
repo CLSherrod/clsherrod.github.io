@@ -4,7 +4,7 @@ date: 2007-01-21
 published: true
 comments: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - mastermind
   - book-review

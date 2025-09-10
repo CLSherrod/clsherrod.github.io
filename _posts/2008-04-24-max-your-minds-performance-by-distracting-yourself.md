@@ -3,7 +3,7 @@ title: Max Your Minds Performance by Distracting Yourself
 date: 2008-04-24
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - business
 meta:

@@ -2,7 +2,7 @@
 title: Avoiding Negative talk
 date: 2007-11-29
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - self-love
 permalink: /avoiding-negative-talk/

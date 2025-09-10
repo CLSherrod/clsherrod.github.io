@@ -3,7 +3,7 @@ title: Yearly Celebration
 date: 2007-04-23
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - celebration
 permalink: /yearly-celebration/

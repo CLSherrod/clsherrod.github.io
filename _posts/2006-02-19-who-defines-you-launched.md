@@ -2,7 +2,7 @@
 title: Who Defines You Launched
 date: 2006-02-19
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - news
 permalink: /who-defines-you-launched/

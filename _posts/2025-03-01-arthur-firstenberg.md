@@ -5,7 +5,7 @@ date: 2025-03-01
 preview: Tribute to Arthur Firstenberg Electromagnetic Awareness Pioneer
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - tribute
   - electromagnetic-hypersensitivity

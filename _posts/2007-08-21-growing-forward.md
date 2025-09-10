@@ -3,7 +3,7 @@ title: Growing forward
 date: 2007-08-21
 published: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - entrepreneurship
 permalink: /growing-forward/

@@ -4,7 +4,7 @@ date: 2007-04-02
 published: true
 comments: true
 categories:
-  - Learning & Growth
+  - "Learning & Growth"
 tags:
   - peace
   - movie-review
