@@ -3,7 +3,7 @@ title: How To Retire - A simple system that works
 date: 2009-10-02
 published: true
 categories:
-  - "Success & Prosperity"ity"
+  - "Success & Prosperity"
 tags:
   - Retirement
   - richard-branson
