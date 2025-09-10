@@ -3,7 +3,7 @@ title: Don't Check Your Valuables
 date: 2008-05-18
 published: true
 categories:
-  - "Lifestyle & Travel"
+  - "Lifestyle and Travel"
 tags:
   - travel
 permalink: /dont-check-your-valuables/
