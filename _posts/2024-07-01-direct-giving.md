@@ -1,7 +1,8 @@
 ---
 title: "Transformative Giving: Empowering Lives Through Direct Entrepreneurial Philanthropy"
 date: 2024-07-01
-categories: Learning & Growth
+categories: 
+- Learning & Growth
 tags: philanthropy
 permalink: /giving/
 toc: true
