@@ -14,8 +14,6 @@ teaser: /assets/images/fred-rogers.webp
 header:
   image: /assets/images/articles/fred-rogers.webp
 ---
-Entrepreneurial Lessons from Mr. Rogers
-<!--more--> 
 ## A Neighborhood of Wisdom
 
 In the bustling world of entrepreneurship, unexpected mentors can emerge from the most unassuming places. Fred Rogers, the iconic host of “Mister Rogers’ Neighborhood,” might seem an unlikely guide for navigating the challenges of running a business. However, his gentle demeanor and timeless wisdom hold profound lessons for entrepreneurs seeking not just success, but a meaningful and authentic impact.
