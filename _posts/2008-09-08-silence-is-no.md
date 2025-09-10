@@ -3,10 +3,10 @@ title: Silence is no
 date: 2008-09-08
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/silence-is-no/"
+  - business
+permalink: /silence-is-no/
 ---
 The answer is always no if you don't ask.  I've seen this many times.  This is why I simply ask.
 

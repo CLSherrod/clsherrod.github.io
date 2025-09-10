@@ -3,10 +3,10 @@ title: I Think I Can
 date: 2008-09-17
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/i-think-i-can/"
+  - business
+permalink: /i-think-i-can/
 ---
 Do you know the difference between successful and unsuccessful business people?
 

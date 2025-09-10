@@ -1,12 +1,12 @@
 ---
-title: 'Customer Satisfaction: Time is Precious'
+title: "Customer Satisfaction: Time is Precious"
 date: 2008-08-27
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/customer-satisfaction-time-is-precious/"
+  - business
+permalink: /customer-satisfaction-time-is-precious/
 ---
 I've noticed in Internet Marketing that many professional Internet Marketers are awful at customer service. Some even remove people from their list and ban there IP address from their website so they can't ever visit again. If they did this with a restaurant they would lose everyone else to after the big "scene". Not professional at all.
 

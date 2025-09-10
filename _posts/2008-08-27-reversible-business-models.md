@@ -3,10 +3,10 @@ title: Reversible business models
 date: 2008-08-27
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- philanthropy
-permalink: "/reversible-business-models/"
+  - philanthropy
+permalink: /reversible-business-models/
 ---
 I just finished reading this excellent post. Here is a quote.
 >In China, some doctors are paid monthly when you are healthy. If you are sick, it's their fault, so you don't have to pay that month. It's their goal to get you healthy and keep you healthy so they can get paid.

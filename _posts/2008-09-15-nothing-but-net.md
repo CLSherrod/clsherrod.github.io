@@ -3,10 +3,10 @@ title: Nothing but Net
 date: 2008-09-15
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/nothing-but-net/"
+  - business
+permalink: /nothing-but-net/
 ---
 It is not how much money you make that really matters. I've know many people that make millions and a vast majority of them are broke.
 

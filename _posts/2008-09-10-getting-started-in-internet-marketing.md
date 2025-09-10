@@ -3,10 +3,10 @@ title: Getting started in Internet Marketing
 date: 2008-09-10
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- marketing
-permalink: "/getting-started-in-internet-marketing/"
+  - marketing
+permalink: /getting-started-in-internet-marketing/
 ---
 I sometimes get asked for how to get started in Internet Marketing.  I find it very flattering and then I sit back and ask "why me?".  I'm still figuring it all out so I sometimes don't feel I'm the perfect person to answer such questions.  But, since I'm doing well at it I going to share some advice.
 

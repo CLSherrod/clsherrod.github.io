@@ -3,10 +3,10 @@ title: Money and stuff
 date: 2008-09-10
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/money-and-stuff/"
+  - business
+permalink: /money-and-stuff/
 ---
 I've had stuff and I've had practical no stuff. I've learned for myself that having less stuff is more fun. The less I'm into physical items the more I enjoy the items.
 

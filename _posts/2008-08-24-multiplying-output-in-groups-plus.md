@@ -3,10 +3,10 @@ title: Multiplying Output in Groups Plus
 date: 2008-08-24
 published: true
 categories:
-- Essays
+  - Business & Entrepreneurship
 tags:
-- business
-permalink: "/multiplying-output-in-groups-plus/"
+  - business
+permalink: /multiplying-output-in-groups-plus/
 ---
 Tim Ferris' latest blog post is awesome. So much content. I love that.
 
