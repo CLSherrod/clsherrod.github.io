@@ -3,7 +3,7 @@ title: Living the Miami Vice lifestyle without the drugs
 date: 2018-04-30
 published: true
 categories:
-  - Lifestyle & Travel
+  - "Lifestyle & Travel"
 tags:
   - lifestyle
   - travel
