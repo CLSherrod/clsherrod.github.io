@@ -3,10 +3,10 @@ title: I was interviewed earlier tonight on Standing Above The Crowd
 date: 2010-05-25
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- business
-permalink: "/interviewed-earlier-tonight-standing-crowd/"
+  - interview
+permalink: /interviewed-earlier-tonight-standing-crowd/
 ---
 Earlier tonight I was interviewed by Nan Akasha about her recent book launch that went #1 in her targeted category on Amazon and how I helped make that all happen. Listen to it on <a href="http://loaradionetwork.com/">Law of Attraction Radio</a>.
 

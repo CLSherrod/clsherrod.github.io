@@ -3,10 +3,11 @@ title: The Long Tail and the Dip
 date: 2008-08-14 23:03:10
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- marketing
-permalink: "/the-long-tail-and-the-dip/"
+  - marketing
+  - book-review
+permalink: /the-long-tail-and-the-dip/
 ---
 I loved Seth's book on the Dip. Here Seth explains the Long Tail and the Dip together. Excellent.
 

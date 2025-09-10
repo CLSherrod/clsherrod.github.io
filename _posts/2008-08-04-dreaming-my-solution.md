@@ -3,10 +3,10 @@ title: Dreaming my solution
 date: 2008-08-04
 published: true
 categories:
-- Essays
+  - Success & Prosperity
 tags:
-- dreams
-permalink: "/dreaming-my-solution/"
+  - dreams
+permalink: /dreaming-my-solution/
 ---
 Last year I had a dream where I knew exactly how to create a product and it would take less than 2 hours for everything.
 

@@ -3,10 +3,10 @@ title: How to Remember Dreams
 date: 2008-08-03
 published: true
 categories:
-- Essays
+  - Learning & Growth
 tags:
-- business
-permalink: "/how-to-remember-dreams-wikihow/"
+  - business
+permalink: /how-to-remember-dreams-wikihow/
 ---
 I'm a big fan of dreaming. I get a ton of ideas while dreaming. This is a good article on how to remember dreams.
 

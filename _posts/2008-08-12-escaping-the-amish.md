@@ -3,10 +3,10 @@ title: Escaping the Amish
 date: 2008-08-12
 published: true
 categories:
-- Essays
+  - Lifestyle & Travel
 tags:
-- business
-permalink: "/escaping-the-amish/"
+  - business
+permalink: /escaping-the-amish/
 ---
 Back in the late 1990's I wanted to be Amish. I wanted freedom in what I considered an unfree world. I wanted to live my life happy and thought being Amish would do that.
 
