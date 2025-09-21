@@ -4,7 +4,7 @@ date: 2014-09-23
 last_modified_at: 2023-10-03
 categories:
 - Business & Entrepreneurship
-tags: implementing
+tags: business
 permalink: /implement-quickly/
 comments: true
 published: true

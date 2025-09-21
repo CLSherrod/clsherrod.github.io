@@ -4,7 +4,7 @@ date: 2006-09-19
 categories:
   - "Success & Prosperity"
 tags:
-  - entrepreneurship
+  - business
   - book-review
 published: true
 comments: true

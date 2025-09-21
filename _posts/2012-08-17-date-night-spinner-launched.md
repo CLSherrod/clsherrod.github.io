@@ -4,7 +4,7 @@ date: 2012-08-17
 categories:
   - News
 tags:
-  - website
+  - business
 permalink: /date-night-spinner-launched/
 published: false
 excerpt: Date Night Idea Generator launched

@@ -4,7 +4,7 @@ date: 2007-02-02
 last_modified_at: 2023-11-03
 categories:
 - "Success & Prosperity"
-tags: idea-generation
+tags: learning
 permalink: /play-prosperity-games-party/
 published: true
 comments: true

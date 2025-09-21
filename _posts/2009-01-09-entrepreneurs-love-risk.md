@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - entreneurship
+  - business
 permalink: /entrepreneurs-love-risk/
 ---
 One of the best quotes I've seen in a while.

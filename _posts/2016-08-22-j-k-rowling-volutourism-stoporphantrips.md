@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - philanthropy
+  - success
 permalink: /j-k-rowling-volutourism-stoporphantrips/
 ---
 ## Volutourism

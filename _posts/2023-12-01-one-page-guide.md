@@ -4,7 +4,7 @@ date: 2023-12-01
 categories:
   - Business & Entrepreneurship
 tags:
-  - marketing
+  - business
   - book-review
 permalink: /one-page-guide-to-non-fiction-books/
 published: true

@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 ## Summary

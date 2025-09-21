@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # **Stay in Your Lane: Why Expertise Matters More Than Opinions**

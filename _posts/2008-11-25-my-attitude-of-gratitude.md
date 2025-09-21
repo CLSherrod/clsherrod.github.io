@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - gratitude
+  - happiness
 permalink: /my-attitude-of-gratitude/
 ---
 I recently received an email reply to why I was blessed last week.  I had sent out an email where I was blessed to have so much going on.  I was in a top 36 selling book on Amazon last week.  So a subscriber emailed me back explaining every major heartbreak in their life.  I emailed her back asking what she was grateful for.

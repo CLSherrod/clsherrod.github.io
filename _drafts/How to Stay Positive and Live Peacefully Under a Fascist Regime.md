@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # **How to Stay Positive and Live Peacefully Under a Fascist Regime**  

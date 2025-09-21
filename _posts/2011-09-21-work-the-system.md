@@ -5,7 +5,7 @@ last_updated: 2024-08-12
 categories:
   - Business & Entrepreneurship
 tags:
-  - entrepreneurship
+  - business
   - systems
   - book-review
 permalink: /work-the-system/

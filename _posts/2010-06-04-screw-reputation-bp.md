@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - branding
+  - business
 permalink: /screw-reputation-bp/
 ---
 BP started ads addressing the 6 week old oil spill today.

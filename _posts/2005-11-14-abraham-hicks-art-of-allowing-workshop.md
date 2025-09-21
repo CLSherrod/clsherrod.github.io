@@ -6,7 +6,7 @@ comments: true
 categories:
   - "Learning & Growth"
 tags:
-  - prosperity
+  - success
 permalink: /abraham-hicks-art-of-allowing-workshop/
 excerpt: My experience at a Abraham-Hicks workshop
 ---

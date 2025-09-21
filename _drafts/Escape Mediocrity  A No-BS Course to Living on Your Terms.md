@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # **Escape Mediocrity: A No-BS Course to Living on Your Terms**

@@ -13,7 +13,7 @@ url: https://christophersherrod.com/toxic-coaching/
 created: 
 last:
 tags:
-  - entrepreneurship
+  - business
   - success
 ---
 ## Summary

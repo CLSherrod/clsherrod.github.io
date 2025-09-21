@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # **Why Smart Entrepreneurs Avoid Arguments and Focus on Progress**  

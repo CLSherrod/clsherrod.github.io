@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # Harnessing Artificial Intelligence: A Creator's New Best Friend

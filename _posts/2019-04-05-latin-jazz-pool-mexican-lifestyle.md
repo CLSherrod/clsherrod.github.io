@@ -5,7 +5,7 @@ published: false
 categories:
   - "Lifestyle  & Travel"
 tags:
-  - mexico
+  - travel
   - travel
   - news
 permalink: /latin-jazz-pool-mexican-lifestyle/

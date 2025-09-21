@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - marketing
+  - business
 permalink: /cruise-ships-upsells/
 ---
 I recently went to a seminar on a cruise ship. It was the first time for me to be on a cruise ship.

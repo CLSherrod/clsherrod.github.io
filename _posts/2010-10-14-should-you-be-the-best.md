@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - branding
+  - business
 permalink: /should-you-be-the-best/
 ---
 There will always someone faster, stronger or better than you. But no one else is you. Be your own brand.

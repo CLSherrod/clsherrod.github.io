@@ -4,7 +4,7 @@ date: 2019-05-15
 last_modified_at: 2024-04-11
 categories:
 - "Success & Prosperity"
-tags: entrepreneurship
+tags: business
 permalink: /skipping-success/
 published: true
 comments: true

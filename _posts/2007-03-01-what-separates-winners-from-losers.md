@@ -7,7 +7,7 @@ last_modified_at: 2024-03-11
 toc: false
 categories:
 - "Success & Prosperity"
-tags: entrepreneurship
+tags: business
 permalink: /what-separates-winners-from-losers/
 published: true
 ---

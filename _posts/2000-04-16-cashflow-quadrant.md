@@ -4,7 +4,7 @@ date: 2000-04-16
 categories:
   - Business & Entrepreneurship
 tags:
-  - prosperity
+  - success
   - book-review
 permalink: /cashflow-quadrant/
 excerpt: My review of Cashflow Quadrant

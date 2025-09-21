@@ -1,10 +1,11 @@
 ---
 layout: single
-title: "Podcast Guest Info – Christopher Sherrod"
+title: Podcast Guest Info – Christopher Sherrod
 permalink: /guest/
 author_profile: false
-toc: false
+toc: true
 classes: wide
+published: false
 ---
 # 🎙️ Guest Info for Podcast Hosts
 
@@ -67,4 +68,4 @@ I love discussing…
 ## 🛠️ Tech Setup
 
 I use a professional mic and camera setup with Zoom.  
-I record in a quiet space with stable Ethernet. Based in Yucatan Mexico, Central Time (CST).
+I record in a quiet space with stable Ethernet. Central Time (CST).

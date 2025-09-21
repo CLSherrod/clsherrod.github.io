@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # **The Harsh Truth About Business Success That Gurus Won’t Tell You**  

@@ -6,7 +6,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - leadership
+  - business
 permalink: /leading-with-heart-and-being-strong/
 ---
 I recently co-hosted a business mastermind here right on the water in San Diego this last weekend. We took all of our experience and made an event that we would want to go to ourselves. I was blessed to experience our attendees and have a fantastic time growing our businesses and our minds and souls.

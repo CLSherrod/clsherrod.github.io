@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - branding
+  - business
 permalink: /create-customer-loyalty/
 ---
 The times of having quicky products, products that are for a lack of a better word "crap" are over. People won't put up with bad products anymore. You're probably thinking people use to? Yeah, I've meet many millionaires that sold horrible products. They realized that the tide changed and started making great products. If you're starting out you don't have a choice, you have to have a great product or service.

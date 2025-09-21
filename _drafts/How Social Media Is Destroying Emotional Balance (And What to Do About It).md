@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 ## **How Social Media Is Destroying Emotional Balance (And What to Do About It)**  

@@ -6,7 +6,7 @@ comments: true
 categories:
   - "Success & Prosperity"
 tags:
-  - prosperity
+  - success
   - sex
 permalink: /more-money-better-sex/
 excerpt: The richer you are the better sex you have.

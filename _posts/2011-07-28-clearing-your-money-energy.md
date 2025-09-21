@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - prosperity
+  - success
 permalink: /clearing-your-money-energy/
 ---
 This week has been summer cleaning for me with money.

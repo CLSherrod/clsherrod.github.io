@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # **Morning Routines Are BS: The Only Way to Get Stuff DONE**  

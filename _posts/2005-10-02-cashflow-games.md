@@ -6,7 +6,7 @@ comments: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - prosperity
+  - success
   - game
 permalink: /cashflow-games/
 excerp: My review of Cashflow Games

@@ -12,7 +12,7 @@ permalink: /projects/
 
 ## Books
 - **[Hiring Virtual Workers For Small Business Book](/hiring)** - I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant.
-- **[How To Create New Business Ideas Based On What You Love Book](/business-ideas)** - Published my book on how to create new ideas based on what you love that came out of me speaking in front of many groups in San Antonio Texas.
+- Editing my next book [Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug/) (Coming Soon)
 
 ## Markdown Projects
 I like using [MarkDown](https://en.wikipedia.org/wiki/Markdown) to record notes and have devloped these projects on what is working for me.

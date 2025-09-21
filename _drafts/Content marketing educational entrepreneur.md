@@ -12,7 +12,7 @@ author:
 created: 
 last:
 tags:
-  - entrepreneurship
+  - business
 ---
 # 7-part email series tailored to becoming a content marketing educational entrepreneur with a focus on MVP (Minimum Viable Product) and bootstrapping
 

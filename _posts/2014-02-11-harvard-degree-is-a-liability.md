@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - marketing
+  - business
 permalink: /harvard-degree-is-a-liability/
 excerpt: Why a Harvard Degree is a liability.
 ---

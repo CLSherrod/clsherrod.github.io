@@ -4,7 +4,7 @@ date: 2019-07-18
 last_modified_at: 2024-03-11
 categories:
 - Business & Entrepreneurship
-tags: entrepreneurship
+tags: business
 permalink: /bad-entrepreneurs/
 published: true
 comments: true

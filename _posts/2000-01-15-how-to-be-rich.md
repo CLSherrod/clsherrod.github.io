@@ -4,7 +4,7 @@ date: 2000-01-15
 categories:
   - Business & Entrepreneurship
 tags:
-  - prosperity
+  - success
   - book-review
 permalink: /how-to-be-rich/
 published: true

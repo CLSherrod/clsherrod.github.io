@@ -30,9 +30,9 @@ Christopher’s biggest influences have been spiritual teachers and two entrepre
 I’ve penned down my business philosophy, dubbed the [Dolphin Entrepreneur](/dolphin-entrepreneur/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
 
 ### Books & Writing  
-Christopher’s books, [How To Create New Business Ideas Based On What You Love](/business-ideas/) and [Hiring Virtual Workers For Small Business](/hiring), provide practical guidance for those seeking to build a business that supports their ideal lifestyle.  
+Christopher’s book, [How To Create New Business Ideas Based On What You Love](/business-ideas/), provide practical guidance for those seeking to build a business that supports their ideal lifestyle.  
 
-He is currently writing [Unplug: The 3-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug/), a book exploring his experience with electronic sensitivity and how to live a balanced, low-tech life in an increasingly digital world.  
+He is currently writing [Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug/), a book exploring his experience with electronic sensitivity and how to live a balanced, low-tech life in an increasingly digital world.  
 
 Beyond books, Christopher shares insights through [blog posts](/blog), [reviews](/categories/#reviews), and [poetry](/categories/#poems)—offering real-world lessons on self-improvement, lifestyle design, and the mindset shifts needed for true success.  
 
@@ -42,7 +42,7 @@ Beyond books, Christopher shares insights through [blog posts](/blog), [reviews]
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 
 #### Main Topics
-[#entreneurship](/tags#entrepreneurship), [#workflow](/tags/#workflow-apps), [#idea generation](/tags/#idea-generation), [#tributes](/tags/#tribute)
+[#business](/tags#entrepreneurship), [#workflow](/tags/#workflow-apps), [#idea generation](/tags/#idea-generation), [#tributes](/tags/#tribute)
 
 #### Current Projects and More
 Curious about what I’m up to these days? Check out my current projects section. And if you want a glimpse into my past endeavors, I’ve got a full list of past projects too.

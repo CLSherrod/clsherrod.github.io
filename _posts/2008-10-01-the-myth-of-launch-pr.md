@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - marketing
+  - business
 permalink: /the-myth-of-launch-pr/
 ---
 Many people in Internet Marketing strive for the big launch.  They setup a ton of bonuses and JV partners.  And promote their book on a particular day to get it to #1 for a category.  It may only be #1 for an hour because that is how often Amazon calculates these things.  Then they can go around and say they have a #1 selling book.  When I first learned of this technique I was a little put off.  Seemed sneaky and almost a lie.  But, it's true they had a #1 best selling novel on Amazon for a category for an hour.  Better than most all of us so nothing to fault them for.

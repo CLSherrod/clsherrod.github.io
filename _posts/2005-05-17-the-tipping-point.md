@@ -4,7 +4,7 @@ date: 2005-05-17
 categories:
 - Business & Entrepreneurship
 tags:
-  - idea-generation
+  - learning
   - book-review
 permalink: /the-tipping-point/
 published: true

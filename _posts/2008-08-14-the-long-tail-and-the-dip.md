@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - marketing
+  - business
   - book-review
 permalink: /the-long-tail-and-the-dip/
 ---

@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - implementing
+  - business
 permalink: /perfection-vs-efficiency/
 excerpt: Excellence comes from balancing efficiency with perfection.
 ---

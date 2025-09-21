@@ -6,7 +6,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - business
-  - marketing
+  - business
 permalink: /biggest-problem-in-business/
 ---
 I get so frustrated when I see entrepreneurs struggling in business. It's almost always because they don't have enough business. And after a short talk it's almost always that they don't have nearly enough qualified leads.

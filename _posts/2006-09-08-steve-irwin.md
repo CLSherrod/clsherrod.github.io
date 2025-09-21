@@ -5,7 +5,7 @@ last_modified_at: 2023-11-02
 categories:
 - "Success & Prosperity"
 tags:
-  - entrepreneurship
+  - business
   - tribute
 permalink: /steve-irvin/
 published: true

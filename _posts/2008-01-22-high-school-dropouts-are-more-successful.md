@@ -4,7 +4,7 @@ date: 2008-01-22
 last_modified_at: 2024-07-03
 categories:
 - "Success & Prosperity"
-tags: entrepreneurship
+tags: business
 toc: true
 permalink: /high-school-dropouts-are-more-successful/
 published: true

@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - marketing
+  - business
 permalink: /market-every-day/
 ---
 I doing marketing every day (except weekends of course).  If you market every day then your stream of business stays fairly constant.  If you get so busy that you can't market for a month then your sales funnel will suffer.  You'll notice that you won't have any business and will be able to market full time and make no money.  Not good.

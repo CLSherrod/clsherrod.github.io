@@ -5,7 +5,7 @@ last_modified_at: 2024-03-11
 categories:
 - Learning & Growth
 tags:
-  - entrepreneurship
+  - business
   - tribute
 permalink: /steve-jobs/
 published: true

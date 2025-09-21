@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - entrepreneurship
+  - business
 permalink: /remax-cofounder/
 ---
 I had the pleasure of seeing David Liniger co-founder of RE/MAX speak recently. That's me and him afterwards.

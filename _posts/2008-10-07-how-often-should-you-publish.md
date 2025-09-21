@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - marketing
+  - business
 permalink: /how-often-should-you-publish/
 ---
 The successful Internet Marketers or businesses have a whole product line.  When they come out with a new product or service they market it like crazy and they get new clients.  Old clients will even get it.  But the real money is the back catalog, the older products.  Don't come out with a new product or service if it isn't good.

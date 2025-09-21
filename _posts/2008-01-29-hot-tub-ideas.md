@@ -6,7 +6,7 @@ comments: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - idea-generation
+  - learning
 permalink: /hot-tub-ideas/
 excerpt: Soaking in a hot tub generates ideas.
 ---

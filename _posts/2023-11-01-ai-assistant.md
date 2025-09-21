@@ -2,7 +2,7 @@
 title: "Harnessing Artificial Intelligence: A Creator's New Best Friend"
 date: 2023-11-01
 date_last_modified: 2024-07-09
-tags: implementing
+tags: business
 permalink: /ai/
 published: true
 comments: true

@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - entrepreneurship
+  - business
 permalink: /growing-forward/
 excerpt: How does a founder retire?
 ---

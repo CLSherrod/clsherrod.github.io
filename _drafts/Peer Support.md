@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # **Why Growing Your Business Is Harder Alone: The Power of Peer Support**  

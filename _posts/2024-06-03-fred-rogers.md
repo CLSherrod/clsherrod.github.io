@@ -4,7 +4,7 @@ date: 2024-06-03
 categories:
   - "Lifestyle & Travel"
 tags:
-  - entrepreneurship
+  - business
   - tribute
 permalink: /fred-rogers/
 published: true

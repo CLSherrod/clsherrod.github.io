@@ -5,7 +5,7 @@ last_modified_at: 2023-11-02
 categories:
 - "Success & Prosperity"
 tags:
-  - idea-generation
+  - learning
   - games
 permalink: /play-prosperity-games-feedback/
 published: true

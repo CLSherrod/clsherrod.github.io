@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # The Art of Stealth Wealth: Embracing Financial Success without Flaunting It

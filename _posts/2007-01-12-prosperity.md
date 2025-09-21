@@ -4,7 +4,7 @@ date: 2007-01-12
 last_modified_at: 2024-03-11
 categories:
 - "Success & Prosperity"
-tags: prosperity
+tags: success
 permalink: /prosperity/
 published: true
 comments: true

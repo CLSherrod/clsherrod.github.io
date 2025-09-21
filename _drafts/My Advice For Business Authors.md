@@ -14,7 +14,7 @@ created: 2024-03-01
 published: 2024-03-01
 last:
 tags:
-  - entrepreneurship
+  - business
   - books
 ---
 ## Summary

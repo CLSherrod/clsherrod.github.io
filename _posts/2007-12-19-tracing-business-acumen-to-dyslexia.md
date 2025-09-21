@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - entrepreneurship
+  - business
 permalink: /tracing-business-acumen-to-dyslexia/
 excerpt: A very interesting study about dyslexia and entrepreneurship.
 ---

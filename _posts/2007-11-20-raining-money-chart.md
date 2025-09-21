@@ -4,7 +4,7 @@ date: 2007-11-20
 categories:
   - "Success & Prosperity"
 tags:
-  - prosperity
+  - success
 permalink: /raining-money-chart/
 exerpt: Using a multiple streams of income chart.
 published: true

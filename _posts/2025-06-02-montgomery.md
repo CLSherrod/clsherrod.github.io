@@ -47,3 +47,7 @@ Thank you for trusting me to help shape your digital presence. Thank you for sho
 Read his book [The Food Prescription for Better Health: A Cardiologists Proven Method to Reverse Heart Disease, Diabetes, Obesity, and Other Chronic Illnesses Naturally!: Montgomery MD, Baxter D.: 9780983128717: Amazon.com: Books](https://amzn.to/4gmoHT5) to understand his philosophy to health. It's excellent.
 
 Rest well, Dr. Montgomery. You were the heart in heart medicine.
+
+---
+
+Read my other tribue to Vangelis [The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy](https://christophersherrod.com/vangelis/)

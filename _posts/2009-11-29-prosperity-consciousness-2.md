@@ -6,7 +6,7 @@ comments: true
 categories:
   - "Success & Prosperity"
 tags:
-  - prosperity
+  - success
 permalink: /prosperity-consciousness-2/
 excerpt: Prosperity is an ongoing state of being.
 ---

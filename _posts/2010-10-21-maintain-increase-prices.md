@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - branding
+  - business
 permalink: /maintain-increase-prices/
 ---
 With a good brand you can charge more for your products and services because you are seen as the best.

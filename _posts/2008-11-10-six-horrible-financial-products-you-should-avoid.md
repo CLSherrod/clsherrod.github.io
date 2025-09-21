@@ -5,7 +5,7 @@ published: true
 categories:
   - Success & Prosperity
 tags:
-  - prosperity
+  - success
 permalink: /six-horrible-financial-products-you-should-avoid/
 ---
 When I read this article I thought it was a joke...a 401K Debit Card.  But they really exist.

@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - marketing
+  - business
 permalink: /lessons-from-motrin/
 ---
 Motrin released an ad on their website on Saturday.  That said this in 20-something voice:</p>

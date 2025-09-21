@@ -118,7 +118,7 @@ Here’s the truth no one likes to say out loud:
 Middle-class kids get one shot. Rich kids get unlimited do-overs. Poor kids? They’re working the carnival.  
 New essay on why entrepreneurship isn’t a level playing field.  
 [ChristopherSherrod.com/carnival-game](https://christophersherrod.com/carnival-game)  
-#EntrepreneurLife
+#business
 
 ---
 
@@ -126,7 +126,7 @@ New essay on why entrepreneurship isn’t a level playing field.
 No fluff. Just the honest truth about risk, privilege, and the myth of the meritocracy in business.  
 I wrote this one from the heart.  
 [ChristopherSherrod.com/carnival-game](https://christophersherrod.com/carnival-game)  
-#BusinessWisdom
+#business
 
 ---
 

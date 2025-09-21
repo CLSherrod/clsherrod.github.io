@@ -4,7 +4,7 @@ date: 2007-11-27
 categories:
   - "Learning & Growth"
 tags:
-  - gratitude
+  - happiness
 permalink: /the-power-of-gratitude/
 published: true
 excerpt: Being more grateful more often makes us happier and more optimistic.

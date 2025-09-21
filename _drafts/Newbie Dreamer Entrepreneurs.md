@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # Navigating the Challenge of Working with Newbie Dreamer Entrepreneurs

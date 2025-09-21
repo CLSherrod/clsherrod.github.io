@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - marketing
+  - business
 permalink: /marketable/
 ---
 I find most people think they have to do more, more action, more speaking, more emails, more of everything in order to become a successful heart conscious entrepreneur.

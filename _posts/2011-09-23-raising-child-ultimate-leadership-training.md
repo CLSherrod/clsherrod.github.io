@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - leadership
+  - business
 permalink: /raising-child-ultimate-leadership-training/
 ---
 Raising a child is the ultimate leadership training.

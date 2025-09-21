@@ -6,7 +6,7 @@ categories:
   - "Success & Prosperity"
 tags:
   - book-review
-  - prosperity
+  - success
   - news
 permalink: /play-prosperity-games-is-on-kindle/
 ---

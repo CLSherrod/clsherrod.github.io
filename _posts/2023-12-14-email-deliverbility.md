@@ -4,7 +4,7 @@ date: 2024-08-18
 categories:
   - Business & Entrepreneurship
 tags:
-  - marketing
+  - business
   - email
   - book-review
 published: true

@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # **You Don’t Need to Know What You’re Doing With Your Life—Just What’s Next**  

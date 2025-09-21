@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - prosperity
+  - success
 permalink: /prosperity-mindset/
 excerpt: Only people with the right mindset will win.
 ---

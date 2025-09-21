@@ -6,7 +6,7 @@ comments: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - entrepreneurship
+  - business
 permalink: /how-to-identify-an-opportunity/
 excerpt: What to consider when looking for opportunities.
 ---

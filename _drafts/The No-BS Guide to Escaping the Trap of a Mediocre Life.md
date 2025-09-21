@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # **The No-BS Guide to Escaping the Trap of a Mediocre Life**  

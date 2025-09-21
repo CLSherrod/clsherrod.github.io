@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 ## Ditch the Grind, Find Your Queen: Why Loving My Wife is My Ultimate Startup Success

@@ -5,7 +5,7 @@ published: true
 categories:
   - Success & Prosperity
 tags:
-  - marketing
+  - business
 permalink: /money-solves-all-problem-yeah-right/
 ---
 Yesterday I was talking to a client about when to get financing.  I started out with when you should not get financing.  Like when you don't have an clients.  I've lost count of the number of people that have gone into huge credit card debt to start a small company and then do zero or one deal.  There are many ways to do business without having to come out with a lot of money.

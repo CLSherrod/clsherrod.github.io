@@ -4,7 +4,7 @@ date: 2018-03-29
 last_modified_at: 2024-06-27
 categories:
 - "Success & Prosperity"
-tags: entrepreneurship
+tags: business
 permalink: /desperate-people/
 published: true
 comments: true

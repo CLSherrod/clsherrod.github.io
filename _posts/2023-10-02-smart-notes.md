@@ -4,7 +4,7 @@ date: 2023-10-02
 last_modified_at: 2025-06-16
 tags:
   - workflow-apps
-  - implementing
+  - business
 categories:
 - "Success & Prosperity"
 permalink: /smart-notes/

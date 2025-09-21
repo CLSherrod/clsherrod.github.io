@@ -13,7 +13,7 @@ url:
 created: 2024-07-19
 last:
 tags:
-  - website
+  - business
 ---
 Having your own website offers numerous benefits, making it a valuable asset for anyone. Here are just a few reasons why you should consider creating one:
 

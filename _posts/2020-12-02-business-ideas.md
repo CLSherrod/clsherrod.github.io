@@ -5,7 +5,7 @@ last_modified_at: 2023-10-03
 categories:
 - Business & Entrepreneurship
 tags:
-  - idea-generation
+  - learning
   - games
   - book-review
   - news

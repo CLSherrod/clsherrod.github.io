@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 ## **Stop Trying to Win Everything: Focus on What Truly Matters**  

@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - prosperity
+  - success
 permalink: /attracting-robberies/
 ---
 Joe Vitale just wrote about getting robbed just before leaving Hollywood.  And my partner Nan was robbed this last summer in Austin.  I see Joe's philosophy on it.  Both Nan and Joe attracted it.  They both love being generous and wanting new things.  For my Nan she was running out of space on her iPod and boom it was stolen and she ordered the just released bigger iPod a couple of days later.  Sure it was tramatic.  She was upset.  Just like I believe Joe was.

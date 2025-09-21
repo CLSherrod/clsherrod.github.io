@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - marketing
+  - business
 permalink: /internet-marketing-professional-wrestling/
 ---
 Internet Marketers remind me of Professional Wrestlers.

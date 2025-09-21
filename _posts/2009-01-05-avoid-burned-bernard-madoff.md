@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - prosperity
+  - success
 permalink: /avoid-burned-bernard-madoff/
 ---
 Here are some basic checks to avoid getting into a ponzi scheme.

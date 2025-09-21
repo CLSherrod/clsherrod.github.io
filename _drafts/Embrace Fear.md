@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 ## Embrace Failure: The Key to Learning, Growing, and Truly Living

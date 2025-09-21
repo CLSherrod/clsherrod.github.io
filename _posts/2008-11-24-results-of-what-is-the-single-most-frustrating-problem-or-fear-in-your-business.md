@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - marketing
+  - business
 permalink: /results-of-what-is-the-single-most-frustrating-problem-or-fear-in-your-business/
 ---
 Here are the results of my survey "What is the single most frustrating problem or fear in your business?

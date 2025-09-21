@@ -12,17 +12,6 @@ header:
 # SEO overrides
 og_image: /assets/images/books-header.webp
 ---
-## Hiring Virtual Workers For Small Business
-
-[![Hiring Virtual Workers For Small Business](/assets/images/books/Hiring-Virtual-Workers.webp){: .align-right style="width:320px;" }](https://amzn.to/2FvAxx9){:target="_blank" rel="noopener noreferrer" title="Hiring Virtual Workers For Small Business"}
-
-I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant. 
-
-I will walk you through my step-by-step process to finding a virtual worker that fits you. I believe your first helper is a virtual assistant followed by an accountant soon afterward. These two hires will impact your business directly and quickly and will pay for themselves very quickly.
-
-
-[Get Hiring Virtual Workers For Small Business Book on Amazon Kindle](https://amzn.to/2FvAxx9){: .btn .btn--primary .btn--large}{: .align-center}
-
 ## How To Create New Business Ideas Based On What You Love
 
 [![How To Create New Business Ideas Based On What You Love Book](/assets/images/books/How-To-Create-New-Business-Ideas.webp){: .align-right style="width:320px;" }](https://amzn.to/3oZlRrW){:target="_blank" rel="noopener noreferrer" title="How To Create New Business Ideas Based On What You Love Book"}

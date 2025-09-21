@@ -13,7 +13,7 @@ url: https://christophersherrod.com/radical-acceptance/
 created: 2025-04-14
 last:
 tags:
-  - entrepreneurship
+  - business
   - acceptance
 ---
 ## Title

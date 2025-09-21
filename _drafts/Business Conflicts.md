@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # Navigating the Complex Waters of Business Conflicts: Gleaning Wisdom from Unconventional Mentors

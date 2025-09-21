@@ -114,9 +114,7 @@ header:
     I am the author of two books on
     <a href="/business-ideas/"
       >How To Create New Business Ideas Based On What You Love</a
-    >
-    and on <a href="/hiring/">Hiring Virtual Workers For Small Business</a>,
-    plus numerous <a href="/categories/#essays">essays</a>,
+    >, plus numerous <a href="/categories/#essays">essays</a>,
     <a href="/categories/#reviews">reviews</a>, and
     <a href="/categories/#poems">poems</a>. I am also a
     <a href="/whodefinesyou/">web agency</a> owner, artist and musician

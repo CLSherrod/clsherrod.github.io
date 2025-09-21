@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - marketing
+  - business
 permalink: /love-internet-marketers/
 ---
 I absolutely love Internet Marketers.

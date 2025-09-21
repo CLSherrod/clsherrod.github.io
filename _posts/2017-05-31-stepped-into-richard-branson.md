@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - entrepreneurship
+  - business
   - richard-branson
 permalink: /stepped-into-richard-branson/
 ---

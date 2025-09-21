@@ -40,14 +40,14 @@ Read more: [https://christophersherrod.com/finding-balance/](https://christophe
 **2.**  
 All hustle and no rest? That’s a fast track to burnout. No hustle at all? That’s just dreaming. Balance is where the real growth lives.  
 Article: [https://christophersherrod.com/finding-balance/](https://christophersherrod.com/finding-balance/)  
-#EntrepreneurLife
+#business
 
 ---
 
 **3.**  
 You don’t need to bet the farm or play it too safe. Smart entrepreneurship lives in the middle—consistent, grounded, real.  
 More here: [https://christophersherrod.com/finding-balance/](https://christophersherrod.com/finding-balance/)  
-#BusinessWisdom
+#business
 
 ---
 

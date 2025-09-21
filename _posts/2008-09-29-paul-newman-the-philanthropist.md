@@ -5,7 +5,7 @@ published: true
 categories:
   - Success & Prosperity
 tags:
-  - philanthropy
+  - success
   - tribute
 permalink: /paul-newman-the-philanthropist/
 ---

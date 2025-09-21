@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # **The Life Cycle of a Business Model: How to Spot the Right Opportunities**  

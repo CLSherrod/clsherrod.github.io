@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - partnership
+  - business
 permalink: /ideal-target-market/
 ---
 Yesterday was a day of contrast for me. I when to an art opening lecture with my girlfriend. It was full of artistic people listening to two people about architecture and art, how they are different and what makes a great building.

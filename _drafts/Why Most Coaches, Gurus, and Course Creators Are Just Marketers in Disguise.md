@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 # **Why Most Coaches, Gurus, and Course Creators Are Just Marketers in Disguise**  

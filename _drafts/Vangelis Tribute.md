@@ -14,7 +14,7 @@ created: 2025-05-19
 published:
 last:
 tags:
-  - entrepreneurship
+  - business
   - coaching
 ---
 

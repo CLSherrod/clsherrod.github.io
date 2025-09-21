@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - marketing
+  - business
 ---
 # Navigating Marketing Advice: What Really Matters
 

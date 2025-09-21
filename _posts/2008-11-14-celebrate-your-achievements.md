@@ -6,7 +6,7 @@ categories:
   - Learning & Growth
 tags:
   - abundance
-  - gratitude
+  - happiness
 permalink: /celebrate-your-achievements/
 ---
 I'm about to leave for an extended weekend out of town.  I'm taking Richard Branson's advice in his new book "Business Stripped Bare" and I'm throwing a party.  Yup, Saturday night my girlfriend Nan and I are throwing a party.  I invited all my friends and web clients around the world to come.

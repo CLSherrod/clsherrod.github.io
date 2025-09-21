@@ -4,7 +4,7 @@ date: 2024-01-19
 categories:
 - Business & Entrepreneurship
 tags:
-  - entrepreneurship
+  - business
   - tribute
 permalink: /charles-feeney/
 published: true
