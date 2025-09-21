@@ -4,7 +4,7 @@ description: The Happy Isles of Oceania by Paul Theroux – A Fascinating Journe
 date: 2025-04-19
 preview: The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific
 categories:
-  - "Lifestyle & Travel"
+  - Lifestyle & Travel
 tags:
   - travel
 permalink: /happy-isles-of-oceania/
