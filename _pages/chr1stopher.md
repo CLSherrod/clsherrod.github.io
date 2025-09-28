@@ -19,9 +19,9 @@ og_image: /assets/images/home-header2.webp
 ---
 I create as Chr1stopher--a name transformed, like light refracted through a prism. The "1" is not a number, but a symbol: the One, the source, the still point where all patterns begin.
 
-My art is born from the geometry of spirit, the quiet pulse of the cosmos woven into lines, colors, and illusions. Each piece is a meditation--a door you can step through, if only for a moment, into the hidden harmony beneath the noise of the world.
+[![Chr1stopher](https://chr1stopher.com/assets/images/art1.webp){: .align-right style="width:400px;" }](https://chr1stopher.com){:target="_blank" rel="noopener noreferrer" title="Chr1stopher"}
 
-[![Chr1stopher](https://chr1stopher.com/assets/images/art1.webp){: .align-right style="width:320px;" }](https://chr1stopher.com){:target="_blank" rel="noopener noreferrer" title="Chr1stopher"}
+My art is born from the geometry of spirit, the quiet pulse of the cosmos woven into lines, colors, and illusions. Each piece is a meditation--a door you can step through, if only for a moment, into the hidden harmony beneath the noise of the world.
 
 This is not art to decorate a wall. It is art to open a space--for contemplation, for awe, for remembering who you are beneath the distractions.
 
