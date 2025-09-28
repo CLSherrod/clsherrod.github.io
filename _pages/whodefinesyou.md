@@ -4,8 +4,6 @@ classes: wide
 title: Who Defines You – A Referral-Only Web Agency
 permalink: /whodefinesyou/
 ---
-# Who Defines You – A Referral-Only Web Agency
-
 We’ve been building on the web since the early days—always with a focus on creative solutions, practical systems, and long-term results. Our work has evolved alongside the internet itself:
 
 * **1999** – HTML & PHPNuke web development
