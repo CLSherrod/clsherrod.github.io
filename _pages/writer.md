@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Shut Up and Write - My Experience With Other Writers
+title: Christopher Sherrod – Essays, Articles, and Author of How to Create New Business Ideas Based on What You Love
 permalink: /writer/
 toc: true
 teaser: /assets/images/books-header.webp
