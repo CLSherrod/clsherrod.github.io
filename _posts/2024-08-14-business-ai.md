@@ -5,7 +5,6 @@ categories:
   - Business & Entrepreneurship
 tags:
   - business
-  - artificial-intelligence
 permalink: /business-ai
 published: true
 excerpt: A Practical Guide to Generative AI for Non-Tech Business Leaders

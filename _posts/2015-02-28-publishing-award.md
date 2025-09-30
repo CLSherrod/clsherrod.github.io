@@ -4,7 +4,6 @@ date: 2015-02-28
 categories:
   - Business & Entrepreneurship
 tags:
-  - award
   - news
 permalink: /publishing-award/
 published: true

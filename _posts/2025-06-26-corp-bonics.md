@@ -7,7 +7,6 @@ toc: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - corporations
   - reviews
 permalink: /corp-bonics/
 published: true
