@@ -5,7 +5,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - success
-  - reviews
+  - review
 permalink: /the-meaning-of-money-zig-ziglar/
 published: true
 comments: true

@@ -7,7 +7,7 @@ categories:
   - "Learning & Growth"
 tags:
   - fulfilling-life
-  - reviews
+  - review
 permalink: /happy-for-no-reason-7-steps-to-being-happy-from-the-inside-out/
 ---
 Marci Shimoff from the movie "The Secret" just released a new book.

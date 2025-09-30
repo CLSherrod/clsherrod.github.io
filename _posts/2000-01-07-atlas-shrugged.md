@@ -5,7 +5,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - fulfilling-life
-  - reviews
+  - review
 permalink: /atlas-shrugged/
 published: true
 comments: true

@@ -5,7 +5,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - business
-  - reviews
+  - review
 permalink: /one-page-guide-to-non-fiction-books/
 published: true
 excerpt: This book is a powerful and innovative guide that reveals how short nonfiction books can be both impactful and accessible for aspiring authors, demonstrating the value of brevity in publishing.

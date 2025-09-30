@@ -4,7 +4,7 @@ date: 2024-09-02
 categories:
   - Learning & Growth
 tags:
-  - reviews
+  - review
 permalink: /nobody-wants-to-read-you/
 published: true
 excerpt:

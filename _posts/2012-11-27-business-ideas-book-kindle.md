@@ -7,7 +7,7 @@ categories:
 tags:
   - fulfilling-life
   - business
-  - reviews
+  - review
   - news
 permalink: /play-prosperity-games-kindle/
 ---

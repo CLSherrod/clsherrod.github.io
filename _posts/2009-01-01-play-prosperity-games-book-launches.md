@@ -4,7 +4,7 @@ date: 2009-01-01
 categories:
   - "Success & Prosperity"
 tags:
-  - reviews
+  - review
   - news
 permalink: /play-prosperity-games-book-launches/
 published: true

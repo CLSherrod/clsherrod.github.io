@@ -6,7 +6,7 @@ categories:
   - "Success & Prosperity"
 tags:
   - business
-  - reviews
+  - review
 permalink: /the-long-tail-and-the-dip/
 ---
 I loved Seth's book on the Dip. Here Seth explains the Long Tail and the Dip together. Excellent.

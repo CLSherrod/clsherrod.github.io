@@ -5,7 +5,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - success
-  - reviews
+  - review
 permalink: /how-to-be-rich/
 published: true
 comments: true

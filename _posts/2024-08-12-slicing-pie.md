@@ -6,7 +6,7 @@ categories:
 tags:
   - business
   - business
-  - reviews
+  - review
 permalink: /slicing-pie/
 toc: true
 published: true

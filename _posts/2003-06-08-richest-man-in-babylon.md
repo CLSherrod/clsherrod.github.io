@@ -5,7 +5,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - success
-  - reviews
+  - review
 permalink: /richest-man-in-babylon/
 published: true
 comments: true

@@ -7,7 +7,7 @@ categories:
   - "Learning & Growth"
 tags:
   - business
-  - reviews
+  - review
 permalink: /mastermind-yourself-one-step-at-a-time/
 excerpt: My review of Meet and Grow Rich
 ---

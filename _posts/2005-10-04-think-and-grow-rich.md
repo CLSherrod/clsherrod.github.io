@@ -7,7 +7,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - business
-  - reviews
+  - review
 permalink: /think-and-grow-rich/
 excerpt: My review of Think and Grow Rich
 ---

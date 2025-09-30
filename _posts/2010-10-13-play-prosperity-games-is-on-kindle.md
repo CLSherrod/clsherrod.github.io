@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - reviews
+  - review
   - success
   - news
 permalink: /play-prosperity-games-is-on-kindle/

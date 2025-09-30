@@ -4,7 +4,7 @@ date: 2024-04-22
 categories:
   - Learning & Growth
 tags:
-  - reviews
+  - review
 permalink: /reboot-your-bliss/
 published: true
 ---

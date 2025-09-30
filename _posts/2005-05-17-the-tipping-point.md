@@ -5,7 +5,7 @@ categories:
 - Business & Entrepreneurship
 tags:
   - fulfilling-life
-  - reviews
+  - review
 permalink: /the-tipping-point/
 published: true
 comments: true

@@ -6,7 +6,7 @@ categories:
 tags:
   - business
   - business
-  - reviews
+  - review
 published: true
 permalink: /email-deliverability/
 ---

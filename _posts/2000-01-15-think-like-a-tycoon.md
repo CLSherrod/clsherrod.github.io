@@ -7,7 +7,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - business
-  - reviews
+  - review
 permalink: /think-like-a-tycoon/
 excerpt: His story of his success is inspiring.
 ---

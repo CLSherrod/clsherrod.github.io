@@ -6,7 +6,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - business
-  - reviews
+  - review
   - news
 permalink: /hiring-virtual-workers/
 comments: true

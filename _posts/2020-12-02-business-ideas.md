@@ -7,7 +7,7 @@ categories:
 tags:
   - fulfilling-life
   - business
-  - reviews
+  - review
   - news
 permalink: /how-to-create-new-business-ideas-updated/
 excerpt: My book has a new revision out.

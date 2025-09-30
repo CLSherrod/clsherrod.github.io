@@ -5,7 +5,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - success
-  - reviews
+  - review
 permalink: /cashflow-quadrant/
 excerpt: My review of Cashflow Quadrant
 ---

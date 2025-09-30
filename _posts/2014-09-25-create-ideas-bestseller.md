@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - reviews
+  - review
 permalink: /create-ideas-bestseller/
 ---
 Yesterday was a great day.

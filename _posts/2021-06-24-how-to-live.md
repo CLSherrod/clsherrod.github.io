@@ -5,7 +5,7 @@ categories:
   - "Success & Prosperity"
 tags:
   - fulfilling-life
-  - reviews
+  - review
 toc: true
 published: true
 permalink: /how-to-live/

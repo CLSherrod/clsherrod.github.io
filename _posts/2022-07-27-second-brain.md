@@ -4,7 +4,7 @@ date: 2022-07-27
 categories:
   - "Success & Prosperity"
 tags:
-  - reviews
+  - review
 permalink: /second-brain
 published: true
 comments: true
