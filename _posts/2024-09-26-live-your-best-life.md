@@ -4,7 +4,7 @@ date: 2024-09-26
 categories:
   - Poems
 tags:
-  - lyric-poem
+  - poem
 permalink: /live-your-best-life/
 published: true
 ---

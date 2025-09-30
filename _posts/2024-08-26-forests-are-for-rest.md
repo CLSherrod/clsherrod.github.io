@@ -5,7 +5,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 permalink: /forests-are-for-rest/
 published: true
 excerpt: Poem about forests and rest

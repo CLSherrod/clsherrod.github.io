@@ -5,7 +5,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 permalink: /crytal-lady/
 published: true
 excerpt: Poem about my love and her love of crystals.

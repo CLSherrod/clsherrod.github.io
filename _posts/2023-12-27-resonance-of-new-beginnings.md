@@ -6,7 +6,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 permalink: /resonance-of-new-beginnings/
 excerpt: A Slam Poem for Family and Friends in the Year Ahead.
 ---

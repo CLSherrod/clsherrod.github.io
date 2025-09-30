@@ -5,7 +5,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 permalink: /insomniac-solitude/
 published: true
 comments: true

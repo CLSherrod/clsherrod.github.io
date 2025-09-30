@@ -6,7 +6,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 permalink: /applause-of-tomorrow/
 excerpt: Poem about my future self looking back at me now.
 ---

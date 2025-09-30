@@ -6,7 +6,7 @@ preview: One quiet dawn, without a sound...
 categories:
   - Poems
 tags:
-  - lyric-poem
+  - poem
 permalink: /peace-broke-out-everywhere/
 published: true
 ---

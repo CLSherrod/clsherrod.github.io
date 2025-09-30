@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - lyric-poem
+  - poem
 permalink: /sunrise-beach-walks/
 excerpt: Poem about sunrise beach walks with my love
 ---

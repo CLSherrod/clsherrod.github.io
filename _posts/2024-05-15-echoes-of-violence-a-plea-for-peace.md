@@ -6,7 +6,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 teaser: /assets/images/poems/echoes-of-violence.webp
 header:
   image: /assets/images/poems/echoes-of-violence.webp

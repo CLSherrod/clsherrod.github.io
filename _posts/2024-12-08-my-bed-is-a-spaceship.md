@@ -4,7 +4,7 @@ date: 2024-12-08
 categories:
   - Poems
 tags:
-  - lyric-poem
+  - poem
 permalink: /my-bed-is-a-spaceship/
 published: true
 excerpt: Remembering when I was confined to bed.

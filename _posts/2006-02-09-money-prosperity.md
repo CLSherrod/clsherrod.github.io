@@ -4,7 +4,7 @@ date: 2006-02-09
 last_modified_at: 2024-03-11
 categories:
 - Business & Entrepreneurship
-tags: prosperity
+tags: business
 published: true
 status: publish
 permalink: /money-prosperity/

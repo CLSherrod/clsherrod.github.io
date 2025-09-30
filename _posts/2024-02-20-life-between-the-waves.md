@@ -6,7 +6,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 teaser: /assets/images/poems/life-between-the-waves.webp
 header:
   image: /assets/images/poems/life-between-the-waves.webp

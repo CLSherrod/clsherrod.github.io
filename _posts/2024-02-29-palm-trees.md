@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - haiku-poem
+  - poem
 teaser: /assets/images/poems/palm-trees.webp
 header:
   image: /assets/images/poems/palm-trees.webp

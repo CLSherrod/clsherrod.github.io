@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - lyric-poem
+  - poem
   - fulfilling-life
 teaser: /assets/images/poems/moments-unwrapped.webp
 header:

@@ -6,7 +6,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 permalink: /silencing-interruptions/
 excerpt: Poem about silencing interruptions while being creative.
 ---

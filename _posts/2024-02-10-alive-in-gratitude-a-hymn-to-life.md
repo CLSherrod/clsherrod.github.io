@@ -6,7 +6,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 permalink: /alive-in-gratitude/
 excerpt: Poem about being gratiful for life.
 ---

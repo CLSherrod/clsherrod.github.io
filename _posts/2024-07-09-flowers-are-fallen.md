@@ -5,7 +5,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 permalink: /flowers-are-fallen/
 published: true
 excerpt: Poem about flowers are flowers because they have fallen.

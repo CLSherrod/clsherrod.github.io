@@ -6,11 +6,11 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 permalink: /loves-embrace/
 excerpt: A love poem about my love.
 ---
-I found myself inspired to pen a testament to love this afternoon. This poem is not just an utterance of affection but a celebration of the journey shared with a soulmate. In a world often shadowed by uncertainties, I wanted to immortalize the unwavering love that Nan and I embody. Love isn't merely measured against the backdrop of challenges but is an indomitable force that eclipses them all. As I share this poetic proclamation, it is my hope that the essence of enduring love resonates with hearts that believe in the magic of being a team, just like us. Love, after all, is the sweetest melody in life's grand symphony. 🌟❤️ #lyric-poem #business
+I found myself inspired to pen a testament to love this afternoon. This poem is not just an utterance of affection but a celebration of the journey shared with a soulmate. In a world often shadowed by uncertainties, I wanted to immortalize the unwavering love that Nan and I embody. Love isn't merely measured against the backdrop of challenges but is an indomitable force that eclipses them all. As I share this poetic proclamation, it is my hope that the essence of enduring love resonates with hearts that believe in the magic of being a team, just like us. Love, after all, is the sweetest melody in life's grand symphony. 🌟❤️ #poem #business
 
 ## In Love's Embrace
 

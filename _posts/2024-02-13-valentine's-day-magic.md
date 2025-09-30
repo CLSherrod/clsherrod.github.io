@@ -6,7 +6,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 teaser: /assets/images/poems/valentines-day-magic.webp
 header:
   image: /assets/images/poems/valentines-day-magic.webp

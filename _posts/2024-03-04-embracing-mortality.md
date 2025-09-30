@@ -6,7 +6,7 @@ categories:
   - Poems
 tags:
   - fulfilling-life
-  - lyric-poem
+  - poem
 permalink: /embracing-mortality/
 excerpt: Poem about not fearing death.
 ---
