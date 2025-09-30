@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - wealth
+  - business
 permalink: /wise-money/
 ---
 A Wise One Will Never Step Over Dollars to Pick Up Pennies.

@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- abundance
+- fulfilling-life
 - travel
 permalink: "/move-to-san-diego/"
 ---

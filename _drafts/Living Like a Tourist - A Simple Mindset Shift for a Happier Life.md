@@ -12,7 +12,7 @@ published:
 created: 2025-03-25
 last: 
 tags:
-  - writing
+  - business
 ---
 # Living Like a Tourist - A Simple Mindset Shift for a Happier Life
 

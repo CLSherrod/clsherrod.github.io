@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Real Luxury: What Money Can’t Buy**  
 

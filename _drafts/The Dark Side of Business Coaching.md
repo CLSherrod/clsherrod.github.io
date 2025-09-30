@@ -14,7 +14,7 @@ created: 2025-03-31
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 ## The Hidden Dangers of Business Coaching: Avoiding Entrapping and Toxic Mentorship
 

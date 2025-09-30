@@ -4,7 +4,7 @@ date: 2007-11-29
 categories:
   - "Learning & Growth"
 tags:
-  - self-love
+  - fulfilling-life
 permalink: /avoiding-negative-talk/
 published: true
 excerpt: Have you ever noticed that successful people are positive and unsuccessful people are negative.

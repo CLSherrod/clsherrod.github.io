@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 ## **Forget Perfection—Consistency Is What Really Matters**  
 

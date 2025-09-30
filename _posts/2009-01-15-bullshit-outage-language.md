@@ -3,9 +3,9 @@ title: The bullshit of outage language
 date: 2009-01-15
 published: true
 categories:
-  - "Learning & Growth"
+  - Learning & Growth
 tags:
-  - language
+  - business
 permalink: /bullshit-outage-language/
 ---
 Don't you hate it when people bullshit you.  "We are having an availability issue".  Bullshit you are offline.  Better answer is to say you are wrong.

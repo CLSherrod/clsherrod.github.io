@@ -4,7 +4,7 @@ date: 2005-05-17
 categories:
 - Business & Entrepreneurship
 tags:
-  - learning
+  - fulfilling-life
   - reviews
 permalink: /the-tipping-point/
 published: true

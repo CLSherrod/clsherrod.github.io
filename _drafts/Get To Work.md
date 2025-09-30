@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Morning Routines Are BS: The Only Way to Get Stuff DONE**  
 

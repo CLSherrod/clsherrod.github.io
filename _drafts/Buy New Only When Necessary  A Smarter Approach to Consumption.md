@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Buy New Only When Necessary: A Smarter Approach to Consumption**  
 

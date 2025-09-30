@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - Retirement
+  - business
   - business
 permalink: /retire-simple-system-works/
 ---

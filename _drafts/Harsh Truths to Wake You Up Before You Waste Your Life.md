@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Harsh Truths to Wake You Up Before You Waste Your Life**  
 

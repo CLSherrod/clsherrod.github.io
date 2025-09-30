@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - abundance
+  - fulfilling-life
 permalink: /christian-bale-is-a-corporate-hero/
 ---
 An interesting point of view on the Christian Bale rant.

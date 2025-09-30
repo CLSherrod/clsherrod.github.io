@@ -3,9 +3,10 @@ title: Play Prosperity Games Launches Today
 date: 2010-01-01 05:00:40.000000000 -06:00
 published: true
 categories:
-- Essays
+  - Essays
 tags:
-- books
+  - business
+  - news
 permalink: /play-prosperity-games-launches-today/
 excerpt: My book has been updated again.
 ---

@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # The Modern Conservative and the Search for Justifying Self-Interest
 

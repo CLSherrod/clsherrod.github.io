@@ -9,11 +9,10 @@ status:
   - "[[Open]]"
 author:
   - "[[Christopher Sherrod]]"
-url: 
+url:
 created:
 last:
 tags:
-  - opinion
 ---
 # Normalize Not Having an Opinion on Things You Are Not Properly Informed On
 

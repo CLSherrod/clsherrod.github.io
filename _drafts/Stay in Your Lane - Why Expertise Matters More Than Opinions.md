@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Stay in Your Lane: Why Expertise Matters More Than Opinions**
 

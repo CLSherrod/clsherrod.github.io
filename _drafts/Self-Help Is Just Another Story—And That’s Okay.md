@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Self-Help Is Just Another Story—And That’s Okay**  
 

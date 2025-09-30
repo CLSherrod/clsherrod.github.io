@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - abundance
+  - fulfilling-life
 permalink: /what-constitutes-abundance/
 ---
 Not what we have but what we enjoy, constitutes our abundance. - John Petit-Senn<

@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - self-worth
+  - fulfilling-life
   - lyric-poem
 teaser: /assets/images/poems/to-be.webp
 header:

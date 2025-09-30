@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # Navigating the Complex Waters of Business Conflicts: Gleaning Wisdom from Unconventional Mentors
 

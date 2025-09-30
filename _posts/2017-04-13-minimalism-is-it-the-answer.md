@@ -5,7 +5,7 @@ published: true
 categories:
   - "Lifestyle  & Travel"
 tags:
-  - mindset
+  - fulfilling-life
 permalink: /minimalism-is-it-the-answer/
 ---
 I watched the documentary [Minimalism on Netflix](https://www.netflix.com/title/80114460) and was struck that I essentially did that by going on around the world trip slowly that began in October 2016.

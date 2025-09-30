@@ -5,8 +5,8 @@ last_modified_at: 2023-10-03
 categories:
 - Business & Entrepreneurship
 tags:
-  - learning
-  - games
+  - fulfilling-life
+  - business
   - reviews
   - news
 permalink: /play-prosperity-games-kindle/

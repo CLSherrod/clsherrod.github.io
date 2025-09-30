@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - life-hack
+  - fulfilling-life
 permalink: /77-ways-to-learn-faster-deeper-and-better/
 ---
 I've become interested in life hacking my brain lately.  Here is a 74 techniques I found interesting.

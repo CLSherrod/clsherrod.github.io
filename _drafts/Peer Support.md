@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Why Growing Your Business Is Harder Alone: The Power of Peer Support**  
 

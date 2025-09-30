@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Why Most Entrepreneurs Fail Quietly: They Don’t Focus on What Matters**  
 

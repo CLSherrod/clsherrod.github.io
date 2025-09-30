@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - abundance
+  - fulfilling-life
 permalink: /does-money-make-you-happy/
 ---
 People that don't have money think that more money will bring them happiness.

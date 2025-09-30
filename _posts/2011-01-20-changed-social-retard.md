@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - networking
+  - business
 permalink: /changed-social-retard/
 ---
 I had a former neighbor tell me recently that she really looked up to me.

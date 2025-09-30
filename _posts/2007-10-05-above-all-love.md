@@ -4,7 +4,7 @@ date: 2007-10-05
 categories:
   - "Learning & Growth"
 tags:
-  - self-love
+  - fulfilling-life
 permalink: /above-all-love/
 excerpt: Do your business in the name of love.
 published: true

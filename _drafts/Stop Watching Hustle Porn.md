@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Stop Watching Hustle Porn—It’s Making You Miserable**  
 

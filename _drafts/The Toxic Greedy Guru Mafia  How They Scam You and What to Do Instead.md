@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **The Toxic Greedy Guru Mafia: How They Scam You and What to Do Instead**  
 

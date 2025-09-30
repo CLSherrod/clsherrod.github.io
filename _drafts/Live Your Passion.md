@@ -9,11 +9,10 @@ status:
   - "[[Open]]"
 author:
   - "[[Christopher Sherrod]]"
-url: 
-created: 
+url:
+created:
 last:
 tags:
-  - passion
 ---
 Nothing comes from outside, everything comes from inside. Desire comes from inside. Headache comes from inside.
 

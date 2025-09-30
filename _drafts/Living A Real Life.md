@@ -12,7 +12,7 @@ published:
 created: 2025-03-30
 last: 
 tags:
-  - writing
+  - business
 ---
 ## Summary
 Living A Real Life

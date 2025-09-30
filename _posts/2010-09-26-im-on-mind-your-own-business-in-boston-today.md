@@ -6,8 +6,8 @@ date: 2010-09-26
 categories:
 - "Success & Prosperity"
 tags:
-  - interview
-  - games
+  - news
+  - business
 permalink: /im-on-mind-your-own-business-in-boston-today/
 published: true
 ---

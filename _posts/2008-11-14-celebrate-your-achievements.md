@@ -5,7 +5,7 @@ published: true
 categories:
   - Learning & Growth
 tags:
-  - abundance
+  - fulfilling-life
   - fulfilling-life
 permalink: /celebrate-your-achievements/
 ---

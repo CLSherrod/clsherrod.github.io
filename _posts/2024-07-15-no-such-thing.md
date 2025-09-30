@@ -4,7 +4,7 @@ date: 2024-07-15
 categories:
   - Poems
 tags:
-  - self-worth
+  - fulfilling-life
   - lyric-poem
 permalink: /no-such-thing/
 published: true

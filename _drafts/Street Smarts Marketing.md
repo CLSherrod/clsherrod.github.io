@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # Street Smart Marketing: Real-World Feedback as the Ultimate Reality Check
 

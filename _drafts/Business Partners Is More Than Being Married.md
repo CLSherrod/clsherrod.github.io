@@ -14,6 +14,6 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 ## Summary

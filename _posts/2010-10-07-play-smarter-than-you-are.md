@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - self-worth
+  - fulfilling-life
 permalink: /play-smarter-than-you-are/
 ---
 People like your point of view. The people that don't can move on. You can't please everyone.

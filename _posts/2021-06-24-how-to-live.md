@@ -4,7 +4,7 @@ date: 2021-06-24
 categories:
   - "Success & Prosperity"
 tags:
-  - self-worth
+  - fulfilling-life
   - reviews
 toc: true
 published: true

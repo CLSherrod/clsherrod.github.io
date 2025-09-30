@@ -5,7 +5,7 @@ date_last_modified: 2024-07-09
 categories:
 - Learning & Growth
 tags:
-  - systems
+  - business
 permalink: /daily-reflection/
 published: true
 comments: true

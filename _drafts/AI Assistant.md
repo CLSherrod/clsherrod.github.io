@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # Harnessing Artificial Intelligence: A Creator's New Best Friend
 

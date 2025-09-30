@@ -12,7 +12,7 @@ published:
 created: 2025-04-12
 last: 
 tags:
-  - writing
+  - business
 ---
 ## Summary
 
@@ -134,7 +134,7 @@ I wrote this one from the heart.
 The startup world loves the idea of “hard work.” But let’s be honest—access matters more.  
 Here’s how I learned that the hard way:  
 [ChristopherSherrod.com/carnival-game](https://christophersherrod.com/carnival-game)  
-#RealTalk
+#business
 
 ---
 

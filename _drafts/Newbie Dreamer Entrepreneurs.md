@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # Navigating the Challenge of Working with Newbie Dreamer Entrepreneurs
 

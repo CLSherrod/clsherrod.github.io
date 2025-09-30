@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **The Truth About Selling to Dreamers (And Why I’d Rather Just Do Business)**  
 

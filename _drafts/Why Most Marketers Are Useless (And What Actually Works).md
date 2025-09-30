@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Why Most Marketers Are Useless (And What Actually Works)**  
 

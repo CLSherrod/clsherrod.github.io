@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # The Art of Stealth Wealth: Embracing Financial Success without Flaunting It
 

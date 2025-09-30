@@ -6,7 +6,7 @@ comments: true
 categories:
   - "Learning & Growth"
 tags:
-  - security
+  - business
   - business
 permalink: /your-own-vpn/
 excerpt: Own your own VPN for super privacy

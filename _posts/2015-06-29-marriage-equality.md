@@ -10,7 +10,7 @@ permalink: /marriage-equality/
 ---
 he last three days have been some of the most emotional days in my life.
 
-When the Supreme Court of the USA came out with the biggest human rights decision in my lifetime I was floored. I knew a big case on marriage equality was in front of the Supreme Court but the timing and finality of the decision blew me away. I mean the day before #pride weekend. Thank you Supreme Court for sending a clear message.
+When the Supreme Court of the USA came out with the biggest human rights decision in my lifetime I was floored. I knew a big case on marriage equality was in front of the Supreme Court but the timing and finality of the decision blew me away. I mean the day before #fulfilling-life weekend. Thank you Supreme Court for sending a clear message.
 
 Maybe I should start off saying why this is moving for me. My kids are part of the LGBT community. They are grown adults and are private and so I don’t talk about them publicly as it makes visits awkward. Plus I do respect their privacy. So I’m invested in marriage equality even though I’m not part of the LGBT community.
 

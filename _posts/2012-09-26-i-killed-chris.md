@@ -5,7 +5,7 @@ published: true
 categories:
   - "Lifestyle  & Travel"
 tags:
-  - mindset
+  - fulfilling-life
 permalink: /i-killed-chris/
 ---
 I killed Chris. Yup, I killed myself.

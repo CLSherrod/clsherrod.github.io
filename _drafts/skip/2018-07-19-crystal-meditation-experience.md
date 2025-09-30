@@ -7,7 +7,7 @@ categories:
 - Spirituality
 - Essays
 tags:
-- meditation
+- fulfilling-life
 meta:
   _edit_last: '1'
   _nectar_gallery_slider: 'off'

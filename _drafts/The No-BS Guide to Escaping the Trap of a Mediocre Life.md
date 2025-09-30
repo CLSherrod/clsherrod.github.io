@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **The No-BS Guide to Escaping the Trap of a Mediocre Life**  
 

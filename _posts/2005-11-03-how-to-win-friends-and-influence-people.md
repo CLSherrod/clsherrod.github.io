@@ -6,7 +6,7 @@ comments: true
 categories:
   - "Learning & Growth"
 tags:
-  - networking
+  - business
   - reviews
 permalink: /how-to-win-friends-and-influence-people/
 excerpt: How to network from the king of networkers

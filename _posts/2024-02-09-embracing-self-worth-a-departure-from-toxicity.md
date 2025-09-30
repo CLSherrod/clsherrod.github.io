@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - self-worth
+  - fulfilling-life
   - lyric-poem
 permalink: /embracing-self-worth/
 excerpt: Poem about embracing your worth.

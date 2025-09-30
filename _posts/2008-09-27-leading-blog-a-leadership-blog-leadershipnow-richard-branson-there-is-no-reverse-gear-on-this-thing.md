@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - ideas
+  - business
   - business
 permalink: /leading-blog-a-leadership-blog-leadershipnow-richard-branson-there-is-no-reverse-gear-on-this-thing/
 ---

@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 ## Embrace Failure: The Key to Learning, Growing, and Truly Living
 

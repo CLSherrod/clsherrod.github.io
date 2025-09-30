@@ -5,7 +5,7 @@ published: true
 categories:
   - "Lifestyle  & Travel"
 tags:
-  - mindset
+  - fulfilling-life
 permalink: /living-on-a-dollar-a-day/
 ---
 Staying in Mexico for awhile has shown me what poverty really looks like.

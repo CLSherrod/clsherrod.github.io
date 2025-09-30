@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **How to Stay Positive and Live Peacefully Under a Fascist Regime**  
 

@@ -8,7 +8,7 @@ categories:
   - "Learning & Growth"
 tags:
   - business
-  - self-worth
+  - fulfilling-life
 permalink: /billionaires/
 excerpt: Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You
 toc: true

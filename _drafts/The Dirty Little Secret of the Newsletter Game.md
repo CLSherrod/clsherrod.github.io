@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **The Life Cycle of a Business Model: How to Spot the Right Opportunities**  
 

@@ -9,11 +9,10 @@ status:
   - "[[Open]]"
 author:
   - "[[Christopher Sherrod]]"
-url: 
+url:
 created:
 last:
 tags:
-  - nostalgia
 ---
 # **The Power of Nostalgia: Escaping Reality Through Old Movies and Music**  
 

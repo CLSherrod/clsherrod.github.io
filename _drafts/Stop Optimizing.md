@@ -12,7 +12,7 @@ published:
 created: 2025-04-04
 last: 
 tags:
-  - writing
+  - business
 ---
 ## Summary
 Stop optimizing your life and start living

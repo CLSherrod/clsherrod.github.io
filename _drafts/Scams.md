@@ -13,7 +13,7 @@ url:
 created: 
 last:
 tags:
-  - scams
+  - business
 ---
 https://www.reddit.com/r/marketing/s/efHrzpyBJK
 

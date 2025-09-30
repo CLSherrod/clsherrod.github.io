@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Why Most Coaches, Gurus, and Course Creators Are Just Marketers in Disguise**  
 

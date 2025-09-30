@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - ideas
+  - business
 permalink: /leaders-leaches/
 ---
 You're not a leader if you

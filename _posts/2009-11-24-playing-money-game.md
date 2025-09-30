@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - abundance
+  - fulfilling-life
 permalink: /playing-money-game/
 ---
 If you lose all your money, it sucks. But, it's not the end of the world. You get another opportunity to get right back in the game.

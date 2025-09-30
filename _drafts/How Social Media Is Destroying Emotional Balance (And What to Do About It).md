@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 ## **How Social Media Is Destroying Emotional Balance (And What to Do About It)**  
 

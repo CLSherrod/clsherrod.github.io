@@ -13,7 +13,7 @@ url:
 created: 
 last:
 tags:
-  - scams
+  - business
 ---
 Rewrite.
 

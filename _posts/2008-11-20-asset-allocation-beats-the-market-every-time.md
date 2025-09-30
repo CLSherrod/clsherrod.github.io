@@ -6,7 +6,7 @@ categories:
   - Success & Prosperity
 tags:
   - business
-  - wealth
+  - business
 permalink: /asset-allocation-beats-the-market-every-time/
 ---
 Asset allocation beats stock selection every time.

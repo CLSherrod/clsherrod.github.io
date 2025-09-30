@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # Stop Wasting Money on Courses—Learn to Fail Instead**  
 

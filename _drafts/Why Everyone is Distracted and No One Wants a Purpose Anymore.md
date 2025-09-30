@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Why Everyone is Distracted and No One Wants a Purpose Anymore**  
 

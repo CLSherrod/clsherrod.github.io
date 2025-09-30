@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # Life Before Business
 In my early-twenties, I found myself immersed in the early stages of entrepreneurship, dedicating every spare moment to it. As I journeyed through this phase, I realized that my then-girlfriend was only receiving very little of my time and energy. Recognizing this wasn't the foundation for a lasting relationship, and she broke up with me on New Years Eve.

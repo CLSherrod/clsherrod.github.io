@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - abundance
+  - fulfilling-life
 permalink: /the-secret-to-earning-money/
 ---
 When I first learned of Prosperity Consciousness it snapped for me right away. I love it. Just learning the concept changed me.

@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 ## Summary
 Crafting Your Personal Operating System: A Blueprint for Life Optimization

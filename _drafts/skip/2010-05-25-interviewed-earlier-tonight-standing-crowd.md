@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - interview
+  - news
 permalink: /interviewed-earlier-tonight-standing-crowd/
 ---
 Earlier tonight I was interviewed by Nan Akasha about her recent book launch that went #1 in her targeted category on Amazon and how I helped make that all happen. Listen to it on <a href="http://loaradionetwork.com/">Law of Attraction Radio</a>.

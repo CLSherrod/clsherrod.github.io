@@ -6,7 +6,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - business
-  - systems
+  - business
   - reviews
 permalink: /work-the-system/
 toc: true

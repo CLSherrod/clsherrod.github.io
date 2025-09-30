@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Why Smart Entrepreneurs Avoid Arguments and Focus on Progress**  
 

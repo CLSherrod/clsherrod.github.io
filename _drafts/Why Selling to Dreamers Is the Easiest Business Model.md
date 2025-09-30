@@ -14,7 +14,7 @@ created: 2025-04-28
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 ---
 ## Title

@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **What Can You Do? Stop Stressing Over What You Can’t Control**  
 

@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 ## **Stop Trying to Win Everything: Focus on What Truly Matters**  
 

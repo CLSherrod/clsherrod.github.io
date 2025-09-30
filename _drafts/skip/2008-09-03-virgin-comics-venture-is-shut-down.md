@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- ideas
+- business
 - Virgin Group
 meta:
   _edit_last: '1'

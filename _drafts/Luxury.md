@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # The True Essence of Luxury: Beyond Material Possessions
 

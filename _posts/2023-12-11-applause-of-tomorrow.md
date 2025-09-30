@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - self-worth
+  - fulfilling-life
   - lyric-poem
 permalink: /applause-of-tomorrow/
 excerpt: Poem about my future self looking back at me now.

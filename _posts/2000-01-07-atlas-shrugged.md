@@ -4,7 +4,7 @@ date: 2000-01-07
 categories:
   - Business & Entrepreneurship
 tags:
-  - self-worth
+  - fulfilling-life
   - reviews
 permalink: /atlas-shrugged/
 published: true

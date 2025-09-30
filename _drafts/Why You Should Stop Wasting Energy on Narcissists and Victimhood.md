@@ -12,7 +12,7 @@ published:
 created: 2025-03-25
 last: 
 tags:
-  - writing
+  - business
 ---
 # Why You Should Stop Wasting Energy on Narcissists and Victimhood
 

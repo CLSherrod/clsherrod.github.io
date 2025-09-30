@@ -15,7 +15,7 @@ published:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 
 # Vangelis Tribute
@@ -104,7 +104,7 @@ Read it here → [https://christophersherrod.com/vangelis/](https://christopher
 **2.**  
 New on the blog: _The Soundtrack That Changed My Life_ — my tribute to Vangelis, whose music shaped my art and recovery.  
 [https://christophersherrod.com/vangelis/](https://christophersherrod.com/vangelis/)  
-#music #legacy #music
+#music #tribute #music
 
 ---
 
@@ -139,4 +139,4 @@ Three lessons Vangelis gave me through music. I wrote about it:
 **7.**  
 What Vangelis taught me about building a life’s work that whispers to the soul—my personal tribute:  
 [https://christophersherrod.com/vangelis/](https://christophersherrod.com/vangelis/)  
-#legacy #CreativeLife #music
+#tribute #music

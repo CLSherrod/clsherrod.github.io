@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Escape Mediocrity: A No-BS Course to Living on Your Terms**
 

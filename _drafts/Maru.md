@@ -7,7 +7,7 @@ categories:
   - Learning & Growing
 tags:
   - fulfilling-life
-  - legacy
+  - tribute
 toc: true
 permalink: /maru/
 published: false

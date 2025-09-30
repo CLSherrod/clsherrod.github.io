@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **The Harsh Truth About Business Success That Gurus Won’t Tell You**  
 

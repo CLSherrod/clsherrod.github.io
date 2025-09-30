@@ -24,7 +24,7 @@ Things have come along way for electronic music. I use to be the only one that I
 And this is why David is one of my favorite artists.</p>
 <p style="padding-left: 30px;"> *With album titles like Just a Little More Love and One Love under his belt, it's no surprise that Guetta has sponsored the word '#Love.' "There's been a lot of my songs about love and that's the kind of person that I am," he told Rolling Stone. "It's the biggest energy in the world. Universal love. Have a little bit of compassion and love for each other. Some people might find it cheesy, I don't think that it is." *
 
-I don't find it cheesy either and why I work on my music everyday with my motto #AboveAllIsLove
+I don't find it cheesy either and why I work on my music everyday with my motto Above Al lIs Love.
 
 I <a href="https://x.com/ChrisSherrod/status/405004196577280001">tweeted about it this morning</a>. Come join me and David Guetta, United Nations and the rest of the world.
 

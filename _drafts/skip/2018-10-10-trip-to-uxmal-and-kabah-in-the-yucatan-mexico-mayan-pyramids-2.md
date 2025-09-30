@@ -7,7 +7,7 @@ categories:
 - Travel
 - Essays
 tags:
-- mayan
+- travel
 - travel
 meta:
   _edit_last: '1'

@@ -5,8 +5,8 @@ last_modified_at: 2023-11-02
 categories:
 - "Success & Prosperity"
 tags:
-  - learning
-  - games
+  - fulfilling-life
+  - business
 permalink: /play-prosperity-games-dinner-party/
 published: true
 comments: true

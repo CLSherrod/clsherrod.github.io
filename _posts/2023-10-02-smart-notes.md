@@ -3,7 +3,7 @@ title: How Smart Notes Transformed My Productivity and Well-being
 date: 2023-10-02
 last_modified_at: 2025-06-16
 tags:
-  - workflow-apps
+  - business
   - business
 categories:
 - "Success & Prosperity"

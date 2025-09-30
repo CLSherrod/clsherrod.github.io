@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **No Inner Child, No Inner Demon—Just Me**  
 

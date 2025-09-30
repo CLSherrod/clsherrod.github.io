@@ -14,7 +14,7 @@ created: 2025-03-25
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # The Future Isn't About More Innovation--It's About Recovery
     

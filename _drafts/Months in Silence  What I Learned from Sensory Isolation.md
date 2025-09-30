@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # **Months in Silence: What I Learned from Sensory Isolation**  
 

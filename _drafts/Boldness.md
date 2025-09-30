@@ -14,7 +14,7 @@ created:
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # Embrace Life with Boldness: Living Fully and Passionately
 

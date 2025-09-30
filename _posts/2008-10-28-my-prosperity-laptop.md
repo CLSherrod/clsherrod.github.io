@@ -5,7 +5,7 @@ published: true
 categories:
   - Success & Prosperity
 tags:
-  - Retirement
+  - business
 permalink: /my-prosperity-laptop/
 ---
 Since most of my work is done on my laptop I have tricked it out as they would say.  But I also decorate it.  I put on what I want.

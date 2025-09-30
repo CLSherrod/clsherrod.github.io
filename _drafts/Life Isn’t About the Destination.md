@@ -14,7 +14,7 @@ created: 2025-03-25
 last:
 tags:
   - business
-  - coaching
+  - business
 ---
 # Life Isn’t About the Destination—It’s About the Journey
 
