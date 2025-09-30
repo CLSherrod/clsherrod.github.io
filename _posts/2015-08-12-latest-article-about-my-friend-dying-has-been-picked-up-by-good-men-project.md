@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - love
+  - fulfilling-life
   - tribute
 permalink: /latest-article-about-my-friend-dying-has-been-picked-up-by-good-men-project/
 ---

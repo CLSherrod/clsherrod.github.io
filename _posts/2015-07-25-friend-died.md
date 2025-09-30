@@ -4,7 +4,7 @@ date: 2015-07-25
 categories:
   - "Learning & Growth"
 tags:
-  - love
+  - fulfilling-life
   - tribute
 published: true
 permalink: /friend-died/

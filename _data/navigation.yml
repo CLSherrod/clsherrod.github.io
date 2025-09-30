@@ -4,7 +4,7 @@ main:
   - title: "Newsletter"
     url: /newsletter/
   - title: "Writer"
-    url: /blog/
+    url: /writer/
     children:
       - title: "Books"
         url: /books/

@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - celebration
+  - fulfilling-life
 permalink: /yearly-celebration/
 excerpt: I had one of two birthday parties last night.
 ---

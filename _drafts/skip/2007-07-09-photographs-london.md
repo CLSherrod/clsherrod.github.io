@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- London
+- travel
 - travel
 meta:
   _nectar_love: '0'

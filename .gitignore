@@ -106,3 +106,7 @@ To Do.md
 .obsidian/plugins/remember-cursor-position/manifest.json
 .obsidian/note-composer.json
 .obsidian/page-preview.json
+.obsidian/plugins/notebook-navigator/data.json
+.obsidian/plugins/notebook-navigator/main.js
+.obsidian/plugins/notebook-navigator/manifest.json
+.obsidian/plugins/notebook-navigator/styles.css

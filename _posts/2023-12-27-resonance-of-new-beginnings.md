@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - celebration
+  - fulfilling-life
   - lyric-poem
 permalink: /resonance-of-new-beginnings/
 excerpt: A Slam Poem for Family and Friends in the Year Ahead.

@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - fulfilling-lifestyle
+  - fulfilling-life
   - lyric-poem
 teaser: /assets/images/poems/life-between-the-waves.webp
 header:

@@ -6,7 +6,7 @@ preview: Time is Money
 categories:
   - "Success & Prosperity"
 tags:
-  - money
+  - business
 toc: false
 permalink: /time-is-money/
 published: true

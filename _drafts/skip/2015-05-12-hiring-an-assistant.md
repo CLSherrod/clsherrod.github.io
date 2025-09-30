@@ -7,7 +7,7 @@ categories:
 - System Mastery
 - Essays
 tags:
-- productivity
+- business
 permalink: "/hiring-an-assistant/"
 ---
 I've had an assistant since 2000. Started off as occasionally to part-time to full-time.

@@ -6,7 +6,7 @@ categories:
 - Business & Entrepreneurship
 tags:
   - business
-  - book-review
+  - reviews
 permalink: /carpenters-house-fable/
 published: true
 comments: true

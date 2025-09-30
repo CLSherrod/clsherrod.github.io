@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - richard-branson
+  - business
 permalink: /big-banks-vs-regional/
 ---
 I have a great aunt with a lot of money.  She has many many accounts in many banks with no more than $100,000 USD in each because that is the limit the FDIC Insurance will pay.  Not many know this, but yes there is limit.  So if you have a lot of money use different accounts and banks.

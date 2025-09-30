@@ -6,7 +6,7 @@ preview: "Your Legacy Isn't What You Leave Behind -- It's What You Leave in Othe
 categories: 
   - Learning & Growing
 tags:
-  - fulfilling-lifestyle
+  - fulfilling-life
 toc: true
 permalink: /legacy/
 published: false

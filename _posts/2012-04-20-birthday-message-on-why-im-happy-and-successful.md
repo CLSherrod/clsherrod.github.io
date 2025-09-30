@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - happiness
+  - fulfilling-life
 permalink: /birthday-message-on-why-im-happy-and-successful/
 ---
 It's my birthday and taking a few minutes to reflect and share of what I've learned this past year.

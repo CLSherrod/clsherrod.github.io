@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- London
+- travel
 - music concert
 - travel
 meta:

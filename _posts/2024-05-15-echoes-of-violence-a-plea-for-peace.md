@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - peace
+  - fulfilling-life
   - lyric-poem
 teaser: /assets/images/poems/echoes-of-violence.webp
 header:

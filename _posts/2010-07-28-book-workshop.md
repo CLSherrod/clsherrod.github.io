@@ -4,7 +4,7 @@ date: 2010-07-28
 categories:
   - Business & Entrepreneurship
 tags:
-  - book-review
+  - reviews
   - games
   - news
 permalink: /play-prosperity-games-workshop/

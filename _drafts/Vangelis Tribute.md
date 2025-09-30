@@ -104,21 +104,21 @@ Read it here → [https://christophersherrod.com/vangelis/](https://christopher
 **2.**  
 New on the blog: _The Soundtrack That Changed My Life_ — my tribute to Vangelis, whose music shaped my art and recovery.  
 [https://christophersherrod.com/vangelis/](https://christophersherrod.com/vangelis/)  
-#Vangelis #Legacy #AmbientMusic
+#music #legacy #music
 
 ---
 
 **3.**  
 From _Blade Runner_ to _Soil Festivities_, Vangelis taught me how sound can shape soul. My new essay honors that impact:  
 [https://christophersherrod.com/vangelis/](https://christophersherrod.com/vangelis/)  
-#Vangelis #SacredSound
+#music #SacredSound
 
 ---
 
 **4.**  
 Vangelis didn’t just score films—he scored moments of awakening. I wrote a tribute to what his music taught me about living fully.  
 [https://christophersherrod.com/vangelis/](https://christophersherrod.com/vangelis/)  
-#Vangelis #SoundtrackOfLife
+#music #SoundtrackOfLife
 
 ---
 
@@ -132,11 +132,11 @@ Read → [https://christophersherrod.com/vangelis/](https://christophersherrod.
 💫 Devotion. Atmosphere. Legacy.  
 Three lessons Vangelis gave me through music. I wrote about it:  
 [https://christophersherrod.com/vangelis/](https://christophersherrod.com/vangelis/)  
-#AmbientMusic #Vangelis
+#music #music
 
 ---
 
 **7.**  
 What Vangelis taught me about building a life’s work that whispers to the soul—my personal tribute:  
 [https://christophersherrod.com/vangelis/](https://christophersherrod.com/vangelis/)  
-#Legacy #CreativeLife #Vangelis
+#legacy #CreativeLife #music

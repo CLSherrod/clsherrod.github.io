@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- book
+- books
 meta:
   tie_review_position: ''
   tie_review_summary: ''

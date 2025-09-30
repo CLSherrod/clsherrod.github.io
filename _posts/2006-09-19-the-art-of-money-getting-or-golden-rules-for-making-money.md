@@ -5,7 +5,7 @@ categories:
   - "Success & Prosperity"
 tags:
   - business
-  - book-review
+  - reviews
 published: true
 comments: true
 permalink: /the-art-of-money-getting-or-golden-rules-for-making-money/

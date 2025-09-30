@@ -6,7 +6,7 @@ categories:
   - "Learning & Growth"
 tags:
   - tribute
-  - spirituality
+  - fulfilling-life
 permalink: /ram-dass-going-home/
 ---
 [Ram Dass: Going Home](https://www.netflix.com/watch/80209895)

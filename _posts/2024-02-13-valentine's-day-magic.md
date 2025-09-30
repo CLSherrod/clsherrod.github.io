@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - love
+  - fulfilling-life
   - lyric-poem
 teaser: /assets/images/poems/valentines-day-magic.webp
 header:

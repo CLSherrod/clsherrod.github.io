@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - happiness
+  - fulfilling-life
 permalink: /choosing-your-parents-before-birth/
 ---
 by Rhonda Ryder

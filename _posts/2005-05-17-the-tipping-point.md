@@ -5,7 +5,7 @@ categories:
 - Business & Entrepreneurship
 tags:
   - learning
-  - book-review
+  - reviews
 permalink: /the-tipping-point/
 published: true
 comments: true

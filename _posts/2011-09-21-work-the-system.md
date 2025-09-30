@@ -7,7 +7,7 @@ categories:
 tags:
   - business
   - systems
-  - book-review
+  - reviews
 permalink: /work-the-system/
 toc: true
 published: true

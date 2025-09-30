@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - happiness
+  - fulfilling-life
 permalink: /life-good-cofounder-hero/
 ---
 I recently meet Bert Jacobs the cofounder of [Life Is Good](http://lifeisgood.com).

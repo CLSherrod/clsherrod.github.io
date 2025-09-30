@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - love
+  - fulfilling-life
 permalink: /passionate-valentines/
 ---
 This is only my second Valentine's Day with someone special in my life.  Yeah believe it or not the rest of my life I didn't have someone special in my life when today came up.

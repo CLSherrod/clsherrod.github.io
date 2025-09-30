@@ -5,7 +5,7 @@ categories:
   - "Learning & Growth"
 tags:
   - depression
-  - book-review
+  - reviews
 permalink: /reboot-your-bliss/
 published: true
 ---

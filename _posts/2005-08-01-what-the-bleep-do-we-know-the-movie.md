@@ -6,7 +6,7 @@ comments: true
 categories:
   - "Learning & Growth"
 tags:
-  - movie-review
+  - reviews
   - self-worth
 permalink: /what-the-bleep-do-we-know-the-movie/
 excerpt: My review of the movie What The Bleep Do We Know

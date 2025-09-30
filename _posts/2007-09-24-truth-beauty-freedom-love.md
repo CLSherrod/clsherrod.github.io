@@ -6,7 +6,7 @@ comments: true
 categories:
   - "Learning & Growth"
 tags:
-  - love
+  - fulfilling-life
 permalink: /truth-beauty-freedom-love/
 excerpt: I live by these ideals.  Truth, Beauty, Freedom and above all Love.
 ---

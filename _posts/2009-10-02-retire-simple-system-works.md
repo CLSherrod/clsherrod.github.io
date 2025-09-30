@@ -6,7 +6,7 @@ categories:
   - "Success & Prosperity"
 tags:
   - Retirement
-  - richard-branson
+  - business
 permalink: /retire-simple-system-works/
 ---
 I heard a growing trend is for people to retire to college towns where they can volunteer and keep learning new things.  Good idea.

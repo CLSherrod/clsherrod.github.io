@@ -6,7 +6,7 @@ categories:
   - Poems
 tags:
   - lyric-poem
-  - fulfilling-lifestyle
+  - fulfilling-life
 teaser: /assets/images/poems/moments-unwrapped.webp
 header:
   image: /assets/images/poems/moments-unwrapped.webp

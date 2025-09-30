@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - peace
+  - fulfilling-life
 permalink: /the-elders/
 ---
 Richard Branson along with Peter Gabriel started The Elders.  A great idea.  They are people the world trust and are free from politica, military and economic pressures.

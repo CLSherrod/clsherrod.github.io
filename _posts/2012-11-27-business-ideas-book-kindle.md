@@ -7,7 +7,7 @@ categories:
 tags:
   - learning
   - games
-  - book-review
+  - reviews
   - news
 permalink: /play-prosperity-games-kindle/
 ---

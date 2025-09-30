@@ -6,7 +6,7 @@ categories:
 - Business & Entrepreneurship
 tags:
   - business
-  - book-review
+  - reviews
 permalink: /masterminds/
 published: true
 comments: true

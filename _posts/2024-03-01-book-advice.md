@@ -6,7 +6,7 @@ categories:
 - "Success & Prosperity"
 tags:
   - business
-  - book-review
+  - reviews
 permalink: /book-advice/
 published: true
 comments: true

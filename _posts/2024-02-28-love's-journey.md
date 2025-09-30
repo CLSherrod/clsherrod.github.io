@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - love
+  - fulfilling-life
   - lyric-poem
 permalink: /loves-journey/
 excerpt: Poem about my love of my life.

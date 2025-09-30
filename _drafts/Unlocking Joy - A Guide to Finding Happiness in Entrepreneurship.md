@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - happiness
+  - fulfilling-life
 ---
 "If you're financially struggling, additional income is likely to boost your happiness.
 If you're content, more wealth might further elevate your joy.

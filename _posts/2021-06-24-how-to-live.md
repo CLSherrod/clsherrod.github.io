@@ -5,7 +5,7 @@ categories:
   - "Success & Prosperity"
 tags:
   - self-worth
-  - book-review
+  - reviews
 toc: true
 published: true
 permalink: /how-to-live/

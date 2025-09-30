@@ -7,7 +7,7 @@ categories:
 - Marketing
 - Essays
 tags:
-- book
+- books
 meta:
   tie_embed_code: ''
   tie_audio_m4a: ''

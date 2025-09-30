@@ -6,8 +6,8 @@ comments: true
 categories:
   - "Learning & Growth"
 tags:
-  - peace
-  - movie-review
+  - fulfilling-life
+  - reviews
 permalink: /peaceful-warrior/
 excerpt: My review of a Peaceful Warrior movie
 ---

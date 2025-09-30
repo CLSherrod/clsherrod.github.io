@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - love
+  - fulfilling-life
 permalink: /what-would-paul-and-linda-do/
 ---
 Yesterday I was listening to <a href="http://www.paulmccartney.com/" rel="nofollow">Paul McCartney</a>.  I'm in an home exchange here in Paris France and they have a bunch of Paul's albums.  So I'm listening to them and enjoying them.  He writes and sings about love and it fit in very well with our stay here in Paris.

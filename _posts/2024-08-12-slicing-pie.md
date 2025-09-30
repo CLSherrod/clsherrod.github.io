@@ -5,8 +5,8 @@ categories:
   - Business & Entrepreneurship
 tags:
   - business
-  - partnerships
-  - book-review
+  - business
+  - reviews
 permalink: /slicing-pie/
 toc: true
 published: true

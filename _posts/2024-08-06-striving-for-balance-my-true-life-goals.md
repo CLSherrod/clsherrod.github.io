@@ -4,7 +4,7 @@ date: 2024-08-06
 categories:
   - "Lifestyle  & Travel"
 tags:
-  - fulfilling-lifestyle
+  - fulfilling-life
 permalink: /striving-for-balance/
 toc: true
 published: true

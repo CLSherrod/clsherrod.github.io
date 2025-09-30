@@ -6,8 +6,8 @@ comments: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - mastermind
-  - book-review
+  - business
+  - reviews
 permalink: /think-and-grow-rich/
 excerpt: My review of Think and Grow Rich
 ---

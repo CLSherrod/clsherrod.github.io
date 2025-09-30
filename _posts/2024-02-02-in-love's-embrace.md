@@ -5,7 +5,7 @@ published: true
 categories:
   - Poems
 tags:
-  - love
+  - fulfilling-life
   - lyric-poem
 permalink: /loves-embrace/
 excerpt: A love poem about my love.

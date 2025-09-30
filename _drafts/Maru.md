@@ -6,8 +6,8 @@ preview: "Remembering Maru: How a YouTube Cat Helped Me Heal"
 categories:
   - Learning & Growing
 tags:
-  - fulfilling-lifestyle
-  - Legacy
+  - fulfilling-life
+  - legacy
 toc: true
 permalink: /maru/
 published: false

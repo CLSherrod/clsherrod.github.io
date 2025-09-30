@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - money
+  - business
 permalink: /do-not-spend-until-you-earn/
 ---
 The biggest issue I see with people starting in a new business is they spend way too much money starting before they make a single penny.  I know most people think the problem is not spending any money to get started which is why they are unsuccessful.  But, I disagree.  I've seen many people start with no or little money and be successful.  I've seen a ton of people with a ton of money that spend it all before making a dime.

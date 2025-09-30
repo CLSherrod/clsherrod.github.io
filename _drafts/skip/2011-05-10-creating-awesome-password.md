@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- productivity
+- business
 meta:
   dsq_thread_id: '300211421'
   _edit_last: '1'

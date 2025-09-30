@@ -5,7 +5,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - self-worth
-  - book-review
+  - reviews
 permalink: /atlas-shrugged/
 published: true
 comments: true

@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - happiness
+  - fulfilling-life
 permalink: /money-and-the-law-of-attraction/
 ---
 Esther and Jerry Hicks really helped me a few years ago. I went to one of their small workshops that they had on their ranch and it made a signifant change in my and my life turned around. I saw the first three people get in the hot seat in from of Abraham and tell them that the teachings of Abraham brought them success and happiness and thank you. I thought the entire workshop was going to be people looking for guidance and how screwed up their lives were. Some did but overall it was very positive. After that workshop my life changed all for the better. Now they are coming out with a book on Money and Law of Attraction. Can't wait to read this one.

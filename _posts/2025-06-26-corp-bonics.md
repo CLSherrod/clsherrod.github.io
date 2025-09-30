@@ -8,7 +8,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - corporations
-  - book-review
+  - reviews
 permalink: /corp-bonics/
 published: true
 ---

@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - happiness
+  - fulfilling-life
 permalink: /boyfriend-girlfriend-partner-its-all-the-same/
 excerpt: Boyfriend/Girlfriend, Husband/Wife, Domestic Partner are all old terms for what is really a Partner.
 ---

@@ -11,7 +11,7 @@ categories:
 - Essays
 tags:
 - morning routine
-- productivity
+- business
 permalink: "/my-morning-routine-on-a-hackers-day/"
 ---
 <p>I was <a href="https://ahackersday.com/interviews/chris-sherrod-from-blisslifepress/">interviewed for A Hacker's Day about my morning routine</a>.</p>

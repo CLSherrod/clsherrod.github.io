@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - book-review
+  - reviews
 permalink: /quotes-prosperity/
 ---
 I got the book [Quotes for Prosperity: 369 Insights to Happiness and Success](http://www.amazon.com/gp/product/0646492799?ie=UTF8&amp;tag=abundaunlimi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=0646492799) last week.

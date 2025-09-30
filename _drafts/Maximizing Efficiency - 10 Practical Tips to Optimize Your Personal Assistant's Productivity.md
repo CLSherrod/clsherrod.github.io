@@ -13,7 +13,7 @@ url:
 created: 
 last:
 tags:
-  - productivity
+  - business
 ---
 ## Title
 Maximizing Assistant Efficiency: From Hiring to Delegation - 3 Common Problems and 10 Practical Tips

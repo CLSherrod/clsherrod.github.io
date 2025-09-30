@@ -7,7 +7,7 @@ categories:
 - System Mastery
 - Essays
 tags:
-- productivity
+- business
 meta:
   _edit_last: '1'
   _thumbnail_id: '14968'

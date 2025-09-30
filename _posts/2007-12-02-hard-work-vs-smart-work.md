@@ -6,7 +6,7 @@ comments: true
 categories:
   - "Success & Prosperity"
 tags:
-  - productivity
+  - business
 permalink: /hard-work-vs-smart-work/
 excerpt: What's better hard work or smart work.
 ---

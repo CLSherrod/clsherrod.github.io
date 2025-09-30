@@ -5,7 +5,7 @@ categories:
   - "Learning & Growth"
 tags:
   - writing
-  - book-review
+  - reviews
 permalink: /nobody-wants-to-read-you/
 published: true
 excerpt:

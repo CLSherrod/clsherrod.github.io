@@ -6,7 +6,7 @@ categories:
 - Essays
 tags:
 - clean technologies
-- happiness
+- fulfilling-life
 - Virgin Group
 permalink: "/opportunity-is-everywhere/"
 ---

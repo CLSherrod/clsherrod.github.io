@@ -6,7 +6,7 @@ categories:
 tags:
   - business
   - email
-  - book-review
+  - reviews
 published: true
 permalink: /email-deliverability/
 ---

@@ -6,7 +6,7 @@ date: 2025-09-15
 categories:
   - Learning & Growth
 tags:
-  - happiness
+  - fulfilling-life
 toc: true
 permalink: /being-good-in-a-bad-world/
 published: false

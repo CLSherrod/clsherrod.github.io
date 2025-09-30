@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - productivity
+  - business
 permalink: /play-doh-focus-tip/
 excerpt: I use Play-Doh to help me focus sometimes.
 ---

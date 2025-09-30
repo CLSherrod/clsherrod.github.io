@@ -1,11 +1,10 @@
 ---
 title: The Secret is now in Hebrew
 date: 2007-09-19 23:14:05
-published: true
+published: false
 categories:
   - Essays
 tags:
-  - scotland
 permalink: /the-secret-is-now-in-hebrew/
 ---
 <p><a href="http://www.flickr.com/photos/shoogior/1412079743/" rel="nofollow"><img src="http://farm2.static.flickr.com/1107/1412079743_8a81c5cdda_m.jpg" style="border: 2px solid #000000" align="right" / rel="nofollow"/></a><br />

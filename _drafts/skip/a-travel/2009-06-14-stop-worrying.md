@@ -3,10 +3,9 @@ title: Stop Worrying
 date: 2009-06-14
 published: false
 categories:
-- Essays
+  - Essays
 tags:
-- scotland
-permalink: "/stop-worrying/"
+permalink: /stop-worrying/
 ---
 I took this picture at Findhorn in Scotland in the summer of 2007.
 

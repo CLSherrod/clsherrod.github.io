@@ -6,7 +6,7 @@ comments: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - investments
+  - business
 permalink: /cryptocurrency/
 ---
 The cryptocurrency market has halved in less than a month and the biggest financial bubble of all time just popped (also cryptocurrency). Plus Facebook just started disallowing FB ads for cryptocurrency for good reasons.

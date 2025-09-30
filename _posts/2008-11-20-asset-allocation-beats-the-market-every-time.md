@@ -5,7 +5,7 @@ published: true
 categories:
   - Success & Prosperity
 tags:
-  - investments
+  - business
   - wealth
 permalink: /asset-allocation-beats-the-market-every-time/
 ---
