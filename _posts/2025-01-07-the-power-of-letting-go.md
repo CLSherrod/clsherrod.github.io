@@ -4,7 +4,7 @@ date: 2025-01-07
 categories:
   - "Learning & Growth"
 tags:
-  - self-image
+  - fulfilling-life
 permalink: /power-of-letting-go/
 published: true
 toc: true

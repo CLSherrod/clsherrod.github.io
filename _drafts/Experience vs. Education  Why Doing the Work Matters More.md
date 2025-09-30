@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - work
+  - business
 ---
 # Experience vs. Education: Why Doing the Work Matters More  
 

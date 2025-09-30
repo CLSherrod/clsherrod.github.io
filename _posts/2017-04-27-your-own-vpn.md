@@ -7,7 +7,7 @@ categories:
   - "Learning & Growth"
 tags:
   - security
-  - vpn
+  - business
 permalink: /your-own-vpn/
 excerpt: Own your own VPN for super privacy
 ---

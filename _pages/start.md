@@ -47,7 +47,7 @@ Success doesn’t have to cost your soul. I write about doing meaningful work wi
 - Book: [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
 - Book: [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)  
 
-### 🌎 **Expat Life & Travel Reflections**
+### 🌎 **International Living & Travel Reflections**
 
 I’ve been living abroad since 2016. It’s not just about escaping — it’s about choosing better.
 

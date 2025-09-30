@@ -42,7 +42,7 @@ Beyond books, Christopher shares insights through [blog posts](/blog), [reviews]
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 
 #### Main Topics
-[#business](/tags#entrepreneurship), [#workflow](/tags/#workflow-apps), [#idea generation](/tags/#idea-generation), [#tributes](/tags/#tribute)
+[#business](/tags#entrepreneurship), [#business](/tags/#workflow-apps), [#idea generation](/tags/#idea-generation), [#tributes](/tags/#tribute)
 
 #### Current Projects and More
 Curious about what I’m up to these days? Check out my current projects section. And if you want a glimpse into my past endeavors, I’ve got a full list of past projects too.
