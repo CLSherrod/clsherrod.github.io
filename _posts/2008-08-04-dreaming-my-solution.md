@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - dreams
+  - fulfilling-life
 permalink: /dreaming-my-solution/
 ---
 Last year I had a dream where I knew exactly how to create a product and it would take less than 2 hours for everything.

@@ -79,4 +79,4 @@ Christopher
 ## Social Media
 New essay just dropped: Why I don’t waste time arguing anymore. Most debates just drain your energy and distract you from what really matters. Here's how I stay focused and calm instead:  
 [https://christophersherrod.com/arguing/](https://christophersherrod.com/arguing/)  
-#LiveFully
+#fulfilling-life

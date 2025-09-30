@@ -107,6 +107,6 @@ Stay focused,
 Christopher
 
 # Social Media Post
-Billionaires don’t care about you—they just want your attention to keep their empire alive. Worshipping (or hating) them won’t change your life. Ignore them, focus on your own path, and build something meaningful. #ThinkForYourself  
+Billionaires don’t care about you—they just want your attention to keep their empire alive. Worshipping (or hating) them won’t change your life. Ignore them, focus on your own path, and build something meaningful. #fulfilling-life  
 
 Read more: [christophersherrod.com/billionaires/](https://christophersherrod.com/billionaires/)

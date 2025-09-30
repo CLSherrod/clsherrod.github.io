@@ -111,14 +111,14 @@ New on the blog: _The Soundtrack That Changed My Life_ — my tribute to Vange
 **3.**  
 From _Blade Runner_ to _Soil Festivities_, Vangelis taught me how sound can shape soul. My new essay honors that impact:  
 [https://christophersherrod.com/vangelis/](https://christophersherrod.com/vangelis/)  
-#music #SacredSound
+#music #music
 
 ---
 
 **4.**  
 Vangelis didn’t just score films—he scored moments of awakening. I wrote a tribute to what his music taught me about living fully.  
 [https://christophersherrod.com/vangelis/](https://christophersherrod.com/vangelis/)  
-#music #SoundtrackOfLife
+#music #tribute
 
 ---
 

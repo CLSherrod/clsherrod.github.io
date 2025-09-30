@@ -5,7 +5,7 @@ published: true
 categories:
   - "Learning & Growth"
 tags:
-  - equality
+  - fulfilling-life
 permalink: /marriage-equality/
 ---
 he last three days have been some of the most emotional days in my life.

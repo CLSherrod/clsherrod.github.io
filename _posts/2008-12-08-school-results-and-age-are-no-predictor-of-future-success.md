@@ -5,7 +5,7 @@ published: true
 categories:
   - "Success & Prosperity"
 tags:
-  - school
+  - business
 permalink: /school-results-and-age-are-no-predictor-of-future-success/
 ---
 My clientele vary a lot.  Men and women of all ages and backgrounds.  They all have one thing in common.  An entrepreneurial spirit.  Here are a couple of articles about how school results and age are not good predictors of your future success.

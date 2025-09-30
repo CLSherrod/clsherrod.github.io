@@ -4,7 +4,7 @@ date: 2007-11-26
 categories:
   - "Success & Prosperity"
 tags:
-  - management
+  - business
 permalink: /when-is-it-time-to-leave/
 published: true
 excerpt: How do you know when it's time to leave what you are doing and move on?

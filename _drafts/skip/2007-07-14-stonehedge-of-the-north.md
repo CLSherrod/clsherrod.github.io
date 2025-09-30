@@ -7,7 +7,7 @@ categories:
 - Travel
 - Essays
 tags:
-- england
+- travel
 - travel
 permalink: "/stonehedge-of-the-north/"
 ---

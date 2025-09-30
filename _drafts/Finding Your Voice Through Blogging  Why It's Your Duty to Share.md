@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - sharing
+  - business
 ---
 # Finding Your Voice Through Blogging: Why It's Your Duty to Share
 

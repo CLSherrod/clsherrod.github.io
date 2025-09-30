@@ -7,7 +7,7 @@ categories:
   - "Success & Prosperity"
 tags:
   - success
-  - sex
+  - fulfilling-life
 permalink: /more-money-better-sex/
 excerpt: The richer you are the better sex you have.
 ---

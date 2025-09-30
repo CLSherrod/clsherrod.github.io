@@ -94,7 +94,7 @@ P.S. If you’ve only got one dart to throw, you better make it count. I show yo
 **1.**  
 Entrepreneurship isn’t fair. Some get unlimited chances. Others get one shot—or none. I wrote about the uncomfortable truth behind the "American Dream."  
 Read it here: [ChristopherSherrod.com/carnival-game](https://christophersherrod.com/carnival-game)  
-#EntrepreneurTruth
+#business
 
 ---
 
@@ -102,7 +102,7 @@ Read it here: [ChristopherSherrod.com/carnival-game](https://christophersherrod
 What if success had less to do with hustle and more to do with how many chances you’re allowed to fail?  
 My latest essay pulls no punches.  
 [ChristopherSherrod.com/carnival-game](https://christophersherrod.com/carnival-game)  
-#StartupReality
+#business
 
 ---
 
@@ -110,7 +110,7 @@ My latest essay pulls no punches.
 Some are born at the carnival with unlimited darts. Others are just trying to get in the gate. I’ve lived this.  
 Here’s the truth no one likes to say out loud:  
 [ChristopherSherrod.com/carnival-game](https://christophersherrod.com/carnival-game)  
-#HardTruths
+#business
 
 ---
 
@@ -142,4 +142,4 @@ Here’s how I learned that the hard way:
 Success stories often leave out the safety net behind them.  
 I’m pulling back the curtain on what really drives outcomes in entrepreneurship.  
 [ChristopherSherrod.com/carnival-game](https://christophersherrod.com/carnival-game)  
-#EntrepreneurMindset
+#business

@@ -5,7 +5,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - business
-  - email
+  - business
   - reviews
 published: true
 permalink: /email-deliverability/

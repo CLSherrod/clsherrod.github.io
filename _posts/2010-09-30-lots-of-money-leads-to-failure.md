@@ -6,7 +6,7 @@ preview: Lot's of money leads to failure
 categories:
 - "Success & Prosperity"
 tags:
-  - failure
+  - business
 toc: true
 permalink: /lots-of-money-leads-to-failure/
 published: true

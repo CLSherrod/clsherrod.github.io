@@ -5,7 +5,7 @@ last_modified_at: 2024-05-01
 categories:
 - Learning & Growth
 tags:
-- environmentalism
+- fulfilling-life
 permalink: /earth-day-everyday/
 published: true
 comments: true
