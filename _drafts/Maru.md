@@ -10,6 +10,9 @@ tags:
   - tribute
 toc: true
 permalink: /maru/
+teaser: /assets/images/articles/maru.webp
+header:
+image: /assets/images/articles/mmaru.webp
 published: false
 ---
 ## The Cat Who Defined an Era of YouTube
@@ -36,19 +39,10 @@ Years later, I’m lucky enough to have two cats in my own life. They curl up be
 
 It’s strange to say a celebrity animal changed my life, but Maru did. He gave me hope when I was stuck in the dark. He reminded me that joy could be simple and quiet—just a cat being a cat.
 
-Maru may be gone now, but he leaves behind more than a catalog of funny videos. He leaves behind a legacy of comfort, healing, and connection for people like me who needed him most.
+Maru may be gone now, but he leaves behind more than a catalog of relaxing videos. He leaves behind a legacy of comfort, healing, and connection for people like me who needed him most.
 
 ## Carrying Maru’s Legacy Forward
 
 Losing Maru reminded me that legacy isn’t only for people. Even a cat can leave behind something lasting: joy, comfort, and connection. What Maru gave me was more than entertainment—he gave me hope at a time I needed it most.
-
-If you’ve ever found healing in simple things, you know how powerful that can be. It’s the same lesson I’ve learned in other parts of life:
-
-- [Boredom Is Necessary to Have a Fulfilling Life] – sometimes the quietest moments carry the most meaning.
-    
-- [Nobody Talks About Your Portfolio at Your Funeral] – what matters most is how we make others feel, not what we achieve.
-    
-- [Just Left a Funeral: What We Really Leave Behind] – legacy lives in the memories we spark in others.
-    
 
 Maru may have been “just a cat,” but to me—and millions of others—he was proof that even small joys can carry us through our hardest days.

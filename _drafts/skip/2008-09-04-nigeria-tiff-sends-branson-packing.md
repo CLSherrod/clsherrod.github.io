@@ -1,13 +1,13 @@
 ---
 title: Nigeria tiff sends Branson packing
 date: 2008-09-04 03:00:56
-published: true
+published: false
 categories:
-- Essays
+  - Essays
 tags:
-- business
-- Virgin Group
-permalink: "/nigeria-tiff-sends-branson-packing/"
+  - business
+  - Virgin Group
+permalink: /nigeria-tiff-sends-branson-packing/
 ---
 British carrier Virgin Atlantic Airways is looking to dispose of its equity stake in loss making Virgin Nigeria.
 
