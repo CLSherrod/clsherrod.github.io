@@ -2,7 +2,7 @@
 title: Being a Good Person in a Bad World
 description: Being a Good Person in a Bad World
 preview: Being a Good Person in a Bad World
-date: 2025-09-15
+date: 2025-10-06
 categories:
   - Learning & Growth
 tags:
