@@ -2,7 +2,7 @@
 title: "Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers"
 date: 2024-06-03
 categories:
-  - Lifestyle & Travel
+  - Learning & Growth
 tags:
   - business
   - tribute
