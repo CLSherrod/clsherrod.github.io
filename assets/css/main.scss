@@ -184,24 +184,3 @@ $link-color: blue;
   .page__footer-follow .social-icons a:hover i {
     transform: scale(1.2);
   }
-  
-  /* Make a section truly full width without causing horizontal scroll */
-.full-bleed {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  width: 100vw;
-  box-sizing: border-box;
-}
-
-/* Ensure images/iframes never overflow */
-.page__content img,
-.page__content iframe {
-  max-width: 100%;
-  height: auto;
-}
-
-/* If you ever see horizontal scrolling on mobile */
-html, body { overflow-x: hidden; }

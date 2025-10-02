@@ -1,0 +1,26 @@
+/* Make a section truly full width without causing horizontal scroll */
+.full-bleed {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    width: 100vw;
+    box-sizing: border-box; /* so padding stays inside */
+  }
+  
+  /* Constrain inner content to site width */
+  .full-bleed > .wrapper {
+    max-width: 1200px;      /* match your site/container max-width */
+    margin: 0 auto;
+    padding: 2rem 1rem;     /* put horizontal padding here, not on .full-bleed */
+  }
+  
+  /* Safety: prevent any child from pushing the page */
+  .page__content, .page__content * {
+    max-width: 100%;
+  }
+  
+  /* Optional: if any page still scrolls sideways on iOS */
+  html, body { overflow-x: hidden; }
+  
