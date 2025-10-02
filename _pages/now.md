@@ -43,10 +43,6 @@ See [Projects](/projects) for a list of projects.
 - Reviewed a good book [The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific]("/happy-isles-of-oceania/)
 - Wrote an essay [Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success](/finding-balance/)
 - Wrote an essay [Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You](/billionaires/)
-- Wrote a tribute [The Digital Canary: Arthur Firstenberg's Legacy of Electromagnetic Awareness](/arthur-firstenberg/)
-- Wrote an essay [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
-- Wrote an essay [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](power-of-letting-go/)
-- Updated my [robots.txt file](/robots.txt) to disallow bad bots and AI crawlers and turned on [AI bot blocker in Cloudflare](http://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click) as well.
 
 See my [past essays](/categories/)
 
