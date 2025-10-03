@@ -31,7 +31,7 @@ The book is both a guide and a story. It’s about learning to trust your instin
 [Get How To Create New Business Ideas on Amazon Kindle](https://amzn.to/3oZlRrW){: .btn .btn--primary .btn--large}{: .align-center}
 
 ## Introductions
-I wrote the introduction to my Dad's book [Parenting With Love: How to Raise Emotionally Healthy Children]([Amazon.com: Parenting With Love: How to Raise Emotionally Healthy Children eBook : Sherrod, Kent, Sherrod, Christopher: Kindle Store](https://amzn.to/3KDbRnz)
+I wrote the introduction to my Dad's book [Parenting With Love: How to Raise Emotionally Healthy Children](https://amzn.to/3KDbRnz)
 
 And I wrote the introduction to a friend's book [Conscious Love: Enlightened Relationships and Soulful Sex 11 Love Experts Reveal Their Secrets eBook : Torres, Alain, Menné, Christopher, Evans, Lucia Nicola, Morehead, Deborah, Baumgartner, Lana, Shumilova, Kristina, Nielsen, Deborah, Young, Joni, Dunn, Christine, Estanol, Dr. Elena](https://amzn.to/3KR5Fsa)
 ## Why I Write
