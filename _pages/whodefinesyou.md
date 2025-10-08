@@ -7,13 +7,13 @@ permalink: /whodefinesyou/
 We’ve been building on the web since the early days—always with a focus on creative solutions, practical systems, and long-term results. Our work has evolved alongside the internet itself:
 
 * **1996** – Created my own HTML website & specialty application
-* **1999** – Opened up to referred clients for HTML & PHPNuke web development
+* **1999** – Opened up to referred clients for web development
 * **2007** – WordPress development (before its public release)
 * **2015** – [Won a Publishing Award](/publishing-award/)
 * **2018** – WooCommerce shop setup & maintenance
 * **2022** – Custom art design added to our services
 * **2023** – Offering advanced static web framework development
-* **2024** – Ethical AI Workflows added
+* **2024** – Ethical AI Workflows
 ## Why Only Referrals?
 
 I don’t chase clients—I focus on relationships.
