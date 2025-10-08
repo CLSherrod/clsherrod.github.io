@@ -103,6 +103,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-redirect-from
+  - jekyll-loading-lazy
+  - jekyll-remote-theme
 
 # Author sidebar
 author:
