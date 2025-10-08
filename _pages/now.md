@@ -43,31 +43,11 @@ See [Projects](/projects) for a list of projects.
 - Wrote an essay [The Hidden Cost of Cutting Corners: Why Quality Hosting Matters More Than You Think](/why-good-hosting-matters/)
 - Reviewed a good book [The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific]("/happy-isles-of-oceania/)
 - Wrote an essay [Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success](/finding-balance/)
-- Wrote an essay [Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You](/billionaires/)
 
 See my [past essays](/categories/)
 
-## Recently Read
-- [Travels with Charley: In Search of America](https://amzn.to/3JCa9lP)
-- [The Best American Food and Travel Writing 2024: A Delicious Anthology with Rich Narratives and Bold Flavors, Taste the Best in Culinary Writing](https://amzn.to/4lxuSEY)
-- [Zen in the Art of Writing: Releasing the Creative Genius Within You](https://amzn.to/3V3Vxy7)
-
-I [review](/categories/#reviews) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
-
-## Listening
-- Loved the new live album [The Lamb Stands Up Live At The Royal Albert Hall](https://hackettsongs.com/news/steve-hackett-the-lamb-stands-up-live-at-the-royal-albert-hall.html) by Steve Hackett.
-- Enjoying the new album "Equilibrium" by sing-songwriter [Waves Rush In](https://wavesrushin.com)
-- Enjoying the new album "Blackbird and the Sun of October" by [Federico Albanese](https://www.federicoalbanese.com).
-- Love the new [Buddha Bar](https://www.buddhabar.com/en/buddha-bar-by-dole-kom-ravin/) album.
-
-I recommend the [1001 Albums You Must Hear Before You Die](https://1001albumsgenerator.com) challenge. You can [see my rated albums](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476). I enjoyed it so much I wrote an [entire essay about it](https://christophersherrod.com/1001-albums/).
-
-And check out [my profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
-
-## Watched
-- Enjoyed the new [Superman (2025)](https://www.imdb.com/title/tt5950044/?ref_=rt_t_1) movie
-- I really liked [Andor](https://www.imdb.com/title/tt9253284/?ref_=fn_all_ttl_1)
-- Good biopic on [Douglas Adams](https://www.imdb.com/title/tt36399785/?ref_=rt_t_26)
-- Liked [Paddington In Peru](https://www.imdb.com/title/tt5822536/?ref_=rt_t_36)
-
-[My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
+## Recently Read/Listened/Watched
+- I [review](/categories/#reviews) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
+- I recommend the [1001 Albums You Must Hear Before You Die challenge](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476). I enjoyed it so much I wrote an [entire essay about it](/1001-albums/).
+- Check out [my profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
+- [My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
