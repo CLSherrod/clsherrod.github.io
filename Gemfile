@@ -1,21 +1,21 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+ruby "3.2.2" # optional but recommended for reproducibility
 
-gem "tzinfo-data"
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "jekyll", ">= 4.3.3"
 
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  gem 'jekyll-seo-tag'
-  gem "jekyll-paginate"
-  gem "jekyll-sitemap"
-  gem "jekyll-gist"
-  gem "jekyll-feed"
-  gem "jemoji"
-  gem "jekyll-include-cache"
-  gem "jekyll-algolia"
-  gem 'jekyll-loading-lazy'
-  gem 'jekyll-remote-theme'
-  gem "webrick"
-end
+# Jekyll plugins you actually use in _config.yml:
+gem "jekyll-remote-theme"
+gem "jekyll-seo-tag"
+gem "jekyll-paginate"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem "jekyll-feed"
+gem "jemoji"
+gem "jekyll-include-cache"
+gem "jekyll-redirect-from"
+gem "jekyll-loading-lazy"
+
+# Dev helpers (safe to keep)
+gem "tzinfo-data", platforms: [:mingw, :x64_mingw, :mswin, :jruby]
+gem "webrick"

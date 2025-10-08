@@ -93,8 +93,9 @@ exclude:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Plugins (previously gems:)
+# Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
@@ -102,9 +103,8 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-redirect-from
   - jekyll-loading-lazy
-  - jekyll-remote-theme
+  - jekyll-redirect-from
 
 # Author sidebar
 author:

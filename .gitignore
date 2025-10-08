@@ -23,6 +23,8 @@ package-lock.json
 Gemfile.lock
 
 _site/
+.sass-cache
+.bundle
 .jekyll-metadata
 .jekyll-cache/
 .obsidian/app.json
