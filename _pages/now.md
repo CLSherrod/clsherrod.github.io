@@ -30,7 +30,7 @@ Updated on Wednesday October 8th, 2025.
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published
-- Reviewed [The Let Them Theory” by Mel Robbins Helps You Let Go and Take Back Your Power](/let-them-theory-mel-robbins-review/)
+- Reviewed ["The Let Them Theory” by Mel Robbins Helps You Let Go and Take Back Your Power](/let-them-theory-mel-robbins-review/)
 - Wrote [Remembering Maru: How a YouTube Cat Helped Me Heal](https://christophersherrod.com/maru/)
 - Wrote [Why Successful People Don’t Waste Time Arguing](https://christophersherrod.com/arguing/)
 - Review of an old client's book [Corp-bonics](/corp-bonics/)
