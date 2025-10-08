@@ -53,6 +53,7 @@ This isn’t a book you read once. It’s a phrase you carry for life.
 
 ### Where to Find It
 
-You can learn more about the book and listen to Mel’s episode about it here:  
+You can learn more about the book and listen to Mel’s episode about it here: 
+- [Why the "Let Them" Theory Works \| Mel Robbins' Tonight Show Interview - YouTube](https://youtu.be/6MBsKmLUDUM?si=TunOVpKtJX7DDYYC)
 - Video [The Life-Changing "Let Them" Mindset - Mel Robbins](https://www.melrobbins.com/episode/episode-70/)
 - Book [The Let Them Theory Book \| #1 Bestseller - Mel Robbins](https://www.melrobbins.com/book/the-let-them-theory/)
