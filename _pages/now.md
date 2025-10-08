@@ -19,12 +19,9 @@ Updated on Wednesday October 8th, 2025.
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
-- I operate a [web agency](/whodefinesyou) (referals only) since 1999.
+- I operate a [web agency](/whodefinesyou) (referrals only) since 1999.
 - I'm an artist known as [Chr1stopher](/chr1stopher)
 - Created some markdown projects for certain tracking I do in markdown text: [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), and [Gardening Project Managment Markdown](/gardening).
-
-## Previous Projects
-See [Projects](/projects) for a list of projects.
 
 ## Popular Essays
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
