@@ -12,7 +12,7 @@ header:
 # SEO overrides
 og_image: /assets/images/now-header.webp
 ---
-Updated on Tuesday October 1st, 2025.
+Updated on Wednesday October 8th, 2025.
 
 ## Currently Doing
 - I’m currently writing a book about my [electromagnetic hypersensitivity](/unplug/).
