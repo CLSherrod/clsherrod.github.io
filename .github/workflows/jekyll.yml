@@ -2,7 +2,7 @@ name: Build and Deploy Jekyll (GitHub Pages)
 
 on:
   push:
-    branches: [ "main" ]     # <-- change to "master" if that's your default
+    branches: [ "master" ]     # <-- change to "master" if that's your default
   workflow_dispatch:
 
 permissions:
