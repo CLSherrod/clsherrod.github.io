@@ -102,7 +102,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  - jekyll-loading-lazy
   - jekyll-redirect-from
 
 # Author sidebar
