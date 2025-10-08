@@ -19,7 +19,7 @@ Updated on Wednesday October 8th, 2025.
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
-- I operate a [web agency](/whodefinesyou) (referals only) since 1999.
+- I operate a [web agency](/whodefinesyou) (referrals only) since 1999.
 - I'm an artist known as [Chr1stopher](/chr1stopher)
 - Created some markdown projects for certain tracking I do in markdown text: [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), and [Gardening Project Managment Markdown](/gardening).
 
@@ -33,7 +33,7 @@ See [Projects](/projects) for a list of projects.
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published
-- Reviewed [The Let Them Theory” by Mel Robbins Helps You Let Go and Take Back Your Power](/let-them-theory-mel-robbins-review/)
+- Reviewed ["The Let Them Theory” by Mel Robbins Helps You Let Go and Take Back Your Power](/let-them-theory-mel-robbins-review/)
 - Wrote [Remembering Maru: How a YouTube Cat Helped Me Heal](https://christophersherrod.com/maru/)
 - Wrote [Why Successful People Don’t Waste Time Arguing](https://christophersherrod.com/arguing/)
 - Review of an old client's book [Corp-bonics](/corp-bonics/)
