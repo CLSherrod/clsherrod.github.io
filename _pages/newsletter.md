@@ -28,121 +28,162 @@ header:
     We're here to talk about living a fulfilling life.
   </p>
 
-  <form
-    id="newsletterForm"
-    action="https://mail.nanakasha.com/subscribe"
-    method="POST"
-    accept-charset="utf-8"
-    style="
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 10px;
-      background-color: turquoise;
-      padding: 15px;
-      border-radius: 8px;
-    "
-  >
-    <div
-      style="
-        display: flex;
-        flex-direction: column;
-        width: 100%;
-        max-width: 250px;
-      "
-    >
-      <label for="name" style="margin-right: 10px">Name</label>
-      <input
-        type="text"
-        name="name"
-        id="name"
-        style="margin-right: 20px; border: 2px solid blue; padding: 5px"
-      />
-    </div>
+      <form
+        id="newsletterForm"
+        action="https://mail.nanakasha.com/subscribe"
+        method="POST"
+        accept-charset="utf-8"
+        style="
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: center;
+          gap: 15px;
+          background-color: turquoise;
+          padding: 20px;
+          border-radius: 8px;
+          max-width: 600px;
+          margin: 0 auto;
+        "
+      >
+        <div
+          style="
+            display: flex;
+            flex-direction: column;
+            flex: 1 1 250px;
+            min-width: 220px;
+          "
+        >
+          <label for="name" style="margin-bottom: 5px; font-weight: bold">Name</label>
+          <input
+            type="text"
+            name="name"
+            id="name"
+            required
+            autocomplete="name"
+            style="
+              border: 2px solid blue;
+              padding: 10px;
+              border-radius: 5px;
+              font-size: 1rem;
+              width: 100%;
+              box-sizing: border-box;
+            "
+          />
+        </div>
 
-    <div
-      style="
-        display: flex;
-        flex-direction: column;
-        width: 100%;
-        max-width: 250px;
-      "
-    >
-      <label for="email" style="margin-right: 10px">Email</label>
-      <input
-        type="email"
-        name="email"
-        id="email"
-        style="margin-right: 20px; border: 2px solid blue; padding: 5px"
-      />
-    </div>
+        <div
+          style="
+            display: flex;
+            flex-direction: column;
+            flex: 1 1 250px;
+            min-width: 220px;
+          "
+        >
+          <label for="email" style="margin-bottom: 5px; font-weight: bold">Email</label>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            required
+            autocomplete="email"
+            inputmode="email"
+            style="
+              border: 2px solid blue;
+              padding: 10px;
+              border-radius: 5px;
+              font-size: 1rem;
+              width: 100%;
+              box-sizing: border-box;
+            "
+          />
+        </div>
 
-    <!-- Honeypot field (invisible to users) -->
-    <div style="position: absolute; left: -9999px;">
-      <label for="website">Website</label>
-      <input
-        type="text"
-        name="website"
-        id="website"
-        tabindex="-1"
-        autocomplete="off"
-      />
-    </div>
+        <!-- Honeypot field (hidden from users & assistive tech) -->
+        <div style="position: absolute; left: -9999px;" aria-hidden="true">
+          <label for="website" title="Leave this field blank">Website</label>
+          <input
+            type="text"
+            name="website"
+            id="website"
+            tabindex="-1"
+            autocomplete="off"
+          />
+        </div>
 
-    <!-- Timestamp field (hidden) -->
-    <input type="hidden" name="timestamp" id="timestamp" />
+        <!-- Timestamp field (hidden) -->
+        <input type="hidden" name="timestamp" id="timestamp" />
 
-    <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
-    <input type="hidden" name="subform" value="yes" />
+        <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
+        <input type="hidden" name="subform" value="yes" />
 
-    <input
-      type="submit"
-      name="submit"
-      id="submit"
-      value="Subscribe"
-      style="
-        border: 0;
-        padding: 0.8em 1.4em;
-        background-color: rgb(185, 75, 75);
-        color: white;
-        cursor: pointer;
-        border-radius: 100px;
-        width: 100%;
-        font-size: 1.5rem;
-        font-weight: 600;
-        letter-spacing: -0.004em;
-        line-height: 1;
-        max-width: 200px;
-        align-items: center;
-        display: inline-flex;
-        gap: 0.4em;
-        justify-content: center;
-      "
-    />
-  </form>
+        <!-- Centered responsive submit button -->
+        <div
+          style="
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+            width: 100%;
+          "
+        >
+          <input
+            type="submit"
+            name="submit"
+            id="submit"
+            value="Subscribe"
+            style="
+              border: 0;
+              padding: 0.8em 1.4em;
+              background-color: rgb(185, 75, 75);
+              color: white;
+              cursor: pointer;
+              border-radius: 100px;
+              width: 100%;
+              max-width: 220px;
+              font-size: 1.5rem;
+              font-weight: 600;
+              letter-spacing: -0.004em;
+              line-height: 1;
+              display: inline-flex;
+              align-items: center;
+              justify-content: center;
+              gap: 0.4em;
+              margin: 0 auto;
+            "
+          />
+        </div>
+      </form>
 
-  <script>
-    // Record timestamp when form loads
-    document.getElementById("timestamp").value = Date.now();
+      <script>
+        (function () {
+          function init() {
+            var ts = document.getElementById("timestamp");
+            if (ts) ts.value = Date.now();
 
-    document
-      .getElementById("newsletterForm")
-      .addEventListener("submit", function (e) {
-        const start = parseInt(
-          document.getElementById("timestamp").value,
-          10
-        );
-        const elapsed = (Date.now() - start) / 1000;
+            var form = document.getElementById("newsletterForm");
+            if (!form) return;
 
-        // If honeypot filled or form submitted too fast, block it
-        const honey = document.getElementById("website").value;
-        if (honey !== "" || elapsed < 5) {
-          e.preventDefault();
-          console.warn("Spam submission blocked.");
-          return false;
-        }
-      });
-  </script>
+            form.addEventListener("submit", function (e) {
+              var tsEl = document.getElementById("timestamp");
+              var start = parseInt(tsEl && tsEl.value ? tsEl.value : "0", 10);
+              var elapsed = start ? (Date.now() - start) / 1000 : 999; // allow submission if JS failed
+              var honeypotEl = document.getElementById("website");
+              var honey = honeypotEl && honeypotEl.value ? honeypotEl.value : "";
+
+              if (honey !== "" || elapsed < 5) {
+                e.preventDefault();
+                console.warn("Spam submission blocked.");
+                return false;
+              }
+            });
+          }
+
+          if (document.readyState === "loading") {
+            document.addEventListener("DOMContentLoaded", init);
+          } else {
+            init();
+          }
+        })();
+      </script>
 </section>
 
   <hr>
