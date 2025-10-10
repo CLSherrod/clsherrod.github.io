@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/home-header3.webp
   actions:
     - label: "Join Community"
-      url: "https://christophersherrod.com#newsletter"
+      url: "/#newsletter"
 teaser: /assets/images/home-header.webp
 tagline: "The Art of Living a Fulfilling Life"
 description: "Christopher Sherrod is a writer, artist, and slow lifestyle advocate. Discover his essays, poems, and books on living a fulfilling life, unplugging from toxic tech, and doing meaningful creative work."
@@ -27,6 +27,27 @@ author: "Christopher Sherrod"
 robots: index, follow
 canonical_url: "https://christophersherrod.com/"
 ---
+<!-- Interaction styles and responsive tweaks -->
+<style>
+  /* Button interaction */
+  #submit:hover,
+  #submit:focus-visible {
+    background-color: rgb(165, 55, 55);
+    transform: scale(1.03);
+  }
+  #submit {
+    transition: background-color .3s ease, transform .2s ease, box-shadow .2s ease;
+  }
+  #submit:focus-visible {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(185,75,75,.35);
+  }
+  /* Optional: tighten the turquoise banner padding on small screens */
+  @media (max-width: 480px) {
+    #newsletterForm { padding: 16px !important; }
+  }
+</style>
+
 <!-- Intro -->
 <div class="page__content">
   <div class="wrapper">
@@ -38,7 +59,7 @@ canonical_url: "https://christophersherrod.com/"
       <a href="{{ '/unplug' | relative_url }}">Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health</a>
       plus numerous <a href="{{ '/blog/' | relative_url }}">essays</a>, and
       <a href="{{ '/categories/#poems' | relative_url }}">poems</a>. I am also an artist known as
-      <a href="https://chr1stopher.com">Chr♪stopher</a>. Plus I've done some helpful
+      <a href="https://chr1stopher.com">Chr1stopher</a>. Plus I've done some helpful
       <a href="{{ '/projects/' | relative_url }}">projects</a>. Learn <a href="{{ '/about/' | relative_url }}">more about me</a>.
     </section>
   </div>
@@ -53,121 +74,162 @@ canonical_url: "https://christophersherrod.com/"
       </h1>
 
       <form
-      id="newsletterForm"
-      action="https://mail.nanakasha.com/subscribe"
-      method="POST"
-      accept-charset="utf-8"
-      style="
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 10px;
-        background-color: turquoise;
-        padding: 15px;
-        border-radius: 8px;
-      "
-    >
-      <div
+        id="newsletterForm"
+        action="https://mail.nanakasha.com/subscribe"
+        method="POST"
+        accept-charset="utf-8"
         style="
           display: flex;
-          flex-direction: column;
-          width: 100%;
-          max-width: 250px;
-        "
-      >
-        <label for="name" style="margin-right: 10px">Name</label>
-        <input
-          type="text"
-          name="name"
-          id="name"
-          style="margin-right: 20px; border: 2px solid blue; padding: 5px"
-        />
-      </div>
-  
-      <div
-        style="
-          display: flex;
-          flex-direction: column;
-          width: 100%;
-          max-width: 250px;
-        "
-      >
-        <label for="email" style="margin-right: 10px">Email</label>
-        <input
-          type="email"
-          name="email"
-          id="email"
-          style="margin-right: 20px; border: 2px solid blue; padding: 5px"
-        />
-      </div>
-  
-      <!-- Honeypot field (invisible to users) -->
-      <div style="position: absolute; left: -9999px;">
-        <label for="website">Website</label>
-        <input
-          type="text"
-          name="website"
-          id="website"
-          tabindex="-1"
-          autocomplete="off"
-        />
-      </div>
-  
-      <!-- Timestamp field (hidden) -->
-      <input type="hidden" name="timestamp" id="timestamp" />
-  
-      <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
-      <input type="hidden" name="subform" value="yes" />
-  
-      <input
-        type="submit"
-        name="submit"
-        id="submit"
-        value="Subscribe"
-        style="
-          border: 0;
-          padding: 0.8em 1.4em;
-          background-color: rgb(185, 75, 75);
-          color: white;
-          cursor: pointer;
-          border-radius: 100px;
-          width: 100%;
-          font-size: 1.5rem;
-          font-weight: 600;
-          letter-spacing: -0.004em;
-          line-height: 1;
-          max-width: 200px;
-          align-items: center;
-          display: inline-flex;
-          gap: 0.4em;
+          flex-wrap: wrap;
           justify-content: center;
+          gap: 15px;
+          background-color: turquoise;
+          padding: 20px;
+          border-radius: 8px;
+          max-width: 600px;
+          margin: 0 auto;
         "
-      />
-    </form>
-  
-    <script>
-      // Record timestamp when form loads
-      document.getElementById("timestamp").value = Date.now();
-  
-      document
-        .getElementById("newsletterForm")
-        .addEventListener("submit", function (e) {
-          const start = parseInt(
-            document.getElementById("timestamp").value,
-            10
-          );
-          const elapsed = (Date.now() - start) / 1000;
-  
-          // If honeypot filled or form submitted too fast, block it
-          const honey = document.getElementById("website").value;
-          if (honey !== "" || elapsed < 5) {
-            e.preventDefault();
-            console.warn("Spam submission blocked.");
-            return false;
+      >
+        <div
+          style="
+            display: flex;
+            flex-direction: column;
+            flex: 1 1 250px;
+            min-width: 220px;
+          "
+        >
+          <label for="name" style="margin-bottom: 5px; font-weight: bold">Name</label>
+          <input
+            type="text"
+            name="name"
+            id="name"
+            required
+            autocomplete="name"
+            style="
+              border: 2px solid blue;
+              padding: 10px;
+              border-radius: 5px;
+              font-size: 1rem;
+              width: 100%;
+              box-sizing: border-box;
+            "
+          />
+        </div>
+
+        <div
+          style="
+            display: flex;
+            flex-direction: column;
+            flex: 1 1 250px;
+            min-width: 220px;
+          "
+        >
+          <label for="email" style="margin-bottom: 5px; font-weight: bold">Email</label>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            required
+            autocomplete="email"
+            inputmode="email"
+            style="
+              border: 2px solid blue;
+              padding: 10px;
+              border-radius: 5px;
+              font-size: 1rem;
+              width: 100%;
+              box-sizing: border-box;
+            "
+          />
+        </div>
+
+        <!-- Honeypot field (hidden from users & assistive tech) -->
+        <div style="position: absolute; left: -9999px;" aria-hidden="true">
+          <label for="website" title="Leave this field blank">Website</label>
+          <input
+            type="text"
+            name="website"
+            id="website"
+            tabindex="-1"
+            autocomplete="off"
+          />
+        </div>
+
+        <!-- Timestamp field (hidden) -->
+        <input type="hidden" name="timestamp" id="timestamp" />
+
+        <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
+        <input type="hidden" name="subform" value="yes" />
+
+        <!-- Centered responsive submit button -->
+        <div
+          style="
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+            width: 100%;
+          "
+        >
+          <input
+            type="submit"
+            name="submit"
+            id="submit"
+            value="Subscribe"
+            style="
+              border: 0;
+              padding: 0.8em 1.4em;
+              background-color: rgb(185, 75, 75);
+              color: white;
+              cursor: pointer;
+              border-radius: 100px;
+              width: 100%;
+              max-width: 220px;
+              font-size: 1.5rem;
+              font-weight: 600;
+              letter-spacing: -0.004em;
+              line-height: 1;
+              display: inline-flex;
+              align-items: center;
+              justify-content: center;
+              gap: 0.4em;
+              margin: 0 auto;
+            "
+          />
+        </div>
+      </form>
+
+      <script>
+        (function () {
+          function init() {
+            var ts = document.getElementById("timestamp");
+            if (ts) ts.value = Date.now();
+
+            var form = document.getElementById("newsletterForm");
+            if (!form) return;
+
+            form.addEventListener("submit", function (e) {
+              var tsEl = document.getElementById("timestamp");
+              var start = parseInt(tsEl && tsEl.value ? tsEl.value : "0", 10);
+              var elapsed = start ? (Date.now() - start) / 1000 : 999; // allow submission if JS failed
+              var honeypotEl = document.getElementById("website");
+              var honey = honeypotEl && honeypotEl.value ? honeypotEl.value : "";
+
+              if (honey !== "" || elapsed < 5) {
+                e.preventDefault();
+                console.warn("Spam submission blocked.");
+                return false;
+              }
+            });
           }
-        });
-    </script>
-      </div>
+
+          if (document.readyState === "loading") {
+            document.addEventListener("DOMContentLoaded", init);
+          } else {
+            init();
+          }
+        })();
+      </script>
+    </div>
   </div>
 </section>
 
@@ -184,7 +246,7 @@ canonical_url: "https://christophersherrod.com/"
           <li>
             <b>
               {{ post.categories | first | default: "Post" | capitalize }} –
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             </b>
             – <i>{{ post.date | date: "%B %d, %Y" }}</i>
           </li>
@@ -223,14 +285,15 @@ canonical_url: "https://christophersherrod.com/"
         essays, reviews, poems and projects.
       </p>
     </section>
-
   </div>
 </div>
 
+<!-- Structured data -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "https://christophersherrod.com/#person",
   "name": "Christopher Sherrod",
   "url": "https://christophersherrod.com",
   "sameAs": [
