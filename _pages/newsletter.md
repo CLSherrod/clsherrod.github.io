@@ -9,6 +9,7 @@ header:
   image_description: Art Newsletter by Chr1stopher
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 author_profile: false
+classes: wide
 ---
 
   <!-- Newsletter -->
