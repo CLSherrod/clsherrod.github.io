@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: Newsletter
 permalink: /newsletter/
 teaser: /assets/images/newsletter-header.webp
