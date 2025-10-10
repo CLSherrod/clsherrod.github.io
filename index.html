@@ -11,7 +11,7 @@ header:
       url: "/#newsletter"
 teaser: /assets/images/home-header.webp
 tagline: "The Art of Living a Fulfilling Life"
-description: "Christopher Sherrod is a writer, artist, and slow lifestyle advocate. Discover his essays, poems, and books on living a fulfilling life, unplugging from toxic tech, and doing meaningful creative work."
+description: "Christopher Sherrod is a writer, artist, and fulfilling lifestyle advocate. Discover his essays, poems, and books on living a fulfilling life, unplugging from toxic tech, and doing meaningful creative work."
 keywords:
   [
     "Christopher Sherrod",
@@ -288,7 +288,7 @@ canonical_url: "https://christophersherrod.com/"
   </div>
 </div>
 
-<!-- Structured data -->
+<!-- Structured data: Person -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -305,4 +305,34 @@ canonical_url: "https://christophersherrod.com/"
   "image": "https://christophersherrod.com/assets/images/home-header2.webp",
   "description": "Christopher Sherrod is a writer, artist, and slow lifestyle advocate sharing essays, books, and reflections on fulfilling living, creative entrepreneurship, and EMF sensitivity."
 }
+</script>
+
+<!-- Structured data: WebSite with SearchAction -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://christophersherrod.com/#website",
+  "url": "https://christophersherrod.com/",
+  "name": "Christopher Sherrod",
+  "publisher": { "@id": "https://christophersherrod.com/#person" },
+  "inLanguage": "en",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://christophersherrod.com/search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<!-- Defensive lazy-loading for any inline images in this page -->
+<script>
+  (function () {
+    var imgs = document.querySelectorAll('img:not([loading])');
+    for (var i = 0; i < imgs.length; i++) {
+      imgs[i].setAttribute('loading', 'lazy');
+      // Optional: decode hint for browsers that support it
+      if ('decode' in imgs[i]) { imgs[i].decode().catch(function(){}); }
+    }
+  })();
 </script>
