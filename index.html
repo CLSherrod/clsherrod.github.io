@@ -53,37 +53,121 @@ canonical_url: "https://christophersherrod.com/"
       </h1>
 
       <form
-        action="https://mail.nanakasha.com/subscribe"
-        method="POST"
-        accept-charset="utf-8"
-        class="newsletter-form"
+      id="newsletterForm"
+      action="https://mail.nanakasha.com/subscribe"
+      method="POST"
+      accept-charset="utf-8"
+      style="
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 10px;
+        background-color: turquoise;
+        padding: 15px;
+        border-radius: 8px;
+      "
+    >
+      <div
+        style="
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+          max-width: 250px;
+        "
       >
-        <div class="newsletter-field">
-          <label for="name">Name</label>
-          <input type="text" name="name" id="name" />
-        </div>
-        &nbsp;
-        <div class="newsletter-field">
-          <label for="email">Email</label>
-          <input type="email" name="email" id="email" />
-        </div>
-        <div style="display: none">
-          <label for="hp">HP</label>
-          <input type="text" name="hp" id="hp" />
-        </div>
-
-        <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
-        <input type="hidden" name="subform" value="yes" />
-        &nbsp;
+        <label for="name" style="margin-right: 10px">Name</label>
         <input
-          type="submit"
-          name="submit"
-          id="submit"
-          value="Subscribe"
-          class="newsletter-submit"
+          type="text"
+          name="name"
+          id="name"
+          style="margin-right: 20px; border: 2px solid blue; padding: 5px"
         />
-      </form>
-    </div>
+      </div>
+  
+      <div
+        style="
+          display: flex;
+          flex-direction: column;
+          width: 100%;
+          max-width: 250px;
+        "
+      >
+        <label for="email" style="margin-right: 10px">Email</label>
+        <input
+          type="email"
+          name="email"
+          id="email"
+          style="margin-right: 20px; border: 2px solid blue; padding: 5px"
+        />
+      </div>
+  
+      <!-- Honeypot field (invisible to users) -->
+      <div style="position: absolute; left: -9999px;">
+        <label for="website">Website</label>
+        <input
+          type="text"
+          name="website"
+          id="website"
+          tabindex="-1"
+          autocomplete="off"
+        />
+      </div>
+  
+      <!-- Timestamp field (hidden) -->
+      <input type="hidden" name="timestamp" id="timestamp" />
+  
+      <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
+      <input type="hidden" name="subform" value="yes" />
+  
+      <input
+        type="submit"
+        name="submit"
+        id="submit"
+        value="Subscribe"
+        style="
+          border: 0;
+          padding: 0.8em 1.4em;
+          background-color: rgb(185, 75, 75);
+          color: white;
+          cursor: pointer;
+          border-radius: 100px;
+          width: 100%;
+          font-size: 1.5rem;
+          font-weight: 600;
+          letter-spacing: -0.004em;
+          line-height: 1;
+          max-width: 200px;
+          align-items: center;
+          display: inline-flex;
+          gap: 0.4em;
+          justify-content: center;
+        "
+      />
+    </form>
+  
+    <script>
+      // Record timestamp when form loads
+      document.getElementById("timestamp").value = Date.now();
+  
+      document
+        .getElementById("newsletterForm")
+        .addEventListener("submit", function (e) {
+          const start = parseInt(
+            document.getElementById("timestamp").value,
+            10
+          );
+          const elapsed = (Date.now() - start) / 1000;
+  
+          // If honeypot filled or form submitted too fast, block it
+          const honey = document.getElementById("website").value;
+          if (honey !== "" || elapsed < 5) {
+            e.preventDefault();
+            console.warn("Spam submission blocked.");
+            return false;
+          }
+        });
+    </script>
+      </div>
   </div>
 </section>
 
