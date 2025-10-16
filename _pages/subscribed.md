@@ -4,10 +4,9 @@ classes: wide
 title: Subscribe Success
 permalink: /subscribed/
 teaser: /assets/images/books-header.webp
-header:
-  image: /assets/images/books-header.webp
+robots: noindex,nofollow
 ---
-You have successful subscribed to my newsletter. Check your email for a welcome email from me. It’s from chris@christophersherrod.com.
+You have successful subscribed to my newsletter. Check your email for a welcome email from me, Christopher Sherrod.
 
 I'll let you know when I have something new out.
 
