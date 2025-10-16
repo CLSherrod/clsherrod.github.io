@@ -2,7 +2,7 @@
 layout: single
 title: You’ve Been Unsubscribed
 permalink: /unsubscribed/
-toc: true
+toc: false
 teaser:
 og_image: /assets/images/home-header2.webp
 ---

@@ -2,7 +2,7 @@
 layout: single
 title: Check Your Email to Confirm Your Subscription
 permalink: /confirmation/
-toc: true
+toc: false
 teaser:
 header:
   overlay_image:
