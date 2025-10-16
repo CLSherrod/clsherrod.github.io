@@ -5,6 +5,7 @@ title: Subscribe Success
 permalink: /subscribed/
 teaser: /assets/images/books-header.webp
 robots: noindex,nofollow
+sitemap: false
 ---
 You have successful subscribed to my newsletter. Check your email for a welcome email from me, Christopher Sherrod.
 

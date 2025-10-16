@@ -6,6 +6,7 @@ toc: false
 teaser:
 og_image: /assets/images/home-header2.webp
 robots: noindex,nofollow
+sitemap: false
 ---
 You’ve been successfully removed from my email list.
 
