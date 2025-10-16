@@ -8,6 +8,7 @@ og_image: /assets/images/home-header2.webp
 robots: noindex,nofollow
 sitemap: false
 classes: wide
+author_profile: true
 ---
 You’ve been successfully removed from my email list.
 

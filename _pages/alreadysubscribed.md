@@ -6,6 +6,7 @@ permalink: /alreadysubscribed/
 published: true
 robots: noindex,nofollow
 sitemap: false
+author_profile: false
 ---
 You are already subscribed to my notifications list. Look for emails from Christopher Sherrod and mark them as not spam.
 
