@@ -9,8 +9,7 @@ og_image: /assets/images/home-header2.webp
 **Please Confirm Your Subscription**
 
 A confirmation email has just been sent to your inbox.
-To start receiving my essays and stories about living a fulfilling life,
-**please click the confirmation link inside that email.**
+To start receiving my essays and stories about living a fulfilling life, **please click the confirmation link inside that email.**
 
 If you don’t see it within a few minutes, please:
 - Check your **Spam** or **Promotions** folder
