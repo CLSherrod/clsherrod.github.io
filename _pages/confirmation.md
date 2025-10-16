@@ -4,11 +4,6 @@ title: Check Your Email to Confirm Your Subscription
 permalink: /confirmation/
 toc: false
 teaser:
-header:
-  overlay_image:
-  overlay_filter: 0.1
-  image_description: ""
-  caption: ""
 og_image: /assets/images/home-header2.webp
 ---
 **Please Confirm Your Subscription**
