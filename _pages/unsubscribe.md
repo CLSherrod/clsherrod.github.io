@@ -16,6 +16,7 @@ If you ever decide to return, you’re always welcome to rejoin at
 In the meantime, you can still read new essays, stories, and reflections about  
 **living a fulfilling life** directly on the [website](https://christophersherrod.com/).
 
-
 **No hard feelings, just gratitude.**  
 *Christopher Sherrod*
+
+[Rejoin the Newsletter](https://christophersherrod.com#newsletter)
