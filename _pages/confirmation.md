@@ -6,8 +6,6 @@ toc: false
 teaser:
 og_image: /assets/images/home-header2.webp
 ---
-**Please Confirm Your Subscription**
-
 A confirmation email has just been sent to your inbox.
 To start receiving my essays and stories about living a fulfilling life, **please click the confirmation link inside that email.**
 
