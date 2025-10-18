@@ -12,10 +12,10 @@ header:
 # SEO overrides
 og_image: /assets/images/now-header.webp
 ---
-Updated on Friday October 10th, 2025.
+Updated on Saturday October 18th, 2025.
 
 ## Currently Doing
-- I’m currently writing a course about my [electromagnetic hypersensitivity](/unplug/) and reducing EMFs in everyday life.
+- I’m currently writing a course about how to reduce electromagnetic fields in your home.
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
