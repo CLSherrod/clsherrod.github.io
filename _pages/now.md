@@ -15,7 +15,7 @@ og_image: /assets/images/now-header.webp
 Updated on Saturday October 18th, 2025.
 
 ## Currently Doing
-- I’m currently writing a course about how to reduce electromagnetic fields in your home.
+- I’m currently writing a course _EMF-Free Home Starter Kit_ to help you reduce exposure, sleep deeper, and feel grounded again — without adding more tech or stress to your life.
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
