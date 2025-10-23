@@ -3,7 +3,7 @@ title: Living on a dollar a day
 date: 2017-05-24
 published: true
 categories:
-  - "Lifestyle  & Travel"
+  - "Lifestyle & Travel"
 tags:
   - fulfilling-life
 permalink: /living-on-a-dollar-a-day/
