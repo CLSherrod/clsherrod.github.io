@@ -251,20 +251,21 @@ canonical_url: "https://christophersherrod.com/"
           {% for post in sorted_posts limit: 10 %}
             {% assign category = post.categories | first | default: "Post" %}
             {% assign words = category | split: ' ' %}
-            {% assign capitalized = '' %}
-            {% for word in words %}
-              {% assign capitalized = capitalized | append: word | capitalize | append: ' ' %}
-            {% endfor %}
+            {% capture titlecase %}
+              {% for w in words %}
+                {{ w | capitalize }}
+              {% endfor %}
+            {% endcapture %}
           <li>
             <b>
-              {{ capitalized | strip }} –
+              {{ titlecase | strip }} –
               <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
             </b>
             – <i>{{ post.date | date: "%B %d, %Y" }}</i>
           </li>
           {% endfor %}
         </ul>
-      </article>
+      </article>      
       
       <p>Explore <a href="{{ '/blog' | relative_url }}">all essays in the archive</a></p>
     </section>
