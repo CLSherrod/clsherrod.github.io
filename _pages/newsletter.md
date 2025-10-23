@@ -15,9 +15,8 @@ author_profile: false
 <!-- ===============================
      NEWSLETTER SECTION
      =============================== -->
-
-<section id="newsletter" style="background: #e0f9f6; padding: 3rem 0;">
-  <div style="max-width: 900px; margin: 0 auto;">
+<section style="width: 100vw; margin-left: calc(50% - 50vw); background-color: #40E0D0; padding: 3rem 0;">
+  <div class="wrapper">
       <h2 class="hero-title animate-slide-up">Get my daily letter — one grounded idea for living well.</h2>
       <form
         id="newsletterForm"
