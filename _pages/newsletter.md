@@ -12,23 +12,13 @@ author_profile: false
 classes: wide
 ---
 
-  <!-- Newsletter -->
-<section
-  id="newsletter"
-  style="background-color: turquoise; padding: 20px; border-radius: 8px"
->
-  <br />
-  <p
-    style="
-      text-align: center;
-      font-size: 1.5rem;
-      margin-bottom: 10px;
-      font-weight: bold;
-    "
-  >
-    We're here to talk about living a fulfilling life.
-  </p>
-
+<!-- ===============================
+     NEWSLETTER SECTION
+     =============================== -->
+<section id="newsletter" class="full-bleed turquoise-banner">
+  <div class="wrapper">
+    <div class="newsletter-content">
+      <h2 class="hero-title animate-slide-up">Get my daily letter — one grounded idea for living well.</h2>
       <form
         id="newsletterForm"
         action="https://mail.nanakasha.com/subscribe"
@@ -151,9 +141,9 @@ classes: wide
               margin: 0 auto;
             "
           />
-        </div>
+          </div>
       </form>
-
+      <p align="center">No spam. Unsubscribe anytime.</p>
       <script>
         (function () {
           function init() {
@@ -185,18 +175,6 @@ classes: wide
           }
         })();
       </script>
+    </div>
+  </div>
 </section>
-
-  <hr>
-  <!-- Intro -->
-  <section id="intro">
-    I am the author of two books on
-    <a href="/business-ideas/"
-      >How To Create New Business Ideas Based On What You Love</a
-    >, plus numerous <a href="/categories/#essays">essays</a>,
-    <a href="/categories/#reviews">reviews</a>, and
-    <a href="/categories/#poems">poems</a>. I am also a
-    <a href="/whodefinesyou/">web agency</a> owner, artist and musician
-    <a href="/chr1stopher/">Chr♪stopher</a> and some helpful
-    <a href="/projects/">projects</a>.<br /><br />
-  </section>
