@@ -55,9 +55,8 @@ author_profile: false
     transform: scale(1.05);
   }
 </style>
-
+<h2 class="hero-title animate-slide-up">Get my daily letter — one grounded idea for living well.</h2>
 <section id="newsletterFormWrapper">
- <h2 class="hero-title animate-slide-up">Get my daily letter — one grounded idea for living well.</h2>
   <form action="https://mail.nanakasha.com/subscribe" method="POST">
     <input type="text" name="name" placeholder="Your name" required>
     <input type="email" name="email" placeholder="Your email" required>
