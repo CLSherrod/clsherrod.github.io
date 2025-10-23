@@ -24,3 +24,7 @@
   /* Optional: if any page still scrolls sideways on iOS */
   html, body { overflow-x: hidden; }
   
+#submit:hover,
+#submit:focus-visible {
+  background-color: #30c5b6;
+}
