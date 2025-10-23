@@ -67,6 +67,7 @@ author_profile: false
   padding: 3rem 0;
   text-align: center;
 ">
+ <h2 class="hero-title animate-slide-up">Get my daily letter — one grounded idea for living well.</h2>
   <form id="newsletterForm"
         action="https://mail.nanakasha.com/subscribe"
         method="POST"
@@ -78,6 +79,7 @@ author_profile: false
           gap: 1rem;
           max-width: 900px;
           margin: 0 auto;
+          background: #40E0D0;
         ">
     <input type="text" name="name" placeholder="Your name" required
            style="flex:1 1 280px; min-width:220px; padding:0.8rem;
