@@ -4,7 +4,7 @@ date: 2025-10-25
 description: The Power That Everyone Believes In
 preview: The Power That Everyone Believes In
 categories:
-  - Learning & Growing
+  - Learning & Growth
 tags:
   - fulfilling-life
   - spirituality

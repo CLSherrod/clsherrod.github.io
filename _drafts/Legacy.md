@@ -4,7 +4,7 @@ date: 2025-10-01
 description: "Your Legacy Isn't What You Leave Behind -- It's What You Leave in Others"
 preview: "Your Legacy Isn't What You Leave Behind -- It's What You Leave in Others" 
 categories: 
-  - Learning & Growing
+  - Learning & Growth
 tags:
   - fulfilling-life
 toc: true
