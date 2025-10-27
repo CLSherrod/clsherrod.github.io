@@ -39,6 +39,15 @@ And I wrote the introduction to a friend's book [Conscious Love: Enlightened Rel
 For me, writing isn’t just about sharing knowledge—it’s about leaving a trail. When I look back at the challenges I’ve faced—quitting a secure job, starting over, living abroad, even recovering from seizures that made me rethink everything—I see turning points. Writing lets me mark those places and say: _This is what I learned. Maybe it will help you, too._
 
 That’s why I keep showing up to the page. Not because I have all the answers, but because I believe in asking the right questions.
+## Welcome to My Virtual Bookshop
+
+I’ve always loved the idea of running a small bookshop — the kind with uneven floors, handwritten notes tucked into the shelves, and quiet conversations about what a story _really_ meant.
+
+Life took me another way. Business, travel, art, writing — all kept me moving. So instead of one physical place, I’ve built this page as my [virtual bookshop](/bookshop/) — a window display of the books that have shaped me.
+
+Some made me rethink success. Others helped me heal, write better, or simply see life from a new angle. I’ve reviewed them here not as a critic, but as a fellow traveler — sharing the titles that left fingerprints on my life.
+
+Take a wander. You might find a book that meets you exactly where you are.
 ## Additional Resources
 
 If something I’ve written sparks a thought or a question, the best way to connect with me is through my newsletter. That’s where I share my latest essays, behind-the-scenes stories, and reflections I don’t post anywhere else.
