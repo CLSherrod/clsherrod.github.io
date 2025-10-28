@@ -1,6 +1,6 @@
 ---
 title: Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled
-date:
+date: 2025-10-08
 description: Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled
 preview: Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled
 categories:
