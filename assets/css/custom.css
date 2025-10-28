@@ -1,4 +1,7 @@
 /* === Interaction styles and responsive tweaks === */
+html {
+  scroll-behavior: smooth;
+}
 
 /* Button interaction */
 #submit {
@@ -198,4 +201,8 @@ body {
     font-size: 0.85rem;
     padding: 0.6rem 1rem;
   }
+}
+
+:target {
+  scroll-margin-top: 100px; /* adjust to your header height */
 }
