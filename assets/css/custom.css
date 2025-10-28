@@ -1,28 +1,30 @@
-/* === Interaction styles and responsive tweaks  === */
-<style>
-  /* Button interaction */
-  #submit:hover,
-  #submit:focus-visible {
-    background-color: rgb(165, 55, 55);
-    transform: scale(1.03);
+/* === Interaction styles and responsive tweaks === */
+
+/* Button interaction */
+#submit {
+  transition:
+    background-color 0.3s ease,
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+#submit:hover,
+#submit:focus-visible {
+  background-color: rgb(165, 55, 55);
+  transform: scale(1.03);
+}
+
+#submit:focus-visible {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(185, 75, 75, 0.35);
+}
+
+/* Optional: tighten turquoise banner padding on small screens */
+@media (max-width: 480px) {
+  #newsletterForm {
+    padding: 16px !important;
   }
-  #submit {
-    transition:
-      background-color 0.3s ease,
-      transform 0.2s ease,
-      box-shadow 0.2s ease;
-  }
-  #submit:focus-visible {
-    outline: none;
-    box-shadow: 0 0 0 3px rgba(185, 75, 75, 0.35);
-  }
-  /* Optional: tighten the turquoise banner padding on small screens */
-  @media (max-width: 480px) {
-    #newsletterForm {
-      padding: 16px !important;
-    }
-  }
-</style>
+}
 
 /* === FULL-BLEED SECTIONS === */
 /* Make a section truly full width without causing horizontal scroll */
@@ -50,13 +52,13 @@
   max-width: 100%;
 }
 
-/* Optional: prevent horizontal scroll on mobile/iOS */
+/* Prevent horizontal scroll on mobile/iOS */
 html,
 body {
   overflow-x: hidden;
 }
 
-/* === GLOBAL BUTTON HOVER === */
+/* === GLOBAL BUTTON HOVER (overrides red button for turquoise theme) === */
 #submit:hover,
 #submit:focus-visible {
   background-color: #30c5b6;
@@ -70,7 +72,7 @@ body {
   flex-direction: column;
   text-align: center;
 
-  /* Combine your turquoise gradient and the image */
+  /* Combine turquoise gradient + image */
   background:
     linear-gradient(
       160deg,
