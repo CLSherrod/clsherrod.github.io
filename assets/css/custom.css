@@ -1,3 +1,4 @@
+/* === FULL-BLEED SECTIONS === */
 /* Make a section truly full width without causing horizontal scroll */
 .full-bleed {
   position: relative;
@@ -6,34 +7,36 @@
   margin-left: -50vw;
   margin-right: -50vw;
   width: 100vw;
-  box-sizing: border-box; /* so padding stays inside */
+  box-sizing: border-box; /* padding stays inside */
+  overflow-x: hidden;
 }
 
 /* Constrain inner content to site width */
 .full-bleed > .wrapper {
-  max-width: 1200px; /* match your site/container max-width */
+  max-width: 1200px; /* match site container width */
   margin: 0 auto;
-  padding: 2rem 1rem; /* put horizontal padding here, not on .full-bleed */
+  padding: 2rem 1rem;
 }
 
-/* Safety: prevent any child from pushing the page */
+/* Safety: prevent children from pushing layout */
 .page__content,
 .page__content * {
   max-width: 100%;
 }
 
-/* Optional: if any page still scrolls sideways on iOS */
+/* Optional: prevent horizontal scroll on mobile/iOS */
 html,
 body {
   overflow-x: hidden;
 }
 
+/* === GLOBAL BUTTON HOVER === */
 #submit:hover,
 #submit:focus-visible {
   background-color: #30c5b6;
 }
 
-/* === HERO SECTION (turquoise version) === */
+/* === HERO SECTION (Turquoise Version) === */
 .hero {
   display: flex;
   align-items: center;
@@ -51,7 +54,7 @@ body {
 }
 
 .hero::after {
-  /* optional soft texture overlay for depth */
+  /* Soft texture overlay for depth */
   content: "";
   position: absolute;
   inset: 0;
@@ -71,7 +74,6 @@ body {
   font-size: 2.8rem;
   margin-bottom: 1rem;
   line-height: 1.2;
-  color: #ffffff;
 }
 
 .hero .tagline {
@@ -120,5 +122,49 @@ body {
 
   .hero .subline {
     font-size: 1rem;
+  }
+}
+
+/* === HERO FLOATING BUTTON === */
+.hero-float-button {
+  position: absolute;
+  bottom: 2rem;
+  left: 2rem;
+  background-color: #40e0d0;
+  color: #000;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.8rem 1.6rem;
+  border-radius: 100px;
+  text-decoration: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
+  transition:
+    background-color 0.3s ease,
+    transform 0.2s ease;
+  z-index: 2;
+}
+
+.hero-float-button:hover,
+.hero-float-button:focus {
+  background-color: #30c5b6;
+  transform: scale(1.05);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .hero-float-button {
+    bottom: 1.5rem;
+    left: 1rem;
+    font-size: 0.9rem;
+    padding: 0.7rem 1.2rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-float-button {
+    bottom: 1rem;
+    left: 0.8rem;
+    font-size: 0.85rem;
+    padding: 0.6rem 1rem;
   }
 }
