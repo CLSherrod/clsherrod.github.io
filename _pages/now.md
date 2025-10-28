@@ -12,7 +12,7 @@ header:
 # SEO overrides
 og_image: /assets/images/now-header.webp
 ---
-Updated on Saturday October 18th, 2025.
+Updated on Tuesday October 28th, 2025.
 
 ## Currently Doing
 - I’m currently writing a course _EMF-Free Home Starter Kit_ to help you reduce exposure, sleep deeper, and feel grounded again — without adding more tech or stress to your life.
@@ -30,6 +30,7 @@ Updated on Saturday October 18th, 2025.
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published
+- Wrote [Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled](https://christophersherrod.com/fulfilled-not-fast-or-slow/)
 - Reviewed ["The Let Them Theory” by Mel Robbins Helps You Let Go and Take Back Your Power](/let-them-theory-mel-robbins-review/)
 - Wrote [Remembering Maru: How a YouTube Cat Helped Me Heal](https://christophersherrod.com/maru/)
 - Wrote [Why Successful People Don’t Waste Time Arguing](https://christophersherrod.com/arguing/)
