@@ -36,7 +36,7 @@ body {
   background-color: #30c5b6;
 }
 
-/* === HERO SECTION (Turquoise Version) === */
+/* === HERO SECTION (turquoise version with background image) === */
 .hero {
   display: flex;
   align-items: center;
@@ -44,23 +44,20 @@ body {
   flex-direction: column;
   text-align: center;
 
-  background: linear-gradient(160deg, #40e0d0 0%, #30c5b6 100%);
-  color: #fff;
+  /* Combine your turquoise gradient and the image */
+  background:
+    linear-gradient(
+      160deg,
+      rgba(64, 224, 208, 0.95) 0%,
+      rgba(48, 197, 182, 0.9) 100%
+    ),
+    url("/assets/images/home-header3.webp") center/cover no-repeat;
 
+  color: #fff;
   padding: 8rem 1rem;
   min-height: 70vh;
   position: relative;
   overflow: hidden;
-}
-
-.hero::after {
-  /* Soft texture overlay for depth */
-  content: "";
-  position: absolute;
-  inset: 0;
-  background: url("/assets/images/home-header3.webp") center/cover no-repeat;
-  opacity: 0.18;
-  z-index: 0;
 }
 
 .hero-inner {
@@ -109,7 +106,13 @@ body {
   .hero {
     padding: 4rem 1rem;
     min-height: 50vh;
-    background: linear-gradient(160deg, #40e0d0 10%, #2db5a4 100%);
+    background:
+      linear-gradient(
+        160deg,
+        rgba(64, 224, 208, 0.96) 10%,
+        rgba(45, 181, 164, 0.9) 100%
+      ),
+      url("/assets/images/home-header3.webp") center/cover no-repeat;
   }
 
   .hero h1 {
