@@ -12,10 +12,10 @@ permalink: /projects/
 
 ## Books
 - **[Hiring Virtual Workers For Small Business Book](/hiring)** - I wrote this book to share my hiring process that I’ve developed since 2000 when I hired my first assistant.
-- Editing my next book [Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug/) (Coming Soon)
+- Editing my next book [Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug/) (Coming 2026)
 
 ## Markdown Projects
-I like using [MarkDown](https://en.wikipedia.org/wiki/Markdown) to record notes and have devloped these projects on what is working for me.
+I like using [MarkDown](https://en.wikipedia.org/wiki/Markdown) to record notes and have developed these projects on what is working for me.
 
 - [OBTF (One Big Text File) Journal Markdown](/obtf)
 OBTF (One Big Text File) Journal is a simple yet powerful solution for maintaining a journal in Markdown or plain text format.
