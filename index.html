@@ -1,11 +1,11 @@
----
-layout: splash
+------
+layout: single
 title: "Christopher Sherrod - The Art of Living a Fulfilling Life"
 author_profile: false
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: /assets/images/home-header3.webp
+  image: /assets/images/home-header3.webp
+  image_description: "Christopher Sherrod at Sky Gardens, London, England, United Kingdom"
+  caption: "Christopher in London"
   actions:
     - label: "Simple essays on meaning, creativity, and living well in a wired world"
       url: "/#newsletter"
@@ -27,6 +27,7 @@ author: "Christopher Sherrod"
 robots: index, follow
 canonical_url: "https://christophersherrod.com/"
 ---
+
 <!-- Interaction styles and responsive tweaks -->
 <style>
   /* Button interaction */
@@ -36,15 +37,20 @@ canonical_url: "https://christophersherrod.com/"
     transform: scale(1.03);
   }
   #submit {
-    transition: background-color .3s ease, transform .2s ease, box-shadow .2s ease;
+    transition:
+      background-color 0.3s ease,
+      transform 0.2s ease,
+      box-shadow 0.2s ease;
   }
   #submit:focus-visible {
     outline: none;
-    box-shadow: 0 0 0 3px rgba(185,75,75,.35);
+    box-shadow: 0 0 0 3px rgba(185, 75, 75, 0.35);
   }
   /* Optional: tighten the turquoise banner padding on small screens */
   @media (max-width: 480px) {
-    #newsletterForm { padding: 16px !important; }
+    #newsletterForm {
+      padding: 16px !important;
+    }
   }
 </style>
 
@@ -55,7 +61,16 @@ canonical_url: "https://christophersherrod.com/"
   <div class="wrapper">
     <!-- Intro -->
     <section id="intro" class="narrow">
-      <p align="left">I <a href="{{ '/writer/' | relative_url }}">write</a> about the art of living a fulfilling life — slowing down, creating with meaning, and <a href="{{ '/unplug/' | relative_url }}">protecting your body from the hidden costs of modern tech</a>. Through <a href="{{ '/blog' | relative_url }}">essays</a>, <a href="{{ '/books/' | relative_url }}">books</a>, and <a href="{{ '/chr1stopher/' | relative_url }}">art</a> I share simple ways to live more intentionally.</p>
+      <p align="left">
+        I <a href="{{ '/writer/' | relative_url }}">write</a> about the art of
+        living a fulfilling life — slowing down, creating with meaning, and
+        <a href="{{ '/unplug/' | relative_url }}"
+          >protecting your body from the hidden costs of modern tech</a
+        >. Through <a href="{{ '/blog' | relative_url }}">essays</a>,
+        <a href="{{ '/books/' | relative_url }}">books</a>, and
+        <a href="{{ '/chr1stopher/' | relative_url }}">art</a> I share simple
+        ways to live more intentionally.
+      </p>
     </section>
   </div>
 </div>
@@ -66,7 +81,9 @@ canonical_url: "https://christophersherrod.com/"
 <section id="newsletter" class="full-bleed turquoise-banner">
   <div class="wrapper">
     <div class="newsletter-content">
-      <h2 class="hero-title animate-slide-up">Get my daily letter — one grounded idea for living well.</h2>
+      <h2 class="hero-title animate-slide-up">
+        Get my daily letter — one grounded idea for living well.
+      </h2>
       <form
         id="newsletterForm"
         action="https://mail.nanakasha.com/subscribe"
@@ -92,7 +109,9 @@ canonical_url: "https://christophersherrod.com/"
             min-width: 220px;
           "
         >
-          <label for="name" style="margin-bottom: 5px; font-weight: bold">Name</label>
+          <label for="name" style="margin-bottom: 5px; font-weight: bold"
+            >Name</label
+          >
           <input
             type="text"
             name="name"
@@ -118,7 +137,9 @@ canonical_url: "https://christophersherrod.com/"
             min-width: 220px;
           "
         >
-          <label for="email" style="margin-bottom: 5px; font-weight: bold">Email</label>
+          <label for="email" style="margin-bottom: 5px; font-weight: bold"
+            >Email</label
+          >
           <input
             type="email"
             name="email"
@@ -138,7 +159,7 @@ canonical_url: "https://christophersherrod.com/"
         </div>
 
         <!-- Honeypot field (hidden from users & assistive tech) -->
-        <div style="position: absolute; left: -9999px;" aria-hidden="true">
+        <div style="position: absolute; left: -9999px" aria-hidden="true">
           <label for="website" title="Leave this field blank">Website</label>
           <input
             type="text"
@@ -189,7 +210,7 @@ canonical_url: "https://christophersherrod.com/"
               margin: 0 auto;
             "
           />
-          </div>
+        </div>
       </form>
       <p align="center">No spam. Unsubscribe anytime.</p>
       <script>
@@ -206,7 +227,8 @@ canonical_url: "https://christophersherrod.com/"
               var start = parseInt(tsEl && tsEl.value ? tsEl.value : "0", 10);
               var elapsed = start ? (Date.now() - start) / 1000 : 999; // allow submission if JS failed
               var honeypotEl = document.getElementById("website");
-              var honey = honeypotEl && honeypotEl.value ? honeypotEl.value : "";
+              var honey =
+                honeypotEl && honeypotEl.value ? honeypotEl.value : "";
 
               if (honey !== "" || elapsed < 5) {
                 e.preventDefault();
@@ -237,41 +259,49 @@ canonical_url: "https://christophersherrod.com/"
       <h2>New writing on what it means to live well in a wired world</h2>
       <section id="start-here" class="text-center my-12">
         <h3>Start Here</h3>
-        <p>New to my work? Begin with these three essays on meaning, technology, and slowing down:</p>
+        <p>
+          New to my work? Begin with these three essays on meaning, technology,
+          and slowing down:
+        </p>
         <ul class="list-none mt-4 space-y-2">
-          → <a href="/unplug/">Unplug: Why Your Devices Need Boundaries Too</a><br>
-          → <a href="/arguing/">Why Successful People Don’t Waste Time Arguing</a><br>
-          → <a href="/finding-balance/">Finding Balance in Work and Rest</a>
+          →
+          <a href="/unplug/">Unplug: Why Your Devices Need Boundaries Too</a
+          ><br />
+          →
+          <a href="/arguing/">Why Successful People Don’t Waste Time Arguing</a
+          ><br />
+          →
+          <a href="/finding-balance/">Finding Balance in Work and Rest</a>
         </ul>
       </section>
-      
+
       <article>
         <ul>
-          {% assign sorted_posts = site.posts | sort: "date" | reverse %}
-          {% for post in sorted_posts limit: 10 %}
-            {% assign category = post.categories | first | default: "Post" %}
-            {% assign words = category | split: ' ' %}
-            {% capture titlecase %}
-              {% for w in words %}
-                {{ w | capitalize }}{% unless forloop.last %} {% endunless %}
-              {% endfor %}
-            {% endcapture %}
-            <li>
-              <b>
-                {{ titlecase | strip }} –
-                <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-              </b>
-              – <i>{{ post.date | date: "%B %d, %Y" }}</i>
-            </li>
+          {% assign sorted_posts = site.posts | sort: "date" | reverse %} {% for
+          post in sorted_posts limit: 10 %} {% assign category = post.categories
+          | first | default: "Post" %} {% assign words = category | split: ' '
+          %} {% capture titlecase %} {% for w in words %} {{ w | capitalize }}{%
+          unless forloop.last %} {% endunless %} {% endfor %} {% endcapture %}
+          <li>
+            <b>
+              {{ titlecase | strip }} –
+              <a href="{{ post.url | relative_url }}"
+                >{{ post.title | escape }}</a
+              >
+            </b>
+            – <i>{{ post.date | date: "%B %d, %Y" }}</i>
+          </li>
           {% endfor %}
         </ul>
       </article>
-         
-      
-      <p>Explore <a href="{{ '/blog' | relative_url }}">all essays in the archive</a></p>
+
+      <p>
+        Explore
+        <a href="{{ '/blog' | relative_url }}">all essays in the archive</a>
+      </p>
     </section>
 
-<!-- ===============================
+    <!-- ===============================
      READ MORE
      =============================== -->
     <section id="more">
@@ -284,10 +314,18 @@ canonical_url: "https://christophersherrod.com/"
           </li>
           <li>
             Read all my
-            <a href="{{ '/categories/#business' | relative_url }}">Business & Entrepreneurship</a>,
-            <a href="{{ '/categories/#success-prosperity' | relative_url }}">Success & Prosperity</a>,
-            <a href="{{ '/categories/#learning-growth' | relative_url }}">Learning & Growth</a>,
-            <a href="{{ '/categories/#lifestyle-travel' | relative_url }}">Lifestyle & Travel</a>
+            <a href="{{ '/categories/#business' | relative_url }}"
+              >Business & Entrepreneurship</a
+            >,
+            <a href="{{ '/categories/#success-prosperity' | relative_url }}"
+              >Success & Prosperity</a
+            >,
+            <a href="{{ '/categories/#learning-growth' | relative_url }}"
+              >Learning & Growth</a
+            >,
+            <a href="{{ '/categories/#lifestyle-travel' | relative_url }}"
+              >Lifestyle & Travel</a
+            >
             essays and my
             <a href="{{ '/categories/#poems' | relative_url }}">Poems</a>
           </li>
@@ -295,13 +333,14 @@ canonical_url: "https://christophersherrod.com/"
       </article>
     </section>
 
-<!-- ===============================
+    <!-- ===============================
      NEWSLETTER END
      =============================== -->
     <section id="newsletter-end">
       <h2>Receive My Newsletter</h2>
       <p>
-        Trusted by readers in 150+ countries. No spam. A <a href="{{ '#newsletter' | relative_url }}">daily email</a>. No spam. 
+        Trusted by readers in 150+ countries. No spam. A
+        <a href="{{ '#newsletter' | relative_url }}">daily email</a>. No spam.
       </p>
     </section>
   </div>
@@ -311,41 +350,41 @@ canonical_url: "https://christophersherrod.com/"
      STRUCTURE DATE: PERSON
      =============================== -->
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "@id": "https://christophersherrod.com/#person",
-  "name": "Christopher Sherrod",
-  "url": "https://christophersherrod.com",
-  "sameAs": [
-    "https://chr1stopher.com",
-    "https://bsky.app/profile/christophersherrod.com",
-    "https://instagram.com/christophersherrod"
-  ],
-  "jobTitle": "Writer, Artist, and Slow Lifestyle Advocate",
-  "image": "https://christophersherrod.com/assets/images/home-header2.webp",
-  "description": "Christopher Sherrod is a writer, artist, and slow lifestyle advocate sharing essays, books, and reflections on fulfilling living, creative entrepreneurship, and EMF sensitivity."
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": "https://christophersherrod.com/#person",
+    "name": "Christopher Sherrod",
+    "url": "https://christophersherrod.com",
+    "sameAs": [
+      "https://chr1stopher.com",
+      "https://bsky.app/profile/christophersherrod.com",
+      "https://instagram.com/christophersherrod"
+    ],
+    "jobTitle": "Writer, Artist, and Slow Lifestyle Advocate",
+    "image": "https://christophersherrod.com/assets/images/home-header2.webp",
+    "description": "Christopher Sherrod is a writer, artist, and slow lifestyle advocate sharing essays, books, and reflections on fulfilling living, creative entrepreneurship, and EMF sensitivity."
+  }
 </script>
 
 <!-- ===============================
      Structured data: WebSite with SearchAction
      =============================== -->
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "@id": "https://christophersherrod.com/#website",
-  "url": "https://christophersherrod.com/",
-  "name": "Christopher Sherrod",
-  "publisher": { "@id": "https://christophersherrod.com/#person" },
-  "inLanguage": "en",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://christophersherrod.com/search/?q={search_term_string}",
-    "query-input": "required name=search_term_string"
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://christophersherrod.com/#website",
+    "url": "https://christophersherrod.com/",
+    "name": "Christopher Sherrod",
+    "publisher": { "@id": "https://christophersherrod.com/#person" },
+    "inLanguage": "en",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://christophersherrod.com/search/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
   }
-}
 </script>
 
 <!-- ===============================
@@ -353,11 +392,13 @@ canonical_url: "https://christophersherrod.com/"
      =============================== -->
 <script>
   (function () {
-    var imgs = document.querySelectorAll('img:not([loading])');
+    var imgs = document.querySelectorAll("img:not([loading])");
     for (var i = 0; i < imgs.length; i++) {
-      imgs[i].setAttribute('loading', 'lazy');
+      imgs[i].setAttribute("loading", "lazy");
       // Optional: decode hint for browsers that support it
-      if ('decode' in imgs[i]) { imgs[i].decode().catch(function(){}); }
+      if ("decode" in imgs[i]) {
+        imgs[i].decode().catch(function () {});
+      }
     }
   })();
 </script>
