@@ -12,7 +12,6 @@ subtitle: "The Art of Living a Fulfilling Life"
 description: >-
   Christopher Sherrod is a writer, artist, and slow lifestyle advocate. He shares essays, books, and guidance on living a fulfilling life, navigating EMF sensitivity, and doing meaningful work.
 url: "https://christophersherrod.com"
-
 twitter_username: chrissherrod
 github_username: clsherrod
 
@@ -136,6 +135,9 @@ footer:
     - label: "About"
       icon: "fa-solid fa-address-card"
       url: "https://christophersherrod.com/hello/"
+    - label: "Now"
+      icon: "fa-solid fa-clock"
+      url: "https://christophersherrod.com/now/"
     - label: "Colophon"
       icon: "fa-solid fa-file-code"
       url: "https://christophersherrod.com/colophon/"
