@@ -12,7 +12,6 @@ header:
 Explore more that is on my website.
 
 - [Blog](/blog/)
-  - [Essays](/categories/#essays), [Reviews](/categories/#reviews), [Poems](/categories/#poems), [News](/categories/#news)
 - [Newsletter](/newsletter/)
 - [About](/about/)
 - [Hello](/hello/)
