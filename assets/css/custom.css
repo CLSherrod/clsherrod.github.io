@@ -2,6 +2,9 @@
 html {
   scroll-behavior: smooth;
 }
+:target {
+  scroll-margin-top: 100px; /* adjust to your header height */
+}
 
 /* Button interaction */
 #submit {
@@ -67,7 +70,7 @@ body {
   background-color: #30c5b6;
 }
 
-/* === HERO SECTION (turquoise version with background image) === */
+/* === HERO SECTION (Turquoise + Background Image) === */
 .hero {
   display: flex;
   align-items: center;
@@ -75,7 +78,6 @@ body {
   flex-direction: column;
   text-align: center;
 
-  /* Combine turquoise gradient + image */
   background:
     linear-gradient(
       160deg,
@@ -116,54 +118,10 @@ body {
   color: #e3fffb;
 }
 
-/* Tablet */
-@media (max-width: 1024px) {
-  .hero {
-    padding: 6rem 1rem;
-    min-height: 60vh;
-  }
-
-  .hero h1 {
-    font-size: 2.2rem;
-  }
-
-  .hero .tagline {
-    font-size: 1.25rem;
-  }
-}
-
-/* Mobile */
-@media (max-width: 600px) {
-  .hero {
-    padding: 4rem 1rem;
-    min-height: 50vh;
-    background:
-      linear-gradient(
-        160deg,
-        rgba(64, 224, 208, 0.96) 10%,
-        rgba(45, 181, 164, 0.9) 100%
-      ),
-      url("/assets/images/home-header3.webp") center/cover no-repeat;
-  }
-
-  .hero h1 {
-    font-size: 1.8rem;
-  }
-
-  .hero .tagline {
-    font-size: 1.1rem;
-  }
-
-  .hero .subline {
-    font-size: 1rem;
-  }
-}
-
-/* === HERO FLOATING BUTTON === */
+/* === Floating Button === */
 .hero-float-button {
-  position: absolute;
-  bottom: 2rem;
-  left: 2rem;
+  display: inline-block;
+  margin-top: 2rem;
   background-color: #40e0d0;
   color: #000;
   font-weight: 600;
@@ -172,37 +130,54 @@ body {
   border-radius: 100px;
   text-decoration: none;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
-  transition:
-    background-color 0.3s ease,
-    transform 0.2s ease;
-  z-index: 2;
+  transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
-.hero-float-button:hover,
-.hero-float-button:focus {
+.hero-float-button:hover {
   background-color: #30c5b6;
   transform: scale(1.05);
 }
 
-/* Responsive adjustments */
-@media (max-width: 768px) {
-  .hero-float-button {
-    bottom: 1.5rem;
-    left: 1rem;
-    font-size: 0.9rem;
-    padding: 0.7rem 1.2rem;
-  }
+/* === Newsletter Section === */
+#newsletter {
+  background-color: #40e0d0;
+  color: #000;
+  text-align: center;
+  padding: 3rem 1rem;
 }
 
-@media (max-width: 480px) {
-  .hero-float-button {
-    bottom: 1rem;
-    left: 0.8rem;
-    font-size: 0.85rem;
-    padding: 0.6rem 1rem;
-  }
+#newsletter h2 {
+  font-size: 1.6rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
 }
 
-:target {
-  scroll-margin-top: 100px; /* adjust to your header height */
+#newsletterForm {
+  max-width: 600px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
 }
+
+#newsletterForm input,
+#newsletterForm button {
+  font-size: 1rem;
+  padding: 0.8rem;
+  border-radius: 6px;
+  border: 2px solid #30c5b6;
+  box-sizing: border-box;
+}
+
+#newsletterForm button {
+  background-color: #b94b4b;
+  color: white;
+  border: none;
+  font-weight: 600;
+  border-radius: 100px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+#newsletterForm button:hover {
+  backgr

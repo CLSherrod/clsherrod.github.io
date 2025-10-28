@@ -4,127 +4,47 @@ title: "Christopher Sherrod - The Art of Living a Fulfilling Life"
 author_profile: false
 ---
 
-<!-- ===============================
-     HERO SECTION
-     =============================== -->
-     <section id="hero" class="hero">
-       <div class="hero-inner">
-         <h1>Christopher Sherrod – The Art of Living a Fulfilling Life</h1>
-         <p class="tagline">I help people unplug from noise and rediscover what actually matters — one essay at a time.</p>
-         <p class="subline">Simple essays on meaning, creativity, and living well in a wired world.</p>
-         <a href="#newsletter" class="hero-float-button">Get My Daily Letter →</a>
-       </div>
-     </section>
-
-  <!-- Floating Button -->
-  <a href="#newsletter" class="hero-float-button">Get My Daily Letter</a>
+<!-- === HERO SECTION === -->
+<section id="hero" class="hero">
+  <div class="hero-inner">
+    <h1>Christopher Sherrod – The Art of Living a Fulfilling Life</h1>
+    <p class="tagline">
+      I help people unplug from noise and rediscover what actually matters — one
+      essay at a time.
+    </p>
+    <p class="subline">
+      Simple essays on meaning, creativity, and living well in a wired world.
+    </p>
+    <a href="#newsletter" class="hero-float-button">Get My Daily Letter →</a>
+  </div>
 </section>
 
-<!-- ===============================
-     INTRO SECTION
-     =============================== -->
-<div class="page__content">
-  <div class="wrapper">
-    <!-- Intro -->
-    <section id="intro" class="narrow">
-      <p align="left">
-        I <a href="{{ '/writer/' | relative_url }}">write</a> about the art of
-        living a fulfilling life — slowing down, creating with meaning, and
-        <a href="{{ '/unplug/' | relative_url }}"
-          >protecting your body from the hidden costs of modern tech</a
-        >. Through <a href="{{ '/blog' | relative_url }}">essays</a>,
-        <a href="{{ '/books/' | relative_url }}">books</a>, and
-        <a href="{{ '/chr1stopher/' | relative_url }}">art</a> I share simple
-        ways to live more intentionally.
-      </p>
-    </section>
-  </div>
-</div>
-
-<!-- ===============================
-     NEWSLETTER SECTION
-     =============================== -->
+<!-- === NEWSLETTER SECTION (below hero) === -->
 <section id="newsletter" class="full-bleed turquoise-banner">
   <div class="wrapper">
-    <div class="newsletter-content">
-      <h2 class="hero-title animate-slide-up">
-        Get my daily letter — one grounded idea for living well.
-      </h2>
-      <form
-        id="newsletterForm"
-        action="https://mail.nanakasha.com/subscribe"
-        method="POST"
-        accept-charset="utf-8"
-        style="
-          display: flex;
-          flex-wrap: wrap;
-          justify-content: center;
-          gap: 15px;
-          background-color: turquoise;
-          padding: 20px;
-          border-radius: 8px;
-          max-width: 600px;
-          margin: 0 auto;
-        "
-      >
-        <div
-          style="
-            display: flex;
-            flex-direction: column;
-            flex: 1 1 250px;
-            min-width: 220px;
-          "
-        >
-          <label for="name" style="margin-bottom: 5px; font-weight: bold"
-            >Name</label
-          >
-          <input
-            type="text"
-            name="name"
-            id="name"
-            required
-            autocomplete="name"
-            style="
-              border: 2px solid blue;
-              padding: 10px;
-              border-radius: 5px;
-              font-size: 1rem;
-              width: 100%;
-              box-sizing: border-box;
-            "
-          />
-        </div>
+    <h2>Get My Daily Letter — One Grounded Idea for Living Well</h2>
 
-        <div
-          style="
-            display: flex;
-            flex-direction: column;
-            flex: 1 1 250px;
-            min-width: 220px;
-          "
-        >
-          <label for="email" style="margin-bottom: 5px; font-weight: bold"
-            >Email</label
-          >
-          <input
-            type="email"
-            name="email"
-            id="email"
-            required
-            autocomplete="email"
-            inputmode="email"
-            style="
-              border: 2px solid blue;
-              padding: 10px;
-              border-radius: 5px;
-              font-size: 1rem;
-              width: 100%;
-              box-sizing: border-box;
-            "
-          />
-        </div>
+    <form
+      id="newsletterForm"
+      action="https://mail.nanakasha.com/subscribe"
+      method="POST"
+      accept-charset="utf-8"
+    >
+      <div class="form-fields">
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" required autocomplete="name" />
 
-        <!-- Honeypot field (hidden from users & assistive tech) -->
+        <label for="email">Email</label>
+        <input
+          type="email"
+          name="email"
+          id="email"
+          required
+          autocomplete="email"
+          inputmode="email"
+        />
+
+        <!-- Honeypot for spam bots -->
         <div style="position: absolute; left: -9999px" aria-hidden="true">
           <label for="website" title="Leave this field blank">Website</label>
           <input
@@ -136,82 +56,15 @@ author_profile: false
           />
         </div>
 
-        <!-- Timestamp field (hidden) -->
-        <input type="hidden" name="timestamp" id="timestamp" />
-
+        <!-- Hidden fields -->
         <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
         <input type="hidden" name="subform" value="yes" />
 
-        <!-- Centered responsive submit button -->
-        <div
-          style="
-            display: flex;
-            justify-content: center;
-            margin-top: 10px;
-            width: 100%;
-          "
-        >
-          <input
-            type="submit"
-            name="submit"
-            id="submit"
-            value="Subscribe"
-            style="
-              border: 0;
-              padding: 0.8em 1.4em;
-              background-color: rgb(185, 75, 75);
-              color: white;
-              cursor: pointer;
-              border-radius: 100px;
-              width: 100%;
-              max-width: 220px;
-              font-size: 1.5rem;
-              font-weight: 600;
-              letter-spacing: -0.004em;
-              line-height: 1;
-              display: inline-flex;
-              align-items: center;
-              justify-content: center;
-              gap: 0.4em;
-              margin: 0 auto;
-            "
-          />
-        </div>
-      </form>
-      <p align="center">No spam. Unsubscribe anytime.</p>
-      <script>
-        (function () {
-          function init() {
-            var ts = document.getElementById("timestamp");
-            if (ts) ts.value = Date.now();
+        <button type="submit" id="submit">Subscribe</button>
+      </div>
+    </form>
 
-            var form = document.getElementById("newsletterForm");
-            if (!form) return;
-
-            form.addEventListener("submit", function (e) {
-              var tsEl = document.getElementById("timestamp");
-              var start = parseInt(tsEl && tsEl.value ? tsEl.value : "0", 10);
-              var elapsed = start ? (Date.now() - start) / 1000 : 999; // allow submission if JS failed
-              var honeypotEl = document.getElementById("website");
-              var honey =
-                honeypotEl && honeypotEl.value ? honeypotEl.value : "";
-
-              if (honey !== "" || elapsed < 5) {
-                e.preventDefault();
-                console.warn("Spam submission blocked.");
-                return false;
-              }
-            });
-          }
-
-          if (document.readyState === "loading") {
-            document.addEventListener("DOMContentLoaded", init);
-          } else {
-            init();
-          }
-        })();
-      </script>
-    </div>
+    <p class="no-spam">No spam. Unsubscribe anytime.</p>
   </div>
 </section>
 
