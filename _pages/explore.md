@@ -18,7 +18,7 @@ Explore more that is on my website.
 - [Hello](/hello/)
 - [Now](/now/)
 - [Projects](/projects/)
-- [My Life in Books: How Each Book Shaped My Journey from Success to Fulfillment](https://christophersherrod.com/bookshop/)
+- [My Life in Books: How Each Book Shaped My Journey from Success to Fulfillment](/bookshop/)
 - [Uses](/uses/)
 - [Interests](/interests/)
 - [Blogroll](/blogroll/)
