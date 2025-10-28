@@ -11,8 +11,13 @@ header:
 ---
 Explore more that is on my website.
 
-- [Blog](/blog/)
+- [Quick Start Here](/start/)
 - [Newsletter](/newsletter/)
+- [Writer](/writer/)
+	- [Blog](/blog/)
+	- [My Books](/books/)
+- [Artist - Chr1stopher](/chr1stopher/)
+- [Web Agency](/whodefinesyou/)
 - [About](/about/)
 - [Hello](/hello/)
 - [Now](/now/)
