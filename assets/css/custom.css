@@ -1,30 +1,124 @@
 /* Make a section truly full width without causing horizontal scroll */
 .full-bleed {
-    position: relative;
-    left: 50%;
-    right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
-    width: 100vw;
-    box-sizing: border-box; /* so padding stays inside */
-  }
-  
-  /* Constrain inner content to site width */
-  .full-bleed > .wrapper {
-    max-width: 1200px;      /* match your site/container max-width */
-    margin: 0 auto;
-    padding: 2rem 1rem;     /* put horizontal padding here, not on .full-bleed */
-  }
-  
-  /* Safety: prevent any child from pushing the page */
-  .page__content, .page__content * {
-    max-width: 100%;
-  }
-  
-  /* Optional: if any page still scrolls sideways on iOS */
-  html, body { overflow-x: hidden; }
-  
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+  box-sizing: border-box; /* so padding stays inside */
+}
+
+/* Constrain inner content to site width */
+.full-bleed > .wrapper {
+  max-width: 1200px; /* match your site/container max-width */
+  margin: 0 auto;
+  padding: 2rem 1rem; /* put horizontal padding here, not on .full-bleed */
+}
+
+/* Safety: prevent any child from pushing the page */
+.page__content,
+.page__content * {
+  max-width: 100%;
+}
+
+/* Optional: if any page still scrolls sideways on iOS */
+html,
+body {
+  overflow-x: hidden;
+}
+
 #submit:hover,
 #submit:focus-visible {
   background-color: #30c5b6;
+}
+
+/* === HERO SECTION (turquoise version) === */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+
+  background: linear-gradient(160deg, #40e0d0 0%, #30c5b6 100%);
+  color: #fff;
+
+  padding: 8rem 1rem;
+  min-height: 70vh;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero::after {
+  /* optional soft texture overlay for depth */
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url("/assets/images/home-header3.webp") center/cover no-repeat;
+  opacity: 0.18;
+  z-index: 0;
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 1;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 2.8rem;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+  color: #ffffff;
+}
+
+.hero .tagline {
+  font-size: 1.4rem;
+  max-width: 700px;
+  margin: 0 auto 0.75rem;
+  color: #f7fffd;
+}
+
+.hero .subline {
+  font-size: 1.1rem;
+  color: #e3fffb;
+}
+
+/* Tablet */
+@media (max-width: 1024px) {
+  .hero {
+    padding: 6rem 1rem;
+    min-height: 60vh;
+  }
+
+  .hero h1 {
+    font-size: 2.2rem;
+  }
+
+  .hero .tagline {
+    font-size: 1.25rem;
+  }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .hero {
+    padding: 4rem 1rem;
+    min-height: 50vh;
+    background: linear-gradient(160deg, #40e0d0 10%, #2db5a4 100%);
+  }
+
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .hero .tagline {
+    font-size: 1.1rem;
+  }
+
+  .hero .subline {
+    font-size: 1rem;
+  }
 }
