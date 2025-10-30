@@ -2,7 +2,7 @@ main:
   - title: "Start Here"
     url: /start/
   - title: "Newsletter"
-    url: christophersherrod.com/#newsletter
+    url: /#newsletter
   - title: "Writer"
     url: /writer/
     children:
