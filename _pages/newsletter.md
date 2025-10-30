@@ -10,7 +10,9 @@ header:
   image_description: Art Newsletter by Chr1stopher
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 author_profile: false
+redirect_to: "https://christophersherrod.com/#newsletter"
 ---
+
 <style>
   #newsletterFormWrapper {
     width: 100vw;
