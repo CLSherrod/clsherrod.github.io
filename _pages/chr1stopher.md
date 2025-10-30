@@ -10,16 +10,17 @@ permalink: /chr1stopher/
 toc: false
 teaser: /assets/images/teaser/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
-  overlay_image: /assets/images/headers/home-header.webp
+  overlay_image: /assets/images/headers/chr1stopher-header.webp
   overlay_filter: 0.1
   image_description: "Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 # SEO overrides
 og_image: /assets/images/home-header2.webp
 ---
+
 I create as Chr1stopher--a name transformed, like light refracted through a prism. The "1" is not a number, but a symbol: the One, the source, the still point where all patterns begin.
 
-[![Chr1stopher](https://chr1stopher.com/assets/images/art1.webp){: .align-right style="width:400px;" }](https://chr1stopher.com){:target="_blank" rel="noopener noreferrer" title="Chr1stopher"}
+[![Chr1stopher](https://chr1stopher.com/assets/images/art1.webp){: .align-right style="width:400px;" }](https://chr1stopher.com){:target="\_blank" rel="noopener noreferrer" title="Chr1stopher"}
 
 My art is born from the geometry of spirit, the quiet pulse of the cosmos woven into lines, colors, and illusions. Each piece is a meditation--a door you can step through, if only for a moment, into the hidden harmony beneath the noise of the world.
 
