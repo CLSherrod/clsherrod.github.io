@@ -2,17 +2,17 @@ main:
   - title: "Start Here"
     url: /start/
   - title: "Newsletter"
-    url: /newsletter/
+    url: christophersherrod.com/#newsletter
   - title: "Writer"
     url: /writer/
     children:
       - title: "Books"
         url: /books/
         children:
-        - title: "Unplug"
-          url: /unplug/
-        - title: "How To Create New Business Ideas Based On What You Love"
-          url: /business-ideas/
+          - title: "Unplug"
+            url: /unplug/
+          - title: "How To Create New Business Ideas Based On What You Love"
+            url: /business-ideas/
       - title: "Essays"
         url: /blog/
   - title: "Artist"
