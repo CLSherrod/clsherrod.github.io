@@ -118,12 +118,8 @@ body {
 
   /* Combined gradient + background image */
   background:
-    linear-gradient(
-      160deg,
-      rgba(64, 224, 208, 0.95) 0%,
-      rgba(48, 197, 182, 0.9) 100%
-    ),
-    url("/assets/images/home-header3.webp") center/cover no-repeat;
+    linear-gradient(160deg, rgba(64, 224, 208, 0.95) 0%, rgba(48, 197, 182, 0.9) 100%),
+    url("{{ '/assets/images/home-header3.webp' | relative_url }}") center/cover no-repeat;
 
   color: #fff;
   padding: 8rem 1rem;
