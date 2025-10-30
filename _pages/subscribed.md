@@ -3,7 +3,7 @@ layout: single
 classes: wide
 title: Subscribe Success
 permalink: /subscribed/
-teaser: /assets/images/books-header.webp
+teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 robots: noindex,nofollow
 sitemap: false
 author_profile: false

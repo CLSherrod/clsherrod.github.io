@@ -125,7 +125,7 @@ body {
         rgba(64, 224, 208, 0.95) 0%,
         rgba(48, 197, 182, 0.9) 100%
       ),
-      url("{{ '/assets/images/home-header3.webp' | relative_url }}")
+      url("{{ '/assets/images/headers/home-header.webp' | relative_url }}")
         center/cover no-repeat;
 
     color: #fff;
@@ -209,7 +209,7 @@ body {
           rgba(64, 224, 208, 0.96) 10%,
           rgba(45, 181, 164, 0.9) 100%
         ),
-        url("/assets/images/home-header3.webp") center/cover no-repeat;
+        url("/assets/images/headers/home-header.webp") center/cover no-repeat;
     }
 
     .hero h1 {

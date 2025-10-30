@@ -4,7 +4,7 @@ title: You’ve Been Unsubscribed
 permalink: /unsubscribed/
 toc: false
 teaser:
-og_image: /assets/images/home-header2.webp
+og_image: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 robots: noindex,nofollow
 sitemap: false
 classes: wide

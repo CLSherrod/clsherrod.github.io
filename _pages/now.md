@@ -3,9 +3,9 @@ layout: single
 title: What I'm Doing Now
 permalink: /now/
 toc: true
-teaser: /assets/images/now-header.webp
+teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
-  overlay_image: /assets/images/now-header.webp
+  overlay_image: /assets/images/headers/now-header.webp
   overlay_filter: 0.1
   image_description: "Art Time by Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"

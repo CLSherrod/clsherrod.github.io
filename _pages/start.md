@@ -3,9 +3,9 @@ layout: single
 title: "A Simpler, More Fulfilling Way to Live"
 permalink: /start/
 toc: true
-teaser: /assets/images/start-header.webp
+teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
-  overlay_image: /assets/images/start-header.webp
+  overlay_image: /assets/images/headers/start-header.webp
   overlay_filter: 0.1
   image_description: "Art Running by Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"

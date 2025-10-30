@@ -3,9 +3,9 @@ layout: single
 classes: wide
 title: Newsletter
 permalink: /newsletter/
-teaser: /assets/images/newsletter-header.webp
+teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
-  overlay_image: /assets/images/newsletter-header.webp
+  overlay_image: /assets/images/headers/newsletter-header.webp
   overlay_filter: 0.1
   image_description: Art Newsletter by Chr1stopher
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)

@@ -3,9 +3,9 @@ layout: single
 title: Christopher Sherrod – Essays, Articles, and Author of How to Create New Business Ideas Based on What You Love
 permalink: /writer/
 toc: true
-teaser: /assets/images/books-header.webp
+teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
-  overlay_image: /assets/images/books-header.webp
+  overlay_image: /assets/images/headers/books-header.webp
   overlay_filter: 0.1
   image_description: Art Books by Chr1stopher
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)

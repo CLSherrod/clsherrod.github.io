@@ -7,9 +7,9 @@ author_profile: false
 breadcrumbs: false
 toc: false
 published: false
-teaser: /assets/images/home-header2.webp
+teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
-  overlay_image: /assets/images/home-header2.webp
+  overlay_image: /assets/images/headers/home-header.webp
   overlay_filter: 0.1
   image_description: "Art by Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"

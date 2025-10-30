@@ -8,9 +8,9 @@ description: Chr1stopher -- The Name Behind the Vision
 preview: Chr1stopher -- The Name Behind the Vision
 permalink: /chr1stopher/
 toc: false
-teaser: /assets/images/home-header2.webp
+teaser: /assets/images/teaser/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
-  overlay_image: /assets/images/home-header2.webp
+  overlay_image: /assets/images/headers/home-header.webp
   overlay_filter: 0.1
   image_description: "Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
