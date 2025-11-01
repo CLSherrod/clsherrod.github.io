@@ -32,9 +32,9 @@ Read my essays:
 
 ### ⚡️ **Electromagnetic Sensitivity & Modern Health**
 
-I have had several seizures that have changed my life. Now I teach others how to reduce EMF exposure and reclaim their well-being.
+I have had several seizures that have changed my life. Now I'm creating a course on how to reduce EMF exposure and reclaim your well-being.
 
-- My upcoming book: [Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug/) (Coming Soon)
+- My upcoming course [Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug/) (Coming Soon)
 - Practical guide: Reducing EMF Exposure Checklist (Coming Soon)
 - And my tribute to [The Digital Canary: Arthur Firstenberg’s Legacy of Electromagnetic Awareness](/arthur-firstenberg/)
 
@@ -45,13 +45,15 @@ Success doesn’t have to cost your soul. I write about doing meaningful work wi
 - Essay: [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](/dolphin-entrepreneur/)  
 - Essay: [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
 - Book: [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
-- Book: [Hiring Virtual Workers For Small Business](https://amzn.to/2FvAxx9)  
-
+- 
 ### 🌎 **International Living & Travel Reflections**
 
 I’ve been living abroad since 2016. It’s not just about escaping — it’s about choosing better.
 
 - [How to travel and still do business](/how-to-travel-and-still-do-business/)
+- [Don’t Check Your Valuables - Christopher Sherrod](https://christophersherrod.com/dont-check-your-valuables/)
+- [Working on the Internet while traveling - Christopher Sherrod](https://christophersherrod.com/working-on-the-internet-while-traveling/)
+- [Living the Miami Vice lifestyle without the drugs - Christopher Sherrod](https://christophersherrod.com/living-miami-vice-lifestyle-without-the-drugs/)
 
 ### 📬 Get My Personal Notes
 
@@ -63,7 +65,8 @@ I send short, real-world reflections on living a fulfilling life — straight to
 
 Here’s what people explore next:
 
-- 📚 [Books & Works in Progress](/books/)
+- 📚 [Essays, Articles](https://christophersherrod.com/writer/) 
+- [My Book](/books/)
 - 🖼 [My Sacred Geometry Art at Chr1stopher.com](https://Chr1stopher.com)
 
 ### 👋 Let’s Stay Connected
