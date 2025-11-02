@@ -3,6 +3,12 @@ layout: single
 classes: wide
 title: Who Defines You – A Referral-Only Web Agency
 permalink: /whodefinesyou/
+header:
+  overlay_image: /assets/images/headers/whodefinesyou-header.webp
+  overlay_filter: 0.1
+  image_description: The Internet by Chr1stopher
+  caption: Art by [**Chr1stopher**](https://chr1stopher.com)
+og_image: /assets/images/whodefinesyou-header.webp
 ---
 We’ve been building on the web since the early days—always with a focus on creative solutions, practical systems, and long-term results. Our work has evolved alongside the internet itself:
 
