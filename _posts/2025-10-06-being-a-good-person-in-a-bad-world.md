@@ -27,7 +27,7 @@ That’s why I focus on:
 
 1. **Myself** – I take care of my health, my mind, and my peace. I make sure I stay grounded so I don’t get swallowed up by negativity.
 2. **My love, my family, my friends** – The people closest to me deserve my best. They’re the ones who matter most.  
-3. **My community** – I try to be a good neighbor. A good friend. A decent human being to the people around me.  I write from my heart.
+3. **My community** – I try to be a good neighbour. A good friend. A decent human being to the people around me.  I write from my heart.
 
 That’s where **real impact starts**. Not by fixing the whole world, but by making life better for the people within reach.  
 

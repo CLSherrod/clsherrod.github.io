@@ -12,7 +12,7 @@ header:
 # SEO overrides
 og_image: /assets/images/now-header.webp
 ---
-Updated on Tuesday October 28th, 2025.
+Updated on Thursday November 6th, 2025.
 
 ## Currently Doing
 - I’m currently writing a course _EMF-Free Home Starter Kit_ to help you reduce exposure, sleep deeper, and feel grounded again — without adding more tech or stress to your life.

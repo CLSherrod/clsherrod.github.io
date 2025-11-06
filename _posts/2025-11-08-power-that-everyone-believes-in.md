@@ -1,6 +1,6 @@
 ---
 title: The Power That Everyone Believes In
-date: 2025-10-25
+date: 2025-11-08
 description: The Power That Everyone Believes In
 preview: The Power That Everyone Believes In
 categories:
