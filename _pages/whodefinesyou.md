@@ -12,9 +12,9 @@ og_image: /assets/images/whodefinesyou-header.webp
 ---
 We’ve been building on the web since the early days—always with a focus on creative solutions, practical systems, and long-term results. Our work has evolved alongside the internet itself:
 
-* **1996** – Created my own HTML website & specialty application
+* **1996** – Created my own HTML website & specialty Windows & Mac application
 * **1999** – Opened up to referred clients for web development
-* **2006** - [Who Defines You Launched](https://christophersherrod.com/who-defines-you-launched/)
+* **2006** - [Who Defines You website launched](https://christophersherrod.com/who-defines-you-launched/)
 * **2007** – WordPress development (before its public release)
 * **2015** – [Won a Publishing Award](/publishing-award/)
 * **2018** – WooCommerce shop setup & maintenance
