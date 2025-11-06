@@ -1,77 +1,133 @@
 <!-- start combined head snippets -->
 
 <!-- Google Fonts -->
-<link href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic" rel="stylesheet" type="text/css">
+<link
+  href="https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic"
+  rel="stylesheet"
+  type="text/css"
+/>
 
-<!-- Favicons -->
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
+<!-- Favicons & PWA -->
+<link
+  rel="apple-touch-icon"
+  sizes="180x180"
+  href="{{ '/assets/favicons/apple-touch-icon.png' | relative_url }}"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="32x32"
+  href="{{ '/assets/favicons/cs-favicon-32.png' | relative_url }}"
+/>
+<link
+  rel="icon"
+  type="image/png"
+  sizes="16x16"
+  href="{{ '/assets/favicons/cs-favicon-16.png' | relative_url }}"
+/>
+<link
+  rel="manifest"
+  href="{{ '/assets/favicons/site.webmanifest' | relative_url }}"
+/>
+<link
+  rel="mask-icon"
+  href="{{ '/assets/favicons/safari-pinned-tab.svg' | relative_url }}"
+  color="#1A1A1A"
+/>
+<link
+  rel="shortcut icon"
+  href="{{ '/assets/favicons/cs-favicon.ico' | relative_url }}"
+/>
+<meta name="msapplication-TileColor" content="#ffffff" />
+<meta name="theme-color" content="#ffffff" />
 
 <!-- Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JZPN0Q5H4L"></script>
+<script
+  async
+  src="https://www.googletagmanager.com/gtag/js?id=G-JZPN0Q5H4L"
+></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-JZPN0Q5H4L');
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+  gtag("config", "G-JZPN0Q5H4L");
 </script>
 
 <!-- SEO: Dynamic Title + Description + Canonical -->
 {%- assign page_title = page.seo_title | default: page.title -%}
 <title>{{ page_title }} — {{ site.title }}</title>
-<meta name="description" content="{{ page.excerpt | strip_html | truncate: 160 | default: site.description }}">
-<link rel="canonical" href="{{ site.url }}{{ page.url }}">
+<meta
+  name="description"
+  content="{{ page.excerpt | strip_html | truncate: 160 | default: site.description }}"
+/>
+<link rel="canonical" href="{{ site.url }}{{ page.url }}" />
 
 <!-- SEO: Open Graph -->
-<meta property="og:type" content="website">
-<meta property="og:title" content="{{ page.og_title | default: page_title | xml_escape }}">
-<meta property="og:description" content="{{ page.og_description | default: site.description | xml_escape }}">
-<meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:image" content="{{ page.og_image | default: site.og_image | absolute_url }}">
+<meta property="og:type" content="website" />
+<meta
+  property="og:title"
+  content="{{ page.og_title | default: page_title | xml_escape }}"
+/>
+<meta
+  property="og:description"
+  content="{{ page.og_description | default: site.description | xml_escape }}"
+/>
+<meta property="og:url" content="{{ page.url | absolute_url }}" />
+<meta
+  property="og:image"
+  content="{{ page.og_image | default: site.og_image | absolute_url }}"
+/>
 
 <!-- SEO: Twitter Card -->
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ page.og_title | default: page_title | xml_escape }}">
-<meta name="twitter:description" content="{{ page.og_description | default: site.description | xml_escape }}">
-<meta name="twitter:image" content="{{ page.og_image | default: site.og_image | absolute_url }}">
-<meta name="twitter:creator" content="@chrisherrod">
+<meta name="twitter:card" content="summary_large_image" />
+<meta
+  name="twitter:title"
+  content="{{ page.og_title | default: page_title | xml_escape }}"
+/>
+<meta
+  name="twitter:description"
+  content="{{ page.og_description | default: site.description | xml_escape }}"
+/>
+<meta
+  name="twitter:image"
+  content="{{ page.og_image | default: site.og_image | absolute_url }}"
+/>
+<meta name="twitter:creator" content="@chrisherrod" />
 
 <!-- Jekyll SEO tag fallback -->
 {% seo %}
 
 <!-- JSON-LD: Article Schema -->
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ site.url }}{{ page.url }}"
-  },
-  "headline": "{{ page_title | strip_newlines | escape }}",
-  "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ site.author.name | default: site.title | escape }}"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ site.title | escape }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ site.url }}{{ site.logo | default: '/assets/logo.png' }}"
-    }
-  },
-  "image": "{{ page.image | default: site.social_image | prepend: site.url }}",
-  "articleSection": "{{ page.categories | join: ', ' }}",
-  "keywords": "{{ page.tags | join: ', ' }}",
-  "description": "{{ page.excerpt | strip_html | strip_newlines | escape | truncate: 200 }}"
-}
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "{{ site.url }}{{ page.url }}"
+    },
+    "headline": "{{ page_title | strip_newlines | escape }}",
+    "datePublished": "{{ page.date | date_to_xmlschema }}",
+    "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.author.name | default: site.title | escape }}"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "{{ site.title | escape }}",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "{{ site.url }}{{ site.logo | default: '/assets/logo/logo.webp' }}"
+      }
+    },
+    "image": "{{ page.image | default: site.social_image | prepend: site.url }}",
+    "articleSection": "{{ page.categories | join: ', ' }}",
+    "keywords": "{{ page.tags | join: ', ' }}",
+    "description": "{{ page.excerpt | strip_html | strip_newlines | escape | truncate: 200 }}"
+  }
 </script>
 
 <!-- end combined head snippets -->
