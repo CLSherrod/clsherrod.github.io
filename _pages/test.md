@@ -5,7 +5,7 @@ layout: single
 classes: wide
 toc: false
 author_profile: false
-teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
+teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
 tagline: "I help people unplug from noise and rediscover what actually matters — one essay at a time."
 description: "Christopher Sherrod is a writer, artist, and fulfilling lifestyle advocate. Discover his essays, poems, and books on living a fulfilling life, unplugging from toxic tech, and doing meaningful creative work."
 keywords:
@@ -21,7 +21,7 @@ keywords:
 ]
 author: "Christopher Sherrod"
 header:
-  overlay_image: /assets/images/headers/home-header.webp
+  overlay_image: /assets/images/headers/test-header.webp
   image_description: "Christopher in London"
   overlay_color: "#000"
   overlay_filter: "0.2"
@@ -223,6 +223,7 @@ header:
         })();
       </script>
     </div>
+
   </div>
 </section>
 
@@ -320,6 +321,7 @@ header:
         <a href="{{ '#newsletter' | relative_url }}">daily email</a>. No spam.
       </p>
     </section>
+
   </div>
 </div>
 
