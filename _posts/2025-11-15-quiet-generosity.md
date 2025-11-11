@@ -7,6 +7,7 @@ categories:
   - Success & Prosperity
 tags:
   - fulfilling-life
+  - philanthropy
 toc: true
 permalink: /quiet-generosity/
 published: false
@@ -29,7 +30,12 @@ Scott’s giving model reminds us that success in charity isn’t measured by vi
 
 ## What We Can Learn from MacKenzie Scott
 
-You don’t need billions to follow her lead. You just need to help where you can, in ways that matter. Whether it’s donating to a trusted local group or lending your time to someone in need, small acts carry the same spirit. Scott’s example reminds us: the real power of giving isn’t in the amount—it’s in the trust behind it. Read her essay [No Dollar Signs This Time. Sometimes what’s going on in the world… \| by MacKenzie Scott \| Medium](https://mackenzie-scott.medium.com/no-dollar-signs-this-time-ec7ab2a87261), [Helping Any of Us Can Help Us All \| by MacKenzie Scott \| Medium](https://mackenzie-scott.medium.com/helping-any-of-us-can-help-us-all-f4c7487818d9), and [“We Are the Ones We’ve Been Waiting For” \| by MacKenzie Scott \| Oct, 2025 \| Medium](https://mackenzie-scott.medium.com/we-are-the-ones-weve-been-waiting-for-add8a08a62a2)
+You don’t need billions to follow her lead. You just need to help where you can, in ways that matter. Whether it’s donating to a trusted local group or lending your time to someone in need, small acts carry the same spirit. Scott’s example reminds us: the real power of giving isn’t in the amount—it’s in the trust behind it.
+
+Read her essays:
+- [No Dollar Signs This Time. Sometimes what’s going on in the world… \| by MacKenzie Scott \| Medium](https://mackenzie-scott.medium.com/no-dollar-signs-this-time-ec7ab2a87261)
+- [Helping Any of Us Can Help Us All \| by MacKenzie Scott \| Medium](https://mackenzie-scott.medium.com/helping-any-of-us-can-help-us-all-f4c7487818d9)
+- [“We Are the Ones We’ve Been Waiting For” \| by MacKenzie Scott \| Oct, 2025 \| Medium](https://mackenzie-scott.medium.com/we-are-the-ones-weve-been-waiting-for-add8a08a62a2)
 
 ## Learn more
 If this essay resonated with you, explore more reflections on generosity and purpose:

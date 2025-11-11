@@ -7,6 +7,7 @@ categories:
 tags:
   - success
   - tribute
+  - philanthropy
 permalink: /paul-newman-the-philanthropist/
 ---
 I know Paul Newman thru his charity work mostly.  I've seen him some movies and I know he liked race car driving which is a bit loud for me.  His charity work was exceptional.
