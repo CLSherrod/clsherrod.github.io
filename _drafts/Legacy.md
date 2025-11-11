@@ -118,9 +118,19 @@ How you treated them when no one else was looking.
 That's legacy.
 
 And we shape it every single day.
-
----
-Want more? Check out my tributes to people I admire
-- Dr. Montegomery
-- Steve Jobs
-- [What Vangelis Taught Me About Legacy](/vanglies/)
+## Learn More
+Want more? Check out my tributes to people I admire:
+- [Remembering Maru: How a YouTube Cat Helped Me Heal - Christopher Sherrod](https://christophersherrod.com/maru/)
+- [Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose - Christopher Sherrod](https://christophersherrod.com/montgomery/)
+- - [What Vangelis Taught Me About Legacy](/vanglies/)
+- [Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers - Christopher Sherrod](https://christophersherrod.com/fred-rogers/)
+- [Honoring Ursula K. Le Guin - A Sci-Fi Visionary Who Showed Us New Possibilities - Christopher Sherrod](https://christophersherrod.com/ursula-k-le-guin/)
+- [Carrie Fisher: My First Feminist Role Model - Christopher Sherrod](https://christophersherrod.com/carrie-fisher/)
+- [Nelson Mandela The Hero, and how you can be too - Christopher Sherrod](https://christophersherrod.com/nelson-mandela-hero/)
+- [Missing The Father of Guerilla Marketing - Christopher Sherrod](https://christophersherrod.com/jayconradlevinson/)
+- [Johnny Carson The Hero - Christopher Sherrod](https://christophersherrod.com/johnny-carson/)
+- [My Tribute to Jerry Hicks of Abraham-Hicks - Christopher Sherrod](https://christophersherrod.com/tribute-jerry-hicks-abrahamhicks/)
+- [Remembering Steve Jobs - A Tribute to the Visionary Behind Apple’s Legacy - Christopher Sherrod](https://christophersherrod.com/steve-jobs/)
+- [Paul Newman the philanthropist - Christopher Sherrod](https://christophersherrod.com/paul-newman-the-philanthropist/)
+- [Anita was not scared - Christopher Sherrod](https://christophersherrod.com/anita-was-not-scared/)
+- [Steve Irwin: A Life Lived Full Out, A Lesson for Entrepreneurs - Christopher Sherrod](https://christophersherrod.com/steve-irvin/)
