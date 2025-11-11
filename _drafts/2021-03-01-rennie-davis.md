@@ -8,7 +8,7 @@ categories:
 tags:
   - tribute
 toc: true
-permalink: /rennie-davis-the-new-humanity/
+permalink: /rennie-davis/
 published: true
 teaser: /assets/images/articles/davis.webp
 header:
