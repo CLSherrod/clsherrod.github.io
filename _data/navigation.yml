@@ -17,8 +17,6 @@ main:
         url: /blog/
   - title: "Artist"
     url: /chr1stopher/
-  - title: "Web Agency"
-    url: /whodefinesyou/
   - title: "About"
     url: /about/
     children:

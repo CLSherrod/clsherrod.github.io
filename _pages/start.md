@@ -18,10 +18,10 @@ I’m a writer, artist, and fulfulling lifestyle advocate. I help people unplug 
 
 This site is a living library of the lessons I’ve learned from nearly dying, letting go of a fast-paced career, and building a fulfilling life.
 
-## 🧱 My Core Pillars
+## My Core Pillars
 
 These are the themes I return to again and again. Click to explore:
-### 🌿 **Living a Fulfilling, More Sacred Life**
+### Living a Fulfilling, More Sacred Life
 
 We’ve been sold a hustle myth. I believe in a different rhythm — one that honors rest, creativity, and simplicity.
 
@@ -30,15 +30,14 @@ Read my essays:
 - [Finding Balance: Why Extreme Mindsets Don’t Lead to Entrepreneurial Success](/finding-balance/)
 - [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](/power-of-letting-go/)
 
-### ⚡️ **Electromagnetic Sensitivity & Modern Health**
+### Electromagnetic Sensitivity & Modern Health
 
 I have had several seizures that have changed my life. Now I'm creating a course on how to reduce EMF exposure and reclaim your well-being.
 
 - My upcoming course [Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug/) (Coming Soon)
-- Practical guide: Reducing EMF Exposure Checklist (Coming Soon)
 - And my tribute to [The Digital Canary: Arthur Firstenberg’s Legacy of Electromagnetic Awareness](/arthur-firstenberg/)
 
-### 🐬 **Fulfilling Work & Slow Entrepreneurship**
+### Fulfilling Work & Slow Entrepreneurship
 
 Success doesn’t have to cost your soul. I write about doing meaningful work without burning out.
 
@@ -46,7 +45,7 @@ Success doesn’t have to cost your soul. I write about doing meaningful work wi
 - Essay: [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
 - Book: [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
 - 
-### 🌎 **International Living & Travel Reflections**
+### International Living & Travel Reflections
 
 I’ve been living abroad since 2016. It’s not just about escaping — it’s about choosing better.
 
@@ -55,13 +54,13 @@ I’ve been living abroad since 2016. It’s not just about escaping — it’s 
 - [Working on the Internet while traveling - Christopher Sherrod](https://christophersherrod.com/working-on-the-internet-while-traveling/)
 - [Living the Miami Vice lifestyle without the drugs - Christopher Sherrod](https://christophersherrod.com/living-miami-vice-lifestyle-without-the-drugs/)
 
-### 📬 Get My Personal Notes
+### Get My Personal Notes
 
 I send short, real-world reflections on living a fulfilling life — straight to your inbox.
 
 [Click here to join the email list](/newsletter/) - _No fluff. Just truth, creativity, and clarity._
 
-### 💡 Want to Dive Deeper?
+### Want to Dive Deeper?
 
 Here’s what people explore next:
 
@@ -69,7 +68,7 @@ Here’s what people explore next:
 - [My Book](/books/)
 - 🖼 [My Sacred Geometry Art at Chr1stopher.com](https://Chr1stopher.com)
 
-### 👋 Let’s Stay Connected
+### Let’s Stay Connected
 Want to stay in the loop? Goto my [Hello page](/hello/). Feel free to reply to any email — I actually read them.
 
 > "Living well isn’t about doing more. It’s about doing what matters — and letting the rest fall away."
