@@ -5,12 +5,12 @@ permalink: /books/
 toc: true
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
-  overlay_image: /assets/headers/images/books-header.webp
+  overlay_image: /assets/headers/images/headers/books-header.webp
   overlay_filter: 0.1
   image_description: "Art Books by Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 # SEO overrides
-og_image: /assets/images/books-header.webp
+og_image: /assets/images/headers/books-header.webp
 ---
 ## How To Create New Business Ideas Based On What You Love
 
