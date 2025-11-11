@@ -17,7 +17,6 @@ Explore more that is on my website.
 	- [Blog](/blog/)
 	- [My Books](/books/)
 - [Artist - Chr1stopher](/chr1stopher/)
-- [My Web Agency](/whodefinesyou/)
 - [About](/about/)
 - [Hello](/hello/)
 - [Now](/now/)
