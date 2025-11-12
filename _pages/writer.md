@@ -31,10 +31,10 @@ The book is both a guide and a story. It’s about learning to trust your instin
 [Get How To Create New Business Ideas on Amazon Kindle](https://amzn.to/3oZlRrW){: .btn .btn--primary .btn--large}{: .align-center}
 
 ## Contributed
-I have a story inside the book [Expect Miracles: Dr. Joe Vitale](https://amzn.to/3LtA4gP).
+I have a story inside the book [Expect Miracles](https://amzn.to/3LtA4gP) by Dr. Joe Vitale.
 
 ## Introductions
-I wrote the introduction to my Dad's book [Parenting With Love: How to Raise Emotionally Healthy Children](https://amzn.to/3KDbRnz)
+I wrote the introduction to my Dad's (Kent Sherrod) book [Parenting With Love: How to Raise Emotionally Healthy Children](https://amzn.to/3KDbRnz)
 
 And I wrote the introduction to [Conscious Love: Enlightened Relationships and Soulful Sex 11 Love Experts Reveal Their Secrets](https://amzn.to/3KR5Fsa)
 ## Why I Write
