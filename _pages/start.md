@@ -33,14 +33,12 @@ Read my essays:
 ### Electromagnetic Sensitivity & Modern Health
 
 I have had several seizures that have changed my life. Now I'm creating a course on how to reduce EMF exposure and reclaim your well-being.
-
 - My upcoming course [Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Health](/unplug/) (Coming Soon)
 - And my tribute to [The Digital Canary: Arthur Firstenberg’s Legacy of Electromagnetic Awareness](/arthur-firstenberg/)
 
 ### Fulfilling Work & Slow Entrepreneurship
 
 Success doesn’t have to cost your soul. I write about doing meaningful work without burning out.
-
 - Essay: [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](/dolphin-entrepreneur/)  
 - Essay: [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
 - Book: [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
@@ -63,10 +61,9 @@ I send short, real-world reflections on living a fulfilling life — straight to
 ### Want to Dive Deeper?
 
 Here’s what people explore next:
-
-- 📚 [Essays, Articles](https://christophersherrod.com/writer/) 
+- 📚 [Writer of Essays and a Book](https://christophersherrod.com/writer/) 
 - [My Book](/books/)
-- 🖼 [My Sacred Geometry Art at Chr1stopher.com](https://Chr1stopher.com)
+- 🖼 [My Art](https://christophersherrod.com/chr1stopher/)
 
 ### Let’s Stay Connected
 Want to stay in the loop? Goto my [Hello page](/hello/). Feel free to reply to any email — I actually read them.

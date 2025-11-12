@@ -55,7 +55,7 @@ Join my [newsletter](/newsletter/) to keep updated on my projects, articles and 
 ### Offline Activities
 He enjoys listening to music, playing the Native American flute, creating art, and spending time with his wife, embracing a slower, more connected way of living. 
 
-You can also experience his art at [Chr1stopher.com](https://Chr1stopher.com).  
+You can also experience [his art](https://christophersherrod.com/chr1stopher).  
 
 ### Stay Connected
 Want to stay in the loop? Goto my [Hello page](/hello).
