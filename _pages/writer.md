@@ -36,7 +36,7 @@ I have a story inside the book [Expect Miracles: Dr. Joe Vitale](https://amzn.to
 ## Introductions
 I wrote the introduction to my Dad's book [Parenting With Love: How to Raise Emotionally Healthy Children](https://amzn.to/3KDbRnz)
 
-And I wrote the introduction to [Conscious Love: Enlightened Relationships and Soulful Sex 11 Love Experts Reveal Their Secrets eBook : Torres, Alain, Menné, Christopher, Evans, Lucia Nicola, Morehead, Deborah, Baumgartner, Lana, Shumilova, Kristina, Nielsen, Deborah, Young, Joni, Dunn, Christine, Estanol, Dr. Elena](https://amzn.to/3KR5Fsa)
+And I wrote the introduction to [Conscious Love: Enlightened Relationships and Soulful Sex 11 Love Experts Reveal Their Secrets](https://amzn.to/3KR5Fsa)
 ## Why I Write
 
 For me, writing isn’t just about sharing knowledge—it’s about leaving a trail. When I look back at the challenges I’ve faced—quitting a secure job, starting over, living abroad, even recovering from seizures that made me rethink everything—I see turning points. Writing lets me mark those places and say: _This is what I learned. Maybe it will help you, too._
