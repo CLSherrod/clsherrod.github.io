@@ -25,7 +25,7 @@ header:
   overlay_image: /assets/images/headers/home-header.webp
   image_description: "This is the life I live and the lens I write from."
   actions:
-    - label: "Simple essays on meaning, creativity, and living well in a wired world"
+    - label: "Get Today's Note"
       url: "/#newsletter"
 ---
 
@@ -49,186 +49,49 @@ header:
     </section>
   </div>
 </div>
-
 <!-- ===============================
-     NEWSLETTER SECTION
+     PILLARS SECTION
      =============================== -->
-<section id="newsletter" class="full-bleed turquoise-banner">
-  <div class="wrapper">
-    <div class="newsletter-content">
-      <h2 class="hero-title animate-slide-up">Start Each Day Grounded</h2>
-      <p align="center">
-        A short, thoughtful note on living well in a wired world — delivered
-        every morning. No noise. No hype. Just one idea to help you slow down,
-        reconnect, and live with intention.
-      </p>
-      <form
-        id="newsletterForm"
-        action="https://mail.nanakasha.com/subscribe"
-        method="POST"
-        accept-charset="utf-8"
-        style="
-          display: flex;
-          flex-wrap: wrap;
-          justify-content: center;
-          gap: 15px;
-          background-color: turquoise;
-          padding: 20px;
-          border-radius: 8px;
-          max-width: 600px;
-          margin: 0 auto;
-        "
-      >
-        <div
-          style="
-            display: flex;
-            flex-direction: column;
-            flex: 1 1 250px;
-            min-width: 220px;
-          "
-        >
-          <label for="name" style="margin-bottom: 5px; font-weight: bold"
-            >Name</label
-          >
-          <input
-            type="text"
-            name="name"
-            id="name"
-            required
-            autocomplete="name"
-            style="
-              border: 2px solid blue;
-              padding: 10px;
-              border-radius: 5px;
-              font-size: 1rem;
-              width: 100%;
-              box-sizing: border-box;
-            "
-          />
-        </div>
+<section id="pillars">
+  <h2>What I Write About</h2>
 
-        <div
-          style="
-            display: flex;
-            flex-direction: column;
-            flex: 1 1 250px;
-            min-width: 220px;
-          "
-        >
-          <label for="email" style="margin-bottom: 5px; font-weight: bold"
-            >Email</label
-          >
-          <input
-            type="email"
-            name="email"
-            id="email"
-            required
-            autocomplete="email"
-            inputmode="email"
-            style="
-              border: 2px solid blue;
-              padding: 10px;
-              border-radius: 5px;
-              font-size: 1rem;
-              width: 100%;
-              box-sizing: border-box;
-            "
-          />
-        </div>
+  <h3>Meaning</h3>
+  <p>
+    Life feels better when you’re clear on what truly matters. I explore the
+    small, honest choices that lead to a fulfilling life — not the ones that
+    look good on a vision board.
+  </p>
 
-        <!-- Honeypot field (hidden from users & assistive tech) -->
-        <div style="position: absolute; left: -9999px" aria-hidden="true">
-          <label for="website" title="Leave this field blank">Website</label>
-          <input
-            type="text"
-            name="website"
-            id="website"
-            tabindex="-1"
-            autocomplete="off"
-          />
-        </div>
+  <h3>Technology Boundaries</h3>
+  <p>
+    We live in a wired world, and most people are drowning in it without
+    noticing. I write about healthier ways to relate to tech so your mind,
+    energy, and creativity actually return.
+  </p>
 
-        <!-- Timestamp field (hidden) -->
-        <input type="hidden" name="timestamp" id="timestamp" />
+  <h3>Creativity</h3>
+  <p>
+    Art, writing, and self-expression aren’t hobbies — they’re ways of
+    remembering yourself. I share how to create from the inside out, without
+    hustling your soul away.
+  </p>
 
-        <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
-        <input type="hidden" name="subform" value="yes" />
+  <h3>Fulfilling Work</h3>
+  <p>
+    You don’t need extreme ambition or extreme minimalism. You need meaningful
+    work that supports a life you actually want to live. I write about
+    real-world, non-hypeful ways to get there.
+  </p>
 
-        <!-- Centered responsive submit button -->
-        <div
-          style="
-            display: flex;
-            justify-content: center;
-            margin-top: 10px;
-            width: 100%;
-          "
-        >
-          <input
-            type="submit"
-            name="submit"
-            id="submit"
-            value="Get Today's Note"
-            style="
-              border: 0;
-              padding: 0.8em 1.4em;
-              background-color: rgb(185, 75, 75);
-              color: white;
-              cursor: pointer;
-              border-radius: 100px;
-              width: 100%;
-              max-width: 400px;
-              font-size: 1.5rem;
-              font-weight: 600;
-              letter-spacing: -0.004em;
-              line-height: 1;
-              display: inline-flex;
-              align-items: center;
-              justify-content: center;
-              gap: 0.4em;
-              margin: 0 auto;
-            "
-          />
-        </div>
-      </form>
-      <p align="center">No spam. Unsubscribe anytime.</p>
-      <script>
-        (function () {
-          function init() {
-            var ts = document.getElementById("timestamp");
-            if (ts) ts.value = Date.now();
-
-            var form = document.getElementById("newsletterForm");
-            if (!form) return;
-
-            form.addEventListener("submit", function (e) {
-              var tsEl = document.getElementById("timestamp");
-              var start = parseInt(tsEl && tsEl.value ? tsEl.value : "0", 10);
-              var elapsed = start ? (Date.now() - start) / 1000 : 999; // allow submission if JS failed
-              var honeypotEl = document.getElementById("website");
-              var honey =
-                honeypotEl && honeypotEl.value ? honeypotEl.value : "";
-
-              if (honey !== "" || elapsed < 5) {
-                e.preventDefault();
-                console.warn("Spam submission blocked.");
-                return false;
-              }
-            });
-          }
-
-          if (document.readyState === "loading") {
-            document.addEventListener("DOMContentLoaded", init);
-          } else {
-            init();
-          }
-        })();
-      </script>
-    </div>
-  </div>
+  <h3>Slow Living</h3>
+  <p>
+    Not the Instagram version. The grounded, practical version where you stop
+    racing long enough to enjoy the life you’ve already built.
+  </p>
 </section>
 
 <!-- ===============================
-     ESSAYS
+     START HERE
      =============================== -->
 <div class="page__content">
   <div class="wrapper">
@@ -242,7 +105,7 @@ header:
         different part of living a fulfilling life.
       </p>
 
-      <h3>1. Unplug: Why Your Devices Need Boundaries Too</h3>
+      <h3>Unplug: Why Your Devices Need Boundaries Too</h3>
       <p>
         The truth about the hidden cost of tech overload — and how small
         boundaries can give you your mind back.
@@ -252,7 +115,7 @@ header:
         >https://christophersherrod.com/unplug/</a
       >
 
-      <h3>2. Why Successful People Don’t Waste Time Arguing</h3>
+      <h3>Why Successful People Don’t Waste Time Arguing</h3>
       <p>
         What happens when you stop treating conflict like a sport and start
         treating your attention like oxygen.
@@ -262,7 +125,7 @@ header:
         >https://christophersherrod.com/arguing/</a
       >
 
-      <h3>3. Finding Balance in Work and Rest</h3>
+      <h3>Finding Balance in Work and Rest</h3>
       <p>
         A grounded look at what balance actually is (and isn’t), and why it
         matters more than your perfect schedule.
@@ -272,8 +135,193 @@ header:
         >https://christophersherrod.com/finding-balance/</a
       >
     </section>
-    <section id="articles">
-      <h2>Recent Essays</h2>
+    <!-- ===============================
+         NEWSLETTER SECTION
+         =============================== -->
+    <section id="newsletter" class="full-bleed turquoise-banner">
+      <div class="wrapper">
+        <div class="newsletter-content">
+          <h2 class="hero-title animate-slide-up">Start Each Day Grounded</h2>
+          <p align="center">
+            A short, thoughtful note on living well in a wired world — delivered
+            every morning. No noise. No hype. Just one idea to help you slow
+            down, reconnect, and live with intention.
+          </p>
+          <form
+            id="newsletterForm"
+            action="https://mail.nanakasha.com/subscribe"
+            method="POST"
+            accept-charset="utf-8"
+            style="
+              display: flex;
+              flex-wrap: wrap;
+              justify-content: center;
+              gap: 15px;
+              background-color: turquoise;
+              padding: 20px;
+              border-radius: 8px;
+              max-width: 600px;
+              margin: 0 auto;
+            "
+          >
+            <div
+              style="
+                display: flex;
+                flex-direction: column;
+                flex: 1 1 250px;
+                min-width: 220px;
+              "
+            >
+              <label for="name" style="margin-bottom: 5px; font-weight: bold"
+                >Name</label
+              >
+              <input
+                type="text"
+                name="name"
+                id="name"
+                required
+                autocomplete="name"
+                style="
+                  border: 2px solid blue;
+                  padding: 10px;
+                  border-radius: 5px;
+                  font-size: 1rem;
+                  width: 100%;
+                  box-sizing: border-box;
+                "
+              />
+            </div>
+
+            <div
+              style="
+                display: flex;
+                flex-direction: column;
+                flex: 1 1 250px;
+                min-width: 220px;
+              "
+            >
+              <label for="email" style="margin-bottom: 5px; font-weight: bold"
+                >Email</label
+              >
+              <input
+                type="email"
+                name="email"
+                id="email"
+                required
+                autocomplete="email"
+                inputmode="email"
+                style="
+                  border: 2px solid blue;
+                  padding: 10px;
+                  border-radius: 5px;
+                  font-size: 1rem;
+                  width: 100%;
+                  box-sizing: border-box;
+                "
+              />
+            </div>
+
+            <!-- Honeypot field (hidden from users & assistive tech) -->
+            <div style="position: absolute; left: -9999px" aria-hidden="true">
+              <label for="website" title="Leave this field blank"
+                >Website</label
+              >
+              <input
+                type="text"
+                name="website"
+                id="website"
+                tabindex="-1"
+                autocomplete="off"
+              />
+            </div>
+
+            <!-- Timestamp field (hidden) -->
+            <input type="hidden" name="timestamp" id="timestamp" />
+
+            <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
+            <input type="hidden" name="subform" value="yes" />
+
+            <!-- Centered responsive submit button -->
+            <div
+              style="
+                display: flex;
+                justify-content: center;
+                margin-top: 10px;
+                width: 100%;
+              "
+            >
+              <input
+                type="submit"
+                name="submit"
+                id="submit"
+                value="Get Today's Note"
+                style="
+                  border: 0;
+                  padding: 0.8em 1.4em;
+                  background-color: rgb(185, 75, 75);
+                  color: white;
+                  cursor: pointer;
+                  border-radius: 100px;
+                  width: 100%;
+                  max-width: 400px;
+                  font-size: 1.5rem;
+                  font-weight: 600;
+                  letter-spacing: -0.004em;
+                  line-height: 1;
+                  display: inline-flex;
+                  align-items: center;
+                  justify-content: center;
+                  gap: 0.4em;
+                  margin: 0 auto;
+                "
+              />
+            </div>
+          </form>
+          <p align="center">No spam. Unsubscribe anytime.</p>
+          <script>
+            (function () {
+              function init() {
+                var ts = document.getElementById("timestamp");
+                if (ts) ts.value = Date.now();
+
+                var form = document.getElementById("newsletterForm");
+                if (!form) return;
+
+                form.addEventListener("submit", function (e) {
+                  var tsEl = document.getElementById("timestamp");
+                  var start = parseInt(
+                    tsEl && tsEl.value ? tsEl.value : "0",
+                    10,
+                  );
+                  var elapsed = start ? (Date.now() - start) / 1000 : 999; // allow submission if JS failed
+                  var honeypotEl = document.getElementById("website");
+                  var honey =
+                    honeypotEl && honeypotEl.value ? honeypotEl.value : "";
+
+                  if (honey !== "" || elapsed < 5) {
+                    e.preventDefault();
+                    console.warn("Spam submission blocked.");
+                    return false;
+                  }
+                });
+              }
+
+              if (document.readyState === "loading") {
+                document.addEventListener("DOMContentLoaded", init);
+              } else {
+                init();
+              }
+            })();
+          </script>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===============================
+         ESSAYS SECTION
+         =============================== -->
+    <section id="essays">
+      <h2>Recent Essays On Living Well</h2>
       <p>I've been writing for 25 years. These are my recent essays:</p>
       <ul>
         {% assign sorted_posts = site.posts | sort: "date" | reverse %} {% for
