@@ -66,6 +66,11 @@ body {
   margin-bottom: 2rem;
 }
 
+#start {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
 /* === Newsletter Section === */
 #newsletter {
   background-color: #40e0d0;
