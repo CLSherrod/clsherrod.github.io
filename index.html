@@ -272,82 +272,28 @@ header:
         >https://christophersherrod.com/finding-balance/</a
       >
     </section>
-    <section id="recent">
-      <h2>New writing on what it means to live well in a wired world</h2>
-      <section id="start-here" class="text-center my-12">
-        <h3>Start Here</h3>
-        <p>
-          New to my work? Begin with these three essays on meaning, technology,
-          and slowing down:
-        </p>
-        <ul class="list-none mt-4 space-y-2">
-          →
-          <a href="/unplug/">Unplug: Why Your Devices Need Boundaries Too</a
-          ><br />
-          →
-          <a href="/arguing/">Why Successful People Don’t Waste Time Arguing</a
-          ><br />
-          →
-          <a href="/finding-balance/">Finding Balance in Work and Rest</a>
-        </ul>
-      </section>
-
-      <article>
-        <ul>
-          {% assign sorted_posts = site.posts | sort: "date" | reverse %} {% for
-          post in sorted_posts limit: 10 %} {% assign category = post.categories
-          | first | default: "Post" %} {% assign words = category | split: ' '
-          %} {% capture titlecase %} {% for w in words %} {{ w | capitalize }}{%
-          unless forloop.last %} {% endunless %} {% endfor %} {% endcapture %}
-          <li>
-            <b>
-              {{ titlecase | strip }} –
-              <a href="{{ post.url | relative_url }}"
-                >{{ post.title | escape }}</a
-              >
-            </b>
-            – <i>{{ post.date | date: "%B %d, %Y" }}</i>
-          </li>
-          {% endfor %}
-        </ul>
-      </article>
-
+    <section id="articles">
+      <ul>
+        {% assign sorted_posts = site.posts | sort: "date" | reverse %} {% for
+        post in sorted_posts limit: 10 %} {% assign category = post.categories |
+        first | default: "Post" %} {% assign words = category | split: ' ' %} {%
+        capture titlecase %} {% for w in words %} {{ w | capitalize }}{% unless
+        forloop.last %} {% endunless %} {% endfor %} {% endcapture %}
+        <li>
+          <b>
+            {{ titlecase | strip }} –
+            <a href="{{ post.url | relative_url }}"
+              >{{ post.title | escape }}</a
+            >
+          </b>
+          – <i>{{ post.date | date: "%B %d, %Y" }}</i>
+        </li>
+        {% endfor %}
+      </ul>
       <p>
         Explore
         <a href="{{ '/blog' | relative_url }}">all essays in the archive</a>
       </p>
-    </section>
-
-    <!-- ===============================
-     READ MORE
-     =============================== -->
-    <section id="more">
-      <h2>Read more of my past writings</h2>
-      <article>
-        <ul>
-          <li>
-            Learn more about me on my
-            <a href="{{ '/start' | relative_url }}">Start Here</a> page
-          </li>
-          <li>
-            Read all my
-            <a href="{{ '/categories/#business' | relative_url }}"
-              >Business & Entrepreneurship</a
-            >,
-            <a href="{{ '/categories/#success-prosperity' | relative_url }}"
-              >Success & Prosperity</a
-            >,
-            <a href="{{ '/categories/#learning-growth' | relative_url }}"
-              >Learning & Growth</a
-            >,
-            <a href="{{ '/categories/#lifestyle-travel' | relative_url }}"
-              >Lifestyle & Travel</a
-            >
-            essays and my
-            <a href="{{ '/categories/#poems' | relative_url }}">Poems</a>
-          </li>
-        </ul>
-      </article>
     </section>
 
     <!-- ===============================
