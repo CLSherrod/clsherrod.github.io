@@ -1,40 +1,46 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li>
-            <a href="{{ link.url }}"
-               target="_blank"
-               rel="noopener noreferrer nofollow">
-              <i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i>
-              {{ link.label }}
-            </a>
-          </li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-
-    {% unless site.atom_feed.hide %}
-      <li>
-        <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"
-           rel="noopener noreferrer">
-          <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i>
-          {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
-        </a>
-      </li>
+    <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    {% endif %} {% if site.footer.links %} {% for link in site.footer.links %}
+    {% if link.label and link.url %}
+    <li>
+      <a
+        href="{{ link.url }}"
+        target="_blank"
+        rel="noopener noreferrer nofollow"
+      >
+        <i
+          class="{{ link.icon | default: 'fas fa-link' }}"
+          aria-hidden="true"
+        ></i>
+        {{ link.label }}
+      </a>
+    </li>
+    {% endif %} {% endfor %} {% endif %} {% unless site.atom_feed.hide %}
+    <li>
+      <a
+        href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"
+        rel="noopener noreferrer"
+      >
+        <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i>
+        {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
+      </a>
+    </li>
     {% endunless %}
   </ul>
 </div>
 
 <div class="page__footer-copyright">
-  <p style="text-align: center; font-size: 0.9rem;">
-    Created by <a href="https://whodefinesyou.com" rel="noopener noreferrer">Who Defines You – Web Agency</a><br /><br />
-    <span id="copyright-year">© 2000–<span id="year"></span> Christopher Sherrod</span>
+  <p style="text-align: center; font-size: 0.9rem">
+    Created by
+    <a href="https://whodefinesyou.com" rel="noopener noreferrer"
+      >Who Defines You – Web Agency</a
+    ><br /><br />
+    <span id="copyright-year"
+      >© 2000–<span id="year"></span> Christopher Sherrod -
+      #FulfillingLife</span
+    >
   </p>
 </div>
 
