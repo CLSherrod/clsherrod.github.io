@@ -60,6 +60,11 @@ html,
 body {
   overflow-x: hidden;
 }
+/* Pillars Section */
+#pillars {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
 
 /* === Newsletter Section === */
 #newsletter {
