@@ -33,7 +33,6 @@ html {
 }
 
 /* === FULL-BLEED SECTIONS === */
-/* Make a section truly full width without causing horizontal scroll */
 .full-bleed {
   position: relative;
   left: 50%;
@@ -41,24 +40,22 @@ html {
   margin-left: -50vw;
   margin-right: -50vw;
   width: 100vw;
-  box-sizing: border-box; /* padding stays inside */
+  box-sizing: border-box;
   overflow-x: hidden;
 }
 
-/* Constrain inner content to site width */
+/* Constrain inner content */
 .full-bleed > .wrapper {
-  max-width: 1200px; /* match site container width */
+  max-width: 1200px;
   margin: 0 auto;
   padding: 2rem 1rem;
 }
 
-/* Safety: prevent children from pushing layout */
 .page__content,
 .page__content * {
   max-width: 100%;
 }
 
-/* Prevent horizontal scroll on mobile/iOS */
 html,
 body {
   overflow-x: hidden;
@@ -86,153 +83,155 @@ body {
   gap: 1rem;
 }
 
-#newsletterForm input,
-#newsletterForm button {
+/* Newsletter CTA Button */
+.newsletter-submit {
+  display: inline-block;
+  padding: 0.9rem 2.2rem;
   font-size: 1rem;
-  padding: 0.8rem;
-  border-radius: 6px;
-  border: 2px solid #30c5b6;
-  box-sizing: border-box;
+  font-weight: 600;
+  white-space: nowrap;
+  border: none;
+  border-radius: 0.5rem;
+  background-color: #0ea5e9;
+  color: #ffffff;
+  cursor: pointer;
+  width: auto;
+  min-width: 240px;
+  text-align: center;
+  transition:
+    background-color 0.2s ease,
+    transform 0.1s ease;
 }
 
-#newsletterForm button {
-  background-color: #b94b4b;
-  color: white;
-  border: none;
+.newsletter-submit:hover {
+  background-color: #0284c7;
+  transform: translateY(-1px);
+}
+
+.newsletter-submit:active {
+  transform: translateY(0);
+}
+
+/* Newsletter disclaimer */
+.newsletter-disclaimer {
+  display: block;
+  margin-top: 0.75rem;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: var(--color-gray-500, #6b7280);
+  font-style: italic;
+  opacity: 0.9;
+}
+
+/* === HERO SECTION === */
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+
+  background:
+    linear-gradient(
+      160deg,
+      rgba(64, 224, 208, 0.95) 0%,
+      rgba(48, 197, 182, 0.9) 100%
+    ),
+    url("{{ '/assets/images/headers/home-header.webp' | relative_url }}")
+      center/cover no-repeat;
+
+  color: #fff;
+  padding: 8rem 1rem;
+  min-height: 70vh;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 1;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.hero h1 {
+  font-size: 2.8rem;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.hero .tagline {
+  font-size: 1.4rem;
+  max-width: 700px;
+  margin: 0 auto 0.75rem;
+  color: #f7fffd;
+}
+
+.hero .subline {
+  font-size: 1.1rem;
+  color: #e3fffb;
+}
+
+.hero-float-button {
+  display: inline-block;
+  margin-top: 2rem;
+  background-color: #40e0d0;
+  color: #000;
   font-weight: 600;
+  font-size: 1rem;
+  padding: 0.8rem 1.6rem;
   border-radius: 100px;
-  cursor: pointer;
+  text-decoration: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
   transition:
     background-color 0.3s ease,
     transform 0.2s ease;
 }
 
-#newsletterForm button:hover {
-  backgr
+.hero-float-button:hover {
+  background-color: #30c5b6;
+  transform: scale(1.05);
+}
 
-/* Newsletter disclaimer */
-.newsletter-disclaimer {
-    display: block;
-    margin-top: 0.75rem;
-    font-size: 0.8rem;
-    line-height: 1.4;
-    color: var(--color-gray-500, #6b7280); /* graceful fallback */
-    font-style: italic;
-    opacity: 0.9;
-  }
-
-  /* === HERO SECTION (Turquoise Gradient + Background Image) === */
+/* Tablet */
+@media (max-width: 1024px) {
   .hero {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    text-align: center;
-
-    /* Combined gradient + background image */
-    background:
-      linear-gradient(
-        160deg,
-        rgba(64, 224, 208, 0.95) 0%,
-        rgba(48, 197, 182, 0.9) 100%
-      ),
-      url("{{ '/assets/images/headers/home-header.webp' | relative_url }}")
-        center/cover no-repeat;
-
-    color: #fff;
-    padding: 8rem 1rem;
-    min-height: 70vh;
-    position: relative;
-    overflow: hidden;
-  }
-
-  .hero-inner {
-    position: relative;
-    z-index: 1;
-    max-width: 900px;
-    margin: 0 auto;
+    padding: 6rem 1rem;
+    min-height: 60vh;
   }
 
   .hero h1 {
-    font-size: 2.8rem;
-    margin-bottom: 1rem;
-    line-height: 1.2;
+    font-size: 2.2rem;
   }
 
   .hero .tagline {
-    font-size: 1.4rem;
-    max-width: 700px;
-    margin: 0 auto 0.75rem;
-    color: #f7fffd;
+    font-size: 1.25rem;
+  }
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .hero {
+    padding: 4rem 1rem;
+    min-height: 50vh;
+    background:
+      linear-gradient(
+        160deg,
+        rgba(64, 224, 208, 0.96) 10%,
+        rgba(45, 181, 164, 0.9) 100%
+      ),
+      url("/assets/images/headers/home-header.webp") center/cover no-repeat;
+  }
+
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .hero .tagline {
+    font-size: 1.1rem;
   }
 
   .hero .subline {
-    font-size: 1.1rem;
-    color: #e3fffb;
-  }
-
-  /* Floating button inside hero */
-  .hero-float-button {
-    display: inline-block;
-    margin-top: 2rem;
-    background-color: #40e0d0;
-    color: #000;
-    font-weight: 600;
     font-size: 1rem;
-    padding: 0.8rem 1.6rem;
-    border-radius: 100px;
-    text-decoration: none;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.25);
-    transition:
-      background-color 0.3s ease,
-      transform 0.2s ease;
-  }
-
-  .hero-float-button:hover {
-    background-color: #30c5b6;
-    transform: scale(1.05);
-  }
-
-  /* Tablet */
-  @media (max-width: 1024px) {
-    .hero {
-      padding: 6rem 1rem;
-      min-height: 60vh;
-    }
-
-    .hero h1 {
-      font-size: 2.2rem;
-    }
-
-    .hero .tagline {
-      font-size: 1.25rem;
-    }
-  }
-
-  /* Mobile */
-  @media (max-width: 600px) {
-    .hero {
-      padding: 4rem 1rem;
-      min-height: 50vh;
-      background:
-        linear-gradient(
-          160deg,
-          rgba(64, 224, 208, 0.96) 10%,
-          rgba(45, 181, 164, 0.9) 100%
-        ),
-        url("/assets/images/headers/home-header.webp") center/cover no-repeat;
-    }
-
-    .hero h1 {
-      font-size: 1.8rem;
-    }
-
-    .hero .tagline {
-      font-size: 1.1rem;
-    }
-
-    .hero .subline {
-      font-size: 1rem;
-    }
   }
 }
