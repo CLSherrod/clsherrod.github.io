@@ -110,8 +110,19 @@ body {
 #newsletterForm button:hover {
   backgr
 
-/* === HERO SECTION (Turquoise Gradient + Background Image) === */
-.hero {
+/* Newsletter disclaimer */
+.newsletter-disclaimer {
+    display: block;
+    margin-top: 0.75rem;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    color: var(--color-gray-500, #6b7280); /* graceful fallback */
+    font-style: italic;
+    opacity: 0.9;
+  }
+
+  /* === HERO SECTION (Turquoise Gradient + Background Image) === */
+  .hero {
     display: flex;
     align-items: center;
     justify-content: center;
