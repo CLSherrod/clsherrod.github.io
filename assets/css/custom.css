@@ -2,6 +2,25 @@
 html {
   scroll-behavior: smooth;
 }
+
+html,
+body {
+  overflow-x: hidden;
+}
+
+.page__content,
+.page__content * {
+  max-width: 100%;
+}
+
+/* Constrain inner content */
+.full-bleed > .wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* header */
 :target {
   scroll-margin-top: 100px; /* adjust to your header height */
 }
@@ -25,13 +44,6 @@ html {
   box-shadow: 0 0 0 3px rgba(185, 75, 75, 0.35);
 }
 
-/* Optional: tighten turquoise banner padding on small screens */
-@media (max-width: 480px) {
-  #newsletterForm {
-    padding: 16px !important;
-  }
-}
-
 /* === FULL-BLEED SECTIONS === */
 .full-bleed {
   position: relative;
@@ -44,37 +56,10 @@ html {
   overflow-x: hidden;
 }
 
-/* Constrain inner content */
-.full-bleed > .wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
-
-.page__content,
-.page__content * {
-  max-width: 100%;
-}
-
-html,
-body {
-  overflow-x: hidden;
-}
-
-/* Cloudflare honeypot field — keep for security, hide from humans */
-.cf-honeypot {
-  position: absolute !important;
-  left: -9999px !important;
-  width: 1px !important;
-  height: 1px !important;
-  opacity: 0 !important;
-  pointer-events: none !important;
-}
-
-/* Section */
+/* Sections */
 #intro {
-  margin-bottom: 2rem;
   background-color: silver;
+  margin-bottom: 2rem;
 }
 
 /* Pillars Section */
@@ -179,6 +164,23 @@ body {
   color: var(--color-gray-500, #6b7280);
   font-style: italic;
   opacity: 0.9;
+}
+
+/* Cloudflare honeypot field — keep for security, hide from humans */
+.cf-honeypot {
+  position: absolute !important;
+  left: -9999px !important;
+  width: 1px !important;
+  height: 1px !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+/* Optional: tighten turquoise banner padding on small screens */
+@media (max-width: 480px) {
+  #newsletterForm {
+    padding: 16px !important;
+  }
 }
 
 /* === HERO SECTION === */
