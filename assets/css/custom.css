@@ -103,6 +103,11 @@ body {
 
 #start {
   margin: 3rem 0 2rem 0;
+  border-top: 1px solid #e3f4f1; /* light turquoise grey */
+  padding: 2.5rem 1rem;
+  margin: 3rem 0 2rem 0;
+  background-color: #f8faf9; /* soft white-green neutral */
+  border-radius: 12px;
 }
 
 /* === Newsletter Section === */
