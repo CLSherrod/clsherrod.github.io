@@ -58,19 +58,38 @@ body {
 }
 
 /* Sections */
-#intro {
-  background-color: silver;
-  padding: 2.5rem 1rem;
-  border-radius: 8px;
-  margin-bottom: 2rem;
-}
-
 @media (max-width: 600px) {
   #intro {
     background-color: silver;
-    padding: 1.5rem 1rem; /* slightly tighter for small screens */
-    border-radius: 6px; /* softer radius fits mobile better */
-    margin-bottom: 1.5rem; /* cleaner vertical flow */
+    padding: 1.5rem 1rem;
+    border-radius: 6px;
+    margin-bottom: 1.5rem;
+  }
+
+  /* Responsive text size */
+  #intro p {
+    font-size: 0.95rem; /* slightly smaller on mobile */
+    line-height: 1.45; /* tighter, but still readable */
+    margin-bottom: 0.9rem; /* cleaner paragraph spacing */
+  }
+
+  /* Headings, if any, scale down slightly */
+  #intro h2,
+  #intro h3 {
+    font-size: 1.25rem;
+    margin-bottom: 0.75rem;
+  }
+
+  /* Indentation for links */
+  #intro a {
+    display: inline-block;
+    margin-left: 0.25rem; /* slight visual indent */
+    text-indent: 0.25rem;
+  }
+
+  /* Improve the → link line visually */
+  #intro p a {
+    text-decoration: underline;
   }
 }
 
