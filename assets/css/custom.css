@@ -59,6 +59,8 @@ body {
 /* Sections */
 #intro {
   background-color: silver;
+  padding: 2.5rem 1rem;
+  border-radius: 8px;
   margin-bottom: 2rem;
 }
 
