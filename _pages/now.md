@@ -12,7 +12,7 @@ header:
 # SEO overrides
 og_image: /assets/images/now-header.webp
 ---
-Updated on Wednesday November 12th, 2025.
+Updated on Friday November 14th, 2025.
 
 ## Currently Doing
 - I’m currently writing a course _Digital Declutter: 4 Steps to a Low-EMF, High-Energy Life_ to help you reduce exposure, sleep deeper, and feel grounded again — without adding more tech or stress to your life.
