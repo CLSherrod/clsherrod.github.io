@@ -1,4 +1,5 @@
 /* === Interaction styles and responsive tweaks === */
+/* html, body, page wrapper */
 html {
   scroll-behavior: smooth;
 }
@@ -62,6 +63,15 @@ body {
   padding: 2.5rem 1rem;
   border-radius: 8px;
   margin-bottom: 2rem;
+}
+
+@media (max-width: 600px) {
+  #intro {
+    background-color: silver;
+    padding: 1.5rem 1rem; /* slightly tighter for small screens */
+    border-radius: 6px; /* softer radius fits mobile better */
+    margin-bottom: 1.5rem; /* cleaner vertical flow */
+  }
 }
 
 /* Pillars Section */
