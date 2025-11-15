@@ -2,7 +2,7 @@
 title: A Practical Guide to Generative AI for Non-Tech Business Leaders
 date: 2024-08-14
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /business-ai

@@ -2,7 +2,7 @@
 title: Atlas Shrugged Review
 date: 2000-01-07
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - meaning
   - review

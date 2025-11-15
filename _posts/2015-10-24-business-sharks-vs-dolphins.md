@@ -4,7 +4,7 @@ date: 2015-10-24
 published: true
 comments: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /business-sharks-vs-dolphins/

@@ -3,7 +3,7 @@ title: Are you too Big to be an entrepreneur
 date: 2008-07-21
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /are-you-too-big-to-be-an-entrepreneur/

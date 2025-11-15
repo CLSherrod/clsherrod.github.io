@@ -2,7 +2,7 @@
 title: Cashflow Quadrant Review
 date: 2000-04-16
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - real-success
   - review

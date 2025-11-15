@@ -3,7 +3,7 @@ title: 5 Ways to Test Out Your Next Joint Venture Business Partner
 date: 2011-02-08
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /5-ways-to-test-out-your-next-joint-venture-business-partner/

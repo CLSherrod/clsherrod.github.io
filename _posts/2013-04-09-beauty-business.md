@@ -3,7 +3,7 @@ title: Beauty in Business
 date: 2013-04-09
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /beauty-business/

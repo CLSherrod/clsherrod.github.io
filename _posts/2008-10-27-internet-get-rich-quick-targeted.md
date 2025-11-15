@@ -3,7 +3,7 @@ title: Internet Get Rich Quick targeted
 date: 2008-10-27
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /internet-get-rich-quick-targeted/

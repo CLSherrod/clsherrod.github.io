@@ -3,7 +3,7 @@ title: Disgruntled customer offered Virgin job
 date: 2009-01-29
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /disgruntled-customer-offered-virgin-job/

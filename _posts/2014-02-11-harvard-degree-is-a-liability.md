@@ -3,7 +3,7 @@ title: Why a Harvard Degree is a Liability
 date: 2014-02-11
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /harvard-degree-is-a-liability/

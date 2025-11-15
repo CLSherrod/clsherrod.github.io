@@ -3,7 +3,7 @@ title: Branding is overrated
 date: 2018-05-14
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
 - entrepreneurship
 permalink: /branding-is-overrated/

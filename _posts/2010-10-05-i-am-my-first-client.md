@@ -3,7 +3,7 @@ title: I am my first client
 date: 2010-10-05
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /i-am-my-first-client/

@@ -3,7 +3,7 @@ title: Creative entrepreneurs can survive the crisis
 date: 2008-10-30
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /creative-entrepreneurs-can-survive-the-crisis/

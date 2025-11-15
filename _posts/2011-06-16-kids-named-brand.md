@@ -3,7 +3,7 @@ title: When kids are named after your brand name...
 date: 2011-06-16
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /kids-named-brand/

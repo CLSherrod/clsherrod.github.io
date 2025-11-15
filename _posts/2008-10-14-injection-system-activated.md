@@ -3,7 +3,7 @@ title: Injection System Activated
 date: 2008-10-14 01:24:39
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /injection-system-activated/

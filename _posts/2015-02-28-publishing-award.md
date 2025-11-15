@@ -2,7 +2,7 @@
 title: I Won A Publishing Award
 date: 2015-02-28
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - updates
 permalink: /publishing-award/

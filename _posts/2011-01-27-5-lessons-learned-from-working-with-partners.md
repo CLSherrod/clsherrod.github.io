@@ -3,7 +3,7 @@ title: 5 Lessons learned from working with partners
 date: 2011-01-27
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /5-lessons-learned-from-working-with-partners/

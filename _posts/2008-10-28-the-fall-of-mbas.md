@@ -3,7 +3,7 @@ title: The fall of MBAs
 date: 2008-10-28 23:44:49.000000000 -06:00
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /the-fall-of-mbas/

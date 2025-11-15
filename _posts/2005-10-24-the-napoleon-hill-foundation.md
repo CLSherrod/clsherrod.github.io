@@ -4,7 +4,7 @@ date: 2005-10-24
 published: true
 comments: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - real-success
 permalink: /the-napoleon-hill-foundation/

@@ -3,7 +3,7 @@ title: Does Personality Marketing Suck?
 date: 2008-10-08
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /does-personality-marketing-suck/

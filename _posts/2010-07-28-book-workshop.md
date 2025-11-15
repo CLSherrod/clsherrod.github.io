@@ -2,7 +2,7 @@
 title: Play Prosperity Games Workshop
 date: 2010-07-28
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - review
   - entrepreneurship

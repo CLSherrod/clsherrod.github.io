@@ -3,7 +3,7 @@ title: Black Friday from your computer
 date: 2008-11-27 23:03:38
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /black-friday-from-your-computer/

@@ -2,7 +2,7 @@
 title: The Tipping Point Review
 date: 2005-05-17
 categories:
-- Business & Entrepreneurship
+- Work & Entrepreneurship
 tags:
   - meaning
   - review

@@ -7,7 +7,7 @@ tags:
   - entrepreneurship
   - review
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 permalink: /email-storyselling/
 published: true
 ---

@@ -3,7 +3,7 @@ title: Business is like Improv
 date: 2010-09-23
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /business-is-like-improv/

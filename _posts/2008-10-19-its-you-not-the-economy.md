@@ -3,7 +3,7 @@ title: It's You, Not The Economy
 date: 2008-10-19
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /its-you-not-the-economy/

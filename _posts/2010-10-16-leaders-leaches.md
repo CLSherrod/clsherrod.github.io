@@ -3,7 +3,7 @@ title: Leaders and Leaches Which are you?
 date: 2010-10-16
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /leaders-leaches/

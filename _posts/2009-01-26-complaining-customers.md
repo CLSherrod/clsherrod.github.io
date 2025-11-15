@@ -3,7 +3,7 @@ title: Complaining Customers Are The Best
 date: 2009-01-26
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /complaining-customers/

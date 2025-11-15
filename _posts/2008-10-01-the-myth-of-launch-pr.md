@@ -3,7 +3,7 @@ title: The myth of launch PR
 date: 2008-10-01
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /the-myth-of-launch-pr/

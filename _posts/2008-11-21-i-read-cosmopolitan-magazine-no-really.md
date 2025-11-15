@@ -3,7 +3,7 @@ title: I read Cosmopolitan magazine, no really
 date: 2008-11-21
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /i-read-cosmopolitan-magazine-no-really/

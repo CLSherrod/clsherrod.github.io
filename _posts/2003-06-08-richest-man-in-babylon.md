@@ -2,7 +2,7 @@
 title: Richest Man In Babylon Review
 date: 2003-06-08
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - real-success
   - review

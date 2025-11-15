@@ -4,7 +4,7 @@ date: 2018-02-02
 published: true
 comments: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /cryptocurrency/

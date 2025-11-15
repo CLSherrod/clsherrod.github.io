@@ -3,7 +3,7 @@ title: Lessons from Motrin
 date: 2008-11-17 00:31:29
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /lessons-from-motrin/

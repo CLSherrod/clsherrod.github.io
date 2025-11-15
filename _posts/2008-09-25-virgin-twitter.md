@@ -3,7 +3,7 @@ title: Virgin Twitter
 date: 2008-09-25
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /virgin-twitter/

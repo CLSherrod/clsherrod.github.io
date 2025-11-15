@@ -2,7 +2,7 @@
 title: How To Be Rich Review
 date: 2000-01-15
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - real-success
   - review

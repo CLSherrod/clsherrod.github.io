@@ -2,7 +2,7 @@
 title: The Meaning Of Money Review
 date: 2004-11-04
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - real-success
   - review

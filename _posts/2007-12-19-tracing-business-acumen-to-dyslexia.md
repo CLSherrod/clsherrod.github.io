@@ -3,7 +3,7 @@ title: Tracing Business Acumen to Dyslexia
 date: 2007-12-19
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /tracing-business-acumen-to-dyslexia/

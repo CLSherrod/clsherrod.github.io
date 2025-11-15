@@ -3,7 +3,7 @@ title: Lavish praise
 date: 2007-12-21
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
 permalink: /lavish-praise/
 ---

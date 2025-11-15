@@ -4,7 +4,7 @@ date: 2005-10-04
 published: true
 comments: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
   - review

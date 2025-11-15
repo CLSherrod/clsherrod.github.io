@@ -3,7 +3,7 @@ title: "Book Updated: How To Create New Business Ideas"
 date: 2020-12-02
 last_modified_at: 2023-10-03
 categories:
-- Business & Entrepreneurship
+- Work & Entrepreneurship
 tags:
   - meaning
   - entrepreneurship

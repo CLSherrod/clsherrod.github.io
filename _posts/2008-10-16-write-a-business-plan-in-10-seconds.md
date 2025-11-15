@@ -3,7 +3,7 @@ title: Write A Business Plan In 10 Seconds
 date: 2008-10-16
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /write-a-business-plan-in-10-seconds/

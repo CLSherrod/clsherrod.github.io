@@ -3,7 +3,7 @@ title: Cruise Ships and upsells
 date: 2009-11-16 22:00:39
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /cruise-ships-upsells/

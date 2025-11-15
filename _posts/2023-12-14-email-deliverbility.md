@@ -2,7 +2,7 @@
 title: "Mastering Email Deliverability: Key Takeaways from Email Reputation Explained Well"
 date: 2024-08-18
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
   - review

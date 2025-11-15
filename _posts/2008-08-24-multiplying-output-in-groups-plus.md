@@ -3,7 +3,7 @@ title: Multiplying Output in Groups Plus
 date: 2008-08-24
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /multiplying-output-in-groups-plus/

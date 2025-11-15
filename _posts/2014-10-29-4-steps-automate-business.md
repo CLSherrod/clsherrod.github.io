@@ -3,7 +3,7 @@ title: 4 Steps to Automate Your Business
 date: 2014-10-29
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /4-steps-automate-business/

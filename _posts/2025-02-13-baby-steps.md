@@ -4,7 +4,7 @@ description: "Success is Built in Baby Steps: Why Overnight Success is a Myth"
 date: 2025-02-13
 preview: "Most motivational speakers won't: real success isn't about grand slams. It's about tiny, consistent hits that build momentum."
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - real-success
 last_modified_at:

@@ -3,7 +3,7 @@ title: How To Manage Your Value Benefits
 date: 2010-10-26
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /how-to-manage-your-value-benefits/

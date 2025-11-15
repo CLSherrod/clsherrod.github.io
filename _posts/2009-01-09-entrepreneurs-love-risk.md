@@ -3,7 +3,7 @@ title: Entrepreneurs love risk?
 date: 2009-01-09
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /entrepreneurs-love-risk/

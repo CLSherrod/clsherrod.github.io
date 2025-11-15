@@ -3,7 +3,7 @@ title: Results of What is the single most frustrating problem or fear in your bu
 date: 2008-11-24 22:35:27
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /results-of-what-is-the-single-most-frustrating-problem-or-fear-in-your-business/

@@ -3,7 +3,7 @@ title: Test for authenticity
 date: 2008-08-20
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /test-for-authenticity/

@@ -3,7 +3,7 @@ title: Big banks vs regional
 date: 2008-10-15 05:45:03
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /big-banks-vs-regional/

@@ -3,7 +3,7 @@ title: How To Maintain and Even Increase Your Prices
 date: 2010-10-21
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /maintain-increase-prices/

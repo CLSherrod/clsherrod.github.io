@@ -3,7 +3,7 @@ title: How often should you publish?
 date: 2008-10-07
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /how-often-should-you-publish/

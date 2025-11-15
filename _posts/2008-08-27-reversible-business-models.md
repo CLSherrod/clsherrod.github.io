@@ -3,7 +3,7 @@ title: Reversible business models
 date: 2008-08-27
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - real-success
 permalink: /reversible-business-models/

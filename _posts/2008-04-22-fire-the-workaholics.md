@@ -3,7 +3,7 @@ title: Fire the workaholics
 date: 2008-04-22
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /fire-the-workaholics/

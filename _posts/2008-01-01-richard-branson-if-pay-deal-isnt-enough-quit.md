@@ -3,7 +3,7 @@ title: "Richard Branson: If pay deal isn't enough, quit"
 date: 2008-01-01
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - meaning
 permalink: /richard-branson-if-pay-deal-isnt-enough-quit/

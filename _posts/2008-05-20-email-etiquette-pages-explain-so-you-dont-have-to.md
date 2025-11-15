@@ -3,7 +3,7 @@ title: Email Etiquette Pages Explain So You Don't Have To
 date: 2008-05-20
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /email-etiquette-pages-explain-so-you-dont-have-to/

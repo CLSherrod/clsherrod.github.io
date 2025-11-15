@@ -3,7 +3,7 @@ title: Why The Soft Launch is Smart
 date: 2009-06-18
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
 - entrepreneurship
 permalink: /why-the-soft-launch-is-smart/

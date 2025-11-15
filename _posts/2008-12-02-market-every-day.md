@@ -3,7 +3,7 @@ title: Market every day
 date: 2008-12-02
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /market-every-day/

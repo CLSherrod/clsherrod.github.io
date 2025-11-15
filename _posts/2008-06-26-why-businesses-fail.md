@@ -3,7 +3,7 @@ title: Why businesses fail
 date: 2008-06-26 00:17:55
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /why-businesses-fail/

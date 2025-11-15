@@ -3,7 +3,7 @@ title: Greater Fool Marketing
 date: 2011-08-08
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /greater-fool-marketing/

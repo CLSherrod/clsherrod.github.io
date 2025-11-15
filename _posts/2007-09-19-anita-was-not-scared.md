@@ -3,7 +3,7 @@ title: Anita was not scared
 date: 2007-09-19
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - tribute
 permalink: /anita-was-not-scared/

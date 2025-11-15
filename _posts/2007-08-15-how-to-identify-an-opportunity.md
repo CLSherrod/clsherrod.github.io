@@ -4,7 +4,7 @@ date: 2007-08-15
 published: true
 comments: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /how-to-identify-an-opportunity/

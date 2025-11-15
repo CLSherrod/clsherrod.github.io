@@ -3,7 +3,7 @@ title: What business can learn from Wonder Woman hit movie
 date: 2017-06-08
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /what-business-can-learn-from-wonder-woman-hit-movie/

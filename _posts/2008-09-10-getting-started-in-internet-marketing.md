@@ -3,7 +3,7 @@ title: Getting started in Internet Marketing
 date: 2008-09-10
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /getting-started-in-internet-marketing/

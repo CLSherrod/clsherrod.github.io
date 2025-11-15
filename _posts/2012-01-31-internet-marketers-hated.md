@@ -3,7 +3,7 @@ title: Why some Internet Marketers are hated
 date: 2012-01-31
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /internet-marketers-hated/

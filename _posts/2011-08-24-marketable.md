@@ -3,7 +3,7 @@ title: Becoming Marketable
 date: 2011-08-24 22:00:31.000000000 -05:00
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /marketable/

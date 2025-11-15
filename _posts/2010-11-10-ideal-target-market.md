@@ -3,7 +3,7 @@ title: What's your ideal target market?
 date: 2010-11-10
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /ideal-target-market/

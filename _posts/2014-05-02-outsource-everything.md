@@ -3,7 +3,7 @@ title: How to outsource everything but your sex life
 date: 2014-05-02
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /outsource-everything/

@@ -2,7 +2,7 @@
 title: Lessons From My Partnership Telesummit
 date: 2011-07-08
 categories:
-- Business & Entrepreneurship
+- Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /partnerships/

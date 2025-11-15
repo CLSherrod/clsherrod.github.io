@@ -3,7 +3,7 @@ title: Strategic partnerships
 date: 2008-09-18 22:43:19
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /strategic-partnerships/

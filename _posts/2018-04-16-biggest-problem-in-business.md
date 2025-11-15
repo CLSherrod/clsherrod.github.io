@@ -3,7 +3,7 @@ title: Biggest Problem in Business
 date: 2018-04-16
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
 - entrepreneurship
 permalink: /biggest-problem-in-business/

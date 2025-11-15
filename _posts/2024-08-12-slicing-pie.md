@@ -2,7 +2,7 @@
 title: Mastering Startup Equity - A Review of The Slicing Pie Handbook for Fair and Sustainable Partnerships
 date: 2024-08-12
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
   - review

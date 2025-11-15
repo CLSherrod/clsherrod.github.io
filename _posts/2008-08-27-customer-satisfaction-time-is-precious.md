@@ -3,7 +3,7 @@ title: "Customer Satisfaction: Time is Precious"
 date: 2008-08-27
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /customer-satisfaction-time-is-precious/

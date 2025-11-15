@@ -5,7 +5,7 @@ preview: Why Corp-bonics Is the Funniest—and Truest—Book About Corporate Lif
 date: 2025-06-26
 toc: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - review
 permalink: /corp-bonics/

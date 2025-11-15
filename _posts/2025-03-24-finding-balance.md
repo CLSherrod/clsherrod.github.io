@@ -6,7 +6,7 @@ preview: "Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Su
 tags:
   - real-success
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 permalink: /finding-balance/
 published: true
 excerpt: Extreme mindsets don't lead to lasting success.

@@ -3,7 +3,7 @@ title: Abundance Marketing
 date: 2007-12-03
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /abundance-marketing/

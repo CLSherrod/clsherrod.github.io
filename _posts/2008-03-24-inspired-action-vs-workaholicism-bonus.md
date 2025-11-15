@@ -3,7 +3,7 @@ title: Inspired Action vs. Workaholicism Bonus
 date: 2008-03-24
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /inspired-action-vs-workaholicism-bonus/

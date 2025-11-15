@@ -3,7 +3,7 @@ title: How To Know If Your Business Idea Is Any Good
 date: 2008-10-15
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /how-to-know-if-your-business-idea-is-any-good/

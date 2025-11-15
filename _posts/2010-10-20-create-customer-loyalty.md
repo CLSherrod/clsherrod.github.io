@@ -3,7 +3,7 @@ title: How To Create Customer Loyalty
 date: 2010-10-20
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /create-customer-loyalty/

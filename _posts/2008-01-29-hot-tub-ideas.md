@@ -4,7 +4,7 @@ date: 2008-01-29
 published: true
 comments: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - meaning
 permalink: /hot-tub-ideas/

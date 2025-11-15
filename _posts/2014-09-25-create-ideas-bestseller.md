@@ -3,7 +3,7 @@ title: How To Create New Business Ideas Is A Best Seller
 date: 2014-09-25
 published: true
 categories:
-  - Business & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - review
 permalink: /create-ideas-bestseller/
