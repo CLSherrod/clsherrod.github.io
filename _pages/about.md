@@ -13,29 +13,29 @@ header:
 ## Author & Guide to Living a Fulfilling Life  
 
 ### Practical Wisdom for a Life of Fulfillment  
-Success isn’t just about business—it’s about creating a life that feels truly fulfilling. Christopher Sherrod, a retired entrepreneur and self-help author, shares practical wisdom on personal growth, intentional living, and sustainable success. With decades of real-world experience, he helps people design lives that align with their true purpose.  
+Success isn’t just about business—it’s about creating a life that feels truly fulfilling. I'm a web agency owner and long-time self-help blogger. I share practical wisdom on personal growth, intentional living, and sustainable success. With decades of real-world experience, I help people design lives that align with their true purpose.  
 
 > **“Success isn’t about working harder—it’s about aligning your life with what truly matters.”**  
 
 ### A Journey from Business to Personal Growth  
-Christopher built a successful business but realised that financial success alone wasn’t enough. Burned out and searching for meaning, he shifted his focus to designing a life based on purpose, creativity, and freedom. Now, as a digital nomad and full-time expat, he writes about the lessons he’s learned—helping others find their own path to fulfilment.  
+I built a successful business but realised that financial success alone wasn’t enough. Burned out and searching for meaning, I shifted my focus to designing a life based on purpose, creativity, and freedom. Now, I write about the lessons I've learned—helping others find their own path to fulfilment.  
 
-His journey began early—starting his first business in elementary school and later leaving a corporate job at American Express to run a software company full-time. While his businesses thrived, he discovered that true success isn’t just about numbers; it’s about creating a lifestyle that supports happiness, health, and personal growth.  
+My journey began early—starting my first business in elementary school and later leaving a corporate job at American Express to run a software company full-time. While my businesses thrived, I discovered that true success isn’t just about numbers; it’s about creating a lifestyle that supports happiness, health, and personal growth.  
 
-Christopher has been on the Internet since 1987 and created his first website in 1995, embracing the digital world long before it became mainstream.  
+I have been on the Internet since 1987 and created my first website in 1995, embracing the digital world long before it became mainstream.  
 
 #### Lessons from Experience & Mentorship  
-Christopher’s biggest influences have been spiritual teachers and two entrepreneurial mentors who taught him the importance of listening—to life, to business, and to the natural flow of success. He believes that fulfilment isn’t about working harder but about working with awareness, purpose, and alignment.  
+My biggest influences have been spiritual teachers and two entrepreneurial mentors who taught me the importance of listening—to life, to business, and to the natural flow of success. I believes that fulfillment isn’t about working harder but about working with awareness, purpose, and alignment.  
 
 #### My Business Approach: The Dolphin Entrepreneur
-He penned down my business philosophy, dubbed the [Dolphin Entrepreneur](/dolphin-entrepreneur/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
+I penned down my business philosophy, dubbed the [Dolphin Entrepreneur](/dolphin-entrepreneur/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
 
 ### Writing  
-Christopher’s book, [How To Create New Business Ideas Based On What You Love](/business-ideas/), provide practical guidance for those seeking to build a business that supports their ideal lifestyle.  
+My book, [How To Create New Business Ideas Based On What You Love](/business-ideas/), provide practical guidance for those seeking to build a business that supports their ideal lifestyle.  
 
-He is currently writing a course [Digital Declutter: 4 Steps to a Low-EMF, High-Energy Life](/unplug/), exploring his experience with electronic sensitivity and how to live a balanced, low-tech life in an increasingly digital world.  
+I'm currently writing a course [Digital Declutter: 4 Steps to a Low-EMF, High-Energy Life](/unplug/), exploring his experience with electronic sensitivity and how to live a balanced, low-tech life in an increasingly digital world.  
 
-Beyond books, Christopher shares insights through [blog post essays](/blog), and [poetry](/categories/#poems)—offering real-world lessons on self-improvement, lifestyle design, and the mindset shifts needed for true success.  
+Beyond clients, courses, books and making art, I share insights through [blog post essays](/blog), and [poetry](/categories/#poems) offering real-world lessons on self-improvement, lifestyle design, and the mindset shifts needed for true success.  
 
 #### My current featured articles
 - [Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled](https://christophersherrod.com/fulfilled-not-fast-or-slow/)
@@ -53,9 +53,9 @@ Curious about what I’m up to these days? Check out my current projects section
 Join my [newsletter](/newsletter/) to keep updated on my projects, articles and books.
 
 ### Offline Activities
-He enjoys listening to music, playing the Native American flute, creating art, and spending time with his wife, embracing a slower, more connected way of living. 
+I enjoy listening to music, playing the Native American flute, creating art, and spending time with my wife, embracing a slower, more connected way of living. 
 
 You can also experience [his art](https://christophersherrod.com/chr1stopher).  
 
 ### Stay Connected
-Want to stay in the loop? Goto my [Hello page](/hello).
+Want to stay in the loop? Go to my [Hello page](/hello).

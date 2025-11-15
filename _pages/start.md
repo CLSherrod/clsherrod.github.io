@@ -14,7 +14,7 @@ header:
 og_image: /assets/images/start-header.webp
 ---
 **Hi, I’m Christopher Sherrod.**  
-I’m a writer, artist, and fulfulling lifestyle advocate. I help people unplug from toxic modern systems and reconnect with what really matters: health, truth, creativity, and joy.
+I’m a writer, artist, and fulfilling lifestyle advocate. I help people unplug from toxic modern systems and reconnect with what really matters: health, truth, creativity, and joy.
 
 This site is a living library of the lessons I’ve learned from nearly dying, letting go of a fast-paced career, and building a fulfilling life.
 
@@ -66,6 +66,6 @@ Here’s what people explore next:
 - 🖼 [My Art](https://christophersherrod.com/chr1stopher/)
 
 ### Let’s Stay Connected
-Want to stay in the loop? Goto my [Hello page](/hello/). Feel free to reply to any email — I actually read them.
+Want to stay in the loop? Go to my [Hello page](/hello/). Feel free to reply to any email — I actually read them.
 
 > "Living well isn’t about doing more. It’s about doing what matters — and letting the rest fall away."

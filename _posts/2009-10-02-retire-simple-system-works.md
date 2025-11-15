@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-- entrepreneurship
+  - systems
 permalink: /retire-simple-system-works/
 ---
 I heard a growing trend is for people to retire to college towns where they can volunteer and keep learning new things.  Good idea.

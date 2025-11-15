@@ -5,7 +5,7 @@ published: true
 categories:
   - Work & Entrepreneurship
 tags:
-  - entrepreneurship
+  - systems
 permalink: /injection-system-activated/
 ---
 A lot of businesses are freaking out, quite simply.  People are freaking out.  The economy is the number one subject.  People are worried about their jobs and if their company will go out of business along with anyone that would hire them.

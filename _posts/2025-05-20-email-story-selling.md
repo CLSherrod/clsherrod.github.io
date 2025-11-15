@@ -4,8 +4,8 @@ description: "A Rebellious Revelation in 125 Pages: The Anti-Guru’s Guide to E
 date: 2025-05-30
 preview: "A Rebellious Revelation in 125 Pages: The Anti-Guru’s Guide to Email That Actually Sells"
 tags:
-  - entrepreneurship
   - review
+  - systems
 categories:
   - Work & Entrepreneurship
 permalink: /email-storyselling/

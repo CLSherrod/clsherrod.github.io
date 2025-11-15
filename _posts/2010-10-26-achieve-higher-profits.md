@@ -3,9 +3,9 @@ title: How To Achieve Higher Profits
 date: 2010-10-26
 published: true
 categories:
-  - Living a Fulfilling Life
+  - Work & Entrepreneurship
 tags:
-  - entrepreneurship
+	- real-success
 permalink: /achieve-higher-profits/
 ---
 When you have a high class brand. A brand that people recognize as being one of the best then you can demand higher prices. And with higher prices you can achieve higher profits.

@@ -5,8 +5,8 @@ last_updated: 2024-08-12
 categories:
   - Work & Entrepreneurship
 tags:
-  - entrepreneurship
   - review
+  - systems
 permalink: /work-the-system/
 toc: true
 published: true
