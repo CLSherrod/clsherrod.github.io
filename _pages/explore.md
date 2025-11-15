@@ -66,8 +66,6 @@ I’ve lived abroad full-time since 2016, and it reshaped how I see fulfilment, 
     
 - **[Now Page](https://christophersherrod.com/now/)**
     
-- **[Projects](https://christophersherrod.com/projects/)** — what I’m actively building
-    
 
 ## 🎨 Art & Creative Work
 
@@ -82,16 +80,16 @@ Art is how I process the world. Writing is one form of expression; sacred geomet
 - **[Uses](https://christophersherrod.com/uses/)** — the tools I rely on
     
 
-## 📚 Books
+## 📚 Books & Projects
 
 Books are where I explore ideas with more depth and honesty than a single essay can hold. These are the projects I’ve finished and the long-term ones I’m building layer by layer.
 
 - **[My Books](https://christophersherrod.com/books/)**
     
+- **[Projects](https://christophersherrod.com/projects/)** — what I’m actively building
+
 - **Works in progress**
-    
     - _Unplug_ (2026)
-        
 
 ## 🔗 Community & Connection
 
