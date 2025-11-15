@@ -3,7 +3,7 @@ title: Money Game
 date: 2008-04-06 22:00:14
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /money-game/

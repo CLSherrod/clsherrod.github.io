@@ -3,7 +3,7 @@ title: Too small to fail
 date: 2008-11-19
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /too-small-to-fail/

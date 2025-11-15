@@ -7,7 +7,7 @@ preview: Why Successful People Don’t Waste Time Arguing
 tags:
   - success
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 permalink: /arguing/
 published: true
 ---

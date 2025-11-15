@@ -3,7 +3,7 @@ title: Why you are failing
 date: 2008-09-07
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /why-you-are-failing/

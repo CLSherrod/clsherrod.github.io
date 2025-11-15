@@ -3,7 +3,7 @@ title: Abundance vs. Scarcity Mindset
 date: 2008-04-07
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /abundance-vs-scarcity-mindset/

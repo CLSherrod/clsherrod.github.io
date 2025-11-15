@@ -3,7 +3,7 @@ title: Mastering with A players
 date: 2011-12-08
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /mastering-players/

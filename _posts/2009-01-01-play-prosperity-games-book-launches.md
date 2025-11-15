@@ -2,7 +2,7 @@
 title: Play Prosperity Games Book Launches
 date: 2009-01-01
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - review
   - news

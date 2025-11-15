@@ -3,7 +3,7 @@ title: Participate in the Value Revolution
 date: 2008-03-18
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /participate-in-the-value-revolution/

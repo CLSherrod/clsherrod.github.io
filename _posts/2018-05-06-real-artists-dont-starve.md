@@ -3,7 +3,7 @@ title: Real Artists Don't Starve
 date: 2018-05-06
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - review
 permalink: /real-artists-dont-starve/

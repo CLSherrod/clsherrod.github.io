@@ -3,7 +3,7 @@ title: Dreaming my solution
 date: 2008-08-04
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
 permalink: /dreaming-my-solution/

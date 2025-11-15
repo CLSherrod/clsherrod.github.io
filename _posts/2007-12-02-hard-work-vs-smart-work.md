@@ -4,7 +4,7 @@ date: 2007-12-02
 published: true
 comments: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /hard-work-vs-smart-work/

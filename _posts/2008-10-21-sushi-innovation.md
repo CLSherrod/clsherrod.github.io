@@ -3,7 +3,7 @@ title: Sushi Innovation
 date: 2008-10-21
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /sushi-innovation/

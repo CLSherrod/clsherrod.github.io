@@ -3,7 +3,7 @@ title: School results and age are no predictor of future success
 date: 2008-12-08
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /school-results-and-age-are-no-predictor-of-future-success/

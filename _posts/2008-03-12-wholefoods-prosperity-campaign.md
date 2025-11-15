@@ -3,7 +3,7 @@ title: Wholefoods Prosperity Campaign
 date: 2008-03-12
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /wholefoods-prosperity-campaign/

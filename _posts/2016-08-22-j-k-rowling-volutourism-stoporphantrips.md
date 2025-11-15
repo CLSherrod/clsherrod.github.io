@@ -3,7 +3,7 @@ title: "J.K. Rowling #Volutourism #StopOrphanTrips"
 date: 2016-08-22
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - success
 permalink: /j-k-rowling-volutourism-stoporphantrips/

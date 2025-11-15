@@ -3,7 +3,7 @@ title: How to start doomed
 date: 2008-10-21
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /how-to-start-doomed/

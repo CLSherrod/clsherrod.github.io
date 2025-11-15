@@ -3,7 +3,7 @@ title: Paul Newman the philanthropist
 date: 2008-09-29
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - success
   - tribute

@@ -3,7 +3,7 @@ title: Boyfriend/Girlfriend/Partner it's all the same
 date: 2019-01-23
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
 permalink: /boyfriend-girlfriend-partner-its-all-the-same/

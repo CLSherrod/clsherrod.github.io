@@ -3,7 +3,7 @@ title: What constitutes abundance?
 date: 2008-03-03
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
 permalink: /what-constitutes-abundance/

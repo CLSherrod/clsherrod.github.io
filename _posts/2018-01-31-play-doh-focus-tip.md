@@ -3,7 +3,7 @@ title: Play-Doh focus tip
 date: 2018-01-31
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /play-doh-focus-tip/

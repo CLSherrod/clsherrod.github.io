@@ -4,7 +4,7 @@ date: 2009-11-29
 published: true
 comments: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - success
 permalink: /prosperity-consciousness-2/

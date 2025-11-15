@@ -3,7 +3,7 @@ title: Prosperity Mindset
 date: 2007-12-06
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - success
 permalink: /prosperity-mindset/

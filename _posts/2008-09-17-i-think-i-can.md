@@ -3,7 +3,7 @@ title: I Think I Can
 date: 2008-09-17
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /i-think-i-can/

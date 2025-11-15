@@ -3,7 +3,7 @@ title: "Money and The Law of Attraction: Learning to Attract Health, Wealth & Ha
 date: 2008-08-13
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
 permalink: /money-and-the-law-of-attraction/

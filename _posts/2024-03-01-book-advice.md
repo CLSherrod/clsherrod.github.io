@@ -3,7 +3,7 @@ title: "Expert Book Writing and Publishing: 19 Proven Strategies for Success"
 date: 2024-03-01
 last_modified_at: 2024-03-08
 categories:
-- "Success & Prosperity"
+- Living a Fulfilling Life
 tags:
   - business
   - review

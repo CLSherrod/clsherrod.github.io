@@ -3,7 +3,7 @@ title: "Play Prosperity Games: A Resounding Success and the Birth of Creative Id
 date: 2007-02-02
 last_modified_at: 2023-11-03
 categories:
-- "Success & Prosperity"
+- Living a Fulfilling Life
 tags: fulfilling-life
 permalink: /play-prosperity-games-party/
 published: true

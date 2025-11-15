@@ -6,7 +6,7 @@ date: 2007-03-01
 last_modified_at: 2024-03-11
 toc: false
 categories:
-- "Success & Prosperity"
+- Living a Fulfilling Life
 tags: business
 permalink: /what-separates-winners-from-losers/
 published: true

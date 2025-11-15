@@ -6,7 +6,7 @@ tags:
   - business
   - business
 categories:
-- "Success & Prosperity"
+- Living a Fulfilling Life
 permalink: /smart-notes/
 published: true
 comments: true

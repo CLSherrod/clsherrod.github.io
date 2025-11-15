@@ -3,7 +3,7 @@ title: Money and stuff
 date: 2008-09-10
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /money-and-stuff/

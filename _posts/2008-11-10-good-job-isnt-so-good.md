@@ -3,7 +3,7 @@ title: Good job isn't so good
 date: 2008-11-10
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /good-job-isnt-so-good/

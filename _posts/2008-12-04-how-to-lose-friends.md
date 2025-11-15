@@ -3,7 +3,7 @@ title: How to lose friends
 date: 2008-12-04 23:00:34
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /how-to-lose-friends/

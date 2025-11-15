@@ -3,7 +3,7 @@ title: My Prosperity Laptop
 date: 2008-10-28 02:35:12
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /my-prosperity-laptop/

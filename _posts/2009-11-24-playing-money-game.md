@@ -3,7 +3,7 @@ title: Playing the Money Game
 date: 2009-11-24
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
 permalink: /playing-money-game/

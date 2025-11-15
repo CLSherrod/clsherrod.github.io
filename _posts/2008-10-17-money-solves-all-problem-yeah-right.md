@@ -3,7 +3,7 @@ title: Money solves all problems, yeah right
 date: 2008-10-17
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /money-solves-all-problem-yeah-right/

@@ -3,7 +3,7 @@ title: Interview with former Virgin MD
 date: 2008-06-25
 published: false
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /interview-with-former-virgin-md/

@@ -3,7 +3,7 @@ title: Shut Up and Write - My Experience With Other Writers
 date: 2015-06-27
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - review
 permalink: /shut-up-and-write/

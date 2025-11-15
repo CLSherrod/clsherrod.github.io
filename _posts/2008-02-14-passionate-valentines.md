@@ -3,7 +3,7 @@ title: Passionate Valentines
 date: 2008-02-14
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
 permalink: /passionate-valentines/

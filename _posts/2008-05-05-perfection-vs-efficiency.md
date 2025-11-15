@@ -3,7 +3,7 @@ title: Perfection vs. Efficiency
 date: 2008-05-05
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /perfection-vs-efficiency/

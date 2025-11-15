@@ -3,7 +3,7 @@ title: "Where did my ego go?"
 date: 2013-04-04
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - success
 permalink: /where-did-my-ego-go/

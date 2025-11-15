@@ -4,7 +4,7 @@ date: 2025-11-15
 description: "Quiet Generosity: The New Face of Philanthropy"
 preview: "Quiet Generosity: The New Face of Philanthropy"
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
   - philanthropy

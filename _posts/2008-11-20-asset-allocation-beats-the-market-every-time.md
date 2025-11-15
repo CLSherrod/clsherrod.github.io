@@ -3,7 +3,7 @@ title: Asset Allocation beats the market every time
 date: 2008-11-20
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
   - business

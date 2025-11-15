@@ -3,7 +3,7 @@ title: Does Money Make You Happy?
 date: 2011-08-18
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
 permalink: /does-money-make-you-happy/

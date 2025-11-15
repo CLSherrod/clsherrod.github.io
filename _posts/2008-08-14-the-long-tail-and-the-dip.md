@@ -3,7 +3,7 @@ title: The Long Tail and the Dip
 date: 2008-08-14 23:03:10
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
   - review

@@ -3,7 +3,7 @@ title: Yellow tape your office
 date: 2008-07-22
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /yellow-tape-your-office/

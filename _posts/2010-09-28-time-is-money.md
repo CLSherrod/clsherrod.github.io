@@ -4,7 +4,7 @@ date: 2010-09-28
 description: Time is Money
 preview: Time is Money
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - business
 toc: false

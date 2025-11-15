@@ -3,7 +3,7 @@ title: Silence is no
 date: 2008-09-08
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /silence-is-no/

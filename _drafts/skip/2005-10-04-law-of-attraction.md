@@ -7,7 +7,7 @@ published: true
 password: ’'
 status: publish
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
 permalink: /law-of-attraction/

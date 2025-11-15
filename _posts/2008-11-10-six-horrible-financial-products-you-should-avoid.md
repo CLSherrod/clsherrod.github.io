@@ -3,7 +3,7 @@ title: Six Horrible Financial Products You Should Avoid
 date: 2008-11-10
 published: true
 categories:
-  - Success & Prosperity
+  - Living a Fulfilling Life
 tags:
   - success
 permalink: /six-horrible-financial-products-you-should-avoid/

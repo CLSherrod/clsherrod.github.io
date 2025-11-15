@@ -3,7 +3,7 @@ title: Quotes for Prosperity
 date: 2010-12-02
 published: true
 categories:
-  - "Success & Prosperity"
+  - Living a Fulfilling Life
 tags:
   - review
 permalink: /quotes-prosperity/
