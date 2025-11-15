@@ -6,6 +6,7 @@ categories:
 tags:
   - entrepreneurship
   - tribute
+  - philanthropy
 permalink: /charles-feeney/
 published: true
 comments: true
