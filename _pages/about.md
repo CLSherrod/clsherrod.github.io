@@ -25,7 +25,7 @@ My journey began early—starting my first business in elementary school and lat
 I have been on the Internet since 1987 and created my first website in 1995, embracing the digital world long before it became mainstream.  
 
 #### Lessons from Experience & Mentorship  
-My biggest influences have been spiritual teachers and two entrepreneurial mentors who taught me the importance of listening—to life, to business, and to the natural flow of success. I believes that fulfillment isn’t about working harder but about working with awareness, purpose, and alignment.  
+My biggest influences have been spiritual teachers and two entrepreneurial mentors who taught me the importance of listening—to life, to business, and to the natural flow of success. I believes that fulfilment isn’t about working harder but about working with awareness, purpose, and alignment.  
 
 #### My Business Approach: The Dolphin Entrepreneur
 I penned down my business philosophy, dubbed the [Dolphin Entrepreneur](/dolphin-entrepreneur/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
@@ -55,7 +55,7 @@ Join my [newsletter](/newsletter/) to keep updated on my projects, articles and 
 ### Offline Activities
 I enjoy listening to music, playing the Native American flute, creating art, and spending time with my wife, embracing a slower, more connected way of living. 
 
-You can also experience [his art](https://christophersherrod.com/chr1stopher).  
+You can also experience [my art](https://christophersherrod.com/chr1stopher).  
 
 ### Stay Connected
 Want to stay in the loop? Go to my [Hello page](/hello).
