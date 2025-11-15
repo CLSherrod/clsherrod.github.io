@@ -5,7 +5,7 @@ last_modified_at: 2023-10-03
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
   - review
   - news
 permalink: /hiring-virtual-workers/

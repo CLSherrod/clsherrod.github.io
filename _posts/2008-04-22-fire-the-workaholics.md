@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /fire-the-workaholics/
 ---
 Someone posted that they only hire workaholics (it's a startup, so go figure).  Another CEO then wrote a blog post in response saying fire the workaholics.  I've been a workaholic.  Almost killed me.  Made it out alive.  Then when my best friend died at such a young age my life changed forever.  When you have your life flash before your eyes and you think it is the end of this realm and all you can remember is working (even if inspired work) it's depressing.  I would rather be homeless then be a workaholic.  I enjoy life and funny thing is, I've found that I get more done, more inspiration and I make more money.

@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /does-personality-marketing-suck/
 ---
 When I thought of writing about personality marketing I believed it was going to be negative.  I thought I didn"t like personality marketing.  Because when I thought of it I thought of some people that use it and I can"t stand them.  They totatally bug me so much so I"m off their mailing list and don"t follow them.  If people talk about them I leave the conversation.  Just too much negative energy.

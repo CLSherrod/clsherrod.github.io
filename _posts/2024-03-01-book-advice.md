@@ -5,7 +5,7 @@ last_modified_at: 2024-03-08
 categories:
 - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
   - review
 permalink: /book-advice/
 published: true

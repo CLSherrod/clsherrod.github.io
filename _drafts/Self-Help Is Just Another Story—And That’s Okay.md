@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **Self-Help Is Just Another Story—And That’s Okay**  
 

@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/law-of-attraction-for-kids/"
 ---
 I'm listened to part of Rhonda's Kids Awakening and I'm loving it.

@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /internet-marketing-professional-wrestling/
 ---
 Internet Marketers remind me of Professional Wrestlers.

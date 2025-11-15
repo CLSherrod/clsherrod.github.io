@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **Stay in Your Lane: Why Expertise Matters More Than Opinions**
 

@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/dealing-with-a-career-you-simply-hate/"
 ---
 Do you hate your job? Many many people do. It is incredible common. I use to hate my job. My quality of work went way way down and people starting noticing and not in a good way. Fortunately I had a business that took off so I quit before they fired me. Even if you spent four or five years in college and you find out that as soon as you have a full-time job in your field of choice that you don't like it, make a change before you get a reputation for sucking.

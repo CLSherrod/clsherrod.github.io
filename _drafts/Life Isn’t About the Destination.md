@@ -13,8 +13,7 @@ url:
 created: 2025-03-25
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # Life Isn’t About the Destination—It’s About the Journey
 

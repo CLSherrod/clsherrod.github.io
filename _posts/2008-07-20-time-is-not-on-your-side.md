@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /time-is-not-on-your-side/
 ---
 Back in December when I was on a "writer's retreat" on the coast of Texas, My partner Nan and I wanted to focus on getting more done while having a life.  I've automated some more business and added a virtual assistant to make calls for me.  I've turned off my ringer on my mobile phone.  I'm filtering my email and just focusing on learning, brainstorming and creating.

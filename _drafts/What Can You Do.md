@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **What Can You Do? Stop Stressing Over What You Can’t Control**  
 

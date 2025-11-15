@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/the-fifth-snarkiest-misconception-about-the-law-of-attraction/"
 ---
 I get the question "Where's my stuff?" often. Many people think that once they start focusing on prosperity and abundance that it should instantly manifest. It can. Instantly. No doubt about it.

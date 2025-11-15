@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /raising-child-ultimate-leadership-training/
 ---
 Raising a child is the ultimate leadership training.

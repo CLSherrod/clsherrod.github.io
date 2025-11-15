@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/going-to-austin/"
 ---
 <img class="alignright" style="float: right;" src="{{ site.baseurl }}/posts/2008/04/2394966558_6789f8bd8d_m.jpg" alt="" width="240" height="180" />I'm in Virginia Beach and flying back home this afternoon.  I'm writing up a post of what I learned here.  In the meantime, here is a photo of a surfer in front of the 6 bedroom mansion we did a home exchange with for a week.

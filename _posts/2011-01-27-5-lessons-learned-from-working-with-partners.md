@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /5-lessons-learned-from-working-with-partners/
 ---
 Working with partners can be challenging.

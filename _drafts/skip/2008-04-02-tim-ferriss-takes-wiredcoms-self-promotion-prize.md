@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/tim-ferriss-takes-wiredcoms-self-promotion-prize/"
 ---
 I love Tim Ferriss' book the  *4 Hour Work Week *. Even though I've had assistants for certain things I never thought of having a VA for everything. Thanks Tim for changing my life.

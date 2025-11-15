@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /abundance-marketing/
 excerpt: Optimistic marketing viewpoint
 ---

@@ -5,8 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
-  - business
+- entrepreneurship
 permalink: /branding-is-overrated/
 ---
 Branding is so overrated.

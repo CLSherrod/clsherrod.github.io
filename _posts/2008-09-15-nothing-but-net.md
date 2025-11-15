@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /nothing-but-net/
 ---
 It is not how much money you make that really matters. I've know many people that make millions and a vast majority of them are broke.

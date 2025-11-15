@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /you-get-what-you-pay-for/
 ---
 I recently had a client who's website went offline for a few days.  I did my best to make sure this didn't happen but when the people that make mistakes are the only people that can fix it I can't do much.

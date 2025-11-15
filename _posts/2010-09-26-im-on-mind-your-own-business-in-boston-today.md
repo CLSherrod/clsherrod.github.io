@@ -7,7 +7,7 @@ categories:
 - Living a Fulfilling Life
 tags:
   - news
-  - business
+  - entrepreneurship
 permalink: /im-on-mind-your-own-business-in-boston-today/
 published: true
 ---

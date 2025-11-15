@@ -6,7 +6,7 @@ comments: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
   - review
 permalink: /think-and-grow-rich/
 excerpt: My review of Think and Grow Rich

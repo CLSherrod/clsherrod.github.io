@@ -5,7 +5,7 @@ categories:
   - Business & Entrepreneurship
 tags:
   - review
-  - business
+  - entrepreneurship
   - news
 permalink: /play-prosperity-games-workshop/
 published: true

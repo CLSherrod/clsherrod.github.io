@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /abc-formula-for-success/
 ---
 There is no ABC formula for success that everybody can get to work.  Doesn't exist.  If it did then there would only be on success book.  Nobody else would have written a success book if the only one worked for everyone.

@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /we-specialize-in-everything/
 ---
 Seth asks a great question for your business.  What are you specializing in?  What are you really good at?  What is your passion?  Know that and you know your next step.  Also, Seth has an action figure out.  See picture.  Marketing is powerful.

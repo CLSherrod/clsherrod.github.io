@@ -5,7 +5,7 @@ last_modified_at: 2023-11-02
 categories:
 - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
   - tribute
 permalink: /steve-irvin/
 published: true

@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **Months in Silence: What I Learned from Sensory Isolation**  
 

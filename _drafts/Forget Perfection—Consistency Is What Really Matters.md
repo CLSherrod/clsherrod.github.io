@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 ## **Forget Perfection—Consistency Is What Really Matters**  
 

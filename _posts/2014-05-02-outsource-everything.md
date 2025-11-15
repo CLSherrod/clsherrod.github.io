@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /outsource-everything/
 ---
 I celebrated my birthday last week. Thai massage, comedy club, meals with friends, trip to a safari park with the family, resort, another massage, champagne, chocolate covered strawberries, on and on. I need a vacation from my vacation to recover.

@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /author-of-100-things-to-do-before-you-die-is-killed-in-fall/
 ---
 Just shows you to live life now.

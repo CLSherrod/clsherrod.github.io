@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /expert-set-standard/
 ---
 In order to be an expert you have to really be an expert. You have to know more about your subject matter than most of the planet. And you need to set the standard. You need to be the best.

@@ -7,7 +7,7 @@ categories:
 - System Mastery
 - Essays
 tags:
-- business
+- entrepreneurship
 meta:
   _edit_last: '1'
   _thumbnail_id: '14968'

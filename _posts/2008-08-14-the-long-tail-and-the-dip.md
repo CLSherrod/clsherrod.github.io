@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
   - review
 permalink: /the-long-tail-and-the-dip/
 ---

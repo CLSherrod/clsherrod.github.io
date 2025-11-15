@@ -6,7 +6,7 @@ comments: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /business-sharks-vs-dolphins/
 excerpt: Be a dolphin entrepreneur
 ---

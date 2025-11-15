@@ -12,7 +12,7 @@ published:
 created: 2025-03-25
 last: 
 tags:
-  - business
+  - entrepreneurship
 ---
 # How I Stopped Being the Nice Guy (And Finally Got Some Respect)
 

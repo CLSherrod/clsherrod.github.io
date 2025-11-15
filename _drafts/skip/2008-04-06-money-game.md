@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /money-game/
 ---
 I created a Google Document on playing the <a href="http://spreadsheets.google.com/pub?key=p_wO4GcmAAPnr4SiZK_Hudw" rel="nofollow">money game.</a> You may have heard the games from Abraham-Hicks. The prosperity consciousness game has been around for a long time.

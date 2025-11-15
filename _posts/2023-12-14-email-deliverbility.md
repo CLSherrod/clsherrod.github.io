@@ -4,7 +4,7 @@ date: 2024-08-18
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
   - review
 published: true
 permalink: /email-deliverability/

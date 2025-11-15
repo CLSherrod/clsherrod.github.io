@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /disgruntled-customer-offered-virgin-job/
 ---
 Yesterday I blogged about Virgin and why [complaining customers are the best](/complaining-customers/).  Well, today Virgin offers the complaining customer a job.

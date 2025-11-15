@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /5-ways-to-test-out-your-next-joint-venture-business-partner/
 ---
 My last article about the 5 lessons working with partners got a lot of comments on Facebook, so I thought I would follow that up with ways to test out a business partner.

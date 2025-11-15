@@ -14,7 +14,7 @@ created: 2024-03-01
 published: 2024-03-01
 last:
 tags:
-  - business
+  - entrepreneurship
 ---
 ## Summary
 Article on writing a book

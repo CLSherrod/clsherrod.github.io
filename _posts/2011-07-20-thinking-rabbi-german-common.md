@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /thinking-rabbi-german-common/
 ---
 Wow, the last couple of days have been fun.

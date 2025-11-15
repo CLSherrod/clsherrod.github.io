@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 meta:
   _edit_last: '1'
   _sexybookmarks_shortUrl: http://b2l.me/4v8tn

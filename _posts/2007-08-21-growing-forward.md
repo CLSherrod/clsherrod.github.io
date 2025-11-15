@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /growing-forward/
 excerpt: How does a founder retire?
 ---

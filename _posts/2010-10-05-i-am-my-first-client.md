@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /i-am-my-first-client/
 ---
 You are your first client. If you don't prioritize yourself everyone else suffers.

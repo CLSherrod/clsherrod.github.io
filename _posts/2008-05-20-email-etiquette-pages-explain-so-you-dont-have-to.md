@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /email-etiquette-pages-explain-so-you-dont-have-to/
 ---
 I use to send people a blog link of mine years ago to tell them about my dislike for forwarded emails. Now people are using whole websites. Cool.

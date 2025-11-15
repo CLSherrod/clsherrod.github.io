@@ -5,7 +5,7 @@ published: false
 categories:
   - Essays
 tags:
-  - business
+  - entrepreneurship
   - Virgin Group
 permalink: /nigeria-tiff-sends-branson-packing/
 ---

@@ -6,7 +6,7 @@ categories:
 - All Featured Articles
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/blisslife-business-launch/"
 ---
 I recently launched a new podcast where I'm the main teacher.</p>

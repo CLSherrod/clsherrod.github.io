@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /play-doh-focus-tip/
 excerpt: I use Play-Doh to help me focus sometimes.
 ---

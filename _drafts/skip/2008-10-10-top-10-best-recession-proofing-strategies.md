@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/top-10-best-recession-proofing-strategies/"
 ---
 After the worst bank failure of all time and quickly followed by the second, very little people would argue that we are not in a recession.  Some even say the beginning of a depression.

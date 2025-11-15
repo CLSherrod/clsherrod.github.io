@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /changed-social-retard/
 ---
 I had a former neighbor tell me recently that she really looked up to me.

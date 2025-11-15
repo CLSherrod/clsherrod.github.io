@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /beauty-business/
 ---
 Business in order to be successful has to be a thing of beauty. It has to have systems and procedures that when business is conducted it is a beautiful thing to watch.

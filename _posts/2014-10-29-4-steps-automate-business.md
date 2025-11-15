@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /4-steps-automate-business/
 ---
 While starting a business can be a lot of fun, getting that business to grow can be less exciting. Many entrepreneurs tend to lose enthusiasm after the launch phase, and develop that itch to move on to the next thing. I developed a four-step business that makes it easy to grow businesses and leaves you with plenty of time to dream up your next project. Learn how to take the pain points out of your growth phase with these easy steps.

@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 - Virgin Group
 meta:
   _edit_last: '1'

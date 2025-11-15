@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /the-only-thing-thats-keeping-you-from-getting-what-you-want-is-the-story-you-keep-telling-yourself/
 ---
 I didn't think I was good at public speaking.  I joined Toastmasters and did that for over a year until I got so comfortable with my group that I wasn't learning anymore.  If I know people I can easily speak out, doing that in front of a lot of strangers was another story.

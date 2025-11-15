@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /bullshit-outage-language/
 ---
 Don't you hate it when people bullshit you.  "We are having an availability issue".  Bullshit you are offline.  Better answer is to say you are wrong.

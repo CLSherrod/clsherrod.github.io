@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **Buy New Only When Necessary: A Smarter Approach to Consumption**  
 

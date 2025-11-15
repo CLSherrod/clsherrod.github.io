@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **Stop Watching Hustle Porn—It’s Making You Miserable**  
 

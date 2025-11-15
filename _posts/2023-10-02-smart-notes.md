@@ -3,8 +3,7 @@ title: How Smart Notes Transformed My Productivity and Well-being
 date: 2023-10-02
 last_modified_at: 2025-06-16
 tags:
-  - business
-  - business
+- entrepreneurship
 categories:
 - Living a Fulfilling Life
 permalink: /smart-notes/

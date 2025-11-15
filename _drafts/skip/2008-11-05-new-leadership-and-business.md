@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/new-leadership-and-business/"
 ---
 A lot of my business associates are apprehensive of President-Elect Obama.

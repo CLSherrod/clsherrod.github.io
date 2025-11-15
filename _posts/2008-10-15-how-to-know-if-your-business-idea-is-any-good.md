@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /how-to-know-if-your-business-idea-is-any-good/
 ---
 Have a customer already.  When a client asks for something we do it and then offer to everyone else.  Works great.

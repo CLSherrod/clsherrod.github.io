@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /go-out-there-and-get-hurt/
 ---
 In order to be successful in business you have to be willing to be hurt. If you avoid doing anything to get hurt you will not be successful at all.

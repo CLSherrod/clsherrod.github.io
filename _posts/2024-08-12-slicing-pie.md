@@ -4,8 +4,7 @@ date: 2024-08-12
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
-  - business
+- entrepreneurship
   - review
 permalink: /slicing-pie/
 toc: true

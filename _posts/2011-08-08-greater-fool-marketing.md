@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /greater-fool-marketing/
 ---
 Most of the so called experts in marketing operate on the "Greater Fool" theory.

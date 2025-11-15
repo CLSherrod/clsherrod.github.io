@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /why-you-are-failing/
 ---
 Last week I had a mastermind member call me the Internet Marketing guru of the group.  Quite flattering and it made me uncomfortable because I look up to many others as gurus of Internet Marketing. Then he called me the guru of websites which I would agree with as I"ve been creating them for 13 or so years more than anyone I know.

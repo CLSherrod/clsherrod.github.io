@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /abundance-vs-scarcity-mindset/
 ---
 Great article about the differences thinking about abundance vs. scarcity.

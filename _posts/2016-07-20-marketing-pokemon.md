@@ -5,7 +5,7 @@ status: publish
 categories:
   - "Lifestyle & Travel"
 tags:
-  - business
+  - entrepreneurship
 permalink: /marketing-pokemon/
 excerpt: Taking advantage of Pokemon marketing.
 ---

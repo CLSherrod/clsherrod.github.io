@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /how-to-manage-your-value-benefits/
 ---
 When you're the best at what you do you can more easily manage the benefits you provide to your customers.

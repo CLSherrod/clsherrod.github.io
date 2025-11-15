@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /are-you-too-big-to-be-an-entrepreneur/
 ---
 I watched the move Big a few months ago with the family.  I hadn't seen it since it came out in the theaters.

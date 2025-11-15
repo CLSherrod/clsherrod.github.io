@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 meta:
   aktt_tweeted: '1'
   _edit_last: '1'

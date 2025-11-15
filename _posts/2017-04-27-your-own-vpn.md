@@ -6,8 +6,7 @@ comments: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
-  - business
+- entrepreneurship
 permalink: /your-own-vpn/
 excerpt: Own your own VPN for super privacy
 ---

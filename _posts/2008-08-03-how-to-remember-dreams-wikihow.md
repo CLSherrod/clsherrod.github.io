@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /how-to-remember-dreams-wikihow/
 ---
 I'm a big fan of dreaming. I get a ton of ideas while dreaming. This is a good article on how to remember dreams.

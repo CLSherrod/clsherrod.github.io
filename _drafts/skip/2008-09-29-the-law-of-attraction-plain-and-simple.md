@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/the-law-of-attraction-plain-and-simple/"
 ---
 <div style="margin: 1ex;">

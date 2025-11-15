@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /08-08-08-a-day-of-prosperity-heart-book-series/
 ---
 Yesterday was prosperity day. 08-08-08.

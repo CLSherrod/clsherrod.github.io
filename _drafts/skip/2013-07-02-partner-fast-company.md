@@ -7,7 +7,7 @@ categories:
 - Marketing
 - Essays
 tags:
-- business
+- entrepreneurship
 meta:
   _nectar_love: '0'
   _edit_last: '1'

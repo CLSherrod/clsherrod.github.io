@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /silence-is-no/
 ---
 The answer is always no if you don't ask.  I've seen this many times.  This is why I simply ask.

@@ -4,7 +4,7 @@ date: 2011-07-08
 categories:
 - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /partnerships/
 published: true
 comments: true

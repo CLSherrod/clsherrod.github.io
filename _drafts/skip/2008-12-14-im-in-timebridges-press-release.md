@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/im-in-timebridges-press-release/"
 ---
 Here is benefit of giving out testimonials to companies and people that you really dig.  You get free exposure when they use your testimonial.  Here is mine for TimeBridge which I use every week to schedule my phone appoitments.

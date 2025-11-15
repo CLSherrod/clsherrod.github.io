@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/ten-reasons-to-adopt-the-law-of-gratitude/"
 ---
 Amirah wrote this article about the ten reasons to adopt the law of gratitude. The last reason is my favorite.

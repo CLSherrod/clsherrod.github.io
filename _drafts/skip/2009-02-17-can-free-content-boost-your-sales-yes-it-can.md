@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/can-free-content-boost-your-sales-yes-it-can/"
 ---
 Have you checked out <a href="http://www.youtube.com/montypython" target="_blank" rel="nofollow">Monty Python’s YouTube</a> channel? It’s got a selection of their brilliant (as always) clips, and it’s got links to buy their DVDs on Amazon. As those crazy Monty Python dudes put it,

@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 **Repetition in Entrepreneurship: Embracing Slow Progress and Staying Grounded in Fundamentals**
 

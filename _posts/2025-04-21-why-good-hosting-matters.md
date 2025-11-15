@@ -6,7 +6,7 @@ preview: "The Hidden Cost of Cutting Corners: Why Quality Hosting Matters More T
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 last_modified_at:
 permalink: /why-good-hosting-matters/
 published: true

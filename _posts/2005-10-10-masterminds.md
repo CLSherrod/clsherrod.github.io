@@ -5,7 +5,7 @@ last_modified_at: 2024-03-11
 categories:
 - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
   - review
 permalink: /masterminds/
 published: true

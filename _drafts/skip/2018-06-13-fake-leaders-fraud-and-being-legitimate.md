@@ -6,7 +6,7 @@ categories:
 - All Featured Articles
 - Entrepreneurship
 tags:
-- business
+- entrepreneurship
 permalink: /fake-leaders-fraud-and-being-legitimate/
 ---
 <p>I've seen a lot of posts calling out fake gurus lately.</p>

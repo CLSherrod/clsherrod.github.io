@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /creative-entrepreneurs-can-survive-the-crisis/
 ---
 Big companies that are not creative will hurt and many go out of business.  Nimble small companies that are creative will florish.  Be creative.  Now is the time for using your brain first and then money second.  Brains always wins.

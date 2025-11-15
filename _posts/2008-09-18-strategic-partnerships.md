@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /strategic-partnerships/
 ---
 Are you struggling? Does it seem you are not moving forward?

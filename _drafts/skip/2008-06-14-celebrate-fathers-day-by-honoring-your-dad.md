@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/celebrate-fathers-day-by-honoring-your-dad/"
 ---
 <p style="text-align: center;"><img class="alignnone size-medium wp-image-693 aligncenter" title="Village Banking" src="{{ site.baseurl }}/posts/2008/06/villagebanking.jpg" alt="" />

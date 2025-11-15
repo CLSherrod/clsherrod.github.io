@@ -13,8 +13,7 @@ url: https://christophersherrod.com/toxic-coaching/
 created: 2025-03-31
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 ## The Hidden Dangers of Business Coaching: Avoiding Entrapping and Toxic Mentorship
 

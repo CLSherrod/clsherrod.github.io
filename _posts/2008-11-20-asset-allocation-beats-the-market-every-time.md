@@ -5,8 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
-  - business
+- entrepreneurship
 permalink: /asset-allocation-beats-the-market-every-time/
 ---
 Asset allocation beats stock selection every time.

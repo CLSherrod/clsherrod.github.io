@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /perfection-vs-efficiency/
 excerpt: Excellence comes from balancing efficiency with perfection.
 ---

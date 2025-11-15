@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /i-think-i-can/
 ---
 Do you know the difference between successful and unsuccessful business people?

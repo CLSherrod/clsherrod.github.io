@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /a-daily-guide-to-creativity-and-new-ideas/
 ---
 Here is an excellent article about creativity.

@@ -6,7 +6,7 @@ comments: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
   - review
 permalink: /how-to-win-friends-and-influence-people/
 excerpt: How to network from the king of networkers

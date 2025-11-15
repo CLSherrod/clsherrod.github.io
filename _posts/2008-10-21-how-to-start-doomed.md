@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /how-to-start-doomed/
 ---
 You're doomed if a vast majority of cases if you quit your old job and buy a bunch of gear/gadgets/equipment and then start your business.

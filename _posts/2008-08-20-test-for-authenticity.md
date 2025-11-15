@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /test-for-authenticity/
 ---
 I was reading Seth Godin's article about Real vs Slick and it my mind thought people resonate with real people. They like authentic people. That is why a lot of Internet Marketers are not highly thought of. Kinda of like used car sales people. People like real people. Not flashy marketers but real people that happen to market.

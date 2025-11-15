@@ -13,7 +13,7 @@ url:
 created: 
 last:
 tags:
-  - business
+  - entrepreneurship
 ---
 ## Summary
 Types of Entrepreneurs

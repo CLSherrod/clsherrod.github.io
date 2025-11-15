@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /participate-in-the-value-revolution/
 ---
 Back in the heyday of car manufacturers there were literally thousands of car manufacturers throughout the USA. Every town practically had someone making cars. Then Ford started producing cars cheaper and with great quality. The small time manufacturers went out of business very quickly. Now there is very few car manufacturers and some of them are on the verge of going out of business.

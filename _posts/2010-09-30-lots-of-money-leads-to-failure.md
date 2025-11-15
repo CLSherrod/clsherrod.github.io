@@ -6,7 +6,7 @@ preview: Lot's of money leads to failure
 categories:
 - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 toc: true
 permalink: /lots-of-money-leads-to-failure/
 published: true

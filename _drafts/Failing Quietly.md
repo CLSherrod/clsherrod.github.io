@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **Why Most Entrepreneurs Fail Quietly: They Don’t Focus on What Matters**  
 

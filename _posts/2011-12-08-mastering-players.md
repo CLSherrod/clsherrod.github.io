@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /mastering-players/
 ---
 I had a great mastermind weekend. My main business won an affiliate contest. Instead of winning an iPad or brownies (it's happened! They were good) We won an entire weekend hanging out with other winners and just masterminding.

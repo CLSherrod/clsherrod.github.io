@@ -13,8 +13,7 @@ url:
 created: 2025-03-25
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # The Future Isn't About More Innovation--It's About Recovery
     

@@ -4,7 +4,7 @@ date: 2024-06-03
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
   - tribute
 permalink: /fred-rogers/
 published: true

@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # Stop Wasting Money on Courses—Learn to Fail Instead**  
 

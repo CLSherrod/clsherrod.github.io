@@ -5,7 +5,7 @@ published: true
 categories:
 - News
 tags:
-- business
+- entrepreneurship
 permalink: "/quoted-fox-small-business/"
 ---
 I was recently quoted on Fox Small Business on an article about <a href="http://ow.ly/1vepY" rel="nofollow">how to get twitter to work for you</a>.

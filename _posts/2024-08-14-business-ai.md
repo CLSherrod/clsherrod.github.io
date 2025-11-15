@@ -4,7 +4,7 @@ date: 2024-08-14
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /business-ai
 published: true
 excerpt: A Practical Guide to Generative AI for Non-Tech Business Leaders

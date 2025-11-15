@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/best-ways-to-keep-social-in-social-media-marketing-and-still-make-money/"
 ---
 With social media you have to resist the opportunity to "hard sell".  It's like used car sales people selling during a funeral.  Instead of getting clients, you just made sure that these people will never buy from you ever.  Why?  Because it is a against etiquette to do this during social occasions.  Social media is not so hard lined but close.  I've seen people sell right away with an auto message when I first started following them with buy my stuff.  Not cool.  I've even seen people harassing others for promoting their products on social networks.

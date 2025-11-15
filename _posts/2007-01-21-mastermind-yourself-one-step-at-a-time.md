@@ -6,7 +6,7 @@ comments: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
   - review
 permalink: /mastermind-yourself-one-step-at-a-time/
 excerpt: My review of Meet and Grow Rich

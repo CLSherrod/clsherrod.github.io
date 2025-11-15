@@ -7,7 +7,7 @@ categories:
 - Marketing
 - Essays
 tags:
-- business
+- entrepreneurship
 - music
 permalink: "/miley-cyrus-marketing-genius/"
 ---

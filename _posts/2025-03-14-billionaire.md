@@ -7,7 +7,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
   - meaning
 permalink: /billionaires/
 excerpt: Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You

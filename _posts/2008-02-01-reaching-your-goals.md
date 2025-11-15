@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /reaching-your-goals/
 ---
 If you know what to do to reach your goal, it's not a big enough goal.

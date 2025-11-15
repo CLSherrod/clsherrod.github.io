@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/another-weekend-testimonial/"
 ---
 Here's another  testimonial from last weekend.

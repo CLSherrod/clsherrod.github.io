@@ -13,8 +13,7 @@ url: https://christophersherrod.com/dreamers/
 created: 2025-04-28
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 ---
 ## Title

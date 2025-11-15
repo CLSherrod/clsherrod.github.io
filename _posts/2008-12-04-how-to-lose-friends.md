@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /how-to-lose-friends/
 ---
 Recently a very good friend of mine had a falling out with a business partner.  I don't know the details but I was supportive.  Then a couple of weeks later the business partner removed me from x.com.

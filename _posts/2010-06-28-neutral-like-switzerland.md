@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /neutral-like-switzerland/
 ---
 I'm like Switzerland. Me and my company are neutral.

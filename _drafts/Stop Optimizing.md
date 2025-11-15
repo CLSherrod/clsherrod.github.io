@@ -12,7 +12,7 @@ published:
 created: 2025-04-04
 last: 
 tags:
-  - business
+  - entrepreneurship
 ---
 ## Summary
 Stop optimizing your life and start living

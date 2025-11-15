@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/inspired-marketing/"
 ---
 I've been looking forward to a new book "Inspired Marketing" since Craig Perrine one of the authors and I discussed it.  Three weeks ago at a Prosperity Games dinner party which Craig attended we discussed "Inspired Marketing".   Craig told me that the 14 people interviewed showed how inspired action lead to their success. I've been doing that for a number of years now and agree that inspired action has lead to more success and a lot more fun in my life.

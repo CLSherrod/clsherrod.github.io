@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 meta:
   podPressPostSpecific: s:19:"s:11:"s:4:"b:0;";";";
   _edit_last: '1'

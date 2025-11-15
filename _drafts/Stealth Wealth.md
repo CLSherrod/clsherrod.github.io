@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # The Art of Stealth Wealth: Embracing Financial Success without Flaunting It
 

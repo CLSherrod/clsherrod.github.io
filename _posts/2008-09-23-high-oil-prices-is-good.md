@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /high-oil-prices-is-good/
 ---
 High oil prices are good? Why when everyone on the news says it's bad? When all your neighbors and friends say it is bad?

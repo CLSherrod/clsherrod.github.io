@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **Why Everyone is Distracted and No One Wants a Purpose Anymore**  
 

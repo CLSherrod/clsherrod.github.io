@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /business-is-like-improv/
 ---
 I recently took an Improv class. I loved it so much I signed up for the full course which start in a week. What I noticed when doing Improv is it's a lot like doing business.

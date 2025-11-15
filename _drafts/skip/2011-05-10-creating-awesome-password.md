@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 meta:
   dsq_thread_id: '300211421'
   _edit_last: '1'

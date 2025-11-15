@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
+  - entrepreneurship
 ---
 # Finding Your Voice Through Blogging: Why It's Your Duty to Share
 

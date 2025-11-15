@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
+  - entrepreneurship
   - real-success
 ---
 

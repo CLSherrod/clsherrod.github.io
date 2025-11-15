@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/richard-branson-voted-the-best-boss/"
 ---
 Why is Richard Branson so successful. One of the reasons is that he's a cool boss. He relates with people extremely well. People want room to grow and people to relate to that are positive. Everyone dislikes bosses that are negative.

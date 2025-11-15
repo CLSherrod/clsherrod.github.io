@@ -12,7 +12,7 @@ published:
 created: 2025-03-30
 last: 
 tags:
-  - business
+  - entrepreneurship
 ---
 ## Summary
 Living A Real Life

@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/25-online-sources-for-reliable-researched-facts/"
 ---
 Here is a great list of reliable fact finders.

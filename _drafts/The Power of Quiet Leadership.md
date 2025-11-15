@@ -13,8 +13,7 @@ url: https://christophersherrod.com/quiet-leadership/
 created: 2025-03-05
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 ## Quiet Leadership: The Strength of Humility, Empathy, and Authentic Influence  
 

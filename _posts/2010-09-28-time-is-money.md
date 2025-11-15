@@ -6,7 +6,7 @@ preview: Time is Money
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 toc: false
 permalink: /time-is-money/
 published: true

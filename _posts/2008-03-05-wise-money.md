@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /wise-money/
 ---
 A Wise One Will Never Step Over Dollars to Pick Up Pennies.

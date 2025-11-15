@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **The Truth About Selling to Dreamers (And Why I’d Rather Just Do Business)**  
 

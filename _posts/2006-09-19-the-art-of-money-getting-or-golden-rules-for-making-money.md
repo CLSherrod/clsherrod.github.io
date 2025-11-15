@@ -4,7 +4,7 @@ date: 2006-09-19
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
   - review
 published: true
 comments: true

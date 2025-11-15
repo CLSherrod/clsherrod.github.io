@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # The Modern Conservative and the Search for Justifying Self-Interest
 

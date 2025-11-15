@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /wholefoods-prosperity-campaign/
 ---
 Wholefood the grocery store is running a prosperity campaign.  It's good to see a grocery store helping to increase prosperity instead of the usual giving away food.  Giving away food is a short-term fix.  Prosperity is long-term.

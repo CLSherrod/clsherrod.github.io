@@ -5,7 +5,7 @@ published: true
 categories:
   - "Lifestyle & Travel"
 tags:
-  - business
+  - entrepreneurship
 permalink: /escaping-the-amish/
 ---
 Back in the late 1990's I wanted to be Amish. I wanted freedom in what I considered an unfree world. I wanted to live my life happy and thought being Amish would do that.

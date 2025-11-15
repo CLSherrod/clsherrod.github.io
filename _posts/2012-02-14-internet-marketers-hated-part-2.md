@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /internet-marketers-hated-part-2/
 ---
 [Why some Internet Marketers are hated post](/internet-marketers-hated/) last week think I hate Internet Marketers.

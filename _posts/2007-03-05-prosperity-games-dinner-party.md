@@ -6,7 +6,7 @@ categories:
 - Living a Fulfilling Life
 tags:
   - meaning
-  - business
+  - entrepreneurship
 permalink: /play-prosperity-games-feedback/
 published: true
 comments: true

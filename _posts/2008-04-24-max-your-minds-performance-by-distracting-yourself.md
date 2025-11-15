@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 meta:
 permalink: /max-your-minds-performance-by-distracting-yourself/
 ---

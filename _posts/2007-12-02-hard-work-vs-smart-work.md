@@ -6,7 +6,7 @@ comments: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /hard-work-vs-smart-work/
 excerpt: What's better hard work or smart work.
 ---

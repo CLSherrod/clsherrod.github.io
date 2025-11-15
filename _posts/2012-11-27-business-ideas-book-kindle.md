@@ -6,7 +6,7 @@ categories:
 - Business & Entrepreneurship
 tags:
   - meaning
-  - business
+  - entrepreneurship
   - review
   - news
 permalink: /play-prosperity-games-kindle/

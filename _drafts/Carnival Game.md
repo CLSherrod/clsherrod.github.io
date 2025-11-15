@@ -12,7 +12,7 @@ published:
 created: 2025-04-12
 last: 
 tags:
-  - business
+  - entrepreneurship
 ---
 ## Summary
 

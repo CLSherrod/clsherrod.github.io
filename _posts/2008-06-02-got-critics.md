@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /got-critics/
 ---
 If you don’t have critics, then you aren’t trying hard enough. You might think I’m kidding, but I’m not. If you're not pushing the envelope, not sharing enough of yourself, and not putting yourself out there, you're not truly striving.

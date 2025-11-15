@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /why-its-important-to-know-who-youre-sharing-your-goals-with/
 ---
 I've had mastermind members (and I was surprised by this) tell me that being successful and not working all the time is bulls**t.  That is my goal and I do pretty good at it.  I'm off for a home exchange for a week and I'm writing this days before so I can enjoy the beach home in Virginia.  

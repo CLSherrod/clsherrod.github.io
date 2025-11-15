@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /number-1-excuse-for-failure-by-far/
 ---
 I consult with many business owners every week, doing their websites and guiding them in the right direction.  And by far the number one excuse for the people that fail is not doing anything. They don't blog.  They don't market.  I take all of that back, many actually do something, they tweak their sidebars, their colors, their graphics.  They do everything but actual business.  Marketing is the number one item that should be on your to do list.

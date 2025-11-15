@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **You Don’t Need to Know What You’re Doing With Your Life—Just What’s Next**  
 

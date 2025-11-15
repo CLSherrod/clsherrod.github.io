@@ -5,7 +5,7 @@ last_modified_at: 2024-03-12
 categories:
 - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
   - review
 permalink: /carpenters-house-fable/
 published: true

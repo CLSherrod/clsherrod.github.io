@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/faking-law-of-attraction/"
 ---
 James here make a good point about faking it to you make it.

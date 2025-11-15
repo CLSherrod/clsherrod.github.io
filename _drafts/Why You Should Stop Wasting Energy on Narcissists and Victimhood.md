@@ -12,7 +12,7 @@ published:
 created: 2025-03-25
 last: 
 tags:
-  - business
+  - entrepreneurship
 ---
 # Why You Should Stop Wasting Energy on Narcissists and Victimhood
 

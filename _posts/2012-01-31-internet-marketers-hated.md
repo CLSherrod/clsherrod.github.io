@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /internet-marketers-hated/
 excerpt: Why some Internet Marketers are hated more than used car salesmen
 ---

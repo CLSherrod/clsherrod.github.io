@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/the-go-getter/"
 ---
 "The Go-Getter" is a great inspiring story of what it takes to be a go-getter.

@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /email-checklist/
 ---
 Here is a great checklist before you send out that email.  Here is just a few.  Click the link at the bottom for the full articles.

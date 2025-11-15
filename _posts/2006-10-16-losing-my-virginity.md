@@ -6,7 +6,7 @@ comments: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
   - review
 permalink: /losing-my-virginity/
 ---

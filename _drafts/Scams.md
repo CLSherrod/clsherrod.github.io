@@ -13,7 +13,7 @@ url:
 created: 
 last:
 tags:
-  - business
+  - entrepreneurship
 ---
 https://www.reddit.com/r/marketing/s/efHrzpyBJK
 

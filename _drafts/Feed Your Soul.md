@@ -12,7 +12,7 @@ published:
 created: 2025-03-25
 last: 
 tags:
-  - business
+  - entrepreneurship
 ---
 # Feed Your Soul
 # Checklist

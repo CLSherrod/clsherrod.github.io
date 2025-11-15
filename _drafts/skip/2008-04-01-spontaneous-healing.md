@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/spontaneous-healing/"
 ---
 Gregg Braden former scientist now best selling spirtual author has a new book out, <a href="http://promos.hayhouse.com/braden/040208email/" rel="nofollow">The Spontaneous Healing of Belief</a>. I love the information that he writes about, science is proving that there is something to spirtuality. In order to succeed in life you have to belief in yourself.

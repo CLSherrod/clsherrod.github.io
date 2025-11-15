@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /money-and-stuff/
 ---
 I've had stuff and I've had practical no stuff. I've learned for myself that having less stuff is more fun. The less I'm into physical items the more I enjoy the items.

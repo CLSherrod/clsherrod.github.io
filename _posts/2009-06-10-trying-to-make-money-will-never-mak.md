@@ -5,8 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
-  - business
+- entrepreneurship
 permalink: /trying-to-make-money-will-never-mak/
 ---
 In over 23 years of working with small business client I've heard "I just want to quit my job and do my own business" or "If I just made a bit more money life would be good".

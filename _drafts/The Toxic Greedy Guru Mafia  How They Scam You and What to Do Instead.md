@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **The Toxic Greedy Guru Mafia: How They Scam You and What to Do Instead**  
 

@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # **Harsh Truths to Wake You Up Before You Waste Your Life**  
 

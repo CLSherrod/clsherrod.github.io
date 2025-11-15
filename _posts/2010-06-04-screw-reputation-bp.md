@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /screw-reputation-bp/
 ---
 BP started ads addressing the 6 week old oil spill today.

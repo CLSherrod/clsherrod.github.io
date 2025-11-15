@@ -13,8 +13,7 @@ url:
 created:
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 # Street Smart Marketing: Real-World Feedback as the Ultimate Reality Check
 

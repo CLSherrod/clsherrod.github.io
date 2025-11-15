@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/pillars-of-success/"
 ---
 How do you feel about 2009? For most of us it holds a great deal of ambivalence. It promises to be a year of great positive change, yet lurking in the background is an element of fear. None of us want to hold onto the fear for we do not want to create a self-fulfilling prophecy. 2009 may therefore be the year for caution, but it can also be your year for great opportunities.

@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /multiplying-output-in-groups-plus/
 ---
 Tim Ferris' latest blog post is awesome. So much content. I love that.

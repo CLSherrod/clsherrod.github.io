@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /early-birthday-party-1/
 ---
 I was quietly relaxing on the back porch when my love Nan called me and told me there was a change of plans.  Instead of dropping one the kids friends back at her place they were buying me presents and going to throw me an early birthday party.  Even the kids friend insisted on coming back to our place to celebrate.  It was touching and I couldn't get back to what I was thinking about while waiting for them.

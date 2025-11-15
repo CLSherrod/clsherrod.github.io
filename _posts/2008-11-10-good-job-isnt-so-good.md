@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /good-job-isnt-so-good/
 ---
 Having a good job is not what it used to be.  In fact, it's pretty risky.  After working your ass off for many years companies just let you go.  It's happened to many of my family members.

@@ -13,8 +13,7 @@ url:
 created: 
 last:
 tags:
-  - business
-  - business
+- entrepreneurship
 ---
 ## Summary
 Crafting Your Personal Operating System: A Blueprint for Life Optimization

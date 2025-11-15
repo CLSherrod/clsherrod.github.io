@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /master-of-your-own-domain/
 ---
 A mastermind member sent this to me via email.

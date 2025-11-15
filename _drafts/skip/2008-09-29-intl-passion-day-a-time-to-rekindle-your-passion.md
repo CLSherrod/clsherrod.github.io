@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 - meaning
 permalink: "/intl-passion-day-a-time-to-rekindle-your-passion/"
 ---

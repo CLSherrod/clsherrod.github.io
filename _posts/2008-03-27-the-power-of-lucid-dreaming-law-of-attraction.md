@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - business
+  - entrepreneurship
 permalink: /the-power-of-lucid-dreaming-law-of-attraction/
 ---
 I have many dreams of what to do next.  It is very common for me.  The are detailed and very inspiring.  Here is an article on lucid dreaming that helps explain what naturally occurs to me.

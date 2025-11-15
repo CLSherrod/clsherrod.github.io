@@ -13,7 +13,7 @@ url: https://christophersherrod.com/arguing/
 created: 2025-04-07
 last: 2025-07-22
 tags:
-  - business
+  - entrepreneurship
 ---
 # Why Successful People Don’t Waste Time Arguing
 

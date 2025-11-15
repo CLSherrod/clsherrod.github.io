@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - business
+  - entrepreneurship
 permalink: /internet-get-rich-quick-targeted/
 ---
 Internet get rich quick people are being targeted by the Feds.  The hype is so great and the amount of just awful schemes that it was just a matter of time.

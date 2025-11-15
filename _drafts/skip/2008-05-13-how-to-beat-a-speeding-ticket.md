@@ -5,7 +5,7 @@ published: false
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/how-to-beat-a-speeding-ticket/"
 ---
 I've gotten three speeding tickets. Two I got of of and one I went to a class. I've found these tips to one that I also would recommend. This first I think should be don't drive over the speed limit though. :-)

@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/single-most-important-frustration-survey/"
 ---
 <div>I've created a one question survey for you.  It'll take you less than a minute to complete.</div>

@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- business
+- entrepreneurship
 permalink: "/virgins-branson-sees-more-us-airline-bankruptcies-ahead/"
 ---
 With American Airlines making a major customer service mistake that with this current airline environment could spell the end of the airline and with fuel costs a well run company like Virgin America can do very well in the USA.

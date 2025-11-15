@@ -7,7 +7,7 @@ categories:
 - Marketing
 - Essays
 tags:
-- business
+- entrepreneurship
 meta:
   aktt_notify_twitter: 'no'
   _searchme: '1'
