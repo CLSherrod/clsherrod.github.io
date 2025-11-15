@@ -4,7 +4,7 @@ date: 2021-03-01
 description: "Rennie Davis: From Revolutionary to Visionary for a New Humanity"
 preview: "Rennie Davis: From Revolutionary to Visionary for a New Humanity"
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - tribute
 toc: true

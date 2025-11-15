@@ -4,7 +4,7 @@ date:
 description: "The Real Secret to Consistency: Be Realistic, Not Relentless"
 preview: "The Real Secret to Consistency: Be Realistic, Not Relentless"
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
 toc: true

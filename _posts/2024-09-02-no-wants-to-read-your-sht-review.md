@@ -2,7 +2,7 @@
 title: "Why Nobody Wants to Read Your Sh-t is a Must-Read for Aspiring Writers: Lessons from a Marketing and Screenwriting Pro"
 date: 2024-09-02
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - review
 permalink: /nobody-wants-to-read-you/

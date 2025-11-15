@@ -5,7 +5,7 @@ last_modified_at: 2025-10-02
 description: "Nonviolent Communication: A Book That Helped Me Live More Peacefully"
 preview: "Nonviolent Communication: A Book That Helped Me Live More Peacefully"
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
   - review

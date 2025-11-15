@@ -3,7 +3,7 @@ title: High Oil Prices Is Good
 date: 2008-09-23 23:35:28
 published: true
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /high-oil-prices-is-good/

@@ -3,7 +3,7 @@ title: Nothing but Net
 date: 2008-09-15
 published: true
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /nothing-but-net/

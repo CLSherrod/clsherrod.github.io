@@ -3,7 +3,7 @@ title: Open Source Living
 date: 2007-12-27
 published: true
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /open-source-living/

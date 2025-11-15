@@ -4,7 +4,7 @@ description: Being a Good Person in a Bad World
 preview: Being a Good Person in a Bad World
 date: 2025-10-06
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
 toc: true

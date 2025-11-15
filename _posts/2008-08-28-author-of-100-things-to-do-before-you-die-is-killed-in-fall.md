@@ -3,7 +3,7 @@ title: Author of '100 Things to Do Before You Die' is killed in fall
 date: 2008-08-28
 published: true
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /author-of-100-things-to-do-before-you-die-is-killed-in-fall/

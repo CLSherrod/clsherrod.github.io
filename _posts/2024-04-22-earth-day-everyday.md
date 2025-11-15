@@ -3,7 +3,7 @@ title: "Embracing Earth Day Every Day: A Call for Continuous Environmental Consc
 date: 2024-04-22
 last_modified_at: 2024-05-01
 categories:
-- Learning & Growth
+- Living a Fulfilling Life
 tags:
 - fulfilling-life
 permalink: /earth-day-everyday/

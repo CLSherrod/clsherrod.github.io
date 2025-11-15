@@ -3,7 +3,7 @@ title: When To Say No
 date: 2007-01-28
 last_modified_at: 2024-03-11
 categories:
-- Learning & Growth
+- Living a Fulfilling Life
 tags: business
 permalink: /when-to-say-no/
 published: true

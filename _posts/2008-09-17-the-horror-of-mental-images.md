@@ -3,7 +3,7 @@ title: The Horror of Mental Images
 date: 2008-09-17
 published: true
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
   - fulfilling-life

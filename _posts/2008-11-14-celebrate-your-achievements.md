@@ -3,7 +3,7 @@ title: Celebrate your achievements
 date: 2008-11-14
 published: true
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
   - fulfilling-life

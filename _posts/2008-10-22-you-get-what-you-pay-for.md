@@ -3,7 +3,7 @@ title: You get what you pay for
 date: 2008-10-22
 published: true
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - business
 permalink: /you-get-what-you-pay-for/

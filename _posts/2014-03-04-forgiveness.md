@@ -3,7 +3,7 @@ title: Forgiveness
 date: 2014-03-04
 published: true
 categories:
-  - Learning & Growth
+  - Living a Fulfilling Life
 tags:
   - fulfilling-life
 permalink: /forgiveness/

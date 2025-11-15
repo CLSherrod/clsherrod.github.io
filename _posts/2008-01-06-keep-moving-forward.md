@@ -3,7 +3,7 @@ title: Keep Moving Forward
 date: 2008-01-06
 last_modified_at: 2024-03-12
 categories:
-- Learning & Growth
+- Living a Fulfilling Life
 tags: business
 permalink: /keep-moving-forward/
 published: true
