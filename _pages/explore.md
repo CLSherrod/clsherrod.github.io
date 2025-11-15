@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: Explore Christopher Sherrod
 permalink: /explore/
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
