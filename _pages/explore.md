@@ -15,7 +15,7 @@ If you're new, start with the first section. If you’re returning, choose what 
 
 ## 🌱 Start Here
 
-Clear first steps for understanding what I teach.
+If you’re new to my world, begin here. These links give you the clearest sense of what I believe about living a fulfilling life, why I write, and how I rebuilt everything after my seizures. It’s the foundation for everything else on this site.
 
 - **[Start Here](https://christophersherrod.com/start/)**  
     A short guide to my worldview and where to begin.
@@ -28,7 +28,7 @@ Clear first steps for understanding what I teach.
     
 ## ✍️ Essential Essays
 
-The pieces people share the most — each one a doorway into a fulfilling life.
+These are the essays people share the most. Each one is a doorway into a different part of living with intention — less noise, more clarity, more meaning. Start with whichever headline pulls at you.
 
 - **[Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled](https://christophersherrod.com/fulfilled-not-fast-or-slow/)**
     
@@ -45,7 +45,7 @@ Browse the full archive: **[All Essays →](https://christophersherrod.com/blog/
 
 ## 🌿 Living a Fulfilling Life
 
-Guides for living with clarity, purpose, and presence.
+A quieter, saner life doesn’t come from hacks. It comes from honest boundaries, simple habits, and choosing what actually matters. These guides help you build a life with more presence and less overwhelm.
 
 - **[Unplug](https://christophersherrod.com/unplug/)** — reducing EMF overwhelm & reclaiming your energy
     
@@ -56,9 +56,9 @@ Guides for living with clarity, purpose, and presence.
 - **[Slow Living That Works in the Real World](https://christophersherrod.com/fulfilled-not-fast-or-slow/)**
     
 
-## 🌎 Expat Life & Travel
+## 🌎 International Living & Travel
 
-Stories and guidance from living abroad since 2016.
+I’ve lived abroad full-time since 2016, and it reshaped how I see fulfilment, community, and freedom. These stories and guides show the real expat life — the beauty, the friction, and the lessons that only come from living somewhere long enough to belong.
 
 - **[My Life in Books](https://christophersherrod.com/bookshop/)**
     
@@ -71,7 +71,7 @@ Stories and guidance from living abroad since 2016.
 
 ## 🎨 Art & Creative Work
 
-The creative side of my world.
+Art is how I process the world. Writing is one form of expression; sacred geometry and ambient visuals are another. If you want to see the creative side of my work — the part that doesn’t use words — start here.
 
 - **Art by Chr1stopher →** [https://chr1stopher.com](https://chr1stopher.com/)
     
@@ -84,7 +84,7 @@ The creative side of my world.
 
 ## 📚 Books
 
-The books I've written and what I'm working on next.
+Books are where I explore ideas with more depth and honesty than a single essay can hold. These are the projects I’ve finished and the long-term ones I’m building layer by layer.
 
 - **[My Books](https://christophersherrod.com/books/)**
     
@@ -95,7 +95,7 @@ The books I've written and what I'm working on next.
 
 ## 🔗 Community & Connection
 
-Ways to stay connected beyond the site.
+Here’s where you can stay connected, reach out, or explore the wider creative universe I’m part of. No pressure, no hype — just human connection.
 
 - **[Newsletter](https://christophersherrod.com/#newsletter)**
     
@@ -108,7 +108,7 @@ Ways to stay connected beyond the site.
 
 ## 🧭 Everything Else (Sitemap Style)
 
-For the explorers who want the full map.
+The full map. For the readers who want every corner, every breadcrumb, every obscure detail. Browse freely.
 
 - **[Colophon](https://christophersherrod.com/colophon/)**
     
@@ -119,3 +119,11 @@ For the explorers who want the full map.
 - **[RSS Feed](https://christophersherrod.com/feed.xml)**
     
 - **[Sitemap](https://christophersherrod.com/sitemap.xml)**
+
+## Want a calmer, clearer, more fulfilling day?
+
+Join my daily note — one grounded idea each morning to help you slow down, reconnect, and remember what actually matters.
+
+👉 **[Get Today’s Note](https://christophersherrod.com/#newsletter)**
+
+No noise. No spam. Just one meaningful moment each morning.
