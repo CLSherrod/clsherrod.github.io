@@ -3,7 +3,7 @@ title: The Elders
 date: 2008-01-08
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - fulfilling-life
 permalink: /the-elders/

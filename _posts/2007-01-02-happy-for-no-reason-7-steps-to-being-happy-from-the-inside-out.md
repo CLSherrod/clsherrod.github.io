@@ -4,7 +4,7 @@ date: 2007-01-02
 published: true
 comments: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - fulfilling-life
   - review

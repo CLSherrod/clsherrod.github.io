@@ -4,7 +4,7 @@ date: 2013-12-11
 published: true
 comments: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - tribute
 permalink: /nelson-mandela-hero/

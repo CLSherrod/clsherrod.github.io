@@ -3,7 +3,7 @@ title: "Raising a child is the ultimate leadership training"
 date: 2011-09-23
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
 permalink: /raising-child-ultimate-leadership-training/

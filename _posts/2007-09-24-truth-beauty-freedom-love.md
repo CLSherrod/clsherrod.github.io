@@ -4,7 +4,7 @@ date: 2007-09-24
 published: true
 comments: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - fulfilling-life
 permalink: /truth-beauty-freedom-love/

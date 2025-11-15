@@ -3,7 +3,7 @@ title: Latest article about my friend dying has been picked up by Good Men Proje
 date: 2015-08-12
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - fulfilling-life
   - tribute

@@ -3,7 +3,7 @@ title: I have down days too
 date: 2008-02-28 00:36:39.000000000 -06:00
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags: []
 permalink: /i-have-down-days-too/
 ---

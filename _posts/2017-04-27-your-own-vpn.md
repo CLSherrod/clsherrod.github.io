@@ -4,7 +4,7 @@ date: 2017-04-27
 published: true
 comments: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
   - business

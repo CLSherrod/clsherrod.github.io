@@ -3,7 +3,7 @@ title: How to beat a speeding ticket
 date: 2008-05-13
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
 permalink: /how-to-beat-a-speeding-ticket/

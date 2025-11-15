@@ -2,7 +2,7 @@
 title: Avoiding Negative talk
 date: 2007-11-29
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - fulfilling-life
 permalink: /avoiding-negative-talk/

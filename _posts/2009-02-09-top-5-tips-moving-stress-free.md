@@ -3,7 +3,7 @@ title: Top 5 Tips to Moving Stress Free
 date: 2009-02-09
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - fulfilling-life
 permalink: /top-5-tips-moving-stress-free/

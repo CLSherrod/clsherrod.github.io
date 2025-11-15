@@ -3,7 +3,7 @@ title: Expect Miracles
 date: 2008-01-11 00:24:18.000000000 -06:00
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - fulfilling-life
 meta:

@@ -3,7 +3,7 @@ title: A Daily Guide To Creativity And New Ideas
 date: 2008-07-30
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
 permalink: /a-daily-guide-to-creativity-and-new-ideas/

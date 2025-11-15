@@ -3,7 +3,7 @@ title: "Early Birthday Party #1"
 date: 2008-04-20 20:00:11
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
 permalink: /early-birthday-party-1/

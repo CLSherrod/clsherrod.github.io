@@ -3,7 +3,7 @@ title: Email checklist
 date: 2008-06-24
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
 permalink: /email-checklist/

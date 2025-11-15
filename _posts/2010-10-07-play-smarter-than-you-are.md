@@ -3,7 +3,7 @@ title: Play smarter than you are
 date: 2010-10-07
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - fulfilling-life
 permalink: /play-smarter-than-you-are/

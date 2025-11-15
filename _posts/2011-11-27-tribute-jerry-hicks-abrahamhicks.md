@@ -4,7 +4,7 @@ date: 2011-11-27
 published: true
 comments: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - tribute
 permalink: /tribute-jerry-hicks-abrahamhicks/

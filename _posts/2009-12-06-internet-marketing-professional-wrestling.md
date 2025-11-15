@@ -3,7 +3,7 @@ title: Internet Marketing is Professional Wrestling
 date: 2009-12-06
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
 permalink: /internet-marketing-professional-wrestling/

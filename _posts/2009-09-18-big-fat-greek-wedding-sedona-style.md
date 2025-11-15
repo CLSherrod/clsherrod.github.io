@@ -3,7 +3,7 @@ title: Big Fat Greek Wedding Sedona Style
 date: 2009-09-18
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - travel
 permalink: /big-fat-greek-wedding-sedona-style/

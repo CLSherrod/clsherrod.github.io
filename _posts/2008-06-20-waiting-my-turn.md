@@ -3,7 +3,7 @@ title: Waiting My Turn
 date: 2008-06-20
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
 permalink: /waiting-my-turn/

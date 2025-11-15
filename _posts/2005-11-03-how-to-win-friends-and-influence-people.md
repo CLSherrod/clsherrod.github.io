@@ -4,7 +4,7 @@ date: 2005-11-03
 published: true
 comments: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
   - review

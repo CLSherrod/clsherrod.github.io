@@ -3,7 +3,7 @@ title: I hate voice mail
 date: 2009-11-02
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
 permalink: /i-hate-voice-mail/

@@ -3,7 +3,7 @@ title: How to Us Parkinson's Law to Your Advantage
 date: 2008-06-04
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
 permalink: /how-to-us-parkinsons-law-to-your-advantage/

@@ -3,7 +3,7 @@ title: Seize the day
 date: 2008-07-31
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
 permalink: /seize-the-day/

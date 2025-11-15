@@ -4,7 +4,7 @@ date: 2005-11-14
 published: true
 comments: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - success
 permalink: /abraham-hicks-art-of-allowing-workshop/

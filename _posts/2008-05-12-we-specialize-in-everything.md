@@ -3,7 +3,7 @@ title: We specialize in everything
 date: 2008-05-12 22:29:51
 published: true
 categories:
-  - "Learning & Growth"
+  - Living a Fulfulling Life
 tags:
   - business
 permalink: /we-specialize-in-everything/
