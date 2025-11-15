@@ -6,7 +6,7 @@ comments: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - success
+  - real-success
   - meaning
 permalink: /more-money-better-sex/
 excerpt: The richer you are the better sex you have.

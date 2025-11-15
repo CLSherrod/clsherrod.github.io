@@ -6,7 +6,7 @@ comments: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - success
+  - real-success
 permalink: /prosperity-consciousness-2/
 excerpt: Prosperity is an ongoing state of being.
 ---

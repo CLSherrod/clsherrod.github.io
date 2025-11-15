@@ -4,7 +4,7 @@ date: 2000-04-16
 categories:
   - Business & Entrepreneurship
 tags:
-  - success
+  - real-success
   - review
 permalink: /cashflow-quadrant/
 excerpt: My review of Cashflow Quadrant

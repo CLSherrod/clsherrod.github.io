@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - success
+  - real-success
 ---
 # Why You Shouldn't Take Financial Advice from a Stray Cat
 

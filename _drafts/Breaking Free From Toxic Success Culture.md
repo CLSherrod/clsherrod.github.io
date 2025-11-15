@@ -13,7 +13,7 @@ url: https://christophersherrod.com/toxic-success-culture/
 created: 2025-04-21
 last:
 tags:
-  - success
+  - real-success
 ---
 ## Title
 How to Escape Society’s Toxic Success Culture and Build a Better Life

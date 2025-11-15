@@ -6,7 +6,7 @@ comments: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - success
+  - real-success
 permalink: /the-napoleon-hill-foundation/
 exerpt: Futher resources after Think And Grow Rich
 ---

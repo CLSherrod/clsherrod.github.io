@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - success
+  - real-success
 permalink: /why-emotions-are-key-to-your-success/
 ---
 I recently had Rhys Thomas of the Rhys Method evaluate me. He did my life purpose profile.

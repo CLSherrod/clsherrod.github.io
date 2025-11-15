@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - success
+  - real-success
 permalink: /prosperity-mindset/
 excerpt: Only people with the right mindset will win.
 ---

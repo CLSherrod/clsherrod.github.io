@@ -6,7 +6,7 @@ categories:
   - Living a Fulfilling Life
 tags:
   - review
-  - success
+  - real-success
   - news
 permalink: /play-prosperity-games-is-on-kindle/
 ---

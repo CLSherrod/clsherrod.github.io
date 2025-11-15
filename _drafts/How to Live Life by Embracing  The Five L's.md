@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - success
+  - real-success
 ---
 # How to Live Life by Embracing "The Five L's"
 

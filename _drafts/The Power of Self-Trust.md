@@ -13,7 +13,7 @@ url:
 created: 2025-05-05
 last:
 tags:
-  - success
+  - real-success
 ---
 # The Power of Self-Trust: Why Your Inner Voice Trumps Expert Advice Every Time
 

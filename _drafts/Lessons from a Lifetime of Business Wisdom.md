@@ -13,7 +13,7 @@ url:
 created:
 last:
 tags:
-  - success
+  - real-success
 ---
 # **Lessons from a Lifetime of Business Wisdom**  
 

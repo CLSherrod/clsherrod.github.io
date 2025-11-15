@@ -6,7 +6,7 @@ comments: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - success
+  - real-success
 permalink: /abraham-hicks-art-of-allowing-workshop/
 excerpt: My experience at a Abraham-Hicks workshop
 ---

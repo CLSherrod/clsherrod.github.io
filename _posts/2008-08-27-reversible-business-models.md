@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - success
+  - real-success
 permalink: /reversible-business-models/
 ---
 I just finished reading this excellent post. Here is a quote.

@@ -5,7 +5,7 @@ date: 2025-07-22
 toc: true
 preview: Why Successful People Don’t Waste Time Arguing
 tags:
-  - success
+  - real-success
 categories:
   - Living a Fulfilling Life
 permalink: /arguing/

@@ -4,7 +4,7 @@ date: 2003-06-08
 categories:
   - Business & Entrepreneurship
 tags:
-  - success
+  - real-success
   - review
 permalink: /richest-man-in-babylon/
 published: true

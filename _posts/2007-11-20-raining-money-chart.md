@@ -4,7 +4,7 @@ date: 2007-11-20
 categories:
   - Living a Fulfilling Life
 tags:
-  - success
+  - real-success
 permalink: /raining-money-chart/
 exerpt: Using a multiple streams of income chart.
 published: true

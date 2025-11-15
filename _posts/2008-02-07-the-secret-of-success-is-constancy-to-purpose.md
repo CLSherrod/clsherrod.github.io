@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - success
+  - real-success
 permalink: /the-secret-of-success-is-constancy-to-purpose/
 ---
 Benjamin Disraeli wrote "The secret of success is constancy to purpose."

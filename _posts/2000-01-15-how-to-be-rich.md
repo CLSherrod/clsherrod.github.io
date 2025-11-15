@@ -4,7 +4,7 @@ date: 2000-01-15
 categories:
   - Business & Entrepreneurship
 tags:
-  - success
+  - real-success
   - review
 permalink: /how-to-be-rich/
 published: true

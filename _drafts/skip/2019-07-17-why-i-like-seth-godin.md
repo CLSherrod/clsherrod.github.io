@@ -9,7 +9,7 @@ categories:
 - Essays
 tags:
 - Seth Godin
-- success
+- real-success
 meta:
   nectar_blog_post_view_count: '124'
   _wpb_vc_js_status: 'false'

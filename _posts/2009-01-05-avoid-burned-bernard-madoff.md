@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - success
+  - real-success
 permalink: /avoid-burned-bernard-madoff/
 ---
 Here are some basic checks to avoid getting into a ponzi scheme.

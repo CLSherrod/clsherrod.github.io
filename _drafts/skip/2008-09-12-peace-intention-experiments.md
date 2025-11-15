@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- success
+- real-success
 permalink: "/peace-intention-experiments/"
 ---
 Lynne McTaggart who wrote the book <a href="http://www.amazon.com/gp/product/0743276965?ie=UTF8&amp;tag=theintework-20&amp;linkCode=as2&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0743276965" rel="nofollow"><em rel="nofollow">The Intention Experiment: Using Your Thoughts to Change Your Life and the World *</a> and she is starting a series of Peace Intention Experiments.

@@ -4,7 +4,7 @@ date: 2004-11-04
 categories:
   - Business & Entrepreneurship
 tags:
-  - success
+  - real-success
   - review
 permalink: /the-meaning-of-money-zig-ziglar/
 published: true

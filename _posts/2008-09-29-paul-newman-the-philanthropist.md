@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - success
+  - real-success
   - tribute
   - philanthropy
 permalink: /paul-newman-the-philanthropist/

@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - success
+  - real-success
 permalink: /where-did-my-ego-go/
 excerpt: In order to grow business to be real big I've had to let go of my ego.
 ---
