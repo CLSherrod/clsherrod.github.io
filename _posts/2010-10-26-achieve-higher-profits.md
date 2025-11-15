@@ -1,6 +1,7 @@
 ---
 title: Why Strong Brands Can Charge More (and Keep Customers Happy Doing It)
 date: 2010-10-26
+last_modified_at: 2025-11-15
 published: true
 categories:
   - Work & Entrepreneurship
@@ -9,7 +10,6 @@ tags:
 permalink: /achieve-higher-profits/
 description: Why Strong Brands Can Charge More (and Keep Customers Happy Doing It)
 toc: true
-modified_date: 2025-11-15
 ---
 ## The Quiet Power of a High-Class Brand
 
