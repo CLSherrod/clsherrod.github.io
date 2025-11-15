@@ -7,7 +7,8 @@ teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square
 header:
   overlay_image: /assets/images/headers/explore-header.webp
   overlay_filter: 0.1
-  caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
+  caption: Art by [**Chr1stopher**](https://chr1stopher.com)
+toc: true
 ---
 A curated map of everything I create — essays, books, slow living guides, and the inner work behind it all. 
 
