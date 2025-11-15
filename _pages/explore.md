@@ -118,4 +118,4 @@ For the explorers who want the full map.
     
 - **[RSS Feed](https://christophersherrod.com/feed.xml)**
     
-- [Sitemap](https://christophersherrod.com/sitemap.xml)
+- **[Sitemap](https://christophersherrod.com/sitemap.xml)**
