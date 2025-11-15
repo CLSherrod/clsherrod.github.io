@@ -7,7 +7,7 @@ categories:
 - Lifestyle
 - Travel
 tags:
-- travel
+- place
 meta:
   _wpb_vc_js_status: 'false'
   _nectar_page_header_bg_alignment: top

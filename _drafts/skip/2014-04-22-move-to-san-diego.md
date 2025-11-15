@@ -6,7 +6,7 @@ categories:
 - Essays
 tags:
 - meaning
-- travel
+- place
 permalink: "/move-to-san-diego/"
 ---
 I recently moved to San Diego.

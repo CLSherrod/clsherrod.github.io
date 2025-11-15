@@ -5,7 +5,7 @@ published: true
 categories:
   - "Lifestyle & Travel"
 tags:
-  - travel
+  - place
 permalink: /how-to-travel-and-still-do-business/
 ---
 I've traveled a lot. Went to France and Venice Italy last summer. London, Paris and Edinburgh the summer before that, and Panama the summer before that. I've traveled and still did business.

@@ -6,7 +6,7 @@ preview: "Living Abroad Isn’t for Everyone: Test the Life Before You Move"
 categories:
   - Lifestyle & Travel
 tags:
-  - travel
+  - place
 toc: true
 permalink: /living-abroad-isnt-for-everyone/
 published: false

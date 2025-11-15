@@ -6,7 +6,7 @@ preview: The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Th
 categories:
   - Lifestyle & Travel
 tags:
-  - travel
+  - place
 permalink: /happy-isles-of-oceania/
 published: true
 toc: false

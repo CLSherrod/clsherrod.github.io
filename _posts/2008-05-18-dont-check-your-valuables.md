@@ -5,7 +5,7 @@ published: true
 categories:
   - "Lifestyle & Travel"
 tags:
-  - travel
+  - place
 permalink: /dont-check-your-valuables/
 ---
 Here is a story about a very frequent traveler losing thousands of dollars of electronics out of his luggage.

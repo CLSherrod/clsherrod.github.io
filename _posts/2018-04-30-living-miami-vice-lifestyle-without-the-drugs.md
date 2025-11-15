@@ -6,7 +6,7 @@ categories:
   - "Lifestyle & Travel"
 tags:
   - meaning
-  - travel
+  - place
 permalink: /living-miami-vice-lifestyle-without-the-drugs/
 ---
 My favorite show as a teenager living in remote Alaska was, believe it or not was *Miami Vice*.

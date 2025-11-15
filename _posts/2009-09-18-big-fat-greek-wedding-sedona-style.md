@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - travel
+  - place
 permalink: /big-fat-greek-wedding-sedona-style/
 ---
 I'm a big fan of celebrating life.  I love to work hard but I also love to party.

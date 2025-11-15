@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- travel
+- place
 meta:
   dsq_thread_id: '405509626'
   _edit_last: '1'

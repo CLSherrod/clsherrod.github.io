@@ -5,7 +5,7 @@ published: true
 categories:
   - "Lifestyle & Travel"
 tags:
-  - travel
+  - place
 permalink: /working-on-the-internet-while-traveling/
 ---
 I'm traveling and we just moved into another condo for a month.  At first the Internet looked fine then I started to have some issues.

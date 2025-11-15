@@ -5,7 +5,7 @@ published: true
 categories:
 - News
 tags:
-- travel
+- place
 permalink: "/lighting-spectacle/"
 ---
 <p><a title="ChÃ¢teau de Versailles" href="http://www.flickr.com/photos/eaglechris/1014903251/" rel="nofollow"><img src="{{ site.baseurl }}/posts/2007/08/1014903251_e0a4ccdd1b_m.jpg" alt="ChÃ¢teau de Versailles/ rel=" width="240" height="180" align="right" /></a>We got back from the Lighting Spectacle known as <a href="http://www.chateauversaillesspectacles.fr/gb/gen.htm" rel="nofollow">Les Grandes Eaux Nocturnes</a> at Chateau de Versailles just outside Paris.</p>

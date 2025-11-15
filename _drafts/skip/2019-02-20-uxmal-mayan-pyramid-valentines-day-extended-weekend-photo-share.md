@@ -8,7 +8,7 @@ categories:
 - Travel
 - Essays
 tags:
-- travel
+- place
 meta:
   _edit_last: '1'
   _nectar_gallery_slider: 'off'

@@ -8,7 +8,7 @@ categories:
 - Travel
 - Essays
 tags:
-- travel
+- place
 meta:
   _vc_post_settings: a:1:{s:10:"vc_grid_id";a:0:{}}
   _edit_last: '1'

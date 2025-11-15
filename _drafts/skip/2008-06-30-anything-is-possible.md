@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- travel
+- place
 permalink: "/anything-is-possible/"
 ---
 I'm traveling today.  Going to France and Venice Italy for six weeks.  By the time you read this I'll be on a jet in business class having champagne with my honey Nan.  I'll keep everyone up to date on what I'm visiting. I'm a photographer so I'll be posting my photos on an almost daily basis.
