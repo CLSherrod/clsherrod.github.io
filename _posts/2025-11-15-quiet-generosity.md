@@ -10,7 +10,7 @@ tags:
   - philanthropy
 toc: true
 permalink: /quiet-generosity/
-published: false
+published: true
 ---
 ## A New Kind of Philanthropy
 
