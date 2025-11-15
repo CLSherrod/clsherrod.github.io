@@ -4,7 +4,7 @@ description: Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With 
 preview: Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose
 date: 2025-06-01
 categories:
-  - "Lifestyle & Travel"
+  - Lifestyle & Travel
 tags:
   - tribute
 toc: true

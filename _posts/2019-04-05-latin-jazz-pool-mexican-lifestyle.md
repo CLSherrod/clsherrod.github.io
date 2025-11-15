@@ -3,7 +3,7 @@ title: Latin Jazz, pool, Mexican lifestyle
 date: 2019-04-05
 published: false
 categories:
-  - "Lifestyle & Travel"
+  - Lifestyle & Travel
 tags:
   - place
   - place
