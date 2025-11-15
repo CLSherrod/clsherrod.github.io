@@ -9,7 +9,7 @@ tags:
 permalink: /achieve-higher-profits/
 description: Why Strong Brands Can Charge More (and Keep Customers Happy Doing It)
 toc: true
-last_updated: 2025-11-15
+modified_date: 2025-11-15
 ---
 ## The Quiet Power of a High-Class Brand
 
