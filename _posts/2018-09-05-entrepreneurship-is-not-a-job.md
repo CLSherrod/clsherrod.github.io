@@ -4,7 +4,8 @@ date: 2018-09-05
 last_modified_at: 2024-04-11
 categories:
 - Business & Entrepreneurship
-tags: business
+tags:
+  - entrepreneurship
 permalink: /entrepreneurship-is-not-a-job/
 published: true
 comments: true

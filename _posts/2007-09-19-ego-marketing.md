@@ -4,7 +4,8 @@ date: 2007-09-19
 last_modified_at: 2024-03-11
 categories:
 - Business & Entrepreneurship
-tags: business
+tags:
+  - entrepreneurship
 permalink: /ego-marketing/
 published: true
 comments: true

@@ -4,7 +4,8 @@ date: 2019-05-15
 last_modified_at: 2024-04-11
 categories:
 - Living a Fulfilling Life
-tags: business
+tags:
+  - entrepreneurship
 permalink: /skipping-success/
 published: true
 comments: true

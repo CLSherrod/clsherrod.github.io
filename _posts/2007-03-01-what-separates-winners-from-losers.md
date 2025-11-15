@@ -7,7 +7,8 @@ last_modified_at: 2024-03-11
 toc: false
 categories:
 - Living a Fulfilling Life
-tags: business
+tags:
+  - entrepreneurship
 permalink: /what-separates-winners-from-losers/
 published: true
 ---

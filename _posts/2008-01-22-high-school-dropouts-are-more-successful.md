@@ -4,7 +4,8 @@ date: 2008-01-22
 last_modified_at: 2024-07-03
 categories:
 - Living a Fulfilling Life
-tags: business
+tags:
+  - entrepreneurship
 toc: true
 permalink: /high-school-dropouts-are-more-successful/
 published: true

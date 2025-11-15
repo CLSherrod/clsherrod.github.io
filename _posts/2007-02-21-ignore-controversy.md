@@ -4,7 +4,8 @@ date: 2007-02-21
 last_modified_at: 2024-03-11
 categories:
 - Living a Fulfilling Life
-tags: business
+tags:
+  - entrepreneurship
 permalink: /should-you-ignore-controversey/
 published: true
 comments: true

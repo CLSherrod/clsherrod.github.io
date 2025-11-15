@@ -4,7 +4,8 @@ date: 2008-01-06
 last_modified_at: 2024-03-12
 categories:
 - Living a Fulfilling Life
-tags: business
+tags:
+  - entrepreneurship
 permalink: /keep-moving-forward/
 published: true
 comments: true
