@@ -7,7 +7,7 @@ categories:
 tags:
   - travel
   - travel
-  - news
+  - updates
 permalink: /latin-jazz-pool-mexican-lifestyle/
 excerpt: My last day in Playa del Carmen.
 ---

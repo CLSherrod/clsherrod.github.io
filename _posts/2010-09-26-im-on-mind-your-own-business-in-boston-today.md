@@ -6,7 +6,7 @@ date: 2010-09-26
 categories:
 - Living a Fulfilling Life
 tags:
-  - news
+  - updates
   - entrepreneurship
 permalink: /im-on-mind-your-own-business-in-boston-today/
 published: true

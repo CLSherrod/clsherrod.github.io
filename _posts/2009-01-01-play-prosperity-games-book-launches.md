@@ -5,7 +5,7 @@ categories:
   - Living a Fulfilling Life
 tags:
   - review
-  - news
+  - updates
 permalink: /play-prosperity-games-book-launches/
 published: true
 excerpt: My book came out today.

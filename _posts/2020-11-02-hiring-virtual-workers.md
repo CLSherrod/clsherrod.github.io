@@ -7,7 +7,7 @@ categories:
 tags:
   - entrepreneurship
   - review
-  - news
+  - updates
 permalink: /hiring-virtual-workers/
 comments: true
 excerpt: My new book Hiring Virtual Workers For Small Business is published

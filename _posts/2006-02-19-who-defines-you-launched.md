@@ -4,7 +4,7 @@ date: 2006-02-19
 categories:
   - Living a Fulfulling Life
 tags:
-  - news
+  - updates
 permalink: /who-defines-you-launched/
 published: true
 excerpt: Launched web design firm website

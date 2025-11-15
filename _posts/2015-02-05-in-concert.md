@@ -5,7 +5,7 @@ categories:
   - "Lifestyle & Travel"
 tags:
   - music
-  - news
+  - updates
 permalink: /in-concert/
 published: true
 ---

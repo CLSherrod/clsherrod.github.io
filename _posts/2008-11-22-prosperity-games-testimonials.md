@@ -5,7 +5,7 @@ last_modified_at: 2023-10-03
 categories:
   - Living a Fulfilling Life
 tags:
-  - news
+  - updates
   - entrepreneurship
 permalink: /play-prosperity-games-party-testimonials/
 ---

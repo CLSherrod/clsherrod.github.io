@@ -8,7 +8,7 @@ tags:
   - meaning
   - entrepreneurship
   - review
-  - news
+  - updates
 permalink: /play-prosperity-games-kindle/
 ---
 Now that my privately printed book is presently on Amazon Kindle, and it comes with a name change.

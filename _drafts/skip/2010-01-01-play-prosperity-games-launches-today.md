@@ -6,7 +6,7 @@ categories:
   - Essays
 tags:
   - entrepreneurship
-  - news
+  - updates
 permalink: /play-prosperity-games-launches-today/
 excerpt: My book has been updated again.
 ---

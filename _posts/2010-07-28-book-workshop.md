@@ -6,7 +6,7 @@ categories:
 tags:
   - review
   - entrepreneurship
-  - news
+  - updates
 permalink: /play-prosperity-games-workshop/
 published: true
 excerpt: Play Prosperity Games Workshop

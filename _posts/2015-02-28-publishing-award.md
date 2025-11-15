@@ -4,7 +4,7 @@ date: 2015-02-28
 categories:
   - Business & Entrepreneurship
 tags:
-  - news
+  - updates
 permalink: /publishing-award/
 published: true
 excerpt: I won a publishing award

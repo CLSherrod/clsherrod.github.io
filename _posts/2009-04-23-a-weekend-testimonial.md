@@ -6,7 +6,7 @@ categories:
   - Living a Fulfilling Life
 tags:
   - entrepreneurship
-  - news
+  - updates
 permalink: /a-weekend-testimonial/
 ---
 I did a Prosperity Game Saturday in front of over 50 people.  Here is a testimonial from an attendee.
