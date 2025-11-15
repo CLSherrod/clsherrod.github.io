@@ -4,7 +4,8 @@ date: 2007-01-12
 last_modified_at: 2024-03-11
 categories:
 - Living a Fulfilling Life
-tags: success
+tags:
+- real-success
 permalink: /prosperity/
 published: true
 comments: true
