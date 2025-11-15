@@ -125,7 +125,7 @@ footer:
   links:
     - label: "Newsletter"
       icon: "fa-solid fa-envelope"
-      url: "https://christophersherrod.com/#newsletter/"
+      url: "https://christophersherrod.com/#newsletter"
     - label: "Explore"
       icon: "fa-solid fa-slash"
       url: "https://christophersherrod.com/explore/"
