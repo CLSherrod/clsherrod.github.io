@@ -6,7 +6,6 @@ categories:
 - Essays
 tags:
 - travel
-- travel
 meta:
   _edit_last: '1'
   _wpas_done_all: '1'

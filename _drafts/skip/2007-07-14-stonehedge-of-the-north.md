@@ -8,7 +8,6 @@ categories:
 - Essays
 tags:
 - travel
-- travel
 permalink: "/stonehedge-of-the-north/"
 ---
 <p><a title="Arbor Low" href="http://www.flickr.com/photos/eaglechris/809291791/" rel="nofollow"><img src="{{ site.baseurl }}/posts/2007/07/809291791_bb7573d6a1_m.jpg" alt="IMG_1160" width="240" height="180" align="right" /></a>We visited the stonehedge of the North today.</p>
