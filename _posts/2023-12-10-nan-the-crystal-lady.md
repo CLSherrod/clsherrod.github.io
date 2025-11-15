@@ -2,7 +2,7 @@
 title: Nan the Crystal Lady - Poem
 date: 2023-12-10
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

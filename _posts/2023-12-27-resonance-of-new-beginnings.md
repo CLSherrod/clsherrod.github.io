@@ -3,7 +3,7 @@ title: Resonance of New Beginnings - Poem
 date: 2023-12-27
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

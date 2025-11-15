@@ -3,7 +3,7 @@ title: Love's Journey - Nineteen Years and Counting - Poem
 date: 2024-02-28
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

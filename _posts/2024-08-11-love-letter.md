@@ -2,7 +2,7 @@
 title: "A Heartfelt Love Letter to My Soulmate: Celebrating Our Timeless Connection"
 date: 2024-08-11
 categories:
-- Poems
+- Creativity & Writing
 tags:
 - fulfilling-life
 teaser: /assets/images/poems/love-letter.webp

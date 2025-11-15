@@ -3,7 +3,7 @@ title: Silent Joy - Poem
 date: 2024-06-10
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

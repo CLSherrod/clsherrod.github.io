@@ -3,7 +3,7 @@ title: Palm trees - Poem
 date: 2024-02-29
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - poem
 teaser: /assets/images/poems/palm-trees.webp

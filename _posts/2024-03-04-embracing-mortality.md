@@ -3,7 +3,7 @@ title: Embracing Mortality - Poem
 date: 2024-03-04
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

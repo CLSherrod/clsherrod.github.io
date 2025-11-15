@@ -3,7 +3,7 @@ title: Silencing Interruptions - Poem
 date: 2024-03-12
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

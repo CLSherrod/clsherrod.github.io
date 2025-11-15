@@ -2,7 +2,7 @@
 title: Live Your Best Life - Poem
 date: 2024-09-26
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - poem
 permalink: /live-your-best-life/

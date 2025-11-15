@@ -2,7 +2,7 @@
 title: Spring Water - Poem
 date: 2024-07-03
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - poem
 permalink: /spring-water/

@@ -3,7 +3,7 @@ title: Life Between the Waves - Poem
 date: 2024-02-20
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

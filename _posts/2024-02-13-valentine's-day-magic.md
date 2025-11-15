@@ -3,7 +3,7 @@ title: Valentine's Day Magic - Poem
 date: 2024-02-13
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

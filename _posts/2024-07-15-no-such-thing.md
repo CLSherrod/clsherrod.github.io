@@ -2,7 +2,7 @@
 title: No Such Thing - Poem
 date: 2024-07-15
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

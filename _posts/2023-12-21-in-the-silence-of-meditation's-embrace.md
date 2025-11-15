@@ -3,7 +3,7 @@ title: In the Silence of Meditation's Embrace - Poem
 date: 2023-12-21
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

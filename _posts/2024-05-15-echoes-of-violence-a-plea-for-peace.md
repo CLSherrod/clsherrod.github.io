@@ -3,7 +3,7 @@ title: "Echoes of Violence: A Plea for Peace - Poem"
 date: 2024-05-15
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

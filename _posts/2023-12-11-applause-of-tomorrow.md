@@ -3,7 +3,7 @@ title: Applause of Tomorrow - Poem
 date: 2023-12-11
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

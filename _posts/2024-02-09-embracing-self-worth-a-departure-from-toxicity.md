@@ -3,7 +3,7 @@ title: "Embracing Self-Worth: A Departure from Toxicity - Poem"
 date: 2024-02-09
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

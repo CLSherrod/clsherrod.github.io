@@ -3,7 +3,7 @@ title: "To Be: The Only Answer - Poem"
 date: 2024-05-20
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - fulfilling-life
   - poem

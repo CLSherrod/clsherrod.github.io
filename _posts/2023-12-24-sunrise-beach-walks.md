@@ -3,7 +3,7 @@ title: Sunrise Beach Walks - Poem
 date: 2023-12-24
 published: true
 categories:
-  - Poems
+  - Creativity & Writing
 tags:
   - poem
 permalink: /sunrise-beach-walks/
