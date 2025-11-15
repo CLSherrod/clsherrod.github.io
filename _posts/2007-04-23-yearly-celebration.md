@@ -3,7 +3,7 @@ title: Yearly Celebration
 date: 2007-04-23
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /yearly-celebration/

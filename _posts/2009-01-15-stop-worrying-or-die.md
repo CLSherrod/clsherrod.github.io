@@ -3,7 +3,7 @@ title: Stop Worrying or Die
 date: 2009-01-15
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /stop-worrying-or-die/

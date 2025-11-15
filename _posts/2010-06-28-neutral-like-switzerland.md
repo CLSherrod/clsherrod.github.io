@@ -3,7 +3,7 @@ title: Neutral like Switzerland
 date: 2010-06-28
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /neutral-like-switzerland/

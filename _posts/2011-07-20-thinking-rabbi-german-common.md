@@ -3,7 +3,7 @@ title: Thinking, Rabbi, and German - What do they have in common?
 date: 2011-07-20
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /thinking-rabbi-german-common/

@@ -3,7 +3,7 @@ title: How To Handle No Response People
 date: 2009-10-19
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /how-to-handle-no-response-people/

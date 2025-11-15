@@ -2,7 +2,7 @@
 title: My Friend Died And We Are Loved
 date: 2015-07-25
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
   - tribute

@@ -3,7 +3,7 @@ title: Never give up with RE/MAX co-founder
 date: 2013-06-22
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /remax-cofounder/

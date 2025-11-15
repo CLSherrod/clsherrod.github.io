@@ -4,7 +4,7 @@ date: 2013-12-11
 published: true
 comments: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - tribute
 permalink: /nelson-mandela-hero/

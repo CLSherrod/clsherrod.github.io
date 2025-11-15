@@ -2,7 +2,7 @@
 title: Who Defines You Launched
 date: 2006-02-19
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - updates
 permalink: /who-defines-you-launched/

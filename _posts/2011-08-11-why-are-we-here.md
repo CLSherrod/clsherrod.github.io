@@ -3,7 +3,7 @@ title: Why are we here?
 date: 2011-08-11
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 permalink: /why-are-we-here/
 ---
 Why?

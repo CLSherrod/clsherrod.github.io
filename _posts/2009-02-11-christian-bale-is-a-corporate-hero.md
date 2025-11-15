@@ -3,7 +3,7 @@ title: Christian Bale is a corporate hero
 date: 2009-02-11
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /christian-bale-is-a-corporate-hero/

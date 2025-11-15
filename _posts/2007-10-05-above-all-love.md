@@ -2,7 +2,7 @@
 title: Above All Is Love
 date: 2007-10-05
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /above-all-love/

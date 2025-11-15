@@ -2,7 +2,7 @@
 title: Saw Genesis In Concert Finally
 date: 2007-07-08
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - music
 permalink: /genesis-in-concert/

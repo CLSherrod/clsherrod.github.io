@@ -2,7 +2,7 @@
 title: "The Power of Letting Go: Why Not Caring What Others Think is One of Life's Greatest Lessons"
 date: 2025-01-07
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /power-of-letting-go/

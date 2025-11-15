@@ -3,7 +3,7 @@ title: Missing The Father of Guerilla Marketing
 date: 2013-10-11
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - tribute
 permalink: /jayconradlevinson/

@@ -3,7 +3,7 @@ title: Growing forward
 date: 2007-08-21
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /growing-forward/

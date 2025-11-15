@@ -4,7 +4,7 @@ date: 2005-08-01
 published: true
 comments: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - review
   - meaning

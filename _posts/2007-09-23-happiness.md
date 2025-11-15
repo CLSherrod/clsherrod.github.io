@@ -3,7 +3,7 @@ title: Happiness
 date: 2007-09-23
 last_updated: 2024-07-30
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /happiness/

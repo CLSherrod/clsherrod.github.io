@@ -3,7 +3,7 @@ title: A Daily Guide To Creativity And New Ideas
 date: 2008-07-30
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /a-daily-guide-to-creativity-and-new-ideas/

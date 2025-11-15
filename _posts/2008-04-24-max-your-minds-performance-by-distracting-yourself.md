@@ -3,7 +3,7 @@ title: Max Your Minds Performance by Distracting Yourself
 date: 2008-04-24
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 meta:

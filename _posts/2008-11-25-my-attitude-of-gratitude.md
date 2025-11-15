@@ -3,7 +3,7 @@ title: My attitude of gratitude
 date: 2008-11-25
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /my-attitude-of-gratitude/

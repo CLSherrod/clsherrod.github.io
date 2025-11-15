@@ -3,7 +3,7 @@ title: Realization
 date: 2006-05-13 05:03:48
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /realization/

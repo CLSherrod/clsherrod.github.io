@@ -4,7 +4,7 @@ date: 2015-03-24
 date_updated: 2024-07-30
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /leading-with-heart-and-being-strong/

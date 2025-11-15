@@ -3,7 +3,7 @@ title: Email checklist
 date: 2008-06-24
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /email-checklist/

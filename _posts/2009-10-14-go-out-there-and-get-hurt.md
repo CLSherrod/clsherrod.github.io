@@ -3,7 +3,7 @@ title: Go out there and get hurt
 date: 2009-10-14
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /go-out-there-and-get-hurt/

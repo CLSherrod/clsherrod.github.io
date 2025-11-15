@@ -3,7 +3,7 @@ title: How to Remember Dreams
 date: 2008-08-03
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /how-to-remember-dreams-wikihow/

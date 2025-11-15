@@ -2,7 +2,7 @@
 title: The Power of Gratitude
 date: 2007-11-27
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /the-power-of-gratitude/

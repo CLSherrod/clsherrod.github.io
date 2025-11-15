@@ -4,7 +4,7 @@ date: 2011-11-27
 published: true
 comments: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - tribute
 permalink: /tribute-jerry-hicks-abrahamhicks/

@@ -3,7 +3,7 @@ title: How To Screw Your Reputation Like BP
 date: 2010-06-04 09:53:07.000000000 -05:00
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /screw-reputation-bp/

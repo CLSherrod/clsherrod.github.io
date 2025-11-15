@@ -3,7 +3,7 @@ title: Johnny Carson The Hero
 date: 2013-07-14
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - tribute
 permalink: /johnny-carson/

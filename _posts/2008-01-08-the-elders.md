@@ -3,7 +3,7 @@ title: The Elders
 date: 2008-01-08
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /the-elders/

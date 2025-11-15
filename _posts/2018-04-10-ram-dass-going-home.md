@@ -3,7 +3,7 @@ title: "Ram Dass: Going Home"
 date: 2018-04-10
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - tribute
   - meaning

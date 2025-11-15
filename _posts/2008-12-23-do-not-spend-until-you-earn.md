@@ -3,7 +3,7 @@ title: Do Not Spend Until You Earn
 date: 2008-12-23
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
 permalink: /do-not-spend-until-you-earn/

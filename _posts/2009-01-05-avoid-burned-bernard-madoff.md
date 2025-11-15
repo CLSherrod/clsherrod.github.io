@@ -3,7 +3,7 @@ title: How to Avoid Getting Burned by the Next Bernard Madoff
 date: 2009-01-05
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - real-success
 permalink: /avoid-burned-bernard-madoff/

@@ -5,7 +5,7 @@ date: 2025-03-17
 preview: Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
   - meaning

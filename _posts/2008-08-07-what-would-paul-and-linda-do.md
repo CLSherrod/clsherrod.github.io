@@ -3,7 +3,7 @@ title: What would Paul and Linda do?
 date: 2008-08-07
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /what-would-paul-and-linda-do/

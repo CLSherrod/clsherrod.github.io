@@ -3,7 +3,7 @@ title: Life Is Good Cofounder The Hero
 date: 2013-09-07
 published: true
 categories:
-  - Living a Fulfulling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /life-good-cofounder-hero/
