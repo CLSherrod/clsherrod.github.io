@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /playing-money-game/
 ---
 If you lose all your money, it sucks. But, it's not the end of the world. You get another opportunity to get right back in the game.

@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /dreaming-my-solution/
 ---
 Last year I had a dream where I knew exactly how to create a product and it would take less than 2 hours for everything.

@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /christian-bale-is-a-corporate-hero/
 ---
 An interesting point of view on the Christian Bale rant.

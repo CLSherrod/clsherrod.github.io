@@ -7,7 +7,7 @@ preview: "Nonviolent Communication: A Book That Helped Me Live More Peacefully"
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
   - review
 toc: true
 permalink: /nonviolent-communication/

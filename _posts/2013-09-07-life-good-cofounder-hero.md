@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /life-good-cofounder-hero/
 ---
 I recently meet Bert Jacobs the cofounder of [Life Is Good](http://lifeisgood.com).

@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- fulfilling-life
+- meaning
 permalink: "/whos-afraid-of-prosperity/"
 ---
 I use to listen to people that believed in a million conspiracies.  Some I know are true.  A vast majority are not I believe.  I saw these people become more and more broke.  If you made money you were hurting everyone and feeding the "system".  If you were broke it was good.  I never really understand their logic.

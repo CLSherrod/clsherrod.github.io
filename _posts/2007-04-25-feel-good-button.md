@@ -6,7 +6,7 @@ comments: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /feel-good-button/
 excerpt: I got a button that simply says "Feel Good Button" on it for my birthday.
 ---

@@ -5,7 +5,7 @@ published: true
 categories:
   - "Lifestyle & Travel"
 tags:
-  - fulfilling-life
+  - meaning
   - travel
 permalink: /living-miami-vice-lifestyle-without-the-drugs/
 ---

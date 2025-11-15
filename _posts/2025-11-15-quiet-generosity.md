@@ -6,7 +6,7 @@ preview: "Quiet Generosity: The New Face of Philanthropy"
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
   - philanthropy
 toc: true
 permalink: /quiet-generosity/

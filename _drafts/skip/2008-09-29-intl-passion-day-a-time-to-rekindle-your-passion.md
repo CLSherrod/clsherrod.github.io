@@ -6,7 +6,7 @@ categories:
 - Essays
 tags:
 - business
-- fulfilling-life
+- meaning
 permalink: "/intl-passion-day-a-time-to-rekindle-your-passion/"
 ---
 <a href="http://www.thepassiontest.com/offer/home/?af=na" rel="nofollow"><img class="alignright" title="The Passion Test" src="http://www.thepassiontest.com/images/database/830.jpg" alt="" width="156" height="240" / rel="nofollow"/></a>Chris and Janet Attwood are probably the most knowledgeable, most impressive, and most practical experts I know on what it takes to discover and live your passions.

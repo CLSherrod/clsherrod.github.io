@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
   - tribute
 permalink: /latest-article-about-my-friend-dying-has-been-picked-up-by-good-men-project/
 ---

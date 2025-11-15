@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /marriage-equality/
 ---
 he last three days have been some of the most emotional days in my life.

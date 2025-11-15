@@ -4,7 +4,7 @@ date: 2007-10-05
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /above-all-love/
 excerpt: Do your business in the name of love.
 published: true

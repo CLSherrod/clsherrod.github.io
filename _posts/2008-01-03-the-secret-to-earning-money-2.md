@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /the-secret-to-earning-money/
 ---
 When I first learned of Prosperity Consciousness it snapped for me right away. I love it. Just learning the concept changed me.

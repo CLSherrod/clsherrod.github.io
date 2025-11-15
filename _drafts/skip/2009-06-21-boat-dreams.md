@@ -5,7 +5,7 @@ published: true
 categories:
 - Essays
 tags:
-- fulfilling-life
+- meaning
 permalink: "/boat-dreams/"
 ---
 I wanted a new goal to reach this last week. I only had one big dream, moving to Paris in 2012 but I needed another big dream in between. I started to get interested in boats again. Back in the mid 90's while at American Express my entire cubicle was filled with pictures of sailboats. I wanted to own a 45 foot sailboat in the Caribbean and have <a href="http://www.moorings.com/">The Moorings</a> rent it out for me.

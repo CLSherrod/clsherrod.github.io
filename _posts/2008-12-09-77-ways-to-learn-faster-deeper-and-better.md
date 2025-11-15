@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /77-ways-to-learn-faster-deeper-and-better/
 ---
 I've become interested in life hacking my brain lately.  Here is a 74 techniques I found interesting.

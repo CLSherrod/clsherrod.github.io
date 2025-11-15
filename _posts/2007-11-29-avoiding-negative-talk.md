@@ -4,7 +4,7 @@ date: 2007-11-29
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /avoiding-negative-talk/
 published: true
 excerpt: Have you ever noticed that successful people are positive and unsuccessful people are negative.

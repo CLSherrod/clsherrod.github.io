@@ -6,7 +6,7 @@ preview: '"The Let Them Theory” by Mel Robbins Helps You Let Go and Take Back 
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
   - review
 toc: true
 permalink: /let-them-theory-mel-robbins-review/

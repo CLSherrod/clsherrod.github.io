@@ -6,7 +6,7 @@ preview: "The Real Secret to Consistency: Be Realistic, Not Relentless"
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
 toc: true
 permalink: /consistency/
 published: false

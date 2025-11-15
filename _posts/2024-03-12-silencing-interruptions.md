@@ -5,7 +5,7 @@ published: true
 categories:
   - Creativity & Writing
 tags:
-  - fulfilling-life
+  - meaning
   - poem
 permalink: /silencing-interruptions/
 excerpt: Poem about silencing interruptions while being creative.

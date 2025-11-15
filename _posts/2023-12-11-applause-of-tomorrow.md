@@ -5,7 +5,7 @@ published: true
 categories:
   - Creativity & Writing
 tags:
-  - fulfilling-life
+  - meaning
   - poem
 permalink: /applause-of-tomorrow/
 excerpt: Poem about my future self looking back at me now.

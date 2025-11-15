@@ -6,7 +6,7 @@ preview: Why I Don’t Care About Slow Living or Fast Living — I Care About Fe
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
 toc: true
 permalink: /fulfilled-not-fast-or-slow/
 published: true

@@ -5,7 +5,7 @@ published: true
 categories:
   - Creativity & Writing
 tags:
-  - fulfilling-life
+  - meaning
   - poem
 teaser: /assets/images/poems/silent-joy.webp
 header:

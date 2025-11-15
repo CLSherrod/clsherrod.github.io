@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /what-constitutes-abundance/
 ---
 Not what we have but what we enjoy, constitutes our abundance. - John Petit-Senn<

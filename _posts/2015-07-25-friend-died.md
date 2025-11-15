@@ -4,7 +4,7 @@ date: 2015-07-25
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
   - tribute
 published: true
 permalink: /friend-died/

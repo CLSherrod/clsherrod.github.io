@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /boyfriend-girlfriend-partner-its-all-the-same/
 excerpt: Boyfriend/Girlfriend, Husband/Wife, Domestic Partner are all old terms for what is really a Partner.
 ---

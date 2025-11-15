@@ -5,7 +5,7 @@ published: true
 categories:
   - Creativity & Writing
 tags:
-  - fulfilling-life
+  - meaning
   - poem
 permalink: /alive-in-gratitude/
 excerpt: Poem about being gratiful for life.

@@ -13,7 +13,7 @@ url: https://christophersherrod.com/radical-acceptance/
 created: 2025-04-14
 last:
 tags:
-  - fulfilling-life
+  - meaning
 ---
 ## Title
 The Entrepreneur's Guide to Radical Acceptance: Why Fighting Reality Is Killing Your Business

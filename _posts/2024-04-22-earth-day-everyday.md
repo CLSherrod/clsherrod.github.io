@@ -5,7 +5,7 @@ last_modified_at: 2024-05-01
 categories:
 - Living a Fulfilling Life
 tags:
-- fulfilling-life
+- meaning
 permalink: /earth-day-everyday/
 published: true
 comments: true

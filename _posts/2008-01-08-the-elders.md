@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /the-elders/
 ---
 Richard Branson along with Peter Gabriel started The Elders.  A great idea.  They are people the world trust and are free from politica, military and economic pressures.

@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /yearly-celebration/
 excerpt: I had one of two birthday parties last night.
 ---

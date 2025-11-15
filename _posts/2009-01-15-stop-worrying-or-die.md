@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /stop-worrying-or-die/
 ---
 Stop worrying about doing everything.  Stop worrying about things beyond your control. Stop worrying about what some people think about you.

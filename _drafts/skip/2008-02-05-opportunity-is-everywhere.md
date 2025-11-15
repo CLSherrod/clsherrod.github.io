@@ -6,7 +6,7 @@ categories:
 - Essays
 tags:
 - clean technologies
-- fulfilling-life
+- meaning
 - Virgin Group
 permalink: "/opportunity-is-everywhere/"
 ---

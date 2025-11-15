@@ -6,7 +6,7 @@ comments: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
   - review
 permalink: /peaceful-warrior/
 excerpt: My review of a Peaceful Warrior movie

@@ -4,7 +4,7 @@ date: 2024-07-09T16:22:02.149Z
 categories:
   - Creativity & Writing
 tags:
-  - fulfilling-life
+  - meaning
   - poem
 permalink: /insomniac-solitude/
 published: true

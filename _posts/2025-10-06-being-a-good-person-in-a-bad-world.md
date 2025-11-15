@@ -6,7 +6,7 @@ date: 2025-10-06
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
 toc: true
 permalink: /being-good-in-a-bad-world/
 published: false

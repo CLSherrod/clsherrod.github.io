@@ -6,7 +6,7 @@ comments: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
   - review
 permalink: /happy-for-no-reason-7-steps-to-being-happy-from-the-inside-out/
 ---

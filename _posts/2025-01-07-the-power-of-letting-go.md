@@ -4,7 +4,7 @@ date: 2025-01-07
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /power-of-letting-go/
 published: true
 toc: true

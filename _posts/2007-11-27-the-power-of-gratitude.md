@@ -4,7 +4,7 @@ date: 2007-11-27
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /the-power-of-gratitude/
 published: true
 excerpt: Being more grateful more often makes us happier and more optimistic.

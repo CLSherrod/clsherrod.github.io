@@ -6,7 +6,7 @@ preview: The Power That Everyone Believes In
 categories:
   - Living a Fulfilling Life
 tags:
-  - fulfilling-life
+  - meaning
   - spirituality
 toc: true
 permalink: /the-power-that-everyone-believes-in/

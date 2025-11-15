@@ -5,7 +5,7 @@ published: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /top-5-tips-moving-stress-free/
 ---
 I just moved to Austin Texas.  I've moved a lot and the stress of moving used to be almost to much for me.  I hated the actual moving.  I loved the new place feeling and getting rid of old stuff I didn't need anymore.

@@ -6,7 +6,7 @@ categories:
   - Creativity & Writing
 tags:
   - poem
-  - fulfilling-life
+  - meaning
 teaser: /assets/images/poems/moments-unwrapped.webp
 header:
   image: /assets/images/poems/moments-unwrapped.webp

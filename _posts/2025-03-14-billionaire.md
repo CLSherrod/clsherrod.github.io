@@ -8,7 +8,7 @@ categories:
   - Living a Fulfulling Life
 tags:
   - business
-  - fulfilling-life
+  - meaning
 permalink: /billionaires/
 excerpt: Quit Worshipping Billionaires, Influencers and Egomaniacs—They Don’t Care About You
 toc: true

@@ -5,7 +5,7 @@ published: true
 categories:
   - Business & Entrepreneurship
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /richard-branson-if-pay-deal-isnt-enough-quit/
 ---
 Some times when your employees ask for more than you can afford to profitably run your business you have to put your foot down.  Richard Branson just did that with Virgin Atlantic staff as they threaten to strike.  The bottom line comes first.  Richard Branson is well know to treat staff very very well but he can't if their demands hurt the financial ability of the company.

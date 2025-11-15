@@ -6,7 +6,7 @@ comments: true
 categories:
   - Living a Fulfulling Life
 tags:
-  - fulfilling-life
+  - meaning
 permalink: /truth-beauty-freedom-love/
 excerpt: I live by these ideals.  Truth, Beauty, Freedom and above all Love.
 ---
