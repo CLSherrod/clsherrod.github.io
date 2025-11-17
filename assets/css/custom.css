@@ -1,5 +1,5 @@
 /* =========================================
-   CORE + GLOBAL RESET
+   Core Layout + Resets
 ========================================= */
 
 html {
@@ -17,26 +17,23 @@ body {
   max-width: 100%;
 }
 
-/* Anchor offset for hash links */
+/* Full-bleed constraint */
+.full-bleed > .wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+/* Anchor scroll offset */
 :target {
   scroll-margin-top: 100px;
 }
 
-/* Wrapper constraint */
-.full-bleed > .wrapper,
-.wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-  box-sizing: border-box;
-}
-
 /* =========================================
-   BUTTON INTERACTIONS
+   Button Interaction
 ========================================= */
 
-#submit,
-.newsletter-submit {
+#submit {
   transition:
     background-color 0.3s ease,
     transform 0.2s ease,
@@ -44,65 +41,82 @@ body {
 }
 
 #submit:hover,
-#submit:focus-visible,
-.newsletter-submit:hover {
+#submit:focus-visible {
   background-color: #0284c7;
   transform: scale(1.03);
 }
 
 #submit:focus-visible {
   outline: none;
-  box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.35);
+  box-shadow: 0 0 0 3px rgba(185, 75, 75, 0.35);
 }
 
 /* =========================================
-   INTRO SECTION
+   Full-Bleed Sections Base
+========================================= */
+
+.full-bleed {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+/* =========================================
+   Intro Section
 ========================================= */
 
 #intro {
-  background-color: #f1f7f6;
+  background-color: #f2fbf9; /* warmer than silver */
   padding: 2.5rem 1.75rem;
   border-radius: 12px;
-  margin: 1.5rem auto 2.5rem;
-}
-
-#intro p {
-  font-size: 1rem;
-  line-height: 1.55;
-  margin-bottom: 1rem;
+  margin-top: 1rem;
+  margin-bottom: 2.5rem;
 }
 
 #intro p:last-of-type {
   margin-bottom: 0.75rem;
 }
 
-#intro a {
-  display: inline-block;
-  text-decoration: underline;
-  text-underline-offset: 2px;
-  color: #0284c7;
+#intro p {
+  font-size: 0.95rem;
+  line-height: 1.45;
+  margin-bottom: 0.9rem;
 }
 
-/* Mobile intro */
-@media (max-width: 600px) {
-  #intro {
-    padding: 1.75rem 1.25rem;
-  }
+#intro a {
+  display: inline-block;
+  margin-left: 0.5rem;
+  text-indent: 0.25rem;
+}
+
+#intro p a {
+  line-height: 1.65;
+  text-decoration: underline;
 }
 
 /* =========================================
-   MANIFESTO SECTION
+   Manifesto Section (with subtle shadow)
 ========================================= */
 
 #manifesto {
   background-color: #f8faf9;
   border-radius: 12px;
-  padding: 3rem 2rem;
-  margin: 3rem auto;
+  padding: 2.75rem 1.75rem;
+  margin: 3rem auto 3rem;
   max-width: 720px;
   line-height: 1.68;
   color: #1a1a1a;
-  border-left: 4px solid #40e0d0;
+  border-left: 3px solid #40e0d0;
+
+  /* subtle lift */
+  box-shadow:
+    0 3px 8px rgba(0, 0, 0, 0.04),
+    0 8px 20px rgba(0, 0, 0, 0.06);
 }
 
 #manifesto h2,
@@ -112,8 +126,8 @@ body {
   color: #0284c7;
 }
 
-#manifesto p {
-  margin-bottom: 1.25rem;
+#manifesto p:first-of-type {
+  margin-top: 0.75rem;
 }
 
 #manifesto a {
@@ -129,137 +143,105 @@ body {
 /* Mobile manifesto */
 @media (max-width: 600px) {
   #manifesto {
-    padding: 2rem 1.5rem;
+    padding: 2rem 1.25rem;
     margin: 2.5rem 0;
   }
 }
 
 /* =========================================
-   NEWSLETTER SECTION
+   Newsletter Section
 ========================================= */
 
 #newsletter {
   background-color: #40e0d0;
-  text-align: center;
   color: #000;
-  padding: 3rem 1rem 4rem;
-  margin: 3.5rem 0;
+  text-align: center;
+  margin-top: 3rem;
+  padding: 3rem 1rem;
 }
 
-/* Title */
 #newsletter h2 {
-  font-size: 1.65rem;
+  font-size: 1.6rem;
   margin-bottom: 1rem;
   font-weight: 700;
 }
 
-/* Form container */
-#newsletterForm {
-  max-width: 620px;
-  margin: 0 auto;
-  padding: 1.75rem;
-  background-color: #e7fcf9;
-  border-radius: 12px;
-
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.25rem;
-  justify-content: center;
-}
-
-/* Inputs */
-#newsletterForm input[type="text"],
-#newsletterForm input[type="email"] {
-  width: 100%;
-  padding: 0.75rem;
-  border: 2px solid #0284c7;
-  border-radius: 6px;
-  font-size: 1rem;
-  box-sizing: border-box;
-}
-
-/* Submit Button */
-#newsletterForm #submit {
-  background-color: #ffffff;
-  border: 2px solid #0284c7;
-  padding: 0.9rem 2.2rem;
-  border-radius: 100px;
-  width: 100%;
-  max-width: 400px;
-  font-size: 1.25rem;
-  font-weight: 600;
-  cursor: pointer;
-}
-
-/* Disclaimer */
-.newsletter-disclaimer {
-  display: block;
-  margin-top: 0.75rem;
-  font-size: 0.8rem;
-  line-height: 1.4;
-  color: #444;
-  font-style: italic;
-}
-
-/* Honeypot */
-.cf-honeypot {
-  position: absolute !important;
-  left: -9999px !important;
-  opacity: 0 !important;
-  width: 1px !important;
-  height: 1px !important;
-}
-
-/* Mobile newsletter */
-@media (max-width: 480px) {
-  #newsletterForm {
-    padding: 1.25rem;
-  }
-}
-
 /* =========================================
-   ESSAYS SECTION
+   Essays Section (Improved styling)
 ========================================= */
 
 #essays {
   background-color: #fafafa;
   border-top: 1px solid #e6ecec;
   padding: 3rem 1rem;
+  border-radius: 12px;
 }
 
 #essays h2 {
-  font-size: 1.75rem;
+  font-size: 1.9rem;
   margin-bottom: 0.75rem;
-  color: #0284c7;
-  font-weight: 700;
 }
 
 #essays p {
-  margin-bottom: 1.25rem;
-  line-height: 1.6;
+  margin-bottom: 1.2rem;
+  color: #444;
 }
 
-#essays ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
+/* essay list items */
 #essays ul li {
-  margin-bottom: 1.75rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.5rem;
   line-height: 1.55;
+}
+
+#essays ul li b {
+  display: block;
+  font-size: 1.05rem;
+  margin-bottom: 0.25rem;
+}
+
+/* category label */
+#essays ul li b::before {
+  content: "• ";
+  color: #0284c7;
+  font-weight: bold;
 }
 
 #essays ul li a {
   color: #0284c7;
   text-decoration: underline;
-  text-underline-offset: 2px;
+  text-underline-offset: 3px;
 }
 
-#essays ul li a:hover {
-  color: #0369a1;
+#essays ul li i {
+  color: #666;
+  font-size: 0.9rem;
 }
 
 /* =========================================
-   END
+   Mobile Spacing & Typography
 ========================================= */
+
+@media (max-width: 600px) {
+  #intro {
+    padding: 1.75rem 1.25rem;
+  }
+
+  #essays {
+    padding: 2.25rem 1rem;
+  }
+
+  #essays h2 {
+    font-size: 1.6rem;
+  }
+
+  #essays ul li {
+    margin-top: 1.4rem;
+  }
+
+  #manifesto {
+    box-shadow:
+      0 2px 6px rgba(0, 0, 0, 0.05),
+      0 5px 14px rgba(0, 0, 0, 0.08);
+  }
+}
