@@ -86,6 +86,46 @@ body {
   }
 }
 
+/* === Manifesto Section Styling === */
+#manifesto {
+  background-color: #f8faf9; /* soft warm-neutral background */
+  border-radius: 10px; /* gentle rounded corners */
+  padding: 2.75rem 1.75rem; /* balanced inner spacing */
+  margin: 3.5rem auto 3rem; /* breathing room above/below */
+  max-width: 720px; /* easier reading width */
+  line-height: 1.65; /* relaxed, readable text */
+  color: #1a1a1a; /* warm dark gray text */
+  border-left: 4px solid #40e0d0; /* subtle turquoise accent bar */
+}
+
+/* Manifesto headings (if inside the section) */
+#manifesto h2,
+#manifesto h3 {
+  margin-top: 0;
+  font-weight: 700;
+  color: #0284c7; /* deep turquoise for emphasis */
+}
+
+/* Links inside manifesto */
+#manifesto a {
+  color: #0284c7;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+#manifesto a:hover {
+  color: #0369a1; /* darker hover tone */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+  #manifesto {
+    padding: 2rem 1.25rem;
+    margin: 2.5rem 0;
+    border-left-width: 3px;
+  }
+}
+
 /* Pillars Section */
 #pillars {
   border-top: 1px solid #e3f4f1; /* light turquoise grey */
