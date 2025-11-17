@@ -6,11 +6,9 @@ main:
   - title: "Writer"
     url: /writer/
     children:
-      - title: "Books"
-        url: /books/
+      - title: "Book"
+        url: /book/
         children:
-          - title: "Unplug"
-            url: /unplug/
           - title: "How To Create New Business Ideas Based On What You Love"
             url: /book/business-ideas/
       - title: "Essays"
