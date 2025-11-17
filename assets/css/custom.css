@@ -312,3 +312,101 @@ body {
     margin-top: 1.4rem;
   }
 }
+
+/* =========================================
+   Newsletter – Hard Overrides
+   (These win against earlier global rules)
+========================================= */
+
+/* Stop the global .page__content background from killing turquoise here */
+.page__content .newsletter-container {
+  background-color: #6fdad1 !important;
+}
+
+/* Make sure this stays centered and constrained */
+.page__content .newsletter-container {
+  max-width: 650px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding: 3rem 1.75rem !important;
+  border-radius: 14px;
+  text-align: center;
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+}
+
+/* Heading: actually big */
+.page__content .newsletter-title {
+  font-size: 2.6rem !important;
+  font-weight: 800 !important;
+  line-height: 1.2 !important;
+  margin-bottom: 1rem !important;
+  text-align: center !important;
+  color: #000 !important;
+}
+
+/* Intro text */
+.page__content .newsletter-intro {
+  font-size: 1.1rem !important;
+  line-height: 1.55 !important;
+  margin-bottom: 2rem !important;
+}
+
+/* Fields: full-width, neat */
+.page__content .newsletter-field {
+  text-align: left !important;
+  margin-bottom: 1.25rem !important;
+}
+
+.page__content .newsletter-field label {
+  display: block !important;
+  font-size: 0.95rem !important;
+  font-weight: 600 !important;
+  margin-bottom: 0.35rem !important;
+}
+
+.page__content .newsletter-field input {
+  width: 100% !important;
+  padding: 0.9rem 1rem !important;
+  border-radius: 8px !important;
+  border: 1px solid #d8d8d8 !important;
+  font-size: 1rem !important;
+  box-sizing: border-box !important;
+}
+
+/* Submit button: full width, proper CTA */
+.page__content .newsletter-submit-wrapper {
+  margin-top: 1.25rem !important;
+}
+
+.page__content .newsletter-submit {
+  display: block !important;
+  width: 100% !important;
+  padding: 1rem 1rem !important;
+  font-size: 1.1rem !important;
+  font-weight: 700 !important;
+  background-color: #000 !important;
+  color: #fff !important;
+  border-radius: 8px !important;
+  border: none !important;
+  cursor: pointer !important;
+  transition: background 0.25s ease !important;
+}
+
+.page__content .newsletter-submit:hover {
+  background-color: #333 !important;
+}
+
+/* Disclaimer */
+.page__content .newsletter-disclaimer {
+  font-size: 0.85rem !important;
+  color: #333 !important;
+  margin-top: 1rem !important;
+  text-align: center !important;
+}
+
+/* Hide honeypot visually */
+.page__content .cf-honeypot-wrapper {
+  position: absolute !important;
+  left: -9999px !important;
+  visibility: hidden !important;
+}
