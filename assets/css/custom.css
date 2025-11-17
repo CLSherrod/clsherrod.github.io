@@ -11,9 +11,9 @@ body {
   overflow-x: hidden;
 }
 
+/* Prevent elements from breaking layout */
 .page__content,
 .page__content * {
-  background-color: #fcfefe;
   max-width: 100%;
 }
 
@@ -71,7 +71,7 @@ body {
 ========================================= */
 
 #intro {
-  background-color: #f2fbf9; /* warmer than silver */
+  background-color: #f2fbf9;
   padding: 2.5rem 1.75rem;
   border-radius: 12px;
   margin-top: 1rem;
@@ -100,20 +100,19 @@ body {
 }
 
 /* =========================================
-   Manifesto Section (with subtle shadow)
+   Manifesto Section
 ========================================= */
 
 #manifesto {
   background-color: #f8faf9;
   border-radius: 12px;
   padding: 2.75rem 1.75rem;
-  margin: 3rem auto 3rem;
+  margin: 3rem auto;
   max-width: 720px;
   line-height: 1.68;
   color: #1a1a1a;
   border-left: 3px solid #40e0d0;
 
-  /* subtle lift */
   box-shadow:
     0 3px 8px rgba(0, 0, 0, 0.04),
     0 8px 20px rgba(0, 0, 0, 0.06);
@@ -145,6 +144,10 @@ body {
   #manifesto {
     padding: 2rem 1.25rem;
     margin: 2.5rem 0;
+
+    box-shadow:
+      0 2px 6px rgba(0, 0, 0, 0.05),
+      0 5px 14px rgba(0, 0, 0, 0.08);
   }
 }
 
@@ -156,18 +159,109 @@ body {
   background-color: #40e0d0;
   color: #000;
   text-align: center;
-  margin-top: 3rem;
   padding: 3rem 1rem;
+  margin-top: 3rem;
 }
 
-#newsletter h2 {
-  font-size: 1.6rem;
-  margin-bottom: 1rem;
+.newsletter-container {
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+.newsletter-title {
+  font-size: 1.9rem;
   font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.newsletter-intro {
+  font-size: 1.1rem;
+  line-height: 1.55;
+  margin-bottom: 2rem;
+}
+
+/* Fields */
+.newsletter-field {
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+.newsletter-field label {
+  font-weight: 600;
+  margin-bottom: 4px;
+  display: block;
+}
+
+.newsletter-field input {
+  width: 100%;
+  padding: 12px;
+  border: 2px solid #0284c7;
+  border-radius: 6px;
+  font-size: 1rem;
+  box-sizing: border-box;
+}
+
+/* Honeypot hidden */
+.cf-honeypot-wrapper {
+  position: absolute !important;
+  left: -9999px !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
+
+.cf-honeypot {
+  visibility: hidden !important;
+}
+
+/* Submit button */
+.newsletter-submit-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 1rem;
+}
+
+.newsletter-submit {
+  padding: 0.9rem 2.2rem;
+  font-size: 1.3rem;
+  font-weight: 600;
+  border-radius: 100px;
+  border: 2px solid #0284c7;
+  background: white;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.newsletter-submit:hover,
+.newsletter-submit:focus-visible {
+  background-color: #0284c7;
+  color: white;
+  transform: scale(1.03);
+}
+
+/* Disclaimer */
+.newsletter-disclaimer {
+  font-size: 0.75rem;
+  margin-top: 1rem;
+  opacity: 0.8;
+}
+
+/* Mobile newsletter */
+@media (max-width: 600px) {
+  #newsletter {
+    padding: 2rem 1rem;
+  }
+
+  .newsletter-title {
+    font-size: 1.6rem;
+  }
+
+  .newsletter-intro {
+    font-size: 1rem;
+  }
 }
 
 /* =========================================
-   Essays Section (Improved styling)
+   Essays Section
 ========================================= */
 
 #essays {
@@ -187,7 +281,7 @@ body {
   color: #444;
 }
 
-/* essay list items */
+/* list items */
 #essays ul li {
   margin-top: 1.8rem;
   margin-bottom: 0.5rem;
@@ -200,7 +294,7 @@ body {
   margin-bottom: 0.25rem;
 }
 
-/* category label */
+/* category dot */
 #essays ul li b::before {
   content: "• ";
   color: #0284c7;
@@ -218,15 +312,8 @@ body {
   font-size: 0.9rem;
 }
 
-/* =========================================
-   Mobile Spacing & Typography
-========================================= */
-
+/* essays mobile */
 @media (max-width: 600px) {
-  #intro {
-    padding: 1.75rem 1.25rem;
-  }
-
   #essays {
     padding: 2.25rem 1rem;
   }
@@ -237,11 +324,5 @@ body {
 
   #essays ul li {
     margin-top: 1.4rem;
-  }
-
-  #manifesto {
-    box-shadow:
-      0 2px 6px rgba(0, 0, 0, 0.05),
-      0 5px 14px rgba(0, 0, 0, 0.08);
   }
 }
