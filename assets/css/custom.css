@@ -58,11 +58,18 @@ body {
 }
 
 /* Sections */
+.header-cta {
+  padding: 0.85rem 1.5rem;
+  font-size: 1.1rem;
+  border-radius: 100px;
+}
+
 @media (max-width: 600px) {
   #intro {
     background-color: silver;
     padding: 1.5rem 1rem;
     border-radius: 6px;
+    margin-top: 1rem;
     margin-bottom: 2.5rem;
   }
 
