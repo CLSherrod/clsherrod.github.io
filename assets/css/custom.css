@@ -82,6 +82,7 @@ body {
 
   /* Improve the → link line visually */
   #intro p a {
+    line-height: 1.6;
     text-decoration: underline;
   }
 }
@@ -116,6 +117,10 @@ body {
 
 #manifesto a:hover {
   color: #0369a1; /* darker hover tone */
+}
+
+#manifesto p:first-of-type {
+  margin-top: 0.75rem;
 }
 
 /* Mobile responsiveness */
@@ -156,6 +161,7 @@ body {
   background-color: #40e0d0;
   color: #000;
   text-align: center;
+  margin-top: 3rem;
   padding: 3rem 1rem;
 }
 
@@ -231,5 +237,6 @@ body {
 }
 
 #essays ul li {
+  margin-top: 3rem;
   margin-bottom: 0.5rem;
 }
