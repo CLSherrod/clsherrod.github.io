@@ -10,7 +10,7 @@ permalink: /create-ideas-bestseller/
 ---
 Yesterday was a great day.
 
-My book [How To Create New Business Ideas]](/business-ideas/)  became a bestseller on Tuesday.
+My book [How To Create New Business Ideas]](/book/business-ideas/) became a bestseller on Tuesday.
 
 That's two bestsellers I have in the last 8 days.
 

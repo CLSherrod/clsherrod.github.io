@@ -12,7 +12,7 @@ permalink: /play-prosperity-games-is-on-kindle/
 ---
 My book <a href="http://www.amazon.com/gp/product/B0044KM13Q?ie=UTF8&amp;tag=abundaunlimi-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0044KM13Q" rel="nofollow">
 
-["Play Prosperity Games" is now on the Kindle](/business-ideas/). You can read it on your Kindle, PC, iPhone, iPad, and any Android device.
+["Play Prosperity Games" is now on the Kindle](/book/business-ideas/). You can read it on your Kindle, PC, iPhone, iPad, and any Android device.
 
 Imagine doing what you Love and making money! It"s possible! True passion for what you do creates endless energy and you are a magnet for success. You now hold in your hands the key to that success!
 

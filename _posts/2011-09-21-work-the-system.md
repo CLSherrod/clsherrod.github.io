@@ -53,5 +53,5 @@ Carpenter's method is particularly relevant in today's entrepreneurial landscape
 Learn more at [Work The System website](https://www.workthesystem.com).
 
 ## Additional Resources
-- Read my book on [How To Create New Business Ideas Based On What You Love](/business-ideas/#additonal-resources)
+- Read my book on [How To Create New Business Ideas Based On What You Love](/book/business-ideas/#additonal-resources)
 - My article on [The Power of Quick Implementation in a Fast-Paced World](/implement-quickly/)

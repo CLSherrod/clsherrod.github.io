@@ -31,9 +31,9 @@ My biggest influences have been spiritual teachers and two entrepreneurial mento
 I penned down my business philosophy, dubbed the [Dolphin Entrepreneur](/dolphin-entrepreneur/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
 
 ### Writing  
-My book, [How To Create New Business Ideas Based On What You Love](/business-ideas/), provide practical guidance for those seeking to build a business that supports their ideal lifestyle.  
+My book, [How To Create New Business Ideas Based On What You Love](/book/business-ideas/), provide practical guidance for those seeking to build a business that supports their ideal lifestyle.  
 
-I'm currently writing a course [Digital Declutter: 4 Steps to a Low-EMF, High-Energy Life](/unplug/), exploring his experience with electronic sensitivity and how to live a balanced, low-tech life in an increasingly digital world.  
+I'm currently writing a course **Digital Declutter: 4 Steps to a Low-EMF, High-Energy Life**, exploring his experience with electronic sensitivity and how to live a balanced, low-tech life in an increasingly digital world.  
 
 Beyond clients, courses, books and making art, I share insights through [blog post essays](/blog), and [poetry](/categories/#poems) offering real-world lessons on self-improvement, lifestyle design, and the mindset shifts needed for true success.  
 

@@ -25,4 +25,4 @@ Grab your copy now and get a great start to the new year with a new business ide
 - Lesson #9: Learn how to track your ideas
 - Lesson #10: Learn how to rank your ideas.
 
-[Buy my book](/business-ideas/) today.
+[Buy my book](/book/business-ideas/) today.

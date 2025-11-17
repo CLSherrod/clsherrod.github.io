@@ -5,4 +5,4 @@ title: Implement Quickly
 permalink: /implement/
 ---
 ## Implement Quicky and Test
-Thank you for reading my book. Goto [Additional Resources for my book](/business-ideas#additonal-resources).
+Thank you for reading my book. Goto [Additional Resources for my book](/book/business-ideas#additonal-resources).

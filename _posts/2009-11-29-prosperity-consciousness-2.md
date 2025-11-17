@@ -21,5 +21,5 @@ Many fears throughout life are so natural that we assume we cannot alter them.  
 - It is safe to think things can be easy.
 - Affirmations can reprogram your subsciousness
 - Five accounts and how they reprogram your subsciousness
-- Play [Prosperity Games](/business-ideas/) to create new business ideas
+- Play [Prosperity Games](/book/business-ideas/) to create new business ideas
 - Be in a [Mastermind Group](/masterminds).

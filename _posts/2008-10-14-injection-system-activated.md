@@ -14,4 +14,4 @@ Many are finally pursuing their dream of their own business.  And many really g
 
 Virgin America, partially owned by Richard Branson is going to get a cash injection soon.  Richard Branson thinks that some major US airlines are not going to survive and he want to take advantage of it to expand quickly.  Who would you rather fly with an airlines about to go bust and flight attendants that are depressed or a well managed airlines with happy flight attendants and kick ass customer service?
 
-If you don't have extra cash you can still turn your inject system on.  Your idea injection system.  I use mine [How To Create New Business Ideas Based On What You Love](/business-ideas) and I'm implementing new ideas every week.
+If you don't have extra cash you can still turn your inject system on.  Your idea injection system.  I use mine [How To Create New Business Ideas Based On What You Love](/book/business-ideas) and I'm implementing new ideas every week.

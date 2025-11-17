@@ -34,6 +34,6 @@ Nan Akasha has been so supportive. As many of you know we are partners in a busi
 
 I want to encourage you to be bold and take bold moves. Kill yourself off when you are not happy and be reborn. Do what makes you enjoy life and don't think you can't make money at it. I know a lot of people that are rich and unhappy. It's not fun. You can have both. Go for the lifestyle you want. Kill yourself and be reborn into the person you want to be, not what you have turned out to be or what others want you to be like. It's so worth it and it makes more money because it is based on what turns you on so you'll actually give your all.
 
-I wrote a book about creating new business ideas years ago and recently I changed the name of the book from  *Play Prosperity Games to [How To Create Business Ideas](/business-ideas/) to better reflect what it is about, I also updated the book and added a bonus. I myself went thru the process recently and came up with three ideas which I'll be working on one at a time.
+I wrote a book about creating new business ideas years ago and recently I changed the name of the book from  *Play Prosperity Games to [How To Create Business Ideas](/book/business-ideas/) to better reflect what it is about, I also updated the book and added a bonus. I myself went thru the process recently and came up with three ideas which I'll be working on one at a time.
 
 Go for the lifestyle you want. Give yourself permission to start fresh.
