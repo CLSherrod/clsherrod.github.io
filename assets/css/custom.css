@@ -6,7 +6,8 @@ html {
   scroll-behavior: smooth;
 }
 
-html, body {
+html,
+body {
   overflow-x: hidden;
 }
 
@@ -102,31 +103,29 @@ html, body {
 }
 
 /* Mobile intro adjustments */
-@media (max-width: 600px) {
-  #intro {
-    background-color: silver;
-    padding: 1.5rem 1rem;
-    border-radius: 6px;
-    margin-top: 1rem;
-    margin-bottom: 2.5rem;
-  }
+#intro {
+  background-color: silver;
+  padding: 1.5rem 1rem;
+  border-radius: 6px;
+  margin-top: 1rem;
+  margin-bottom: 2.5rem;
+}
 
-  #intro p {
-    font-size: 0.95rem;
-    line-height: 1.45;
-    margin-bottom: 0.9rem;
-  }
+#intro p {
+  font-size: 0.95rem;
+  line-height: 1.45;
+  margin-bottom: 0.9rem;
+}
 
-  #intro a {
-    display: inline-block;
-    margin-left: 0.5rem;
-    text-indent: 0.25rem;
-  }
+#intro a {
+  display: inline-block;
+  margin-left: 0.5rem;
+  text-indent: 0.25rem;
+}
 
-  #intro p a {
-    line-height: 1.65;
-    text-decoration: underline;
-  }
+#intro p a {
+  line-height: 1.65;
+  text-decoration: underline;
 }
 
 /* =========================================
@@ -226,64 +225,71 @@ html, body {
   max-width: 600px;
   margin: 0 auto;
 
-/* Newsletter CTA Button */
-.newsletter-submit {
-  display: inline-block;
-  padding: 0.9rem 2.2rem;
-  font-size: 1rem;
-  font-weight: 600;
-  white-space: nowrap;
-  border: none;
-  border-radius: 0.5rem;
-  background-color: #0ea5e9;
-  color: #ffffff;
-  cursor: pointer;
-  width: auto;
-  min-width: 240px;
-  text-align: center;
-  transition:
-    background-color 0.2s ease,
-    transform 0.1s ease;
-}
-
-.newsletter-submit:hover {
-  background-color: #0284c7;
-  transform: translateY(-1px);
-}
-
-.newsletter-submit:active {
-  transform: translateY(0);
-}
-
-/* Newsletter disclaimer */
-.newsletter-disclaimer {
-  display: block;
-  margin-top: 0.75rem;
-  font-size: 0.8rem;
-  line-height: 1.4;
-  color: var(--color-gray-500, #6b7280);
-  font-style: italic;
-  opacity: 0.9;
-}
-
-/* Cloudflare honeypot field — keep for security, hide from humans */
-.cf-honeypot {
-  position: absolute !important;
-  left: -9999px !important;
-  width: 1px !important;
-  height: 1px !important;
-  opacity: 0 !important;
-  pointer-events: none !important;
-}
-
-/* Optional: tighten turquoise banner padding on small screens */
-@media (max-width: 480px) {
-  #newsletterForm {
-    padding: 16px !important;
+  /* Newsletter CTA Button */
+  .newsletter-submit {
+    display: inline-block;
+    padding: 0.9rem 2.2rem;
+    font-size: 1rem;
+    font-weight: 600;
+    white-space: nowrap;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: #0ea5e9;
+    color: #ffffff;
+    cursor: pointer;
+    width: auto;
+    min-width: 240px;
+    text-align: center;
+    transition:
+      background-color 0.2s ease,
+      transform 0.1s ease;
   }
-}
 
-#essays ul li {
-  margin-top: 3rem;
-  margin-bottom: 0.5rem;
+  .newsletter-submit:hover {
+    background-color: #0284c7;
+    transform: translateY(-1px);
+  }
+
+  .newsletter-submit:active {
+    transform: translateY(0);
+  }
+
+  /* Newsletter disclaimer */
+  .newsletter-disclaimer {
+    display: block;
+    margin-top: 0.75rem;
+    font-size: 0.8rem;
+    line-height: 1.4;
+    color: var(--color-gray-500, #6b7280);
+    font-style: italic;
+    opacity: 0.9;
+  }
+
+  /* Cloudflare honeypot field — keep for security, hide from humans */
+  .cf-honeypot {
+    position: absolute !important;
+    left: -9999px !important;
+    width: 1px !important;
+    height: 1px !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+  }
+
+  /* Optional: tighten turquoise banner padding on small screens */
+  @media (max-width: 480px) {
+    #newsletterForm {
+      padding: 16px !important;
+    }
+  }
+
+  /* =========================================
+   Essays Section
+========================================= */
+  #essays {
+    background-color: #fafafa;
+  }
+  #essays ul li {
+    margin-top: 3rem;
+    margin-bottom: 0.5rem;
+  }
 }
