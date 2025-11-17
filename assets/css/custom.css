@@ -1,11 +1,12 @@
-/* === Interaction styles and responsive tweaks === */
-/* html, body, page wrapper */
+/* =========================================
+   Core Layout + Resets
+========================================= */
+
 html {
   scroll-behavior: smooth;
 }
 
-html,
-body {
+html, body {
   overflow-x: hidden;
 }
 
@@ -14,19 +15,22 @@ body {
   max-width: 100%;
 }
 
-/* Constrain inner content */
+/* Full-bleed constraint */
 .full-bleed > .wrapper {
   max-width: 1200px;
   margin: 0 auto;
   padding: 2rem 1rem;
 }
 
-/* header */
+/* Anchor scroll offset */
 :target {
-  scroll-margin-top: 100px; /* adjust to your header height */
+  scroll-margin-top: 100px;
 }
 
-/* Button interaction */
+/* =========================================
+   Button Interaction
+========================================= */
+
 #submit {
   transition:
     background-color 0.3s ease,
@@ -45,7 +49,10 @@ body {
   box-shadow: 0 0 0 3px rgba(185, 75, 75, 0.35);
 }
 
-/* === FULL-BLEED SECTIONS === */
+/* =========================================
+   Full-Bleed Sections Base
+========================================= */
+
 .full-bleed {
   position: relative;
   left: 50%;
@@ -57,13 +64,44 @@ body {
   overflow-x: hidden;
 }
 
-/* Sections */
+/* Ensures all content sections have breathing room */
+#intro,
+#manifesto,
+#pillars,
+#start {
+  width: 100%;
+  padding: 3rem 0;
+}
+
+/* If wrappers exist inside these, match them to the section style */
+#intro .wrapper,
+#manifesto .wrapper,
+#pillars .wrapper,
+#start .wrapper {
+  background-color: inherit;
+  border-radius: inherit;
+  padding: 2rem 1.5rem;
+}
+
+/* =========================================
+   Header CTA
+========================================= */
+
 .header-cta {
   padding: 0.85rem 1.5rem;
   font-size: 1.1rem;
   border-radius: 100px;
 }
 
+/* =========================================
+   Intro Section
+========================================= */
+
+#intro p:last-of-type {
+  margin-bottom: 0.75rem;
+}
+
+/* Mobile intro adjustments */
 @media (max-width: 600px) {
   #intro {
     background-color: silver;
@@ -73,49 +111,50 @@ body {
     margin-bottom: 2.5rem;
   }
 
-  /* Responsive text size */
   #intro p {
-    font-size: 0.95rem; /* slightly smaller on mobile */
-    line-height: 1.45; /* tighter, but still readable */
-    margin-bottom: 0.9rem; /* cleaner paragraph spacing */
+    font-size: 0.95rem;
+    line-height: 1.45;
+    margin-bottom: 0.9rem;
   }
 
-  /* Indentation for links */
   #intro a {
     display: inline-block;
-    margin-left: 0.5rem; /* slight visual indent */
+    margin-left: 0.5rem;
     text-indent: 0.25rem;
   }
 
-  /* Improve the → link line visually */
   #intro p a {
-    line-height: 1.6;
+    line-height: 1.65;
     text-decoration: underline;
   }
 }
 
-/* === Manifesto Section Styling === */
+/* =========================================
+   Manifesto Section
+========================================= */
+
 #manifesto {
-  background-color: #f8faf9; /* soft warm-neutral background */
-  border-radius: 10px; /* gentle rounded corners */
-  padding: 2.75rem 1.75rem; /* balanced inner spacing */
-  margin: 3.5rem auto 3rem; /* breathing room above/below */
-  max-width: 720px; /* easier reading width */
-  line-height: 1.65; /* relaxed, readable text */
-  color: #1a1a1a; /* warm dark gray text */
-  border-left: 4px solid #40e0d0; /* subtle turquoise accent bar */
+  background-color: #f8faf9;
+  border-radius: 10px;
+  padding: 2.75rem 1.75rem;
+  margin: 3.5rem auto 3rem;
+  max-width: 720px;
+  line-height: 1.68;
+  color: #1a1a1a;
+  border-left: 3px solid #40e0d0;
 }
 
-/* Manifesto headings (if inside the section) */
 #manifesto h2,
 #manifesto h3 {
-  margin-top: 0.5;
-  margin-bottom: 1.25rem;
+  margin: 0 0 1.25rem;
   font-weight: 700;
-  color: #0284c7; /* deep turquoise for emphasis */
+  color: #0284c7;
 }
 
-/* Links inside manifesto */
+#manifesto p:first-of-type {
+  margin-top: 0.75rem;
+}
+
 #manifesto a {
   color: #0284c7;
   text-decoration: underline;
@@ -123,33 +162,31 @@ body {
 }
 
 #manifesto a:hover {
-  color: #0369a1; /* darker hover tone */
+  color: #0369a1;
 }
 
-#manifesto p:first-of-type {
-  margin-top: 0.75rem;
-}
-
-/* Mobile responsiveness */
+/* Mobile manifesto */
 @media (max-width: 600px) {
   #manifesto {
     padding: 2rem 1.25rem;
     margin: 2.5rem 0;
-    border-left-width: 3px;
   }
 }
 
-/* Pillars Section */
+/* =========================================
+   Pillars Section
+========================================= */
+
 #pillars {
-  border-top: 1px solid #e3f4f1; /* light turquoise grey */
-  background-color: #f8faf9; /* soft white-green neutral */
+  background-color: #f8faf9;
+  border-top: 1px solid #e3f4f1;
   border-radius: 12px;
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
 }
 
-/* Responsive: stack the pillars on mobile */
+/* Mobile: stack pillars */
 @media (max-width: 768px) {
   #pillars {
     grid-template-columns: 1fr;
@@ -157,13 +194,20 @@ body {
   }
 }
 
+/* =========================================
+   Start Section
+========================================= */
+
 #start {
-  background-color: #f8faf9; /* soft white-green neutral */
-  border-top: 1px solid #e3f4f1; /* light turquoise grey */
+  background-color: #f8faf9;
+  border-top: 1px solid #e3f4f1;
   border-radius: 12px;
 }
 
-/* === Newsletter Section === */
+/* =========================================
+   Newsletter Section
+========================================= */
+
 #newsletter {
   background-color: #40e0d0;
   color: #000;
@@ -181,10 +225,6 @@ body {
 #newsletterForm {
   max-width: 600px;
   margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  gap: 1rem;
-}
 
 /* Newsletter CTA Button */
 .newsletter-submit {
