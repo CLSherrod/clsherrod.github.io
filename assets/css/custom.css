@@ -13,6 +13,7 @@ body {
 
 .page__content,
 .page__content * {
+  background-color: #fcfefe;
   max-width: 100%;
 }
 
@@ -98,17 +99,16 @@ body {
    Intro Section
 ========================================= */
 
-#intro p:last-of-type {
-  margin-bottom: 0.75rem;
-}
-
-/* Mobile intro adjustments */
 #intro {
   background-color: silver;
-  padding: 1.5rem 1rem;
-  border-radius: 6px;
+  padding: 2.5rem 1.75rem;
+  border-radius: 12px;
   margin-top: 1rem;
   margin-bottom: 2.5rem;
+}
+
+#intro p:last-of-type {
+  margin-bottom: 0.75rem;
 }
 
 #intro p {
@@ -287,6 +287,8 @@ body {
 ========================================= */
   #essays {
     background-color: #fafafa;
+    border-top: 1px solid #e6ecec;
+    padding-top: 2.5rem;
   }
   #essays ul li {
     margin-top: 3rem;
