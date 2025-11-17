@@ -1,5 +1,5 @@
 /* =========================================
-   Core Layout + Resets
+   CORE + GLOBAL RESET
 ========================================= */
 
 html {
@@ -17,23 +17,26 @@ body {
   max-width: 100%;
 }
 
-/* Full-bleed constraint */
-.full-bleed > .wrapper {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
-
-/* Anchor scroll offset */
+/* Anchor offset for hash links */
 :target {
   scroll-margin-top: 100px;
 }
 
+/* Wrapper constraint */
+.full-bleed > .wrapper,
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  box-sizing: border-box;
+}
+
 /* =========================================
-   Button Interaction
+   BUTTON INTERACTIONS
 ========================================= */
 
-#submit {
+#submit,
+.newsletter-submit {
   transition:
     background-color 0.3s ease,
     transform 0.2s ease,
@@ -41,104 +44,65 @@ body {
 }
 
 #submit:hover,
-#submit:focus-visible {
+#submit:focus-visible,
+.newsletter-submit:hover {
   background-color: #0284c7;
   transform: scale(1.03);
 }
 
 #submit:focus-visible {
   outline: none;
-  box-shadow: 0 0 0 3px rgba(185, 75, 75, 0.35);
+  box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.35);
 }
 
 /* =========================================
-   Full-Bleed Sections
-========================================= */
-
-.full-bleed {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  width: 100vw;
-  box-sizing: border-box;
-  overflow-x: hidden;
-}
-
-#intro,
-#manifesto,
-#pillars,
-#start {
-  width: 100%;
-  padding: 3rem 0;
-}
-
-#intro .wrapper,
-#manifesto .wrapper,
-#pillars .wrapper,
-#start .wrapper {
-  background-color: inherit;
-  border-radius: inherit;
-  padding: 2rem 1.5rem;
-}
-
-/* =========================================
-   Header CTA
-========================================= */
-
-.header-cta {
-  padding: 0.85rem 1.5rem;
-  font-size: 1.1rem;
-  border-radius: 100px;
-}
-
-/* =========================================
-   Intro Section
+   INTRO SECTION
 ========================================= */
 
 #intro {
-  background-color: silver;
+  background-color: #f1f7f6;
   padding: 2.5rem 1.75rem;
   border-radius: 12px;
-  margin-top: 1rem;
-  margin-bottom: 2.5rem;
+  margin: 1.5rem auto 2.5rem;
+}
+
+#intro p {
+  font-size: 1rem;
+  line-height: 1.55;
+  margin-bottom: 1rem;
 }
 
 #intro p:last-of-type {
   margin-bottom: 0.75rem;
 }
 
-#intro p {
-  font-size: 0.95rem;
-  line-height: 1.45;
-  margin-bottom: 0.9rem;
-}
-
 #intro a {
   display: inline-block;
-  margin-left: 0.5rem;
-  text-indent: 0.25rem;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  color: #0284c7;
 }
 
-#intro p a {
-  line-height: 1.65;
-  text-decoration: underline;
+/* Mobile intro */
+@media (max-width: 600px) {
+  #intro {
+    padding: 1.75rem 1.25rem;
+  }
 }
 
 /* =========================================
-   Manifesto Section
+   MANIFESTO SECTION
 ========================================= */
 
 #manifesto {
   background-color: #f8faf9;
-  border-radius: 10px;
-  padding: 2.75rem 1.75rem;
-  margin: 3.5rem auto 3rem;
+  border-radius: 12px;
+  padding: 3rem 2rem;
+  margin: 3rem auto;
   max-width: 720px;
   line-height: 1.68;
   color: #1a1a1a;
-  border-left: 3px solid #40e0d0;
+  border-left: 4px solid #40e0d0;
 }
 
 #manifesto h2,
@@ -148,8 +112,8 @@ body {
   color: #0284c7;
 }
 
-#manifesto p:first-of-type {
-  margin-top: 0.75rem;
+#manifesto p {
+  margin-bottom: 1.25rem;
 }
 
 #manifesto a {
@@ -165,132 +129,137 @@ body {
 /* Mobile manifesto */
 @media (max-width: 600px) {
   #manifesto {
-    padding: 2rem 1.25rem;
+    padding: 2rem 1.5rem;
     margin: 2.5rem 0;
   }
 }
 
 /* =========================================
-   Pillars Section
-========================================= */
-
-#pillars {
-  background-color: #f8faf9;
-  border-top: 1px solid #e3f4f1;
-  border-radius: 12px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-}
-
-/* Mobile: stack pillars */
-@media (max-width: 768px) {
-  #pillars {
-    grid-template-columns: 1fr;
-    padding: 2rem 1rem;
-  }
-}
-
-/* =========================================
-   Start Section
-========================================= */
-
-#start {
-  background-color: #f8faf9;
-  border-top: 1px solid #e3f4f1;
-  border-radius: 12px;
-}
-
-/* =========================================
-   Newsletter Section
+   NEWSLETTER SECTION
 ========================================= */
 
 #newsletter {
   background-color: #40e0d0;
-  color: #000;
   text-align: center;
-  margin-top: 3rem;
-  padding: 3rem 1rem;
+  color: #000;
+  padding: 3rem 1rem 4rem;
+  margin: 3.5rem 0;
 }
 
+/* Title */
 #newsletter h2 {
-  font-size: 1.6rem;
+  font-size: 1.65rem;
   margin-bottom: 1rem;
   font-weight: 700;
 }
 
+/* Form container */
 #newsletterForm {
-  max-width: 600px;
+  max-width: 620px;
   margin: 0 auto;
+  padding: 1.75rem;
+  background-color: #e7fcf9;
+  border-radius: 12px;
+
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  justify-content: center;
 }
 
-/* Newsletter CTA Button */
-.newsletter-submit {
-  display: inline-block;
-  padding: 0.9rem 2.2rem;
+/* Inputs */
+#newsletterForm input[type="text"],
+#newsletterForm input[type="email"] {
+  width: 100%;
+  padding: 0.75rem;
+  border: 2px solid #0284c7;
+  border-radius: 6px;
   font-size: 1rem;
+  box-sizing: border-box;
+}
+
+/* Submit Button */
+#newsletterForm #submit {
+  background-color: #ffffff;
+  border: 2px solid #0284c7;
+  padding: 0.9rem 2.2rem;
+  border-radius: 100px;
+  width: 100%;
+  max-width: 400px;
+  font-size: 1.25rem;
   font-weight: 600;
-  white-space: nowrap;
-  border: none;
-  border-radius: 0.5rem;
-  background-color: #0ea5e9;
-  color: #ffffff;
   cursor: pointer;
-  min-width: 240px;
-  text-align: center;
-  transition:
-    background-color 0.2s ease,
-    transform 0.1s ease;
 }
 
-.newsletter-submit:hover {
-  background-color: #0284c7;
-  transform: translateY(-1px);
-}
-
-.newsletter-submit:active {
-  transform: translateY(0);
-}
-
-/* Newsletter disclaimer */
+/* Disclaimer */
 .newsletter-disclaimer {
   display: block;
   margin-top: 0.75rem;
   font-size: 0.8rem;
   line-height: 1.4;
-  color: var(--color-gray-500, #6b7280);
+  color: #444;
   font-style: italic;
-  opacity: 0.9;
 }
 
 /* Honeypot */
 .cf-honeypot {
   position: absolute !important;
   left: -9999px !important;
+  opacity: 0 !important;
   width: 1px !important;
   height: 1px !important;
-  opacity: 0 !important;
-  pointer-events: none !important;
 }
 
-/* Mobile newsletter form padding */
+/* Mobile newsletter */
 @media (max-width: 480px) {
   #newsletterForm {
-    padding: 16px !important;
+    padding: 1.25rem;
   }
 }
 
 /* =========================================
-   Essays Section
+   ESSAYS SECTION
 ========================================= */
 
 #essays {
   background-color: #fafafa;
   border-top: 1px solid #e6ecec;
-  padding-top: 2.5rem;
+  padding: 3rem 1rem;
+}
+
+#essays h2 {
+  font-size: 1.75rem;
+  margin-bottom: 0.75rem;
+  color: #0284c7;
+  font-weight: 700;
+}
+
+#essays p {
+  margin-bottom: 1.25rem;
+  line-height: 1.6;
+}
+
+#essays ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 #essays ul li {
-  margin-top: 3rem;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1.75rem;
+  line-height: 1.55;
 }
+
+#essays ul li a {
+  color: #0284c7;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+#essays ul li a:hover {
+  color: #0369a1;
+}
+
+/* =========================================
+   END
+========================================= */
