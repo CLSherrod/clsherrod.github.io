@@ -63,7 +63,7 @@ body {
     background-color: silver;
     padding: 1.5rem 1rem;
     border-radius: 6px;
-    margin-bottom: 1.5rem;
+    margin-bottom: 2.5rem;
   }
 
   /* Responsive text size */
@@ -101,7 +101,8 @@ body {
 /* Manifesto headings (if inside the section) */
 #manifesto h2,
 #manifesto h3 {
-  margin-top: 0;
+  margin-top: 0.5;
+  margin-bottom: 1.25rem;
   font-weight: 700;
   color: #0284c7; /* deep turquoise for emphasis */
 }
@@ -227,4 +228,8 @@ body {
   #newsletterForm {
     padding: 16px !important;
   }
+}
+
+#essays ul li {
+  margin-bottom: 0.5rem;
 }
