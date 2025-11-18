@@ -132,4 +132,8 @@
   }
 </script>
 
+{% if page.custom-css %}
+<link rel="stylesheet" href="{{ page.custom-css | relative_url }}" />
+{% endif %}
+
 <!-- end combined head snippets -->
