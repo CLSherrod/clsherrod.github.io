@@ -516,3 +516,56 @@ footer a:hover {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+
+/* -----------------------------------------
+   Full-Bleed Turquoise Newsletter Banner
+----------------------------------------- */
+
+#newsletter.full-bleed {
+  background-color: #6fdad1 !important;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+/* Inner wrapper should be plain, centered, readable */
+#newsletter .newsletter-container {
+  background: none !important; /* remove turquoise here */
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 0 1.25rem;
+  text-align: center;
+}
+
+/* Typography remains controlled */
+#newsletter .newsletter-title {
+  font-size: 2.6rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+}
+
+#newsletter .newsletter-intro {
+  font-size: 1.1rem;
+  margin-bottom: 2rem;
+  line-height: 1.55;
+}
+
+/* Inputs full width */
+#newsletter .newsletter-field input {
+  width: 100%;
+  padding: 0.9rem 1rem;
+  border-radius: 8px;
+  border: 1px solid #d8d8d8;
+}
+
+/* Submit button full width */
+#newsletter .newsletter-submit {
+  width: 100% !important;
+  padding: 1rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  background-color: #000;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+  margin-top: 1.25rem;
+}
