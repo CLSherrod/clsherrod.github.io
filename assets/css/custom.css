@@ -1,4 +1,47 @@
 /* =========================================
+   Brand Tokens (CSS Variables)
+========================================= */
+
+:root {
+  /* Core */
+  --cs-black: #000000;
+  --cs-white: #ffffff;
+
+  /* Backgrounds */
+  --cs-page-bg: #fcfefe;
+  --cs-soft-bg: #f2fbf9;
+  --cs-soft-turquoise: #e0f7f4;
+
+  /* Turquoise family */
+  --cs-turquoise: #6fdad1; /* primary turquoise */
+  --cs-turquoise-accent: #2ec7c0;
+  --cs-turquoise-deep: #0284c7;
+  --cs-turquoise-deeper: #0369a1;
+
+  /* Neutrals */
+  --cs-gray-50: #f9fafb;
+  --cs-gray-100: #f3f4f6;
+  --cs-gray-300: #d1d5db;
+  --cs-gray-500: #6b7280;
+  --cs-gray-600: #4b5563;
+  --cs-gray-700: #374151;
+  --cs-gray-800: #1f2937;
+
+  /* Text */
+  --cs-text-main: #1a1a1a;
+  --cs-text-muted: #4b5563;
+
+  /* Buttons */
+  --cs-btn-bg: #000000;
+  --cs-btn-hover: #111827;
+
+  /* Shadows */
+  --cs-shadow-card: 0 4px 18px rgba(0, 0, 0, 0.12);
+  --cs-shadow-soft-1: 0 3px 8px rgba(0, 0, 0, 0.04);
+  --cs-shadow-soft-2: 0 8px 20px rgba(0, 0, 0, 0.06);
+}
+
+/* =========================================
    Core Layout + Resets
 ========================================= */
 
@@ -12,16 +55,9 @@ body {
 }
 
 /* Unified page content wrapper */
-.page__content {
-  padding: 0.5em 0.5rem;
-  background-color: #fcfefe;
-  max-width: 100%;
-}
-
-/* Legacy alias – remove once HTML only uses .page__content */
 .page_content {
   padding: 0.5em 0.5rem;
-  background-color: #fcfefe;
+  background-color: var(--cs-page-bg);
   max-width: 100%;
 }
 
@@ -96,6 +132,7 @@ body {
   font-size: 2.2rem;
   margin-bottom: 2rem;
   line-height: 1.3;
+  color: var(--cs-text-main);
   opacity: 0;
   transform: translateY(20px);
   animation: slide-up 0.8s ease-out 0.1s forwards;
@@ -121,8 +158,8 @@ body {
 
 #submit:hover,
 #submit:focus-visible {
-  background-color: #0284c7;
-  color: #ffffff;
+  background-color: var(--cs-turquoise-deep);
+  color: var(--cs-white);
   transform: scale(1.03);
 }
 
@@ -136,11 +173,12 @@ body {
 ========================================= */
 
 #intro {
-  background-color: #f2fbf9;
+  background-color: var(--cs-soft-bg);
   padding: 2.5rem 1.75rem;
   border-radius: 12px;
   margin-top: 1rem;
   margin-bottom: 2.5rem;
+  color: var(--cs-text-main);
 }
 
 #intro p:last-of-type {
@@ -148,9 +186,11 @@ body {
 }
 
 #intro p {
+  text-align: center;
   font-size: 0.95rem;
   line-height: 1.45;
   margin-bottom: 0.9rem;
+  color: var(--cs-text-muted);
 }
 
 #intro a {
@@ -162,6 +202,11 @@ body {
 #intro p a {
   line-height: 1.65;
   text-decoration: underline;
+  color: var(--cs-turquoise-deep);
+}
+
+#intro p a:hover {
+  color: var(--cs-turquoise-deeper);
 }
 
 /* =========================================
@@ -175,18 +220,16 @@ body {
   margin: 3rem auto;
   max-width: 720px;
   line-height: 1.68;
-  color: #1a1a1a;
-  border-left: 3px solid #40e0d0;
-  box-shadow:
-    0 3px 8px rgba(0, 0, 0, 0.04),
-    0 8px 20px rgba(0, 0, 0, 0.06);
+  color: var(--cs-text-main);
+  border-left: 3px solid var(--cs-turquoise-accent);
+  box-shadow: var(--cs-shadow-soft-1), var(--cs-shadow-soft-2);
 }
 
 #manifesto h2,
 #manifesto h3 {
   margin: 0 0 1.25rem;
   font-weight: 700;
-  color: #0284c7;
+  color: var(--cs-turquoise-deep);
 }
 
 #manifesto p:first-of-type {
@@ -194,13 +237,13 @@ body {
 }
 
 #manifesto a {
-  color: #0284c7;
+  color: var(--cs-turquoise-deep);
   text-decoration: underline;
   text-underline-offset: 2px;
 }
 
 #manifesto a:hover {
-  color: #0369a1;
+  color: var(--cs-turquoise-deeper);
 }
 
 /* Mobile manifesto */
@@ -225,7 +268,7 @@ body {
 
 /* Outer full-bleed banner (edge-to-edge background) */
 .turquoise-banner {
-  background-color: #e0f7f4; /* subtle tint behind the card */
+  background-color: var(--cs-soft-turquoise); /* subtle tint behind the card */
 }
 
 /* Inner card container */
@@ -233,10 +276,10 @@ body {
   max-width: 650px;
   margin: 0 auto;
   padding: 3rem 2rem;
-  background-color: #6fdad1; /* turquoise “form background” */
+  background-color: var(--cs-turquoise); /* turquoise “form background” */
   border-radius: 16px;
   text-align: center;
-  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.12);
+  box-shadow: var(--cs-shadow-card);
 }
 
 /* Heading */
@@ -245,7 +288,7 @@ body {
   font-weight: 800;
   line-height: 1.2;
   margin-bottom: 1rem;
-  color: #000;
+  color: var(--cs-black);
 }
 
 /* Intro paragraph */
@@ -253,6 +296,7 @@ body {
   font-size: 1.1rem;
   line-height: 1.55;
   margin-bottom: 2rem;
+  color: var(--cs-text-main);
 }
 
 /* Form layout */
@@ -273,6 +317,7 @@ body {
 .newsletter-field label {
   font-size: 0.95rem;
   font-weight: 600;
+  color: var(--cs-text-main);
 }
 
 .newsletter-field input {
@@ -280,10 +325,10 @@ body {
   padding: 0.9rem 1rem;
   font-size: 1rem;
   border-radius: 8px;
-  border: 1px solid #d5d5d5;
-  background: #ffffff;
+  border: 1px solid var(--cs-gray-300);
+  background: var(--cs-white);
   box-sizing: border-box;
-  color: #000;
+  color: var(--cs-text-main);
 }
 
 /* Honeypot: hidden but present for CF / spam logic */
@@ -301,25 +346,25 @@ body {
 .newsletter-submit {
   width: 100%;
   padding: 1rem 1rem;
-  background: #000000;
-  color: #ffffff;
+  background: var(--cs-btn-bg);
+  color: var(--cs-white);
   font-size: 1.1rem;
   font-weight: 700;
   border-radius: 8px;
   border: none;
   cursor: pointer;
-  transition: background 0.25s ease;
+  transition: background-color 0.25s ease;
 }
 
 .newsletter-submit:hover {
-  background: #333333;
+  background: var(--cs-btn-hover);
 }
 
 /* Disclaimer */
 .newsletter-disclaimer {
   margin-top: 1rem;
   font-size: 0.85rem;
-  color: #333333;
+  color: var(--cs-text-muted);
 }
 
 /* Mobile tweaks */
@@ -347,11 +392,12 @@ body {
 #essays h2 {
   font-size: 1.9rem;
   margin-bottom: 0.75rem;
+  color: var(--cs-text-main);
 }
 
 #essays p {
   margin-bottom: 1.2rem;
-  color: #444;
+  color: var(--cs-text-muted);
 }
 
 /* essay list items */
@@ -365,23 +411,28 @@ body {
   display: block;
   font-size: 1.05rem;
   margin-bottom: 0.25rem;
+  color: var(--cs-text-main);
 }
 
 /* category bullet */
 #essays ul li b::before {
   content: "• ";
-  color: #0284c7;
+  color: var(--cs-turquoise-deep);
   font-weight: bold;
 }
 
 #essays ul li a {
-  color: #0284c7;
+  color: var(--cs-turquoise-deep);
   text-decoration: underline;
   text-underline-offset: 3px;
 }
 
+#essays ul li a:hover {
+  color: var(--cs-turquoise-deeper);
+}
+
 #essays ul li i {
-  color: #666;
+  color: var(--cs-gray-600);
   font-size: 0.9rem;
 }
 
@@ -424,13 +475,14 @@ body {
   gap: 0.5rem;
   font-size: 0.9rem;
   text-decoration: none;
+  color: var(--cs-text-muted);
   transition:
     color 0.2s ease,
     transform 0.2s ease;
 }
 
 .page__footer-follow .social-icons a:hover {
-  color: #2ec7c0;
+  color: var(--cs-turquoise-accent);
   transform: translateY(-1px);
 }
 
