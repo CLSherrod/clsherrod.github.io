@@ -215,12 +215,7 @@ header:
           <a class="essays-title" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-
-          <span class="essays-category">
-            {% assign category = post.categories | first | default:"Post" %} {{
-            category | replace: "-", " " | capitalize }}
-          </span>
-
+          &nbsp;
           <time
             class="essays-date"
             datetime="{{ post.date | date_to_xmlschema }}"
