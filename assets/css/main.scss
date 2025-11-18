@@ -449,7 +449,7 @@ main {
 }
 
 .page__footer-follow .social-icons a:hover {
-  color: var(--cs-turquoise-accent);
+  color: white;
   transform: translateY(-1px);
 }
 
@@ -468,7 +468,7 @@ footer a {
 }
 
 footer a:hover {
-  color: var(--cs-turquoise-deeper) !important;
+  color: white !important;
   text-decoration: underline;
   text-underline-offset: 3px;
 }
