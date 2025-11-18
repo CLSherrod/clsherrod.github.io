@@ -493,3 +493,10 @@ body {
 .page__footer-follow .social-icons a:hover i {
   transform: scale(1.2);
 }
+
+/* Footer link hover override */
+footer a:hover {
+  color: var(--cs-turquoise-deeper) !important;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
