@@ -344,30 +344,117 @@ body {
 }
 
 /* =========================================
-   Essays
+   Essays Section – Refined & Calming Layout
 ========================================= */
 
 #essays {
-  background-color: #fafafa;
-  border-top: 1px solid #e6ecec;
-  padding: 3rem 1rem;
+  background-color: var(--cs-soft-bg);
+  border-top: 1px solid #dff3f1;
+  padding: 4rem 1.5rem;
   border-radius: 12px;
+  max-width: 900px;
+  margin: 3rem auto;
 }
 
 #essays h2 {
-  font-size: 1.9rem;
-  margin-bottom: 0.75rem;
+  text-align: center;
+  font-size: 2.1rem;
+  font-weight: 800;
+  margin-bottom: 1.5rem;
+  color: var(--cs-text-main);
+  letter-spacing: -0.01em;
 }
 
-#essays ul li {
-  margin-top: 1.8rem;
-  line-height: 1.55;
-}
-
-#essays ul li b {
+#essays > p {
+  text-align: center;
+  max-width: 650px;
+  margin: 0 auto 2.5rem auto;
+  color: var(--cs-text-muted);
   font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+/* List container */
+#essays ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Individual essay entry */
+#essays ul li {
+  padding: 1.75rem 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+#essays ul li:last-of-type {
+  border-bottom: none;
+}
+
+/* Category label */
+#essays .essay-category {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--cs-turquoise-deep);
+  margin-bottom: 0.4rem;
   display: block;
-  margin-bottom: 0.25rem;
+}
+
+/* Title */
+#essays .essay-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.45;
+  margin-bottom: 0.35rem;
+  color: var(--cs-text-main);
+}
+
+#essays .essay-title a {
+  color: var(--cs-text-main);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+#essays .essay-title a:hover {
+  color: var(--cs-turquoise-deeper);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Date */
+#essays .essay-date {
+  font-size: 0.9rem;
+  color: var(--cs-gray-600);
+  margin-bottom: 0.6rem;
+}
+
+/* Optional excerpt */
+#essays .essay-excerpt {
+  font-size: 1rem;
+  line-height: 1.55;
+  color: var(--cs-text-muted);
+  max-width: 650px;
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  #essays {
+    padding: 3rem 1rem;
+    margin: 2.5rem 0;
+  }
+
+  #essays h2 {
+    font-size: 1.8rem;
+  }
+
+  #essays ul li {
+    padding: 1.25rem 0;
+  }
+
+  #essays .essay-title {
+    font-size: 1.2rem;
+  }
 }
 
 /* =========================================

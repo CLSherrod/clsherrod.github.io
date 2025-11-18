@@ -212,22 +212,31 @@ header:
         forloop.last %} {% endunless %} {% endfor %} {% endcapture %}
 
         <li class="essays-item">
-          <b class="essays-meta">
-            {{ titlecase | strip }} –
+          <span class="essay-category"> {{ titlecase | strip }} </span>
+
+          <div class="essay-title">
             <a href="{{ post.url | relative_url }}">
               {{ post.title | escape }}
             </a>
-          </b>
-          <i class="essays-date">
+          </div>
+
+          <div class="essay-date">
             <time datetime="{{ post.date | date_to_xmlschema }}">
               {{ post.date | date: "%B %d, %Y" }}
             </time>
-          </i>
+          </div>
+
+          {% if post.excerpt %}
+          <div class="essay-excerpt">
+            {{ post.excerpt | strip_html | truncate: 160 }}
+          </div>
+          {% endif %}
         </li>
+
         {% endfor %}
       </ul>
 
-      <p>
+      <p class="essays-archive-link">
         Explore
         <a href="{{ '/blog' | relative_url }}">all essays in the archive</a>
       </p>
