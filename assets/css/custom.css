@@ -257,46 +257,42 @@ body {
   }
 }
 
-/* ===============================
-   Newsletter Section (matches your HTML)
-   <section id="newsletter" class="full-bleed turquoise-banner">
-     <div class="wrapper newsletter-container">
-       ...
-     </div>
-   </section>
-=============================== */
+/* =========================================
+   Newsletter (Final Clean Version)
+========================================= */
 
-/* Outer full-bleed banner (edge-to-edge background) */
-.turquoise-banner {
-  background-color: var(--cs-soft-turquoise); /* subtle tint behind the card */
+/* Full-bleed turquoise section */
+#newsletter.full-bleed {
+  background-color: var(--cs-turquoise) !important;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  overflow: hidden;
 }
 
-/* Inner card container */
-.newsletter-container {
+/* Inner wrapper – centered, readable, no card background */
+#newsletter .newsletter-container {
+  background: none !important;
   max-width: 650px;
   margin: 0 auto;
-  padding: 3rem 2rem;
-  background-color: var(--cs-turquoise); /* turquoise “form background” */
-  border-radius: 16px;
+  padding: 0 1.5rem;
   text-align: center;
-  box-shadow: var(--cs-shadow-card);
 }
 
-/* Heading */
-.newsletter-title {
+/* Title */
+#newsletter .newsletter-title {
   font-size: 2.6rem;
   font-weight: 800;
   line-height: 1.2;
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
   color: var(--cs-black);
 }
 
-/* Intro paragraph */
-.newsletter-intro {
-  font-size: 1.1rem;
+/* Intro */
+#newsletter .newsletter-intro {
+  font-size: 1.15rem;
   line-height: 1.55;
   margin-bottom: 2rem;
-  color: var(--cs-text-main);
+  color: var(--cs-black);
 }
 
 /* Form layout */
@@ -306,29 +302,59 @@ body {
   gap: 1.25rem;
 }
 
-/* Fields */
-.newsletter-field {
-  display: flex;
-  flex-direction: column;
-  gap: 0.35rem;
+/* Field labels + inputs */
+#newsletter .newsletter-field {
   text-align: left;
 }
 
-.newsletter-field label {
+#newsletter .newsletter-field label {
   font-size: 0.95rem;
   font-weight: 600;
-  color: var(--cs-text-main);
+  color: var(--cs-black);
 }
 
-.newsletter-field input {
+#newsletter .newsletter-field input {
   width: 100%;
   padding: 0.9rem 1rem;
   font-size: 1rem;
   border-radius: 8px;
   border: 1px solid var(--cs-gray-300);
   background: var(--cs-white);
-  box-sizing: border-box;
-  color: var(--cs-text-main);
+}
+
+/* Submit button */
+#newsletter .newsletter-submit {
+  width: 100% !important;
+  padding: 1rem;
+  font-size: 1.1rem;
+  font-weight: 700;
+  background-color: var(--cs-black);
+  color: var(--cs-white);
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.25s ease;
+}
+
+#newsletter .newsletter-submit:hover {
+  background-color: var(--cs-btn-hover);
+}
+
+/* Disclaimer */
+#newsletter .newsletter-disclaimer {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  color: var(--cs-black);
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  #newsletter .newsletter-title {
+    font-size: 2.2rem;
+  }
+  #newsletter .newsletter-container {
+    padding: 0 1rem;
+  }
 }
 
 /* Honeypot: hidden but present for CF / spam logic */
@@ -336,46 +362,6 @@ body {
   position: absolute;
   left: -9999px;
   visibility: hidden;
-}
-
-/* Submit button */
-.newsletter-submit-wrapper {
-  margin-top: 0.5rem;
-}
-
-.newsletter-submit {
-  width: 100%;
-  padding: 1rem 1rem;
-  background: var(--cs-btn-bg);
-  color: var(--cs-white);
-  font-size: 1.1rem;
-  font-weight: 700;
-  border-radius: 8px;
-  border: none;
-  cursor: pointer;
-  transition: background-color 0.25s ease;
-}
-
-.newsletter-submit:hover {
-  background: var(--cs-btn-hover);
-}
-
-/* Disclaimer */
-.newsletter-disclaimer {
-  margin-top: 1rem;
-  font-size: 0.85rem;
-  color: var(--cs-text-muted);
-}
-
-/* Mobile tweaks */
-@media (max-width: 600px) {
-  .newsletter-container {
-    padding: 2rem 1.25rem;
-  }
-
-  .newsletter-title {
-    font-size: 2.2rem;
-  }
 }
 
 /* =========================================
@@ -516,56 +502,14 @@ footer a:hover {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
-
-/* -----------------------------------------
-   Full-Bleed Turquoise Newsletter Banner
------------------------------------------ */
-
+/* Make newsletter truly full-bleed turquoise */
 #newsletter.full-bleed {
-  background-color: #6fdad1 !important;
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  background-color: var(--cs-turquoise) !important;
 }
 
-/* Inner wrapper should be plain, centered, readable */
-#newsletter .newsletter-container {
-  background: none !important; /* remove turquoise here */
-  max-width: 650px;
-  margin: 0 auto;
-  padding: 0 1.25rem;
-  text-align: center;
-}
-
-/* Typography remains controlled */
-#newsletter .newsletter-title {
-  font-size: 2.6rem;
-  font-weight: 800;
-  margin-bottom: 1rem;
-}
-
-#newsletter .newsletter-intro {
-  font-size: 1.1rem;
-  margin-bottom: 2rem;
-  line-height: 1.55;
-}
-
-/* Inputs full width */
-#newsletter .newsletter-field input {
-  width: 100%;
-  padding: 0.9rem 1rem;
-  border-radius: 8px;
-  border: 1px solid #d8d8d8;
-}
-
-/* Submit button full width */
-#newsletter .newsletter-submit {
-  width: 100% !important;
-  padding: 1rem;
-  font-size: 1.1rem;
-  font-weight: 700;
-  background-color: #000;
-  color: #fff;
-  border-radius: 8px;
-  border: none;
-  margin-top: 1.25rem;
+/* Ensure wrapper does NOT override background */
+#newsletter.full-bleed > .wrapper {
+  background: transparent !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
 }
