@@ -350,117 +350,77 @@ main {
 }
 
 /* =========================================
-   Essays Section – Refined & Calming Layout
+   ESSAYS — Title First, Category, Date
 ========================================= */
 
 #essays {
-  background-color: var(--cs-soft-bg);
-  border-top: 1px solid #dff3f1;
+  background: var(--cs-white);
   padding: 4rem 1.5rem;
-  border-radius: 12px;
-  max-width: 900px;
-  margin: 3rem auto;
+  border-radius: 14px;
+  box-shadow: var(--cs-shadow-card);
 }
 
 #essays h2 {
-  text-align: center;
-  font-size: 2.1rem;
+  font-size: 2.2rem;
   font-weight: 800;
-  margin-bottom: 1.5rem;
-  color: var(--cs-text-main);
-  letter-spacing: -0.01em;
+  text-align: center;
+  margin-bottom: 1rem;
 }
 
 #essays > p {
   text-align: center;
-  max-width: 650px;
-  margin: 0 auto 2.5rem auto;
-  color: var(--cs-text-muted);
   font-size: 1.05rem;
-  line-height: 1.6;
+  margin-bottom: 2.5rem;
+  color: var(--cs-text-muted);
 }
 
-/* List container */
-#essays ul {
+.essays-list {
   list-style: none;
   padding: 0;
   margin: 0;
+  border-top: 1px solid var(--cs-gray-100);
 }
 
-/* Individual essay entry */
-#essays ul li {
+/* Each item */
+.essays-item {
   padding: 1.75rem 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  border-bottom: 1px solid var(--cs-gray-100);
+  transition: background 0.2s ease;
 }
 
-#essays ul li:last-of-type {
-  border-bottom: none;
+.essays-item:hover {
+  background: var(--cs-soft-bg);
 }
 
-/* Category label */
-#essays .essay-category {
-  font-size: 0.85rem;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
-  color: var(--cs-turquoise-deep);
-  margin-bottom: 0.4rem;
+/* Title (clickable) */
+.essays-title {
   display: block;
-}
-
-/* Title */
-#essays .essay-title {
   font-size: 1.25rem;
   font-weight: 700;
-  line-height: 1.45;
-  margin-bottom: 0.35rem;
-  color: var(--cs-text-main);
-}
-
-#essays .essay-title a {
   color: var(--cs-text-main);
   text-decoration: none;
+  margin-bottom: 0.35rem;
   transition: color 0.2s ease;
 }
 
-#essays .essay-title a:hover {
+.essays-title:hover {
   color: var(--cs-turquoise-deeper);
-  text-decoration: underline;
-  text-underline-offset: 3px;
+}
+
+/* Category */
+.essays-category {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--cs-turquoise-deep);
+  margin-bottom: 0.25rem;
 }
 
 /* Date */
-#essays .essay-date {
+.essays-date {
+  display: block;
   font-size: 0.9rem;
   color: var(--cs-gray-600);
-  margin-bottom: 0.6rem;
-}
-
-/* Optional excerpt */
-#essays .essay-excerpt {
-  font-size: 1rem;
-  line-height: 1.55;
-  color: var(--cs-text-muted);
-  max-width: 650px;
-}
-
-/* Mobile adjustments */
-@media (max-width: 600px) {
-  #essays {
-    padding: 3rem 1rem;
-    margin: 2.5rem 0;
-  }
-
-  #essays h2 {
-    font-size: 1.8rem;
-  }
-
-  #essays ul li {
-    padding: 1.25rem 0;
-  }
-
-  #essays .essay-title {
-    font-size: 1.2rem;
-  }
 }
 
 /* =========================================

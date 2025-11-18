@@ -20,16 +20,6 @@ og_image: /assets/images/teasers//christopher-sherrod-essays-fulfilling-life-wid
 
 # Theme
 minimal_mistakes_skin: air
-sass:
-  style: compressed
-
-# Include custom CSS override
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      custom-css: "/assets/css/custom.css"
 search: true
 locale: "en-US"
 logo: "/assets/images/logo/logo.webp"
