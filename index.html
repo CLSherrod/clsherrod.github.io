@@ -88,8 +88,8 @@ header:
   </section>
 
   <!-- ===============================
-         NEWSLETTER SECTION
-         =============================== -->
+       NEWSLETTER SECTION (CLEAN)
+  =============================== -->
   <section id="newsletter" class="full-bleed turquoise-banner">
     <div class="wrapper">
       <div class="newsletter-container">
@@ -100,62 +100,26 @@ header:
           every morning. No noise. No hype. Just one idea to help you slow down,
           reconnect, and live with intention.
         </p>
+
         <form
           id="newsletterForm"
           action="https://mail.nanakasha.com/subscribe"
           method="POST"
           accept-charset="utf-8"
-          style="
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 15px;
-            background-color: turquoise;
-            padding: 20px;
-            border-radius: 8px;
-            max-width: 600px;
-            margin: 0 auto;
-          "
         >
-          <div
-            style="
-              display: flex;
-              flex-direction: column;
-              flex: 1 1 250px;
-              min-width: 220px;
-            "
-          >
-            <label for="name" style="margin-bottom: 5px; font-weight: bold"
-              >Name</label
-            >
+          <div class="newsletter-field">
+            <label for="name">Name</label>
             <input
               type="text"
               name="name"
               id="name"
               required
               autocomplete="name"
-              style="
-                border: 2px solid blue;
-                padding: 10px;
-                border-radius: 5px;
-                font-size: 1rem;
-                width: 100%;
-                box-sizing: border-box;
-              "
             />
           </div>
 
-          <div
-            style="
-              display: flex;
-              flex-direction: column;
-              flex: 1 1 250px;
-              min-width: 220px;
-            "
-          >
-            <label for="email" style="margin-bottom: 5px; font-weight: bold"
-              >Email</label
-            >
+          <div class="newsletter-field">
+            <label for="email">Email</label>
             <input
               type="email"
               name="email"
@@ -163,108 +127,72 @@ header:
               required
               autocomplete="email"
               inputmode="email"
-              style="
-                border: 2px solid blue;
-                padding: 10px;
-                border-radius: 5px;
-                font-size: 1rem;
-                width: 100%;
-                box-sizing: border-box;
-              "
             />
           </div>
 
-          <!-- Honeypot field (hidden from users & assistive tech) -->
-          <div style="position: absolute; left: -9999px" aria-hidden="true">
+          <!-- Honeypot field -->
+          <div class="cf-honeypot-wrapper" aria-hidden="true">
             <label for="website" title="Leave this field blank">Website</label>
             <input
               type="text"
               name="website"
               id="website"
               class="cf-honeypot"
-              tabindex="-1"
               autocomplete="off"
+              tabindex="-1"
             />
           </div>
 
-          <!-- Timestamp field (hidden) -->
+          <!-- Timestamp -->
           <input type="hidden" name="timestamp" id="timestamp" />
 
+          <!-- Sendy list -->
           <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
           <input type="hidden" name="subform" value="yes" />
 
-          <!-- Centered responsive submit button -->
-          <div
-            style="
-              display: flex;
-              justify-content: center;
-              margin-top: 10px;
-              width: 100%;
-            "
-          >
+          <div class="newsletter-submit-wrapper">
             <input
               type="submit"
               name="submit"
               id="submit"
+              class="newsletter-submit"
               value="Get Today's Note"
-              style="
-                background-color: darkred;
-                border: 2px solid #0284c7;
-                padding: 0.9em 2em;
-                color: antiquewhite;
-                cursor: pointer;
-                border-radius: 100px;
-                width: 100%;
-                max-width: 400px;
-                font-size: 1.5rem;
-                font-weight: 600;
-                letter-spacing: -0.004em;
-                line-height: 1;
-                display: inline-flex;
-                align-items: center;
-                justify-content: center;
-                gap: 0.4em;
-                margin: 0 auto;
-              "
             />
           </div>
         </form>
-        <p align="center">No spam. Unsubscribe anytime.</p>
-        <script>
-          (function () {
-            function init() {
-              var ts = document.getElementById("timestamp");
-              if (ts) ts.value = Date.now();
 
-              var form = document.getElementById("newsletterForm");
-              if (!form) return;
-
-              form.addEventListener("submit", function (e) {
-                var tsEl = document.getElementById("timestamp");
-                var start = parseInt(tsEl && tsEl.value ? tsEl.value : "0", 10);
-                var elapsed = start ? (Date.now() - start) / 1000 : 999; // allow submission if JS failed
-                var honeypotEl = document.getElementById("website");
-                var honey =
-                  honeypotEl && honeypotEl.value ? honeypotEl.value : "";
-
-                if (honey !== "" || elapsed < 5) {
-                  e.preventDefault();
-                  console.warn("Spam submission blocked.");
-                  return false;
-                }
-              });
-            }
-
-            if (document.readyState === "loading") {
-              document.addEventListener("DOMContentLoaded", init);
-            } else {
-              init();
-            }
-          })();
-        </script>
+        <p class="newsletter-disclaimer">No spam. Unsubscribe anytime.</p>
       </div>
     </div>
   </section>
+
+  <script>
+    (function () {
+      function init() {
+        const ts = document.getElementById("timestamp");
+        if (ts) ts.value = Date.now();
+
+        const form = document.getElementById("newsletterForm");
+        if (!form) return;
+
+        form.addEventListener("submit", function (e) {
+          const start = parseInt(ts.value || "0", 10);
+          const elapsed = start ? (Date.now() - start) / 1000 : 999;
+          const honey = document.getElementById("website")?.value || "";
+
+          if (honey !== "" || elapsed < 5) {
+            e.preventDefault();
+            console.warn("Spam submission blocked.");
+            return false;
+          }
+        });
+      }
+
+      document.readyState === "loading"
+        ? document.addEventListener("DOMContentLoaded", init)
+        : init();
+    })();
+  </script>
 
   <!-- ===============================
          ESSAYS SECTION
