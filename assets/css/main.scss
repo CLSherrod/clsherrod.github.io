@@ -30,12 +30,12 @@ $link-color: blue;
 ========================================= */
 
 :root {
-  --cs-black: #000;
-  --cs-white: #fff;
+  --cs-black: black;
+  --cs-white: white;
 
   /* Backgrounds */
-  --cs-page-bg: #fcfefe;
-  --cs-soft-bg: #f2fbf9;
+  --cs-page-bg: white;
+  --cs-soft-bg: white;
   --cs-soft-turquoise: #e0f7f4;
 
   /* Turquoise family */
@@ -57,7 +57,7 @@ $link-color: blue;
   --cs-text-muted: #4b5563;
 
   /* Buttons */
-  --cs-btn-bg: #000;
+  --cs-btn-bg: darkred;
   --cs-btn-hover: #111827;
 
   /* Shadows */
