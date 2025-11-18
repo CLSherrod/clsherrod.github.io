@@ -79,6 +79,12 @@ body {
   overflow-x: hidden;
 }
 
+main {
+  background-color: #ffffff !important;
+  position: relative;
+  z-index: 1;
+}
+
 .page_content {
   background-color: var(--cs-page-bg);
   max-width: 100%;
