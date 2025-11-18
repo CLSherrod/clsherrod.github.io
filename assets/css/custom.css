@@ -494,6 +494,22 @@ body {
   transform: scale(1.2);
 }
 
+/* Center the entire footer block */
+footer {
+  text-align: center !important;
+}
+
+/* Ensure footer links wrap naturally and center */
+footer a {
+  display: inline-block;
+  margin: 0 0.15rem;
+}
+
+/* Optional: space out footer rows more cleanly */
+footer p {
+  margin: 0.4rem 0;
+}
+
 /* Footer link hover override */
 footer a:hover {
   color: var(--cs-turquoise-deeper) !important;
