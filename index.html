@@ -111,30 +111,45 @@ header:
   </section>
 
   <section id="books-courses" class="relative py-20">
-    <!-- Soft mandala mesh background -->
+    <!-- Section mandala background -->
     <div
       class="absolute inset-0 bg-[url('/assets/images/mesh/mandala-mesh-light.png')] opacity-10 bg-center bg-cover pointer-events-none"
     ></div>
 
-    <div class="relative max-w-5xl mx-auto px-6">
+    <div class="relative max-w-6xl mx-auto px-6">
       <h2 class="text-3xl font-semibold text-gray-900 mb-12 text-center">
         Books & Courses
       </h2>
 
-      <!-- Boxed layout -->
+      <!-- Boxed layout wrapper -->
       <div
         class="bg-white/80 backdrop-blur-sm rounded-2xl p-12 shadow-md border border-turquoise-100"
       >
-        <!-- Two-column row -->
-        <div
-          class="flex flex-col md:flex-row justify-center items-start gap-16"
-        >
+        <!-- Two-column row with vertical divider -->
+        <div class="flex flex-col md:flex-row items-start gap-12 relative">
+          <!-- Vertical divider -->
+          <div
+            class="hidden md:block absolute left-1/2 top-0 bottom-0 w-px bg-turquoise-200/60"
+          ></div>
+
           <!-- BOOK COLUMN -->
-          <div class="md:w-1/2 text-center md:text-left group">
-            <!-- Linked Image at 200px -->
+          <div class="md:w-1/2 pr-0 md:pr-8 fade-in group relative">
+            <!-- Column sacred-geometry mesh -->
+            <div
+              class="absolute inset-0 bg-[url('/assets/images/mesh/soft-geometry.png')] opacity-10 pointer-events-none"
+            ></div>
+
+            <!-- Label -->
+            <div
+              class="text-turquoise-600 font-semibold uppercase tracking-wide mb-4"
+            >
+              Book
+            </div>
+
+            <!-- Linked Image (200px) -->
             <a
               href="https://christophersherrod.com/book/business-ideas/"
-              class="block mx-auto transform transition duration-300 group-hover:scale-[1.05] group-hover:shadow-xl"
+              class="block mx-auto transform transition duration-300 group-hover:scale-[1.05] group-hover:shadow-xl w-fit"
             >
               <img
                 src="/assets/images/books/How-To-Create-New-Business-Ideas.webp"
@@ -161,11 +176,23 @@ header:
           </div>
 
           <!-- COURSE COLUMN -->
-          <div class="md:w-1/2 text-center md:text-left group">
-            <!-- Linked Image at 200px -->
+          <div class="md:w-1/2 pl-0 md:pl-8 fade-in group relative">
+            <!-- Column sacred-geometry mesh -->
+            <div
+              class="absolute inset-0 bg-[url('/assets/images/mesh/soft-geometry.png')] opacity-10 pointer-events-none"
+            ></div>
+
+            <!-- Label -->
+            <div
+              class="text-turquoise-600 font-semibold uppercase tracking-wide mb-4"
+            >
+              Course
+            </div>
+
+            <!-- Linked Image (200px) -->
             <a
               href="https://christophersherrod.com/course/digital-declutter"
-              class="block mx-auto transform transition duration-300 group-hover:scale-[1.05] group-hover:shadow-xl"
+              class="block mx-auto transform transition duration-300 group-hover:scale-[1.05] group-hover:shadow-xl w-fit"
             >
               <img
                 src="/assets/images/courses/digital-declutter-product-sq.webp"
