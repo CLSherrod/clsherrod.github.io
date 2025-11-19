@@ -116,21 +116,20 @@ header:
       class="absolute inset-0 bg-[url('/assets/images/mesh/mandala-mesh-light.png')] opacity-10 bg-center bg-cover pointer-events-none"
     ></div>
 
-    <div class="relative max-w-5xl mx-auto px-6">
+    <div class="relative max-w-6xl mx-auto px-6">
       <h2 class="text-3xl font-semibold text-gray-900 mb-12 text-center">
         Books & Courses
       </h2>
 
-      <!-- Boxed layout -->
+      <!-- Boxed layout with 2 columns -->
       <div
-        class="bg-white/80 backdrop-blur-sm rounded-2xl p-10 shadow-md space-y-16 border border-turquoise-100"
+        class="bg-white/80 backdrop-blur-sm rounded-2xl p-12 shadow-md border border-turquoise-100"
       >
-        <!-- Book -->
-        <div class="pb-14 border-b border-turquoise-200/40">
-          <div class="flex flex-col md:flex-row items-start gap-10 group">
-            <!-- Image -->
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-16">
+          <!-- BOOK COLUMN -->
+          <div class="group">
             <div
-              class="w-full md:w-1/3 transform transition duration-300 group-hover:scale-[1.03] group-hover:shadow-xl"
+              class="w-full transform transition duration-300 group-hover:scale-[1.03] group-hover:shadow-xl mb-6"
             >
               <img
                 src="/assets/images/books/How-To-Create-New-Business-Ideas.webp"
@@ -139,33 +138,29 @@ header:
               />
             </div>
 
-            <!-- Copy -->
-            <div class="flex-1">
-              <h3 class="text-2xl font-semibold text-gray-900">
-                How to Create Business Ideas You’ll Actually Love
-              </h3>
-              <p class="mt-4 text-gray-700 leading-relaxed">
-                A simple, practical guide to finding business ideas grounded in
-                what you enjoy — not what the internet says should work.
-                Discover playful tools, real-world methods, and a clear way to
-                build something meaningful from what you already love.
-              </p>
-              <a
-                href="https://christophersherrod.com/book/business-ideas/"
-                class="inline-block mt-5 text-turquoise-600 font-semibold hover:text-turquoise-700 transition"
-              >
-                Learn more →
-              </a>
-            </div>
-          </div>
-        </div>
+            <h3 class="text-2xl font-semibold text-gray-900">
+              How to Create Business Ideas You’ll Actually Love
+            </h3>
 
-        <!-- Course -->
-        <div>
-          <div class="flex flex-col md:flex-row items-start gap-10 group">
-            <!-- Image -->
+            <p class="mt-4 text-gray-700 leading-relaxed">
+              A simple, practical guide to finding business ideas grounded in
+              what you enjoy — not what the internet says should work. Discover
+              playful tools, real-world methods, and a clear way to build
+              something meaningful from what you already love.
+            </p>
+
+            <a
+              href="https://christophersherrod.com/book/business-ideas/"
+              class="inline-block mt-5 text-turquoise-600 font-semibold hover:text-turquoise-700 transition"
+            >
+              Learn more →
+            </a>
+          </div>
+
+          <!-- COURSE COLUMN -->
+          <div class="group">
             <div
-              class="w-full md:w-1/3 transform transition duration-300 group-hover:scale-[1.03] group-hover:shadow-xl"
+              class="w-full transform transition duration-300 group-hover:scale-[1.03] group-hover:shadow-xl mb-6"
             >
               <img
                 src="/assets/images/courses/digital-declutter-product-sq.webp"
@@ -174,24 +169,23 @@ header:
               />
             </div>
 
-            <!-- Copy -->
-            <div class="flex-1">
-              <h3 class="text-2xl font-semibold text-gray-900">
-                Coming Soon: Digital Declutter
-              </h3>
-              <p class="mt-4 text-gray-700 leading-relaxed">
-                A gentle, practical system to reduce EMF overwhelm, reset your
-                energy, and rebuild a healthier relationship with your
-                technology. Designed for sensitive people, busy creatives, and
-                anyone craving more calm in their day.
-              </p>
-              <a
-                href="https://christophersherrod.com/course/digital-declutter"
-                class="inline-block mt-5 text-turquoise-600 font-semibold hover:text-turquoise-700 transition"
-              >
-                Coming Soon →
-              </a>
-            </div>
+            <h3 class="text-2xl font-semibold text-gray-900">
+              Coming Soon: Digital Declutter
+            </h3>
+
+            <p class="mt-4 text-gray-700 leading-relaxed">
+              A gentle, practical system to reduce EMF overwhelm, reset your
+              energy, and rebuild a healthier relationship with your technology.
+              Designed for sensitive people, busy creatives, and anyone craving
+              more calm in their day.
+            </p>
+
+            <a
+              href="https://christophersherrod.com/course/digital-declutter"
+              class="inline-block mt-5 text-turquoise-600 font-semibold hover:text-turquoise-700 transition"
+            >
+              Coming Soon →
+            </a>
           </div>
         </div>
       </div>
