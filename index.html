@@ -111,7 +111,6 @@ header:
   </section>
 
   <section id="books-courses" class="relative py-20">
-    <!-- Section mandala background -->
     <div
       class="absolute inset-0 bg-[url('/assets/images/mesh/mandala-mesh-light.png')] opacity-10 bg-center bg-cover pointer-events-none"
     ></div>
@@ -121,47 +120,35 @@ header:
         Books & Courses
       </h2>
 
-      <!-- Boxed layout wrapper -->
       <div
         class="bg-white/80 backdrop-blur-sm rounded-2xl p-12 shadow-md border border-turquoise-100"
       >
-        <!-- Two-column row with vertical divider -->
-        <div class="flex flex-col md:flex-row items-start gap-12 relative">
-          <!-- Vertical divider -->
-          <div
-            class="hidden md:block absolute left-1/2 top-0 bottom-0 w-px bg-turquoise-200/60"
-          ></div>
-
-          <!-- BOOK COLUMN -->
-          <div class="md:w-1/2 pr-0 md:pr-8 fade-in group relative">
-            <!-- Column sacred-geometry mesh -->
+        <!-- FLEX ROW -->
+        <div
+          class="flex flex-col md:flex-row justify-between items-start gap-10"
+        >
+          <!-- BOOK -->
+          <div class="flex-1 text-center md:text-left">
             <div
-              class="absolute inset-0 bg-[url('/assets/images/mesh/soft-geometry.png')] opacity-10 pointer-events-none"
-            ></div>
-
-            <!-- Label -->
-            <div
-              class="text-turquoise-600 font-semibold uppercase tracking-wide mb-4"
+              class="text-turquoise-600 font-semibold uppercase tracking-wide mb-3"
             >
               Book
             </div>
 
-            <!-- Linked Image (200px) -->
             <a
               href="https://christophersherrod.com/book/business-ideas/"
-              class="block mx-auto transform transition duration-300 group-hover:scale-[1.05] group-hover:shadow-xl w-fit"
+              class="block mx-auto w-[200px] transform transition duration-300 hover:scale-[1.05] hover:shadow-xl"
             >
               <img
                 src="/assets/images/books/How-To-Create-New-Business-Ideas.webp"
-                alt="How to Create Business Ideas You’ll Actually Love"
-                class="rounded-lg shadow-md w-[200px] h-auto mx-auto"
+                alt="Book cover"
+                class="rounded-lg shadow-md w-full h-auto"
               />
             </a>
 
             <h3 class="text-xl font-semibold text-gray-900 mt-6">
               How to Create Business Ideas You’ll Actually Love
             </h3>
-
             <p class="mt-3 text-gray-700 leading-relaxed">
               A simple, practical guide to finding business ideas grounded in
               what you enjoy — not what the internet says should work.
@@ -169,42 +156,36 @@ header:
 
             <a
               href="https://christophersherrod.com/book/business-ideas/"
-              class="inline-block mt-4 text-turquoise-600 font-semibold hover:text-turquoise-700 transition"
+              class="inline-block mt-4 text-turquoise-600 font-semibold hover:text-turquoise-700"
+              >Learn more →</a
             >
-              Learn more →
-            </a>
           </div>
 
-          <!-- COURSE COLUMN -->
-          <div class="md:w-1/2 pl-0 md:pl-8 fade-in group relative">
-            <!-- Column sacred-geometry mesh -->
-            <div
-              class="absolute inset-0 bg-[url('/assets/images/mesh/soft-geometry.png')] opacity-10 pointer-events-none"
-            ></div>
+          <!-- VERTICAL DIVIDER -->
+          <div class="hidden md:block w-px bg-turquoise-300/40"></div>
 
-            <!-- Label -->
+          <!-- COURSE -->
+          <div class="flex-1 text-center md:text-left">
             <div
-              class="text-turquoise-600 font-semibold uppercase tracking-wide mb-4"
+              class="text-turquoise-600 font-semibold uppercase tracking-wide mb-3"
             >
               Course
             </div>
 
-            <!-- Linked Image (200px) -->
             <a
               href="https://christophersherrod.com/course/digital-declutter"
-              class="block mx-auto transform transition duration-300 group-hover:scale-[1.05] group-hover:shadow-xl w-fit"
+              class="block mx-auto w-[200px] transform transition duration-300 hover:scale-[1.05] hover:shadow-xl"
             >
               <img
                 src="/assets/images/courses/digital-declutter-product-sq.webp"
-                alt="Digital Declutter course"
-                class="rounded-lg shadow-md w-[200px] h-auto mx-auto"
+                alt="Course product graphic"
+                class="rounded-lg shadow-md w-full h-auto"
               />
             </a>
 
             <h3 class="text-xl font-semibold text-gray-900 mt-6">
               Coming Soon: Digital Declutter
             </h3>
-
             <p class="mt-3 text-gray-700 leading-relaxed">
               A gentle, practical system to reduce EMF overwhelm and rebuild a
               healthier relationship with your tech.
@@ -212,10 +193,9 @@ header:
 
             <a
               href="https://christophersherrod.com/course/digital-declutter"
-              class="inline-block mt-4 text-turquoise-600 font-semibold hover:text-turquoise-700 transition"
+              class="inline-block mt-4 text-turquoise-600 font-semibold hover:text-turquoise-700"
+              >Coming Soon →</a
             >
-              Coming Soon →
-            </a>
           </div>
         </div>
       </div>
