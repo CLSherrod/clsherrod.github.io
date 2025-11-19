@@ -3,6 +3,10 @@
 search: false
 ---
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 @charset "utf-8";
 
 $serif: "Newsreader", Georgia, Times, serif;
