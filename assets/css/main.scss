@@ -1,11 +1,6 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 @charset "utf-8";
 
@@ -184,6 +179,34 @@ main {
 #submit:focus-visible {
   outline: none;
   box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.35);
+}
+
+/* Credibility Bar */
+.credibility-bar {
+  width: 100%;
+  padding: 1.25rem 0;
+  background: #f7f9f9;
+  border-top: 1px solid #e0ece9;
+  border-bottom: 1px solid #e0ece9;
+  text-align: center;
+  font-size: 0.95rem;
+  color: #4a5b58;
+  letter-spacing: 0.3px;
+}
+
+/* Subtle animation for presence */
+.credibility-bar span {
+  display: inline-block;
+  opacity: 0.92;
+  transform: translateY(1px);
+  transition:
+    opacity 0.3s ease,
+    transform 0.3s ease;
+}
+
+.credibility-bar:hover span {
+  opacity: 1;
+  transform: translateY(0);
 }
 
 /* =========================================
