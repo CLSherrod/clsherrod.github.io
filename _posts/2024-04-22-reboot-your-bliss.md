@@ -1,12 +1,16 @@
 ---
 title: Holistic Healing for Depression: What _Reboot Your Bliss_ Gets Right
+description: "Holistic Healing for Depression: What _Reboot Your Bliss_ Gets Right"
+preview: "Holistic Healing for Depression: What _Reboot Your Bliss_ Gets Right"
 date: 2024-04-22
+last_modified_at: 2025-11-21
 categories:
   - Living a Fulfilling Life
 tags:
   - review
-permalink: /reboot-your-bliss/
+toc: true
 published: true
+permalink: /reboot-your-bliss/
 ---
 
 [![Reboot Your Bliss](/assets/images/articles/reboot-your-bliss.webp){: .align-right style="width:320px;" }](https://amzn.to/3ypQHUw){:target="\_blank" rel="noopener noreferrer" title="Reboot Your Bliss"}
