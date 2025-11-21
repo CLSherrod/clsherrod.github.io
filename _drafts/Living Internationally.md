@@ -1,6 +1,6 @@
 ---
 title: "Living Abroad Isn’t for Everyone: Test the Life Before You Move"
-date:
+date: 2025-11-24
 description: "Living Abroad Isn’t for Everyone: Test the Life Before You Move"
 preview: "Living Abroad Isn’t for Everyone: Test the Life Before You Move"
 categories:
@@ -62,11 +62,8 @@ Once you’ve found a few places that feel right, spend part of the year abroad.
 That way you’ll learn how local systems really work:
 
 - Banking, healthcare, visas, taxes
-    
 - Weather changes by season
-    
 - Local customs and community rhythms
-    
 
 Only after that should you think about staying full-time.
 
@@ -90,3 +87,11 @@ So take your time.
 Test reality before you trade your whole life for it.
 
 If you still love it after waiting in line at the internet office five times in the heat, congratulations—you’re probably ready.
+
+## Check Out These Other Essays About Travel
+- [Living the Miami Vice lifestyle without the drugs](https://christophersherrod.com/living-miami-vice-lifestyle-without-the-drugs/)
+- [Living on a dollar a day](https://christophersherrod.com/living-on-a-dollar-a-day/)
+- [How to travel and still do business](https://christophersherrod.com/how-to-travel-and-still-do-business/)
+- [Escaping the Amish](https://christophersherrod.com/escaping-the-amish/)
+- [Don’t Check Your Valuables](https://christophersherrod.com/dont-check-your-valuables/)
+- [Working on the Internet while traveling](https://christophersherrod.com/working-on-the-internet-while-traveling/)
