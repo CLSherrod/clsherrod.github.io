@@ -1,7 +1,7 @@
 ---
-title: "Holistic Healing for Depression: What _Reboot Your Bliss_ Gets Right"
-description: "Holistic Healing for Depression: What _Reboot Your Bliss_ Gets Right"
-preview: "Holistic Healing for Depression: What _Reboot Your Bliss_ Gets Right"
+title: "Holistic Healing for Depression: What  Reboot Your Bliss Gets Right"
+description: "Holistic Healing for Depression: What Reboot Your Bliss Gets Right"
+preview: "Holistic Healing for Depression: What  Reboot Your Bliss Gets Right"
 date: 2024-04-22
 last_modified_at: 2025-11-21
 categories:
