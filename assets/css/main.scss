@@ -499,3 +499,37 @@ footer a:hover {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+
+/* RELATED POSTS */
+
+.related-posts {
+  margin-top: 3rem;
+  padding: 1.5rem;
+  border-top: 1px solid #e1eeec;
+  background: #fdfefe;
+  border-radius: 8px;
+}
+
+.related-posts h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  color: #006b6b;
+}
+
+.related-posts ul {
+  margin: 0.5rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.related-posts ul li {
+  margin: 0.4rem 0;
+}
+
+.related-posts a {
+  color: #008c8c;
+}
+
+.related-posts a:hover {
+  text-decoration: underline;
+}

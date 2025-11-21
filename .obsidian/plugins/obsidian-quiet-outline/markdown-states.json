@@ -12,5 +12,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "_pages/now.md": {
+    "scroll": 15.104166666666666,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
