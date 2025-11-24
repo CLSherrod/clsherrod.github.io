@@ -4,6 +4,10 @@ search: false
 
 @charset "utf-8";
 
+// =========================================
+// Variables
+// =========================================
+
 /* =========================================
    Featured Essay
 ========================================= */
@@ -48,6 +52,16 @@ $sans-serif-narrow:
   "Lucida Grande",
   Arial,
   sans-serif;
+$sans-serif-narrow:
+  "Archivo Narrow",
+  -apple-system,
+  BlinkMacSystemFont,
+  "Roboto",
+  "Segoe UI",
+  "Helvetica Neue",
+  "Lucida Grande",
+  Arial,
+  sans-serif;
 
 $global-font-family: $serif;
 $header-font-family: $sans-serif-narrow;
@@ -56,6 +70,24 @@ $link-color: blue;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* =========================================
+   Parallax Scrolling Effect
+========================================= */
+
+// =========================================
+// Parallax Effect
+// =========================================
+.parallax {
+  background-image: url("/assets/images/headers/parallax-background.webp"); /* Parallax background image */
+  height: 100vh; /* Full height of the viewport */
+  background-attachment: fixed; /* Parallax effect */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; /* Cover the section with the image */
+  position: relative;
+  z-index: 1; /* Ensure it sits above other content */
+}
 
 /* =========================================
    Brand Tokens (CSS Variables)
@@ -111,8 +143,18 @@ $link-color: blue;
    Core Layout + Resets
 ========================================= */
 
+// =========================================
+// Base Styles
+// =========================================
 html {
   scroll-behavior: smooth;
+}
+
+// Base styles for body
+html,
+body {
+  background-color: white; /* Set background color to white */
+  overflow-x: hidden;
 }
 
 html,
@@ -121,10 +163,28 @@ body {
   overflow-x: hidden;
 }
 
+// =========================================
+// Layouts
+// =========================================
 main {
   background-color: #ffffff !important;
   position: relative;
   z-index: 1;
+}
+
+.full-bleed {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  width: 100vw;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+.greedy-nav {
+  background: white;
 }
 
 .greedy-nav {
@@ -223,6 +283,9 @@ main {
 /* =========================================
    Buttons
 ========================================= */
+// =========================================
+// Button Styles
+// =========================================
 #submit {
   transition:
     background-color 0.3s ease,
@@ -243,6 +306,9 @@ main {
    Intro Section
 ========================================= */
 
+// =========================================
+// Section Styles
+// =========================================
 #intro {
   background-color: var(--cs-soft-bg);
   padding-left: 3rem;
@@ -253,6 +319,25 @@ main {
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   color: var(--cs-text-main);
+}
+
+#manifesto {
+  background-color: var(--cs-soft-turquoise);
+  padding-left: 3.75rem;
+  padding-right: 3.75rem;
+  padding-top: 0rem;
+  padding-bottom: 0.5em;
+  color: var(--cs-text-main);
+}
+
+#products {
+  background-color: var(--cs-soft-turquoise);
+  padding: 2rem 1.5rem;
+  text-align: center;
+}
+
+#newsletter {
+  background-color: var(--cs-turquoise);
 }
 
 #intro p.bar {
@@ -301,7 +386,8 @@ main {
   margin-left: 2rem; /* Set left margin */
   margin-right: 2rem; /* Set right margin */
   margin-bottom: 1.25rem;
-  font-weight: 800;
+  font-size: 2rem;
+  text-align: center;
   color: var(--cs-turquoise-deep);
 }
 
