@@ -177,6 +177,9 @@ tag_archive:
   path: /tags/
   author_profile: true
 
+# follow
+follow_label: Links
+
 # excerpt
 excerpt_separator: <!--more-->
 

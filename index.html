@@ -3,7 +3,7 @@ layout: splash
 title: "Christopher Sherrod - The Art of Living a Fulfilling Life"
 author_profile: false
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
-tagline: "I help people unplug from overwhelm, slow down enough to feel their lives again, and rediscover what truly matters."
+tagline: "Helping You Find Calm in a Chaotic World"
 description: "Christopher Sherrod is a writer, artist, and fulfilling lifestyle advocate. Discover his essays, poems, and books on living a fulfilling life, unplugging from toxic tech, and doing meaningful creative work."
 keywords:
   [
@@ -25,7 +25,7 @@ header:
   overlay_image: /assets/images/headers/home-header.webp
   image_description: "This is the life I live and the lens I write from."
   actions:
-    - label: "Read Today's Note"
+    - label: "Get Today's Note"
       url: "/#newsletter"
 ---
 
@@ -33,22 +33,21 @@ header:
      INTRO SECTION
      =============================== -->
 <div class="page_content">
-  <div class="credibility-bar">
-    <span
-      >Writing online since 2000 • Read in 40+ countries • 25 years of essays
-      and a book.</span
-    >
-  </div>
-
   <!-- Intro -->
-  <section id="intro" class="narrow">
+  <section id="intro" class="full-bleed">
     <div class="wrapper">
+      <p class="bar">
+        Writing online since 2000 • Read in 40+ countries • 25 years of essays
+        and a book
+      </p>
       <p>
-        I’m a <a href="{{ '/writer/' | relative_url }}">writer</a> helping
-        people unplug from noise and return to what actually matters. After a
-        seizure made me hypersensitive to technology, I rebuilt my life around
-        calm, creativity, and intention. Now I share simple ways to live well in
-        a wired world — not through perfection, but through presence.
+        I’m a writer dedicated to helping you reclaim your life from the chaos
+        of modernity. Have you ever felt overwhelmed by the constant buzz of
+        technology? I certainly did, after a seizure led me to rethink
+        everything. This journey compelled me to focus on calm, creativity, and
+        intentional living. Here, I share practical insights and approaches to
+        embrace a fulfilling life in a fast-paced world — where true happiness
+        is found in presence, not perfection.
       </p>
       <p>→ <a href="{{ '/writer/' | relative_url }}">Read my full story</a></p>
     </div>
@@ -57,7 +56,7 @@ header:
   <!-- ===============================
     Manifesto
      =============================== -->
-  <section id="manifesto">
+  <section id="manifesto" class="full-bleed">
     <div class="wrapper">
       <h2>Live a Fulfilling Life — On Your Terms</h2>
       <p>
@@ -92,6 +91,87 @@ header:
     </div>
   </section>
 
+  <section id="pillars" class="pillars-section">
+    <h2>Explore the Four Pillars</h2>
+    <p class="pillars-intro">
+      These are the core themes I write about — the foundations of living a
+      calmer, more intentional, more fulfilling life.
+    </p>
+
+    <div class="pillars-grid">
+      <article class="pillar-card">
+        <h3>
+          <a
+            href="https://christophersherrod.com/categories/#living-a-fulfilling-life"
+            >Living a Fulfilling Life</a
+          >
+        </h3>
+        <p>
+          Essays on meaning, clarity, peace, mortality, and the quiet art of
+          living well.
+        </p>
+        <a
+          class="more"
+          href="/https://christophersherrod.com/categories/#living-a-fulfilling-life"
+          >Start here →</a
+        >
+      </article>
+
+      <article class="pillar-card">
+        <h3>
+          <a
+            href="https://christophersherrod.com/categories/#work-entrepreneurship"
+            >Work &amp; Entrepreneurship</a
+          >
+        </h3>
+        <p>
+          Truthful, no-hype lessons from 25 years of building businesses your
+          life can sustain.
+        </p>
+        <a
+          class="more"
+          href="/https://christophersherrod.com/categories/#work-entrepreneurship"
+          >Start here →</a
+        >
+      </article>
+
+      <article class="pillar-card">
+        <h3>
+          <a
+            href="https://christophersherrod.com/categories/#creativity-writing"
+            >Creativity &amp; Writing</a
+          >
+        </h3>
+        <p>
+          On making things, finishing things, and keeping creativity alive
+          without burnout.
+        </p>
+        <a
+          class="more"
+          href="https://christophersherrod.com/categories/#creativity-writing"
+          >Start here →</a
+        >
+      </article>
+
+      <article class="pillar-card">
+        <h3>
+          <a href="https://christophersherrod.com/categories/#lifestyle-travel"
+            >Lifestyle &amp; Travel</a
+          >
+        </h3>
+        <p>
+          Mexico, Alaska, slow travel, and building a life that feels like home
+          wherever you are.
+        </p>
+        <a
+          class="more"
+          href="https://christophersherrod.com/categories/#lifestyle-travel"
+          >Start here →</a
+        >
+      </article>
+    </div>
+  </section>
+
   <!-- ===============================
        NEWSLETTER SECTION (CLEAN)
   =============================== -->
@@ -101,9 +181,11 @@ header:
         <h2 class="newsletter-title">Start Each Day Grounded</h2>
 
         <p class="newsletter-intro">
-          Every morning, I send one short note on living well in a wired world.
-          No hype. No noise. Just one clear idea to help you slow down,
-          reconnect, and live with intention.
+          Join me every morning for a brief note that inspires you to live with
+          intention and clarity in today's digital age. Say goodbye to the
+          clutter and distractions. Enjoy a simple, focused idea each day to
+          help you reconnect with what truly matters. reconnect, and live with
+          intention.
         </p>
 
         <form
@@ -161,7 +243,7 @@ header:
               name="submit"
               id="submit"
               class="newsletter-submit"
-              value="Get Today's Note"
+              value="Join the Community"
             />
           </div>
         </form>
@@ -202,7 +284,7 @@ header:
   <!-- ===============================
          ESSAYS SECTION
          =============================== -->
-  <section id="essays">
+  <section id="essays" class="full-bleed">
     <div class="wrapper">
       <h2>Recent Essays On Living Well</h2>
       <p>
@@ -220,13 +302,7 @@ header:
           <a class="essays-title" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          &nbsp;
-          <time
-            class="essays-date"
-            datetime="{{ post.date | date_to_xmlschema }}"
-          >
-            {{ post.date | date: "%B %d, %Y" }}
-          </time>
+          <span class="essays-date">{{ post.date | date: "%B %d, %Y" }}</span>
         </li>
         {% endfor %}
       </ul>
