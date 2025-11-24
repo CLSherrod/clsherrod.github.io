@@ -4,6 +4,39 @@ search: false
 
 @charset "utf-8";
 
+/* =========================================
+   Featured Essay
+========================================= */
+
+.featured-essay {
+  background-color: #f9f9fb; /* Light background */
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  margin-bottom: 2rem;
+  border-radius: 8px; /* Rounding corners */
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+.featured-essay h2 {
+  font-size: 2rem; /* Larger font size */
+  color: #2d2d2d; /* Dark text color */
+}
+
+.featured-essay a {
+  display: inline-block;
+  background-color: #6fdad1; /* CTA Color */
+  color: #fff;
+  padding: 0.75rem 1.5rem; /* Button padding */
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.featured-essay a:hover {
+  background-color: #5cbcaa; /* Darker on hover */
+}
+
 $serif: "Newsreader", Georgia, Times, serif;
 $sans-serif-narrow:
   "Archivo Narrow",
@@ -309,6 +342,11 @@ main {
 .pillars-intro {
   text-align: center;
   color: #444;
+}
+
+.pillar-section a:last-child {
+  margin-top: 0.5rem;
+  display: inline-block;
 }
 
 .pillars-grid {
