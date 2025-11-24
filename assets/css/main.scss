@@ -80,7 +80,7 @@ $link-color: blue;
 // =========================================
 .parallax {
   background-image: url("/assets/images/headers/parallax-background.webp"); /* Parallax background image */
-  height: 100vh; /* Full height of the viewport */
+  height: auto; /* Full height of the viewport */
   background-attachment: fixed; /* Parallax effect */
   background-position: center;
   background-repeat: no-repeat;
@@ -377,7 +377,7 @@ main {
   padding-left: 3.75rem;
   padding-right: 3.75rem;
   padding-top: 0rem;
-  padding-bottom: 0.5em;
+  padding-bottom: 2em;
   color: var(--cs-text-main);
 }
 
