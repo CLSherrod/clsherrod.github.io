@@ -1,9 +1,10 @@
 ---
 layout: single
 title: The EMF-Free Home Starter Kit
-permalink: /courses/emf
+permalink: /courses/unplug
 toc: true
 teaser: The EMF-Free Home Starter Kit
+published: false
 ---
 You don’t need expensive gadgets or fear tactics to live well in the modern world.  
 You just need a clear plan — and a calmer relationship with your devices.
@@ -26,15 +27,10 @@ This kit is what I wish I’d had back then — a calm, straightforward way to m
 **Five beautifully designed PDFs** to guide you room-by-room, step-by-step:
 
 1. **The EMF-Free Home Map** — a visual guide to every common radiation source in your home and what to do about it.
-    
 2. **The 7-Day Detox Plan** — one small daily action to reduce EMFs and increase peace of mind.
-    
 3. **The Bedroom Detox Blueprint** — how to create a truly restful space and wake up refreshed.
-    
 4. **The Device Distance Guide** — the clear “how close is too close” chart you’ll wish you had years ago.
-    
 5. **The Reflection Journal** — printable pages to track your progress and reconnect with what _feels_ right again.
-    
 
 Everything is laid out simply, with calm visuals, white space, and practical steps you can start today.
 

@@ -68,5 +68,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "_pages/courses/The EMF-Free Home Starter Kit.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 115
+      },
+      "to": {
+        "line": 31,
+        "ch": 115
+      }
+    },
+    "expandedKeys": []
   }
 }

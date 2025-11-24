@@ -542,8 +542,64 @@ main {
 }
 
 /* =========================================
-   Footer
+   Products Section
 ========================================= */
+
+#products {
+  background-color: var(--cs-soft-turquoise);
+  padding: 2rem 1.5rem;
+  text-align: center;
+}
+
+#products h2 {
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+  color: var(--cs-turquoise-deep);
+}
+
+.two-column {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 2rem;
+}
+
+.column {
+  flex: 1; /* Each column will take an equal amount of space */
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  box-shadow: var(--cs-shadow-soft-2);
+}
+
+.column img {
+  max-width: 260px; /* Limit image width */
+  margin: 0 auto; /* Center images */
+  border-radius: 8px;
+}
+
+.column p {
+  margin-top: 1rem;
+  color: var(--cs-text-muted);
+}
+
+.column a.more {
+  display: inline-block;
+  margin-top: 1.5rem; /* Add breathing space before CTA */
+  color: var(--cs-turquoise);
+  text-decoration: underline;
+}
+
+.column a.more {
+  display: inline-block;
+  margin-top: 1rem;
+  color: var(--cs-turquoise);
+  text-decoration: underline;
+}
+
+.column a.more:hover {
+  color: var(--cs-turquoise-deeper);
+}
 
 .page__footer-follow .social-icons {
   display: flex;
