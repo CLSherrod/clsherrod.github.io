@@ -81,7 +81,7 @@ $link-color: blue;
 .parallax {
   background-image: url("/assets/images/headers/parallax-background.webp"); /* Parallax background image */
   height: auto; /* Full height of the viewport */
-  background-attachment: fixed; /* Parallax effect */
+  background-attachment: scroll; /* Parallax effect */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover; /* Cover the section with the image */
