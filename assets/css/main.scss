@@ -480,6 +480,66 @@ main {
 }
 
 /* =========================================
+   Testimonial Slider
+========================================= */
+
+.testimonial-slider {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  margin: 2rem 0; /* Add margin for spacing */
+}
+
+.testimonial {
+  position: absolute;
+  width: 100%;
+  opacity: 0;
+  transform: translateX(100%);
+  transition:
+    opacity 0.5s ease-in-out,
+    transform 0.5s ease-in-out;
+}
+
+.testimonial.active {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.testimonial-slider {
+  animation: slide 30s infinite;
+}
+
+@keyframes slide {
+  0%,
+  20% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  30%,
+  50% {
+    opacity: 1;
+    transform: translateX(-100%);
+  }
+  50%,
+  70% {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  70%,
+  100% {
+    opacity: 0;
+    transform: translateX(0);
+  }
+}
+
+/* Additional text styles for testimonials */
+.testimonial p {
+  font-size: 1.05rem; /* Adjust font size for readability */
+  line-height: 1.5; /* Improve line height for legibility */
+  color: var(--cs-text-main); /* Use main theme color for text */
+}
+
+/* =========================================
    Newsletter
 ========================================= */
 
