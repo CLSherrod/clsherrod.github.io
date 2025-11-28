@@ -40,11 +40,6 @@ Updated on Thursday November 27th, 2025.
 - Wrote [Why Successful People Don’t Waste Time Arguing](https://christophersherrod.com/arguing/)
 - Review of an old client's book [Corp-bonics](/corp-bonics/)
 - Wrote my [Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose](/montgomery/)
-- Wrote a review of [Email Storyselling Playbook](/email-storyselling/)
-- Wrote my tribute to Vangelis [The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy](/vangelis)
-- Wrote an essay [The Hidden Cost of Cutting Corners: Why Quality Hosting Matters More Than You Think](/why-good-hosting-matters/)
-- Reviewed a good book [The Happy Isles of Oceania by Paul Theroux – A Fascinating Journey Through the South Pacific]("/happy-isles-of-oceania/)
-- Wrote an essay [Finding Balance: Why Extreme Mindsets Don't Lead to Entrepreneurial Success](/finding-balance/)
 
 See my [past essays](/categories/)
 
