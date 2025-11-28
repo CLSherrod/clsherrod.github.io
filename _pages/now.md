@@ -50,7 +50,7 @@ See my [past essays](/categories/)
 
 ## Recently Read/Listened/Watched
 
-- I [review]([/tags/#review) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
+- I [review]([https://christophersherrod.com/tags/#review) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 - I recommend the [1001 Albums You Must Hear Before You Die challenge](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476). I enjoyed it so much I wrote an [entire essay about it](/1001-albums/).
 - Check out [my profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
 - [My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
