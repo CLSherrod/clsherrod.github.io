@@ -391,6 +391,13 @@ main {
   color: var(--cs-turquoise-deep);
 }
 
+@media (max-width: 600px) {
+  #manifesto h2 {
+    padding-left: 1rem; // Adjust as needed
+    padding-right: 1rem; // Adjust as needed
+  }
+}
+
 #manifesto p {
   margin-left: 2rem; /* Set left margin */
   margin-right: 2rem; /* Set right margin */
@@ -442,6 +449,10 @@ main {
 }
 
 @media (max-width: 600px) {
+  #manifesto {
+    padding-left: 1rem; // Adjust as needed
+    padding-right: 1rem; // Adjust as needed
+  }
   .pillars-grid {
     grid-template-columns: 1fr; /* Single column on small screens */
   }
