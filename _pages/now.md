@@ -13,7 +13,7 @@ header:
 og_image: /assets/images/now-header.webp
 ---
 
-Updated on Thursday November 27th, 2025.
+Updated on Friday November 30th, 2025.
 
 ## Currently Doing
 
@@ -33,13 +33,11 @@ Updated on Thursday November 27th, 2025.
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published
-
+- Wrote [The Rhythm Beneath Everything: What Living on the Beach Really Teaches You](https://christophersherrod.com/the-rhythm-beneath-everything/)
 - Wrote [Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled](https://christophersherrod.com/fulfilled-not-fast-or-slow/)
 - Reviewed ["The Let Them Theory” by Mel Robbins Helps You Let Go and Take Back Your Power](/let-them-theory-mel-robbins-review/)
 - Wrote [Remembering Maru: How a YouTube Cat Helped Me Heal](https://christophersherrod.com/maru/)
 - Wrote [Why Successful People Don’t Waste Time Arguing](https://christophersherrod.com/arguing/)
-- Review of an old client's book [Corp-bonics](/corp-bonics/)
-- Wrote my [Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose](/montgomery/)
 
 See my [past essays](/categories/)
 

@@ -14,29 +14,29 @@
     "expandedKeys": []
   },
   "_pages/now.md": {
-    "scroll": 56.876302083333336,
+    "scroll": 40.1220703125,
     "cursor": {
       "from": {
-        "line": 56,
+        "line": 40,
         "ch": 0
       },
       "to": {
-        "line": 56,
+        "line": 40,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
   "To Do.md": {
-    "scroll": 12.833126550868487,
+    "scroll": 4.084123222748815,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 3,
+        "ch": 38
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 3,
+        "ch": 38
       }
     },
     "expandedKeys": []
@@ -79,6 +79,62 @@
       "to": {
         "line": 32,
         "ch": 115
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 1
+      },
+      "to": {
+        "line": 13,
+        "ch": 1
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/Beach Rhythm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2025-12-01-beach-rhythm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 63,
+        "ch": 62
+      },
+      "to": {
+        "line": 63,
+        "ch": 62
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/Jane Goodall.md": {
+    "scroll": 73.14949674363528,
+    "cursor": {
+      "from": {
+        "line": 73,
+        "ch": 59
+      },
+      "to": {
+        "line": 73,
+        "ch": 59
       }
     },
     "expandedKeys": []
