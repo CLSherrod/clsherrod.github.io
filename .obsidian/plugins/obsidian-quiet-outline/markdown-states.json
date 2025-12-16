@@ -28,15 +28,15 @@
     "expandedKeys": []
   },
   "To Do.md": {
-    "scroll": 4.084123222748815,
+    "scroll": 10.7861,
     "cursor": {
       "from": {
-        "line": 3,
-        "ch": 38
+        "line": 2,
+        "ch": 9
       },
       "to": {
-        "line": 3,
-        "ch": 38
+        "line": 2,
+        "ch": 9
       }
     },
     "expandedKeys": []
@@ -87,12 +87,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 1
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 13,
-        "ch": 1
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -135,6 +135,20 @@
       "to": {
         "line": 73,
         "ch": 59
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/7 Gifts.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
       }
     },
     "expandedKeys": []
