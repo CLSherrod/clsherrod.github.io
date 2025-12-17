@@ -27,7 +27,7 @@ I don’t chase clients—I focus on relationships.
 
 My agency is built on trust, not cold calls. Every project comes to us through personal recommendations, which means we start with a foundation of mutual respect. This keeps our focus where it belongs: creating outstanding work for people who value what we do.
 
-By avoiding the endless sales cycle, we spend our time where it matters—on design, development, and results. Our reputation speaks for itself, carried forward by the clients who’ve already experienced the quality of our work.
+By avoiding the endless sales cycle, we spend our time where it matters—on results. Our reputation speaks for itself, carried forward by the clients who’ve already experienced the quality of our work.
 
 That’s why we stay referral-only: because the right clients don’t need convincing.
 
