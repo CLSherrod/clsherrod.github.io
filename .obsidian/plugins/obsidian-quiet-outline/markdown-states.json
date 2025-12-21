@@ -14,29 +14,29 @@
     "expandedKeys": []
   },
   "_pages/now.md": {
-    "scroll": 20.649286846275754,
+    "scroll": 31.325990491283676,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 29
+        "line": 31,
+        "ch": 21
       },
       "to": {
-        "line": 15,
-        "ch": 29
+        "line": 31,
+        "ch": 21
       }
     },
     "expandedKeys": []
   },
   "To Do.md": {
-    "scroll": 10.7861,
+    "scroll": 0.7384313244138947,
     "cursor": {
       "from": {
-        "line": 2,
-        "ch": 9
+        "line": 3,
+        "ch": 47
       },
       "to": {
-        "line": 2,
-        "ch": 9
+        "line": 3,
+        "ch": 47
       }
     },
     "expandedKeys": []
@@ -163,6 +163,118 @@
       "to": {
         "line": 29,
         "ch": 75
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2025-11-08-power-that-everyone-believes-in.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 88,
+        "ch": 61
+      },
+      "to": {
+        "line": 86,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/End of year.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 89,
+        "ch": 149
+      },
+      "to": {
+        "line": 89,
+        "ch": 149
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/2025-12-29-End of year.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 89,
+        "ch": 149
+      },
+      "to": {
+        "line": 89,
+        "ch": 149
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/2025-12-29-done-pretending.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 86,
+        "ch": 0
+      },
+      "to": {
+        "line": 86,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2025-12-22-power-that-everyone-believes-in.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 86,
+        "ch": 0
+      },
+      "to": {
+        "line": 86,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2025-10-06-being-a-good-person-in-a-bad-world.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 61,
+        "ch": 44
+      },
+      "to": {
+        "line": 61,
+        "ch": 44
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-01-06-being-a-good-person-in-a-bad-world.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 61,
+        "ch": 44
+      },
+      "to": {
+        "line": 61,
+        "ch": 44
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2025-12-21-power-that-everyone-believes-in.md": {
+    "scroll": 15.104166666666666,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
       }
     },
     "expandedKeys": []
