@@ -13,21 +13,21 @@
 #    (___)      |_|      (___)
 #    (___)  ___/___\___   | |
 #     | |  |           |  | |
-#     | |  |___________| /___\ 
+#     | |  |___________| /___\
 #    /___\  |||     ||| //   \\
 #   //   \\ |||     ||| \\   //
 #   \\   // |||     |||  \\ //
 #    \\ // ()__)   (__()
-#          ///       \\\ 
-#         ///         \\\ 
+#          ///       \\\
+#         ///         \\\
 #       _///___     ___\\\_
 #      |_______|   |_______|
 #
 #
 ####################################################################
 # Robots.txt file
-# Version: V1.02
-# Updated: 2024-07-04
+# Version: V1.03
+# Updated: 2025-12-21
 ###################################################################
 
 ## Slow down crawls
@@ -38,16 +38,14 @@ Visit-time: 0200-0300
 user-agent: *
 Disallow: /assets/
 user-agent: *
-Disallow: /css/
+Disallow: /assets/css/
 user-agent: *
-Disallow: /js/
+Disallow: /assets/js/
 
 ## Disallow AI Bots
 User-agent: GPTBot
 Disallow: /
 User-agent: ChatGPT-User
-Disallow: /
-User-agent: Google-Extended
 Disallow: /
 User-agent: PerplexityBot
 Disallow: /
@@ -446,8 +444,6 @@ Disallow:/
 User-agent: Go-Ahead-Got-It
 Disallow:/
 User-agent: GoZilla
-Disallow:/
-User-agent: Google-Extended
 Disallow:/
 User-agent: Gotit
 Disallow:/
