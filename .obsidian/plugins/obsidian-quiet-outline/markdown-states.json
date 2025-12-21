@@ -266,7 +266,7 @@
     "expandedKeys": []
   },
   "_posts/2025-12-21-power-that-everyone-believes-in.md": {
-    "scroll": 15.104166666666666,
+    "scroll": 0,
     "cursor": {
       "from": {
         "line": 14,
@@ -274,6 +274,20 @@
       },
       "to": {
         "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-01-05-being-a-good-person-in-a-bad-world.md": {
+    "scroll": 1.38125,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
         "ch": 0
       }
     },

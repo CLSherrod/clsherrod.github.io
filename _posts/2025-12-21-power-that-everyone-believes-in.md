@@ -10,7 +10,7 @@ tags:
   - spirituality
 toc: true
 permalink: /the-power-that-everyone-believes-in/
-published: false
+published: true
 ---
 _(Why It Doesn’t Matter What You Call It)_
 
