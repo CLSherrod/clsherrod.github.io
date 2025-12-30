@@ -1,5 +1,5 @@
 ---
-title: The Power of Lucid Dreaming | Law Of Attraction
+title: The Power of Lucid Dreaming
 date: 2008-03-27
 published: true
 categories:
@@ -8,8 +8,8 @@ tags:
   - fulfilling-life
 permalink: /the-power-of-lucid-dreaming-law-of-attraction/
 date_last_modified: 2025-12-30
-description: The Power of Lucid Dreaming | Law Of Attraction
-preview: The Power of Lucid Dreaming | Law Of Attraction
+description: The Power of Lucid Dreaming
+preview: The Power of Lucid Dreaming
 ---
 I have many dreams of what to do next.  It is very common for me.  The are detailed and very inspiring.  Here is an article on lucid dreaming that helps explain what naturally occurs to me.
 
