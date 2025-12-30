@@ -60,3 +60,10 @@ The world may never be perfect. But I refuse to let it make me bitter. **I’d r
 
 ---
 Want more? Check out my other essay on [Happiness](/happiness/).
+## Join the Community
+
+If you enjoy essays like this and want daily notes on slow living, fulfillment, and finding a calmer rhythm in a noisy world, you can join the community here:
+
+👉 **[https://christophersherrod.com](https://christophersherrod.com/)**
+
+The rhythm is easier to follow when you’re not doing it alone.

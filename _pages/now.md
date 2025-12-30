@@ -13,7 +13,7 @@ header:
 og_image: /assets/images/now-header.webp
 ---
 
-Updated on Sunday December 21st, 2025.
+Updated on Sunday December 30th, 2025.
 
 ## Currently Doing
 - I’m currently writing a course *Digital Declutter: 4 Steps to a Low-EMF, High-Energy Life* to help you reduce exposure, sleep deeper, and feel grounded again — without adding more tech or stress to your life.
@@ -30,12 +30,12 @@ Updated on Sunday December 21st, 2025.
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published
+- Wrote [Being Grateful Every Day Changed How I Live](https://christophersherrod.com/being-grateful-every-day/)
 - Wrote [The Power That Everyone Believes In](https://christophersherrod.com/the-power-that-everyone-believes-in/)
 - Wrote [The Rhythm Beneath Everything: What Living on the Beach Really Teaches You](https://christophersherrod.com/the-rhythm-beneath-everything/)
 - Wrote [Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled](https://christophersherrod.com/fulfilled-not-fast-or-slow/)
 - Reviewed ["The Let Them Theory” by Mel Robbins Helps You Let Go and Take Back Your Power](/let-them-theory-mel-robbins-review/)
 - Wrote [Remembering Maru: How a YouTube Cat Helped Me Heal](https://christophersherrod.com/maru/)
-- Wrote [Why Successful People Don’t Waste Time Arguing](https://christophersherrod.com/arguing/)
 
 See my [past essays](/categories/)
 

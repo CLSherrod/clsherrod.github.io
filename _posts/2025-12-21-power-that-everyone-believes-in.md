@@ -85,4 +85,10 @@ If this essay resonates, you may enjoy these pieces I’ve written exploring bel
     A reflection on why fulfillment isn’t about pace, productivity, or optimization — but alignment.  
     [https://christophersherrod.com/fulfilled-not-fast-or-slow/](https://christophersherrod.com/fulfilled-not-fast-or-slow/)
 
-    
+## Join the Community
+
+If you enjoy essays like this and want daily notes on slow living, fulfillment, and finding a calmer rhythm in a noisy world, you can join the community here:
+
+👉 **[https://christophersherrod.com](https://christophersherrod.com/)**
+
+The rhythm is easier to follow when you’re not doing it alone.

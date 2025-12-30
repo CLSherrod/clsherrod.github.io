@@ -14,29 +14,29 @@
     "expandedKeys": []
   },
   "_pages/now.md": {
-    "scroll": 15.104166666666666,
+    "scroll": 19.208658854166668,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 17
+        "line": 19,
+        "ch": 0
       },
       "to": {
-        "line": 15,
-        "ch": 17
+        "line": 19,
+        "ch": 0
       }
     },
     "expandedKeys": []
   },
   "To Do.md": {
-    "scroll": 9.237122557726465,
+    "scroll": 0.7384,
     "cursor": {
       "from": {
-        "line": 1,
-        "ch": 18
+        "line": 0,
+        "ch": 0
       },
       "to": {
-        "line": 1,
-        "ch": 18
+        "line": 0,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -112,15 +112,15 @@
     "expandedKeys": []
   },
   "_posts/2025-12-01-beach-rhythm.md": {
-    "scroll": 0,
+    "scroll": 64.85481770833333,
     "cursor": {
       "from": {
         "line": 63,
         "ch": 62
       },
       "to": {
-        "line": 63,
-        "ch": 62
+        "line": 57,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -266,29 +266,57 @@
     "expandedKeys": []
   },
   "_posts/2025-12-21-power-that-everyone-believes-in.md": {
-    "scroll": 0,
+    "scroll": 93.11295572916667,
     "cursor": {
       "from": {
-        "line": 14,
-        "ch": 0
+        "line": 93,
+        "ch": 62
       },
       "to": {
-        "line": 14,
-        "ch": 0
+        "line": 93,
+        "ch": 62
       }
     },
     "expandedKeys": []
   },
   "_posts/2026-01-05-being-a-good-person-in-a-bad-world.md": {
-    "scroll": 1.38125,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 13,
+        "line": 68,
+        "ch": 62
+      },
+      "to": {
+        "line": 68,
+        "ch": 62
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
         "ch": 0
       },
       "to": {
-        "line": 13,
+        "line": 0,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2025-12-30-gratitude.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 135,
+        "ch": 37
+      },
+      "to": {
+        "line": 135,
+        "ch": 37
       }
     },
     "expandedKeys": []
