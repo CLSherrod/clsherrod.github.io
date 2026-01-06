@@ -114,9 +114,6 @@ My own lightweight OBTF project lives here:
 
 It’s intentionally minimal — meant to support writing and thinking, not manage your life.
 
-The original write-up that popularized the idea can be found here:  
-👉 [https://github.com/johnhenry/one-big-text-file](https://github.com/johnhenry/one-big-text-file)
-
 This page exists as a quiet pointer — and a reminder that sometimes the best system is the one that asks the least of you.
 
 Write more.  
