@@ -119,3 +119,11 @@ This page exists as a quiet pointer — and a reminder that sometimes the best s
 Write more.  
 Decide less.  
 Keep it simple.
+
+## Learn More
+Read my essay on [How Smart Notes Transformed My Productivity and Well-being](https://christophersherrod.com/smart-notes/)
+
+Add check out my related projects
+- [Home Manual in Markdown](https://christophersherrod.com/home-manual/)
+- [Gardening notes in Markdown](https://christophersherrod.com/gardening/)
+- [Basic CRM System in Markdown.](https://christophersherrod.com/crm/)
