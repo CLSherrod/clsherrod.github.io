@@ -1,11 +1,12 @@
 ---
 title: How Smart Notes Transformed My Productivity and Well-being
 date: 2023-10-02
-last_modified_at: 2025-06-16
+last_modified_at: 2026-01-06
 tags:
-- entrepreneurship
+  - systems
+  - fulfilling-life
 categories:
-- Living a Fulfilling Life
+  - Living a Fulfilling Life
 permalink: /smart-notes/
 published: true
 comments: true
@@ -199,10 +200,10 @@ I use [this vault template](https://github.com/kepano/kepano-obsidian) as it's s
 
 ### Additional Markdown Resources
 I’ve created some markdown projects to help me organize things in my life. I hope you find them helpful.
-- [One Big Text File Markdown Journal](https://github.com/CLSherrod/OBTF/) - I keep track on what I’ve worked on in one big text file where I add the new day at the top of the file. Been doing this since January 2022. 
-- [Home Manual Markdown](https://github.com/CLSherrod/home-manual-markdown) - what I use to track everything in home
-- [Gardening Markdown](https://github.com/CLSherrod/gardening-markdown) - how I keep track of my plants
-- [Contact Relationship Management Markdown](https://github.com/CLSherrod/crm-markdown) - I found most contact system to be too complicated so I made a simple plaintext files to maintain contact notes
+- [One Big Text File Markdown Journal](https://christophersherrod.com/obtf/) - I keep track on what I’ve worked on in one big text file where I add the new day at the top of the file. Been doing this since January 2022. 
+- [Home Manual Journal in Markdown](https://christophersherrod.com/home-manual/) - what I use to track everything in home
+- [Gardening Notes in Markdown](https://christophersherrod.com/gardening/) -  how I keep track of my plants
+- [Basic Contact Relationship Management System in Markdown.](https://christophersherrod.com/crm/) -  I found most contact system to be too complicated so I made a simple plaintext files to maintain contact notes
 
 ### Folder Structure For Files
 I also have found structuring my files not in my smart note system in a folder structure to make it easy to find files easily. This is the file tree is what I based my system off of [home system folder structure](https://github.com/roboyoshi/datacurator-filetree/tree/user/roboyoshi.home/root).
