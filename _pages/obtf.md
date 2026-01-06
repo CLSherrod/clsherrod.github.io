@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 title: One Big Text File (OBTF)
 permalink: /obtf/
 toc: true

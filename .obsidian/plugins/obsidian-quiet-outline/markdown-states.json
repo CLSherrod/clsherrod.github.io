@@ -14,14 +14,14 @@
     "expandedKeys": []
   },
   "_pages/now.md": {
-    "scroll": 19.208658854166668,
+    "scroll": 0.6921,
     "cursor": {
       "from": {
-        "line": 19,
+        "line": 14,
         "ch": 0
       },
       "to": {
-        "line": 19,
+        "line": 14,
         "ch": 0
       }
     },
@@ -350,15 +350,15 @@
     "expandedKeys": []
   },
   "_pages/obtf.md": {
-    "scroll": 0.6501547987616099,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 0
+        "line": 17,
+        "ch": 7
       },
       "to": {
-        "line": 7,
-        "ch": 0
+        "line": 17,
+        "ch": 7
       }
     },
     "expandedKeys": []
