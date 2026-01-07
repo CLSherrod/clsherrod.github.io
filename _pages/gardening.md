@@ -4,114 +4,87 @@ title: Gardening Project Managment Markdown
 permalink: /gardening/
 toc: true
 ---
-## Home Manual Markdown
+## Gardening Markdown
 
-**A simple, durable way to document, understand, and steward your home life using Markdown.**
+**A plain-text garden journal that grows with you.**
 
-Your home is more than a place — it’s a set of routines, tools, spaces, responsibilities, and knowledge. The Home Manual is a plain-text system that helps you _track all of that_ without complexity: maintenance schedules, appliance info, cleaning rhythms, project plans, supplies lists, and anything else that belongs to how you live under one roof.
+Gardening Markdown is a lightweight, durable system for keeping notes about your garden, written in simple Markdown files. Instead of wrestling with apps that lock your data or demand constant clicks, this project lets gardeners keep _clear, searchable records_ of their soil, seeds, weather, harvests, successes, failures, and reflections — all in plain text that will last as long as your garden does.
 
-This isn’t an app. It’s not a database. It’s a _Markdown file_ — a format that’s future-proof, open, lightweight, and under your control.
+This isn’t a tracker with bells and badges. This is a **garden memoir**, built slowly and honestly over time.
 
-At its core, the Home Manual helps you externalize what matters about your home — not perfectly, but honestly and usefully. It belongs in the same family as your other plain-text life systems, like the _One Big Text File_ journal you might already use. ([Christopher Sherrod](https://christophersherrod.com/home-manual/ "Home Manual Markdown - Christopher Sherrod"))
+## Why Gardening Markdown
 
-## What It Is
+Most digital gardening tools promise convenience but come with hidden costs: locked data, subscription walls, feature bloat, and interfaces that interrupt your thinking.
 
-The Home Manual is a collection of Markdown files and wiki-style links that model your home life. Instead of hiding information in scattered apps, screenshots, or memory, you keep it in a place you can search, edit, reference, and version with real tools you already own.
+Markdown solves all that:
 
-Markdown is simple text with light formatting: headings, lists, dates, tags, and links. It works everywhere (editors, phones, computers) and never becomes obsolete.
+You own the files.  
+You control the structure.  
+You can edit them anywhere.  
+They never become obsolete.
 
-This makes the Home Manual both a _practical reference_ and a _living document_ of how your home actually works.
+Just as a garden rewards slow, consistent attention, this system rewards observation and reflection. When you look back at your notes months or years later, you’ll see patterns you’d otherwise forget.
 
-## Why a Home Manual Exists
+## What You Can Track
 
-Standard home management tools are either too rigid (checklist apps that expire), too productized (subscription-based services that disappear), or too complex (databases and templates that demand maintenance).
+With Gardening Markdown, you can record:
 
-A plain-text system solves this by being:
+• Seed and transplant dates  
+• Germination observations  
+• Soil mixes and amendments  
+• First bloom and harvest dates  
+• Pests, diseases, and management strategies  
+• Seasonal weather notes  
+• Harvest yields and quality  
+• Lessons learned and future ideas
 
-- **Flexible:** You define the structure that works for you.
-    
-- **Accessible:** Open files you can edit anywhere, anytime.
-    
-- **Future-proof:** No vendor lock-in, no subscriptions.
-    
-- **Low-friction:** No complexity that slows you down.
-    
+Each file becomes a snapshot of a season, a plant, or a particular part of your gardening life.
 
-The Home Manual isn’t about perfection. It’s about presence: _knowing what you need, when you need it, without noise._
+## How It Works
 
-## What You Can Track in It
+Create a folder on your device for all your garden notes. Within it, use Markdown files (simple `.md` text files) to capture entries. Here are some example file structures:
 
-A Home Manual can include:
+`Spring-2026.md` – seasonal notes  
+`Tomatoes.md` – plant-specific log  
+`Soil-Mixes.md` – recipes and experiments  
+`Harvests.md` – yields and results
 
-- maintenance schedules (filters changed, check-ups due),
-    
-- furniture and appliance details,
-    
-- paint colors and finishes,
-    
-- cleaning routines and rhythms,
-    
-- utility contacts,
-    
-- project plans and progress notes,
-    
-- storage inventories and supplies lists.
-    
+Inside each file, use headings and lists to organize content, and link between files with wiki-style links (`[[Tomatoes]]`) to connect ideas and entries. Search your folder when you need to find something; no menus, filters, or categories to learn.
 
-There’s no fixed list — just what’s _useful for your life under roof._
+The result is a garden record that’s as malleable as soil and as open as a field.
 
-## Who It’s For
+## Gardening as Practice
 
-This system works best for people who:
+This project rises from the same philosophy that guides slow living and mindful practice: **presence over performance.**
 
-- want fewer tools, not more,
-    
-- value clarity over bureaucracy,
-    
-- appreciate slow, mindful stewardship of life,
-    
-- prefer writing practice that _documents lived experience_.
-    
+Gardening Markdown isn’t about optimizing every square inch of your plot or chasing metrics. It’s about showing up, noticing, and gently documenting what happens.
 
-If your goal is to _understand_ your home rather than _manage_ it obsessively, this fits.
-
-## How to Use It (Practical Steps)
-
-1. **Clone or copy the repository** to your device.
-    
-2. Open the Home Manual Markdown folder in your editor of choice.
-    
-3. Use the existing files as templates for your own entries.
-    
-4. Add pages as needed: `Appliances.md`, `Maintenance.md`, `Projects.md`, etc.
-    
-5. Use wiki-style links (`[[Appliances]]`) for easy navigation.
-    
-6. Search with your editor when you need to find something fast.
-    
-
-There’s no governance layer, no sync algorithm to master — just your content and a text editor.
+A journal like this turns gardening into a conversation with time and place, not a checklist to complete.
 
 ## FAQ
 
-**Do I need special software?**  
-No. Any text editor that reads Markdown will work. If you want backlinks or auto-search, choose an editor with those features built-in.
+**Do I need special tools?**  
+No. Any text editor that supports Markdown will work. The simpler the tool, the less friction you have.
 
-**Can this replace apps like Notion or Evernote?**  
-It can replace them for many personal workflows if simplicity and longevity matter more than bells and whistles.
+**Can I access my notes on my phone?**  
+Yes. Markdown works on phones, tablets, and computers. Sync your folder if you want access everywhere.
 
-**Will the files get messy?**  
-Only if you force them into structures you don’t actually use. Keep it practical, not perfect.
+**What’s the advantage over a notebook?**  
+Markdown combines the permanence of paper with the searchability and portability of digital text — without locking you into software.
 
-**Can I link my Home Manual with other writing systems (like OBTF)?**  
-Yes — treating the manual as part of your broader ecosystem lets ideas flow between practices without fragmentation.
+**Will this system still work years from now?**  
+Plain text is one of the most future-proof formats there is. Your notes will be readable long after any specific app is forgotten.
 
-## Repository
+## Get Started
 
-The Home Manual project is here on GitHub:  
-👉 [https://github.com/CLSherrod/Home-Manual-Markdown](https://github.com/CLSherrod/Home-Manual-Markdown)
+The **Gardening Markdown** project lives on GitHub:  
+👉 [https://github.com/CLSherrod/gardening-markdown](https://github.com/CLSherrod/gardening-markdown)
 
-It’s intentionally minimal — a skeleton of what matters, patiently waiting for your lived experience to fill it.
+Clone it. Adapt it. Make it your own.
+
+Grow patiently.  
+Write intentionally.  
+Observe what others ignore.
 
 ## Additional Markdown Resources
 I’ve created some markdown projects to help me organize things in my life. I hope you find them helpful.
