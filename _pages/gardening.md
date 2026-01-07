@@ -4,8 +4,6 @@ title: Gardening Project Managment Markdown
 permalink: /gardening/
 toc: true
 ---
-## Gardening Markdown
-
 **A plain-text garden journal that grows with you.**
 
 Gardening Markdown is a lightweight, durable system for keeping notes about your garden, written in simple Markdown files. Instead of wrestling with apps that lock your data or demand constant clicks, this project lets gardeners keep _clear, searchable records_ of their soil, seeds, weather, harvests, successes, failures, and reflections — all in plain text that will last as long as your garden does.
