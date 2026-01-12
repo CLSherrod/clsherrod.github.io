@@ -12,7 +12,7 @@ header:
 # SEO overrides
 og_image: /assets/images/now-header.webp
 ---
-Updated on Sunday January 11th, 2026.
+Updated on Monday January 12th, 2026.
 
 ## Currently Doing
 - I'm creating the course on *Living a Fulfilling Life: A Quiet Workbook for People Who Are Done Rushing Their Own Lives*
