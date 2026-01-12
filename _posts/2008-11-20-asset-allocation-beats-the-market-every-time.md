@@ -24,7 +24,7 @@ What matters far more than selection or timing is something quieter and less exc
 Most long-term outcomes are shaped there, not in clever moves.
 
 > 92% of your return is determined by asset allocation, 6% my manager/stock selection, and 2% by timing.
-### The Part People Ignore
+## The Part People Ignore
 
 Asset allocation forces you to confront restraint.
 
@@ -36,7 +36,7 @@ They fail because they followed enthusiasm too far.
 I’ve seen lives built around a single rising asset collapse when that one pillar gave way. The damage rarely stays financial. It spills into stress, relationships, health, and the quiet sense of safety people mistake for success.
 
 This is the cost of imbalance.
-### Risk Isn’t a Number — It’s a Feeling
+## Risk Isn’t a Number — It’s a Feeling
 
 Everyone believes they understand their risk tolerance.
 
@@ -49,7 +49,7 @@ I’ve written about this in [Finding Balance: Why Extreme Mindsets Don’t Lead
 
 What you can live with matters more than what looks optimal.
 
-### Simplicity Has Leverage
+## Simplicity Has Leverage
 
 Mark Cuban once said that you should never put money somewhere you don’t have an information advantage.
 
@@ -63,7 +63,7 @@ This mirrors a broader theme I return to often, including in [Why Successful Peo
 
 Cleverness burns fuel.  
 Structure saves it.
-### Looking Back
+## Looking Back
 
 Eventually, I simplified even further.
 
