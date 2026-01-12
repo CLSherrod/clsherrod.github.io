@@ -85,7 +85,7 @@ If this essay resonated, you may want to continue here:
 These ideas repeat because they intersect.  
 They tend to point in the same direction.
 
-## 2018 Update
+## Recommendation
 My current asset allocation for my investments are on [WealthFront](http://wlth.fr/1SldB0I). A few years ago I liquidated all my stocks and put them in WealthFront to manage for me. WealthFront handles getting the stocks, REITs, and bonds. Using tools that only billionaires had access to in the past.
 
 Goto [WealthFront](http://wlth.fr/1SldB0I) that is an affiliate link and you can get $5,000 managed for free. After that it is a super low fee better by far than any other method.
