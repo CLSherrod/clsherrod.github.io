@@ -12,21 +12,20 @@ header:
 # SEO overrides
 og_image: /assets/images/now-header.webp
 ---
-
-Updated on Sunday December 30th, 2025.
+Updated on Sunday January 11th, 2026.
 
 ## Currently Doing
-- I’m currently writing a course *Digital Declutter: 4 Steps to a Low-EMF, High-Energy Life* to help you reduce exposure, sleep deeper, and feel grounded again — without adding more tech or stress to your life.
+- I'm creating the course on *Living a Fulfilling Life: A Quiet Workbook for People Who Are Done Rushing Their Own Lives*
+- Organising my essays on this site
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.
-- I have my own [web agency](/whodefinesyou) since 1999.
 - I'm an artist known as [Chr1stopher](/chr1stopher).
-- Created some markdown projects for certain tracking I do in markdown text: [One Big Text File Markdown Journal](/obtf), [Home Manual Markdown](/home-manual), [Customer Relationship Management Markdown](/crm), and [Gardening Project Managment Markdown](/gardening).
+- I have my own [web agency](/whodefinesyou) since 1999.
 
 ## Popular Essays
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
-- [Boost Your Content Production Game: Essential Apps and Tools for 2025!](/workflow/) - I update yearly with my essential apps
+- [Boost Your Content Production Game: Essential Apps and Tools for 2026!](/workflow/) - I update yearly with my essential apps
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published

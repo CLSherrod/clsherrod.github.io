@@ -1,15 +1,14 @@
 ---
 layout: single
 title: My Books
-permalink: /book/
+permalink: /books/
 toc: true
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
   overlay_image: /assets/headers/images/headers/books-header.webp
   overlay_filter: 0.1
-  image_description: "Art Books by Chr1stopher"
-  caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
-# SEO overrides
+  image_description: Art Books by Chr1stopher
+  caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/headers/books-header.webp
 ---
 

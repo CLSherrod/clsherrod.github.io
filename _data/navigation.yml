@@ -1,29 +1,11 @@
 main:
-  - title: "Start Here"
+  - title: "Start"
     url: /start/
   - title: "Newsletter"
     url: /#newsletter
-  - title: "Writer"
-    url: /writer/
-    children:
-      - title: "Book"
-        url: /book/
-        children:
-          - title: "How To Create New Business Ideas Based On What You Love"
-            url: /book/business-ideas/
-      - title: "Essays"
-        url: /blog/
-  - title: "Artist"
-    url: /chr1stopher/
+  - title: "Courses"
+    url: /courses/
+  - title: "Body of Work"
+    url: /work/
   - title: "About"
     url: /about/
-    children:
-      - title: "Hello"
-        url: /hello/
-      - title: "Now"
-        url: /now/
-  - title: "Explore"
-    url: /explore/
-    children:
-      - title: "Projects"
-        url: /projects/

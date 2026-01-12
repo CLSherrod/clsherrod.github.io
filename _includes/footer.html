@@ -1,5 +1,6 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
+    <b>Explore:</b>
     {% if site.footer.links %} {% for link in site.footer.links %} {% if
     link.label and link.url %}
     <li>
@@ -15,40 +16,34 @@
         {{ link.label }}
       </a>
     </li>
-    {% endif %} {% endfor %} {% endif %} {% unless site.atom_feed.hide %}
-    <li>
-      <a
-        href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"
-        rel="noopener noreferrer"
-      >
-        <i class="fas fa-fw fa-rss-square" aria-hidden="true"></i>
-        {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
-      </a>
-    </li>
-    {% endunless %}
+    {% endif %} {% endfor %} {% endif %} {% unless site.atom_feed.hide %} {%
+    endunless %}
   </ul>
 </div>
 
 <div class="page__footer-copyright">
   <p style="text-align: center; font-size: 0.9rem">
-    <span style="opacity: 0.85; display: block; margin-bottom: 1rem">
-      Writing online since 2000 • Read in 40+ countries • 25 years of essays and
-      a book.
+    <span style="opacity: 0.85; display: block; margin-bottom: 1rem"
+      ><b>Details: </b
+      ><a href="https://christophersherrod.com/about#contact">Contact</a> -
+      <a href="https://christophersherrod.com/now">Now</a> -
+      <a href="https://christophersherrod.com/colophon">Colophon</a> -
+      <a href="https://christophersherrod.com/feed.xml">RSS</a>
     </span>
     <span style="opacity: 0.85; display: block; margin-bottom: 1rem">
-      Start living a slower, more fulfilling life — one short idea every
-      morning.
-      <br />
-      <a href="https://christophersherrod.com/#newsletter"
-        >Get Today's Note</a
-      ></span
-    >
+      Writing online since 2000 • Read in 40+ countries • 25 years of essays, a
+      book and a course.
+    </span>
+    <span style="opacity: 0.85; display: block; margin-bottom: 1rem">
+      <b>Elsewhere:</b>
+      <a href="https://christophersherrod.com/chr1stopher">Artist</a> -
+      <a href="https://christophersherrod.com/whodefinesyou">Web Agency</a>
+    </span>
+
     Created by
     <a href="https://whodefinesyou.com" rel="noopener noreferrer">
-      Who Defines You – Web Agency
-    </a>
-    <br /><br />
-
+      Who Defines You – Web Agency </a
+    ><br /><br />
     <span id="copyright-year">
       © 2000–<span id="year"></span> Christopher Sherrod #FulfillingLife
       <img

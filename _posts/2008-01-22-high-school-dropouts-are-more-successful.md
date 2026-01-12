@@ -12,7 +12,7 @@ published: true
 comments: true
 ---
 It's a common belief that formal education is the key to success. However, history and contemporary examples show that many high school dropouts have achieved extraordinary accomplishments. Below is a list of notable individuals who defied the odds and became highly successful without completing high school.
-<!--more-->
+
 ## Business Moguls and Entrepreneurs
 - Thomas Haffa - self-made double-digit billionaire German media businessman
 - J.R. Simplot - self-made billionaire American agricultural businessman

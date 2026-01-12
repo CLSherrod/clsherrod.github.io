@@ -10,9 +10,7 @@ header:
  image_description: "Christopher Sherrod in the jungle outside of Playa del Carmen Mexico"
  caption: "Christopher in Playa del Carment Mexico"
 ---
-## Author & Guide to Living a Fulfilling Life  
-
-### Practical Wisdom for a Life of Fulfillment  
+## Practical Wisdom for a Life of Fulfillment  
 Success isn’t just about business—it’s about creating a life that feels truly fulfilling. I'm a web agency owner and long-time self-help blogger. I share practical wisdom on personal growth, intentional living, and sustainable success. With decades of real-world experience, I help people design lives that align with their true purpose.  
 
 > **“Success isn’t about working harder—it’s about aligning your life with what truly matters.”**  
@@ -30,32 +28,44 @@ My biggest influences have been spiritual teachers and two entrepreneurial mento
 #### My Business Approach: The Dolphin Entrepreneur
 I penned down my business philosophy, dubbed the [Dolphin Entrepreneur](/dolphin-entrepreneur/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
 
-### Writing  
+## Writing  
 My book, [How To Create New Business Ideas Based On What You Love](/book/business-ideas/), provide practical guidance for those seeking to build a business that supports their ideal lifestyle.  
-
-I'm currently writing a course **Digital Declutter: 4 Steps to a Low-EMF, High-Energy Life**, exploring his experience with electronic sensitivity and how to live a balanced, low-tech life in an increasingly digital world.  
 
 Beyond clients, courses, books and making art, I share insights through [blog post essays](/blog), and [poetry](/categories/#poems) offering real-world lessons on self-improvement, lifestyle design, and the mindset shifts needed for true success.  
 
-#### My current featured articles
+### My current featured articles
 - [Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled](https://christophersherrod.com/fulfilled-not-fast-or-slow/)
 - [Why Successful People Don’t Waste Time Arguing - Christopher Sherrod](https://christophersherrod.com/arguing/)
 - [The Hidden Cost of Cutting Corners: Why Quality Hosting Matters More Than You Think - Christopher Sherrod](https://christophersherrod.com/why-good-hosting-matters/)
 - [Boost Your Content Production Game: Apps and Tools for 2025!](/workflow)
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 
-#### Current Projects and More
-Curious about what I’m up to these days? Check out my current projects section. And if you want a glimpse into my past endeavours, I’ve got a full list of past projects too.
-- [What I’m doing now](/now/)
-- See [Projects](/projects) for a full list of projects.
-
-### Newsletter
+### My Daily Newsletter
 Join my [newsletter](/newsletter/) to keep updated on my projects, articles and books.
+## Body of Work
+Curious about what I’m up to these days? Check out:
+- See [my body of work](/work) for a full list.
+- [What I’m doing now](/now/)
 
-### Offline Activities
+## Offline Activities
 I enjoy listening to music, playing the Native American flute, creating art, and spending time with my wife, embracing a slower, more connected way of living. 
 
 You can also experience [my art](https://christophersherrod.com/chr1stopher).  
 
-### Stay Connected
-Want to stay in the loop? Go to my [Hello page](/hello).
+## Contact
+Here is how I prefer to keep in touch:
+
+### Email
+<form action="mailto:chris@christophersherrod.com" method="get" enctype="text/plain">
+    Subject:<br>
+    <input type="text" name="subject" placeholder="Your Name"><br>
+    Email:<br>
+    <input type="email" name="email" placeholder="Your Email"><br>
+    Message:<br>
+    <textarea name="body" rows="5" cols="30" placeholder="Your Message"></textarea><br>
+    <input type="submit" value="Send">
+  </form>
+
+### Encrypted Messages
+Send me a message on Signal.
+![Christopher on Signal](/assets/images/signal-qr-code.webp){: .align-center style="width:320px;" }

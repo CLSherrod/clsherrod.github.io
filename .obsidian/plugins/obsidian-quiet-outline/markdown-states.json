@@ -14,29 +14,29 @@
     "expandedKeys": []
   },
   "_pages/now.md": {
-    "scroll": 0.6921,
+    "scroll": 26.815503875968993,
     "cursor": {
       "from": {
-        "line": 14,
-        "ch": 0
+        "line": 28,
+        "ch": 39
       },
       "to": {
-        "line": 14,
-        "ch": 0
+        "line": 28,
+        "ch": 39
       }
     },
     "expandedKeys": []
   },
   "To Do.md": {
-    "scroll": 0.7305756720265129,
+    "scroll": 13.140023682652457,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 13,
+        "ch": 81
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 13,
+        "ch": 81
       }
     },
     "expandedKeys": []
@@ -350,15 +350,533 @@
     "expandedKeys": []
   },
   "_pages/obtf.md": {
-    "scroll": 114.11328125,
+    "scroll": 126.15571343990527,
     "cursor": {
       "from": {
-        "line": 114,
-        "ch": 89
+        "line": 128,
+        "ch": 70
       },
       "to": {
-        "line": 114,
-        "ch": 89
+        "line": 126,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/home-manual.md": {
+    "scroll": 99.32709984152139,
+    "cursor": {
+      "from": {
+        "line": 99,
+        "ch": 1
+      },
+      "to": {
+        "line": 99,
+        "ch": 1
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/gardening.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/crm.md": {
+    "scroll": 108.14420572916667,
+    "cursor": {
+      "from": {
+        "line": 82,
+        "ch": 0
+      },
+      "to": {
+        "line": 82,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2023-10-02-smart-notes.md": {
+    "scroll": 207.2306,
+    "cursor": {
+      "from": {
+        "line": 205,
+        "ch": 212
+      },
+      "to": {
+        "line": 200,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/newsletter.md": {
+    "scroll": 1.3222222222222222,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/start.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 36
+      },
+      "to": {
+        "line": 16,
+        "ch": 36
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2023-01-17-workflow.md": {
+    "scroll": 26.227945529899348,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 12
+      },
+      "to": {
+        "line": 20,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/courses/fulfilling-life.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/courses/Living a Fulfilling Life Workbook.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/courses/Living a Fulfilling Life.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 0
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/courses/living-a-fulfilling-life.md": {
+    "scroll": 3.9660056657223794,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 69
+      },
+      "to": {
+        "line": 7,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "_bases/Posts.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 0
+      },
+      "to": {
+        "line": 3,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/explore.md": {
+    "scroll": 1.7371937639198218,
+    "cursor": {
+      "from": {
+        "line": 71,
+        "ch": 87
+      },
+      "to": {
+        "line": 71,
+        "ch": 87
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/Work.md": {
+    "scroll": 13.604166666666666,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/Learn.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 77,
+        "ch": 63
+      },
+      "to": {
+        "line": 77,
+        "ch": 63
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/books/business-ideas.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/books/book.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/books/books.md": {
+    "scroll": 6.220095693779904,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/learn/living-a-fulfilling-life.md": {
+    "scroll": 7.166666666666667,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 47
+      },
+      "to": {
+        "line": 7,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/learn/emf-reduction-kit.md": {
+    "scroll": 12.166666666666666,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/learn/implement.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/learn/courses.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 0
+      },
+      "to": {
+        "line": 16,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2008-08-13-money-and-the-law-of-attraction-learning-to-attract-health-wealth-happiness-2.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2008-11-20-asset-allocation-beats-the-market-every-time.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/learn/practice.md": {
+    "scroll": 16.529296875,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 0
+      },
+      "to": {
+        "line": 16,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/practice/emf-reduction-kit.md": {
+    "scroll": 13.166666666666666,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 15
+      },
+      "to": {
+        "line": 13,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/practice/living-a-fulfilling-life.md": {
+    "scroll": 6.583333333333333,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 47
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/practice/implement.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/practice/unplug.md": {
+    "scroll": 12.151041666666666,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 56
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/practice/practice.md": {
+    "scroll": 31.112630208333332,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 2
+      },
+      "to": {
+        "line": 31,
+        "ch": 2
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/projects/projects.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 58
+      },
+      "to": {
+        "line": 36,
+        "ch": 58
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/courses/practice.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 3,
+        "ch": 16
+      },
+      "to": {
+        "line": 3,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/courses/courses.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/about.md": {
+    "scroll": 11.194244604316546,
+    "cursor": {
+      "from": {
+        "line": 49,
+        "ch": 21
+      },
+      "to": {
+        "line": 49,
+        "ch": 21
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/hello.md": {
+    "scroll": 3.1666666666666665,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2008-01-22-high-school-dropouts-are-more-successful.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 0
+      },
+      "to": {
+        "line": 14,
+        "ch": 0
       }
     },
     "expandedKeys": []

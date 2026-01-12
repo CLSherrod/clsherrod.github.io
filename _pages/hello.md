@@ -2,13 +2,14 @@
 layout: single
 title: Hello
 permalink: /hello/
-toc: true
+toc: false
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
   overlay_image: /assets/images/headers/hello-header.webp
   overlay_filter: 0.1
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 author_profile: false
+redirect_to: /about#contact
 ---
 If you'd like to find out more about me, [check out my About page](/about).
 

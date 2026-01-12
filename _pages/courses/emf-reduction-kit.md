@@ -1,11 +1,20 @@
 ---
 layout: single
 title: The EMF-Free Home Starter Kit
-permalink: /courses/unplug
+permalink: /practice/unplug
 toc: true
 teaser: The EMF-Free Home Starter Kit
 published: false
+teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
+header:
+  overlay_image: /assets/images/headers/fulfilling-header.webp
+  overlay_filter: 0.1
+  image_description: "Art Time by Chr1stopher"
+  caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
+# SEO overrides
+og_image: /assets/images/unplug-header.webp
 ---
+## Coming Soon
 You don’t need expensive gadgets or fear tactics to live well in the modern world.  
 You just need a clear plan — and a calmer relationship with your devices.
 

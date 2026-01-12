@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 title: How To Create New Business Ideas Based On What You Love
-permalink: /book/business-ideas/
+permalink: /books/business-ideas/
 ---
 
 **First published in 2008, latest edition 2020**
