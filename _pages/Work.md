@@ -5,11 +5,11 @@ permalink: /work/
 toc: true
 teaser: Body of Work
 header:
-  overlay_image: /assets/images/work-header.webp
+  overlay_image: /assets/images/headers/work-header.webp
   overlay_filter: 0.1
   image_description: "Body of Work by Chr1stopher"
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
-og_image: /assets/images/work-header.webp
+og_image: /assets/images/headers/work-header.webp
 ---
 Everything I make grows out of a single, ongoing practice.
 
@@ -17,7 +17,7 @@ I don’t separate work from life. Writing, art, books, and tools are how I thin
 
 This page is a map of that work.
 
-### Writing & Books
+## Writing & Books
 
 Writing is my primary medium.
 
@@ -28,7 +28,7 @@ Much of this work is shared freely through essays and a daily newsletter. Some i
 → Explore the writing  
 [https://christophersherrod.com/writer/](https://christophersherrod.com/writer/)
 
-### Practice & Courses
+## Practice & Courses
 
 Some people prefer to read.  
 Others want a little structure.
@@ -40,7 +40,7 @@ The **Living a Fulfilling Life Course** is the quiet core behind this work.
 → Practice & guided work  
 [https://christophersherrod.com/practice/](https://christophersherrod.com/practice/)
 
-### Visual Art
+## Visual Art
 
 Some experiences can’t be reached through language.
 
@@ -49,7 +49,7 @@ My visual art explores sacred geometry, pattern, rhythm, and perception. The wor
 → View the art  
 [https://chr1stopher.com/](https://chr1stopher.com/)
 
-### Tools & Systems (Plain Text)
+## Tools & Systems (Plain Text)
 
 I prefer tools that are simple enough to understand, flexible enough to adapt, and durable enough to last for decades.
 
@@ -79,7 +79,7 @@ They reflect the same values as the rest of my work: low cognitive load, long-te
 These systems aren’t meant to scale.  
 They’re meant to be lived with.
 
-### Long-Running Work
+## Long-Running Work
 
 Some work doesn’t fit neatly into categories.
 
