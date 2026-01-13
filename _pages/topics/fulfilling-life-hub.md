@@ -12,16 +12,14 @@ header:
   image_description: ""
   caption: ""
 og_image: /assets/images/headers/fulfilling-header.webp
-published: true
+published: false
 featured_url: https://christophersherrod.com/fulfilled-not-fast-or-slow/
 ---
-**Topic**
-
-# Living a Fulfilling Life
-
 A fulfilling life isn’t a life without problems. It’s a life where the problems make sense — where your days feel internally coherent instead of constantly hijacked by urgency, status, or noise.
 
 Here you'll find simple essays about living well inside reality: limits, values, time, work, relationships, and the quiet art of choosing what actually matters.
+
+{% assign fulfilling_posts = site.posts | where_exp: "post", "post.categories contains 'Living a Fulfilling Life'" %}
 
 {% if page.featured_url %}
   {% assign featured = site.posts | where: "url", page.featured_url | first %}
@@ -46,8 +44,6 @@ Here you'll find simple essays about living well inside reality: limits, values,
 {% else %}
 _No essays tagged `fulfilling-life` yet._
 {% endif %}
-
-## Join the newsletter
 
 {% include newsletter-signup.html %}
 
