@@ -1,5 +1,6 @@
 ---
 title: Living a Fulfilling Life
+description: Living a Fulfilling Life
 teaser: Living a Fulfilling Life
 layout: single
 classes: wide
@@ -70,7 +71,7 @@ and include it here
 ## Everything on Living a Fulfilling Life
 
 {% if fulfilling_posts and fulfilling_posts.size > 0 %}
-{% for post in fulfilling_posts limit: 50 %}
+{% for post in fulfilling_posts limit: 10 %}
 - **[{{ post.title }}]({{ post.url | relative_url }})**  
   {{ post.date | date: "%b %-d, %Y" }}  
   {% if post.description %}
@@ -81,3 +82,5 @@ and include it here
 
 {% endfor %}
 {% endif %}
+
+[View More](https://christophersherrod.com/categories/#living-a-fulfilling-life)
