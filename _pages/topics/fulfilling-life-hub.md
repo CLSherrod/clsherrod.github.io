@@ -1,0 +1,83 @@
+---
+title: Living a Fulfilling Life
+teaser: Living a Fulfilling Life
+layout: single
+classes: wide
+permalink: /fulfilling-life/
+toc: false
+header:
+  overlay_image:
+  overlay_filter: 0.1
+  image_description: ""
+  caption: ""
+og_image: /assets/images/headers/fulfilling-header.webp
+published: true
+---
+**Topic**
+
+# Living a Fulfilling Life
+
+A fulfilling life isn’t a life without problems. It’s a life where the problems make sense — where your days feel internally coherent instead of constantly hijacked by urgency, status, or noise.
+
+Here you'll find simple essays about living well inside reality: limits, values, time, work, relationships, and the quiet art of choosing what actually matters.
+
+{% comment %}
+Collect posts tagged fulfilling-life, newest first
+{% endcomment %}
+{% assign fulfilling_posts = site.posts | where_exp: "post", "post.tags contains 'fulfilling-life'" %}
+
+{% comment %}
+Optional manual featured post
+Set in front matter if desired:
+featured_url: /yyyy/mm/dd/post-slug/
+{% endcomment %}
+{% if page.featured_url %}
+  {% assign featured = site.posts | where: "url", page.featured_url | first %}
+{% else %}
+  {% assign featured = fulfilling_posts | first %}
+{% endif %}
+
+## Top essay in this topic
+
+{% if featured %}
+### [{{ featured.title }}]({{ featured.url | relative_url }})
+
+{{ featured.date | date: "%B %-d, %Y" }}{% if featured.reading_time %} · {{ featured.reading_time }} min read{% endif %}
+
+{% if featured.description %}
+{{ featured.description }}
+{% elsif featured.excerpt %}
+{{ featured.excerpt | strip_html | strip_newlines | truncate: 240 }}
+{% endif %}
+
+[Read more →]({{ featured.url | relative_url }})
+{% else %}
+_No essays tagged `fulfilling-life` yet._
+{% endif %}
+
+---
+
+## Join the newsletter
+
+{% comment %}
+Recommended: create _includes/newsletter-signup.md or .html
+and include it here
+{% endcomment %}
+{% include newsletter-signup.html %}
+
+---
+
+## Everything on Living a Fulfilling Life
+
+{% if fulfilling_posts and fulfilling_posts.size > 0 %}
+{% for post in fulfilling_posts limit: 50 %}
+- **[{{ post.title }}]({{ post.url | relative_url }})**  
+  {{ post.date | date: "%b %-d, %Y" }}  
+  {% if post.description %}
+  {{ post.description | strip_html | strip_newlines | truncate: 160 }}
+  {% elsif post.excerpt %}
+  {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}
+  {% endif %}
+
+{% endfor %}
+{% endif %}
