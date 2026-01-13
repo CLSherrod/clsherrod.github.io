@@ -1,8 +1,8 @@
 ---
-title: What I’m Not Bringing Into the New Year
-date: 2025-12-29
-description: What I’m Not Bringing Into the New Year
-preview: What I’m Not Bringing Into the New Year
+title: Why I’m Not Writing a Year in Review and What I’m Leaving Behind Instead
+date: 2026-01-13
+description: Why I’m Not Writing a Year in Review and What I’m Leaving Behind Instead
+preview: Why I’m Not Writing a Year in Review and What I’m Leaving Behind Instead
 categories:
   - Living a Fulfilling Life
 tags:
@@ -10,7 +10,7 @@ tags:
   - slow-living
   - life-lessons
 toc: true
-permalink: /done-pretending/
+permalink: /not-writing-a-year-in-review/
 published: true
 ---
 I’m not writing a year-in-review.
@@ -84,6 +84,23 @@ You don’t need a better plan.
 You might just need permission to stop pretending.
 
 I’m done pretending.
+
+## Read More
+
+**[Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled](https://christophersherrod.com/fulfilled-not-fast-or-slow/)**  
+On fulfillment over pace and living in a way that actually feels right to you.
+
+**[Being Grateful Every Day Changed How I Live](https://christophersherrod.com/being-grateful-every-day/)**  
+A reflection on gratitude as a daily practice that changed how life feels.
+
+**[The Power That Everyone Believes In](https://christophersherrod.com/the-power-that-everyone-believes-in/)**  
+A meditation on the experience we all recognize by many names.
+
+**[The Rhythm Beneath Everything: What Living on the Beach Really Teaches You](https://christophersherrod.com/the-rhythm-beneath-everything/)**  
+A piece on how place and quiet teach awareness and presence.
+
+**[Quiet Generosity: The New Face of Philanthropy](https://christophersherrod.com/quiet-generosity/)**  
+An essay on generosity without performance or noise.
 
 ## A Quiet Invitation
 
