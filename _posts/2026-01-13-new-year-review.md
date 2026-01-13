@@ -102,7 +102,7 @@ A piece on how place and quiet teach awareness and presence.
 **[Quiet Generosity: The New Face of Philanthropy](https://christophersherrod.com/quiet-generosity/)**  
 An essay on generosity without performance or noise.
 
-## A Quiet Invitation
+## Keep Updated
 
 If this essay resonates, I share more reflections like this on slowing down, living intentionally, and building a fulfilling life that actually fits.
 

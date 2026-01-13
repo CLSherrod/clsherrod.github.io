@@ -15,7 +15,7 @@ og_image: /assets/images/now-header.webp
 Updated on Tuesday January 13th, 2026.
 
 ## Currently Doing
-- I'm creating the course on *Living a Fulfilling Life: A Quiet Workbook for People Who Are Done Rushing Their Own Lives*
+- I'm creating the course on *Living a Fulfilling Life: A Quiet Course for People Who Are Done Rushing Their Own Lives*
 - Organising my essays on this site
 
 ## Current Projects
