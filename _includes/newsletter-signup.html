@@ -1,0 +1,107 @@
+<!-- ===============================
+    NEWSLETTER
+    =============================== -->
+<section id="newsletter" class="full-bleed turquoise-banner">
+  <div class="wrapper">
+    <div class="newsletter-container">
+      <h2 class="newsletter-title">Start Each Day Grounded</h2>
+
+      <p class="newsletter-intro">
+        Join me every morning for a brief note that inspires you to live with
+        intention and clarity in today's digital age. Say goodbye to the clutter
+        and distractions. Enjoy a simple, focused idea each day to help you
+        reconnect with what truly matters.
+      </p>
+
+      <form
+        id="newsletterForm"
+        action="https://mail.nanakasha.com/subscribe"
+        method="POST"
+        accept-charset="utf-8"
+      >
+        <div class="newsletter-field">
+          <label for="name">Name</label>
+          <input
+            type="text"
+            name="name"
+            id="name"
+            required
+            autocomplete="name"
+          />
+        </div>
+
+        <div class="newsletter-field">
+          <label for="email">Email</label>
+          <input
+            type="email"
+            name="email"
+            id="email"
+            required
+            autocomplete="email"
+            inputmode="email"
+          />
+        </div>
+
+        <!-- Honeypot field -->
+        <div class="cf-honeypot-wrapper" aria-hidden="true">
+          <label for="website" title="Leave this field blank">Website</label>
+          <input
+            type="text"
+            name="website"
+            id="website"
+            class="cf-honeypot"
+            autocomplete="off"
+            tabindex="-1"
+          />
+        </div>
+
+        <!-- Timestamp -->
+        <input type="hidden" name="timestamp" id="timestamp" />
+
+        <!-- Sendy list -->
+        <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
+        <input type="hidden" name="subform" value="yes" />
+
+        <div class="newsletter-submit-wrapper">
+          <input
+            type="submit"
+            name="submit"
+            id="submit"
+            class="newsletter-submit"
+            value="Join the Community"
+          />
+        </div>
+      </form>
+
+      <p class="newsletter-disclaimer">No spam. Unsubscribe anytime.</p>
+    </div>
+  </div>
+</section>
+
+<script>
+  (function () {
+    function init() {
+      const ts = document.getElementById("timestamp");
+      if (ts) ts.value = Date.now();
+
+      const form = document.getElementById("newsletterForm");
+      if (!form) return;
+
+      form.addEventListener("submit", function (e) {
+        const start = parseInt(ts.value || "0", 10);
+        const elapsed = start ? (Date.now() - start) / 1000 : 999;
+        const honey = document.getElementById("website")?.value || "";
+
+        if (honey !== "" || elapsed < 5) {
+          e.preventDefault();
+          console.warn("Spam submission blocked.");
+          return false;
+        }
+      });
+    }
+
+    document.readyState === "loading"
+      ? document.addEventListener("DOMContentLoaded", init)
+      : init();
+  })();
+</script>
