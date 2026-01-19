@@ -16,7 +16,6 @@ Updated on Monday January 19th, 2026.
 
 ## Currently Doing
 - I'm creating the course on *Living a Fulfilling Life: A Quiet Course for People Who Are Done Rushing Their Own Lives*
-- Organising my essays on this site
 
 ## Current Projects
 - Writing helpful essays here on what has worked for me in life. See recently published below.

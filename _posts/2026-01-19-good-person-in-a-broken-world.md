@@ -37,7 +37,7 @@ That’s where **real impact starts**. Not by fixing the whole world, but by mak
 
 **I don’t let the world flood my brain.**
 
-- I avoid watching the news—it’s too loud, too toxic.
+- I avoid watching the news—it’s too loud, too toxic. And only read neutral news. I avoid video news entirely.
 - I only read what I need to know.
 - I support leaders who reflect my values—and trust them to do their job.
 

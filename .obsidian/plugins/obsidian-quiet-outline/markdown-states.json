@@ -14,29 +14,29 @@
     "expandedKeys": []
   },
   "_pages/now.md": {
-    "scroll": 26.815503875968993,
+    "scroll": 17.542798157852946,
     "cursor": {
       "from": {
-        "line": 28,
-        "ch": 39
+        "line": 17,
+        "ch": 119
       },
       "to": {
-        "line": 28,
-        "ch": 39
+        "line": 17,
+        "ch": 119
       }
     },
     "expandedKeys": []
   },
   "To Do.md": {
-    "scroll": 13.140023682652457,
+    "scroll": 39.106770833333336,
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 81
+        "line": 39,
+        "ch": 71
       },
       "to": {
-        "line": 13,
-        "ch": 81
+        "line": 39,
+        "ch": 71
       }
     },
     "expandedKeys": []
@@ -213,12 +213,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 86,
+        "line": 15,
         "ch": 0
       },
       "to": {
-        "line": 86,
-        "ch": 0
+        "line": 94,
+        "ch": 77
       }
     },
     "expandedKeys": []
@@ -406,15 +406,15 @@
     "expandedKeys": []
   },
   "_posts/2023-10-02-smart-notes.md": {
-    "scroll": 207.2306,
+    "scroll": 195.11881510416666,
     "cursor": {
       "from": {
-        "line": 205,
-        "ch": 212
+        "line": 198,
+        "ch": 86
       },
       "to": {
-        "line": 200,
-        "ch": 0
+        "line": 198,
+        "ch": 86
       }
     },
     "expandedKeys": []
@@ -546,7 +546,7 @@
     "expandedKeys": []
   },
   "_pages/Work.md": {
-    "scroll": 13.604166666666666,
+    "scroll": 0.11764705882352941,
     "cursor": {
       "from": {
         "line": 18,
@@ -700,15 +700,15 @@
     "expandedKeys": []
   },
   "_posts/2008-11-20-asset-allocation-beats-the-market-every-time.md": {
-    "scroll": 85.77799479166667,
+    "scroll": 91.42447916666667,
     "cursor": {
       "from": {
-        "line": 65,
-        "ch": 1
+        "line": 87,
+        "ch": 17
       },
       "to": {
-        "line": 65,
-        "ch": 1
+        "line": 87,
+        "ch": 17
       }
     },
     "expandedKeys": []
@@ -877,6 +877,230 @@
       "to": {
         "line": 14,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/topics/fulfilling-life-hub.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 21,
+        "ch": 117
+      },
+      "to": {
+        "line": 21,
+        "ch": 117
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/topics/live.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/topics/livelihood-hub.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/topics/Untitled.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/topics/limits-hub.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/topics/place-hub.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/topics/sense-hub.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/Maximizing Efficiency - 10 Practical Tips to Optimize Your Personal Assistant's Productivity.md": {
+    "scroll": 28.24457465277778,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 0
+      },
+      "to": {
+        "line": 17,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/2026-01-13-new-year-review.md": {
+    "scroll": 100.94270833333333,
+    "cursor": {
+      "from": {
+        "line": 87,
+        "ch": 37
+      },
+      "to": {
+        "line": 87,
+        "ch": 37
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-01-13-new-year-review.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 108,
+        "ch": 49
+      },
+      "to": {
+        "line": 108,
+        "ch": 49
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/projects/obtf.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 120,
+        "ch": 15
+      },
+      "to": {
+        "line": 120,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/projects/gardening.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 0
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-01-19-being-a-good-person-in-a-bad-world.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-01-19-good-person-in-a-bad-world.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 20,
+        "ch": 0
+      },
+      "to": {
+        "line": 20,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-01-19-good-person-in-a-broken-world.md": {
+    "scroll": 40.149792776791,
+    "cursor": {
+      "from": {
+        "line": 40,
+        "ch": 9
+      },
+      "to": {
+        "line": 40,
+        "ch": 9
       }
     },
     "expandedKeys": []
