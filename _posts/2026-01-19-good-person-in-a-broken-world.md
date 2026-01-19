@@ -1,15 +1,17 @@
 ---
-title: Being a Good Person in a Bad World
-description: Being a Good Person in a Bad World
-preview: Being a Good Person in a Bad World
-date: 2026-01-05
+title: How to Stay a Good Person in a Broken World
+description: How to Stay a Good Person in a Broken World
+preview: How to Stay a Good Person in a Broken World
+date: 2026-01-19
 categories:
   - Living a Fulfilling Life
 tags:
   - meaning
+  - fulfilling-life
+  - life-lessons
 toc: true
-permalink: /being-good-in-a-bad-world/
-published: false
+permalink: /good-person-in-a-broken-world/
+published: true
 ---
 ## Feeling Like a Good Person in a Broken World: How to Cope When Darkness Feels Overwhelming
 
@@ -58,8 +60,6 @@ At the end of the day, **I can’t fix everything**, and neither can you. But we
 
 The world may never be perfect. But I refuse to let it make me bitter. **I’d rather be a good person in a bad world than let the bad win.**
 
----
-Want more? Check out my other essay on [Happiness](/happiness/).
 ## Join the Community
 
 If you enjoy essays like this and want daily notes on slow living, fulfillment, and finding a calmer rhythm in a noisy world, you can join the community here:

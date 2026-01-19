@@ -1,6 +1,6 @@
 ---
 layout: single
-title: One Big Text File (OBTF)
+title: "One Big Text File (OBTF): A Simple System for Thinking, Writing, and Remembering"
 permalink: /obtf/
 toc: true
 ---
@@ -16,7 +16,7 @@ Fragments.
 Lists.  
 Thoughts that don’t yet know what they are.
 
-No folders. No tags. No complex systems. Just writing.
+No folders. No complex systems. Just writing.
 
 This approach has been around for decades, quietly used by programmers, writers, and people who care more about _thinking clearly_ than _optimizing workflows_.
 

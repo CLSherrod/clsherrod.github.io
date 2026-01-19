@@ -12,7 +12,7 @@ header:
 # SEO overrides
 og_image: /assets/images/now-header.webp
 ---
-Updated on Tuesday January 13th, 2026.
+Updated on Monday January 19th, 2026.
 
 ## Currently Doing
 - I'm creating the course on *Living a Fulfilling Life: A Quiet Course for People Who Are Done Rushing Their Own Lives*
@@ -29,6 +29,7 @@ Updated on Tuesday January 13th, 2026.
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published
+- Wrote [How to Stay a Good Person in a Broken World](https://christophersherrod.com/good-person-in-a-broken-world/)
 - Wrote [Why I’m Not Writing a Year in Review and What I’m Leaving Behind Instead](https://christophersherrod.com/not-writing-a-year-in-review/)
 - Wrote [Being Grateful Every Day Changed How I Live](https://christophersherrod.com/being-grateful-every-day/)
 - Wrote [The Power That Everyone Believes In](https://christophersherrod.com/the-power-that-everyone-believes-in/)
