@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Christopher Sherrod – Essays, Articles, and Author of How to Create New Business Ideas Based on What You Love
+title: Essays and a Book
 permalink: /writer/
 toc: true
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
