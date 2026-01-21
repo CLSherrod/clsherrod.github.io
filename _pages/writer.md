@@ -16,6 +16,12 @@ og_image: /assets/images/books-header.webp
 
 I’ve always been someone who tries to make sense of life by putting words on the page. As a kid, I scribbled down half-formed stories and business ideas on scraps of paper. Later, after running companies, traveling the world, and even surviving health setbacks that forced me to slow down, I found myself writing not just to remember—but to understand.
 
+## Why I Write
+
+For me, writing isn’t just about sharing knowledge—it’s about leaving a trail. When I look back at the challenges I’ve faced—quitting a secure job, starting over, living abroad, even recovering from seizures that made me rethink everything—I see turning points. Writing lets me mark those places and say: *This is what I learned. Maybe it will help you, too.*
+
+That’s why I keep showing up to the page. Not because I have all the answers, but because I believe in asking the right questions.
+
 ## Blog Posts/Essays
 
 My essays grew out of those moments when I wanted to capture a truth before it slipped away. They’re simple, plainspoken, and a little raw at times. I don’t dress things up. Instead, I write about what it *really* feels like to pursue success, to wrestle with meaning, and to choose a slower, more fulfilling way of life in a world that’s always speeding up.
@@ -36,19 +42,13 @@ The book is both a guide and a story. It’s about learning to trust your instin
 
 I have a story inside the book [Expect Miracles](https://amzn.to/3LtA4gP) by Dr. Joe Vitale.
 
-## Introductions
+## Wrote Introductions
 
 I wrote the introduction to my Dad's (Kent Sherrod) book [Parenting With Love: How to Raise Emotionally Healthy Children](https://amzn.to/3KDbRnz)
 
 And I wrote the introduction to [Conscious Love: Enlightened Relationships and Soulful Sex 11 Love Experts Reveal Their Secrets](https://amzn.to/3KR5Fsa)
 
-## Why I Write
-
-For me, writing isn’t just about sharing knowledge—it’s about leaving a trail. When I look back at the challenges I’ve faced—quitting a secure job, starting over, living abroad, even recovering from seizures that made me rethink everything—I see turning points. Writing lets me mark those places and say: *This is what I learned. Maybe it will help you, too.*
-
-That’s why I keep showing up to the page. Not because I have all the answers, but because I believe in asking the right questions.
-
-## Welcome to My Virtual Bookshop
+## My Virtual Bookshop
 
 I’ve always loved the idea of running a small bookshop — the kind with uneven floors, handwritten notes tucked into the shelves, and quiet conversations about what a story *really* meant.
 
