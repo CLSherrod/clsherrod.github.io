@@ -18,13 +18,13 @@ I don’t separate work from life. Writing, art, books, and tools are how I thin
 
 This page is a map of that work.
 
-## Writing & Books
+## Writing
 
 Writing is my primary medium.
 
-I’ve been writing online since 2000—essays, books, and daily reflections about meaning, work, attention, and intentional living. My writing is plainspoken and experiential. I’m not interested in productivity hacks or motivational theater. I’m interested in clarity, honesty, and lived experience.
+I’ve been writing online since 2000—essays, a book, and daily reflections about meaning, work, attention, and intentional living. My writing is plainspoken and experiential. I’m not interested in productivity hacks or motivational theater. I’m interested in clarity, honesty, and lived experience.
 
-Much of this work is shared freely through essays and a daily newsletter. Some ideas take longer and become books.
+Much of this work is shared freely through essays and a daily newsletter. Some ideas take longer and become courses and a one book.
 
 → Explore the writing
 [https://christophersherrod.com/writer/](https://christophersherrod.com/writer/)
