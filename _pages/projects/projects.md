@@ -28,7 +28,7 @@ I’ve been writing online since 2000—essays, books, and notes about work, mea
   A quiet, self-paced course built from the same ideas I write about.
   → [https://christophersherrod.com/courses/](https://christophersherrod.com/courses/)
 
-## Plain-Text & Markdown Projects
+## Plain-Text/Markdown Projects
 
 I prefer simple tools that age well. These projects reflect that preference.
 
