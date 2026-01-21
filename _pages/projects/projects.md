@@ -12,15 +12,7 @@ toc: true
 published: true
 ---
 
-This is a long, slow body of work—built over decades, not launches.
-
-Everything here comes from the same impulse: to live thoughtfully, work simply, and build things that last without noise.
-
-Some of these projects look practical.
-Some look creative.
-All of them are expressions of the same practice.
-
-### Writing & Books
+## Writing & Books
 
 I’ve been writing online since 2000—essays, books, and notes about work, meaning, and living a fulfilling life.
 
@@ -36,20 +28,7 @@ I’ve been writing online since 2000—essays, books, and notes about work, mea
   A quiet, self-paced course built from the same ideas I write about.
   → [https://christophersherrod.com/courses/](https://christophersherrod.com/courses/)
 
-### Creative Work
-
-- **Chr1stopher**
-  My visual art practice, exploring perception, pattern, and inner stillness.
-  → [https://christophersherrod.com/chr1stopher](https://christophersherrod.com/chr1stopher/)
-
-### Work & Consulting
-
-- **Who Defines You** (1999–present)
-  A small, referral-only web agency that grew out of early internet consulting.
-  Quiet work. Long relationships. No growth games.
-  → [https://christophersherrod.com/whodefinesyou/](https://christophersherrod.com/whodefinesyou/)
-
-### Plain-Text & Markdown Projects
+## Plain-Text & Markdown Projects
 
 I prefer simple tools that age well. These projects reflect that preference.
 
@@ -71,7 +50,15 @@ They’re not products. They’re working systems I use myself.
   A low-tech way to track planting, seasons, and observations.
   → [https://christophersherrod.com/gardening/](https://christophersherrod.com/gardening/)
 
-None of this was built to scale.
-All of it was built to last.
+## Creative Work
 
-If something here is useful to you, feel free to borrow it.
+- **Chr1stopher**
+  My visual art practice, exploring perception, pattern, and inner stillness.
+  → [https://christophersherrod.com/chr1stopher](https://christophersherrod.com/chr1stopher/)
+
+## Work & Consulting
+
+- **Who Defines You** (1999–present)
+  A referral-only web agency that grew out of early internet consulting.
+  Quiet work. Long relationships. No growth games.
+  → [https://christophersherrod.com/whodefinesyou/](https://christophersherrod.com/whodefinesyou/)
