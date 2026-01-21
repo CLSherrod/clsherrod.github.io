@@ -41,54 +41,6 @@ The **Living a Fulfilling Life Course** is the quiet core behind this work.
 → Courses
 [https://christophersherrod.com/courses/](https://christophersherrod.com/courses/)
 
-## Visual Art
+## Projects
 
-Some experiences can’t be reached through language.
-
-My visual art explores sacred geometry, pattern, rhythm, and perception. The work is quiet and meditative—designed to be experienced rather than explained. It’s another way of paying attention, without words.
-
-→ View the art
-[https://christophersherrod.com/chr1stopher/](https://christophersherrod.com/chr1stopher)
-
-## Tools & Systems (Plain Text)
-
-I prefer tools that are simple enough to understand, flexible enough to adapt, and durable enough to last for decades.
-
-Over the years, I’ve developed a small set of plain-text systems using Markdown and basic files. These aren’t productivity products or apps. They’re working systems I use myself—shared openly for anyone who prefers clarity over complexity.
-
-They reflect the same values as the rest of my work: low cognitive load, long-term thinking, and tools that get out of the way.
-
-**Markdown-based systems I actively use and maintain:**
-
-- **OBTF (One Big Text File)**
-  A minimalist journaling system built around a single evolving Markdown file.
-  → [https://christophersherrod.com/obtf/](https://christophersherrod.com/obtf/)
-
-- **Home Manual (Markdown)**
-  A plain-text way to document everything about a home—systems, notes, and history.
-  → [https://christophersherrod.com/home-manual/](https://christophersherrod.com/home-manual/)
-
-- **CRM (Markdown)**
-  A lightweight relationship-tracking system without software bloat.
-  → [https://christophersherrod.com/crm/](https://christophersherrod.com/crm/)
-
-- **Gardening (Markdown)**
-  A low-tech method for tracking planting, seasons, and observations over time.
-  → [https://christophersherrod.com/gardening/](https://christophersherrod.com/gardening/)
-
-These systems aren’t meant to scale.
-They’re meant to be lived with.
-
-## Long-Running Work
-
-Some work doesn’t fit neatly into categories.
-
-Since 1999, I’ve run **Who Defines You**, a small, referral-only web practice that grew out of early internet consulting. It’s intentionally quiet and relationship-based, focused on doing good work for people I trust.
-
-→ Who Defines You
-[https://christophersherrod.com/whodefinesyou/](https://christophersherrod.com/whodefinesyou/)
-
-This body of work wasn’t designed to impress.
-It was designed to be livable.
-
-If something here resonates, you’re welcome to explore further—or join the daily newsletter, where this practice continues in small, ongoing notes.
+Check out my non-writing [projects](https://christophersherrod.com/projects/) including my web agency and consulting, art and helpful journal projects.
