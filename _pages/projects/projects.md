@@ -12,6 +12,8 @@ toc: true
 published: true
 ---
 
+My projects besides writing.
+
 ## Plain-Text/Markdown Projects
 
 I prefer simple tools that age well. These projects reflect that preference.
