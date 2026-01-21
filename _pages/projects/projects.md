@@ -12,22 +12,6 @@ toc: true
 published: true
 ---
 
-## Writing & Books
-
-I’ve been writing online since 2000—essays, books, and notes about work, meaning, and living a fulfilling life.
-
-- **How to Create New Business Ideas Based on What You Love**
-  A practical book about building work that fits who you actually are.
-  → [https://christophersherrod.com/books/business-ideas/](https://christophersherrod.com/book/business-ideas/)
-
-- **Essays**
-  Ongoing writing on living a fulfilling life, published regularly.
-  → [https://christophersherrod.com/blog/](https://christophersherrod.com/blog/)
-
-- **Living a Fulfilling Life Course**
-  A quiet, self-paced course built from the same ideas I write about.
-  → [https://christophersherrod.com/courses/](https://christophersherrod.com/courses/)
-
 ## Plain-Text/Markdown Projects
 
 I prefer simple tools that age well. These projects reflect that preference.
