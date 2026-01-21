@@ -8,8 +8,7 @@ published: true
 
 This is a long, slow body of work—built over decades, not launches.
 
-Everything here comes from the same impulse:
-to live thoughtfully, work simply, and build things that last without noise.
+Everything here comes from the same impulse: to live thoughtfully, work simply, and build things that last without noise.
 
 Some of these projects look practical.
 Some look creative.
@@ -29,13 +28,13 @@ I’ve been writing online since 2000—essays, books, and notes about work, mea
 
 - **Living a Fulfilling Life Course**
   A quiet, self-paced course built from the same ideas I write about.
-  → [https://christophersherrod.com/practice/](https://christophersherrod.com/practice/)
+  → [https://christophersherrod.com/courses/](https://christophersherrod.com/courses/)
 
 ### Creative Work
 
 - **Chr1stopher**
   My visual art practice, exploring perception, pattern, and inner stillness.
-  → [https://chr1stopher.com/](https://chr1stopher.com/)
+  → [https://christophersherrod.com/chr1stopher](https://christophersherrod.com/chr1stopher/)
 
 ### Work & Consulting
 
