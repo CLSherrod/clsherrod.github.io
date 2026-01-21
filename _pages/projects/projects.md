@@ -2,6 +2,12 @@
 title: Projects
 layout: single
 permalink: /projects/
+header:
+  overlay_image: /assets/images/headers/projects-header.webp
+  overlay_filter: 0.1
+  image_description: "Projects by Chr1stopher"
+  caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
+og_image: /assets/images/headers/projects-header.webp
 toc: true
 published: true
 ---
