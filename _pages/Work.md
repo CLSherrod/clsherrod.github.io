@@ -29,12 +29,12 @@ Much of this work is shared freely through essays and a daily newsletter. Some i
 → Explore the writing
 [https://christophersherrod.com/writer/](https://christophersherrod.com/writer/)
 
-## Practice & Courses
+## Courses
 
 Some people prefer to read.
 Others want a little structure.
 
-Alongside my writing, I create calm, self-paced courses and guided practices. These aren’t programs to “fix” yourself or systems to optimize your life. They’re ways of slowing down, clarifying direction, and practicing what actually matters—daily, in real life.
+Alongside my writing, I create calm self-paced courses. These aren’t programs to “fix” yourself or systems to optimize your life. They’re ways of slowing down, clarifying direction, and practicing what actually matters—daily, in real life.
 
 The **Living a Fulfilling Life Course** is the quiet core behind this work.
 
@@ -43,4 +43,7 @@ The **Living a Fulfilling Life Course** is the quiet core behind this work.
 
 ## Projects
 
-Check out my non-writing [projects](https://christophersherrod.com/projects/) including my web agency and consulting, art and helpful journal projects.
+Check out my non-writing projects including my web agency, art and helpful journal projects.
+
+→ Projects
+[https://christophersherrod.com/projects/](https://christophersherrod.com/projects/)
