@@ -2,6 +2,8 @@
 layout: single
 title: Customer Relationship Management Markdown
 permalink: /crm/
+breadcrumb_parent_title: Projects
+breadcrumb_parent_url: /projects/
 toc: true
 ---
 ## CRM in Markdown

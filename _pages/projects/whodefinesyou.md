@@ -3,6 +3,8 @@ layout: single
 classes: wide
 title: Who Defines You – A Referral-Only Web Agency
 permalink: /whodefinesyou/
+breadcrumb_parent_title: Projects
+breadcrumb_parent_url: /projects/
 header:
   overlay_image: /assets/images/headers/whodefinesyou-header.webp
   overlay_filter: 0.1

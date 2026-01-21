@@ -7,6 +7,8 @@ title: Chr1stopher -- The Name Behind the Vision
 description: Chr1stopher -- The Name Behind the Vision
 preview: Chr1stopher -- The Name Behind the Vision
 permalink: /chr1stopher/
+breadcrumb_parent_title: Projects
+breadcrumb_parent_url: /projects/
 toc: false
 teaser: /assets/images/teaser/christopher-sherrod-essays-fulfilling-life-square.webp
 header:

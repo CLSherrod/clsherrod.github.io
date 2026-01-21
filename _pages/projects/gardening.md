@@ -2,6 +2,8 @@
 layout: single
 title: Gardening Project Managment Markdown
 permalink: /gardening/
+breadcrumb_parent_title: Projects
+breadcrumb_parent_url: /projects/
 toc: true
 ---
 **A plain-text garden journal that grows with you.**

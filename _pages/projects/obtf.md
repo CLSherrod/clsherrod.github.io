@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "One Big Text File (OBTF): A Simple System for Thinking, Writing, and Remembering"
+breadcrumb_parent_title: Projects
+breadcrumb_parent_url: /projects/
 permalink: /obtf/
 toc: true
 ---
