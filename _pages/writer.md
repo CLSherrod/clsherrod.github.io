@@ -12,7 +12,7 @@ header:
 og_image: /assets/images/books-header.webp
 ---
 
-# About My Writing
+## About My Writing
 
 I’ve always been someone who tries to make sense of life by putting words on the page. As a kid, I scribbled down half-formed stories and business ideas on scraps of paper. Later, after running companies, traveling the world, and even surviving health setbacks that forced me to slow down, I found myself writing not just to remember—but to understand.
 
