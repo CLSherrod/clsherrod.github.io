@@ -3,7 +3,7 @@ title: Minimalism is it the answer?
 date: 2017-04-13
 published: true
 categories:
-  - Lifestyle & Travel
+  - Travel & Living Abroad
 tags:
   - meaning
 permalink: /minimalism-is-it-the-answer/

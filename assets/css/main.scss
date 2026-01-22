@@ -875,3 +875,42 @@ footer a:hover {
 .related-posts a:hover {
   text-decoration: underline;
 }
+
+/* =========================================
+   Breadcrumbs Section
+========================================= */
+.breadcrumbs {
+  font-size: 0.8rem;
+  line-height: 1.4;
+  margin: 0 0 1.5rem 0;
+  color: #777;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+.breadcrumbs .breadcrumb-label {
+  margin-right: 0.4em;
+  color: #999;
+}
+
+.breadcrumbs a {
+  color: #777;
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbs .sep {
+  margin: 0 0.35em;
+  color: #aaa;
+}
+
+.breadcrumbs span:last-child {
+  color: #555;
+}

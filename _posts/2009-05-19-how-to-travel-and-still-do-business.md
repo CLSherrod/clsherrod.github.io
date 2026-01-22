@@ -3,7 +3,7 @@ title: How to travel and still do business
 date: 2009-05-19
 published: true
 categories:
-  - Lifestyle & Travel
+  - Travel & Living Abroad
 tags:
   - place
 permalink: /how-to-travel-and-still-do-business/

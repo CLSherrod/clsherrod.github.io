@@ -3,7 +3,7 @@ title: Marketing in Pokemon Go
 date: 2016-07-20 13:01:35.000000000 -05:00
 status: publish
 categories:
-  - Lifestyle & Travel
+  - Travel & Living Abroad
 tags:
   - entrepreneurship
 permalink: /marketing-pokemon/

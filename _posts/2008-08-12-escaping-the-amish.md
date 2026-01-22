@@ -3,7 +3,7 @@ title: Escaping the Amish
 date: 2008-08-12
 published: true
 categories:
-  - Lifestyle & Travel
+  - Travel & Living Abroad
 tags:
   - entrepreneurship
 permalink: /escaping-the-amish/

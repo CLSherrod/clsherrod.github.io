@@ -4,7 +4,7 @@ date: 2025-11-24
 description: "Living Abroad Isn’t for Everyone: Test the Life Before You Move"
 preview: "Living Abroad Isn’t for Everyone: Test the Life Before You Move"
 categories:
-  - Lifestyle & Travel
+  - Travel & Living Abroad
 tags:
   - place
 toc: true
