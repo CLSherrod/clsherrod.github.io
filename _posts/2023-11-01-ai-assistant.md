@@ -10,7 +10,7 @@ comments: true
 toc: true
 excerpt: How I've integrated AI into my life.
 categories:
-  - Travel & Living Abroad
+  - Work & Entrepreneurship
 ---
 ## 2022 AI Became Useful To Everyone
 

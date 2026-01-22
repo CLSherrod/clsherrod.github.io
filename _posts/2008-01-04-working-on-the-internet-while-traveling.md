@@ -1,6 +1,6 @@
 ---
 title: Working on the Internet while traveling
-date: 2008-01-04 12:33:32.000000000 -06:00
+date: 2008-01-04
 published: true
 categories:
   - Travel & Living Abroad

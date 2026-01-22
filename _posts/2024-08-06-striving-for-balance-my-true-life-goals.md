@@ -2,7 +2,7 @@
 title: Striving for Balance - My True Life Goals
 date: 2024-08-06
 categories:
-  - Travel & Living Abroad
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /striving-for-balance/

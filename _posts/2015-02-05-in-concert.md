@@ -2,7 +2,7 @@
 title: I Was In Concert
 date: 2015-02-05
 categories:
-  - Travel & Living Abroad
+  - Creativity & Writing
 tags:
   - music
   - updates

@@ -21,7 +21,7 @@ I promptly bought an entire outfit including the shoes (no socks).
 
 And that is probably why I lost my first job because I showed up looking like Sonny Crocket. Oh well, I looked awesome.
 
-I even recorded each show on VHS tape.</span>
+I even recorded each show on VHS tape.
 
 I carried those VHS tapes with all my moves for the next twenty-something years. Finally selling them on Craigslist since I could get a digital stream and I was planning to travel around the world slowly.
 

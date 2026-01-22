@@ -3,7 +3,7 @@ title: Missing Roger Ebert
 date: 2013-04-05
 published: true
 categories:
-  - Travel & Living Abroad
+  - Living a Fulfilling Life
 tags:
   - tribute
 permalink: /missing-roger-ebert/

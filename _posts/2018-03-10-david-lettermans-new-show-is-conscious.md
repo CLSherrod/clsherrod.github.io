@@ -3,7 +3,7 @@ title: David Letterman's new show is conscious
 date: 2018-03-10
 published: true
 categories:
-  - Travel & Living Abroad
+  - Living a Fulfilling Life
 tags:
   - meaning
 permalink: /david-lettermans-new-show-is-conscious/
