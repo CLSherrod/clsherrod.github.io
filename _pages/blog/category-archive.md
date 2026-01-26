@@ -9,6 +9,6 @@ header:
   overlay_image: /assets/images/headers/categories-header.webp
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
-
 ---
-Or by <a href="/blog/">year</a> or <a href="/tags/">tag</a>
+
+Or by <a href="/blog/">year</a>

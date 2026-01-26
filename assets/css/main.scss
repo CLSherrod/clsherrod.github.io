@@ -8,6 +8,26 @@ search: false
 // Variables
 // =========================================
 
+$serif: "Newsreader", Georgia, Times, serif;
+$sans-serif-narrow:
+  "Archivo Narrow",
+  -apple-system,
+  BlinkMacSystemFont,
+  "Roboto",
+  "Segoe UI",
+  "Helvetica Neue",
+  "Lucida Grande",
+  Arial,
+  sans-serif;
+
+$global-font-family: $serif;
+$header-font-family: $sans-serif-narrow;
+
+$link-color: blue;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
 /* =========================================
    Featured Essay
 ========================================= */
@@ -41,52 +61,19 @@ search: false
   background-color: #5cbcaa; /* Darker on hover */
 }
 
-$serif: "Newsreader", Georgia, Times, serif;
-$sans-serif-narrow:
-  "Archivo Narrow",
-  -apple-system,
-  BlinkMacSystemFont,
-  "Roboto",
-  "Segoe UI",
-  "Helvetica Neue",
-  "Lucida Grande",
-  Arial,
-  sans-serif;
-$sans-serif-narrow:
-  "Archivo Narrow",
-  -apple-system,
-  BlinkMacSystemFont,
-  "Roboto",
-  "Segoe UI",
-  "Helvetica Neue",
-  "Lucida Grande",
-  Arial,
-  sans-serif;
-
-$global-font-family: $serif;
-$header-font-family: $sans-serif-narrow;
-
-$link-color: blue;
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
 /* =========================================
    Parallax Scrolling Effect
 ========================================= */
 
-// =========================================
-// Parallax Effect
-// =========================================
 .parallax {
-  background-image: url("/assets/images/headers/parallax-background.webp"); /* Parallax background image */
-  height: auto; /* Full height of the viewport */
-  background-attachment: scroll; /* Parallax effect */
+  background-image: url("/assets/images/headers/parallax-background.webp");
+  height: auto;
+  background-attachment: scroll; /* (If you truly want parallax, change to fixed) */
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover; /* Cover the section with the image */
+  background-size: cover;
   position: relative;
-  z-index: 1; /* Ensure it sits above other content */
+  z-index: 1;
 }
 
 /* =========================================
@@ -123,11 +110,6 @@ $link-color: blue;
   /* Link */
   --cs-link: blue;
 
-  /* Credibility Bar Background Color */
-  .credibility-bar {
-    background-color: var(--cs-gray-300);
-  }
-
   /* Buttons */
   --cs-submit: blue;
   --cs-btn-bg: darkred;
@@ -139,33 +121,29 @@ $link-color: blue;
   --cs-shadow-soft-2: 0 8px 20px rgba(0, 0, 0, 0.06);
 }
 
+/* This cannot live inside :root (invalid CSS). */
+.credibility-bar {
+  background-color: var(--cs-gray-300);
+}
+
 /* =========================================
    Core Layout + Resets
 ========================================= */
 
-// =========================================
-// Base Styles
-// =========================================
 html {
   scroll-behavior: smooth;
 }
 
-// Base styles for body
 html,
 body {
-  background-color: white; /* Set background color to white */
+  background-color: white;
   overflow-x: hidden;
 }
 
-html,
-body {
-  background-color: white; /* Set background color to white */
-  overflow-x: hidden;
-}
+/* =========================================
+   Layouts
+========================================= */
 
-// =========================================
-// Layouts
-// =========================================
 main {
   background-color: #ffffff !important;
   position: relative;
@@ -181,10 +159,6 @@ main {
   width: 100vw;
   box-sizing: border-box;
   overflow-x: hidden;
-}
-
-.greedy-nav {
-  background: white;
 }
 
 .greedy-nav {
@@ -209,7 +183,7 @@ main {
 }
 
 .full-width {
-  min-height: 1rem; /* Ensure a minimum height matches word height */
+  min-height: 1rem;
   max-width: 100vw;
   margin: 0;
   padding-left: 0rem;
@@ -233,21 +207,6 @@ main {
   }
 }
 
-/* =========================================
-   Full-Bleed Container
-========================================= */
-
-.full-bleed {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  width: 100vw;
-  box-sizing: border-box;
-  overflow-x: hidden;
-}
-
 .full-bleed > .wrapper {
   max-width: 100vw;
   margin: 0 auto;
@@ -265,6 +224,7 @@ main {
   padding-top: 0rem;
   padding-bottom: 0rem;
 }
+
 /* =========================================
    Hero Title
 ========================================= */
@@ -283,9 +243,7 @@ main {
 /* =========================================
    Buttons
 ========================================= */
-// =========================================
-// Button Styles
-// =========================================
+
 #submit {
   transition:
     background-color 0.3s ease,
@@ -297,8 +255,8 @@ main {
 #submit:focus-visible {
   outline: none;
   box-shadow: 0 0 0 3px rgba(2, 132, 199, 0.35);
-  background-color: darkred; /* Desired hover color */
-  color: var(--cs-white); /* Ensure text color is still readable */
+  background-color: darkred;
+  color: var(--cs-white);
   transform: scale(1.03);
 }
 
@@ -306,9 +264,6 @@ main {
    Intro Section
 ========================================= */
 
-// =========================================
-// Section Styles
-// =========================================
 #intro {
   background-color: var(--cs-soft-bg);
   padding-left: 3rem;
@@ -326,7 +281,7 @@ main {
   padding-left: 3.75rem;
   padding-right: 3.75rem;
   padding-top: 0rem;
-  padding-bottom: 0.5em;
+  padding-bottom: 2em;
   color: var(--cs-text-main);
 }
 
@@ -370,21 +325,13 @@ main {
 }
 
 /* =========================================
- Manifesto
+   Manifesto
 ========================================= */
-#manifesto {
-  background-color: var(--cs-soft-turquoise);
-  padding-left: 3.75rem;
-  padding-right: 3.75rem;
-  padding-top: 0rem;
-  padding-bottom: 2em;
-  color: var(--cs-text-main);
-}
 
 #manifesto h2,
 #manifesto h3 {
-  margin-left: 2rem; /* Set left margin */
-  margin-right: 2rem; /* Set right margin */
+  margin-left: 2rem;
+  margin-right: 2rem;
   margin-bottom: 1.25rem;
   font-size: 2rem;
   text-align: center;
@@ -392,29 +339,35 @@ main {
 }
 
 @media (max-width: 600px) {
+  #manifesto {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
   #manifesto h2 {
-    padding-left: 1rem; // Adjust as needed
-    padding-right: 1rem; // Adjust as needed
+    padding-left: 1rem;
+    padding-right: 1rem;
   }
 }
 
 #manifesto p {
-  margin-left: 2rem; /* Set left margin */
-  margin-right: 2rem; /* Set right margin */
-  line-height: 1.5; /* Set desired line height for readability */
+  margin-left: 2rem;
+  margin-right: 2rem;
+  line-height: 1.5;
 }
 
 #manifesto ul {
-  list-style-type: disc; /* Use disc style for bullet points */
-  padding-left: 3rem; /* Add padding to the left for better alignment */
-  margin-top: 1rem; /* Add margin to the top for spacing */
-  color: var(--cs-text-main); /* Set text color to match the main theme */
+  list-style-type: disc;
+  padding-left: 3rem;
+  margin-top: 1rem;
+  color: var(--cs-text-main);
 }
 
 #manifesto ul li {
-  margin-bottom: 0.5rem; /* Space between list items */
-  font-size: 1rem; /* Set font size for list items */
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
 }
+
 /* ---------------------------------------
    PILLARS SECTION
 --------------------------------------- */
@@ -444,17 +397,13 @@ main {
 
 .pillars-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr); /* Set to two columns */
+  grid-template-columns: repeat(2, 1fr);
   gap: 1.5rem;
 }
 
 @media (max-width: 600px) {
-  #manifesto {
-    padding-left: 1rem; // Adjust as needed
-    padding-right: 1rem; // Adjust as needed
-  }
   .pillars-grid {
-    grid-template-columns: 1fr; /* Single column on small screens */
+    grid-template-columns: 1fr;
   }
 }
 
@@ -484,91 +433,49 @@ main {
   color: #004f4f;
 }
 
-/* Hover effect */
 .pillar-card:hover {
   transform: translateY(-4px);
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
 }
 
 /* =========================================
-   Testimonial Slider
+   Testimonials
 ========================================= */
-
-.testimonial-slider {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  margin: 2rem 0; /* Add margin for spacing */
-}
-
 .testimonial {
-  position: absolute;
-  width: 100%;
-  opacity: 0;
-  transform: translateX(100%);
-  transition:
-    opacity 0.5s ease-in-out,
-    transform 0.5s ease-in-out;
+  background: #f7f7f7;
+  padding: 2rem;
+  margin: 3rem 0;
+  border-radius: 6px;
 }
 
-.testimonial.active {
-  opacity: 1;
-  transform: translateX(0);
+.testimonials blockquote {
+  margin: 0;
+  font-style: italic;
 }
 
-.testimonial-slider {
-  animation: slide 30s infinite;
-}
-
-@keyframes slide {
-  0%,
-  20% {
-    opacity: 1;
-    transform: translateX(0);
-  }
-  30%,
-  50% {
-    opacity: 1;
-    transform: translateX(-100%);
-  }
-  50%,
-  70% {
-    opacity: 0;
-    transform: translateX(-100%);
-  }
-  70%,
-  100% {
-    opacity: 0;
-    transform: translateX(0);
-  }
-}
-
-/* Additional text styles for testimonials */
-.testimonial p {
-  font-size: 1.05rem; /* Adjust font size for readability */
-  line-height: 1.5; /* Improve line height for legibility */
-  color: var(--cs-text-main); /* Use main theme color for text */
+.testimonials cite {
+  display: block;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  opacity: 0.7;
 }
 
 /* =========================================
    Newsletter
 ========================================= */
 
-/* Full-bleed turquoise background */
 #newsletter.full-bleed {
   background-color: var(--cs-turquoise);
   padding-top: 0em;
   padding-bottom: 1rem;
 }
 
-/* Keep wrapper transparent */
 #newsletter.full-bleed > .wrapper {
   background: transparent;
   padding-top: 0;
   padding-bottom: 0;
 }
 
-/* Inner container */
 #newsletter .newsletter-container {
   max-width: 650px;
   margin: 0 auto;
@@ -576,7 +483,6 @@ main {
   text-align: center;
 }
 
-/* Title */
 #newsletter .newsletter-title {
   font-size: 2.6rem;
   font-weight: 800;
@@ -584,7 +490,6 @@ main {
   color: var(--cs-black);
 }
 
-/* Intro */
 #newsletter .newsletter-intro {
   font-size: 1.15rem;
   line-height: 1.55;
@@ -592,7 +497,6 @@ main {
   color: var(--cs-black);
 }
 
-/* Form fields */
 #newsletterForm {
   display: flex;
   flex-direction: column;
@@ -618,7 +522,6 @@ main {
   background: var(--cs-white);
 }
 
-/* Submit */
 #newsletter .newsletter-submit {
   width: 100%;
   padding: 1rem;
@@ -636,21 +539,18 @@ main {
   background-color: var(--cs-btn-hover);
 }
 
-/* Disclaimer */
 #newsletter .newsletter-disclaimer {
   margin-top: 1rem;
   font-size: 0.9rem;
   color: var(--cs-black);
 }
 
-/* Honeypot */
 .cf-honeypot-wrapper {
   position: absolute;
   left: -9999px;
   visibility: hidden;
 }
 
-/* Mobile */
 @media (max-width: 600px) {
   #newsletter .newsletter-title {
     font-size: 2.2rem;
@@ -692,7 +592,6 @@ main {
   border-top: 1px solid var(--cs-gray-100);
 }
 
-/* Each item */
 .essays-item {
   padding-left: 0rem;
   padding-right: 0rem;
@@ -706,7 +605,6 @@ main {
   background: var(--cs-soft-bg);
 }
 
-/* Title (clickable) */
 .essays-title {
   display: block;
   font-size: 1.25rem;
@@ -721,7 +619,6 @@ main {
   color: var(--cs-turquoise-deeper);
 }
 
-/* Category */
 .essays-category {
   display: block;
   font-size: 0.95rem;
@@ -730,7 +627,6 @@ main {
   margin-bottom: 0.25rem;
 }
 
-/* Date */
 .essays-date {
   font-size: 0.9rem;
   color: var(--cs-gray-600);
@@ -740,18 +636,6 @@ main {
    Products Section
 ========================================= */
 
-#products {
-  background-color: var(--cs-soft-turquoise);
-  padding: 2rem 1.5rem;
-  text-align: center;
-}
-
-#products h2 {
-  font-size: 2rem;
-  margin-bottom: 1.5rem;
-  color: var(--cs-turquoise-deep);
-}
-
 .two-column {
   display: flex;
   flex-direction: row;
@@ -760,7 +644,7 @@ main {
 }
 
 .column {
-  flex: 1; /* Each column will take an equal amount of space */
+  flex: 1;
   background: white;
   border-radius: 8px;
   padding: 1rem;
@@ -768,8 +652,8 @@ main {
 }
 
 .column img {
-  max-width: 260px; /* Limit image width */
-  margin: 0 auto; /* Center images */
+  max-width: 260px;
+  margin: 0 auto;
   border-radius: 8px;
 }
 
@@ -780,14 +664,7 @@ main {
 
 .column a.more {
   display: inline-block;
-  margin-top: 1.5rem; /* Add breathing space before CTA */
-  color: var(--cs-turquoise);
-  text-decoration: underline;
-}
-
-.column a.more {
-  display: inline-block;
-  margin-top: 1rem;
+  margin-top: 1.5rem;
   color: var(--cs-turquoise);
   text-decoration: underline;
 }
@@ -795,6 +672,8 @@ main {
 .column a.more:hover {
   color: var(--cs-turquoise-deeper);
 }
+
+/* Footer social icons */
 
 .page__footer-follow .social-icons {
   display: flex;
@@ -879,38 +758,99 @@ footer a:hover {
 /* =========================================
    Breadcrumbs Section
 ========================================= */
+
 .breadcrumbs {
-  font-size: 0.8rem;
-  line-height: 1.4;
-  margin: 0 0 1.5rem 0;
-  color: #777;
-  font-family:
-    system-ui,
-    -apple-system,
-    BlinkMacSystemFont,
-    "Segoe UI",
-    sans-serif;
+  margin: 0 0 1rem;
+  font: inherit;
 }
 
-.breadcrumbs .breadcrumb-label {
-  margin-right: 0.4em;
-  color: #999;
+.breadcrumbs__list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 0.5rem;
+
+  font-size: var(--now-small, 0.95rem);
+  line-height: var(--now-leading, 1.6);
+  letter-spacing: var(--now-tracking, 0);
+  opacity: 0.9;
 }
 
-.breadcrumbs a {
-  color: #777;
+.breadcrumbs__item {
+  display: inline-flex;
+  align-items: baseline;
+}
+
+.breadcrumbs__item + .breadcrumbs__item::before {
+  content: "›";
+  margin: 0 0.5rem;
+  opacity: 0.6;
+}
+
+.breadcrumbs__link {
   text-decoration: none;
 }
 
-.breadcrumbs a:hover {
+.breadcrumbs__link:hover {
   text-decoration: underline;
+  text-underline-offset: 0.2em;
 }
 
-.breadcrumbs .sep {
-  margin: 0 0.35em;
-  color: #aaa;
+.breadcrumbs__current {
+  opacity: 0.75;
 }
 
-.breadcrumbs span:last-child {
-  color: #555;
+/* ===== "On this page" (Table of Contents) styling =====
+   Paste into your site CSS. Works even if your theme uses different TOC classes.
+*/
+/* TOC container spacing */
+/* TOC wrapper */
+.toc,
+.table-of-contents {
+  margin: 0;
+  padding: 0;
+}
+
+/* "On this page" heading */
+.toc h2,
+.table-of-contents h2 {
+  margin: 0 0 0.75rem 0;
+  font-size: 1rem;
+  font-weight: 600;
+  color: inherit;
+}
+
+/* TOC list */
+.toc ul,
+.table-of-contents ul {
+  margin: 0;
+  padding-left: 1.25rem; /* controls indent */
+  padding-right: 1.25rem; /* controls indent */
+  list-style-type: none;
+}
+
+/* TOC list items */
+.toc li,
+.table-of-contents li {
+  margin-left: 0.1rem;
+  margin-right: 0.1rem;
+}
+
+/* TOC links – match body text */
+.toc a,
+.table-of-contents a {
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+  font-size: 14px;
+  font-family: inherit;
+  line-height: 1;
+}
+
+/* Optional: subtle hover */
+.toc a:hover,
+.table-of-contents a:hover {
+  text-decoration: underline;
 }

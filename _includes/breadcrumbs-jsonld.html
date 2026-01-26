@@ -1,0 +1,53 @@
+{%- comment -%}
+JSON-LD BreadcrumbList:
+- No microdata attributes in HTML
+- Uses absolute URLs for schema validators
+- Hides on homepage
+{%- endcomment -%}
+
+{%- assign is_home = page.url == "/" or page.permalink == "/" -%}
+{%- if is_home != true -%}
+
+{%- assign base = site.url | append: site.baseurl -%}
+
+{%- comment -%}
+Build a crumb array:
+- Always include Home
+- Then page.breadcrumbs if present
+- Ensure last item is current page
+{%- endcomment -%}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ base | append: "/" }}"
+    }
+    {%- assign pos = 2 -%}
+    {%- if page.breadcrumbs and page.breadcrumbs.size > 0 -%}
+      {%- for crumb in page.breadcrumbs -%}
+        ,{
+          "@type": "ListItem",
+          "position": {{ pos }},
+          "name": {{ crumb.name | jsonify }},
+          "item": "{{ base | append: (crumb.url | relative_url) }}"
+        }
+        {%- assign pos = pos | plus: 1 -%}
+      {%- endfor -%}
+    {%- endif -%}
+    ,{
+      "@type": "ListItem",
+      "position": {{ pos }},
+      "name": {{ page.title | jsonify }},
+      "item": "{{ base | append: (page.url | relative_url) }}"
+    }
+  ]
+}
+</script>
+
+{%- endif -%}

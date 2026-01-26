@@ -12,22 +12,27 @@ header:
 # SEO overrides
 og_image: /assets/images/now-header.webp
 ---
-Updated on Monday January 19th, 2026.
+
+Updated on Monday January 26th, 2026.
 
 ## Currently Doing
-- I'm creating the course on *Living a Fulfilling Life: A Quiet Course for People Who Are Done Rushing Their Own Lives*
+
+- I'm creating the course on _Living a Fulfilling Life: A Quiet Course for People Who Are Done Rushing Their Own Lives_
 
 ## Current Projects
+
 - Writing helpful essays here on what has worked for me in life. See recently published below.
 - I'm an artist known as [Chr1stopher](/chr1stopher).
 - I have my own [web agency](/whodefinesyou) since 1999.
 
 ## Popular Essays
+
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 - [Boost Your Content Production Game: Essential Apps and Tools for 2026!](/workflow/) - I update yearly with my essential apps
 - [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
 
 ## Recently Published
+
 - Wrote [How to Stay a Good Person in a Broken World](https://christophersherrod.com/good-person-in-a-broken-world/)
 - Wrote [Why I’m Not Writing a Year in Review and What I’m Leaving Behind Instead](https://christophersherrod.com/not-writing-a-year-in-review/)
 - Wrote [Being Grateful Every Day Changed How I Live](https://christophersherrod.com/being-grateful-every-day/)
@@ -37,7 +42,7 @@ Updated on Monday January 19th, 2026.
 
 See my [past essays](/categories/)
 
-## Recently Read/Listened/Watched
+## Recent Discoveries
 
 - I [review](/tags/#review) some books and all my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
 - I recommend the [1001 Albums You Must Hear Before You Die challenge](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476). I enjoyed it so much I wrote an [entire essay about it](/1001-albums/).

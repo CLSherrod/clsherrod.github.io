@@ -170,6 +170,7 @@ category_archive:
   path: /categories/
   author_profile: true
 tag_archive:
+  enabled: false
   type: liquid
   path: /tags/
   author_profile: true

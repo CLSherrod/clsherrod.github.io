@@ -13,7 +13,7 @@ toc: true
 permalink: /good-person-in-a-broken-world/
 published: true
 ---
-## Feeling Like a Good Person in a Broken World: How to Cope When Darkness Feels Overwhelming
+## How to Cope When Darkness Feels Overwhelming
 
 Sometimes, I feel like I’m a good person stuck in a bad world.  
 
