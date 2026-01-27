@@ -9,6 +9,7 @@ robots: noindex,nofollow
 sitemap: false
 classes: wide
 author_profile: false
+search: false
 ---
 A confirmation email has just been sent to your inbox.
 To start receiving my essays and stories about living a fulfilling life, **please click the confirmation link inside that email.**

@@ -7,6 +7,7 @@ teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square
 robots: noindex,nofollow
 sitemap: false
 author_profile: false
+search: false
 ---
 You have successful subscribed to my newsletter. Check your email for a welcome email from me, Christopher Sherrod.
 

@@ -9,6 +9,7 @@ robots: noindex,nofollow
 sitemap: false
 classes: wide
 author_profile: true
+search: false
 ---
 You’ve been successfully removed from my email list.
 

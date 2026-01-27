@@ -9,7 +9,7 @@ tags:
   - 
 toc: true
 permalink: /the-uncomfortable-truth-about-self-help-gurus/
-published: false
+published: true
 ---
 There’s a strange paradox in the world of self-help.
 
@@ -185,28 +185,13 @@ And the moment you try — someone will call you fake.
 ## Related Essays
 
 If this essay resonated, you may also enjoy these:
+- [Feeling Like a Good Person in a Broken World](/good-person-in-a-broken-world/) - Why trying to live ethically in a noisy, profit-driven world often feels isolating — and how to stay grounded anyway.  
+- [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/) - real success isn’t about grand slams. It’s about tiny, consistent hits that build momentum.
+- [Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled](/fulfilled-not-fast-or-slow/) - I don’t care about _slow living_ or _fast living_. I care about how I **feel**—that I’m fulfilled in my life.
+## Join the Community
 
-### ➤ **Feeling Like a Good Person in a Broken World**
+If you enjoy essays like this and want daily notes on slow living, fulfillment, and finding a calmer rhythm in a noisy world, you can join the community here:
 
-Why trying to live ethically in a noisy, profit-driven world often feels isolating — and how to stay grounded anyway.  
-→ `/good-person-in-a-broken-world/`
+👉 **[https://christophersherrod.com](https://christophersherrod.com/)**
 
-### ➤ **Why Success Isn’t What Most People Think It Is**
-
-A grounded look at how modern culture confuses visibility, money, and meaning — and why quiet progress often matters more.  
-→ `/success-isnt-what-you-think/`
-
-### ➤ **The Difference Between Growth and Escapism**
-
-How self-improvement can become another form of avoidance — and how to tell when you’re actually changing.  
-→ `/growth-vs-escapism/`
-
-### ➤ **Why Most Advice Fails (And What Actually Works)**
-
-An honest look at why advice rarely sticks — and what real, lasting change tends to look like instead.  
-→ `/why-advice-fails/`
-
-### ➤ **Living a Fulfilling Life in a Noisy World**
-
-A reflection on slowing down, choosing intentionally, and building a life that isn’t based on trends or hype.  
-→ `/living-a-fulfilling-life/`
+The rhythm is easier to follow when you’re not doing it alone.

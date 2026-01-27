@@ -4,6 +4,7 @@ title: Invalid Signup
 permalink: /invalid-signup/
 toc: false
 robots: noindex,nofollow
+search: false
 ---
 ## Something Didn’t Look Right
 
