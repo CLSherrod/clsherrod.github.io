@@ -1,18 +1,20 @@
 ---
 layout: single
-title: What I Use
+title: "What I Use: Tools, Apps, and Gear for a Simple, Focused Life"
 permalink: /uses/
 toc: true
 description: Software and Hardware That I use daily
 preview: Software and Hardware That I use daily
 ---
-Contact me from my [hello page](/hello/) on any improvements. Last update: 2026-01-27
+Contact me from my [hello page](/hello/) on any improvements.
+Last update: 2026-01-27
 
 ## Hardware
 - [MacBook Air](https://www.apple.com/macbook-air/) on my 4th MacBook Air, first real computer was an Apple IIe - long list of computers dating back to 1976ish, mostly Apple, couple of Dells long-time ago.
 - [Keychron K6 Wireless Mechanical Keyboard](https://www.keychron.com/products/keychron-k6-wireless-mechanical-keyboard)
-- [Logitech MX ERGO Mouse](https://www.logitech.com/en-us/products/mice/mx-ergo-wireless-trackball-mouse.html)
-- [Rode smartLav+ Microphone](https://rode.com/en/microphones/mobile/smartlav-plus)
+- [ROYAL KLUDGE RK61 60% White Wireless Mechanical Gaming Keyboard – RK Royal Kludge](https://rkgamingstore.com/products/rk61-60-percent-keyboard) - I would recommend a 65% instead
+- [Orbit® Trackball with Scroll Ring \| Featured Products \| Kensington](https://www.kensington.com/p/products/featured-products/orbit-trackball-with-scroll-ring/)
+-  [Rode smartLav+ Microphone](https://rode.com/en/microphones/mobile/smartlav-plus)
 - [iPhone SE 2](https://www.apple.com/iphone-se/) - I dislike fancy & big phones
 - [Kindle Paperwhite](https://amzn.to/4a1RdEJ) since 2016, best reader
 - [Raspberry Pi 5](https://www.raspberrypi.com) home server running Raspberry Pi OS
