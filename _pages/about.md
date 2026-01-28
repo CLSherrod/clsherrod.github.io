@@ -103,7 +103,7 @@ You can explore my work here:
 
 ## My Daily Newsletter
 
-I share short, thoughtful notes each day about:
+If you enjoy this way of thinking, I share short, thoughtful notes each day — the same tone as this page, just quieter and more personal:
 - Living intentionally
 - Navigating modern life
 - Staying grounded
@@ -147,4 +147,7 @@ I read every message, even if I can’t always reply immediately.
 
 If you’re looking for motivation, I may not be the loudest voice.
 
-But if you’re looking for clarity, intention, and a more grounded way to live — you’re in the right place.
+I’m not here to convince you of anything.  
+I’m here to think out loud, write honestly, and share what I’ve learned along the way.
+
+If that’s your kind of pace, you’re welcome here.
