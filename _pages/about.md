@@ -12,9 +12,7 @@ header:
 description: Learn about Christopher Sherrod
 preview: Learn about Christopher Sherrod
 ---
-## About Christopher Sherrod
-
-### A quieter way of living, working, and creating
+## A quieter way of living, working, and creating
 
 I didn’t set out to write about fulfillment.
 
