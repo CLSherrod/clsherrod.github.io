@@ -1,5 +1,5 @@
 ---
-title: Courses
+title: Courses – Living a Fulfilling Life with Christopher Sherrod
 layout: single
 permalink: /courses/
 author_profile: true
@@ -11,25 +11,69 @@ header:
   image_description: Art Time by Chr1stopher
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/learn-header.webp
+description: Courses – Living a Fulfilling Life with Christopher Sherrod
+preview: Courses – Living a Fulfilling Life with Christopher Sherrod
 ---
+## Where ideas become something you can live
 
-Practice is where ideas stop being interesting and start being lived.
+Practice is where ideas stop being interesting and start being real.
 
-This page isn’t about learning more concepts or optimizing your life.
-It’s about returning to what actually matters—and practicing it, daily, in small and humane ways.
+This page isn’t about learning more concepts or fixing yourself.  
+It’s about returning to what actually matters — and practicing it, slowly, in the context of your own life.
 
-## Living a Fulfilling Life Course
+Everything here is designed to be:
+- calm
+- practical
+- human
+- and sustainable
 
-This is the quiet core behind everything I write and share.
+No hustle.  
+No performance.  
+No pressure to become someone else.
 
-A self-paced course for people who want their days to feel right again.
-No hustle culture.
-No performance.
-No fixing yourself.
+## Living a Fulfilling Life
 
-Just clear thinking, honest reflection, and gentle practices that change how life feels from the inside out.
+This is the quiet center of my work.
 
-**[Workshop coming](/#newsletter)** get notifications for details.
+**Living a Fulfilling Life** is a self-paced course for people who feel overstimulated, overextended, or subtly disconnected from their own lives — even if things look “fine” on the outside.
 
-Go at your own pace. Return when you need to.
-Built for real life—not an ideal one.
+It’s not a system to optimize you.
+
+It’s a set of reflections, practices, and perspectives designed to help you:
+- slow down without giving up
+- reconnect with what matters
+- clarify what _enough_ looks like for you
+- build days that feel grounded and intentional
+
+The course is built to meet you where you are.
+
+You move at your own pace.  
+You return when you need to.  
+Nothing expires. Nothing rushes you.
+
+This work is meant to support real life — not distract from it.
+
+## Who This Is For
+
+This course tends to resonate with people who:
+- feel overwhelmed by modern life
+- want clarity, not motivation
+- value depth over speed
+- are tired of being told to optimize everything
+- want their work and life to feel aligned
+
+If you’ve ever thought _“I don’t want more — I want better,”_  
+you’re probably in the right place.
+
+## How to Join
+
+The course opens quietly and intentionally.
+
+If you’d like to be notified when it’s available, you can join the newsletter below.  
+That’s also where I share reflections, essays, and small reminders about living well — without noise or pressure.
+
+→ [Join the newsletter for updates](/newsletter/)
+
+Go at your own pace.  
+Come back when you need to.  
+This work isn’t going anywhere.
