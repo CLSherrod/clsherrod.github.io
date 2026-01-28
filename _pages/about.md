@@ -65,6 +65,7 @@ I believe in:
 - Long-term thinking
 - Simple systems
 - And work that supports your life — not consumes it
+
 ## The Dolphin Entrepreneur
 
 Over time, I developed a philosophy I call **The Dolphin Entrepreneur**.
