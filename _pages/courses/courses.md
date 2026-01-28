@@ -18,7 +18,8 @@ preview: Courses – Living a Fulfilling Life with Christopher Sherrod
 
 Practice is where ideas stop being interesting and start being real.
 
-This page isn’t about learning more concepts or fixing yourself.  
+This page is an invitation to slow down and take life more deliberately.
+
 It’s about returning to what actually matters — and practicing it, slowly, in the context of your own life.
 
 Everything here is designed to be:
@@ -52,6 +53,8 @@ You return when you need to.
 Nothing expires. Nothing rushes you.
 
 This work is meant to support real life — not distract from it.
+
+A self-paced course on intentional living, clarity, and meaningful work.
 
 ## Who This Is For
 
