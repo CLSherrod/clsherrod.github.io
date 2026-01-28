@@ -1,59 +1,133 @@
 ---
 layout: single
-title: "About Christopher Sherrod"
+title: About Christopher Sherrod
 permalink: /about/
 toc: true
 author_profile: true
 teaser: /assets/images/headers/about-header.webp
 header:
- image: /assets/images/headers/about-header.webp
- image_description: "Christopher Sherrod in the jungle outside of Playa del Carmen Mexico"
- caption: "Christopher in Playa del Carment Mexico"
+  image: /assets/images/headers/about-header.webp
+  image_description: Christopher Sherrod in the jungle outside of Playa del Carmen Mexico
+  caption: Christopher in Playa del Carment Mexico
+description: Learn about Christopher Sherrod
+preview: Learn about Christopher Sherrod
 ---
-## Practical Wisdom for a Life of Fulfillment  
-Success isn’t just about business—it’s about creating a life that feels truly fulfilling. I'm a web agency owner and long-time self-help blogger. I share practical wisdom on personal growth, intentional living, and sustainable success. With decades of real-world experience, I help people design lives that align with their true purpose.  
+## About Christopher Sherrod
 
-> **“Success isn’t about working harder—it’s about aligning your life with what truly matters.”**  
+### A quieter way of living, working, and creating
 
-### A Journey from Business to Personal Growth  
-I built a successful business but realised that financial success alone wasn’t enough. Burned out and searching for meaning, I shifted my focus to designing a life based on purpose, creativity, and freedom. Now, I write about the lessons I've learned—helping others find their own path to fulfilment.  
+I didn’t set out to write about fulfillment.
 
-My journey began early—starting my first business in elementary school and later leaving a corporate job at American Express to run a software company full-time. While my businesses thrived, I discovered that true success isn’t just about numbers; it’s about creating a lifestyle that supports happiness, health, and personal growth.  
+I arrived here after building businesses, burning out, and realizing that success without clarity wasn’t success at all.
 
-I have been on the Internet since 1987 and created my first website in 1995, embracing the digital world long before it became mainstream.  
+For years, I chased the same things most people do — productivity, achievement, momentum. I built companies, worked long hours, and did what I thought I was supposed to do. On the outside, things looked fine.
 
-#### Lessons from Experience & Mentorship  
-My biggest influences have been spiritual teachers and two entrepreneurial mentors who taught me the importance of listening—to life, to business, and to the natural flow of success. I believes that fulfilment isn’t about working harder but about working with awareness, purpose, and alignment.  
+On the inside, something felt off.
 
-#### My Business Approach: The Dolphin Entrepreneur
-I penned down my business philosophy, dubbed the [Dolphin Entrepreneur](/dolphin-entrepreneur/), which you can check out in Social Capital Markets (formerly Conscious Company Magazine).
+Eventually, I learned what many people only realize later in life:  
 
-## Writing  
-My book, [How To Create New Business Ideas Based On What You Love](/book/business-ideas/), provide practical guidance for those seeking to build a business that supports their ideal lifestyle.  
+> **a full life isn’t built by doing more — it’s built by choosing better.**
 
-Beyond clients, courses, books and making art, I share insights through [blog post essays](/blog), and [poetry](/categories/#poems) offering real-world lessons on self-improvement, lifestyle design, and the mindset shifts needed for true success.  
+That realization changed everything.
 
-### My current featured articles
-- [Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled](https://christophersherrod.com/fulfilled-not-fast-or-slow/)
-- [Why Successful People Don’t Waste Time Arguing - Christopher Sherrod](https://christophersherrod.com/arguing/)
-- [The Hidden Cost of Cutting Corners: Why Quality Hosting Matters More Than You Think - Christopher Sherrod](https://christophersherrod.com/why-good-hosting-matters/)
-- [Boost Your Content Production Game: Apps and Tools for 2025!](/workflow)
-- [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
+## A Life Shaped by Experience, Not Theory
 
-### My Daily Newsletter
-Join my [newsletter](/newsletter/) to keep updated on my projects, articles and books.
-## Body of Work
-Curious about what I’m up to these days? Check out:
-- See [my body of work](/work) for a full list.
-- [What I’m doing now](/now/)
+I’ve been online since 1987 and built my first website in 1995.  
+I started my first business in elementary school, later worked in corporate life, and eventually left to run my own software company.
 
-## Offline Activities
-I enjoy listening to music, playing the Native American flute, creating art, and spending time with my wife, embracing a slower, more connected way of living. 
+The work was successful — but it came at a cost.
 
-You can also experience [my art](https://christophersherrod.com/chr1stopher).  
+Burnout forced me to slow down and ask better questions:
+- What actually matters?
+- What kind of life do I want to live?
+- And what does “success” mean when no one is watching?
 
-## Contact
-Here is how I prefer to keep in touch:
+That period reshaped how I think about work, creativity, and fulfillment.
+
+Today, I write from experience — not from theory.
+
+## What I Write About
+
+My work focuses on one central idea:
+
+**How to live a fulfilling life in a noisy, distracted world.**
+
+That includes writing about:
+- Intentional living and slowing down
+- Meaningful work that fits your life
+- Creativity without burnout
+- Building sustainable businesses
+- Reducing digital overwhelm
+- Choosing clarity over constant growth
+
+I don’t believe in hustle culture, empty motivation, or one-size-fits-all answers.
+
+I believe in:
+- Thoughtful choices
+- Long-term thinking
+- Simple systems
+- And work that supports your life — not consumes it
+## The Dolphin Entrepreneur
+
+Over time, I developed a philosophy I call **The Dolphin Entrepreneur**.
+
+It’s a way of approaching work and business that values:
+- Awareness over aggression
+- Sustainability over scale
+- Intelligence over noise
+- Flow over force
+
+It’s about building something meaningful without burning yourself out or losing sight of what matters.
+
+You can read more about that here:  
+→ [The Dolphin Entrepreneur](https://christophersherrod.com/dolphin-entrepreneur/)
+
+## Writing & Creative Work
+
+I write essays, books, and reflections on:
+- Living well
+- Making meaningful work
+- Creativity and attention
+- Life design and simplicity
+
+My writing is intentionally:
+- Clear
+- Grounded
+- Free of hype
+- Based on lived experience
+
+I also create art, write poetry, and explore creative work as a way of staying connected to what matters beyond productivity.
+
+You can explore my work here:
+- [Essays & Writing](https://christophersherrod.com/blog)
+- [Books & Projects](https://christophersherrod.com/work)
+
+## My Daily Newsletter
+
+I share short, thoughtful notes each day about:
+- Living intentionally
+- Navigating modern life
+- Staying grounded
+- Finding clarity in small moments
+
+It’s simple, calm, and written for people who want less noise — not more.
+
+→ [Join the newsletter](https://christophersherrod.com/newsletter/)
+
+## Life Outside the Screen
+
+When I’m not writing, I enjoy:
+- Creating art
+- Playing the Native American flute
+- Spending time with my wife
+- Living slowly and intentionally
+- Staying curious
+
+I believe a good life is built quietly, through small, consistent choices.
+
+## Get in Touch
+
+If something here resonates, you’re welcome to reach out.
 
 ### Email
 <form action="mailto:chris@christophersherrod.com" method="get" enctype="text/plain">
@@ -69,3 +143,9 @@ Here is how I prefer to keep in touch:
 ### Encrypted Messages
 Send me a message on Signal.
 ![Christopher on Signal](/assets/images/signal-qr-code.webp){: .align-center style="width:320px;" }
+    
+I read every message, even if I can’t always reply immediately.
+
+If you’re looking for motivation, I may not be the loudest voice.
+
+But if you’re looking for clarity, intention, and a more grounded way to live — you’re in the right place.
