@@ -13,7 +13,7 @@ header:
 og_image: /assets/images/now-header.webp
 ---
 
-Updated on Tuesday January 27th, 2026.
+Updated on Wednesday January 28th, 2026.
 
 ## Currently Doing
 - I'm creating the course on _Living a Fulfilling Life: A Quiet Course for People Who Are Done Rushing Their Own Lives_
