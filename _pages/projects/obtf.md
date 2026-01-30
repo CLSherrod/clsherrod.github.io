@@ -8,7 +8,7 @@ toc: true
 ---
 **A simple, durable way to think, write, and remember — without apps, dashboards, or digital clutter.**
 
-[One Big Text File (OBTF)](https://github.com/CLSherrod/OBTF/) is exactly what it sounds like:  
+[One Big Text File (OBTF) on GitHub](https://github.com/CLSherrod/OBTF/) is exactly what it sounds like:  
 a single plain-text file where everything goes.
 
 Notes.  
