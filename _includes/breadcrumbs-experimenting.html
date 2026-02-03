@@ -1,0 +1,41 @@
+<nav class="breadcrumbs">
+  <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+    <li
+      itemprop="itemListElement"
+      itemscope
+      itemtype="https://schema.org/ListItem"
+    >
+      {% if page.collection == 'posts' %}
+          <span class="sep"> › </span>
+          <a href="{{ '/blog/' | relative_url }}">Blog</a></li>
+    <span class="sep"> › </span>
+    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+        {% if category == "Living a Fulfilling Life" %}
+              <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                <a href="/categories/#living-a-fulfilling-life" itemprop="item">
+                  <span itemprop="name">Living a Fulfilling Life</span>
+                </a>
+              </li>
+            {% endif %}
+            {% if category == "Work & Entrepreneurship" %}
+                  <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                    <a href=/categories/#work-entrepreneurship" itemprop="item">
+                      <span itemprop="name">Living a Fulfilling Life</span>
+                    </a>
+                  </li>
+                {% endif %}
+
+    </li>
+      {% endif %}
+      {%- if page.breadcrumb_parent_url: == '/projects/' -%}
+      <span class="sep"> › </span>
+      <a href="{{ '/projects/' | relative_url }}">Projects</a>
+      {%- endif -%}
+      {%- if page.breadcrumb_parent_url: == '/courses/' -%}
+      <span class="sep"> › </span>
+      <a href="{{ '/courses/' | relative_url }}">Courses</a>
+      {%- endif -%}
+      <meta itemprop="position" content="{{ i }}" />
+    </li>
+  </ol>
+</nav>

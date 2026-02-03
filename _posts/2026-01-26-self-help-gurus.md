@@ -43,7 +43,7 @@ And that definition matters — because once you apply it honestly, a lot of cri
 Most attacks on public self-help figures aren’t really about fraud.  
 They’re about _expectations_.
 
-People expect a guru to be:
+People expect a teacher to be:
 - deeply personal
 - endlessly available
 - morally pure
