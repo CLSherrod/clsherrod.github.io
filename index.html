@@ -398,7 +398,7 @@ header:
       <p>New writing from the last few weeks:</p>
       <ul class="essays-list">
         {% assign sorted_posts = site.posts | sort: "date" | reverse %} {% for
-        post in sorted_posts limit: 10 %} {% assign category = post.categories |
+        post in sorted_posts limit: 5 %} {% assign category = post.categories |
         first | default: "Post" %} {% assign words = category | split: ' ' %} {%
         capture titlecase %} {% for w in words %} {{ w | capitalize }}{% unless
         forloop.last %} {% endunless %} {% endfor %} {% endcapture %}
