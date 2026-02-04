@@ -1,18 +1,25 @@
 ---
 title: Silent Joy - Poem
 date: 2024-06-10
-published: true
+permalink: /silent-joy/
+
 categories:
   - Creativity & Writing
 tags:
   - meaning
   - poem
+
 teaser: /assets/images/poems/silent-joy.webp
 header:
-  image: /assets/images/poems/silent-joy.webp
-permalink: /silent-joy/
+  overlay_image: /assets/images/poems/silent-joy.webp
+
 excerpt: Poem about enjoying the silence.
+
+read_time: false
+toc: false
+published: true
 ---
+
 I was sitting in my hot tub watching the palm trees sway and the ocean waves, and I think what can I write about. I'm happy, wrote about that before, I don't want to repeat myself too much. I've even written about sitting in my hot tub and listening to chill out music and just enjoying the view. So, I thought, why not write about just the joy of silence.
 
 ## Silent Joy

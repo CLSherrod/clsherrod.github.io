@@ -1,20 +1,32 @@
 ---
 title: Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose
+date: 2025-06-01
+permalink: /montgomery/
+
 description: Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose
 preview: Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose
-date: 2025-06-01
+excerpt: A tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose.
+
 categories:
   - Living a Fulfilling Life
 tags:
   - tribute
-toc: true
-permalink: /montgomery/
+
 teaser: /assets/images/articles/montgomery.webp
+tagline: "How One Cardiologist Changed Countless Lives—Including Mine"
 header:
-  image: /assets/images/articles/montgomery.webp
+  overlay_image: /assets/images/articles/montgomery.webp
+  image_description: "How One Cardiologist Changed Countless Lives—Including Mine"
+  caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
+image:
+  path: /assets/images/articles/montgomery.webp
+  alt: "Tribute to Dr. Baxter D. Montgomery, Heart Surgeon Who Healed With Plants and Purpose"
+
+read_time: false
+toc: false
+
 published: true
 ---
-## How One Cardiologist Changed Countless Lives—Including Mine
 
 Dr. Baxter D. Montgomery passed away suddenly last week, and I’ve been sitting with the shock, the sadness, and the deep gratitude I feel for having known him—if only from the other side of a screen.
 
@@ -38,7 +50,7 @@ Dr. Montgomery was a rare force—a man who could operate on your heart and also
 
 I’ve followed his work all these years. I’ve admired his courage, his consistency, and the deep compassion that lived at the center of everything he did.
 
-His death is a massive loss to the many communities he touched, but his work continues through the patients he transformed, the ideas he fearlessly shared, and the legacy he built at Montgomery Heart & Wellness.
+His death is a massive loss to the many communities he touched, but his work continues through the patients he transformed, the ideas he fearlessly shared, and the legacy he built at Montgomery Heart & Wellness.
 
 ## Thank You, Dr. Montgomery
 
@@ -48,6 +60,6 @@ Read his book [The Food Prescription for Better Health: A Cardiologists Proven M
 
 Rest well, Dr. Montgomery. You were the heart in heart medicine.
 
----
+## Read More
 
-Read my other tribue to Vangelis [The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy](https://christophersherrod.com/vangelis/)
+Read my other tribute to Vangelis [The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy](https://christophersherrod.com/vangelis/)

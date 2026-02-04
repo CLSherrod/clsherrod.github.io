@@ -29,6 +29,7 @@ toc_sticky: true
 
 published: true
 ---
+
 ## A Life Defined by Purpose, Not Comfort
 
 What can Jane Goodall teach us about purpose, legacy, and why we should never quit? Her final documentary offers a powerful reminder that meaningful work doesn’t end—it deepens.
@@ -39,7 +40,7 @@ Jane Goodall has never lived gently.
 
 In the documentary _Famous Last Words_, she appears not as a heroic icon, but as a human being who has chosen—again and again—not to step away from her life’s work.
 
-Not because she needs recognition.  
+Not because she needs recognition.
 Not because she’s afraid of stopping.
 
 But because her mission has become inseparable from who she is.
@@ -50,7 +51,7 @@ She moves slowly now. Her body carries decades of travel, activism, and responsi
 
 Jane Goodall isn’t powered by passion anymore.
 
-Passion is temporary.  
+Passion is temporary.
 It burns hot and disappears.
 
 What replaces it is something quieter and more enduring: **responsibility**.
@@ -65,7 +66,7 @@ She follows it with something even more striking:
 
 > It’s better to keep going than to quit and say okay. The younger generation needs that inspiration to not give up.
 
-This isn’t motivation.  
+This isn’t motivation.
 It’s a handoff.
 
 ## Big Change Comes From Small, Consistent Action
@@ -74,14 +75,14 @@ One of the film’s central truths is easy to miss:
 
 **Big missions survive on small actions.**
 
-Not grand gestures.  
-Not viral moments.  
+Not grand gestures.
+Not viral moments.
 Not perfect plans.
 
 Real change happens through repetition—through showing up again tomorrow.
 
-Goodall doesn’t force people.  
-She doesn’t preach.  
+Goodall doesn’t force people.
+She doesn’t preach.
 She doesn’t dominate conversations.
 
 She teaches by example.
@@ -95,6 +96,7 @@ Lasting impact comes from patience, presence, and steady effort over time.
 ## The Questions We Avoid Are the Ones That Matter Most
 
 The documentary quietly leads you toward uncomfortable but essential questions:
+
 - How do you want to be remembered?
 - What are you actually building with your time?
 - Are you living intentionally—or just staying busy?
@@ -105,7 +107,7 @@ They’re directional ones.
 
 They determine whether your life feels meaningful—or merely full.
 
-Goodall understands something most people realize too late:  
+Goodall understands something most people realize too late:
 Time sharpens priorities. And urgency clarifies purpose.
 
 If this question resonates, you might also like my essay on [how to stay a good person in a broken world](https://christophersherrod.com/good-person-in-a-broken-world/).
@@ -120,8 +122,8 @@ Then she adds the part most people miss:
 
 Hope isn’t passive.
 
-It’s a discipline.  
-A daily decision.  
+It’s a discipline.
+A daily decision.
 A commitment to keep going even when the outcome is uncertain.
 
 Hope, for Jane Goodall, is action.
@@ -134,8 +136,8 @@ It’s about you.
 
 It’s about whether you’re willing to live in alignment with what matters—rather than waiting for permission, clarity, or the perfect moment.
 
-It’s about choosing consistency over comfort.  
-Meaning over momentum.  
+It’s about choosing consistency over comfort.
+Meaning over momentum.
 Purpose over ease.
 
 Her stubbornness is her gift.
@@ -143,6 +145,7 @@ Her stubbornness is her gift.
 And if you’re paying attention, it can become yours too.
 
 ## Learn More
+
 - watch [Famous Last Words Dr. Jane Goodall (2025) - Netflix](https://www.netflix.com/search?q=Jane%20Goodall&jbv=82053197)
 - read [Jane Goodall - Wikipedia](https://en.wikipedia.org/wiki/Jane_Goodall)
 - [The Book of Hope: A Survival Guide for Trying Times (Global Icons Series) , Goodall, Jane, Abrams, Douglas - Amazon.com](https://amzn.to/49NM8DB)
@@ -150,5 +153,6 @@ And if you’re paying attention, it can become yours too.
 - [#EATMEATLESS: Good for Animals, the Earth & All , The Jane Goodall Institute, Goodall, Jane - Amazon.com](https://amzn.to/4pew0jm)
 
 ## Live More
+
 If you’re thinking about your own purpose, legacy, or next chapter, I share daily reflections on living a fulfilling life here:
 👉 [https://christophersherrod.com/](https://christophersherrod.com/)

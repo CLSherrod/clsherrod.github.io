@@ -1,18 +1,24 @@
 ---
 title: Forests Are For Rest
 date: 2024-08-26
+permalink: /forests-are-for-rest/
+
 categories:
   - Creativity & Writing
 tags:
   - meaning
   - poem
-permalink: /forests-are-for-rest/
-published: true
+
 excerpt: Poem about forests and rest
 teaser: /assets/images/poems/forests-for-rest.webp
 header:
-  image: /assets/images/poems/forest-for-rest.webp
+  overlay_image: /assets/images/poems/forest-for-rest.webp
+
+read_time: false
+toc: false
+published: true
 ---
+
 My love showed me a graphic that said Forests = For Rest and I really loved that. So I played with that concept in this poem.
 
 ## A Forest Is for Rest

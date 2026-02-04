@@ -1,17 +1,25 @@
 ---
 title: Moments Unwrapped - Poem
 date: 2024-04-15
-published: true
+permalink: /moments-unwrapped/
+
+
 categories:
   - Creativity & Writing
 tags:
   - poem
   - meaning
+  
 teaser: /assets/images/poems/moments-unwrapped.webp
 header:
-  image: /assets/images/poems/moments-unwrapped.webp
-permalink: /moments-unwrapped/
+  overlay_image: /assets/images/poems/moments-unwrapped.webp
+
 excerpt: Poem about the present, the now, what you are actually living is a gift, a present.
+
+read_time: false
+toc: false
+
+published: true
 ---
 The present, the now, what you are actually living is a gift, a present. I loved that it's the same word. The present is a real present. Enjoy every moment. I wrote a poem to remember to enjoy the moments.
 

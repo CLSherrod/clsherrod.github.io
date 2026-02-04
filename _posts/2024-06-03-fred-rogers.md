@@ -1,19 +1,30 @@
 ---
 title: "Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers"
 date: 2024-06-03
+permalink: /fred-rogers/
+
+description: Entrepreneurial Lessons from Mr. Rogers
+preview: Entrepreneurial Lessons from Mr. Rogers
+excerpt: Entrepreneurial Lessons from Mr. Rogers
+
 categories:
   - Living a Fulfilling Life
 tags:
   - entrepreneurship
   - tribute
-permalink: /fred-rogers/
-published: true
-comments: true
-toc: true
+
 teaser: /assets/images/fred-rogers.webp
+tagline: "Beyond the Neighborhood: Entrepreneurial Lessons from Mr. Rogers"
 header:
-  image: /assets/images/articles/fred-rogers.webp
+  overlay_image: /assets/images/articles/fred-rogers.webp
+  image_description: "Beyond the Neighborhood - Entrepreneurial Lessons from Mr. Rogers"
+  caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
+
+read_time: false
+toc: false
+published: true
 ---
+
 ## A Neighborhood of Wisdom
 
 In the bustling world of entrepreneurship, unexpected mentors can emerge from the most unassuming places. Fred Rogers, the iconic host of “Mister Rogers’ Neighborhood,” might seem an unlikely guide for navigating the challenges of running a business. However, his gentle demeanor and timeless wisdom hold profound lessons for entrepreneurs seeking not just success, but a meaningful and authentic impact.

@@ -1,18 +1,26 @@
 ---
 title: Valentine's Day Magic - Poem
 date: 2024-02-13
-published: true
+permalink: /valentines-day-magic/
+
 categories:
   - Creativity & Writing
 tags:
   - meaning
   - poem
+
 teaser: /assets/images/poems/valentines-day-magic.webp
 header:
-  image: /assets/images/poems/valentines-day-magic.webp
-permalink: /valentines-day-magic/
+  overlay_image: /assets/images/poems/valentines-day-magic.webp
+  caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
+
 excerpt: A love poem for my love on Valentine's Day.
+
+read_time: false
+toc: false
+published: true
 ---
+
 Happy Valentine's Day everyone. I wrote this poem for my love of life Nan and thought it would super romantic and inspiring for the rest of you.
 
 ## Valentine's Day Magic

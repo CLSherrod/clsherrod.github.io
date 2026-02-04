@@ -1,18 +1,27 @@
 ---
 title: "To Be: The Only Answer - Poem"
 date: 2024-05-20
-published: true
+permalink: /to-be-the-only-answer/
+
 categories:
   - Creativity & Writing
 tags:
   - meaning
   - poem
+
 teaser: /assets/images/poems/to-be.webp
 header:
-  image: /assets/images/poems/to-be.webp
-permalink: /to-be-the-only-answer/
+  overlay_image: /assets/images/poems/to-be.webp
+  caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
+
 excerpt: Poem about to be is a gift.
+
+read_time: false
+toc: false
+
+published: true
 ---
+
 For years I would randomly say in a deep actor's theatre voice "To Be Or Not To Be. To Be!" around the house. Usual after having a nice creative session. I think it's a stupid question because for me the only answer is To Be. I can only be me. I can only be. To be is a gift that I don't want to give up. So I wrote a poem.
 
 ## To Be: The Only Answer

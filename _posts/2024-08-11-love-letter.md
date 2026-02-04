@@ -1,17 +1,24 @@
 ---
 title: "A Heartfelt Love Letter to My Soulmate: Celebrating Our Timeless Connection"
 date: 2024-08-11
+permalink: "/love-letter/"
+
 categories:
-- Creativity & Writing
+  - Creativity & Writing
 tags:
-- meaning
+  - meaning
+
 teaser: /assets/images/poems/love-letter.webp
 header:
-  image: /assets/images/poems/love-letter.webp
-permalink: "/love-letter/"
-published: true
+  overlay_image: /assets/images/poems/love-letter.webp
+
 excerpt: Love letter to my love.
+
+read_time: false
+toc: false
+published: true
 ---
+
 I miss seeing romantic gestures in public. So, besides my poems about love and self-worth. I wrote a love letter to my love.
 
 To my love,

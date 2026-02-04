@@ -1,20 +1,29 @@
 ---
 title: "The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy"
-description: "The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy"
 date: 2025-05-19
+permalink: /vangelis/
+
+description: "The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy"
 preview: "The Soundtrack That Changed My Life: What Vangelis Taught Me About Legacy"
+excerpt: "What Vangelis Taught Me About Legacy"
+
 categories:
-- Living a Fulfilling Life
+  - Living a Fulfilling Life
 tags:
   - tribute
   - music
-permalink: /vangelis/
-published: true
-toc: true
+
 teaser: /assets/images/articles/vangelis.webp
 header:
-  image: /assets/images/articles/vangelis.webp
+  overlay_image: /assets/images/articles/vangelis.webp
+  image_description: "What Vangelis Taught Me About Legacy"
+  caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
+
+read_time: false
+toc: false
+published: true
 ---
+
 ## The Power of a Single Note
 
 You ever hear a song that stops you in your tracks? One that hits you so deeply, it feels like it rewires something inside? That’s what happened the first time I listened to Vangelis.
@@ -25,11 +34,11 @@ He wasn’t just background noise for me. His music was a lifeline. A mood shift
 
 My favorite album of his—_Antarctica_—became my personal chill-out button. Whenever things got loud in my head, I’d put it on, lean back, and let the ice-cold clarity of those melodies bring me back to center.
 
-Vangelis didn’t make music for the charts. He made music that touched the soul. His _Blade Runner_ soundtrack became my go-to reading companion in the living room, transporting me to another world while I explored new ideas on the page.
+Vangelis didn’t make music for the charts. He made music that touched the soul. His *Blade Runner* soundtrack became my go-to reading companion in the living room, transporting me to another world while I explored new ideas on the page.
 
-_Direct_ was another gem. The way the sounds danced and spoke to each other… it reminded me of a well-run business—each part working in harmony, nothing wasted.
+*Direct* was another gem. The way the sounds danced and spoke to each other… it reminded me of a well-run business—each part working in harmony, nothing wasted.
 
-And of course, _Chariots of Fire_. I’d blast that one and jog slowly around my kitchen island, pretending I was training for something big. Maybe I was. Maybe we all are.
+And of course, *Chariots of Fire*. I’d blast that one and jog slowly around my kitchen island, pretending I was training for something big. Maybe I was. Maybe we all are.
 
 ## When a Hero Passes
 
@@ -53,6 +62,6 @@ That’s what I want. That’s what I think we all want, whether we’re making 
 
 ## Final Thoughts from a Grateful Fan
 
-I’ll still put on _Antarctica_ when I need a reset. I’ll still jog around the kitchen to _Chariots of Fire_ when the day’s dragging. And I’ll always be thankful that one man, sitting in a studio somewhere, decided to make something real.
+I’ll still put on *Antarctica* when I need a reset. I’ll still jog around the kitchen to *Chariots of Fire* when the day’s dragging. And I’ll always be thankful that one man, sitting in a studio somewhere, decided to make something real.
 
 Thank you, Vangelis. From a super fan. You changed my life.

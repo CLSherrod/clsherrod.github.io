@@ -1,7 +1,8 @@
 ---
 title: Life Between the Waves - Poem
 date: 2024-02-20
-published: true
+permalink: /life-between-the-waves/
+
 categories:
   - Creativity & Writing
 tags:
@@ -9,13 +10,19 @@ tags:
   - poem
 teaser: /assets/images/poems/life-between-the-waves.webp
 header:
-  image: /assets/images/poems/life-between-the-waves.webp
-permalink: /life-between-the-waves/
+  overlay_image: /assets/images/poems/life-between-the-waves.webp
+
 excerpt: Poem about living life between the waves.
+read_time: false
+toc: false
+
+published: true
 ---
+
 I love being simple. Being simple has made me appreciate all the moments in life. Everything is stillness if you appreciate it. I wrote this poem to appreciate the life between the waves.
 
 ## Savoring Simplicity: Life Between the Waves
+
 In the quiet spaces between the waves,
 Where time slows down, and stillness craves,
 There lies a world of simple grace,

@@ -1,18 +1,33 @@
 ---
 title: "Echoes of Violence: A Plea for Peace - Poem"
 date: 2024-05-15
-published: true
+permalink: /echoes-of-violence/
+
+description: In the midst of conflict and strife, we often find ourselves grappling with the haunting echoes of history.
+preview: In the midst of conflict and strife, we often find ourselves grappling with the haunting echoes of history.
+excerpt: In the midst of conflict and strife, we often find ourselves grappling with the haunting echoes of history.
+
 categories:
   - Creativity & Writing
 tags:
   - meaning
   - poem
+
 teaser: /assets/images/poems/echoes-of-violence.webp
+tagline: "In the midst of conflict and strife, we often find ourselves grappling with the haunting echoes of history."
 header:
-  image: /assets/images/poems/echoes-of-violence.webp
-permalink: /echoes-of-violence/
-excerpt:
+  overlay_image: /assets/images/poems/echoes-of-violence.webp
+  caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
+image:
+  path: /assets/images/poems/echoes-of-violence.webp
+  alt: "In the midst of conflict and strife, we often find ourselves grappling with the haunting echoes of history."
+
+read_time: false
+toc: false
+
+published: true
 ---
+
 In the midst of conflict and strife, we often find ourselves grappling with the haunting echoes of history. This poem, "Echoes of Violence: A Plea for Peace," addresses the cyclical nature of violence and the heavy burden of regret that follows. It calls upon us to remember the lessons of the past, to acknowledge the profound impact of our actions, and to strive for a world where justice and peace prevail. As we navigate these challenging times, let this poem serve as a reminder that true strength lies not in perpetuating violence, but in fostering understanding and compassion for all humankind.
 
 ## Echoes of Violence: A Plea for Peace

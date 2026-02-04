@@ -11,7 +11,7 @@ permalink: /loves-journey/
 excerpt: Poem about my love of my life.
 teaser: /assets/images/poems/loves-journey.webp
 header:
-  image: /assets/images/poems/loves-journey.webp
+  overlay_image: /assets/images/poems/loves-journey.webp
 ---
 I recently celebrated 19 years together with the love of my life. Having a love so deep I think is quite rare in the world. I wrote a poem to celebrate.
 

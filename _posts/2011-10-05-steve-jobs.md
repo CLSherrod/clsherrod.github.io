@@ -2,20 +2,26 @@
 title: Remembering Steve Jobs - A Tribute to the Visionary Behind Apple's Legacy
 date: 2011-10-05
 last_modified_at: 2024-03-11
+permalink: /steve-jobs/
+
 categories:
-- Living a Fulfilling Life
+  - Living a Fulfilling Life
 tags:
   - entrepreneurship
   - tribute
-permalink: /steve-jobs/
-published: true
-comments: true
+
 teaser: /assets/images/articles/steve-jobs.webp
 header:
-  image: /assets/images/articles/steve-jobs.webp
+  overlay_image: /assets/images/articles/steve-jobs.webp
+  caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
+
+read_time: false
+toc: false
+published: true
 ---
+
 I’m sadden on hearing Steve Jobs of Apple passing away.
-<!--more-->
+
 I remember my first Apple computer. I had a couple of computers before I finally got a real computer my Apple IIe. I had an Odessey and an Atari 400, but when I got my Apple IIe, now that was a real computer.
 
 I got it in the late 70’s and used it for years. In fact used it thru college up to 1991 before finally upgrading to a Mac IIvx.

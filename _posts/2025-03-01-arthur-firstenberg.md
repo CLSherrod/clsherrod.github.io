@@ -1,20 +1,28 @@
 ---
 title: "The Digital Canary: Arthur Firstenberg's Legacy of Electromagnetic Awareness"
-description: Tribute to Arthur Firstenberg Electromagnetic Awareness Pioneer
 date: 2025-03-01
+permalink: /arthur-firstenberg/
+
+description: Tribute to Arthur Firstenberg Electromagnetic Awareness Pioneer
 preview: Tribute to Arthur Firstenberg Electromagnetic Awareness Pioneer
-published: true
+excerpt: Tribute to Arthur Firstenberg Electromagnetic Awareness Pioneer
+
 categories:
   - Living a Fulfilling Life
 tags:
   - tribute
-permalink: /arthur-firstenberg/
-excerpt: Tribute to Arthur Firstenberg Electromagnetic Awareness Pioneer
-toc: true
+
 teaser: /assets/images/arthur-firstenberg.webp
 header:
-  image: /assets/images/articles/arthur-firstenberg.webp
+  overlay_image: /assets/images/articles/arthur-firstenberg.webp
+  image_description: "Tribute to Arthur Firstenberg Electromagnetic Awareness Pioneer"
+  caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
+
+read_time: false
+toc: false
+published: true
 ---
+
 ## The Passing of an Electromagnetic Pollution Pioneer
 
 Arthur Firstenberg, a pioneering advocate and researcher who dedicated his life to raising awareness about the potential dangers of electromagnetic fields (EMFs), has left behind a controversial yet impactful legacy. As the author of "The Invisible Rainbow," Firstenberg meticulously documented what he perceived as the historical relationship between electrical technology implementation and public health concerns.

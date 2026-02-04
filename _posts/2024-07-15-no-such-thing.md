@@ -1,23 +1,30 @@
 ---
 title: No Such Thing - Poem
 date: 2024-07-15
+permalink: /no-such-thing/
+
 categories:
   - Creativity & Writing
 tags:
   - meaning
   - poem
-permalink: /no-such-thing/
-published: true
+
 excerpt: Poem about that there is no such thing as a life better than yours
 teaser: /assets/images/poems/no-such-thing.webp
 header:
-  image: /assets/images/poems/no-such-thing.webp
+  overlay_image: /assets/images/poems/no-such-thing.webp
+
+read_time: false
+toc: false
+published: true
 ---
+
 I talked to a friend recently that their life wasn't nearly as good as others. And my response was there is no such thing as a life better than yours because you craft your own life. Some things in my life some would think isn't good enough and other would think it's too fancy. And it doesn't matter because it's your life not theirs.
 
 This poem is dedicated to being yourself.
 
 ## No Such Thing
+
 No such thing as a life better than yours,
 In the heart of your story, where your spirit soars,
 Every moment, every breath you take,

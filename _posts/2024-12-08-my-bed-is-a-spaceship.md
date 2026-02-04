@@ -1,18 +1,24 @@
 ---
 title: My Bed is a Spaceship - Poem
 date: 2024-12-08
+permalink: /my-bed-is-a-spaceship/
+
 categories:
   - Creativity & Writing
 tags:
   - poem
-permalink: /my-bed-is-a-spaceship/
-published: true
+
 excerpt: Remembering when I was confined to bed.
 teaser: /assets/images/poems/my-bed-is-a-spaceship.webp
 header:
-  image: /assets/images/poems/my-bed-is-a-spaceship.webp
+  overlay_image: /assets/images/poems/my-bed-is-a-spaceship.webp
+
+read_time: false
+toc: false
+published: true
 ---
-I wrote this poem during a writing session from my book I’m currently writing about my electromagnetic hypersensitivity. It's about about my time being confined to my darkened bedroom recovering from a gran mal seziure and my time dreaming, traveling the cosmos, and the magic of imagination from my bed. 
+
+I wrote this poem during a writing session from my book I’m currently writing about my electromagnetic hypersensitivity. It's about about my time being confined to my darkened bedroom recovering from a gran mal seziure and my time dreaming, traveling the cosmos, and the magic of imagination from my bed.
 
 **My Bed is a Spaceship**
 
