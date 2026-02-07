@@ -78,6 +78,6 @@ Here’s what people explore next:
 
 ## Let’s Stay Connected
 
-Want to stay in the loop? Go to my [Hello page](/hello/). Feel free to reply to any email — I actually read them.
+Want to stay in the loop? Go to my [About page](/about#get-in-touch). Feel free to reply to any email — I actually read them.
 
 > "Living well isn’t about doing more. It’s about doing what matters — and letting the rest fall away."
