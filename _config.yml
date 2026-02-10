@@ -16,7 +16,7 @@ twitter_username: chrissherrod
 github_username: clsherrod
 
 # Open Graph default image (fallback if page doesn't specify one)
-og_image: /assets/images/teasers//christopher-sherrod-essays-fulfilling-life-wide.webp
+og_image: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
 
 # Theme
 minimal_mistakes_skin: air
@@ -26,7 +26,7 @@ logo: "/assets/images/logo/logo.webp"
 masthead_title: "Christopher Sherrod"
 breadcrumbs: true # disabled by default
 date_format: "%Y-%m-%d"
-teaser: /assets/images/teasers//christopher-sherrod-essays-fulfilling-life-wide.webp
+teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
 
 # GitHub
 repository: "clsherrod/clsherrod.github.io"
@@ -171,9 +171,6 @@ category_archive:
   author_profile: true
 tag_archive:
   enabled: false
-  type: liquid
-  path: /tags/
-  author_profile: true
 
 # follow
 follow_label: Links
