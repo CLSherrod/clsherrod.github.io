@@ -1,5 +1,5 @@
 ---
-title: Courses – Living a Fulfilling Life with Christopher Sherrod
+title: Courses with Christopher Sherrod
 layout: single
 permalink: /courses/
 author_profile: true
@@ -11,74 +11,97 @@ header:
   image_description: Art Time by Chr1stopher
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/learn-header.webp
-description: Courses – Living a Fulfilling Life with Christopher Sherrod
-preview: Courses – Living a Fulfilling Life with Christopher Sherrod
+description: Courses with Christopher Sherrod
+preview: Courses with Christopher Sherrod
 ---
-## Where ideas become something you can live
+## Where Change Becomes Lived Experience
 
-Practice is where ideas stop being interesting and start being real.
+Ideas are easy to collect.  
+Real change happens when you practice something differently in your daily life.
 
-This page is an invitation to slow down and take life more deliberately. It’s for people who feel the pace of modern life but don’t want to live at war with it.
-
-It’s about returning to what actually matters — and practicing it, slowly, in the context of your own life.
-
-Everything here is designed to be:
-- calm
-- practical
-- human
-- and sustainable
+This space is not about learning more.  
+It’s about living differently — calmly, deliberately, and in ways that support your health, clarity, and long-term well-being.
 
 No hustle.  
-No performance.  
+No optimization culture.  
 No pressure to become someone else.
 
-## Living a Fulfilling Life
+Just practical steps that help you come back to yourself.
 
-This is the quiet center of my work.
+## Unplug: The EMF Reset
 
-**Living a Fulfilling Life** is a self-paced course for people who feel overstimulated, overextended, or subtly disconnected from their own lives — even if things look “fine” on the outside.
+**A Calm, Practical Guide to Reducing Exposure and Reclaiming Your Life**
 
-It’s not a system to optimize you.
+This is the central course I offer.
 
-It’s a set of reflections, practices, and perspectives designed to help you:
-- slow down without giving up
-- reconnect with what matters
-- clarify what _enough_ looks like for you
-- build days that feel grounded and intentional
+_Unplug_ was created for people who feel overstimulated, exhausted, wired, or quietly aware that modern technology is asking more from their bodies and minds than it gives back.
 
-The course is built to meet you where you are.
+It is not anti-technology.  
+It is about restoring balance.
+
+This course walks you through a clear, grounded approach to:
+
+- Reduce unnecessary EMF exposure without fear or extremism
+    
+- Create living spaces that support recovery and calm
+    
+- Rebuild energy, focus, and sleep through environmental changes
+    
+- Set practical boundaries with devices and connectivity
+    
+- Live well with technology — instead of being dominated by it
+    
 
 You move at your own pace.  
-You return when you need to.  
-Nothing expires. Nothing rushes you.
+There is nothing to keep up with.  
+Nothing expires.  
+No constant logins, notifications, or performance expectations.
 
-This work is meant to support real life — not distract from it.
-
-A self-paced course on intentional living, clarity, and meaningful work — designed to be practiced, not rushed.
+This work is meant to support real life — not become another digital obligation.
 
 ## Who This Is For
 
 This course tends to resonate with people who:
-- feel overwhelmed by modern life
-- want clarity, not motivation
-- value depth over speed
-- are tired of being told to optimize everything
-- want their work and life to feel aligned
 
-If you’ve ever thought _“I don’t want more — I want better,”_  
-you’re probably in the right place.
+- Feel physically or mentally overwhelmed by constant connectivity
+    
+- Suspect their environment is affecting their well-being
+    
+- Want practical change, not abstract theory
+    
+- Prefer calm structure over motivational pressure
+    
+- Value long-term health more than convenience
+    
+- Want to simplify their relationship with technology without rejecting modern life
+    
 
-## How to Join
+If you’ve ever thought:
 
-The course opens quietly and intentionally.
+> “Something about the way we’re living isn’t working.”
 
-If you’d like to be notified when it’s available, you can join the newsletter below.  
-That’s also where I share reflections, essays, and small reminders about living well — without noise or pressure.
+You are likely in the right place.
+
+## A Different Kind of Course
+
+There are no hacks here.  
+No biohacking culture.  
+No complicated systems.
+
+Just small, deliberate adjustments that accumulate into meaningful change.
+
+You don’t rush this work.  
+You live it.
+
+## How to Begin
+
+Enrollment opens periodically.
+
+If you’d like to be notified when the course is available, join the newsletter below.  
+That’s where I share reflections, practical guidance, and ongoing support for living well in a highly technological world.
 
 → [Join the newsletter for updates](/newsletter/)
 
-Go at your own pace.  
-Come back when you need to.  
-This work isn’t going anywhere.
-
-If this page felt like a relief, the course was built with the same care.
+Go gently.  
+Make changes that last.  
+Build a life your body can actually live in.

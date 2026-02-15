@@ -1,7 +1,7 @@
 ---
 title: Play Prosperity Games is on Kindle
 date: 2010-10-13
-published: true
+published: false
 categories:
   - Living a Fulfilling Life
 tags:

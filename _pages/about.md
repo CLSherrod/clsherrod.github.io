@@ -106,8 +106,7 @@ I also create art, write poetry, and explore creative work as a way of staying c
 
 You can explore my work here:
 
-- [Essays & Writing](https://christophersherrod.com/blog)
-- [Books & Projects](https://christophersherrod.com/work)
+- [My Body of Work](https://christophersherrod.com/work)
 
 ## My Daily Newsletter
 

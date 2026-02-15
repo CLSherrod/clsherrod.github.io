@@ -3,22 +3,9 @@ title: Prosperity Games Party
 date: 2007-06-17 23:00:28
 published: true
 categories:
-- Essays
+  - Essays
 tags: []
-meta:
-  podPressPostSpecific: s:264:"s:255:"a:6:{s:15:"itunes:subtitle";s:15:"##PostExcerpt##";s:14:"itunes:summary";s:15:"##PostExcerpt##";s:15:"itunes:keywords";s:17:"##WordPressCats##";s:13:"itunes:author";s:10:"##Global##";s:15:"itunes:explicit";s:7:"Default";s:12:"itunes:block";s:7:"Default";}";";
-  _edit_last: '1'
-  aktt_tweeted: '1'
-  _sexybookmarks_shortUrl: http://b2l.me/43apg
-  _sexybookmarks_permaHash: 3e832f047cfe7309a0982d7f9e5493d6
-  _nectar_love: '0'
-  _wpas_done_all: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1471057186;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:624;}i:1;a:1:{s:2:"id";i:240;}i:2;a:1:{s:2:"id";i:239;}}}}
-  _wp_rp_image: empty
-  nectar_blog_post_view_count: '118'
-  _wp_rp_related_posts_query_result_cache_expiration: '1524958667'
-  _wp_rp_related_posts_query_result_cache_6: a:12:{i:0;O:8:"stdClass":2:{s:7:"post_id";s:3:"421";s:5:"score";s:17:"91.93005633892311";}i:1;O:8:"stdClass":2:{s:7:"post_id";s:3:"585";s:5:"score";s:17:"85.63047508300915";}i:2;O:8:"stdClass":2:{s:7:"post_id";s:4:"2342";s:5:"score";s:17:"73.86940911020773";}i:3;O:8:"stdClass":2:{s:7:"post_id";s:4:"2330";s:5:"score";s:17:"73.86940911020773";}i:4;O:8:"stdClass":2:{s:7:"post_id";s:3:"206";s:5:"score";s:16:"53.6271611999908";}i:5;O:8:"stdClass":2:{s:7:"post_id";s:4:"2381";s:5:"score";s:17:"47.66412450732076";}i:6;O:8:"stdClass":2:{s:7:"post_id";s:4:"2353";s:5:"score";s:18:"43.097683055713006";}i:7;O:8:"stdClass":2:{s:7:"post_id";s:4:"2335";s:5:"score";s:18:"43.097683055713006";}i:8;O:8:"stdClass":2:{s:7:"post_id";s:3:"649";s:5:"score";s:18:"43.097683055713006";}i:9;O:8:"stdClass":2:{s:7:"post_id";s:3:"872";s:5:"score";s:18:"43.050622060881444";}i:10;O:8:"stdClass":2:{s:7:"post_id";s:4:"4430";s:5:"score";s:18:"40.984121338135154";}i:11;O:8:"stdClass":2:{s:7:"post_id";s:4:"2365";s:5:"score";s:17:"37.42566195843108";}}
-permalink: "/prosperity-games-party/"
+permalink: /prosperity-games-party/
 ---
 <p>Here is a taste of what a Prosperity Games is like.</p>
 <p><!-- START Video Code Maker --></p>

@@ -40,13 +40,25 @@ This is where the thinking starts.
 
 ## Courses
 
-_Where ideas become practice_
+**Where ideas become lived experience**
 
 Some ideas need more space than an essay allows.
 
-The courses I create are quiet, self-paced, and designed to be lived with — not rushed through. They aren’t about fixing yourself or optimizing your life. They’re about slowing down, paying attention, and building habits that support a more grounded way of living.
+I create courses slowly and intentionally — not to add more information, but to help you make practical changes in how you live. They are self-paced, quiet by design, and meant to be returned to over time rather than rushed through.
 
-The **Living a Fulfilling Life** course sits at the center of this work. It reflects everything I’ve learned about clarity, attention, and designing a life that actually fits.
+The work is not about fixing yourself or optimizing your life. It’s about reducing what interferes with clarity, energy, and attention so you can live more deliberately.
+
+### _Unplug: The EMF Reset_
+
+This course sits at the center of that work.
+
+It offers a calm, grounded approach to reducing unnecessary technological and environmental stress while still living in the modern world. The focus is practical: small adjustments that support better sleep, clearer thinking, and a more sustainable daily rhythm.
+
+You move at your own pace.  
+Nothing expires. Nothing pushes you.
+
+The goal isn’t transformation.  
+It’s relief — and a way of living that holds up over time.
 
 → **View courses**  
 [https://christophersherrod.com/courses/](https://christophersherrod.com/courses/)
@@ -87,9 +99,4 @@ You’re in the right place.
 
 ## Where to Start
 
-If you’re unsure where to begin:
-- Start with the **writing** if you enjoy essays and reflection
-- Visit the **courses** if you want structure and practice
-- Browse the **projects** if you’re curious how ideas turn into things
-
-And if you’d like to follow along quietly, you can join the [daily newsletter](/newsletter/).
+If you’d like to follow along quietly, you can join the [daily newsletter](/newsletter/).

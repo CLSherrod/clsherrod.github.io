@@ -73,7 +73,7 @@ I send short, real-world reflections on living a fulfilling life — straight to
 
 Here’s what people explore next:
 
-- 📚 [Writer of Essays and a Book](/writer/) and [my Blog](/blog/)
+- 📚 [Writer](/writer/) and [my Blog](/blog/)
 - 🖼 [My Art](/chr1stopher/)
 
 ## Let’s Stay Connected

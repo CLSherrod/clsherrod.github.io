@@ -3,13 +3,13 @@ title: "Play Prosperity Games Dinner Party: A Night of Creative Fun and Unique I
 date: 2007-03-05
 last_modified_at: 2023-11-02
 categories:
-- Living a Fulfilling Life
+  - Living a Fulfilling Life
 tags:
   - meaning
   - entrepreneurship
 permalink: /play-prosperity-games-feedback/
-published: true
-comments: true
+published: false
+comments: false
 ---
 I had another Play Prosperity Games Dinner Party Friday night in Austin Texas.
 <!--more-->

@@ -50,8 +50,5 @@ Carpenter's method is particularly relevant in today's entrepreneurial landscape
 
 *Work the System* is a timely reminder that there is a better way. By focusing on the systems that govern our lives, we can achieve greater success, enjoy more free time, and live a more balanced, fulfilling life. This book is not just a guide—it's a blueprint for living and working smarter, and it's one that I wish I had discovered earlier in my career. Highly recommended.
 
-Learn more at [Work The System website](https://www.workthesystem.com).
-
 ## Additional Resources
-- Read my book on [How To Create New Business Ideas Based On What You Love](/book/business-ideas/#additonal-resources)
-- My article on [The Power of Quick Implementation in a Fast-Paced World](/implement-quickly/)
+- Learn more at [Work The System website](https://www.workthesystem.com).
