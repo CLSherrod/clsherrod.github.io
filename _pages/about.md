@@ -2,15 +2,22 @@
 layout: single
 title: About Christopher Sherrod
 permalink: /about/
-toc: true
+
 author_profile: true
+
 teaser: /assets/images/headers/about-header.webp
-header:
-  image: /assets/images/headers/about-header.webp
-  image_description: Christopher Sherrod in the jungle outside of Playa del Carmen Mexico
-  caption: Christopher in London
+tagline: "Living A Fulfilling Life"
 description: Learn about Christopher Sherrod
 preview: Learn about Christopher Sherrod
+header:
+  overlay_image: /assets/images/headers/about-header.webp
+  image_description: Christopher Sherrod in London
+  caption: Christopher in London
+
+read_time: false
+toc: true
+
+published: true
 ---
 
 ## A quieter way of living, working, and creating
