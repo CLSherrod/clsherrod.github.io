@@ -8,7 +8,7 @@ teaser: /assets/images/headers/about-header.webp
 header:
   image: /assets/images/headers/about-header.webp
   image_description: Christopher Sherrod in the jungle outside of Playa del Carmen Mexico
-  caption: Christopher in Playa del Carment Mexico
+  caption: Christopher in London
 description: Learn about Christopher Sherrod
 preview: Learn about Christopher Sherrod
 ---

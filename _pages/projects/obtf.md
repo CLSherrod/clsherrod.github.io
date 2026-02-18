@@ -4,34 +4,41 @@ title: "One Big Text File (OBTF): A Simple System for Thinking, Writing, and Rem
 breadcrumb_parent_title: Projects
 breadcrumb_parent_url: /projects/
 permalink: /obtf/
+
+teaser: /assets/images/headers/obtf.webp
+tagline: "A simple, durable way to think, write, and remember — without apps, dashboards, or digital clutter."
+header:
+  overlay_image: /assets/images/headers/obtf.webp
+  caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
+
+read_time: false
 toc: true
+
+published: true
 ---
-**A simple, durable way to think, write, and remember — without apps, dashboards, or digital clutter.**
-
-[One Big Text File (OBTF) on GitHub](https://github.com/CLSherrod/OBTF/) is exactly what it sounds like:  
-a single plain-text file where everything goes.
-
-Notes.  
-Journal entries.  
-Ideas.  
-Fragments.  
-Lists.  
-Thoughts that don’t yet know what they are.
+One Big Text File (OBTF) is exactly what it sounds like:  a single plain-text file where everything goes:
+- Notes  
+- Journal entries  
+- Ideas 
+- Fragments
+- Lists
+- Thoughts that don’t yet know what they are
 
 No folders. No complex systems. Just writing.
 
 This approach has been around for decades, quietly used by programmers, writers, and people who care more about _thinking clearly_ than _optimizing workflows_.
+
+- My simple [One Big Text File (OBTF) on GitHub](https://github.com/CLSherrod/OBTF/) 
 
 ## Why One Big Text File Works
 
 Most digital note systems fail for the same reason:  
 they require you to decide _what something is_ before you’ve finished thinking it.
 
-OBTF removes that friction.
-
-You don’t categorize.  
-You don’t organize.  
-You don’t interrupt your thinking.
+OBTF removes that friction:
+- You don’t categorize.  
+- You don’t organize.  
+- You don’t interrupt your thinking.
 
 You just write.
 
@@ -43,14 +50,13 @@ That’s not a limitation. That’s the design.
 
 ## What Goes Into an OBTF?
 
-Anything that crosses your mind.
-
-A paragraph you might use someday.  
-A daily log.  
-A half-formed question.  
-A quote.  
-A reminder to yourself.  
-An idea you don’t trust yet.
+Anything that crosses your mind:
+- A paragraph you might use someday
+- A daily log
+- A half-formed question
+- A quote
+- A reminder to yourself
+- An idea you don’t trust yet
 
 If it matters enough to write down, it belongs there.
 
@@ -60,30 +66,29 @@ Chronological order does the work for you.
 
 Create a single `.txt` or `.md` file.
 
-At the top, put today’s date.  
-Write underneath it.  
-Tomorrow, add a new date.  
-Keep going.
+- At the top, put today’s date
+- Write underneath it
+- Tomorrow, add a new date
+- Keep going
 
 That’s the whole system.
 
 When you need something, you search the file.
 
-No maintenance.  
-No migration anxiety.  
-No decision fatigue.
+- No maintenance
+- No migration anxiety
+- No decision fatigue
 
 ## OBTF, Slow Living, and Writing Practice
 
 One Big Text File pairs naturally with **slow living** and **daily writing** because it removes urgency, performance, and optimization from the process.
 
-There is no pressure to be productive.  
-No requirement to “process” your notes.  
-No expectation that everything turns into output.
-
-You show up.  
-You write a little.  
-You move on with your day.
+- There is no pressure to be productive
+- No requirement to “process” your notes
+- No expectation that everything turns into output
+- You show up
+- You write a little
+- You move on with your day
 
 Over time, the file becomes a quiet record of your thinking life — not curated, not polished, but honest. For writers, this lowers resistance. For thinkers, it preserves nuance. For anyone trying to live more deliberately, it replaces digital noise with continuity.
 
@@ -118,9 +123,9 @@ It’s intentionally minimal — meant to support writing and thinking, not mana
 
 This page exists as a quiet pointer — and a reminder that sometimes the best system is the one that asks the least of you.
 
-Write more.  
-Decide less.  
-Keep it simple.
+- Write more
+- Decide less
+- Keep it simple
 
 ## Learn More
 Read my essay on [How Smart Notes Transformed My Productivity and Well-being](https://christophersherrod.com/smart-notes/)

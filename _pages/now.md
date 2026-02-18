@@ -13,11 +13,11 @@ header:
 og_image: /assets/images/now-header.webp
 ---
 
-Updated on Sunday February 15th, 2026.
+Updated on Wednesday February 18th, 2026.
 
 ## Currently Doing
 
-- I'm creating the course on _Living a Fulfilling Life: A Quiet Course for People Who Are Done Rushing Their Own Lives_
+- I'm creating the course _Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life - How to Cut EMF Exposure Without Going Off the Grid_
 
 ## Current Projects
 
