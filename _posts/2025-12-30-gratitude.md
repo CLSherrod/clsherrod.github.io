@@ -9,7 +9,7 @@ tags:
   - gratitude
   - slow-living
   - spirituality
-toc: true
+toc: false
 permalink: /being-grateful-every-day/
 published: true
 ---

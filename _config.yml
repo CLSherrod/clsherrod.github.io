@@ -149,6 +149,7 @@ defaults:
       layout: single
       author_profile: true
       show_date: true
+      toc: false
       read_time: true
       words_per_minute: 250
       comments: true

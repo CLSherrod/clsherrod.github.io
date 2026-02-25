@@ -9,6 +9,7 @@ tags:
 categories:
   - Living a Fulfilling Life
 permalink: /arguing/
+toc: false
 published: true
 ---
 # Why Successful People Don’t Waste Time Arguing

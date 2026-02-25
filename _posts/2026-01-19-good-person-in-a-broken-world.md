@@ -9,7 +9,7 @@ tags:
   - meaning
   - fulfilling-life
   - life-lessons
-toc: true
+toc: false
 permalink: /good-person-in-a-broken-world/
 published: true
 ---

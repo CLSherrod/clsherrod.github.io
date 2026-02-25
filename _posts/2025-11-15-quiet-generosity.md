@@ -8,7 +8,7 @@ categories:
 tags:
   - meaning
   - philanthropy
-toc: true
+toc: false
 permalink: /quiet-generosity/
 published: true
 ---

@@ -9,7 +9,7 @@ tags:
   - fulfilling-life
   - slow-living
   - life-lessons
-toc: true
+toc: false
 permalink: /not-writing-a-year-in-review/
 published: true
 ---

@@ -2,6 +2,7 @@
 title: The Dented Ping Pong Ball and the Beauty of an Unplanned Life
 date: 2026-02-23
 permalink: /dented-ping-pong-ball-fulfilling-life/
+
 description: |-
   What if the thing that disrupted your life is the very thing that can make it better?
   In this personal essay, I share how my cat’s dented ping pong ball became a lesson in embracing unexpected change. After a grand mal seizure forced me to give up driving and abandon old plans, I had to rebuild my life from the ground up. What felt like damage turned out to be direction.

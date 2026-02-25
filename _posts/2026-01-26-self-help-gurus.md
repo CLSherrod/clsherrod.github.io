@@ -7,7 +7,7 @@ categories:
   - Living a Fulfilling Life
 tags:
   - 
-toc: true
+toc: false
 permalink: /the-uncomfortable-truth-about-self-help-gurus/
 published: true
 ---

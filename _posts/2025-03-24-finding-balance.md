@@ -9,6 +9,7 @@ categories:
   - Work & Entrepreneurship
 permalink: /finding-balance/
 published: true
+toc: false
 excerpt: Extreme mindsets don't lead to lasting success.
 ---
 Extreme mindsets don't lead to lasting success. Achieving true success involves maintaining a balanced approach that combines hustle with a healthy dose of reality. It's not about taking extreme measures but rather about being consistent and steady in your efforts. 

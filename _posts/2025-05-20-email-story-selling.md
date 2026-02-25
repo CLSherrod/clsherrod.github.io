@@ -9,6 +9,7 @@ tags:
 categories:
   - Work & Entrepreneurship
 permalink: /email-storyselling/
+toc: false
 published: true
 ---
 Let me be clear: I don’t typically enjoy most email marketing books. Too long, too bloated, too obsessed with “delivering value” while delivering very little profit. But every so often, something scrappy and disruptive finds its way onto my digital desk—and Email Storyselling Playbook hit me like a lightning bolt in a sea of drizzle.

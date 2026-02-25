@@ -8,7 +8,7 @@ categories:
 tags:
   - meaning
   - spirituality
-toc: true
+toc: false
 permalink: /the-power-that-everyone-believes-in/
 published: true
 ---

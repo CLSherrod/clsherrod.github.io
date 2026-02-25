@@ -7,7 +7,7 @@ categories:
   - Living a Fulfilling Life
 tags:
   - meaning
-toc: true
+toc: false
 permalink: /fulfilled-not-fast-or-slow/
 published: true
 teaser: /assets/images/teasers//christopher-sherrod-essays-fulfilling-life-wide.webp
