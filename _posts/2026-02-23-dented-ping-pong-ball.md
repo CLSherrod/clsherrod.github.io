@@ -31,7 +31,7 @@ tags:
 teaser: /assets/images/headers/ping-pong-ball-kitty-header.webp
 tagline: "How an orange ping pong ball showed me a fulfilling life."
 
-toc: true
+toc: false
 toc_sticky: true
 robots: index,follow
 published: true
