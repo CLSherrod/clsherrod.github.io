@@ -13,7 +13,7 @@ header:
 og_image: /assets/images/now-header.webp
 ---
 
-Updated on Wednesday February 18th, 2026.
+Updated on Wednesday February 25th, 2026.
 
 ## Currently Doing
 
@@ -33,11 +33,11 @@ Updated on Wednesday February 18th, 2026.
 
 ## Recently Published
 
-- Wrote [The Uncomfortable Truth About Self-Help Critics and Gurus](/the-uncomfortable-truth-about-self-help-gurus/)
-- Wrote [How to Stay a Good Person in a Broken World](https://christophersherrod.com/good-person-in-a-broken-world/)
-- Wrote [Why I’m Not Writing a Year in Review and What I’m Leaving Behind Instead](https://christophersherrod.com/not-writing-a-year-in-review/)
-- Wrote [Being Grateful Every Day Changed How I Live](https://christophersherrod.com/being-grateful-every-day/)
-- Wrote [The Power That Everyone Believes In](https://christophersherrod.com/the-power-that-everyone-believes-in/)
+- [The Dented Ping Pong Ball and the Beauty of an Unplanned Life](/dented-ping-pong-ball-fulfilling-life/)
+- [The Uncomfortable Truth About Self-Help Critics and Gurus](/the-uncomfortable-truth-about-self-help-gurus/)
+- [How to Stay a Good Person in a Broken World](/good-person-in-a-broken-world/)
+- [Why I’m Not Writing a Year in Review and What I’m Leaving Behind Instead](/not-writing-a-year-in-review/)
+- [Being Grateful Every Day Changed How I Live](/being-grateful-every-day/)
 
 See my [past essays](/categories/)
 
