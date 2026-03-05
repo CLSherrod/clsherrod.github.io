@@ -27,9 +27,9 @@ Updated on Thursday March 5th, 2026.
 
 ## Popular Essays
 
-- [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
-- [Boost Your Content Production Game: Essential Apps and Tools for 2026!](/workflow/) - I update yearly with my essential apps
-- [Are High School Dropouts More Successful?](/high-school-dropouts-are-more-successful/)
+- [The Dented Ping Pong Ball and the Beauty of an Unplanned Life](https://christophersherrod.com/dented-ping-pong-ball-fulfilling-life/)
+- [Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled](https://christophersherrod.com/fulfilled-not-fast-or-slow/)
+- [Finding Balance: Why Extreme Mindsets Don’t Lead to Success](https://christophersherrod.com/finding-balance/)
 
 ## Recently Published
 
