@@ -11,6 +11,8 @@ header:
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/headers/books-header.webp
 redirect_to: /courses/
+published: false
+search: false
 ---
 
 ## How To Create New Business Ideas Based On What You Love

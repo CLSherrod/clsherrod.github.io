@@ -4,6 +4,8 @@ classes: wide
 title: How To Create New Business Ideas Based On What You Love
 permalink: /books/business-ideas/
 redirect_to: /courses/
+published: false
+search: false
 ---
 
 **First published in 2008, latest edition 2020**
