@@ -8,6 +8,7 @@ tags:
   - entrepreneurship
 permalink: /marketing-pokemon/
 excerpt: Taking advantage of Pokemon marketing.
+published: false
 ---
 I got on Pokemon Go the day it launched so I could play it with my kids. They love Pokemon. And it has been very cool to see the most popular game become that in days. I’m currently level 10 and my favorite Pokemon is named Dracula and is almost ready for a showdown in a Pokemon Gym. My kids are loving the game and getting out of their homes more, they are in college and live out of state. So I’m thrilled they are getting out and meeting people. If they had dogs they would be very happy, they have cats who don’t notice when they are gone.
 

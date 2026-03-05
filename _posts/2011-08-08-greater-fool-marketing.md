@@ -1,7 +1,7 @@
 ---
 title: Greater Fool Marketing
 date: 2011-08-08
-published: true
+published: false
 categories:
   - Work & Entrepreneurship
 tags:

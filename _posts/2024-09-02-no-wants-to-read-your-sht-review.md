@@ -6,7 +6,7 @@ categories:
 tags:
   - review
 permalink: /nobody-wants-to-read-you/
-published: true
+published: false
 excerpt:
 ---
 A friend recommended that I read [Nobody Wants To Read Your Sh*t](https://amzn.to/3SOgFaT), and I didn’t take it as an insult. I’ve had my share of hits and misses with my writing, so I was intrigued that someone tackled this topic head-on.

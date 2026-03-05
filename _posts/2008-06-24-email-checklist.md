@@ -1,7 +1,7 @@
 ---
 title: Email checklist
 date: 2008-06-24
-published: true
+published: false
 categories:
   - Living a Fulfilling Life
 tags:

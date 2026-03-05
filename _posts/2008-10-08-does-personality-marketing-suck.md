@@ -1,7 +1,7 @@
 ---
 title: Does Personality Marketing Suck?
 date: 2008-10-08
-published: true
+published: false
 categories:
   - Work & Entrepreneurship
 tags:

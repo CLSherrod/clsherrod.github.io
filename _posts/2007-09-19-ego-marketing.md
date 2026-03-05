@@ -3,11 +3,11 @@ title: Ego marketing
 date: 2007-09-19
 last_modified_at: 2024-03-11
 categories:
-- Work & Entrepreneurship
+  - Work & Entrepreneurship
 tags:
   - entrepreneurship
 permalink: /ego-marketing/
-published: true
+published: false
 comments: true
 ---
 MLM and affiliate marketing or what I call some of it Ego Marketing.
