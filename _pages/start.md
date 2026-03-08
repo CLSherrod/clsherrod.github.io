@@ -1,17 +1,16 @@
 ---
 layout: single
-title: "A Simpler, More Fulfilling Way to Live"
+title: Start Here
 permalink: /start/
 toc: true
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
   overlay_image: /assets/images/headers/start-header.webp
   overlay_filter: 0.1
-  image_description: "Art Running by Chr1stopher"
-  caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
-
-# SEO overrides
+  image_description: Art Running by Chr1stopher
+  caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/start-header.webp
+description: Start here to learn about Christopher Sherrod
 ---
 
 **Hi, I’m Christopher Sherrod.**
