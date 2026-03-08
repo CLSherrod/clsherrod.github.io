@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Start Here
+title: "Start Here: Living a Fulfilling Life"
 permalink: /start/
 toc: true
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
