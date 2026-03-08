@@ -11,6 +11,7 @@ header:
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/books-header.webp
 description:
+published: false
 ---
 
 ## About My Writing
@@ -30,7 +31,7 @@ That’s why I keep showing up to the page. Not because I have all the answers, 
 
 My essays grew out of those moments when I wanted to capture a truth before it slipped away. They’re simple, plainspoken, and a little raw at times. I don’t dress things up. Instead, I write about what it *really* feels like to pursue success, to wrestle with meaning, and to choose a slower, more fulfilling way of life in a world that’s always speeding up.
 
-Readers often tell me [my blog posts](https://christophersherrod.com/blog/) feel like conversations over coffee—stories with lessons tucked inside them. That’s intentional. I want each piece to feel human, like you’re talking with someone who’s been there, not being lectured by someone who thinks they have it all figured out.
+Readers often tell me [my blog posts](https://christophersherrod.com/essays/) feel like conversations over coffee—stories with lessons tucked inside them. That’s intentional. I want each piece to feel human, like you’re talking with someone who’s been there, not being lectured by someone who thinks they have it all figured out.
 
 
 ## My Virtual Bookshop

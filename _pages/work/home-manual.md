@@ -2,9 +2,10 @@
 layout: single
 title: Home Manual Markdown
 permalink: /home-manual/
-breadcrumb_parent_title: Projects
-breadcrumb_parent_url: /projects/
+breadcrumb_parent_title: Work
+breadcrumb_parent_url: /work/
 toc: true
+published: false
 ---
 ## Gardening Notes in Markdown
 

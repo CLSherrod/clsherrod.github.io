@@ -44,7 +44,6 @@ I started my first business in elementary school, later worked in corporate life
 The work was successful — but it came at a cost.
 
 Burnout forced me to slow down and ask better questions:
-
 - What actually matters?
 - What kind of life do I want to live?
 - And what does “success” mean when no one is watching?
@@ -60,7 +59,6 @@ My work focuses on one central idea:
 **How to live a fulfilling life in a noisy, distracted world.**
 
 That includes writing about:
-
 - Intentional living and slowing down
 - Meaningful work that fits your life
 - Creativity without burnout
@@ -71,7 +69,6 @@ That includes writing about:
 I don’t believe in hustle culture, empty motivation, or one-size-fits-all answers.
 
 I believe in:
-
 - Thoughtful choices
 - Long-term thinking
 - Simple systems
@@ -82,7 +79,6 @@ I believe in:
 Over time, I developed a philosophy I call **The Dolphin Entrepreneur**.
 
 It’s a way of approaching work and business that values:
-
 - Awareness over aggression
 - Sustainability over scale
 - Intelligence over noise
@@ -95,15 +91,13 @@ You can read more about that here:
 
 ## Writing & Creative Work
 
-I write essays, books, and reflections on:
-
+I write essays and courses on:
 - Living well
 - Making meaningful work
 - Creativity and attention
 - Life design and simplicity
 
 My writing is intentionally:
-
 - Clear
 - Grounded
 - Free of hype
@@ -112,13 +106,11 @@ My writing is intentionally:
 I also create art, write poetry, and explore creative work as a way of staying connected to what matters beyond productivity.
 
 You can explore my work here:
-
 - [My Body of Work](https://christophersherrod.com/work)
 
 ## My Daily Newsletter
 
 If you enjoy this way of thinking, I share short, thoughtful notes each day — the same tone as this page, just quieter and more personal:
-
 - Living intentionally
 - Navigating modern life
 - Staying grounded
@@ -131,7 +123,6 @@ It’s simple, calm, and written for people who want less noise — not more.
 ## Life Outside the Screen
 
 When I’m not writing, I enjoy:
-
 - Creating art
 - Playing the Native American flute
 - Spending time with my wife

@@ -2,8 +2,8 @@
 layout: single
 title: A Quiet Workbook for People Who Are Done Rushing Their Own Lives
 permalink: /practice/fulfilling-life/
-breadcrumb_parent_title: Courses
-breadcrumb_parent_url: /courses/
+breadcrumb_parent_title: Work
+breadcrumb_parent_url: /work/
 toc: true
 published: true
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp

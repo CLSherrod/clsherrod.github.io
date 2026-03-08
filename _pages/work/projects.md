@@ -9,7 +9,7 @@ header:
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 og_image: /assets/images/headers/projects-header.webp
 toc: true
-published: true
+published: false
 ---
 
 My projects besides writing.

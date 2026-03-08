@@ -1,11 +1,11 @@
 ---
-title: "Posts by Year"
-permalink: /blog/
+title: "Essays by Year"
+permalink: /essays/
 layout: posts
 author_profile: true
 published: true
-breadcrumb_parent_title: Blog
-breadcrumb_parent_url: /blog/
+breadcrumb_parent_title: Essays
+breadcrumb_parent_url: /essays/
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
   overlay_image: /assets/images/headers/blog-header.webp

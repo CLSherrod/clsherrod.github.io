@@ -4,8 +4,8 @@ permalink: /tags/
 layout: single
 author_profile: true
 published: false
-breadcrumb_parent_title: Blog
-breadcrumb_parent_url: /blog/
+breadcrumb_parent_title: Essays
+breadcrumb_parent_url: /essays/
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
   overlay_image: /assets/images/headers/tags-header.webp
@@ -13,7 +13,7 @@ header:
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 ---
 
-[Categories](/blog/) · [Years](/years/) · Tags
+[Categories](/essays/) · [Years](/years/) · Tags
 
 <div class="taxonomy__index">
 

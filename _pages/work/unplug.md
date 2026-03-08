@@ -1,12 +1,12 @@
 ---
 layout: single
 title: The EMF-Free Home Starter Kit
-permalink: /practice/unplug
-breadcrumb_parent_title: Courses
-breadcrumb_parent_url: /courses/
+permalink: /unplug/
+breadcrumb_parent_title: Work
+breadcrumb_parent_url: /work/
 toc: true
 teaser: The EMF-Free Home Starter Kit
-published: false
+published: true
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp

@@ -3,9 +3,9 @@ main:
     url: /start/
   - title: "Newsletter"
     url: /#newsletter
-  - title: "Courses"
-    url: /courses/
-  - title: "Body of Work"
+  - title: "Essays"
+    url: /essays/
+  - title: "Work"
     url: /work/
   - title: "About"
     url: /about/

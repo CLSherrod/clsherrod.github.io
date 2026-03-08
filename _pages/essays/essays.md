@@ -1,7 +1,7 @@
 ---
-title: Blog
+title: Essays
 layout: single
-permalink: /blog/
+permalink: /essays/
 published: false
 author_profile: true
 toc: true

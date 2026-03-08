@@ -11,4 +11,4 @@ header:
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 ---
 
-Or by <a href="/blog/">year</a>
+Or by <a href="/essays/">year</a>

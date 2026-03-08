@@ -21,15 +21,14 @@ This site is a living library of the lessons I’ve learned from nearly dying, l
 
 ## My Core Pillars
 
-These are the themes I return to again and again. Click to explore:
+These are the themes I return to again and again.
 
 ### Living a Fulfilling Life
 
 What it really means to build a life rooted in calm, clarity, presence, and meaning.
 [Explore this pillar →](/categories/#living-a-fulfilling-life)
 
-Read my essays:
-
+Popular essays:
 - [Striving For Balance - My True Life Goals](/striving-for-balance/)
 - [Finding Balance: Why Extreme Mindsets Don’t Lead to Entrepreneurial Success](/finding-balance/)
 - [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](/power-of-letting-go/)
@@ -39,29 +38,35 @@ Read my essays:
 Essays on building meaningful work, running a grounded business, and creating without burnout.
 [Explore this pillar →](/categories/#work-entrepreneurship)
 
-- Essay: [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](/dolphin-entrepreneur/)
-- Essay: [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
-- Book: [How To Create New Business Ideas Based On What You Love](https://amzn.to/3oZlRrW)
+Popular essays:
+- [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](/dolphin-entrepreneur/)
+- [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
 
 ### Creativity & Writing
 
 What it looks like to live as a creator… sustainably, honestly, and with purpose.
 [Explore this pillar →](/categories/#creativity-writing)
 
+Popular essays:
 - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 - [One Big Text File (OBTF)](/obtf/)
 - [A Simple Content Workflow for Writers](/workflow/)
-- [Why Nobody Wants to Read Your Sh\*t](/nobody-wants-to-read-you/)
 
 ### Lifestyle & Travel
 
 Slow travel, intentional living, the real lessons learned from living abroad since 2016.
 [Explore this pillar →](/categories/#travel-living-abroad)
 
+Popular essays:
 - [How to travel and still do business](/how-to-travel-and-still-do-business/)
-- [Don’t Check Your Valuables - Christopher Sherrod](/dont-check-your-valuables/)
-- [Working on the Internet while traveling - Christopher Sherrod](/working-on-the-internet-while-traveling/)
-- [Living the Miami Vice lifestyle without the drugs - Christopher Sherrod](/living-miami-vice-lifestyle-without-the-drugs/)
+- [Don’t Check Your Valuables](/dont-check-your-valuables/)
+- [Working on the Internet while traveling](/working-on-the-internet-while-traveling/)
+- [Living the Miami Vice lifestyle without the drugs](/living-miami-vice-lifestyle-without-the-drugs/)
+
+## Projects
+- [One Big Text File](/obtf/) - journaling system
+- [Artist](/chr1stopher/)
+- [Web Agency - Who Defines You](/whodefinesyou/)
 
 ## Get My Personal Notes
 
@@ -72,9 +77,8 @@ I send short, real-world reflections on living a fulfilling life — straight to
 ## Want to Dive Deeper?
 
 Here’s what people explore next:
-
-- 📚 [Writer](/writer/) and [my Blog](/blog/)
-- 🖼 [My Art](/chr1stopher/)
+- [My Body of Work](/work/)
+- [My Art](/chr1stopher/)
 
 ## Let’s Stay Connected
 

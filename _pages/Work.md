@@ -1,17 +1,17 @@
 ---
 layout: single
-title: Body of Work – Writing, Courses & Projects by Christopher Sherrod
+title: The Work of Christopher Sherrod
 permalink: /work/
 toc: true
-teaser: Body of Work
+teaser: The Work of Christopher Sherrod
 header:
   overlay_image: /assets/images/headers/work-header.webp
   overlay_filter: 0.1
   image_description: Body of Work by Chr1stopher
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/headers/work-header.webp
-description: Christopher Sherrod's writing, courses and projects
-preview: Christopher Sherrod's writing, courses and projects
+description: The Work of Christopher Sherrod
+preview: The Work of Christopher Sherrod
 ---
 ## A quiet body of work, built over time
 
@@ -35,8 +35,7 @@ Most of what I write is shared freely through essays and a daily newsletter. Som
 
 This is where the thinking starts.
 
-→ **Explore the writing**  
-[https://christophersherrod.com/writer/](https://christophersherrod.com/writer/)
+→ **[My Essays](/essays/)** 
 
 ## Courses
 
@@ -48,7 +47,7 @@ I create courses slowly and intentionally — not to add more information, but t
 
 The work is not about fixing yourself or optimizing your life. It’s about reducing what interferes with clarity, energy, and attention so you can live more deliberately.
 
-### _Unplug: The EMF Reset_
+### _Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life - How to Cut EMF Exposure Without Going Off the Grid_
 
 This course sits at the center of that work.
 
@@ -60,8 +59,7 @@ Nothing expires. Nothing pushes you.
 The goal isn’t transformation.  
 It’s relief — and a way of living that holds up over time.
 
-→ **View courses**  
-[https://christophersherrod.com/courses/](https://christophersherrod.com/courses/)
+→ **[Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life Course](/unplug/)**
 
 ## Projects
 
@@ -69,14 +67,10 @@ _Where curiosity leads_
 
 Not everything fits neatly into writing or courses.
 
-This section includes experiments, side projects, art, tools, and ongoing work that grows out of curiosity rather than a plan. confirmation, but exploration.
-
-Some projects are practical.  
-Some are creative.  
-Some are simply things I wanted to make.
-
-→ **Explore projects**  
-[https://christophersherrod.com/projects/](https://christophersherrod.com/projects/)
+This section includes side projects, art, and ongoing work:
+- [One Big Text File](/obtf/) - journaling system
+- [Artist](/chr1stopher/)
+- [Web Agency - Who Defines You](/whodefinesyou/)
 
 ## How This Work Fits Together
 
