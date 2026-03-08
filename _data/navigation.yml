@@ -1,11 +1,11 @@
 main:
   - title: "Start"
     url: /start/
-  - title: "Newsletter"
-    url: /#newsletter
   - title: "Essays"
     url: /essays/
   - title: "Work"
     url: /work/
   - title: "About"
     url: /about/
+  - title: "Newsletter"
+    url: /#newsletter

@@ -15,9 +15,9 @@ og_image: /assets/images/start-header.webp
 ---
 
 **Hi, I’m Christopher Sherrod.**
-I’m a writer, artist, and fulfilling lifestyle advocate. I help people unplug from toxic modern systems and reconnect with what really matters: health, truth, creativity, and joy.
-
 This site is a living library of the lessons I’ve learned from nearly dying, letting go of a fast-paced career, and building a fulfilling life.
+
+I’m a writer, artist, and fulfilling lifestyle advocate. I help people unplug from toxic modern systems and reconnect with what really matters: health, truth, creativity, and joy.
 
 ## My Core Pillars
 
@@ -28,45 +28,28 @@ These are the themes I return to again and again.
 What it really means to build a life rooted in calm, clarity, presence, and meaning.
 [Explore this pillar →](/categories/#living-a-fulfilling-life)
 
-Popular essays:
-- [Striving For Balance - My True Life Goals](/striving-for-balance/)
-- [Finding Balance: Why Extreme Mindsets Don’t Lead to Entrepreneurial Success](/finding-balance/)
-- [The Power of Letting Go: Why Not Caring What Others Think is One of Life’s Greatest Lessons](/power-of-letting-go/)
+Key essay - [Striving For Balance - My True Life Goals](/striving-for-balance/)
 
 ### Work & Entrepreneurship
 
 Essays on building meaningful work, running a grounded business, and creating without burnout.
 [Explore this pillar →](/categories/#work-entrepreneurship)
 
-Popular essays:
-- [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](/dolphin-entrepreneur/)
-- [Success is Built in Baby Steps: Why Overnight Success is a Myth](/baby-steps/)
+Key essay - [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](/dolphin-entrepreneur/)
 
 ### Creativity & Writing
 
 What it looks like to live as a creator… sustainably, honestly, and with purpose.
 [Explore this pillar →](/categories/#creativity-writing)
 
-Popular essays:
-- [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
-- [One Big Text File (OBTF)](/obtf/)
-- [A Simple Content Workflow for Writers](/workflow/)
+Key essay - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 
 ### Lifestyle & Travel
 
 Slow travel, intentional living, the real lessons learned from living abroad since 2016.
 [Explore this pillar →](/categories/#travel-living-abroad)
 
-Popular essays:
-- [How to travel and still do business](/how-to-travel-and-still-do-business/)
-- [Don’t Check Your Valuables](/dont-check-your-valuables/)
-- [Working on the Internet while traveling](/working-on-the-internet-while-traveling/)
-- [Living the Miami Vice lifestyle without the drugs](/living-miami-vice-lifestyle-without-the-drugs/)
-
-## Projects
-- [One Big Text File](/obtf/) - journaling system
-- [Artist](/chr1stopher/)
-- [Web Agency - Who Defines You](/whodefinesyou/)
+Key essay - [How to travel and still do business](/how-to-travel-and-still-do-business/)
 
 ## Get My Personal Notes
 

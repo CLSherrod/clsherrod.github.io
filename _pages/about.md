@@ -22,7 +22,7 @@ published: true
 
 ## A quieter way of living, working, and creating
 
-I didn’t set out to write about fulfillment.
+I write about living a fulfilling life — not because I studied it, but because I had to rebuild mine.
 
 I arrived here after building businesses, burning out, and realizing that success without clarity wasn’t success at all.
 
@@ -36,10 +36,14 @@ Eventually, I learned what many people only realize later in life:
 
 That realization changed everything.
 
+## Quick Facts
+- Writing online since 2000
+- Entrepreneur since childhood
+- Digital nomad since 1996
+
 ## A Life Shaped by Experience, Not Theory
 
-I’ve been online since 1987 and built my first website in 1995.
-I started my first business in elementary school, later worked in corporate life, and eventually left to run my own software company.
+I started my first business in elementary school selling smelly erasures. I’ve been online since 1987 and built my first website in 1995. Later worked in corporate life, and eventually left to run my own software company in 1996 and web agency.
 
 The work was successful — but it came at a cost.
 
@@ -59,12 +63,9 @@ My work focuses on one central idea:
 **How to live a fulfilling life in a noisy, distracted world.**
 
 That includes writing about:
-- Intentional living and slowing down
-- Meaningful work that fits your life
-- Creativity without burnout
-- Building sustainable businesses
-- Reducing digital overwhelm
-- Choosing clarity over constant growth
+- Living intentionally in a distracted world  
+- Building meaningful work without burnout  
+- Creating a life that values clarity over constant growth
 
 I don’t believe in hustle culture, empty motivation, or one-size-fits-all answers.
 
@@ -74,15 +75,21 @@ I believe in:
 - Simple systems
 - And work that supports your life — not consumes it
 
+## My Daily Newsletter
+
+If you enjoy this way of thinking, I share short, thoughtful notes each day — the same tone as this page, just quieter and more personal:
+- Living intentionally
+- Navigating modern life
+- Staying grounded
+- Finding clarity in small moments
+
+It’s simple, calm, and written for people who want less noise — not more.
+
+→ [Join the newsletter](https://christophersherrod.com/newsletter/)
+
 ## The Dolphin Entrepreneur
 
 Over time, I developed a philosophy I call **The Dolphin Entrepreneur**.
-
-It’s a way of approaching work and business that values:
-- Awareness over aggression
-- Sustainability over scale
-- Intelligence over noise
-- Flow over force
 
 It’s about building something meaningful without burning yourself out or losing sight of what matters.
 
@@ -108,17 +115,6 @@ I also create art, write poetry, and explore creative work as a way of staying c
 You can explore my work here:
 - [My Body of Work](https://christophersherrod.com/work)
 
-## My Daily Newsletter
-
-If you enjoy this way of thinking, I share short, thoughtful notes each day — the same tone as this page, just quieter and more personal:
-- Living intentionally
-- Navigating modern life
-- Staying grounded
-- Finding clarity in small moments
-
-It’s simple, calm, and written for people who want less noise — not more.
-
-→ [Join the newsletter](https://christophersherrod.com/newsletter/)
 
 ## Life Outside the Screen
 
@@ -154,9 +150,6 @@ Send me a message on Signal.
 
 I read every message, even if I can’t always reply immediately.
 
-If you’re looking for motivation, I may not be the loudest voice.
+If you’re looking for hype or quick answers, you won’t find them here.
 
-I’m not here to convince you of anything.
-I’m here to think out loud, write honestly, and share what I’ve learned along the way.
-
-If that’s your kind of pace, you’re welcome here.
+But if you’re interested in living thoughtfully, working deliberately, and building a life that actually feels good to live — you’re in the right place.
