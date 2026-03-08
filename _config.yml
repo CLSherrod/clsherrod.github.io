@@ -126,9 +126,6 @@ footer:
     - label: "Start"
       icon: "fa-solid fa-home"
       url: "https://christophersherrod.com/start"
-    - label: "Newsletter"
-      icon: "fa-solid fa-envelope"
-      url: "https://christophersherrod.com/#newsletter"
     - label: "Essays"
       icon: "fa-solid fa-book"
       url: "https://christophersherrod.com/courses/"
@@ -138,6 +135,9 @@ footer:
     - label: "About"
       icon: "fa-solid fa-address-card"
       url: "https://christophersherrod.com/about"
+    - label: "Newsletter"
+      icon: "fa-solid fa-envelope"
+      url: "https://christophersherrod.com/#newsletter"
 
 # Defaults
 defaults:
