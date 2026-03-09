@@ -66,5 +66,3 @@ I didn’t plan this reading journey; the right book simply appeared when I was 
 Maybe that’s the real library we’re all building — one made of timing, not titles.
 
 So while I never opened that physical bookshop I once imagined, this essay is my _virtual window display_ — a collection of the books that changed me and might just do the same for you.
-
-**Read more of my book reviews at [christophersherrod.com/tags/#review](https://christophersherrod.com/tags/#review)**
