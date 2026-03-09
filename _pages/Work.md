@@ -47,27 +47,18 @@ I create courses slowly and intentionally — not to add more information, but t
 
 The work is not about fixing yourself or optimizing your life. It’s about reducing what interferes with clarity, energy, and attention so you can live more deliberately.
 
-### _Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life - How to Cut EMF Exposure Without Going Off the Grid_
-
-This course sits at the center of that work.
+### _Unplug_
+**The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life - How to Cut EMF Exposure Without Going Off the Grid**
 
 It offers a calm, grounded approach to reducing unnecessary technological and environmental stress while still living in the modern world. The focus is practical: small adjustments that support better sleep, clearer thinking, and a more sustainable daily rhythm.
-
-You move at your own pace.  
-Nothing expires. Nothing pushes you.
-
-The goal isn’t transformation.  
-It’s relief — and a way of living that holds up over time.
 
 → **[Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life Course](/unplug/)**
 
 ## Projects
 
-_Where curiosity leads_
-
 Not everything fits neatly into writing or courses.
 
-This section includes side projects, art, and ongoing work:
+These are my projects:
 - [One Big Text File](/obtf/) - journaling system
 - [Artist](/chr1stopher/)
 - [Web Agency - Who Defines You](/whodefinesyou/)
