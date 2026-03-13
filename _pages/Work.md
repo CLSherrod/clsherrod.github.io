@@ -37,6 +37,12 @@ This is where the thinking starts.
 
 → **[My Essays](/essays/)** 
 
+## Videos
+Some ideas are easier to speak than write.
+
+I share short reflections, vlogs, and conversations about living a fulfilling life on my YouTube channel. The videos are informal — usually recorded while working on a project, traveling, or thinking out loud about something I’m learning.
+
+→ [Watch on YouTube](https://www.youtube.com/@christophersherrodwrites)
 ## Courses
 
 **Where ideas become lived experience**

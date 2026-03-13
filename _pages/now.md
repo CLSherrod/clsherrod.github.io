@@ -13,7 +13,7 @@ header:
 og_image: /assets/images/now-header.webp
 ---
 
-Updated on Sunday March 8th, 2026.
+Updated on Friday March 13th, 2026.
 
 ## Currently Doing
 
