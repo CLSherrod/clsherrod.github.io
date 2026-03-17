@@ -13,7 +13,7 @@ header:
 og_image: /assets/images/now-header.webp
 ---
 
-Updated on Friday March 13th, 2026.
+Updated on Tuesday March 17th, 2026.
 
 ## Currently Doing
 
@@ -23,7 +23,6 @@ Updated on Friday March 13th, 2026.
 
 - Writing helpful essays here on what has worked for me in life. See recently published below.
 - I'm an artist known as [Chr1stopher](/chr1stopher).
-- I have my own [web agency](/whodefinesyou) since 1999.
 
 ## Popular Essays
 

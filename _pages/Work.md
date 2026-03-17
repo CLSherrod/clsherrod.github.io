@@ -65,7 +65,6 @@ Not everything fits neatly into writing or courses.
 These are my projects:
 - [One Big Text File](/obtf/) - journaling system
 - [Artist](/chr1stopher/)
-- [Web Agency - Who Defines You](/whodefinesyou/)
 
 ## How This Work Fits Together
 

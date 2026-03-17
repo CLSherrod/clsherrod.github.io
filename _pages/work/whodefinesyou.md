@@ -12,25 +12,63 @@ header:
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/whodefinesyou-header.webp
 ---
-We’ve been building on the web since the early days—always with a focus on creative solutions, practical systems, and long-term results. Our work has evolved alongside the internet itself:
+## Who Defines You
 
-* **1996** – Created my own HTML website & specialty Windows & Mac application
-* **1999** – Opened up to referred clients for web development
-* **2006** - [Who Defines You website launched](https://christophersherrod.com/who-defines-you-launched/)
-* **2007** – WordPress development (before its public release)
-* **2015** – [Won a Publishing Award](/publishing-award/)
-* **2018** – WooCommerce shop setup & maintenance
-* **2022** – Custom art design added to our services
-* **2023** – Offering advanced static web framework development
-* **2024** – Ethical AI Workflows
-## Why Only Referrals?
+### A 25-Year Web Agency (Now Retired)
 
-I don’t chase clients—I focus on relationships.
+We built websites before most businesses even knew they needed one.
 
-My agency is built on trust, not cold calls. Every project comes to us through personal recommendations, which means we start with a foundation of mutual respect. This keeps our focus where it belongs: creating outstanding work for people who value what we do.
+From the early days of HTML to modern frameworks, our work evolved alongside the internet itself—always focused on practical systems, creative solutions, and long-term results.
 
-By avoiding the endless sales cycle, we spend our time where it matters—on results. Our reputation speaks for itself, carried forward by the clients who’ve already experienced the quality of our work.
+### A Brief Timeline
 
-That’s why we stay referral-only: because the right clients don’t need convincing.
+- **1996** — Built my first HTML website and software application
+- **1999** — Began working with referred clients
+- **2006** — [Who Defines You website launched](https://christophersherrod.com/who-defines-you-launched/)
+- **2007** — Early WordPress development (before its public release)
+- **2015** — [Won a Publishing Award](/publishing-award/)
+- **2018** — WooCommerce development and maintenance
+- **2022** — Custom art design added
+- **2023** — Advanced static frameworks
+- **2024** — Ethical AI workflows
+
+For almost three decades, every project came through referrals. No ads. No cold outreach. Just trust, relationships, and results.
+
+### Why It Was Referral-Only
+
+I never chased clients.
+
+The work came from people who valued it—and that made all the difference.
+
+It allowed us to focus on what mattered:  
+doing great work for the right people.
+
+### Why It Ended
+
+After nearly thirty years, I chose to close this chapter.
+
+Not because the work disappeared—but because my focus changed.
+
+I’m now dedicated to writing, teaching, and sharing what I’ve learned about building a fulfilling life.
+
+### What Remains
+
+Who Defines You is no longer accepting client work—referral or otherwise.
+
+It stands as a record of a long career on the web and the relationships that made it possible.
+
+### Where to Go Next
+
+Today, my work continues in a different form:
+
+- [My Newsletter](https://christophersherrod.com/#newsletter)
+- [My Essays on Living A Fulfilling Life](/essays/)
+- [The Work of Christopher Sherrod](https://christophersherrod.com/work/)
+
+Some things are meant to grow.
+
+Others are meant to be completed.
+
+This was one of them.
 
 [WhoDefinesYou.com](https://whodefinesyou.com)
