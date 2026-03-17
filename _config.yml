@@ -132,7 +132,7 @@ footer:
       url: "https://christophersherrod.com/start"
     - label: "Essays"
       icon: "fa-solid fa-book"
-      url: "https://christophersherrod.com/courses/"
+      url: "https://christophersherrod.com/essays/"
     - label: "Work"
       icon: "fa-solid fa-briefcase"
       url: "https://christophersherrod.com/work/"
