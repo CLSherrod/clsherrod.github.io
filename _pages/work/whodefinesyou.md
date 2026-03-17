@@ -12,15 +12,13 @@ header:
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/whodefinesyou-header.webp
 ---
-## Who Defines You
-
-### A 25-Year Web Agency (Now Retired)
+## A 25-Year Web Agency (Now Retired)
 
 We built websites before most businesses even knew they needed one.
 
 From the early days of HTML to modern frameworks, our work evolved alongside the internet itself—always focused on practical systems, creative solutions, and long-term results.
 
-### A Brief Timeline
+## A Brief Timeline
 
 - **1996** — Built my first HTML website and software application
 - **1999** — Began working with referred clients
@@ -34,7 +32,7 @@ From the early days of HTML to modern frameworks, our work evolved alongside the
 
 For almost three decades, every project came through referrals. No ads. No cold outreach. Just trust, relationships, and results.
 
-### Why It Was Referral-Only
+## Why It Was Referral-Only
 
 I never chased clients.
 
@@ -43,7 +41,7 @@ The work came from people who valued it—and that made all the difference.
 It allowed us to focus on what mattered:  
 doing great work for the right people.
 
-### Why It Ended
+## Why It Ended
 
 After nearly thirty years, I chose to close this chapter.
 
@@ -51,13 +49,13 @@ Not because the work disappeared—but because my focus changed.
 
 I’m now dedicated to writing, teaching, and sharing what I’ve learned about building a fulfilling life.
 
-### What Remains
+## What Remains
 
 Who Defines You is no longer accepting client work—referral or otherwise.
 
 It stands as a record of a long career on the web and the relationships that made it possible.
 
-### Where to Go Next
+## Where to Go Next
 
 Today, my work continues in a different form:
 
