@@ -58,6 +58,7 @@ social:
   type: Person # Person or Organization (defaults to Person)
   name: Christopher Sherrod # If the user or organization name differs from the site's name
   links:
+    - "https://www.youtube.com/@christophersherrodwrites"
     - "https://bsky.app/profile/christophersherrod.com"
     - "https://pkm.social/chris"
     - "https://instagram.com/christophersherrod"
@@ -116,6 +117,9 @@ author:
     - label: "About"
       icon: "fa-regular fa-address-card"
       url: "https://christophersherrod.com/about/"
+    - label: "YouTube"
+      icon: "fa-brands fa-youtube"
+      url: "https://www.youtube.com/@christophersherrodwrites"
     - label: "RSS"
       icon: "fa-regular fa-rss"
       url: "https://christophersherrod.com/feed.xml"
