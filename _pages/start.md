@@ -18,6 +18,10 @@ This site is a living library of the lessons I’ve learned from nearly dying, l
 
 I’m a writer, artist, and fulfilling lifestyle advocate. I help people unplug from toxic modern systems and reconnect with what really matters: health, truth, creativity, and joy.
 
+Occasionally I also share short reflections about living a fulfilling life on YouTube.
+
+→ [Watch videos on YouTube](https://www.youtube.com/@christophersherrodwrites)
+
 ## My Core Pillars
 
 These are the themes I return to again and again.

@@ -13,8 +13,6 @@ og_image: /assets/images/headers/work-header.webp
 description: The Work of Christopher Sherrod
 preview: The Work of Christopher Sherrod
 ---
-## A quiet body of work, built over time
-
 Everything here grows out of one ongoing practice: **paying attention**.
 
 I don’t separate work from life. Writing, art, and projects are how I think, notice patterns, and make sense of the world over time. None of this is built for speed, scale, or constant output. It’s built slowly — to last, to be useful, and to stay honest.
@@ -73,7 +71,8 @@ These are my projects:
 
 Everything here connects.
 
-The writing informs the courses.  
+The writing informs the courses.
+The videos are vlogs about living a fulfilling life.
 The courses clarify the ideas.  
 The projects explore what doesn’t fit anywhere else.
 
