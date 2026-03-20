@@ -39,6 +39,7 @@ That realization changed everything.
 ## Quick Facts
 - Writing online since 2000
 - Entrepreneur since childhood
+- ran a [web agency](/whodefinesyou/) for nearly thirty years solely on referrals but now focused on internal projects only
 - Digital nomad since 1996
 
 ## A Life Shaped by Experience, Not Theory

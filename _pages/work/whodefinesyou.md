@@ -12,7 +12,7 @@ header:
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/whodefinesyou-header.webp
 ---
-## A 25-Year Web Agency (Now Retired)
+## A 30-Year Web Agency (Now Retired From Clients)
 
 We built websites before most businesses even knew they needed one.
 
@@ -43,7 +43,7 @@ doing great work for the right people.
 
 ## Why It Ended
 
-After nearly thirty years, I chose to close this chapter.
+After thirty years, I chose to close this chapter and focus on only my projects.
 
 Not because the work disappeared—but because my focus changed.
 
