@@ -13,7 +13,7 @@ header:
 og_image: /assets/images/now-header.webp
 ---
 
-Updated on Friday March 20th, 2026.
+Updated on Monday March 24th, 2026.
 
 ## Currently Doing
 
@@ -32,6 +32,7 @@ Updated on Friday March 20th, 2026.
 
 ## Recently Published
 
+- [The Digital Book Reading System: How I Organized 800 Books and Read More Thoughtfully](/reading-system/)
 - [The Dented Ping Pong Ball and the Beauty of an Unplanned Life](/dented-ping-pong-ball-fulfilling-life/)
 - [The Uncomfortable Truth About Self-Help Critics and Gurus](/the-uncomfortable-truth-about-self-help-gurus/)
 - [How to Stay a Good Person in a Broken World](/good-person-in-a-broken-world/)

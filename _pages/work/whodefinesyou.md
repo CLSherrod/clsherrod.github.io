@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-title: Who Defines You – A Referral-Only Web Agency
+title: Who Defines You – A Web Agency
 permalink: /whodefinesyou/
 breadcrumb_parent_title: Work
 breadcrumb_parent_url: /work/
@@ -51,9 +51,7 @@ I’m now dedicated to writing, teaching, and sharing what I’ve learned about 
 
 ## What Remains
 
-Who Defines You is no longer accepting client work—referral or otherwise.
-
-It stands as a record of a long career on the web and the relationships that made it possible.
+Who Defines You stands as a record of a long career on the web and the relationships that made it possible.
 
 ## Where to Go Next
 

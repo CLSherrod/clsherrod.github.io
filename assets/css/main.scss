@@ -863,3 +863,14 @@ footer a:hover {
 .table-of-contents a:hover {
   text-decoration: underline;
 }
+/* Permalinks hidden */
+.header-link {
+  opacity: 0;
+  margin-left: 6px;
+  text-decoration: none;
+}
+
+h2:hover .header-link,
+h3:hover .header-link {
+  opacity: 0.4;
+}
