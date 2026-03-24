@@ -129,4 +129,4 @@ And when that pressure disappears, reading becomes thoughtful again.
 
 If this resonated, I write about living a fulfilling life — simply and honestly — on my newsletter.
 
-👉 [https://christophersherrod.com/#newsletter](https://christophersherrod.com/#newsletter)
+👉 [Signup for my Newsletter](https://christophersherrod.com/#newsletter)
