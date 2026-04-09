@@ -1,22 +1,16 @@
-#####################################################################
-# robots.txt — christophersherrod.com (Jekyll + GitHub Pages)
-#
-# Site: Minimal Mistakes + jekyll-sitemap + jekyll-feed
-# Goal: Index public content, block known AI/dataset bots (best-effort),
-#       and avoid breaking previews or rendering.
-#
-# Version: 2.1
-# Updated: 2026-02-10
-#####################################################################
+####################################################################
+# Robots.txt file
+# Version: V1.03
+# Updated: 2026-04-09
+####################################################################
 
-#####################################################################
-# 1) Default policy — allow indexing of the public site
-#####################################################################
 User-agent: *
-Disallow:
+Crawl-delay: 10
 
-# Block common non-content / utility paths (safe defaults).
-# Remove any line if you actually use it publicly.
+# Allow important resources (recommended)
+Allow: /assets/
+
+# If you REALLY want to block something, be specific:
 Disallow: /cgi-bin/
 Disallow: /tmp/
 Disallow: /private/
@@ -24,66 +18,7 @@ Disallow: /drafts/
 Disallow: /_drafts/
 Disallow: /_site/
 
-# Do NOT block /assets/ on a Jekyll site:
-# - Minimal Mistakes loads CSS/JS/images from /assets/
-# - Blocking assets can degrade SEO "rendered page" evaluation
-# - Your og_image/teaser live under /assets/images/...
 
-#####################################################################
-# 2) Crawl throttling (mostly ignored by major engines)
-#####################################################################
-# Google ignores Crawl-delay; Bing/Yandex may respect it.
-# Keep modest so you don't slow indexing of new posts.
-Crawl-delay: 10
-
-#####################################################################
-# 3) Block AI / dataset / training crawlers (best-effort)
-#####################################################################
-# OpenAI
-User-agent: GPTBot
-Disallow: /
-User-agent: ChatGPT-User
-Disallow: /
-
-# Anthropic
-User-agent: ClaudeBot
-Disallow: /
-User-agent: Claude-Web
-Disallow: /
-User-agent: anthropic-ai
-Disallow: /
-
-# Perplexity
-User-agent: PerplexityBot
-Disallow: /
-
-# You.com
-User-agent: YouBot
-Disallow: /
-
-# ByteDance / TikTok
-User-agent: Bytespider
-Disallow: /
-
-# Diffbot (structured extraction)
-User-agent: Diffbot
-Disallow: /
-
-# Amazon
-User-agent: Amazonbot
-Disallow: /
-
-#####################################################################
-# 4) Social crawlers — allowed (so link previews work)
-#####################################################################
-# FacebookBot / Applebot are commonly used for previews and discovery.
-# If you block them, previews may break when you share links.
-# (No rules here = allowed by default.)
-
-#####################################################################
-# 5) Discovery
-#####################################################################
+# Sitemap (add this if you have one)
 Sitemap: https://christophersherrod.com/sitemap.xml
-# Feed is not a robots directive, but many bots still fetch it.
-# Keeping it visible is good for readers and legit aggregators.
-# Your config uses jekyll-feed → /feed.xml
+
