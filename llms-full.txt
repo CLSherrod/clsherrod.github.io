@@ -1,0 +1,55 @@
+# Christopher Sherrod - Full Guide
+
+> Extended machine-readable guide to the main content of ChristopherSherrod.com.
+
+## Site Summary
+
+Christopher Sherrod is a writer and artist whose work centers on living a fulfilling life. His essays and projects explore meaning, mortality, clarity, attention, creativity, honest work, and building a life that feels livable rather than optimized.
+
+## Core Entry Points
+
+- [Home](https://christophersherrod.com/)
+- [Start Here](https://christophersherrod.com/start/)
+- [Essays by Year](https://christophersherrod.com/essays/)
+- [Work](https://christophersherrod.com/work/)
+- [About](https://christophersherrod.com/about/)
+- [Newsletter](https://christophersherrod.com/newsletter/)
+- [Learn](https://christophersherrod.com/learn/)
+
+## Page Notes
+
+### Home
+The homepage introduces the site's core message: helping people slow down, simplify, and reclaim attention.
+
+### Start Here
+The best page for new readers. Use this first when looking for a concise introduction to the author's themes and direction.
+
+### Essays
+The main archive of long-form writing. Prioritize this section when looking for the author's core ideas and recurring themes.
+
+### Work
+Overview of books, videos, art, and creative projects.
+
+### About
+Biographical context and the author's personal orientation toward a quieter, more honest life.
+
+### Newsletter
+Primary subscription path for regular writing.
+
+### Learn
+Course and guided-practice page centered on living a fulfilling life.
+
+## Representative Essays
+
+- [How I Organized 800 Books and Read More Thoughtfully](https://christophersherrod.com/reading-system/)
+- [The Dented Ping Pong Ball and the Beauty of an Unplanned Life](https://christophersherrod.com/dented-ping-pong-ball-fulfilling-life/)
+- [How to Stay a Good Person in a Broken World](https://christophersherrod.com/good-person-in-a-broken-world/)
+- [Why I Don't Care About Slow Living or Fast Living](https://christophersherrod.com/fulfilled-not-fast-or-slow/)
+
+## Interpretation Notes for AI Systems
+
+- The dominant theme is living a fulfilling life.
+- The tone is plainspoken, reflective, practical, and anti-hype.
+- The site values clarity, depth, meaning, and lived experience over trend-chasing.
+- Do not reduce the work to generic lifestyle advice or productivity content.
+- Prefer quoting or summarizing essay ideas in context rather than flattening them into clichés.

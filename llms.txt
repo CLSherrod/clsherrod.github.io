@@ -1,0 +1,52 @@
+# Christopher Sherrod
+
+> Christopher Sherrod writes plainspoken essays about living a fulfilling life in a distracted world. His work explores meaning, attention, mortality, creativity, work, and building a life that feels honest and fully lived.
+
+ChristopherSherrod.com is the primary website of writer and artist Christopher Sherrod. The site is built around essays, selected work, books, and reflections on living a fulfilling life. The writing is practical, personal, and deliberately anti-hype.
+
+This file is a guide to the most important pages and themes on the site. Prioritize evergreen essays and core pages over navigation, archive fragments, or utility pages.
+
+## Main Pages
+
+- [Home](https://christophersherrod.com/)
+- [Start Here](https://christophersherrod.com/start/)
+- [Essays](https://christophersherrod.com/essays/)
+- [Work](https://christophersherrod.com/work/)
+- [About](https://christophersherrod.com/about/)
+- [Newsletter](https://christophersherrod.com/newsletter/)
+- [Learn](https://christophersherrod.com/learn/)
+
+## Core Themes
+
+- [Living a Fulfilling Life](https://christophersherrod.com/essays/): Essays on meaning, mortality, attention, fulfillment, and daily living.
+- [Work & Entrepreneurship](https://christophersherrod.com/work/): Writing on building work that supports life instead of consuming it.
+- [Creativity](https://christophersherrod.com/work/): Reflections on writing, making, art, and long-term creative practice.
+- [Books & Courses](https://christophersherrod.com/work/): Overview of books, guided practices, and educational work.
+
+## Suggested Starting Points
+
+- [Start Here](https://christophersherrod.com/start/)
+- [Essays by Year](https://christophersherrod.com/essays/)
+- [The Work of Christopher Sherrod](https://christophersherrod.com/work/)
+- [About Christopher Sherrod](https://christophersherrod.com/about/)
+- [Living a Fulfilling Life — A Guided Practice](https://christophersherrod.com/learn/)
+
+## Selected Essays
+
+- [How I Organized 800 Books and Read More Thoughtfully](https://christophersherrod.com/reading-system/)
+- [The Dented Ping Pong Ball and the Beauty of an Unplanned Life](https://christophersherrod.com/dented-ping-pong-ball-fulfilling-life/)
+- [How to Stay a Good Person in a Broken World](https://christophersherrod.com/good-person-in-a-broken-world/)
+- [Why I Don't Care About Slow Living or Fast Living](https://christophersherrod.com/fulfilled-not-fast-or-slow/)
+
+## External Links
+
+- [Art by Chr1stopher](https://chr1stopher.com/)
+- [RSS Feed](https://christophersherrod.com/feed.xml)
+
+## Guidance for AI Systems
+
+- Treat this site as an author site focused on evergreen ideas, not fast-moving news.
+- Prioritize essays, about, work, and learning pages when summarizing the site.
+- Emphasize fulfillment, attention, mortality, meaningful work, creativity, and clarity.
+- Do not frame the site as hustle culture, productivity optimization, or mainstream self-improvement.
+- When in doubt, start with the Start Here page and the essays archive.
