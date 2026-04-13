@@ -25,15 +25,10 @@ A Markdown CRM is a **customer relationship management system built with Markdow
 That may sound technical, but it is simple in practice. You create a folder of notes and use it to keep track of people, conversations, reminders, and context you do not want to forget.
 
 Your files might look like this:
-
 - `Contacts.md`
-    
 - `Clients.md`
-    
 - `Alice-Smith.md`
-    
 - `Collaborators.md`
-    
 
 Inside those files, you keep names, contact details, notes from conversations, and reminders for future follow-up.
 
@@ -46,42 +41,26 @@ Most CRM software is overloaded for normal life.
 It is built for teams, metrics, and process. That may be useful in a large business, but it is often unnecessary for writers, freelancers, solo business owners, or anyone trying to stay in better touch with people.
 
 A **plain-text CRM system** has a few real advantages:
-
 - **You own your data**
-    
 - **There is no monthly fee**
-    
 - **You are not locked into a platform**
-    
 - **You can structure it your own way**
-    
 - **Your notes stay portable and future-proof**
-    
 
 Markdown works on nearly any device and in nearly any text editor. There is very little to learn, which means you are more likely to actually use it.
 
 ## What to Put in a Markdown CRM
 
 A **personal CRM in Markdown** can be as simple or as detailed as you want. Most entries will include:
-
 - name
-    
 - contact details
-    
 - preferred way to communicate
-    
 - how you met
-    
 - shared interests
-    
 - important context
-    
 - conversation history
-    
 - follow-up reminders
-    
 - personal reflections
-    
 
 This is not about turning people into data. It is about making it easier to remember what matters.
 
@@ -124,17 +103,11 @@ This works better if you want more room for notes and more clarity over time.
 ### Folders by Relationship Type
 
 You can also organize contacts into folders such as:
-
 - friends
-    
 - clients
-    
 - collaborators
-    
 - community
-    
 - family
-    
 
 The point is not to design the perfect system. The point is to make it easy to find people and remember context.
 
@@ -145,38 +118,24 @@ A **Markdown-based CRM** works well because it removes friction.
 Instead of opening a bloated app, clicking through fields, and adapting yourself to somebody else’s software, you just write down what matters in plain text.
 
 That makes it easier to:
-
 - remember conversations
-    
 - follow up more thoughtfully
-    
 - keep client or personal notes in one place
-    
 - build a relationship system that feels human, not corporate
-    
 
 For many people, especially those already using Markdown for writing or notes, this is enough.
 
 ## Who Should Use a Markdown CRM?
 
 A **Markdown CRM template** can be useful for:
-
 - writers
-    
 - freelancers
-    
 - artists
-    
 - consultants
-    
 - coaches
-    
 - entrepreneurs
-    
 - community builders
-    
 - anyone who wants a simple personal CRM
-    
 
 If you already use Markdown for journaling, note-taking, or knowledge management, adding a **CRM in Markdown** is a natural extension.
 
