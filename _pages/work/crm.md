@@ -5,7 +5,7 @@ permalink: /crm/
 breadcrumb_parent_title: Work
 breadcrumb_parent_url: /work/
 toc: true
-published: false
+published: true
 ---
 ## CRM in Markdown
 
