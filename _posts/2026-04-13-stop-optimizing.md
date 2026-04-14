@@ -80,11 +80,13 @@ It’s about making room for what matters, not what performs.
 ## The Takeaway: Feel More, Fix Less
 
 Here’s the truth I learned the hard way:  
+
 You don’t need to optimize your life to live it well.  
 
 What you really need is to *feel it.*  
 
 Let it get a little messy. Say yes to things that don’t “make sense.”  
+
 Stop trying to win the productivity game—and start playing the human one.
 
 Because in the end, it’s not about how much you got done.  
