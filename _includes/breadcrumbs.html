@@ -1,76 +1,75 @@
-{% case site.category_archive.type %} {% when
-"liquid" %}
-  {% assign path_type = "#" %} {% when "jekyll-archives" %} {% assign path_type = nil %}
-{% endcase %}
-
-{% if
-page.collection != "posts" %} {% assign path_type = nil %} {% assign crumb_path
-= "/" %} {% else %} {% assign crumb_path = site.category_archive.path %} {%
-endif %}
-
 <nav class="breadcrumbs">
   <ol itemscope itemtype="https://schema.org/BreadcrumbList">
-    {% assign crumbs = page.url | split: '/' %} {% assign i = 1 %} {% for crumb
-    in crumbs offset: 1 %} {% if forloop.first %}
     <li
       itemprop="itemListElement"
       itemscope
       itemtype="https://schema.org/ListItem"
     >
-      <a href="{{ '/' | relative_url }}" itemprop="item"
-        ><span itemprop="name"
-          >{{ site.data.ui-text[site.locale].breadcrumb_home_label | default:
-          "Home" }}</span
-        ></a
-      >
-      {%- comment -%} If a project add breadcrumb {%- endcomment -%} {%- if
-      page.breadcrumb_parent_url: == '/projects/' -%}
-      <span class="sep"> ›</span>
-      <a href="{{ '/projects/' | relative_url }}">Projects</a>
-      {%- endif -%}
-      {% if page.layout == "post" %}
-            <span class="sep">/</span>
-            <li class="current">{<a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-          {% endif %}
-      <meta itemprop="position" content="{{ i }}" />
+      <a href="{{ '/' | relative_url }}" itemprop="item">
+        <span itemprop="name">Home</span>
+      </a>
+      <meta itemprop="position" content="1" />
     </li>
-    <span class="sep"
-      >{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "›"
-      }}</span
+
+    {% if page.collection == "posts" %}
+    <li class="sep" aria-hidden="true">/</li>
+    <li
+      itemprop="itemListElement"
+      itemscope
+      itemtype="https://schema.org/ListItem"
     >
-    {% endif %} {% if forloop.last %}
+      <a href="{{ '/essays/' | relative_url }}" itemprop="item">
+        <span itemprop="name">Essays</span>
+      </a>
+      <meta itemprop="position" content="2" />
+    </li>
+
+    <li class="sep" aria-hidden="true">/</li>
     <li
       class="current"
-      {%
-      if
-      page.locale
-      %}
-      lang="{{ page.locale }}"
-      {%
-      endif
-      %}
+      itemprop="itemListElement"
+      itemscope
+      itemtype="https://schema.org/ListItem"
     >
-      {{ page.title }}
+      <span itemprop="name">{{ page.title }}</span>
+      <meta itemprop="position" content="3" />
     </li>
-    {% else %} {% assign i = i | plus: 1 %}
+
+    {% elsif page.breadcrumb_parent_title and page.breadcrumb_parent_url %}
+    <li class="sep" aria-hidden="true">/</li>
     <li
       itemprop="itemListElement"
       itemscope
       itemtype="https://schema.org/ListItem"
     >
-      <a
-        href="{{ crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path | relative_url }}"
-        itemprop="item"
-        ><span itemprop="name"
-          >{{ crumb | url_decode | replace: '-', ' ' | capitalize }}</span
-        ></a
-      >
-      <meta itemprop="position" content="{{ i }}" />
+      <a href="{{ page.breadcrumb_parent_url | relative_url }}" itemprop="item">
+        <span itemprop="name">{{ page.breadcrumb_parent_title }}</span>
+      </a>
+      <meta itemprop="position" content="2" />
     </li>
-    <span class="sep"
-      >{{ site.data.ui-text[site.locale].breadcrumb_separator | default: "/"
-      }}</span
+
+    <li class="sep" aria-hidden="true">/</li>
+    <li
+      class="current"
+      itemprop="itemListElement"
+      itemscope
+      itemtype="https://schema.org/ListItem"
     >
-    {% endif %} {% endfor %}
+      <span itemprop="name">{{ page.title }}</span>
+      <meta itemprop="position" content="3" />
+    </li>
+
+    {% else %}
+    <li class="sep" aria-hidden="true">/</li>
+    <li
+      class="current"
+      itemprop="itemListElement"
+      itemscope
+      itemtype="https://schema.org/ListItem"
+    >
+      <span itemprop="name">{{ page.title }}</span>
+      <meta itemprop="position" content="2" />
+    </li>
+    {% endif %}
   </ol>
 </nav>

@@ -4,6 +4,7 @@ title: "Markdown CRM: A Simple Plain Text CRM for Managing Relationships"
 permalink: /crm/
 breadcrumb_parent_title: Work
 breadcrumb_parent_url: /work/
+read_time: false
 toc: true
 published: true
 description: A simple Markdown CRM for keeping track of people, conversations, and follow-ups without using complex software. Plain text, flexible, and fully yours.

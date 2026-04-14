@@ -768,52 +768,23 @@ footer a:hover {
    Breadcrumbs Section
 ========================================= */
 
-.breadcrumbs {
-  margin: 0 0 1rem;
-  font: inherit;
-}
-
-.breadcrumbs__list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
+.breadcrumbs ol {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.25rem 0.5rem;
-
-  font-size: var(--now-small, 0.95rem);
-  line-height: var(--now-leading, 1.6);
-  letter-spacing: var(--now-tracking, 0);
-  opacity: 0.9;
+  gap: 0.35rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
-.breadcrumbs__item {
-  display: inline-flex;
-  align-items: baseline;
+.breadcrumbs li.sep {
+  color: #888;
 }
 
-.breadcrumbs__item + .breadcrumbs__item::before {
-  content: "›";
-  margin: 0 0.5rem;
-  opacity: 0.6;
+.breadcrumbs li.current span {
+  color: inherit;
 }
 
-.breadcrumbs__link {
-  text-decoration: none;
-}
-
-.breadcrumbs__link:hover {
-  text-decoration: underline;
-  text-underline-offset: 0.2em;
-}
-
-.breadcrumbs__current {
-  opacity: 0.75;
-}
-
-/* ===== "On this page" (Table of Contents) styling =====
-   Paste into your site CSS. Works even if your theme uses different TOC classes.
-*/
 /* TOC container spacing */
 /* TOC wrapper */
 .toc,
