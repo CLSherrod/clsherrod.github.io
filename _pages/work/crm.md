@@ -8,8 +8,6 @@ toc: true
 published: true
 description: A simple Markdown CRM for keeping track of people, conversations, and follow-ups without using complex software. Plain text, flexible, and fully yours.
 ---
-# Markdown CRM: A Simple Plain-Text CRM for Staying in Touch More Thoughtfully
-
 A **Markdown CRM** is a simple, plain-text way to keep track of relationships, conversations, follow-ups, and contact details without relying on complicated software.
 
 Most CRM tools are built for sales teams, pipelines, and automation. But many people do not need all that. They just want a practical way to remember who someone is, what matters to them, and when to follow up.
