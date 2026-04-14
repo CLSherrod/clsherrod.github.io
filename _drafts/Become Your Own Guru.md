@@ -22,6 +22,7 @@ toc: true
 toc_sticky: true
 robots: index,follow
 published: true
+read_time: false
 ---
 # Become Your Own Guru: Learn From Mentors, Trust Yourself, and Stop Copying the Crowd
 

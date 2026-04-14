@@ -32,6 +32,7 @@ Updated on Tuesday April 14th, 2026.
 
 ## Recently Published
 
+- [Stop Optimizing Your Life and Start Living It](/stop-optimizing-your-life-and-start-living-it/)
 - [The Digital Book Reading System: How I Organized 800 Books and Read More Thoughtfully](/reading-system/)
 - [The Dented Ping Pong Ball and the Beauty of an Unplanned Life](/dented-ping-pong-ball-fulfilling-life/)
 - [The Uncomfortable Truth About Self-Help Critics and Gurus](/the-uncomfortable-truth-about-self-help-gurus/)
