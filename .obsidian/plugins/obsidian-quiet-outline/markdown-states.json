@@ -14,29 +14,29 @@
     "expandedKeys": []
   },
   "_pages/now.md": {
-    "scroll": 19.301705426356587,
+    "scroll": 28.187092954410893,
     "cursor": {
       "from": {
-        "line": 19,
-        "ch": 27
+        "line": 32,
+        "ch": 21
       },
       "to": {
-        "line": 19,
-        "ch": 172
+        "line": 32,
+        "ch": 21
       }
     },
     "expandedKeys": []
   },
   "To Do.md": {
-    "scroll": 7.312995245641838,
+    "scroll": 8.104496124031007,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 10
+        "line": 9,
+        "ch": 26
       },
       "to": {
-        "line": 7,
-        "ch": 10
+        "line": 9,
+        "ch": 26
       }
     },
     "expandedKeys": []
@@ -87,12 +87,12 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 42,
-        "ch": 0
+        "line": 204,
+        "ch": 50
       },
       "to": {
-        "line": 42,
-        "ch": 0
+        "line": 204,
+        "ch": 50
       }
     },
     "expandedKeys": []
@@ -434,15 +434,15 @@
     "expandedKeys": []
   },
   "_pages/start.md": {
-    "scroll": 19.552083333333332,
+    "scroll": 16.645833333333332,
     "cursor": {
       "from": {
-        "line": 19,
-        "ch": 179
+        "line": 22,
+        "ch": 9
       },
       "to": {
-        "line": 19,
-        "ch": 179
+        "line": 22,
+        "ch": 9
       }
     },
     "expandedKeys": []
@@ -840,15 +840,15 @@
     "expandedKeys": []
   },
   "_pages/about.md": {
-    "scroll": 35.570963541666664,
+    "scroll": 41.552093023255814,
     "cursor": {
       "from": {
-        "line": 40,
-        "ch": 30
+        "line": 41,
+        "ch": 123
       },
       "to": {
-        "line": 40,
-        "ch": 30
+        "line": 41,
+        "ch": 123
       }
     },
     "expandedKeys": []
@@ -882,15 +882,15 @@
     "expandedKeys": []
   },
   "_pages/work.md": {
-    "scroll": 24.612630208333332,
+    "scroll": 17.916666666666668,
     "cursor": {
       "from": {
-        "line": 72,
-        "ch": 49
+        "line": 66,
+        "ch": 25
       },
       "to": {
-        "line": 70,
-        "ch": 0
+        "line": 66,
+        "ch": 25
       }
     },
     "expandedKeys": []
@@ -1456,14 +1456,14 @@
     "expandedKeys": []
   },
   "_drafts/Stop Optimizing.md": {
-    "scroll": 79.830078125,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 16,
-        "ch": 0
+        "line": 19,
+        "ch": 70
       },
       "to": {
-        "line": 16,
+        "line": 19,
         "ch": 0
       }
     },
@@ -2086,15 +2086,15 @@
     "expandedKeys": []
   },
   "_drafts/Become Your Own Guru.md": {
-    "scroll": 10.189655172413794,
+    "scroll": 8.345170454545455,
     "cursor": {
       "from": {
-        "line": 25,
-        "ch": 0
+        "line": 67,
+        "ch": 67
       },
       "to": {
-        "line": 25,
-        "ch": 0
+        "line": 67,
+        "ch": 67
       }
     },
     "expandedKeys": []
@@ -2403,6 +2403,258 @@
       "to": {
         "line": 3,
         "ch": 19
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/bookshop.md": {
+    "scroll": 67.556640625,
+    "cursor": {
+      "from": {
+        "line": 67,
+        "ch": 185
+      },
+      "to": {
+        "line": 67,
+        "ch": 185
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/Kindle System.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 30,
+        "ch": 0
+      },
+      "to": {
+        "line": 30,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/2026-03-09-kindle-system.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 41,
+        "ch": 94
+      },
+      "to": {
+        "line": 41,
+        "ch": 94
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/Organize YouTube Playlists.md": {
+    "scroll": 1.2048192771084338,
+    "cursor": {
+      "from": {
+        "line": 168,
+        "ch": 142
+      },
+      "to": {
+        "line": 168,
+        "ch": 142
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/whodefinesyou.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 53,
+        "ch": 16
+      },
+      "to": {
+        "line": 53,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-22-kindle-system.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 62,
+        "ch": 0
+      },
+      "to": {
+        "line": 62,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-23-kindle-system.md": {
+    "scroll": 131.13020833333334,
+    "cursor": {
+      "from": {
+        "line": 131,
+        "ch": 18
+      },
+      "to": {
+        "line": 131,
+        "ch": 18
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/crm.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/obtf.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/gaslighting.md": {
+    "scroll": 9.8125,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 15
+      },
+      "to": {
+        "line": 1,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/2026-04-13-stop-optimizing.md": {
+    "scroll": 17.166666666666668,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 3
+      },
+      "to": {
+        "line": 17,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-04-13-stop-optimizing.md": {
+    "scroll": 20.154296875,
+    "cursor": {
+      "from": {
+        "line": 89,
+        "ch": 0
+      },
+      "to": {
+        "line": 89,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/obtf 1.md": {
+    "scroll": 4.332743362831859,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 0
+      },
+      "to": {
+        "line": 18,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/fiction.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 0
+      },
+      "to": {
+        "line": 15,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/projects.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 13,
+        "ch": 0
+      },
+      "to": {
+        "line": 13,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/living-a-fulfilling-life.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 0
+      },
+      "to": {
+        "line": 17,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/home-manual.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/gardening.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
       }
     },
     "expandedKeys": []
