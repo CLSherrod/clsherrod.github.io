@@ -20,7 +20,7 @@ header:
 og_image: /assets/images/learn-header.webp
 description: Courses with Christopher Sherrod
 read_time: no
-published: false
+published: true
 ---
 ## Where Change Becomes Lived Experience
 
