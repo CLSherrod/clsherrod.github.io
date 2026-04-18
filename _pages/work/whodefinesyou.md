@@ -12,7 +12,7 @@ header:
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/whodefinesyou-header.webp
 ---
-## A 30-Year Web Agency (Now Retired From Clients)
+## A 23-Year Web Agency (Now Retired From Clients)
 
 We built websites before most businesses even knew they needed one.
 
@@ -26,11 +26,9 @@ From the early days of HTML to modern frameworks, our work evolved alongside the
 - **2007** — Early WordPress development (before its public release)
 - **2015** — [Won a Publishing Award](/publishing-award/)
 - **2018** — WooCommerce development and maintenance
-- **2022** — Custom art design added
-- **2023** — Advanced static frameworks
-- **2024** — Ethical AI workflows
+- **2019** — Retired from client work to solely focus on internal projects
 
-For almost three decades, every project came through referrals. No ads. No cold outreach. Just trust, relationships, and results.
+For over two decades, every project came through referrals. No ads. No cold outreach. Just trust, relationships, and results.
 
 ## Why It Was Referral-Only
 
@@ -43,7 +41,7 @@ doing great work for the right people.
 
 ## Why It Ended
 
-After thirty years, I chose to close this chapter and focus on only my projects.
+After twenty-three years, I chose to close this chapter and focus on only my projects.
 
 Not because the work disappeared—but because my focus changed.
 
