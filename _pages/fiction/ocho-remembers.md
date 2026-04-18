@@ -15,10 +15,6 @@ breadcrumbs: true
 breadcrumb_parent_title: Fiction  
 breadcrumb_parent_url: /fiction/
 
-header:
-  overlay_image: /assets/images/headers/fiction.webp
-  caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
-
 read_time: false
 toc: false
 published: true
