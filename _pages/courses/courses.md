@@ -14,8 +14,8 @@ teaser: /assets/images/hteasers/christopher-sherrod-essays-fulfilling-life-wide.
 preview: Courses with Christopher Sherrod
 
 breadcrumbs: true  
-breadcrumb_parent_title: Courses  
-breadcrumb_parent_url: /courses/
+breadcrumb_parent_title: Work  
+breadcrumb_parent_url: /work/
 
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp
