@@ -22,6 +22,8 @@ published: true
   
 Some memories do not stay buried.  
   
+![What Ocho Remembers](/assets/images/fiction/what-ocho-remembers.webp){: .align-right style="width:400px;" }
+
 Something begins to return to Ocho, a lab octopus, not all at once but in fragments. 
   
 A sensation. A pattern. A recognition it cannot explain.  
