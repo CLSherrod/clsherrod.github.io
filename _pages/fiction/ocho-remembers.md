@@ -9,7 +9,6 @@ author_profile: true
 
 description: "Read What Ocho Remembers, a short story by Christopher Sherrod about memory, identity, and what returns when the past refuses to stay buried."
 excerpt: "A short story by Christopher Sherrod about memory, identity, and what begins to return when the past refuses to stay buried."
-tagline: Buried memory does not stay silent forever.
 teaser: /assets/images/headers/fiction.webp
 
 breadcrumbs: true  
