@@ -1,5 +1,5 @@
 ---
-title: "Fiction by Christopher Sherrod"  
+title: "Fiction"  
 permalink: /fiction/  
 layout: single
 classes: wide
@@ -45,7 +45,7 @@ I’m fine with that.
   
 ## Current and Upcoming Work  
   
-- *[What Ocho Remembered](/what-ocho-remembers/)* — upcoming  
+- *[What Ocho Remembered](/fiction/what-ocho-remembers/)* — upcoming  
 - More short fiction in progress  
   
 ## Why Fiction?  
