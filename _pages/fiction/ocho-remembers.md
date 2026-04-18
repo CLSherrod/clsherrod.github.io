@@ -1,20 +1,27 @@
 ---
 title: "What Ocho Remembers | Short Story by Christopher Sherrod"  
 permalink: /fiction/what-ocho-remembers/  
+
 layout: single
 classes: wide
-author_profile: true  
-excerpt: "A short story by Christopher Sherrod about memory, identity, and what begins to return when the past refuses to stay buried."  
+
+author_profile: true
+
 description: "Read What Ocho Remembers, a short story by Christopher Sherrod about memory, identity, and what returns when the past refuses to stay buried."
+excerpt: "A short story by Christopher Sherrod about memory, identity, and what begins to return when the past refuses to stay buried."
+tagline: "Buried memory does not stay silent forever."
 teaser: /assets/images/headers/fiction.webp
+
 breadcrumbs: true  
 breadcrumb_parent_title: Fiction  
 breadcrumb_parent_url: /fiction/
+
 header:
   overlay_image: /assets/images/headers/fiction.webp
   caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
+
 read_time: false
-toc: false
+toc: true
 published: true
 ---
 Some memories do not stay buried.  
