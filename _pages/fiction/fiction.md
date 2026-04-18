@@ -3,7 +3,7 @@ title: "Fiction by Christopher Sherrod"
 permalink: /fiction/  
 layout: single
 classes: wide
-author_profile: false  
+author_profile: true  
 excerpt: "Short fiction by Christopher Sherrod—stories about memory, mystery, place, and the strange edges of life."  
 description: "Short fiction by Christopher Sherrod, including stories rooted in memory, mystery, place, meaning, and the strange edges of life."  
 tagline: The speculative fiction by Christopher Sherrod
