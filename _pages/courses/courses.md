@@ -107,14 +107,9 @@ Just small, deliberate adjustments that accumulate into meaningful change.
 You don’t rush this work.  
 You live it.
 
-## How to Begin
+## Learn More
 
-Enrollment opens periodically.
-
-If you’d like to be notified when the course is available, join the newsletter below.  
-That’s where I share reflections, practical guidance, and ongoing support for living well in a highly technological world.
-
-→ [Join the newsletter for updates](/newsletter/)
+- [Unplug from excessive EMFs](/courses/unplug/)
 
 Go gently.  
 Make changes that last.  
