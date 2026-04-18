@@ -35,6 +35,7 @@ Most of what I write is shared freely through essays and a daily newsletter. Som
 This is where the thinking starts.
 
 → **[My Essays](/essays/)**
+→ **[My Fiction Short Stories](/fiction/)**
 
 ## Videos
 
