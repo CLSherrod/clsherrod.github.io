@@ -61,7 +61,7 @@ The work is not about fixing yourself or optimizing your life. It’s about redu
 
 It offers a calm, grounded approach to reducing unnecessary technological and environmental stress while still living in the modern world. The focus is practical: small adjustments that support better sleep, clearer thinking, and a more sustainable daily rhythm.
 
-- **[Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life Course](/unplug/)**
+- **[Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life Course](/courses/unplug/)**
 
 ## Projects
 
