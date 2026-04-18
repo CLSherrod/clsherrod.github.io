@@ -1,10 +1,17 @@
 ---
 title: Courses with Christopher Sherrod
 layout: single
+classes: wide
 permalink: /courses/
-author_profile: true
-toc: false
-teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
+author_profile: true  
+excerpt: "Courses on living a fulfilling life."  
+description: "Courses on living a fulfilling life."  
+tagline: Courses on Living a Fulfilling Life
+teaser: /assets/images/hteasers/christopher-sherrod-essays-fulfilling-life-wide.webp
+preview: Courses with Christopher Sherrod
+breadcrumbs: true  
+breadcrumb_parent_title: Courses  
+breadcrumb_parent_url: /courses/
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp
   overlay_filter: 0.1
@@ -12,7 +19,7 @@ header:
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 og_image: /assets/images/learn-header.webp
 description: Courses with Christopher Sherrod
-preview: Courses with Christopher Sherrod
+read_time: no
 published: false
 ---
 ## Where Change Becomes Lived Experience

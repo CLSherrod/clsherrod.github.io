@@ -1,9 +1,9 @@
 ---
 layout: single
 title: The EMF-Free Home Starter Kit
-permalink: /unplug/
-breadcrumb_parent_title: Work
-breadcrumb_parent_url: /work/
+permalink: /courses/unplug/
+breadcrumb_parent_title: Courses
+breadcrumb_parent_url: /courses/
 toc: true
 teaser: The EMF-Free Home Starter Kit
 published: true

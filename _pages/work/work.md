@@ -34,8 +34,8 @@ Most of what I write is shared freely through essays and a daily newsletter. Som
 
 This is where the thinking starts.
 
-→ **[My Essays](/essays/)**
-→ **[My Fiction Short Stories](/fiction/)**
+- **[My Essays](/essays/)**
+ - **[My Fiction Short Stories](/fiction/)**
 
 ## Videos
 
@@ -43,7 +43,7 @@ Some ideas are easier to speak than write.
 
 I share short reflections, vlogs, and conversations about living a fulfilling life on my YouTube channel. The videos are informal — usually recorded while working on a project, traveling, or thinking out loud about something I’m learning.
 
-→ **[Watch on YouTube](https://www.youtube.com/@christophersherrodwrites)**
+- **[Watch on YouTube](https://www.youtube.com/@christophersherrodwrites)**
 
 ## Courses
 
@@ -61,7 +61,7 @@ The work is not about fixing yourself or optimizing your life. It’s about redu
 
 It offers a calm, grounded approach to reducing unnecessary technological and environmental stress while still living in the modern world. The focus is practical: small adjustments that support better sleep, clearer thinking, and a more sustainable daily rhythm.
 
-→ **[Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life Course](/unplug/)**
+- **[Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life Course](/unplug/)**
 
 ## Projects
 
