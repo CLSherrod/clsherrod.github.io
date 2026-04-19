@@ -22,7 +22,7 @@ header:
 og_image: /assets/images/unplug-header.webp
 
 read_time: false
-toc: true
+toc: false
 published: true
 ---
 ## Coming Soon
