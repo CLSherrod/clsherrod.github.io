@@ -6,7 +6,7 @@ breadcrumb_parent_title: Work
 breadcrumb_parent_url: /work/
 toc: true
 published: false
-teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
+
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp
   overlay_filter: 0.1

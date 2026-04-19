@@ -3,7 +3,7 @@ layout: single
 title: "The Digital Book Reading System: How I Organized 800 Books and Read More Thoughtfully"
 permalink: /reading-system/
 toc: false
-teaser: /assets/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
+
 header:
   overlay_image:
   overlay_filter: 0.1

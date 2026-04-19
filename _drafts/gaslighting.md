@@ -11,7 +11,7 @@ categories:
 tags:
   - fulfilling-life
   - life-lessons
-teaser: /assets/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
+
 image:
   path: /assets/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
   alt: ""

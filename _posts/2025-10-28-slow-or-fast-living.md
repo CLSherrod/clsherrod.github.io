@@ -10,7 +10,6 @@ tags:
 toc: false
 permalink: /fulfilled-not-fast-or-slow/
 published: true
-teaser: /assets/images/teasers//christopher-sherrod-essays-fulfilling-life-wide.webp
 ---
 
 ## Living on My Own Terms

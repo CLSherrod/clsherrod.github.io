@@ -10,7 +10,6 @@ author_profile: true
 excerpt: "Courses on living a fulfilling life."  
 description: "Courses on living a fulfilling life."  
 tagline: Courses on Living a Fulfilling Life
-teaser: /assets/images/hteasers/christopher-sherrod-essays-fulfilling-life-wide.webp
 preview: Courses with Christopher Sherrod
 
 breadcrumbs: true

@@ -12,7 +12,7 @@ tags:
   - fulfilling-life
   - life-lessons
   - digital-life
-teaser: /assets/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
+
 image:
   path: /assets/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
   alt: ""

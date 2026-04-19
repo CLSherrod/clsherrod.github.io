@@ -6,7 +6,7 @@ published: false
 author_profile: true
 toc: true
 published: true
-teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
+
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp
   overlay_filter: 0.1

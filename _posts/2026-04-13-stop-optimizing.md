@@ -10,7 +10,6 @@ categories:
 tags:
   - fulfilling-life
   - life-lessons
-teaser: /assets/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
 toc: no
 robots: index,follow
 read_time: true

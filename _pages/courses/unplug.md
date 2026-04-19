@@ -11,7 +11,6 @@ breadcrumb_parent_title: Courses
 breadcrumb_parent_url: /courses/
 
 teaser: The EMF-Free Home Starter Kit
-teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
 
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp
