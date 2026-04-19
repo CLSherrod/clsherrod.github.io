@@ -3,8 +3,10 @@ main:
     url: /start/
   - title: "Essays"
     url: /essays/
-  - title: "Work"
-    url: /work/
+  - title: "Courses"
+    url: /courses/
+  - title: "Fiction"
+      url: /fiction/
   - title: "About"
     url: /about/
   - title: "Newsletter"

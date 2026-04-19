@@ -19,7 +19,7 @@ header:
   caption: "Art by: [Chr1stopher](https://christophersherrod.com/chr1stopher/)"
 
 read_time: false
-toc: true
+toc: false
 published: true
 ---
 *Stories about memory, mystery, place, and the strange edges of life.*  

@@ -12,6 +12,7 @@ header:
 og_image: /assets/images/headers/work-header.webp
 description: The Work of Christopher Sherrod
 preview: The Work of Christopher Sherrod
+published: false
 ---
 
 Everything here grows out of one ongoing practice: **paying attention**.
