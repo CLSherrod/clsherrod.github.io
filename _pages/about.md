@@ -113,8 +113,7 @@ My writing is intentionally:
 
 I also create art, write poetry, and explore creative work as a way of staying connected to what matters beyond productivity.
 
-You can explore my work here:
-- [My Body of Work](https://christophersherrod.com/work)
+You can explore more about me at [Start Here](https://christophersherrod.com/start)
 
 
 ## Life Outside the Screen
