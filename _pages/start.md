@@ -25,6 +25,7 @@ Some of that takes the form of essays. Some of it becomes fiction. Some of it be
 If you are new here, this page will help you find a good place to begin.  
   
 ## Choose Your Path
+
 ### Essays  
 If you want thoughtful writing on living a fulfilling life, this is the best place to start. These essays are about meaning, work, simplicity, attention, relationships, and the deeper questions of how to live.  
   
