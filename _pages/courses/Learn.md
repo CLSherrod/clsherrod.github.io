@@ -10,6 +10,7 @@ header:
   image_description: ""
   caption: ""
 og_image: /assets/images/learn-header.webp
+published: false
 ---
 Learning here is simple and focused.
 
