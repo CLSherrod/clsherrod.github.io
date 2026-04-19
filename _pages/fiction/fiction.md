@@ -13,8 +13,8 @@ tagline: The speculative fiction of Christopher Sherrod
 teaser: /assets/images/headers/fiction.webp
 
 breadcrumbs: true  
-breadcrumb_parent_title: Work  
-breadcrumb_parent_url: /work/
+breadcrumb_parent_title: Home  
+breadcrumb_parent_url: /
 
 header:
   overlay_image: /assets/images/headers/fiction.webp
