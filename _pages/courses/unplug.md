@@ -6,6 +6,7 @@ permalink: /courses/unplug/
 layout: single
 classes: wide
 
+breadcrumbs: true
 breadcrumb_parent_title: Courses
 breadcrumb_parent_url: /courses/
 

@@ -13,9 +13,7 @@ tagline: Courses on Living a Fulfilling Life
 teaser: /assets/images/hteasers/christopher-sherrod-essays-fulfilling-life-wide.webp
 preview: Courses with Christopher Sherrod
 
-breadcrumbs: true  
-breadcrumb_parent_title: Work  
-breadcrumb_parent_url: /work/
+breadcrumbs: true
 
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp
