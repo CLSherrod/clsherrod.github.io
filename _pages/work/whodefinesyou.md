@@ -3,8 +3,7 @@ layout: single
 classes: wide
 title: Who Defines You – A Web Agency
 permalink: /whodefinesyou/
-breadcrumb_parent_title: Work
-breadcrumb_parent_url: /work/
+breadcrumbs: true
 header:
   overlay_image: /assets/images/headers/whodefinesyou-header.webp
   overlay_filter: 0.1

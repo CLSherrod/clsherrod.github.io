@@ -2,8 +2,7 @@
 layout: single
 title: A Quiet Workbook for People Who Are Done Rushing Their Own Lives
 permalink: /fulfilling-life-course/
-breadcrumb_parent_title: Work
-breadcrumb_parent_url: /work/
+breadcrumbs: true
 toc: true
 published: false
 
