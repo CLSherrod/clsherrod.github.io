@@ -31,7 +31,7 @@ They take place in familiar worlds and lean toward the speculative, the supernat
 ## Current and Upcoming Work  
   
 - *[What Ocho Remembered](/fiction/what-ocho-remembers/)* — upcoming  
-- *The Night the Marigolds Opened* - currently writing
+- *The Thin Night* - currently writing
   
 ## Stay Connected  
   
