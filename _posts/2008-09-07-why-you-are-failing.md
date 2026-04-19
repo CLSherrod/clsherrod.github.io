@@ -27,4 +27,4 @@ Let me explain...
 
 The problem I see a lot of people have is they consume, consume, consume. But NEVER cross the bridge to creating producing and promoting.
 
-Go out and fail a lot.  It's the best thing you can do.  Start creating now.  If you need some ideas check out my book <a href="http://amzn.to/2hLiqXj">How To Create New Business Ideas Based On What You Love</a> where you can create new business ideas based on what you love.
+Go out and fail a lot.  It's the best thing you can do.  Start creating now.

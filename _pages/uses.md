@@ -5,6 +5,7 @@ permalink: /uses/
 toc: true
 description: Software and Hardware That I use daily
 preview: Software and Hardware That I use daily
+published: false
 ---
 Contact me from my [hello page](/hello/) on any improvements.
 Last update: 2026-01-27
