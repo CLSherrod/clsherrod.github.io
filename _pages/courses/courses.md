@@ -52,58 +52,11 @@ It is not anti-technology.
 It is about restoring balance.
 
 This course walks you through a clear, grounded approach to:
-
 - Reduce unnecessary EMF exposure without fear or extremism
-    
 - Create living spaces that support recovery and calm
-    
 - Rebuild energy, focus, and sleep through environmental changes
-    
 - Set practical boundaries with devices and connectivity
-    
 - Live well with technology — instead of being dominated by it
-    
-
-You move at your own pace.  
-There is nothing to keep up with.  
-Nothing expires.  
-No constant logins, notifications, or performance expectations.
-
-This work is meant to support real life — not become another digital obligation.
-
-## Who This Is For
-
-This course tends to resonate with people who:
-
-- Feel physically or mentally overwhelmed by constant connectivity
-    
-- Suspect their environment is affecting their well-being
-    
-- Want practical change, not abstract theory
-    
-- Prefer calm structure over motivational pressure
-    
-- Value long-term health more than convenience
-    
-- Want to simplify their relationship with technology without rejecting modern life
-    
-
-If you’ve ever thought:
-
-> “Something about the way we’re living isn’t working.”
-
-You are likely in the right place.
-
-## A Different Kind of Course
-
-There are no hacks here.  
-No biohacking culture.  
-No complicated systems.
-
-Just small, deliberate adjustments that accumulate into meaningful change.
-
-You don’t rush this work.  
-You live it.
 
 ## Learn More
 
