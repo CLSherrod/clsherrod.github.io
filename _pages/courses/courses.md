@@ -28,15 +28,9 @@ published: true
 ---
 ## Where Change Becomes Lived Experience
 
-Ideas are easy to collect.  
-Real change happens when you practice something differently in your daily life.
+Ideas are easy to collect.  Real change happens when you practice something differently in your daily life.
 
-This space is not about learning more.  
-It’s about living differently — calmly, deliberately, and in ways that support your health, clarity, and long-term well-being.
-
-No hustle.  
-No optimization culture.  
-No pressure to become someone else.
+This space is not about learning more.  It’s about living differently — calmly, deliberately, and in ways that support your health, clarity, and long-term well-being.
 
 Just practical steps that help you come back to yourself.
 
