@@ -14,7 +14,6 @@ teaser: /assets/images/headers/fiction.webp
 breadcrumbs: true  
 breadcrumb_parent_title: Fiction  
 breadcrumb_parent_url: /fiction/
-breadcrumb_title: "What Ocho Remembers"
 
 read_time: false
 toc: false
