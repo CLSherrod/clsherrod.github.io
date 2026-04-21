@@ -24,19 +24,6 @@
       <meta itemprop="position" content="2" />
     </li>
 
-    <li class="sep" aria-hidden="true">/</li>
-    <li
-      class="current"
-      itemprop="itemListElement"
-      itemscope
-      itemtype="https://schema.org/ListItem"
-    >
-      <span itemprop="name"
-        >{{ page.breadcrumb_label | default: page.title }}</span
-      >
-      <meta itemprop="position" content="3" />
-    </li>
-
     {% elsif page.breadcrumb_parent_title and page.breadcrumb_parent_url %}
     <li class="sep" aria-hidden="true">/</li>
     <li
@@ -58,7 +45,7 @@
       itemtype="https://schema.org/ListItem"
     >
       <span itemprop="name"
-        >{{ page.breadcrumb_label | default: page.title }}</span
+        >{{ page.breadcrumb_title | default: page.title }}</span
       >
       <meta itemprop="position" content="3" />
     </li>
@@ -72,7 +59,7 @@
       itemtype="https://schema.org/ListItem"
     >
       <span itemprop="name"
-        >{{ page.breadcrumb_label | default: page.title }}</span
+        >{{ page.breadcrumb_title | default: page.title }}</span
       >
       <meta itemprop="position" content="2" />
     </li>
