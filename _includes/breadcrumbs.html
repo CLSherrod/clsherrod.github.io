@@ -1,4 +1,4 @@
-<nav class="breadcrumbs">
+<nav class="breadcrumbs" aria-label="Breadcrumbs">
   <ol itemscope itemtype="https://schema.org/BreadcrumbList">
     <li
       itemprop="itemListElement"
@@ -24,17 +24,6 @@
       <meta itemprop="position" content="2" />
     </li>
 
-    <li class="sep" aria-hidden="true">/</li>
-    <li
-      class="current"
-      itemprop="itemListElement"
-      itemscope
-      itemtype="https://schema.org/ListItem"
-    >
-      <span itemprop="name">{{ page.title }}</span>
-      <meta itemprop="position" content="3" />
-    </li>
-
     {% elsif page.breadcrumb_parent_title and page.breadcrumb_parent_url %}
     <li class="sep" aria-hidden="true">/</li>
     <li
@@ -55,7 +44,9 @@
       itemscope
       itemtype="https://schema.org/ListItem"
     >
-      <span itemprop="name">{{ page.title }}</span>
+      <span itemprop="name"
+        >{{ page.breadcrumb_title | default: page.title }}</span
+      >
       <meta itemprop="position" content="3" />
     </li>
 
@@ -67,7 +58,9 @@
       itemscope
       itemtype="https://schema.org/ListItem"
     >
-      <span itemprop="name">{{ page.title }}</span>
+      <span itemprop="name"
+        >{{ page.breadcrumb_title | default: page.title }}</span
+      >
       <meta itemprop="position" content="2" />
     </li>
     {% endif %}
