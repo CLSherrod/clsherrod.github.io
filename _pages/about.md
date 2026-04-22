@@ -3,6 +3,8 @@ layout: single
 title: About Christopher Sherrod
 permalink: /about/
 
+breadcrumb: false
+
 author_profile: true
 
 teaser: /assets/images/headers/about-header.webp
@@ -37,6 +39,7 @@ Eventually, I learned what many people only realize later in life:
 That realization changed everything.
 
 ## Quick Facts
+
 - Writing online since 2000
 - Entrepreneur since childhood
 - ran a [web agency](/whodefinesyou/) for twenty-three years solely on referrals but now focused on internal projects only
@@ -49,6 +52,7 @@ I started my first business in elementary school selling smelly erasures. I’ve
 The work was successful — but it came at a cost.
 
 Burnout forced me to slow down and ask better questions:
+
 - What actually matters?
 - What kind of life do I want to live?
 - And what does “success” mean when no one is watching?
@@ -64,13 +68,15 @@ My work focuses on one central idea:
 **How to live a fulfilling life in a noisy, distracted world.**
 
 That includes writing about:
-- Living intentionally in a distracted world  
-- Building meaningful work without burnout  
+
+- Living intentionally in a distracted world
+- Building meaningful work without burnout
 - Creating a life that values clarity over constant growth
 
 I don’t believe in hustle culture, empty motivation, or one-size-fits-all answers.
 
 I believe in:
+
 - Thoughtful choices
 - Long-term thinking
 - Simple systems
@@ -79,6 +85,7 @@ I believe in:
 ## My Daily Newsletter
 
 If you enjoy this way of thinking, I share short, thoughtful notes each day — the same tone as this page, just quieter and more personal:
+
 - Living intentionally
 - Navigating modern life
 - Staying grounded
@@ -100,12 +107,14 @@ You can read more about that here:
 ## Writing & Creative Work
 
 I write essays and courses on:
+
 - Living well
 - Making meaningful work
 - Creativity and attention
 - Life design and simplicity
 
 My writing is intentionally:
+
 - Clear
 - Grounded
 - Free of hype
@@ -115,10 +124,10 @@ I also create art, write poetry, and explore creative work as a way of staying c
 
 You can explore more about me at [Start Here](https://christophersherrod.com/start)
 
-
 ## Life Outside the Screen
 
 When I’m not writing, I enjoy:
+
 - Creating art
 - Playing the Native American flute
 - Spending time with my wife
