@@ -36,33 +36,6 @@
       </a>
       <meta itemprop="position" content="2" />
     </li>
-
-    <li class="sep" aria-hidden="true">/</li>
-    <li
-      class="current"
-      itemprop="itemListElement"
-      itemscope
-      itemtype="https://schema.org/ListItem"
-    >
-      <span itemprop="name"
-        >{{ page.breadcrumb_title | default: page.title }}</span
-      >
-      <meta itemprop="position" content="3" />
-    </li>
-
-    {% else %}
-    <li class="sep" aria-hidden="true">/</li>
-    <li
-      class="current"
-      itemprop="itemListElement"
-      itemscope
-      itemtype="https://schema.org/ListItem"
-    >
-      <span itemprop="name"
-        >{{ page.breadcrumb_title | default: page.title }}</span
-      >
-      <meta itemprop="position" content="2" />
-    </li>
     {% endif %}
   </ol>
 </nav>
