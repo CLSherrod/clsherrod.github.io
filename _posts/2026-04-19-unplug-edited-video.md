@@ -15,8 +15,7 @@ post_type: videos
 categories:  
   - Living a Fulfilling Life
   
-tags:  
-- video  
+tags:
 - unplug  
 - emf  
 - course-update  
