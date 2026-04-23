@@ -31,6 +31,6 @@ comments: false
 share: true
 ---
 
-A video update on my upcoming Unplug course and a few simple ways to reduce EMFs.
+A video update on what EMFs did to my body.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FfLtNGGYWcU?si=Wdz7LWF0JL6W5A5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
