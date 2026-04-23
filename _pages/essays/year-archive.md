@@ -4,8 +4,9 @@ permalink: /essays/
 layout: posts
 author_profile: true
 published: true
-breadcrumb_parent_title: Essays
-breadcrumb_parent_url: /essays/
+
+breadcrumbs: false
+
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
   overlay_image: /assets/images/headers/blog-header.webp
