@@ -1,6 +1,5 @@
 ---
 title: "Unplug Course Update Video"
-tagline: "Watch my latest update on the upcoming Unplug course."
 date: 2026-04-19
 layout: single
 permalink: /videos/unplug-course-update/
