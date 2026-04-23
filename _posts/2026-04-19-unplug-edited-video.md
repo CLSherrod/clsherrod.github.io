@@ -25,7 +25,6 @@ breadcrumb_parent_title: "Videos"
 breadcrumb_parent_url: /videos/
 
 toc: false  
-toc_sticky: false  
   
 robots: "index,follow"  
 comments: false  
