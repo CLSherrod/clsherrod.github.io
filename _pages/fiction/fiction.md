@@ -6,15 +6,12 @@ layout: single
 classes: wide
 
 breadcrumbs: false
-
 author_profile: true
 
 description: "Short fiction by Christopher Sherrod, including stories rooted in memory, mystery, place, meaning, and the strange edges of life."
 excerpt: "Short fiction by Christopher Sherrod—stories about memory, mystery, place, and the strange edges of life."
 tagline: The speculative fiction of Christopher Sherrod
 teaser: /assets/images/headers/fiction.webp
-
-breadcrumbs: true
 
 header:
   overlay_image: /assets/images/headers/fiction.webp

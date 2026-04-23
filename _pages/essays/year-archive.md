@@ -1,11 +1,12 @@
 ---
 title: "Essays by Year"
 permalink: /essays/
+
 layout: posts
 author_profile: true
-published: true
+breadcrumbs: true
 
-breadcrumbs: false
+published: true
 
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
