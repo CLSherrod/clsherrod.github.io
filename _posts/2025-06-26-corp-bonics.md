@@ -4,6 +4,7 @@ description: Why Corp-bonics Is the Funniest—and Truest—Book About Corporate
 preview: Why Corp-bonics Is the Funniest—and Truest—Book About Corporate Life You'll Ever Read
 date: 2025-06-26
 toc: true
+post_type: review
 categories:
   - Work & Entrepreneurship
 tags:

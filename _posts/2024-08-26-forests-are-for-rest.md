@@ -3,6 +3,7 @@ title: Forests Are For Rest
 date: 2024-08-26
 permalink: /forests-are-for-rest/
 
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

@@ -4,6 +4,7 @@ date: 2020-06-21
 last_modified_at: 2025-10-02
 description: "Nonviolent Communication: A Book That Helped Me Live More Peacefully"
 preview: "Nonviolent Communication: A Book That Helped Me Live More Peacefully"
+post_type: review
 categories:
   - Living a Fulfilling Life
 tags:

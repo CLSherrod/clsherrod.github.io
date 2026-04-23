@@ -3,6 +3,7 @@ title: Think And Grow Rich Review
 date: 2005-10-04
 published: true
 comments: true
+post_type: review
 categories:
   - Work & Entrepreneurship
 tags:

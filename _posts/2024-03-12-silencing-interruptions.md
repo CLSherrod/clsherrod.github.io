@@ -2,6 +2,7 @@
 title: Silencing Interruptions - Poem
 date: 2024-03-12
 published: true
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

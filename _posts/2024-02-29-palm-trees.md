@@ -3,6 +3,7 @@ title: Palm trees - Poem
 date: 2024-02-29
 permalink: /palm-trees/
 
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

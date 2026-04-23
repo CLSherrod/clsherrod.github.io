@@ -2,6 +2,7 @@
 title: "Alive in Gratitude: A Hymn to Life - Poem"
 date: 2024-02-10
 published: true
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

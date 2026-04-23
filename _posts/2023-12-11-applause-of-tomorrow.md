@@ -2,6 +2,7 @@
 title: Applause of Tomorrow - Poem
 date: 2023-12-11
 published: true
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

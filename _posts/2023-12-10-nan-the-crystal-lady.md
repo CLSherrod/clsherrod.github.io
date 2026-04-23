@@ -1,6 +1,7 @@
 ---
 title: Nan the Crystal Lady - Poem
 date: 2023-12-10
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

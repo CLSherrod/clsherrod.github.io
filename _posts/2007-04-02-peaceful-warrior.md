@@ -3,6 +3,7 @@ title: Peaceful Warrior
 date: 2007-04-02
 published: true
 comments: true
+post_type: review
 categories:
   - Living a Fulfilling Life
 tags:

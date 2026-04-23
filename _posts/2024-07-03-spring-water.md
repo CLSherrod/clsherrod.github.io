@@ -1,6 +1,7 @@
 ---
 title: Spring Water - Poem
 date: 2024-07-03
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

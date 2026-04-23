@@ -3,6 +3,7 @@ title: Peace Broke Out Everywhere
 description: A poem about peace
 date: 2024-09-04
 preview: One quiet dawn, without a sound...
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

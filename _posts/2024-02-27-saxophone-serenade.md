@@ -2,6 +2,7 @@
 title: Saxophone Serenade - Poem
 date: 2024-02-27
 published: true
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

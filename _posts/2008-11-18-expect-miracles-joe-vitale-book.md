@@ -2,6 +2,7 @@
 title: My Story Featured in Joe Vitale’s New Book Expect Miracles — Learn How to Attract Miracles Into Your Life
 date: 2008-11-18
 published: true
+post_type: review
 categories:
   - Living a Fulfilling Life
 tags:

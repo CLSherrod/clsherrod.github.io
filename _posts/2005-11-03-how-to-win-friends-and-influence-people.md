@@ -3,6 +3,7 @@ title: How to Win Friends and Influence People Review
 date: 2005-11-03
 published: true
 comments: true
+post_type: review
 categories:
   - Living a Fulfilling Life
 tags:

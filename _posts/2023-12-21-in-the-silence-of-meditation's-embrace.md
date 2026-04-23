@@ -2,6 +2,7 @@
 title: In the Silence of Meditation's Embrace - Poem
 date: 2023-12-21
 published: true
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

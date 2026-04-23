@@ -3,6 +3,7 @@ title: What the Bleep Do We Know!? Movie Review
 date: 2005-08-01
 published: true
 comments: true
+post_type: review
 categories:
   - Living a Fulfilling Life
 tags:

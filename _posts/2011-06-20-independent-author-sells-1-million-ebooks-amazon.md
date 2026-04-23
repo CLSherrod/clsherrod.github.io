@@ -2,12 +2,14 @@
 title: Independent Author Sells 1 Million Ebooks via Amazon
 date: 2011-06-20
 published: true
+post_type: review
 categories:
   - Living a Fulfilling Life
 tags:
   - review
 permalink: /independent-author-sells-1-million-ebooks-amazon/
 ---
+
 Interesting how he uses a low price to gather fame and make some money.
 
 Crime novelist John Locke has become the first independent author to sell more than 1 million ebooks through Kindle’s Direct Publishing program, Amazon announced Monday.

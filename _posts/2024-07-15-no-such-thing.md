@@ -3,6 +3,7 @@ title: No Such Thing - Poem
 date: 2024-07-15
 permalink: /no-such-thing/
 
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

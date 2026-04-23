@@ -1,6 +1,7 @@
 ---
 title: Flowers Are Fallen - Poem
 date: 2024-07-09
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

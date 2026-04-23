@@ -3,6 +3,7 @@ title: Silent Joy - Poem
 date: 2024-06-10
 permalink: /silent-joy/
 
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

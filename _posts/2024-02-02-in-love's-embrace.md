@@ -2,6 +2,7 @@
 title: In Love's Embrace - Poem
 date: 2024-02-02
 published: true
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

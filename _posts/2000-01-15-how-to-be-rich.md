@@ -1,6 +1,7 @@
 ---
 title: How To Be Rich Review
 date: 2000-01-15
+post_type: review
 categories:
   - Work & Entrepreneurship
 tags:

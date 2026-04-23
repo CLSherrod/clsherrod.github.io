@@ -3,6 +3,7 @@ title: "To Be: The Only Answer - Poem"
 date: 2024-05-20
 permalink: /to-be-the-only-answer/
 
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

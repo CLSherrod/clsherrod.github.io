@@ -1,6 +1,7 @@
 ---
 title: Atlas Shrugged Review
 date: 2000-01-07
+post_type: review
 categories:
   - Work & Entrepreneurship
 tags:

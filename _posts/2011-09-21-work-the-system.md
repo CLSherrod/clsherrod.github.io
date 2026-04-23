@@ -2,6 +2,7 @@
 title: Work the System - The Simple Mechanics of Making More and Working Less
 date: 2021-09-21
 last_updated: 2024-08-12
+post_type: review
 categories:
   - Work & Entrepreneurship
 tags:

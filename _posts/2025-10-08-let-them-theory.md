@@ -3,6 +3,7 @@ title: '"The Let Them Theory” by Mel Robbins Helps You Let Go and Take Back Yo
 date: 2025-10-08
 description: '"The Let Them Theory” by Mel Robbins Helps You Let Go and Take Back Your Power'
 preview: '"The Let Them Theory” by Mel Robbins Helps You Let Go and Take Back Your Power'
+post_type: review
 categories:
   - Living a Fulfilling Life
 tags:

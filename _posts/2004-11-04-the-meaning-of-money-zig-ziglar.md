@@ -1,6 +1,7 @@
 ---
 title: The Meaning Of Money Review
 date: 2004-11-04
+post_type: review
 categories:
   - Work & Entrepreneurship
 tags:

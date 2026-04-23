@@ -3,6 +3,7 @@ title: Sunset Blessings - Poem
 date: 2024-02-16
 permalink: /sunset-blessings/
 
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

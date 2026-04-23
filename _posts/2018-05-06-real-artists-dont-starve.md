@@ -2,6 +2,7 @@
 title: Real Artists Don't Starve
 date: 2018-05-06
 published: true
+post_type: review
 categories:
   - Living a Fulfilling Life
 tags:

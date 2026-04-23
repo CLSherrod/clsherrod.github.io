@@ -2,6 +2,7 @@
 title: The Carpenter’s House Fable
 date: 2005-04-05
 last_modified_at: 2024-03-12
+post_type: review
 categories:
 - Work & Entrepreneurship
 tags:

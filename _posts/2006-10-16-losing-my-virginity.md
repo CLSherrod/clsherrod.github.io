@@ -3,6 +3,7 @@ title: Losing My Virginity Review
 date: 2006-10-16
 published: true
 comments: true
+post_type: review
 categories:
   - Work & Entrepreneurship
 tags:
@@ -10,6 +11,7 @@ tags:
   - review
 permalink: /losing-my-virginity/
 ---
+
 I just completed reading Richard Branson's autobiography title "Losing My Virginity". I am even more fascinated by Branson after reading the book. He is a true entrepreneur.
 
 He says that there is no success formula for business. You have to be out there doing it and have a good team and of course a fair amount of luck. These will help in you being successful but do not guarantee it.

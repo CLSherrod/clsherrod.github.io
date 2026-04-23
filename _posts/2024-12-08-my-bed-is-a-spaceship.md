@@ -3,6 +3,7 @@ title: My Bed is a Spaceship - Poem
 date: 2024-12-08
 permalink: /my-bed-is-a-spaceship/
 
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

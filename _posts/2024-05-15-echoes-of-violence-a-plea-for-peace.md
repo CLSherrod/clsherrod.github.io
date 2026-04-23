@@ -7,6 +7,7 @@ description: In the midst of conflict and strife, we often find ourselves grappl
 preview: In the midst of conflict and strife, we often find ourselves grappling with the haunting echoes of history.
 excerpt: In the midst of conflict and strife, we often find ourselves grappling with the haunting echoes of history.
 
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

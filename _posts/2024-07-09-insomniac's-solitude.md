@@ -1,6 +1,7 @@
 ---
 title: Insomniac's Solitude - Poem
-date: 2024-07-09T16:22:02.149Z
+date: 2024-07-09
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

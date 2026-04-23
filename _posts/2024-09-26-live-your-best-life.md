@@ -1,6 +1,7 @@
 ---
 title: Live Your Best Life - Poem
 date: 2024-09-26
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

@@ -3,6 +3,7 @@ title: Valentine's Day Magic - Poem
 date: 2024-02-13
 permalink: /valentines-day-magic/
 
+post_type: poem
 categories:
   - Creativity & Writing
 tags:

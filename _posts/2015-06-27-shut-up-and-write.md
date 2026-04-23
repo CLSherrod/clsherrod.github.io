@@ -2,6 +2,7 @@
 title: Shut Up and Write - My Experience With Other Writers
 date: 2015-06-27
 published: true
+post_type: review
 categories:
   - Living a Fulfilling Life
 tags:

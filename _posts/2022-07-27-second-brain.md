@@ -1,6 +1,7 @@
 ---
 title: A Game-Changer for Organizing Your Life and Unlocking Creativity
 date: 2022-07-27
+post_type: review
 categories:
   - Living a Fulfilling Life
 tags:
