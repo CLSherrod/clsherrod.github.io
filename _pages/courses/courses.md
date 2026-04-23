@@ -5,10 +5,12 @@ layout: single
 classes: wide
 permalink: /courses/
 
-author_profile: true  
+breadcrumbs: false
 
-excerpt: "Courses on living a fulfilling life."  
-description: "Courses on living a fulfilling life."  
+author_profile: true
+
+excerpt: "Courses on living a fulfilling life."
+description: "Courses on living a fulfilling life."
 tagline: Courses on Living a Fulfilling Life
 preview: Courses with Christopher Sherrod
 
@@ -25,11 +27,12 @@ read_time: no
 toc: no
 published: true
 ---
+
 ## Where Change Becomes Lived Experience
 
-Ideas are easy to collect.  Real change happens when you practice something differently in your daily life.
+Ideas are easy to collect. Real change happens when you practice something differently in your daily life.
 
-This space is not about learning more.  It’s about living differently — calmly, deliberately, and in ways that support your health, clarity, and long-term well-being.
+This space is not about learning more. It’s about living differently — calmly, deliberately, and in ways that support your health, clarity, and long-term well-being.
 
 Just practical steps that help you come back to yourself.
 
@@ -41,10 +44,11 @@ This is the central course I offer.
 
 _Unplug_ was created for people who feel overstimulated, exhausted, wired, or quietly aware that modern technology is asking more from their bodies and minds than it gives back.
 
-It is not anti-technology.  
+It is not anti-technology.
 It is about restoring balance.
 
 This course walks you through a clear, grounded approach to:
+
 - Reduce unnecessary EMF exposure without fear or extremism
 - Create living spaces that support recovery and calm
 - Rebuild energy, focus, and sleep through environmental changes
@@ -55,6 +59,6 @@ This course walks you through a clear, grounded approach to:
 
 - [Unplug from excessive EMFs](/courses/unplug/)
 
-Go gently.  
-Make changes that last.  
+Go gently.
+Make changes that last.
 Build a life your body can actually live in.
