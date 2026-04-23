@@ -21,8 +21,8 @@ tags:
   - life-lessons
 
 breadcrumbs: true
-breadcrumb_parent_title: "Essays"
-breadcrumb_parent_url: /essays/
+breadcrumb_parent_title: "News"
+breadcrumb_parent_url: /news/
 
 teaser: /assets/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
 
