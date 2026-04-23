@@ -7,9 +7,9 @@ header:
   overlay_image: /assets/images/headers/explore-header.webp
   overlay_filter: 0.1
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
+  image_description: ""
 toc: true
 redirect_to: /work/
-published: true
+published: false
+og_image: /assets/images/home-header2.webp
 ---
-
-

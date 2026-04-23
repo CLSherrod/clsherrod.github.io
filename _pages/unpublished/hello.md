@@ -10,6 +10,7 @@ header:
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
 author_profile: false
 redirect_to: /about#contact
+published: false
 ---
 If you'd like to find out more about me, [check out my About page](/about).
 

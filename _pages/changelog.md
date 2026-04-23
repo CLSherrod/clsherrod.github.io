@@ -2,6 +2,8 @@
 layout: single
 title: Change Log
 permalink: /changelog/
+
+breadcrumbs: true
 ---
 ## V 2.1 (2024-07-02)
 Changed theme to [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes).

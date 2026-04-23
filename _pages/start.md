@@ -2,7 +2,11 @@
 layout: single
 title: "Start Here: Living a Fulfilling Life"
 permalink: /start/
+
+breadcrumbs: false
+
 toc: true
+
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
   overlay_image: /assets/images/headers/start-header.webp
@@ -20,15 +24,16 @@ This site is a living library of the lessons I’ve learned from nearly dying, l
 
 I’m a writer, artist, and fulfilling lifestyle advocate. I help people unplug from toxic modern systems and reconnect with what really matters: health, truth, creativity, and joy.
 
-Some of that takes the form of essays. Some of it becomes fiction. Some of it becomes books or courses. All of it comes from the same place: trying to live honestly, pay attention, and make something useful from what I have learned.  
-  
-If you are new here, this page will help you find a good place to begin.  
-  
+Some of that takes the form of essays. Some of it becomes fiction. Some of it becomes books or courses. All of it comes from the same place: trying to live honestly, pay attention, and make something useful from what I have learned.
+
+If you are new here, this page will help you find a good place to begin.
+
 ## Choose Your Path
 
-### Essays  
-If you want thoughtful writing on living a fulfilling life, this is the best place to start. These essays are about meaning, work, simplicity, attention, relationships, and the deeper questions of how to live.  
-  
+### Essays
+
+If you want thoughtful writing on living a fulfilling life, this is the best place to start. These essays are about meaning, work, simplicity, attention, relationships, and the deeper questions of how to live.
+
 [Browse Essays](/essays/)
 
 **My Core Pillars**
@@ -68,22 +73,26 @@ Key essay - [How to travel and still do business](/how-to-travel-and-still-do-bu
 Occasionally I also share short reflections about living a fulfilling life on YouTube.
 → [Watch videos on YouTube](https://www.youtube.com/@christophersherrodwrites)
 
-### Courses  
-If you want practical guidance and a more structured way to learn, explore my courses.  
-  
+### Courses
+
+If you want practical guidance and a more structured way to learn, explore my courses.
+
 [View Courses](/courses/)
 
-### Fiction  
-If you want stories, memory, imagination, and the stranger edges of life, visit the fiction section.  
-  
-[Explore Fiction](/fiction/) 
+### Fiction
+
+If you want stories, memory, imagination, and the stranger edges of life, visit the fiction section.
+
+[Explore Fiction](/fiction/)
 
 ### Artist
+
 I'm also a visual artist and soundscape musician using my artist name [Chr1stopher](/chr1stopher/)
-  
-## About  
-If you want to know more about who I am and the path behind this work, visit the about page.  
-  
+
+## About
+
+If you want to know more about who I am and the path behind this work, visit the about page.
+
 [Read About Me](/about/)
 
 ## Get My Personal Notes
@@ -91,7 +100,6 @@ If you want to know more about who I am and the path behind this work, visit the
 I send short, real-world reflections on living a fulfilling life — straight to your inbox.
 
 [Click here to join the email list](/newsletter/) - _No fluff. Just truth, creativity, and clarity._
-
 
 ## Let’s Stay Connected
 

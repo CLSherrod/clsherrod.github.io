@@ -2,6 +2,9 @@
 layout: single
 title: What I'm Doing Now
 permalink: /now/
+
+breadcrumbs: true  
+
 toc: true
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:

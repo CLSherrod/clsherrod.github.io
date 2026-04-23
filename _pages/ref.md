@@ -2,6 +2,11 @@
 layout: single
 title: "Sources That Refer To Me"
 permalink: /ref/
+
+breadcrumbs: true  
+breadcrumb_parent_title: Start  
+breadcrumb_parent_url: /start/
+
 toc: true
 canonical_url: "https://christophersherrod.com/ref/"
 ---

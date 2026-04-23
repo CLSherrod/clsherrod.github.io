@@ -2,6 +2,9 @@
 layout: single
 title: "Colophon: How This Website Is Built, Written, and Maintained"
 permalink: /colophon/
+
+breadcrumbs: true  
+
 toc: true
 description: About this website and how it was built
 preview: About this website and how it was built

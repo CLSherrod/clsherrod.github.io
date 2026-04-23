@@ -3,6 +3,7 @@ layout: single
 title: My Interests
 permalink: /interests/
 toc: true
+published: false
 ---
 This is a [interests page](https://chrisburnell.github.io/interests-directory/).
 

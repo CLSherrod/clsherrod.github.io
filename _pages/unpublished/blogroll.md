@@ -3,6 +3,7 @@ layout: single
 classes: wide
 title: Blogroll
 permalink: /blogroll/
+published: false
 ---
 ## My favorites blogs
 - [Derek Sivers](https://sive.rs)

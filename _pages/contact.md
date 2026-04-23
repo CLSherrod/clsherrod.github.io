@@ -2,6 +2,10 @@
 layout: single
 title: Contact Me
 permalink: /contact/
+
+breadcrumbs: true  
+breadcrumb_parent_title: Start  
+breadcrumb_parent_url: /start/
 ---
 ## Email
 <form action="mailto:chris@christophersherrod.com" method="get" enctype="text/plain">
