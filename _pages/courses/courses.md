@@ -14,7 +14,7 @@ description: "Courses on living a fulfilling life."
 tagline: Courses on Living a Fulfilling Life
 preview: Courses with Christopher Sherrod
 
-breadcrumbs: true
+breadcrumbs: false
 
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp

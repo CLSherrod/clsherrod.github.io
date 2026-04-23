@@ -3,7 +3,7 @@ title: "Unplug Course Update Video"
 tagline: "Watch my latest update on the upcoming Unplug course."
 date: 2026-04-19
 layout: single  
-permalink: /videos/unplug-course-update/  
+permalink: /videos/unplug-course-update/
 published: true  
   
 description: "Watch Christopher Sherrod’s latest video update on the upcoming Unplug course, including practical tips for reducing EMFs at work."  
