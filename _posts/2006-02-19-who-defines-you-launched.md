@@ -1,6 +1,7 @@
 ---
 title: Who Defines You Launched
 date: 2006-02-19
+post_type: news
 categories:
   - Living a Fulfilling Life
 tags:

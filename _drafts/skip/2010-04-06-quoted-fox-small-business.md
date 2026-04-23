@@ -2,6 +2,7 @@
 title: I was quoted on Fox Small Business
 date: 2010-04-06
 published: true
+post_type: news
 categories:
 - News
 tags:

@@ -3,7 +3,7 @@ layout: single
 title: What I'm Doing Now
 permalink: /now/
 
-breadcrumbs: true  
+breadcrumbs: true
 
 toc: true
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
@@ -16,14 +16,15 @@ header:
 og_image: /assets/images/now-header.webp
 ---
 
-Updated on Sunday April 19th, 2026.
+Updated on Thursday April 23th, 2026.
 
 ## Currently Doing
 
-- I'm creating the course _Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life - How to Cut EMF Exposure Without Going Off the Grid_
+- I'm creating the course [_Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life - How to Cut EMF Exposure Without Going Off the Grid_](/courses/unplug/-)
 
 ## Current Projects
 
+- Redesigning [NanAkasha.com website design](https://nanakasha.com)
 - Writing helpful essays here on what has worked for me in life. See recently published below.
 - I'm an artist known as [Chr1stopher](/chr1stopher).
 

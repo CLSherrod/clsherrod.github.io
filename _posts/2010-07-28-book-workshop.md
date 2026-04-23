@@ -1,6 +1,7 @@
 ---
 title: Play Prosperity Games Workshop
 date: 2010-07-28
+post_type: news
 categories:
   - Work & Entrepreneurship
 tags:

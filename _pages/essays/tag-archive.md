@@ -3,7 +3,7 @@ title: "Posts by Tag"
 permalink: /tags/
 layout: single
 author_profile: true
-published: false
+published: true
 breadcrumb_parent_title: Essays
 breadcrumb_parent_url: /essays/
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
