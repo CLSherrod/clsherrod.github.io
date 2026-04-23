@@ -8,8 +8,7 @@ excerpt: "A collection of video posts by Christopher Sherrod."
 preview: "Browse all video posts."
 breadcrumbs: true
 published: true
-toc: false
-toc_sticky: false
+
 robots: "index,follow"
 ---
 

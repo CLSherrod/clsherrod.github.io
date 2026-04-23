@@ -10,7 +10,7 @@ description: "Watch Christopher Sherrod’s latest video update on the upcoming
 excerpt: "A watch page for Christopher Sherrod’s Unplug course update video."  
 preview: "Watch the latest Unplug course update video and learn simple ways to reduce EMFs at work."  
   
-post_type: videos
+post_type: video
   
 categories:  
   - Living a Fulfilling Life
