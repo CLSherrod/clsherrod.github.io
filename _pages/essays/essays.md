@@ -5,7 +5,7 @@ permalink: /essays/
 published: false
 author_profile: true
 toc: true
-published: true
+published: false
 
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp

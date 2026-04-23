@@ -6,8 +6,16 @@ permalink: /essays/
 description: "Browse essays by Christopher Sherrod on living a fulfilling life, meaningful work, creativity, and lifestyle."
 excerpt: "A collection of essays by Christopher Sherrod."
 preview: "Browse all essays."
+
+header:
+  overlay_image: /assets/images/headers/fulfilling-header.webp
+  overlay_filter: 0.1
+  image_description: Art Time by Chr1stopher
+  caption: Art by [**Chr1stopher**](https://chr1stopher.com)
+og_image: /assets/images/fulfilling-header.webp
+
 breadcrumbs: true
-published: false
+published: true
 toc: false
 toc_sticky: false
 robots: "index,follow"
