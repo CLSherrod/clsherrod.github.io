@@ -3,7 +3,7 @@ layout: single
 title: About Christopher Sherrod
 permalink: /about/
 
-breadcrumbs: true
+breadcrumbs: false
 
 author_profile: true
 
