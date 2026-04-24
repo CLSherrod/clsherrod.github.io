@@ -1,13 +1,12 @@
 ---
 layout: single
 title: Creativity & Writing
-permalink: /creativity/
+permalink: /creativity-writing/
 author_profile: true
 toc: true
-published: false
+published: true
 breadcrumb_parent_title: Essays
 breadcrumb_parent_url: /essays/
-
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp
   overlay_filter: 0.1
@@ -61,3 +60,5 @@ This section isn’t about publishing faster.
 It’s about thinking better.
 
 And that tends to last longer.
+
+**[Latest Essays on Creativity & Writing](/categories/#creativity-writing)**

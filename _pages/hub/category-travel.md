@@ -1,13 +1,12 @@
 ---
 layout: single
 title: Travel & Living Abroad
-permalink: /travel/
+permalink: /travel-living-abroad/
 author_profile: true
 toc: true
-published: false
+published: true
 breadcrumb_parent_title: Essays
 breadcrumb_parent_url: /essays/
-
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp
   overlay_filter: 0.1
@@ -62,3 +61,5 @@ Travel doesn’t fix your life.
 But it does show you which parts of it are optional.
 
 And that’s often enough.
+
+**[Latest Essays on Travel & Living Abroad](/categories/#travel-living-abroad)**

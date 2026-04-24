@@ -4,6 +4,7 @@ layout: categories
 classes: wide
 permalink: /categories/
 author_profile: true
+published: true
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-square.webp
 header:
   overlay_image: /assets/images/headers/categories-header.webp

@@ -4,10 +4,9 @@ title: Work & Entreprenuership
 permalink: /work-entrepreneurship/
 author_profile: true
 toc: true
-published: false
+published: true
 breadcrumb_parent_title: Essays
 breadcrumb_parent_url: /essays/
-
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp
   overlay_filter: 0.1
@@ -70,3 +69,5 @@ People who want to:
 - Think clearly about money and work
 
 If that’s you, this section will feel familiar.
+
+**[Latest Essays on Work & Entrepreneurship](/categories/#work-entrepreneurship)**

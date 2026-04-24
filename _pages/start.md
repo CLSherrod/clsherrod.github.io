@@ -43,35 +43,36 @@ These are the themes I return to again and again.
 **Living a Fulfilling Life**
 
 What it really means to build a life rooted in calm, clarity, presence, and meaning.
-[Explore this pillar →](/categories/#living-a-fulfilling-life)
+[Explore this pillar →](/living-a-fulfilling-life)
 
 Key essay - [Striving For Balance - My True Life Goals](/striving-for-balance/)
 
 **Work & Entrepreneurship**
 
 Essays on building meaningful work, running a grounded business, and creating without burnout.
-[Explore this pillar →](/categories/#work-entrepreneurship)
+[Explore this pillar →](/work-entrepreneurship)
 
 Key essay - [Forget Shark Tank; Be A Dolphin Entrepreneur Instead](/dolphin-entrepreneur/)
 
 **Creativity & Writing**
 
 What it looks like to live as a creator… sustainably, honestly, and with purpose.
-[Explore this pillar →](/categories/#creativity-writing)
+[Explore this pillar →](/creativity-writing)
 
 Key essay - [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 
 **Lifestyle & Travel**
 
 Slow travel, intentional living, the real lessons learned from living abroad since 2016.
-[Explore this pillar →](/categories/#travel-living-abroad)
+[Explore this pillar →](/travel-living-abroad)
 
 Key essay - [How to travel and still do business](/how-to-travel-and-still-do-business/)
 
 ### Videos
 
 Occasionally I also share short reflections about living a fulfilling life on YouTube.
-→ [Watch videos on YouTube](https://www.youtube.com/@christophersherrodwrites)
+
+[Watch videos](/videos)
 
 ### Courses
 
@@ -87,7 +88,9 @@ If you want stories, memory, imagination, and the stranger edges of life, visit 
 
 ### Artist
 
-I'm also a visual artist and soundscape musician using my artist name [Chr1stopher](/chr1stopher/)
+I'm also a visual artist and soundscape musician using my artist name.
+
+[Learn more about Chr1topher](/chr1stopher/)
 
 ## About
 

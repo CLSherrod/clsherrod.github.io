@@ -11,17 +11,17 @@
       <meta itemprop="position" content="1" />
     </li>
 
-    {% assign crumb_title = nil %} {% assign crumb_url = nil %} {% if
-    page.post_type == "poem" %} {% assign crumb_title = "Poems" %} {% assign
-    crumb_url = "/poems/" %} {% elsif page.post_type == "review" %} {% assign
-    crumb_title = "Reviews" %} {% assign crumb_url = "/reviews/" %} {% elsif
-    page.post_type == "video" %} {% assign crumb_title = "Videos" %} {% assign
-    crumb_url = "/videos/" %} {% elsif page.post_type == "news" %} {% assign
-    crumb_title = "News" %} {% assign crumb_url = "/news/" %} {% elsif
-    page.collection == "posts" %} {% assign crumb_title = "Essays" %} {% assign
-    crumb_url = "/essays/" %} {% elsif page.breadcrumb_parent_title and
-    page.breadcrumb_parent_url %} {% assign crumb_title =
-    page.breadcrumb_parent_title %} {% assign crumb_url =
+    {% assign crumb_title = nil %} {% assign crumb_url = nil %} {% assign
+    crumb_position = 2 %} {% if page.post_type == "poem" %} {% assign
+    crumb_title = "Poems" %} {% assign crumb_url = "/poems/" %} {% elsif
+    page.post_type == "review" %} {% assign crumb_title = "Reviews" %} {% assign
+    crumb_url = "/reviews/" %} {% elsif page.post_type == "video" %} {% assign
+    crumb_title = "Videos" %} {% assign crumb_url = "/videos/" %} {% elsif
+    page.post_type == "news" %} {% assign crumb_title = "News" %} {% assign
+    crumb_url = "/news/" %} {% elsif page.collection == "posts" %} {% assign
+    crumb_title = "Essays" %} {% assign crumb_url = "/essays/" %} {% elsif
+    page.breadcrumb_parent_title and page.breadcrumb_parent_url %} {% assign
+    crumb_title = page.breadcrumb_parent_title %} {% assign crumb_url =
     page.breadcrumb_parent_url %} {% endif %} {% if crumb_title and crumb_url %}
     <li class="sep" aria-hidden="true">/</li>
     <li
@@ -32,7 +32,25 @@
       <a href="{{ crumb_url | relative_url }}" itemprop="item">
         <span itemprop="name">{{ crumb_title }}</span>
       </a>
-      <meta itemprop="position" content="2" />
+      <meta itemprop="position" content="{{ crumb_position }}" />
+    </li>
+    {% assign crumb_position = crumb_position | plus: 1 %} {% endif %} {% if
+    page.collection == "posts" and page.categories and page.categories.size > 0
+    %} {% assign essay_category = page.categories[0] %} {% assign
+    essay_category_label = page.category_label | default: essay_category %}
+    <li class="sep" aria-hidden="true">/</li>
+    <li
+      itemprop="itemListElement"
+      itemscope
+      itemtype="https://schema.org/ListItem"
+    >
+      <a
+        href="{{ '/' | append: essay_category | slugify | append: '/' | relative_url }}"
+        itemprop="item"
+      >
+        <span itemprop="name">{{ essay_category_label }}</span>
+      </a>
+      <meta itemprop="position" content="{{ crumb_position }}" />
     </li>
     {% endif %}
   </ol>

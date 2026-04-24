@@ -1,13 +1,12 @@
 ---
 layout: single
 title: Living a Fulfilling Life
-permalink: /fulfilling-life/
+permalink: /living-a-fulfilling-life/
 author_profile: true
 toc: true
-published: false
+published: true
 breadcrumb_parent_title: Essays
 breadcrumb_parent_url: /essays/
-
 header:
   overlay_image: /assets/images/headers/fulfilling-header.webp
   overlay_filter: 0.1
@@ -59,3 +58,5 @@ I don’t believe in hustle culture, life hacks, or pretending everything is fin
 This space is for thoughtful people who want to live well — not loudly.
 
 If that resonates, you’ll feel at home here.
+
+**[Latest Essays on Living A Fulfilling Life](/categories/#living-a-fulfilling-life)**
