@@ -29,55 +29,7 @@ $link-color: blue;
 @import "minimal-mistakes"; // main partials
 
 /* =========================================
-   Featured Essay
-========================================= */
-
-.featured-essay {
-  background-color: #f9f9fb; /* Light background */
-  padding-left: 2rem;
-  padding-right: 2rem;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  margin-bottom: 2rem;
-  border-radius: 8px; /* Rounding corners */
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-}
-
-.featured-essay h2 {
-  font-size: 2rem; /* Larger font size */
-  color: #2d2d2d; /* Dark text color */
-}
-
-.featured-essay a {
-  display: inline-block;
-  background-color: #6fdad1; /* CTA Color */
-  color: #fff;
-  padding: 0.75rem 1.5rem; /* Button padding */
-  border-radius: 5px;
-  text-decoration: none;
-}
-
-.featured-essay a:hover {
-  background-color: #5cbcaa; /* Darker on hover */
-}
-
-/* =========================================
-   Parallax Scrolling Effect
-========================================= */
-
-.parallax {
-  background-image: url("/assets/images/headers/parallax-background.webp");
-  height: auto;
-  background-attachment: scroll; /* (If you truly want parallax, change to fixed) */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
-  z-index: 1;
-}
-
-/* =========================================
-   Brand Tokens (CSS Variables)
+   Brand Tokens
 ========================================= */
 
 :root {
@@ -121,11 +73,6 @@ $link-color: blue;
   --cs-shadow-soft-2: 0 8px 20px rgba(0, 0, 0, 0.06);
 }
 
-/* This cannot live inside :root (invalid CSS). */
-.credibility-bar {
-  background-color: var(--cs-gray-300);
-}
-
 /* =========================================
    Core Layout + Resets
 ========================================= */
@@ -140,25 +87,10 @@ body {
   overflow-x: hidden;
 }
 
-/* =========================================
-   Layouts
-========================================= */
-
 main {
   background-color: #ffffff !important;
   position: relative;
   z-index: 1;
-}
-
-.full-bleed {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  width: 100vw;
-  box-sizing: border-box;
-  overflow-x: hidden;
 }
 
 .greedy-nav {
@@ -168,36 +100,25 @@ main {
 .page_content {
   background-color: var(--cs-page-bg);
   max-width: 100vw;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding: 0 1rem;
 }
 
 .home {
   width: 100vw;
   max-width: 100%;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0rem;
+  padding: 0 1rem;
 }
 
 .full-width {
   min-height: 1rem;
   max-width: 100vw;
   margin: 0;
-  padding-left: 0rem;
-  padding-right: 0rem;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding: 0;
   overflow-x: hidden;
 }
 
 .home.full-width section {
-  padding-left: 0rem;
-  padding-right: 0rem;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding: 0;
 }
 
 @media (min-width: 768px) {
@@ -207,22 +128,29 @@ main {
   }
 }
 
-.full-bleed > .wrapper {
-  max-width: 100vw;
-  margin: 0 auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+.full-bleed {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  width: 100vw;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  box-sizing: border-box;
+  overflow-x: hidden;
 }
 
-.bar > .wrapper {
-  max-width: 100vw;
+.full-bleed > .wrapper {
+  max-width: 900px;
   margin: 0 auto;
-  padding-left: 0rem;
-  padding-right: 0rem;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding: 2rem 1rem;
+}
+
+.full-bleed.wide > .wrapper {
+  max-width: 1200px;
+}
+
+.credibility-bar {
+  background-color: var(--cs-gray-300);
 }
 
 /* =========================================
@@ -266,41 +194,19 @@ main {
 
 #intro {
   background-color: var(--cs-soft-bg);
-  padding-left: 3rem;
-  padding-right: 3rem;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
-  border-radius: 12px;
-  margin-top: 0.5rem;
-  margin-bottom: 0.5rem;
   color: var(--cs-text-main);
 }
 
-#manifesto {
-  background-color: var(--cs-soft-turquoise);
-  padding-left: 3.75rem;
-  padding-right: 3.75rem;
-  padding-top: 2rem;
-  padding-bottom: 2em;
-  color: var(--cs-text-main);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-}
-
-#products {
-  background-color: var(--cs-soft-turquoise);
-  padding: 2rem 1.5rem;
-  text-align: center;
-}
-
-#newsletter {
-  background-color: var(--cs-turquoise);
+#intro > .wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem;
 }
 
 #intro p.bar {
   text-align: center;
   font-size: 1.1rem;
-  line-height: 0.75;
+  line-height: 1.2;
   color: var(--cs-turquoise-deep);
 }
 
@@ -313,7 +219,7 @@ main {
 }
 
 #intro p:last-of-type {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0;
 }
 
 #intro p a {
@@ -322,13 +228,37 @@ main {
   color: var(--cs-turquoise-deep);
 }
 
-#intro p a:hover {
+#intro p a:hover,
+#intro p a:focus {
   color: var(--cs-turquoise-deeper);
+}
+
+/* =========================================
+   Parallax Scrolling Effect
+========================================= */
+
+.parallax {
+  background-image: url("/assets/images/headers/parallax-background.webp");
+  height: auto;
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  z-index: 1;
 }
 
 /* =========================================
    Manifesto
 ========================================= */
+
+#manifesto {
+  background-color: var(--cs-soft-turquoise);
+  padding: 2rem 3.75rem;
+  color: var(--cs-text-main);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 
 #manifesto h2,
 #manifesto h3 {
@@ -338,18 +268,6 @@ main {
   font-size: 2rem;
   text-align: center;
   color: var(--cs-turquoise-deep);
-}
-
-@media (max-width: 600px) {
-  #manifesto {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
-
-  #manifesto h2 {
-    padding-left: 1rem;
-    padding-right: 1rem;
-  }
 }
 
 #manifesto p {
@@ -370,9 +288,26 @@ main {
   font-size: 1rem;
 }
 
-/* ---------------------------------------
-   PILLARS SECTION
---------------------------------------- */
+@media (max-width: 600px) {
+  #manifesto {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  #manifesto h2 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  #manifesto p {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+/* =========================================
+   Pillars Section
+========================================= */
 
 .pillars-section {
   max-width: 1200px;
@@ -388,34 +323,40 @@ main {
 }
 
 .pillars-intro {
+  max-width: 720px;
+  margin: 0 auto 2rem;
   text-align: center;
   color: #444;
 }
 
-.pillar-section a:last-child {
-  margin-top: 0.5rem;
-  display: inline-block;
-}
-
 .pillars-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 1.5rem;
 }
 
-@media (max-width: 600px) {
-  .pillars-grid {
-    grid-template-columns: 1fr;
-  }
+.pillars-grid a.pillar-card {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.pillars-grid a.pillar-card:hover,
+.pillars-grid a.pillar-card:focus {
+  text-decoration: none;
 }
 
 .pillar-card {
+  height: 100%;
   background: #ffffff;
   border: 1px solid #e1eeec;
   border-radius: 10px;
   padding: 1.5rem;
   text-align: left;
-  transition: all 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
 }
 
 .pillar-card h3 {
@@ -426,56 +367,108 @@ main {
 }
 
 .pillar-card p {
-  margin-bottom: 0.75rem;
+  margin-bottom: 0;
   color: #333;
 }
 
-.pillar-card .more {
-  font-weight: 600;
-  color: #004f4f;
+.pillar-card:hover,
+.pillar-card:focus {
+  transform: translateY(-4px);
+  border-color: var(--cs-turquoise);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
 }
 
-.pillar-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+.pillar-card:hover h3,
+.pillar-card:focus h3 {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.pillars-link {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.pillars-link .more {
+  display: inline-block;
+  font-weight: 700;
+  color: #004f4f;
+  text-decoration: none;
+}
+
+.pillars-link .more:hover,
+.pillars-link .more:focus {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+@media (max-width: 600px) {
+  .pillars-section {
+    margin: 3rem auto;
+    padding: 0 1rem;
+  }
+
+  .pillars-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* =========================================
-   Testimonials
+   Featured Essay
 ========================================= */
-.testimonial {
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-  border-radius: 6px;
+
+#featured-essay {
+  background: var(--cs-white);
+  padding: 0 1rem;
 }
 
-#testimonial h2,
-#testimonial h3 {
+#featured-essay > .wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  text-align: center;
+}
+
+#featured-essay h2 {
   font-size: 2.2rem;
   font-weight: 800;
-  text-align: center;
+  margin-bottom: 0.75rem;
+  color: var(--cs-text-main);
+}
+
+#featured-essay p {
+  font-size: 1.05rem;
+  line-height: 1.55;
+  color: var(--cs-text-muted);
+}
+
+#featured-essay .essays-title {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 1.25rem;
+  font-weight: 700;
   color: var(--cs-turquoise-deep);
+  text-decoration: none;
 }
 
-.testimonial blockquote {
-  margin: 0;
-  font-style: italic;
-}
-
-.testimonial cite {
-  display: block;
-  margin-top: 1rem;
-  font-size: 0.9rem;
-  opacity: 0.7;
+#featured-essay .essays-title:hover,
+#featured-essay .essays-title:focus {
+  color: var(--cs-turquoise-deeper);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 /* =========================================
    Newsletter
 ========================================= */
 
+#newsletter {
+  background-color: var(--cs-turquoise);
+}
+
 #newsletter.full-bleed {
   background-color: var(--cs-turquoise);
-  padding-top: 0em;
+  padding-top: 0;
   padding-bottom: 1rem;
 }
 
@@ -544,7 +537,8 @@ main {
   transition: background 0.25s ease;
 }
 
-#newsletter .newsletter-submit:hover {
+#newsletter .newsletter-submit:hover,
+#newsletter .newsletter-submit:focus {
   background-color: var(--cs-btn-hover);
 }
 
@@ -564,34 +558,43 @@ main {
   #newsletter .newsletter-title {
     font-size: 2.2rem;
   }
+
   #newsletter .newsletter-container {
     padding: 0 1rem;
   }
 }
 
 /* =========================================
-   ESSAYS
+   Recent Essays
 ========================================= */
 
-#essays {
+#recent-essays {
   background: var(--cs-white);
-  padding-left: 1rem;
-  padding-right: 1rem;
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding: 0 1rem;
 }
 
-#essays h2 {
+#recent-essays > .wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+#recent-essays h2 {
   font-size: 2.2rem;
   font-weight: 800;
   text-align: center;
+  margin-bottom: 0.75rem;
+  color: var(--cs-text-main);
 }
 
-#essays > p {
+#recent-essays > .wrapper > p {
   text-align: center;
   font-size: 1.05rem;
-  margin-bottom: 2.5rem;
   color: var(--cs-text-muted);
+}
+
+#recent-essays .essays-recent-intro {
+  margin-bottom: 2rem;
 }
 
 .essays-list {
@@ -602,12 +605,9 @@ main {
 }
 
 .essays-item {
-  padding-left: 0rem;
-  padding-right: 0rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding: 0.75rem 0;
   border-bottom: 1px solid var(--cs-gray-100);
-  transition: background 0.5s ease;
+  transition: background 0.25s ease;
 }
 
 .essays-item:hover {
@@ -624,8 +624,11 @@ main {
   transition: color 0.2s ease;
 }
 
-.essays-title:hover {
+.essays-title:hover,
+.essays-title:focus {
   color: var(--cs-turquoise-deeper);
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 .essays-category {
@@ -637,13 +640,66 @@ main {
 }
 
 .essays-date {
+  display: block;
   font-size: 0.9rem;
   color: var(--cs-gray-600);
+}
+
+.essays-archive-link {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.essays-archive-link a {
+  font-weight: 700;
+}
+
+#recent-essays .newsletter-disclaimer {
+  margin-top: 0.75rem;
+  text-align: center;
+  font-size: 0.95rem;
+  color: var(--cs-gray-600);
+}
+
+/* =========================================
+   Testimonials
+========================================= */
+
+.testimonial {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+  border-radius: 6px;
+}
+
+.testimonial h2,
+.testimonial h3 {
+  font-size: 2.2rem;
+  font-weight: 800;
+  text-align: center;
+  color: var(--cs-turquoise-deep);
+}
+
+.testimonial blockquote {
+  margin: 0;
+  font-style: italic;
+}
+
+.testimonial cite {
+  display: block;
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  opacity: 0.7;
 }
 
 /* =========================================
    Products Section
 ========================================= */
+
+#products {
+  background-color: var(--cs-soft-turquoise);
+  padding: 2rem 1.5rem;
+  text-align: center;
+}
 
 .two-column {
   display: flex;
@@ -682,7 +738,15 @@ main {
   color: var(--cs-turquoise-deeper);
 }
 
-/* Footer social icons */
+@media (max-width: 700px) {
+  .two-column {
+    flex-direction: column;
+  }
+}
+
+/* =========================================
+   Footer
+========================================= */
 
 .page__footer-follow .social-icons {
   display: flex;
@@ -730,7 +794,9 @@ footer a:hover {
   text-underline-offset: 3px;
 }
 
-/* RELATED POSTS */
+/* =========================================
+   Related Posts
+========================================= */
 
 .related-posts {
   margin-top: 3rem;
@@ -765,7 +831,7 @@ footer a:hover {
 }
 
 /* =========================================
-   Breadcrumbs Section
+   Breadcrumbs
 ========================================= */
 
 .breadcrumbs ol {
@@ -785,15 +851,16 @@ footer a:hover {
   color: inherit;
 }
 
-/* TOC container spacing */
-/* TOC wrapper */
+/* =========================================
+   Table of Contents
+========================================= */
+
 .toc,
 .table-of-contents {
   margin: 0;
   padding: 0;
 }
 
-/* "On this page" heading */
 .toc h2,
 .table-of-contents h2 {
   margin: 0 0 0.75rem 0;
@@ -802,23 +869,20 @@ footer a:hover {
   color: inherit;
 }
 
-/* TOC list */
 .toc ul,
 .table-of-contents ul {
   margin: 0;
-  padding-left: 1.25rem; /* controls indent */
-  padding-right: 1.25rem; /* controls indent */
+  padding-left: 1.25rem;
+  padding-right: 1.25rem;
   list-style-type: none;
 }
 
-/* TOC list items */
 .toc li,
 .table-of-contents li {
   margin-left: 0.1rem;
   margin-right: 0.1rem;
 }
 
-/* TOC links – match body text */
 .toc a,
 .table-of-contents a {
   color: black;
@@ -829,12 +893,15 @@ footer a:hover {
   line-height: 1;
 }
 
-/* Optional: subtle hover */
 .toc a:hover,
 .table-of-contents a:hover {
   text-decoration: underline;
 }
-/* Permalinks hidden */
+
+/* =========================================
+   Permalinks
+========================================= */
+
 .header-link {
   opacity: 0;
   margin-left: 6px;

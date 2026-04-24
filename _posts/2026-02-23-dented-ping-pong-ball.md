@@ -23,6 +23,8 @@ preview: |-
   What if the disruption in your life is not a setback, but a redirection?
   In this essay, I reflect on how an unexpected health event forced me to abandon old plans and rebuild from scratch. Through the simple image of a dented ping pong ball, I explore how unpredictability can lead to a deeper, more fulfilling life.
   If you are facing change you did not choose, this is for you.
+
+post_type: essay
 categories:
   - Living a Fulfilling Life
 tags:

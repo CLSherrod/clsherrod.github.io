@@ -3,10 +3,12 @@ title: The Uncomfortable Truth About Self-Help Critics and Gurus
 date: 2026-01-26
 description: The Uncomfortable Truth About Self-Help Critics and Gurus
 preview: The Uncomfortable Truth About Self-Help Critics and Gurus
+
+post_type: essay
 categories:
   - Living a Fulfilling Life
 tags:
-  - 
+  - self-help
 toc: false
 permalink: /the-uncomfortable-truth-about-self-help-gurus/
 published: true

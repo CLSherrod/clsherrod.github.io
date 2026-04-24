@@ -5,6 +5,7 @@ permalink: /stop-optimizing-your-life-and-start-living-it/
 description: "Stop optimizing every part of your life. A more fulfilling life does not come from endless tweaking, but from presence, clarity, and actually living."
 excerpt: "For years, I thought a better life would come from optimizing everything. But the more I tried to perfect my routines, systems, and habits, the less alive I felt. Real fulfillment did not come from better optimization. It came from being present enough to actually live."
 preview: "There comes a point when self-improvement becomes another way to avoid living. This is about crossing that line and coming back to what matters."
+post_type: essay
 categories:
   - Living a Fulfilling Life
 tags:

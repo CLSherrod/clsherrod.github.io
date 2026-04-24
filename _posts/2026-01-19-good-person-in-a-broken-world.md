@@ -3,6 +3,8 @@ title: How to Stay a Good Person in a Broken World
 description: How to Stay a Good Person in a Broken World
 preview: How to Stay a Good Person in a Broken World
 date: 2026-01-19
+
+post_type: essay
 categories:
   - Living a Fulfilling Life
 tags:

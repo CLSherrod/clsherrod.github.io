@@ -7,6 +7,7 @@ description: What Jane Goodall’s final message teaches us about purpose, legac
 preview: What Jane Goodall’s Famous Last Words Teaches Us About Purpose, Legacy, and Never Giving Up
 excerpt: A reflection on Jane Goodall’s final documentary and what it reveals about living with purpose, responsibility, and meaning.
 
+post_type: essay
 categories:
   - Living a Fulfilling Life
 tags:

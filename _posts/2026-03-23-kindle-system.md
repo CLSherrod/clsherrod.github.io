@@ -17,6 +17,7 @@ excerpt: After losing track of a book inside my 800-title Kindle library, I crea
 preview: |-
   I had 800 books and no idea what to read next.
   This system fixed that—and changed how I read.
+post_type: essay
 categories:
   - Living a Fulfilling Life
 tags:

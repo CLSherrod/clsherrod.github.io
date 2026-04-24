@@ -3,6 +3,8 @@ title: Why I’m Not Writing a Year in Review and What I’m Leaving Behind Inst
 description: Why I’m Not Writing a Year in Review and What I’m Leaving Behind Instead
 preview: Why I’m Not Writing a Year in Review and What I’m Leaving Behind Instead
 date: 2026-01-13
+
+post_type: essay
 categories:
   - Living a Fulfilling Life
 tags:

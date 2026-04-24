@@ -3,7 +3,7 @@ layout: splash
 title: "Christopher Sherrod - The Art of Living a Fulfilling Life"
 author_profile: false
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
-tagline: "After multiple seizures forced me to rethink everything, I now help people slow down, simplify, and reclaim their attention"
+tagline: "After multiple seizures forced me to rethink everything, I began helping people slow down, simplify, and reclaim a life that feels like their own."
 description: "Christopher Sherrod is a writer, artist, and fulfilling lifestyle advocate. Discover his essays, poems, and books on living a fulfilling life, unplugging from toxic tech, and doing meaningful creative work."
 keywords:
   [
@@ -26,7 +26,7 @@ header:
   overlay_image: /assets/images/headers/home-header.webp
   image_description: "Reach up to live a fulfilling life."
   actions:
-    - label: "Get the daily note"
+    - label: "Join the daily note"
       url: "/#newsletter"
 ---
 
@@ -54,69 +54,6 @@ header:
     </div>
   </section>
 
-  <!-- Testimonials -->
-  <section class="testimonial">
-    <div class="wrapper testimonial-wrapper">
-      <h2>Readers Say</h2>
-
-      <blockquote>
-        <p>
-          “Love reading your thoughts. Reading your Sunday morning writing feels
-          like having coffee on a quiet terrace with a close friend.”
-        </p>
-        <cite>Pierre, Canada - Reader email, 2026</cite>
-      </blockquote>
-
-      <blockquote>
-        <p>“You write beautifully!”</p>
-        <cite>Albert - Reader email, 2026</cite>
-      </blockquote>
-
-      <blockquote>
-        <p>“This is definitely food for thought...”</p>
-        <cite>Cheryl - Reader email, 2026</cite>
-      </blockquote>
-    </div>
-  </section>
-
-  <!-- Manifesto -->
-  <section id="manifesto" class="full-bleed parallax">
-    <div class="wrapper">
-      <h2>How This Site Approaches Life</h2>
-
-      <p>
-        A fulfilling life doesn’t come from doing more, optimizing harder, or
-        chasing the right framework.
-      </p>
-
-      <p>
-        It comes from removing what overwhelms you and choosing what genuinely
-        matters.
-      </p>
-
-      <p>Most people don’t need a bigger life. They need a clearer one.</p>
-
-      <p>This site is about the quiet work of living well:</p>
-
-      <ul>
-        <li>simplifying without withdrawing</li>
-        <li>creating work that fits your energy and values</li>
-        <li>reducing digital and environmental overwhelm</li>
-        <li>designing routines that don’t collapse under pressure</li>
-      </ul>
-
-      <p>
-        No reinventions. No hype. Just small, honest decisions—repeated
-        daily—until life feels like it belongs to you again.
-      </p>
-
-      <p>
-        If that sounds like the direction you’re moving in, you’re in the right
-        place.
-      </p>
-    </div>
-  </section>
-
   <!-- Pillars -->
   <section id="pillars" class="pillars-section">
     <div class="wrapper">
@@ -127,42 +64,83 @@ header:
       </p>
 
       <div class="pillars-grid">
-        <article class="pillar-card">
-          <h3>Living a Fulfilling Life</h3>
-          <p>
-            Essays on meaning, mortality, attention, and learning to live well
-            without rushing past your own life.
-          </p>
-        </article>
+        <a
+          class="pillar-card"
+          href="{{ '/living-a-fulfilling-life/' | relative_url }}"
+        >
+          <article>
+            <h3>Living a Fulfilling Life</h3>
+            <p>
+              Essays on meaning, mortality, attention, and learning to live well
+              without rushing past your own life.
+            </p>
+          </article>
+        </a>
 
-        <article class="pillar-card">
-          <h3>Work &amp; Entrepreneurship</h3>
-          <p>
-            Clear, no-hype lessons on building work that supports your life
-            instead of consuming it.
-          </p>
-        </article>
+        <a
+          class="pillar-card"
+          href="{{ '/work-entrepreneurship/' | relative_url }}"
+        >
+          <article>
+            <h3>Work &amp; Entrepreneurship</h3>
+            <p>
+              Clear, no-hype lessons on building work that supports your life
+              instead of consuming it.
+            </p>
+          </article>
+        </a>
 
-        <article class="pillar-card">
-          <h3>Creativity &amp; Writing</h3>
-          <p>
-            Thoughts on making things that matter, finishing honestly, and
-            staying creative without burning out.
-          </p>
-        </article>
+        <a
+          class="pillar-card"
+          href="{{ '/creativity-writing/' | relative_url }}"
+        >
+          <article>
+            <h3>Creativity &amp; Writing</h3>
+            <p>
+              Thoughts on making things that matter, finishing honestly, and
+              staying creative without burning out.
+            </p>
+          </article>
+        </a>
 
-        <article class="pillar-card">
-          <h3>Travel &amp; Living Abroad</h3>
-          <p>
-            Reflections on place, belonging, and building a life that feels like
-            home wherever you are.
-          </p>
-        </article>
+        <a
+          class="pillar-card"
+          href="{{ '/travel-living-abroad/' | relative_url }}"
+        >
+          <article>
+            <h3>Travel &amp; Living Abroad</h3>
+            <p>
+              Reflections on place, belonging, and building a life that feels
+              like home wherever you are.
+            </p>
+          </article>
+        </a>
       </div>
 
       <p class="pillars-link">
         <a class="more" href="{{ '/start/#choose-your-path' | relative_url }}">
-          Explore essays by theme →
+          Browse essays by theme →
+        </a>
+      </p>
+    </div>
+  </section>
+
+  <!-- Featured Essay -->
+  <section id="featured-essay" class="full-bleed">
+    <div class="wrapper">
+      <h2>Featured Essay</h2>
+      <p>
+        A good place to begin if you care less about pace and more about whether
+        your life actually feels fulfilling.
+      </p>
+
+      <p>
+        <a
+          class="essays-title"
+          href="{{ '/fulfilled-not-fast-or-slow/' | relative_url }}"
+        >
+          ⭐ Why I Don’t Care About Slow Living or Fast Living — I Care About
+          Feeling Fulfilled
         </a>
       </p>
     </div>
@@ -175,10 +153,8 @@ header:
         <h2 class="newsletter-title">Start Each Day Grounded</h2>
 
         <p class="newsletter-intro">
-          Join me every morning for a brief note that inspires you to live with
-          intention and clarity in today's digital age. Say goodbye to the
-          clutter and distractions. Enjoy a simple, focused idea each day to
-          help you reconnect with what truly matters.
+          Join me each morning for a brief note on living with more clarity,
+          intention, and less distraction.
         </p>
 
         <form
@@ -270,41 +246,27 @@ header:
     })();
   </script>
 
-  <!-- Essays -->
-  <section id="essays" class="full-bleed">
+  <!-- Recent Essays -->
+  <section id="recent-essays" class="full-bleed">
     <div class="wrapper">
-      <h2>My Living Well Essays</h2>
-      <p class="essays-intro">
-        <strong>I've been writing for 26 years.</strong>
-      </p>
-
-      <section class="featured-essay">
-        <h3>Featured Essay</h3>
-        <p>
-          <a
-            class="essays-title"
-            href="{{ '/fulfilled-not-fast-or-slow/' | relative_url }}"
-          >
-            ⭐ Why I Don’t Care About Slow Living or Fast Living — I Care About
-            Feeling Fulfilled
-          </a>
-        </p>
-      </section>
-
-      <h3>Recent Essays on Living Well</h3>
+      <h2>Recent Essays</h2>
       <p class="essays-recent-intro">New writing from the last few weeks:</p>
 
+      {% assign essay_posts = site.posts | where: "post_type", "essay" | sort:
+      "date" | reverse %} {% if essay_posts.size > 0 %}
       <ul class="essays-list">
-        {% assign sorted_posts = site.posts | sort: "date" | reverse %} {% for
-        post in sorted_posts limit: 5 %}
+        {% for post in essay_posts limit: 5 %}
         <li class="essays-item">
           <a class="essays-title" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          <span class="essays-date">{{ post.date | date: "%B %d, %Y" }}</span>
+          <span class="essays-date"> {{ post.date | date: "%B %d, %Y" }} </span>
         </li>
         {% endfor %}
       </ul>
+      {% else %}
+      <p>No essays found yet.</p>
+      {% endif %}
 
       <p class="essays-archive-link">
         Explore
@@ -313,8 +275,23 @@ header:
 
       <p class="newsletter-disclaimer">
         Prefer video? →
-        <a href="/videos"> Watch quiet reflections </a>
+        <a href="{{ '/videos/' | relative_url }}">Watch quiet reflections</a>
       </p>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <section class="testimonial">
+    <div class="wrapper testimonial-wrapper">
+      <h2>Readers Say</h2>
+
+      <blockquote>
+        <p>
+          “Love reading your thoughts. Reading your Sunday morning writing feels
+          like having coffee on a quiet terrace with a close friend.”
+        </p>
+        <cite>Pierre, Canada - Reader email, 2026</cite>
+      </blockquote>
     </div>
   </section>
 </div>
