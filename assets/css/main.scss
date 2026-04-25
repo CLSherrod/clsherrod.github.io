@@ -489,6 +489,13 @@ main {
   background-color: var(--cs-turquoise);
 }
 
+#newsletter .newsletter-container {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 2.5rem 1.5rem 2rem;
+  text-align: center;
+}
+
 #newsletter.full-bleed {
   background-color: var(--cs-turquoise);
   padding-top: 0;
