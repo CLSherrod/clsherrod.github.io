@@ -3,7 +3,7 @@ title: Being Grateful Every Day Changed How I Live
 date: 2025-12-30
 description: I once waited for life to improve before feeling grateful. Living with seizures taught me a different way. This is how daily gratitude changed how I live.
 preview: Gratitude is not a reaction to a good life. It is a daily practice that changes how we meet whatever life brings.
-post_type: poem
+post_type: essay
 categories:
   - Living a Fulfilling Life
 tags:
