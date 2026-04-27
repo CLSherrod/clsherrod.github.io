@@ -28,8 +28,8 @@ I’m finishing [_Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF R
 
 ## What I’m Making
 
-- Redesigning [NanAkasha.com website design](https://nanakasha.com)
-- Writing helpful essays here on what has worked for me in life. See recently published below.
+- Redesigning [NanAkasha.com](https://nanakasha.com)
+- Writing essays on what has worked for me in life, work, and paying closer attention.
 - I'm an artist known as [Chr1stopher](/chr1stopher).
 
 ## Start Here
@@ -38,7 +38,7 @@ I’m finishing [_Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF R
 - [Why I Don’t Care About Slow Living or Fast Living — I Care About Feeling Fulfilled](https://christophersherrod.com/fulfilled-not-fast-or-slow/)
 - [Finding Balance: Why Extreme Mindsets Don’t Lead to Success](https://christophersherrod.com/finding-balance/)
 
-## Recently Writing
+## Recent Writing
 I’m also writing essays on living a fulfilling life, meaningful work, and the quieter changes that make daily life feel more like your own.
 
 - [Why Writing to the People You Love Matters More Than Building an Audience](/writing-to-the-people-you-love/)
@@ -53,7 +53,7 @@ See my [past essays](/essays/)
 ## What I’ve Been Enjoying
 A few things I’ve been enjoying or returning to lately:
 
-- All my past books I’ve read are listed on [my GoodReads profile](https://www.goodreads.com/christophersherrod).
+- All my past books I’ve read are listed on [my Goodreads profile](https://www.goodreads.com/christophersherrod).
 - I recommend the [1001 Albums You Must Hear Before You Die challenge](https://1001albumsgenerator.com/shares/6093ff2a336e5a7f8b50c476). I enjoyed it so much I wrote an [entire essay about it](/1001-albums/).
 - Check out [my profile on Apple Music](https://music.apple.com/profile/clsherrod) where I listen to music.
 - [My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
