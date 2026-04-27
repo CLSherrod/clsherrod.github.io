@@ -24,7 +24,7 @@ Here’s what I’m focused on lately: what I’m building, what I’m writing, 
 
 ## What I’m Focused On
 
-I’m finishing [_Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life - How to Cut EMF Exposure Without Going Off the Grid_](/courses/unplug/-), my course on reducing EMF exposure and rebuilding daily life around clearer choices and better health.
+I’m finishing [_Unplug: The 4-Step Plan to Protect Your Body from Hidden EMF Radiation and Reclaim Your Life - How to Cut EMF Exposure Without Going Off the Grid_](/courses/unplug/), my course on reducing EMF exposure and rebuilding daily life around clearer choices and better health.
 
 ## What I’m Making
 
