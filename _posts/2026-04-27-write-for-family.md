@@ -15,8 +15,8 @@ tags:
   - legacy
   - relationships
   - meaning
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 breadcrumbs: true
 robots: index,follow
 published: true
