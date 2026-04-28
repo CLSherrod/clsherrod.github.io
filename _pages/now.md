@@ -16,7 +16,7 @@ header:
 og_image: /assets/images/now-header.webp
 ---
 
-*Updated on Monday April 27th, 2026.*
+_Updated on {{ site.time | date: "%A, %B %-d, %Y" }}_
 
 Lately I’ve been thinking a lot about how much better life gets when you stop trying to optimize everything and start paying closer attention to what actually nourishes you.
 
@@ -39,18 +39,35 @@ I’m finishing [_Unplug: The 4-Step Plan_](/courses/unplug/), my course on redu
 - [Finding Balance: Why Extreme Mindsets Don’t Lead to Success](https://christophersherrod.com/finding-balance/)
 
 ## Recent Writing
+
 I’m also writing essays on living a fulfilling life, meaningful work, and the quieter changes that make daily life feel more like your own.
 
-- [Why Writing to the People You Love Matters More Than Building an Audience](/writing-to-the-people-you-love/)
-- [Stop Optimizing Your Life and Start Living It](/stop-optimizing-your-life-and-start-living-it/)
-- [The Digital Book Reading System: How I Organized 800 Books and Read More Thoughtfully](/reading-system/)
-- [The Dented Ping Pong Ball and the Beauty of an Unplanned Life](/dented-ping-pong-ball-fulfilling-life/)
-- [The Uncomfortable Truth About Self-Help Critics and Gurus](/the-uncomfortable-truth-about-self-help-gurus/)
-- [How to Stay a Good Person in a Broken World](/good-person-in-a-broken-world/)
+{% assign filtered_posts = site.posts
+  | where_exp: "post", "post.post_type != 'poem'"
+  | where_exp: "post", "post.post_type != 'review'"
+  | where_exp: "post", "post.post_type != 'news'"
+  | where_exp: "post", "post.post_type != 'video'"
+  | sort: "date"
+  | reverse
+%}
+
+<ul class="now-posts-list">
+  {% for post in filtered_posts limit: 5 %}
+    <li class="now-post-item">
+      <a class="now-post-title" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+      </a> -
+      <span class="now-post-date">
+        {{ post.date | date: "%B %d, %Y" }}
+      </span>
+    </li>
+  {% endfor %}
+</ul>
 
 See my [past essays](/essays/)
 
 ## What I’ve Been Enjoying
+
 A few things I’ve been enjoying or returning to lately:
 
 - Books I’ve read over the years are listed on [my Goodreads profile](https://www.goodreads.com/christophersherrod).
@@ -59,4 +76,5 @@ A few things I’ve been enjoying or returning to lately:
 - [My past movie ratings on IMDb](https://www.imdb.com/user/ur119282955/ratings).
 
 ## Join The Daily Note
+
 If you’d like the quieter, ongoing version of this page, join my [daily note](/newsletter/).
