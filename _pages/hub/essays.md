@@ -3,7 +3,7 @@ title: "Essays"
 permalink: /essays/
 
 tagline: "Read essays from Christopher Sherrod."
-layout: posts
+layout: single
 
 author_profile: true
 breadcrumbs: false
@@ -49,6 +49,22 @@ This is where I publish my essays on living a fulfilling life, meaningful work, 
 
 ## Latest Essays
 
-{% assign essay_posts = site.posts | where: "post_type", "essay" | sort: "date" | reverse %}
+{% assign sorted_posts = site.posts | sort: "date" | reverse %}
 
-{% include documents-collection.html entries=essay_posts type="list" %}
+<ul class="essays-list">
+  {% for post in sorted_posts %}
+    {% unless post.post_type == "poem" or post.post_type == "review" or post.post_type == "news" or post.post_type == "video" %}
+      <li class="essays-item">
+        <a class="essays-title" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+
+        <span class="essays-date">
+          {{ post.date | date: "%B %d, %Y" }}
+        </span>
+      </li>
+    {% endunless %}
+
+{% endfor %}
+
+</ul>
