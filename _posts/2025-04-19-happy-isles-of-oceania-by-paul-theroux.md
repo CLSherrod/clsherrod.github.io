@@ -10,6 +10,7 @@ tags:
 permalink: /happy-isles-of-oceania/
 published: true
 toc: false
+post_type: review
 ---
 If you enjoy immersive travel writing with a sharp eye for cultural nuance, [The Happy Isles of Oceania: Paddling the Pacific by Paul Theroux](https://amzn.to/3EwA0JW) is a must-read. This is one of the most enjoyable travel essays I’ve come across in a long time.
 
