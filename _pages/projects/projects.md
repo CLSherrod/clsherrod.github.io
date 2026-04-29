@@ -32,7 +32,7 @@ For me, that purpose is simple:
 
 ## Featured Projects
 
-### [Chr1stopher](https://chr1stopher.com)
+### [Chr1stopher](/chr1stopher/)
 
 Chr1stopher is my art identity.
 
