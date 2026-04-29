@@ -2,7 +2,9 @@
 layout: single
 title: "Markdown CRM: A Simple Plain Text CRM for Managing Relationships"
 permalink: /crm/
-breadcrumbs: true
+breadcrumbs: true  
+breadcrumb_parent_title: Projects  
+breadcrumb_parent_url: /projects/
 read_time: false
 toc: true
 published: true

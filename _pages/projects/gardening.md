@@ -2,8 +2,9 @@
 layout: single
 title: Gardening Project Managment Markdown
 permalink: /gardening/
-breadcrumb_parent_title: Work
-breadcrumb_parent_url: /work/
+breadcrumbs: true  
+breadcrumb_parent_title: Projects  
+breadcrumb_parent_url: /projects/
 toc: true
 published: false
 ---

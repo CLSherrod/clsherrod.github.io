@@ -4,6 +4,10 @@ title: "One Big Text File (OBTF): A Simple System for Thinking, Writing, and Rem
 breadcrumbs: true
 permalink: /obtf/
 
+breadcrumbs: true  
+breadcrumb_parent_title: Projects  
+breadcrumb_parent_url: /projects/
+
 tagline: "A simple, durable way to think, write, and remember — without apps, dashboards, or digital clutter."
 header:
   overlay_image: /assets/images/headers/obtf.webp

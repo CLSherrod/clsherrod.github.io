@@ -2,8 +2,9 @@
 layout: single
 title: Home Manual Markdown
 permalink: /home-manual/
-breadcrumb_parent_title: Work
-breadcrumb_parent_url: /work/
+breadcrumbs: true  
+breadcrumb_parent_title: Projects  
+breadcrumb_parent_url: /projects/
 toc: true
 published: false
 ---
