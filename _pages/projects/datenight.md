@@ -2,7 +2,7 @@
 title: "Date Night Jar: A Simple Tool for More Meaningful Time Together"
 date: 2026-04-27
 layout: single
-permalink: /projects/date-night-jar/
+permalink: /date-night/
 description: "A quiet, simple web app that generates thoughtful date night ideas and deeper connection prompts."
 preview: "A simple tool for meaningful time together."
 breadcrumbs: true
