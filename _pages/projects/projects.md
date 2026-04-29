@@ -56,6 +56,10 @@ Instead of using complex software to track relationships, conversations, and fol
 
 It is built for writers, solo creators, consultants, and independent workers who want less software and more clarity.
 
+### [Date Night Jar](/datenight)
+
+**Date Night Jar** is a simple web app that helps couples spend time together more intentionally. It offers thoughtful date ideas and, when you want it, deeper connection prompts—so the night isn’t just something to do, but something to feel.
+
 ### [WhoDefinesYou](/whodefinesyou/)
 
 WhoDefinesYou was my web business from 1996 to 2019.

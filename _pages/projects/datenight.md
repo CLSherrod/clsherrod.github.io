@@ -14,7 +14,7 @@ header:
   overlay_filter: 0.1
   caption: "Art by [**Chr1stopher**](https://chr1stopher.com)"
 
-published: false
+published: true
 ---
 
 ## The Problem
