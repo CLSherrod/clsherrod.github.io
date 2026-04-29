@@ -6,87 +6,136 @@ permalink: /colophon/
 breadcrumbs: true  
 
 toc: true
-description: About this website and how it was built
-preview: About this website and how it was built
----
-## What Is a Colophon?
 
-A colophon is a note traditionally placed at the end of a book that describes how it was made — the tools used, the design choices, and the thinking behind it.
-
-This page serves the same purpose for this website.
-
-It’s a simple record of how this site is built, why it exists, and the principles guiding its creation.
-
-## About This Site
-
-ChristopherSherrod.com is written and maintained by Christopher Sherrod.
-
-This site is intentionally simple.
-
-I value **clarity over complexity**, **substance over noise**, and **writing that lasts longer than trends**. Everything here is designed to load quickly, read easily, and stay out of the way of the ideas.
-
-There are no ads, no trackers, and no invasive analytics.
-
-I care about attention, privacy, and building things that don’t ask more from you than they give back.
-
-The goal isn’t growth for its own sake — it’s usefulness, calm, and longevity.
-
-If something on this site doesn’t work well for you, I genuinely want to know.
-
-## Philosophy of This Site
-
-This site is built around a simple belief:
-
-**The internet doesn’t need to be louder to be better.**
-
-It doesn’t need infinite scrolling, dark patterns, or constant updates.  
-It needs places that feel grounded, readable, and human.
-
-That’s what I’m aiming for here.
-- Fewer distractions
-- Clear writing
-- Pages that load fast and age well
-- Ideas that respect your time and attention
-
-This site is intentionally small.  
-It’s not optimized for clicks, growth hacks, or engagement metrics.
-
-If you’re reading this years from now, I hope it still feels calm.
-## Writing Process
-
-Most of the writing on this site follows a simple flow:
-- Long-form drafts written in **Obsidian**
-- Edited in plain text
-- Minimal formatting
-- Intentional pacing and spacing
+description: "A behind-the-scenes note on how ChristopherSherrod.com is built, written, maintained, and kept intentionally simple."  
+preview: "How this website is built, written, and maintained."  
+excerpt: "A behind-the-scenes note on the tools, principles, and choices behind ChristopherSherrod.com."  
   
-The goal is clarity, not volume.
-## Essential Content-Creation Tools
+last_modified_at: 2026-04-29
+---
 
-I keep my toolset intentionally small.
-- [Obsidian](https://obsidian.md/) — writing and knowledge management
-- [Zed](https://zed.dev/) — code and site maintenance
-- [Eagle](https://en.eagle.cool/) — image organization and WebP exports
-    
-Speed, simplicity, and low distraction guide every choice.
-## Typography
-
-This site uses two typefaces from [Google Fonts](https://fonts.google.com/):
-- [Archivo Narrow](https://fonts.google.com/specimen/Archivo+Narrow) for headings
-- [Newsreader](https://fonts.google.com/specimen/Newsreader) for body text
-    
-Both are designed for long-form reading and quiet clarity — which suits the purpose of this site.
-## Technical Details
-
-This site is built using:
-- [Jekyll](https://jekyllrb.com/) — static site generator
-- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) — theme foundation
-- [Cloudflare](https://www.cloudflare.com/) — DNS and performance
-- [GitHub Pages](https://pages.github.com/) — hosting
-    
-The site is intentionally lightweight, fast, and easy to maintain.
-
-## Change Log
-
+## What Is a Colophon?  
+  
+A colophon is a note, traditionally placed at the end of a book, that explains how the book was made.  
+  
+This page serves the same purpose for ChristopherSherrod.com.  
+  
+It is a simple record of the tools, design choices, writing process, and principles behind this website.  
+  
+## About This Site  
+  
+ChristopherSherrod.com is written and maintained by me, Christopher Sherrod.  
+  
+The site exists as a home for my essays, books, projects, and long-term body of work around living a fulfilling life.  
+  
+It is intentionally simple.  
+  
+There are no ads, no trackers, no popups, and no invasive analytics. The goal is not to trap your attention. The goal is to offer useful writing in a calm place that respects your time.  
+  
+I value:  
+  
+- Clarity over complexity  
+- Substance over noise  
+- Privacy over surveillance  
+- Longevity over trends  
+- Writing that can still matter years from now  
+  
+The internet does not need to be louder to be better.  
+  
+It needs more places that feel grounded, readable, and human.  
+  
+That is what I am trying to build here.  
+  
+## Why This Site Is Built This Way  
+  
+I believe a personal website should be more than a marketing tool.  
+  
+It should be a durable home.  
+  
+Social platforms change. Algorithms shift. Feeds disappear. But a personal website can remain a steady place where ideas, essays, books, and projects can grow over time.  
+  
+That is why this site is built to be lightweight, readable, and easy to maintain.  
+  
+No unnecessary software.   
+No bloated systems.   
+No complicated publishing ritual.  
+  
+Just words, pages, images, and links — arranged with care.  
+  
+## Writing Process  
+  
+Most of the writing on this site begins in plain text.  
+  
+My usual process is:  
+  
+- Draft in [Obsidian](https://obsidian.md/)  
+- Edit slowly  
+- Remove clutter  
+- Format lightly  
+- Publish as Markdown  
+- Revise when needed  
+  
+I do not write for maximum volume.  
+  
+I write to clarify what I believe, what I have learned, and what may be useful to someone else.  
+  
+The goal is not constant output.  
+  
+The goal is useful work that lasts.  
+  
+## Essential Content-Creation Tools  
+  
+I keep my creative toolset intentionally small.  
+  
+- [Obsidian](https://obsidian.md/) — writing, notes, and idea development  
+- [Zed](https://zed.dev/) — code editing and site maintenance  
+- [Eagle](https://en.eagle.cool/) — image organization and WebP exports  
+- [Descript](https://www.descript.com/) — video and audio editing  
+  
+Every tool has to earn its place.  
+  
+If it creates friction, noise, or unnecessary complexity, I try not to use it.  
+  
+## Typography  
+  
+This site uses two typefaces from [Google Fonts](https://fonts.google.com/):  
+  
+- [Archivo Narrow](https://fonts.google.com/specimen/Archivo+Narrow) for headings  
+- [Newsreader](https://fonts.google.com/specimen/Newsreader) for body text  
+  
+The goal is quiet readability.  
+  
+The typography should support the writing, not call attention to itself.  
+  
+## Technical Details  
+  
+ChristopherSherrod.com is a static website built with:  
+  
+- [Jekyll](https://jekyllrb.com/) — static site generator  
+- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) — theme foundation  
+- [GitHub Pages](https://pages.github.com/) — hosting and deployment  
+- [Cloudflare](https://www.cloudflare.com/) — DNS and performance  
+- Markdown — writing and page structure  
+- WebP — optimized images  
+  
+The site is designed to be fast, portable, and easy to maintain.  
+  
+Because it is static, there is no database to manage, no WordPress dashboard to secure, and very little that can break.  
+  
+That simplicity matters.  
+  
+## Maintenance  
+  
+This site is revised by hand.  
+  
+I update essays, clean up older pages, improve navigation, and remove material that no longer fits the direction of my work.  
+  
+I would rather have a smaller site that reflects my current thinking than a large archive full of pages that no longer belong.  
+  
+## Change Log  
+  
 You can view ongoing updates and revisions here:  
-- [Change Log](/changelog/)
+  
+- [Change Log](/changelog/)  
+  
+_Last updated: April 29, 2026._
