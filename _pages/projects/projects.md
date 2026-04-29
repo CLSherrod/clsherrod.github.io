@@ -32,6 +32,14 @@ For me, that purpose is simple:
 
 ## Featured Projects
 
+### [Chr1stopher](https://chr1stopher.com)
+
+Chr1stopher is my art identity.
+
+This is where I share sacred geometry, op art, visual experiments, and creative work focused on pattern, perception, and the sacred within form.
+
+The work explores beauty, order, mystery, and the quiet intelligence that can be found in repeated shapes and visual rhythm.
+
 ### [OBTF](/obtf/)
 
 OBTF stands for **One Big Text File**.
@@ -40,7 +48,7 @@ It is a simple writing and knowledge-management method built around plain text, 
 
 OBTF is for people who want a calmer, simpler way to collect ideas, write, organize notes, and keep their thinking in one durable place.
 
-### [MarkdownCRM](/markdowncrm/)
+### [MarkdownCRM](/crm/)
 
 MarkdownCRM is an experiment in using plain text and Markdown as a lightweight personal CRM.
 
@@ -50,19 +58,12 @@ It is built for writers, solo creators, consultants, and independent workers who
 
 ### [WhoDefinesYou](/whodefinesyou/)
 
-WhoDefinesYou was my web business from 1996 to 2026.
+WhoDefinesYou was my web business from 1996 to 2019.
 
-For three decades, it helped clients build websites, online stores, digital systems, and independent web presences.
+For 23 years, it helped clients build websites, online stores, digital systems, and independent web presences.
 
 The business is now retired from client work, but I keep the archive online as part of my history. It represents a long season of entrepreneurship, creative service, and helping people make their work visible on the web.
 
-### [Chr1stopher](https://chr1stopher.com)
-
-Chr1stopher is my art identity.
-
-This is where I share sacred geometry, op art, visual experiments, and creative work focused on pattern, perception, and the sacred within form.
-
-The work explores beauty, order, mystery, and the quiet intelligence that can be found in repeated shapes and visual rhythm.
 
 ## Why These Projects Matter
 
