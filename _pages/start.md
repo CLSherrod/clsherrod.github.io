@@ -86,11 +86,12 @@ If you want stories, memory, imagination, and the stranger edges of life, visit 
 
 [Explore Fiction](/fiction/)
 
-### Artist
+### Projects
 
-I'm also a visual artist and soundscape musician using my artist name.
+Beyond writing and teaching, I also maintain a few long-term projects and creative bodies of work — including my art [Chr1topher](/chr1stopher/), focused smart notes system [OBTF](/obtf), plain text customer relationship management system [Markdown CRM](/crm/), and my web agency [Who Defines You](/whodefinesyou/).
 
-[Learn more about Chr1topher](/chr1stopher/)
+[Explore Projects](/projects/)
+
 
 ## About
 

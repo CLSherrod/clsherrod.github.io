@@ -4,7 +4,6 @@ classes: wide
 title: Who Defines You – A Web Agency
 permalink: /whodefinesyou/
 breadcrumbs: true
-breadcrumbs: true  
 breadcrumb_parent_title: Projects  
 breadcrumb_parent_url: /projects/
 header:
@@ -12,7 +11,7 @@ header:
   overlay_filter: 0.1
   image_description: The Internet by Chr1stopher
   caption: Art by [**Chr1stopher**](https://chr1stopher.com)
-og_image: /assets/images/whodefinesyou-header.webp
+og_image: /assets/images/headers/whodefinesyou-header.webp
 ---
 ## A 23-Year Web Agency (Now Retired From Clients)
 

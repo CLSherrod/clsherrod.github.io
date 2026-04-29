@@ -127,12 +127,15 @@ author:
 # Footer
 footer:
   links:
-    - label: "Start"
+    - label: "Start Here"
       icon: "fa-solid fa-home"
       url: "https://christophersherrod.com/start"
     - label: "Essays"
       icon: "fa-solid fa-book"
       url: "https://christophersherrod.com/essays/"
+    - label: "Projects"
+      icon: "fa-solid fa-book"
+      url: "https://christophersherrod.com/projects/"
     - label: "Courses"
       icon: "fa-solid fa-briefcase"
       url: "https://christophersherrod.com/courses/"
