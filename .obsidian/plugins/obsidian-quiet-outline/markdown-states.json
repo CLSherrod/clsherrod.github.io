@@ -14,15 +14,15 @@
     "expandedKeys": []
   },
   "_pages/now.md": {
-    "scroll": 28.187092954410893,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 32,
-        "ch": 21
+        "line": 18,
+        "ch": 0
       },
       "to": {
-        "line": 32,
-        "ch": 21
+        "line": 18,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -84,15 +84,15 @@
     "expandedKeys": []
   },
   "_drafts/Untitled.md": {
-    "scroll": 0,
+    "scroll": 8.125,
     "cursor": {
       "from": {
-        "line": 204,
-        "ch": 50
+        "line": 28,
+        "ch": 38
       },
       "to": {
-        "line": 204,
-        "ch": 50
+        "line": 28,
+        "ch": 38
       }
     },
     "expandedKeys": []
@@ -308,15 +308,15 @@
     "expandedKeys": []
   },
   "_posts/2025-12-30-gratitude.md": {
-    "scroll": 18.029296875,
+    "scroll": 139.69478981645943,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 10
+        "line": 16,
+        "ch": 0
       },
       "to": {
-        "line": 11,
-        "ch": 10
+        "line": 16,
+        "ch": 0
       }
     },
     "expandedKeys": []
@@ -406,15 +406,15 @@
     "expandedKeys": []
   },
   "_posts/2023-10-02-smart-notes.md": {
-    "scroll": 17.416666666666668,
+    "scroll": 3.1666666666666665,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 0
+        "line": 3,
+        "ch": 28
       },
       "to": {
-        "line": 12,
-        "ch": 0
+        "line": 3,
+        "ch": 28
       }
     },
     "expandedKeys": []
@@ -434,29 +434,29 @@
     "expandedKeys": []
   },
   "_pages/start.md": {
-    "scroll": 16.645833333333332,
+    "scroll": 11.75,
     "cursor": {
       "from": {
-        "line": 22,
-        "ch": 9
+        "line": 88,
+        "ch": 12
       },
       "to": {
-        "line": 22,
-        "ch": 9
+        "line": 88,
+        "ch": 12
       }
     },
     "expandedKeys": []
   },
   "_posts/2023-01-17-workflow.md": {
-    "scroll": 70.56897572528123,
+    "scroll": 3.1666666666666665,
     "cursor": {
       "from": {
-        "line": 54,
-        "ch": 143
+        "line": 3,
+        "ch": 28
       },
       "to": {
-        "line": 54,
-        "ch": 143
+        "line": 3,
+        "ch": 28
       }
     },
     "expandedKeys": []
@@ -574,7 +574,7 @@
     "expandedKeys": []
   },
   "_pages/Learn.md": {
-    "scroll": 0,
+    "scroll": 11.25,
     "cursor": {
       "from": {
         "line": 77,
@@ -798,15 +798,15 @@
     "expandedKeys": []
   },
   "_pages/projects/projects.md": {
-    "scroll": 0,
+    "scroll": 60.702473958333336,
     "cursor": {
       "from": {
-        "line": 36,
-        "ch": 58
+        "line": 60,
+        "ch": 242
       },
       "to": {
-        "line": 36,
-        "ch": 58
+        "line": 60,
+        "ch": 242
       }
     },
     "expandedKeys": []
@@ -826,29 +826,29 @@
     "expandedKeys": []
   },
   "_pages/courses/courses.md": {
-    "scroll": 93.93196614583333,
+    "scroll": 16.166666666666668,
     "cursor": {
       "from": {
-        "line": 102,
-        "ch": 49
+        "line": 16,
+        "ch": 18
       },
       "to": {
-        "line": 102,
-        "ch": 49
+        "line": 16,
+        "ch": 18
       }
     },
     "expandedKeys": []
   },
   "_pages/about.md": {
-    "scroll": 41.552093023255814,
+    "scroll": 154.8810641627543,
     "cursor": {
       "from": {
-        "line": 41,
-        "ch": 123
+        "line": 1,
+        "ch": 2
       },
       "to": {
-        "line": 41,
-        "ch": 123
+        "line": 1,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -882,7 +882,7 @@
     "expandedKeys": []
   },
   "_pages/work.md": {
-    "scroll": 17.916666666666668,
+    "scroll": 54.002278645833336,
     "cursor": {
       "from": {
         "line": 66,
@@ -1022,43 +1022,43 @@
     "expandedKeys": []
   },
   "_posts/2026-01-13-new-year-review.md": {
-    "scroll": 10.083333333333334,
+    "scroll": 6.166666666666667,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 10
+        "line": 6,
+        "ch": 16
       },
       "to": {
-        "line": 11,
-        "ch": 10
+        "line": 6,
+        "ch": 16
       }
     },
     "expandedKeys": []
   },
   "_pages/projects/obtf.md": {
-    "scroll": 72.42903645833333,
+    "scroll": 9.104166666666666,
     "cursor": {
       "from": {
-        "line": 90,
-        "ch": 27
+        "line": 9,
+        "ch": 0
       },
       "to": {
-        "line": 90,
-        "ch": 27
+        "line": 9,
+        "ch": 0
       }
     },
     "expandedKeys": []
   },
   "_pages/projects/gardening.md": {
-    "scroll": 0,
+    "scroll": 6.166666666666667,
     "cursor": {
       "from": {
         "line": 6,
-        "ch": 0
+        "ch": 33
       },
       "to": {
         "line": 6,
-        "ch": 0
+        "ch": 33
       }
     },
     "expandedKeys": []
@@ -1092,15 +1092,15 @@
     "expandedKeys": []
   },
   "_posts/2026-01-19-good-person-in-a-broken-world.md": {
-    "scroll": 11.166666666666666,
+    "scroll": 6.166666666666667,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 10
+        "line": 6,
+        "ch": 16
       },
       "to": {
-        "line": 11,
-        "ch": 5
+        "line": 6,
+        "ch": 16
       }
     },
     "expandedKeys": []
@@ -1123,11 +1123,11 @@
     "scroll": 0,
     "cursor": {
       "from": {
-        "line": 13,
+        "line": 14,
         "ch": 0
       },
       "to": {
-        "line": 13,
+        "line": 14,
         "ch": 0
       }
     },
@@ -1330,71 +1330,71 @@
     "expandedKeys": []
   },
   "_pages/uses.md": {
-    "scroll": 9.083333333333334,
+    "scroll": 7.166666666666667,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 0
+        "line": 7,
+        "ch": 16
       },
       "to": {
-        "line": 9,
-        "ch": 0
+        "line": 7,
+        "ch": 16
       }
     },
     "expandedKeys": []
   },
   "_pages/colophon.md": {
-    "scroll": 0,
+    "scroll": 6.875,
     "cursor": {
       "from": {
-        "line": 8,
-        "ch": 0
+        "line": 14,
+        "ch": 3
       },
       "to": {
-        "line": 8,
-        "ch": 0
+        "line": 14,
+        "ch": 3
       }
     },
     "expandedKeys": []
   },
   "_pages/projects/chr1stopher.md": {
-    "scroll": 0,
+    "scroll": 10.166666666666666,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 0
+        "line": 10,
+        "ch": 33
       },
       "to": {
-        "line": 9,
-        "ch": 22
+        "line": 10,
+        "ch": 33
       }
     },
     "expandedKeys": []
   },
   "_posts/2026-01-26-self-help-gurus.md": {
-    "scroll": 9.166666666666666,
+    "scroll": 10.166666666666666,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 10
+        "line": 10,
+        "ch": 13
       },
       "to": {
-        "line": 9,
-        "ch": 10
+        "line": 10,
+        "ch": 13
       }
     },
     "expandedKeys": []
   },
   "_posts/2010-07-28-book-workshop.md": {
-    "scroll": 21.514503090822636,
+    "scroll": 10.020833333333334,
     "cursor": {
       "from": {
-        "line": 13,
-        "ch": 0
+        "line": 10,
+        "ch": 12
       },
       "to": {
-        "line": 13,
-        "ch": 0
+        "line": 10,
+        "ch": 12
       }
     },
     "expandedKeys": []
@@ -1414,29 +1414,29 @@
     "expandedKeys": []
   },
   "_posts/2026-02-02-jane-goodall.md": {
-    "scroll": 19.833333333333332,
+    "scroll": 9.166666666666666,
     "cursor": {
       "from": {
-        "line": 7,
-        "ch": 43
+        "line": 9,
+        "ch": 16
       },
       "to": {
-        "line": 7,
-        "ch": 43
+        "line": 9,
+        "ch": 16
       }
     },
     "expandedKeys": []
   },
   "_templates/Post Template.md": {
-    "scroll": 0,
+    "scroll": 18.104166666666668,
     "cursor": {
       "from": {
-        "line": 26,
-        "ch": 77
+        "line": 15,
+        "ch": 14
       },
       "to": {
-        "line": 26,
-        "ch": 77
+        "line": 15,
+        "ch": 14
       }
     },
     "expandedKeys": []
@@ -1568,7 +1568,7 @@
     "expandedKeys": []
   },
   "_pages/writer.md": {
-    "scroll": 0,
+    "scroll": 10.416666666666666,
     "cursor": {
       "from": {
         "line": 44,
@@ -1596,7 +1596,7 @@
     "expandedKeys": []
   },
   "_drafts/skip/done/2007-06-28-play-prosperity-games-testimonials.md": {
-    "scroll": 0,
+    "scroll": 9.724880382775119,
     "cursor": {
       "from": {
         "line": 10,
@@ -1610,7 +1610,7 @@
     "expandedKeys": []
   },
   "_drafts/skip/done/2007-01-21-prosperity-game-dinner-set.md": {
-    "scroll": 9.73913043478261,
+    "scroll": 9.75,
     "cursor": {
       "from": {
         "line": 10,
@@ -1624,11 +1624,11 @@
     "expandedKeys": []
   },
   "_posts/2007-02-02-another-dozen-ideas-created.md": {
-    "scroll": 21.4375,
+    "scroll": 0,
     "cursor": {
       "from": {
-        "line": 16,
-        "ch": 54
+        "line": 12,
+        "ch": 0
       },
       "to": {
         "line": 12,
@@ -1666,21 +1666,21 @@
     "expandedKeys": []
   },
   "_drafts/write-for-family.md": {
-    "scroll": 4.338541666666667,
+    "scroll": 9.166666666666666,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 0
+        "line": 9,
+        "ch": 16
       },
       "to": {
-        "line": 17,
-        "ch": 0
+        "line": 9,
+        "ch": 16
       }
     },
     "expandedKeys": []
   },
   "_drafts/skip/2008-04-06-money-game.md": {
-    "scroll": 0,
+    "scroll": 2.1373056994818653,
     "cursor": {
       "from": {
         "line": 10,
@@ -1708,14 +1708,14 @@
     "expandedKeys": []
   },
   "_drafts/skip/2010-01-01-play-prosperity-games-launches-today.md": {
-    "scroll": 0,
+    "scroll": 11.669856459330143,
     "cursor": {
       "from": {
-        "line": 14,
+        "line": 12,
         "ch": 0
       },
       "to": {
-        "line": 14,
+        "line": 12,
         "ch": 0
       }
     },
@@ -2058,43 +2058,43 @@
     "expandedKeys": []
   },
   "_pages/404.md": {
-    "scroll": 19.25,
+    "scroll": 26.166666666666668,
     "cursor": {
       "from": {
-        "line": 0,
-        "ch": 0
+        "line": 28,
+        "ch": 23
       },
       "to": {
-        "line": 0,
-        "ch": 0
+        "line": 28,
+        "ch": 23
       }
     },
     "expandedKeys": []
   },
   "_drafts/Politics and Expats.md": {
-    "scroll": 14.666193181818182,
+    "scroll": 13.020833333333334,
     "cursor": {
       "from": {
-        "line": 25,
+        "line": 13,
         "ch": 0
       },
       "to": {
-        "line": 25,
+        "line": 13,
         "ch": 0
       }
     },
     "expandedKeys": []
   },
   "_drafts/Become Your Own Guru.md": {
-    "scroll": 8.345170454545455,
+    "scroll": 14.020833333333334,
     "cursor": {
       "from": {
-        "line": 67,
-        "ch": 67
+        "line": 14,
+        "ch": 51
       },
       "to": {
-        "line": 67,
-        "ch": 67
+        "line": 14,
+        "ch": 51
       }
     },
     "expandedKeys": []
@@ -2128,15 +2128,15 @@
     "expandedKeys": []
   },
   "_posts/2026-02-23-dented-ping-pong-ball.md": {
-    "scroll": 4.104166666666667,
+    "scroll": 27.166666666666668,
     "cursor": {
       "from": {
-        "line": 4,
-        "ch": 0
+        "line": 38,
+        "ch": 14
       },
       "to": {
-        "line": 4,
-        "ch": 0
+        "line": 38,
+        "ch": 20
       }
     },
     "expandedKeys": []
@@ -2170,15 +2170,15 @@
     "expandedKeys": []
   },
   "_posts/2025-10-28-slow-or-fast-living.md": {
-    "scroll": 3.625,
+    "scroll": 11.166666666666666,
     "cursor": {
       "from": {
-        "line": 9,
-        "ch": 10
+        "line": 11,
+        "ch": 15
       },
       "to": {
-        "line": 9,
-        "ch": 10
+        "line": 11,
+        "ch": 15
       }
     },
     "expandedKeys": []
@@ -2408,15 +2408,15 @@
     "expandedKeys": []
   },
   "_pages/bookshop.md": {
-    "scroll": 67.556640625,
+    "scroll": 7.25,
     "cursor": {
       "from": {
-        "line": 67,
-        "ch": 185
+        "line": 69,
+        "ch": 51
       },
       "to": {
-        "line": 67,
-        "ch": 185
+        "line": 69,
+        "ch": 51
       }
     },
     "expandedKeys": []
@@ -2450,29 +2450,29 @@
     "expandedKeys": []
   },
   "_drafts/Organize YouTube Playlists.md": {
-    "scroll": 1.2048192771084338,
+    "scroll": 14.020833333333334,
     "cursor": {
       "from": {
-        "line": 168,
-        "ch": 142
+        "line": 14,
+        "ch": 0
       },
       "to": {
-        "line": 168,
-        "ch": 142
+        "line": 14,
+        "ch": 0
       }
     },
     "expandedKeys": []
   },
   "_pages/work/whodefinesyou.md": {
-    "scroll": 0,
+    "scroll": 1.0208333333333333,
     "cursor": {
       "from": {
-        "line": 53,
-        "ch": 16
+        "line": 1,
+        "ch": 2
       },
       "to": {
-        "line": 53,
-        "ch": 16
+        "line": 1,
+        "ch": 2
       }
     },
     "expandedKeys": []
@@ -2492,57 +2492,57 @@
     "expandedKeys": []
   },
   "_posts/2026-03-23-kindle-system.md": {
-    "scroll": 131.13020833333334,
+    "scroll": 19.166666666666668,
     "cursor": {
       "from": {
-        "line": 131,
-        "ch": 18
+        "line": 19,
+        "ch": 0
       },
       "to": {
-        "line": 131,
-        "ch": 18
+        "line": 19,
+        "ch": 0
       }
     },
     "expandedKeys": []
   },
   "_pages/work/crm.md": {
-    "scroll": 0,
+    "scroll": 4.166666666666667,
     "cursor": {
       "from": {
-        "line": 11,
-        "ch": 0
+        "line": 4,
+        "ch": 17
       },
       "to": {
-        "line": 11,
-        "ch": 0
+        "line": 4,
+        "ch": 17
       }
     },
     "expandedKeys": []
   },
   "_pages/work/obtf.md": {
-    "scroll": 0,
+    "scroll": 6.291666666666667,
     "cursor": {
       "from": {
-        "line": 18,
-        "ch": 0
+        "line": 131,
+        "ch": 69
       },
       "to": {
-        "line": 18,
-        "ch": 0
+        "line": 131,
+        "ch": 69
       }
     },
     "expandedKeys": []
   },
   "_drafts/gaslighting.md": {
-    "scroll": 9.8125,
+    "scroll": 15.020833333333334,
     "cursor": {
       "from": {
-        "line": 23,
-        "ch": 15
+        "line": 15,
+        "ch": 51
       },
       "to": {
-        "line": 1,
-        "ch": 0
+        "line": 15,
+        "ch": 51
       }
     },
     "expandedKeys": []
@@ -2562,14 +2562,14 @@
     "expandedKeys": []
   },
   "_posts/2026-04-13-stop-optimizing.md": {
-    "scroll": 20.154296875,
+    "scroll": 7.166666666666667,
     "cursor": {
       "from": {
-        "line": 89,
-        "ch": 0
+        "line": 7,
+        "ch": 16
       },
       "to": {
-        "line": 89,
+        "line": 7,
         "ch": 0
       }
     },
@@ -2590,15 +2590,15 @@
     "expandedKeys": []
   },
   "_pages/work/fiction.md": {
-    "scroll": 0,
+    "scroll": 12.666666666666666,
     "cursor": {
       "from": {
-        "line": 15,
-        "ch": 0
+        "line": 18,
+        "ch": 15
       },
       "to": {
-        "line": 15,
-        "ch": 0
+        "line": 18,
+        "ch": 15
       }
     },
     "expandedKeys": []
@@ -2618,15 +2618,15 @@
     "expandedKeys": []
   },
   "_pages/work/living-a-fulfilling-life.md": {
-    "scroll": 0,
+    "scroll": 4.166666666666667,
     "cursor": {
       "from": {
-        "line": 17,
-        "ch": 0
+        "line": 4,
+        "ch": 17
       },
       "to": {
-        "line": 17,
-        "ch": 0
+        "line": 4,
+        "ch": 17
       }
     },
     "expandedKeys": []
@@ -2655,6 +2655,888 @@
       "to": {
         "line": 9,
         "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/fiction 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/ocho-remembers.md": {
+    "scroll": 6.583333333333333,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 20
+      },
+      "to": {
+        "line": 2,
+        "ch": 20
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/fiction/fiction.md": {
+    "scroll": 13.75,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 17
+      },
+      "to": {
+        "line": 33,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/fiction/ocho-remembers.md": {
+    "scroll": 15.166666666666666,
+    "cursor": {
+      "from": {
+        "line": 23,
+        "ch": 109
+      },
+      "to": {
+        "line": 23,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/work.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 64,
+        "ch": 115
+      },
+      "to": {
+        "line": 64,
+        "ch": 115
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/courses/unplug.md": {
+    "scroll": 12.166666666666666,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 37
+      },
+      "to": {
+        "line": 12,
+        "ch": 37
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/podroll.md": {
+    "scroll": 5.166666666666667,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 16
+      },
+      "to": {
+        "line": 5,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/courses/Learn.md": {
+    "scroll": 12.166666666666666,
+    "cursor": {
+      "from": {
+        "line": 12,
+        "ch": 16
+      },
+      "to": {
+        "line": 12,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2008-09-07-why-you-are-failing.md": {
+    "scroll": 29.104166666666668,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 76
+      },
+      "to": {
+        "line": 29,
+        "ch": 76
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2011-12-14-why-emotions-are-key-to-your-success.md": {
+    "scroll": 9.166666666666666,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 16
+      },
+      "to": {
+        "line": 9,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2013-06-22-remax-cofounder.md": {
+    "scroll": 9.166666666666666,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 16
+      },
+      "to": {
+        "line": 9,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/work/chr1stopher.md": {
+    "scroll": 9.166666666666666,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 0
+      },
+      "to": {
+        "line": 9,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2000-01-07-atlas-shrugged.md": {
+    "scroll": 14.145833333333334,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 12
+      },
+      "to": {
+        "line": 8,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/growth-vs-escapism.md": {
+    "scroll": 15.020833333333334,
+    "cursor": {
+      "from": {
+        "line": 15,
+        "ch": 51
+      },
+      "to": {
+        "line": 15,
+        "ch": 51
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/essays/category-work.md": {
+    "scroll": 0.099609375,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 0
+      },
+      "to": {
+        "line": 17,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/essays/category-travel.md": {
+    "scroll": 9.260416666666666,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 0
+      },
+      "to": {
+        "line": 17,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/essays/category-fulfilling-life.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 0
+      },
+      "to": {
+        "line": 17,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/essays/category-creativity.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 17,
+        "ch": 0
+      },
+      "to": {
+        "line": 17,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/essays/essays.md": {
+    "scroll": 27.081380208333332,
+    "cursor": {
+      "from": {
+        "line": 8,
+        "ch": 0
+      },
+      "to": {
+        "line": 8,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/2026-04-19-unplug-edited-video.md": {
+    "scroll": 25.38040260509177,
+    "cursor": {
+      "from": {
+        "line": 29,
+        "ch": 328
+      },
+      "to": {
+        "line": 29,
+        "ch": 328
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-04-19-unplug-edited-video.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 26,
+        "ch": 0
+      },
+      "to": {
+        "line": 29,
+        "ch": 314
+      }
+    },
+    "expandedKeys": []
+  },
+  "README.md": {
+    "scroll": 1.1041666666666667,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 97
+      },
+      "to": {
+        "line": 2,
+        "ch": 97
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/Video Template.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 0
+      },
+      "to": {
+        "line": 31,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/2026-04-19-video.md": {
+    "scroll": 35.104166666666664,
+    "cursor": {
+      "from": {
+        "line": 35,
+        "ch": 80
+      },
+      "to": {
+        "line": 35,
+        "ch": 80
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-04-19-video.md": {
+    "scroll": 35.104166666666664,
+    "cursor": {
+      "from": {
+        "line": 35,
+        "ch": 80
+      },
+      "to": {
+        "line": 35,
+        "ch": 80
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-04-19-unplug-edited.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 15
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/skip/a-travel/2007-08-04-lighting-spectacle.md": {
+    "scroll": 10.726190476190476,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2008-03-23-good-news.md": {
+    "scroll": 7.5,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 15
+      },
+      "to": {
+        "line": 11,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/skip/2010-04-06-quoted-fox-small-business.md": {
+    "scroll": 21.552083333333332,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/skip/2010-09-17-im-on-cnn-radio-today-discussing-branding-yourself-online.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 0
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2006-02-19-who-defines-you-launched.md": {
+    "scroll": 8.020833333333334,
+    "cursor": {
+      "from": {
+        "line": 5,
+        "ch": 3
+      },
+      "to": {
+        "line": 5,
+        "ch": 3
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2024-01-19-feeney-tribute.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 28,
+        "ch": 150
+      },
+      "to": {
+        "line": 28,
+        "ch": 150
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/skip/2010-10-13-play-prosperity-games-is-on-kindle.md": {
+    "scroll": 10.020833333333334,
+    "cursor": {
+      "from": {
+        "line": 10,
+        "ch": 12
+      },
+      "to": {
+        "line": 10,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/skip/2007-03-05-prosperity-games-dinner-party.md": {
+    "scroll": 9.020833333333334,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 12
+      },
+      "to": {
+        "line": 9,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/skip/2007-01-21-prosperity-game-dinner-set.md": {
+    "scroll": 9.020833333333334,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 12
+      },
+      "to": {
+        "line": 9,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/skip/2008-11-22-prosperity-games-testimonials.md": {
+    "scroll": 9.020833333333334,
+    "cursor": {
+      "from": {
+        "line": 9,
+        "ch": 12
+      },
+      "to": {
+        "line": 9,
+        "ch": 12
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2008-11-21-welcome.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 15
+      },
+      "to": {
+        "line": 4,
+        "ch": 15
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/hub/videos.md": {
+    "scroll": 9.291666666666666,
+    "cursor": {
+      "from": {
+        "line": 28,
+        "ch": 11
+      },
+      "to": {
+        "line": 28,
+        "ch": 11
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/Review Template.md": {
+    "scroll": 24.166666666666668,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 31
+      },
+      "to": {
+        "line": 24,
+        "ch": 31
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/News Template.md": {
+    "scroll": 24.166666666666668,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 28
+      },
+      "to": {
+        "line": 24,
+        "ch": 28
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/Essay Template.md": {
+    "scroll": 23.25,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/Essay Template 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_templates/Poems Template.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 24,
+        "ch": 29
+      },
+      "to": {
+        "line": 24,
+        "ch": 29
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/essays/year-archive.md": {
+    "scroll": 7.666666666666667,
+    "cursor": {
+      "from": {
+        "line": 14,
+        "ch": 62
+      },
+      "to": {
+        "line": 10,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-04-19-unplug-edited-video 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-19-unplug-edited-video 1.md": {
+    "scroll": 27.916666666666668,
+    "cursor": {
+      "from": {
+        "line": 36,
+        "ch": 0
+      },
+      "to": {
+        "line": 36,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-19-making-unplug-video.md": {
+    "scroll": 3.6666666666666665,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 16
+      },
+      "to": {
+        "line": 2,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-15-making-unplug-video.md": {
+    "scroll": 6.666666666666667,
+    "cursor": {
+      "from": {
+        "line": 2,
+        "ch": 16
+      },
+      "to": {
+        "line": 2,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-03-15-making-unplug-video 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-02-27-what-emf-did-video 1.md": {
+    "scroll": 1.2916666666666667,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-02-27-what-emf-did-video.md": {
+    "scroll": 10.9375,
+    "cursor": {
+      "from": {
+        "line": 33,
+        "ch": 42
+      },
+      "to": {
+        "line": 33,
+        "ch": 42
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/hub/category-fulfilling-life.md": {
+    "scroll": 2.59375,
+    "cursor": {
+      "from": {
+        "line": 16,
+        "ch": 0
+      },
+      "to": {
+        "line": 16,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/essays/category-archive.md": {
+    "scroll": 6.166666666666667,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 23
+      },
+      "to": {
+        "line": 4,
+        "ch": 23
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-04-27-write-for-family.md": {
+    "scroll": 18.166666666666668,
+    "cursor": {
+      "from": {
+        "line": 18,
+        "ch": 17
+      },
+      "to": {
+        "line": 18,
+        "ch": 17
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2024-08-14-business-ai.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/projects/whodefinesyou.md": {
+    "scroll": 13.166666666666666,
+    "cursor": {
+      "from": {
+        "line": 7,
+        "ch": 33
+      },
+      "to": {
+        "line": 6,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/projects/home-manual.md": {
+    "scroll": 6.166666666666667,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 33
+      },
+      "to": {
+        "line": 6,
+        "ch": 33
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/projects/crm.md": {
+    "scroll": 6.166666666666667,
+    "cursor": {
+      "from": {
+        "line": 6,
+        "ch": 33
+      },
+      "to": {
+        "line": 6,
+        "ch": 33
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/copyright.md": {
+    "scroll": 13.854166666666666,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/projects/whodefinesyou 1.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 0,
+        "ch": 0
+      },
+      "to": {
+        "line": 0,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_pages/projects/datenight.md": {
+    "scroll": 4.166666666666667,
+    "cursor": {
+      "from": {
+        "line": 4,
+        "ch": 16
+      },
+      "to": {
+        "line": 4,
+        "ch": 16
+      }
+    },
+    "expandedKeys": []
+  },
+  "_drafts/202605020936.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 31,
+        "ch": 0
+      },
+      "to": {
+        "line": 31,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
+  },
+  "_posts/2026-05-02-no-words.md": {
+    "scroll": 39.9375,
+    "cursor": {
+      "from": {
+        "line": 39,
+        "ch": 28
+      },
+      "to": {
+        "line": 39,
+        "ch": 28
       }
     },
     "expandedKeys": []
