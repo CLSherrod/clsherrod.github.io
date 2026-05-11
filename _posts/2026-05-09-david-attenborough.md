@@ -34,14 +34,13 @@ That alone is impressive.
 
 But what makes his life remarkable is not just the number of years. It is what he did with them.
 
-He spent his life paying attention.
-
-To animals.  
-To forests.  
-To oceans.  
-To insects.  
-To birds.  
-To the strange, beautiful, fragile life all around us.
+He spent his life paying attention:
+- To animals.  
+- To forests.  
+- To oceans.  
+- To insects.  
+- To birds.  
+- To the strange, beautiful, fragile life all around us.
 
 And then he helped the rest of us pay attention too.
 
@@ -109,10 +108,10 @@ We love overnight success stories because they are easy to sell.
 
 But most real success is boring from the outside.
 
-It is years of showing up.  
-Years of learning.  
-Years of improving.  
-Years of doing the work when no one is clapping.
+- It is years of showing up.  
+- Years of learning.  
+- Years of improving.  
+- Years of doing the work when no one is clapping.
 
 David Attenborough’s legacy was not created in one documentary, one speech, or one famous television moment. It was built across a lifetime.
 
@@ -148,14 +147,14 @@ That is a beautiful model for a fulfilling life.
 
 You do not have to become small. But you do need to serve something larger than your own ego.
 
-A family.  
-A craft.  
-A body of work.  
-A community.  
-A spiritual path.  
-A mission.  
-A landscape.  
-A truth.
+- A family. 
+- A craft.  
+- A body of work.  
+- A community.  
+- A spiritual path. 
+- A mission.  
+- A landscape.  
+- A truth.
 
 When your life is only about you, it gets cramped.
 
@@ -197,11 +196,9 @@ The world changed. The evidence became harder to ignore. The damage became clear
 
 That is another lesson for living well.
 
-You are allowed to grow.
-
-You are allowed to change your mind.
-
-You are allowed to become more serious about things you once treated lightly.
+- You are allowed to grow.
+- You are allowed to change your mind.
+- You are allowed to become more serious about things you once treated lightly.
 
 A fulfilling life is not about having one fixed opinion forever. It is about staying honest as your understanding expands.
 
@@ -219,10 +216,10 @@ A lot of people say they want to leave a legacy.
 
 But they do not want to do the daily work that creates one.
 
-They want the book without the writing.  
-The reputation without the years.  
-The impact without the discipline.  
-The harvest without planting anything.
+- They want the book without the writing.  
+- The reputation without the years.  
+- The impact without the discipline.  
+- The harvest without planting anything.
 
 David Attenborough’s life shows the opposite.
 
@@ -233,11 +230,11 @@ Legacy is built by doing your work, again and again, in service of something tha
 You do not need to be famous to leave a legacy.
 
 You can leave a legacy through how you loved.  
-How you taught.  
-How you treated people.  
-How you created.  
-How you lived your values.  
-How you made one small corner of the world better.
+- How you taught.  
+- How you treated people.  
+- How you created.  
+- How you lived your values.  
+- How you made one small corner of the world better.
 
 But you do have to live in a way that leaves something behind.
 
