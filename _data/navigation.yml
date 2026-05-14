@@ -5,8 +5,6 @@ main:
     url: /essays/
   - title: "Courses"
     url: /courses/
-  - title: "Fiction"
-    url: /fiction/
   - title: "About"
     url: /about/
   - title: "Newsletter"
