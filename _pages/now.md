@@ -28,7 +28,6 @@ I’m finishing [_Unplug: The 4-Step Plan_](/courses/unplug/), my course on redu
 
 ## What I’m Making
 
-- Redesigning [NanAkasha.com](https://nanakasha.com)
 - Writing essays on what has worked for me in life, work, and paying closer attention.
 - I'm an artist known as [Chr1stopher](/chr1stopher).
 

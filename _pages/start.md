@@ -80,12 +80,6 @@ If you want practical guidance and a more structured way to learn, explore my co
 
 [View Courses](/courses/)
 
-### Fiction
-
-If you want stories, memory, imagination, and the stranger edges of life, visit the fiction section.
-
-[Explore Fiction](/fiction/)
-
 ### Projects
 
 Beyond writing and teaching, I also maintain a few long-term projects and creative bodies of work — including my art [Chr1topher](/chr1stopher/), focused smart notes system [OBTF](/obtf), plain text customer relationship management system [Markdown CRM](/crm/), and my web agency [Who Defines You](/whodefinesyou/).
