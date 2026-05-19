@@ -1,17 +1,13 @@
 ---
 title: "Your Wish Is Your Command Review: The Best Personal Development Book I’ve Read"
-
-
 tagline: "A big, repetitive, story-driven book that keeps bringing you back to the lesson that matters: choose one aim, believe it, and live it."
 date: 2026-05-13
 layout: single
 permalink: /your-wish-is-your-command-review/
 published: true
-
-description: "My review of Your Wish Is Your Command by Kevin Trudeau, a big, repetitive, story-driven personal development book that I plan to study and return to often."
-excerpt: "Your Wish Is Your Command may be the best personal development book I’ve read. It is big, repetitive, and full of stories — but that repetition is part of why the message lands."
-preview: "A personal review of Your Wish Is Your Command by Kevin Trudeau and why I’m treating it as a book to study, not just read once."
-
+description: My review of Your Wish Is Your Command by Kevin Trudeau, a big, repetitive, story-driven personal development book that I plan to study and return to often.
+excerpt: Your Wish Is Your Command may be the best personal development book I’ve read. It is big, repetitive, and full of stories — but that repetition is part of why the message lands.
+preview: A personal review of Your Wish Is Your Command by Kevin Trudeau and why I’m treating it as a book to study, not just read once.
 post_type: review
 categories:
   - Living a Fulfilling Life
@@ -21,16 +17,10 @@ tags:
   - success
   - mindset
   - life-lessons
- 
 breadcrumbs: true
 breadcrumb_parent_title: Reviews
 breadcrumb_parent_url: /reviews/
-
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
-image:
-  path: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
-  alt: "Christopher Sherrod"
-
 read_time: true
 toc: false
 toc_sticky: false

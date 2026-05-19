@@ -19,13 +19,7 @@ tags:
 breadcrumbs: true
 breadcrumb_parent_title: Essays
 breadcrumb_parent_url: /essays/
-teaser: /assets/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
-image:
-  path: /assets/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
-  alt: ""
-header:
-  image: /assets/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
-  image_description: ""
+teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
 toc: false
 toc_sticky: false
 robots: index,follow
