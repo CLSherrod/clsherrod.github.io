@@ -2,299 +2,1284 @@
 layout: splash
 title: "Christopher Sherrod - The Art of Living a Fulfilling Life"
 author_profile: false
+toc: false
+classes: wide
 teaser: /assets/images/teasers/christopher-sherrod-essays-fulfilling-life-wide.webp
-tagline: "After multiple seizures forced me to rethink everything, I began helping people slow down, simplify, and reclaim a life that feels like their own."
-description: "Christopher Sherrod is a writer, artist, and fulfilling lifestyle advocate. Discover his essays, poems, and books on living a fulfilling life, unplugging from toxic tech, and doing meaningful creative work."
+tagline: "Essays, notes, courses, and stories about slowing down, paying attention, and building a life with fewer regrets."
+description: "Christopher Sherrod is a writer, artist, and fulfilling lifestyle advocate sharing essays, notes, courses, and stories about slowing down, living with intention, unplugging from toxic tech, and doing meaningful creative work."
 keywords:
   [
     "Christopher Sherrod",
+    "living a fulfilling life",
     "slow living",
     "electromagnetic sensitivity",
     "fulfilling life",
     "creative entrepreneurship",
     "international living",
-    "expat lifestyle",
     "digital detox",
     "meaningful work",
   ]
 author: "Christopher Sherrod"
 robots: index, follow
 canonical_url: "https://christophersherrod.com/"
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.1"
-  overlay_image: /assets/images/headers/home-header.webp
-  image_description: "Reach up to live a fulfilling life."
-  actions:
-    - label: "Join the daily note"
-      url: "/#newsletter"
 ---
 
-<div class="page__content">
-  <!-- Intro -->
-  <section id="intro" class="full-bleed">
-    <div class="wrapper">
-      <p class="bar">Read in 40+ countries • 26 years of essays</p>
+<style>
+  .cs-home-publication {
+    --cs-ink: #17202a;
+    --cs-text: #263442;
+    --cs-muted: #62707f;
+    --cs-soft: #f8f6f1;
+    --cs-pale: #eef7f6;
+    --cs-card: #ffffff;
+    --cs-line: #e4ded4;
+    --cs-accent: #138b8d;
+    --cs-accent-dark: #0a6c6f;
+    --cs-shadow: 0 18px 50px rgba(23, 32, 42, 0.07);
 
-      <p>
-        I write for people who feel quietly overwhelmed by modern life—not
-        because they’re broken, but because life has become louder and more
-        demanding than it needs to be.
-      </p>
+    color: var(--cs-text);
+    font-size: 1rem;
+  }
 
-      <p>
-        This site is about clear attention, honest priorities, and fewer
-        regrets—through small decisions, repeated daily, until life feels like
-        yours again.
-      </p>
+  .cs-home-publication * {
+    box-sizing: border-box;
+  }
 
-      <p>If you want days that nourish instead of deplete you, start here.</p>
+  .cs-home-publication a {
+    color: var(--cs-accent-dark);
+    text-decoration: none;
+  }
 
-      <p>→ <a href="{{ '/start/' | relative_url }}">Read my full story</a></p>
-    </div>
-  </section>
+  .cs-home-publication a:hover {
+    color: var(--cs-accent);
+    text-decoration: underline;
+  }
 
-  <!-- Pillars -->
-  <section id="pillars" class="pillars-section">
-    <div class="wrapper">
-      <h2>Explore the Four Pillars</h2>
-      <p class="pillars-intro">
-        These are the four places where a fulfilling life is actually lived—not
-        in theory, but in daily choices.
-      </p>
+  .cs-home-publication p {
+    color: var(--cs-muted);
+    line-height: 1.62;
+  }
 
-      <div class="pillars-grid">
-        <a
-          class="pillar-card"
-          href="{{ '/living-a-fulfilling-life/' | relative_url }}"
-        >
-          <article>
-            <h3>Living a Fulfilling Life</h3>
-            <p>
-              Essays on meaning, mortality, attention, and learning to live well
-              without rushing past your own life.
-            </p>
-          </article>
-        </a>
+  .cs-wrap {
+    width: min(1120px, calc(100% - 2rem));
+    margin-inline: auto;
+  }
 
-        <a
-          class="pillar-card"
-          href="{{ '/work-entrepreneurship/' | relative_url }}"
-        >
-          <article>
-            <h3>Work &amp; Entrepreneurship</h3>
-            <p>
-              Clear, no-hype lessons on building work that supports your life
-              instead of consuming it.
-            </p>
-          </article>
-        </a>
+  .cs-sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
 
-        <a
-          class="pillar-card"
-          href="{{ '/creativity-writing/' | relative_url }}"
-        >
-          <article>
-            <h3>Creativity &amp; Writing</h3>
-            <p>
-              Thoughts on making things that matter, finishing honestly, and
-              staying creative without burning out.
-            </p>
-          </article>
-        </a>
+  .cs-section-title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-bottom: 1.25rem;
+  }
 
-        <a
-          class="pillar-card"
-          href="{{ '/travel-living-abroad/' | relative_url }}"
-        >
-          <article>
-            <h3>Travel &amp; Living Abroad</h3>
-            <p>
-              Reflections on place, belonging, and building a life that feels
-              like home wherever you are.
-            </p>
-          </article>
-        </a>
-      </div>
+  .cs-section-title-row h2,
+  .cs-home-publication h2 {
+    margin: 0;
+    color: var(--cs-ink);
+    font-size: clamp(1.55rem, 2.35vw, 2.15rem);
+    line-height: 1.15;
+    letter-spacing: -0.035em;
+  }
 
-      <p class="pillars-link">
-        <a class="more" href="{{ '/start/#choose-your-path' | relative_url }}">
-          Browse essays by theme →
-        </a>
-      </p>
-    </div>
-  </section>
+  .cs-small-link {
+    color: var(--cs-accent-dark);
+    font-size: 0.92rem;
+    font-weight: 800;
+    white-space: nowrap;
+  }
 
-  <!-- Featured Essay -->
-  <section id="featured-essay" class="full-bleed">
-    <div class="wrapper">
-      <h2>Featured Essay</h2>
-      <p class="featured-essay-intro">
-        A good place to begin if you care less about pace and more about whether
-        your life actually feels fulfilling.
-      </p>
+  .cs-button,
+  .cs-home-publication input[type="submit"] {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 3rem;
+    padding: 0.78rem 1.15rem;
+    border: 0;
+    border-radius: 0.25rem;
+    background: var(--cs-accent-dark);
+    color: #fff !important;
+    font-size: 0.92rem;
+    font-weight: 800;
+    line-height: 1;
+    text-decoration: none !important;
+    cursor: pointer;
+    transition:
+      background 160ms ease,
+      transform 160ms ease;
+  }
 
-      <div class="featured-essay-card">
-        <a
-          class="featured-essay-title"
-          href="{{ '/fulfilled-not-fast-or-slow/' | relative_url }}"
-        >
-          Why I Don’t Care About Slow Living or Fast Living — I Care About
-          Feeling Fulfilled
-        </a>
-      </div>
-    </div>
-  </section>
+  .cs-button:hover,
+  .cs-home-publication input[type="submit"]:hover {
+    background: var(--cs-accent);
+    transform: translateY(-1px);
+  }
 
-  <!-- Newsletter -->
-  <section id="newsletter" class="full-bleed turquoise-banner">
-    <div class="wrapper">
-      <div class="newsletter-container">
-        <h2 class="newsletter-title">Start Each Day Grounded</h2>
+  .cs-newsletter-form {
+    position: relative;
+  }
 
-        <p class="newsletter-intro">
-          Join me each morning for a brief note on living with more clarity,
-          intention, and less distraction.
+  .cs-newsletter-inline {
+    display: grid;
+    grid-template-columns: minmax(140px, 0.8fr) minmax(180px, 1fr);
+    gap: 0.7rem;
+    max-width: 560px;
+  }
+
+  .cs-newsletter-inline input[type="text"],
+  .cs-newsletter-inline input[type="email"] {
+    width: 100%;
+    min-height: 3rem;
+    padding: 0.75rem 0.95rem;
+    border: 1px solid var(--cs-line);
+    border-radius: 0.25rem;
+    background: #fff;
+    color: var(--cs-text);
+    font-size: 0.95rem;
+  }
+
+  .cs-newsletter-inline input[type="text"]:focus,
+  .cs-newsletter-inline input[type="email"]:focus {
+    outline: 2px solid rgba(19, 139, 141, 0.18);
+    border-color: rgba(19, 139, 141, 0.65);
+  }
+
+  .cf-honeypot-wrapper {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+
+  .cs-hero-form {
+    grid-template-columns: minmax(180px, 1fr) auto;
+    max-width: 560px;
+  }
+
+  .cs-hero-form #hero-name {
+    grid-column: 1 / -1;
+  }
+
+  .cs-hero-form input[type="submit"] {
+    grid-column: 2;
+    justify-self: stretch;
+    min-width: 210px;
+  }
+
+  .cs-footer-form {
+    display: grid;
+    grid-template-columns: minmax(140px, 0.8fr) minmax(180px, 1fr);
+    gap: 0.7rem;
+    max-width: 560px;
+  }
+
+  .cs-footer-form input[type="submit"] {
+    grid-column: 1 / -1;
+    justify-self: start;
+    min-width: 220px;
+  }
+
+  /* Hero */
+
+  .cs-hero {
+    width: 100vw;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+    border-bottom: 1px solid var(--cs-line);
+    background:
+      radial-gradient(
+        circle at 56% 48%,
+        rgba(248, 246, 241, 0.12),
+        rgba(248, 246, 241, 0) 28%
+      ),
+      linear-gradient(90deg, #fff 0%, #fff 45%, #f2f6f5 100%);
+  }
+
+  .cs-hero-grid {
+    width: min(100%, 1440px);
+    margin-inline: auto;
+    display: grid;
+    grid-template-columns: minmax(0, 1.14fr) minmax(340px, 0.86fr);
+    min-height: clamp(420px, 68vh, 500px);
+    align-items: stretch;
+  }
+
+  .cs-hero-copy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 690px;
+    padding-top: clamp(2rem, 4vw, 3.4rem);
+    padding-right: clamp(2rem, 3.5vw, 3rem);
+    padding-bottom: clamp(2rem, 4vw, 3.4rem);
+    padding-left: max(1.5rem, calc((100vw - 1120px) / 2));
+  }
+
+  .cs-hero h1 {
+    max-width: 620px;
+    margin: 0 0 1rem;
+    color: var(--cs-ink);
+    font-size: clamp(2.2rem, 4.8vw, 3.8rem);
+    line-height: 0.95;
+    letter-spacing: -0.05em;
+  }
+
+  .cs-hero-deck {
+    max-width: 560px;
+    margin: 0 0 0.85rem;
+    color: var(--cs-text) !important;
+    font-size: clamp(1.02rem, 1.55vw, 1.22rem);
+    line-height: 1.45 !important;
+  }
+
+  .cs-hero-intro {
+    max-width: 540px;
+    margin: 0 0 1.15rem;
+    color: var(--cs-text) !important;
+    font-size: 1rem;
+  }
+
+  .cs-hero-small-intro {
+    max-width: 540px;
+    font-size: 0.96rem;
+    line-height: 1.55 !important;
+  }
+
+  .cs-form-note {
+    max-width: 480px;
+    margin: 0.85rem 0 0;
+    color: var(--cs-muted);
+    font-size: 0.82rem;
+    line-height: 1.45;
+  }
+
+  .cs-no-spam-note {
+    color: var(--cs-muted);
+    font-size: 0.72rem;
+    line-height: 1.35;
+  }
+
+  .cs-form-note .cs-no-spam-note {
+    display: block;
+    margin-top: 0.15rem;
+  }
+
+  .cs-hero-image {
+    margin-right: 0;
+    position: relative;
+    display: flex;
+    align-items: stretch;
+    min-height: clamp(420px, 68vh, 500px);
+    overflow: hidden;
+  }
+
+  .cs-hero-image::before {
+    content: "";
+    position: absolute;
+    inset: 0 auto 0 0;
+    z-index: 2;
+    width: 34%;
+    background: linear-gradient(
+      90deg,
+      #fff 0%,
+      rgba(255, 255, 255, 0.88) 25%,
+      rgba(255, 255, 255, 0) 100%
+    );
+    pointer-events: none;
+  }
+
+  .cs-hero-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    min-height: clamp(420px, 68vh, 500px);
+    object-fit: cover;
+    object-position: center center;
+  }
+
+  /* Latest essay */
+
+  .cs-latest-essay {
+    padding: clamp(2.8rem, 6vw, 4.8rem) 0;
+    background: #fff;
+  }
+
+  .cs-latest-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1.42fr) minmax(310px, 0.72fr);
+    gap: clamp(1.6rem, 4vw, 2.4rem);
+    align-items: start;
+  }
+
+  .cs-feature-essay-card {
+    display: flex;
+    align-items: center;
+    min-height: 340px;
+    overflow: hidden;
+    border: 1px solid var(--cs-line);
+    background: var(--cs-card);
+    box-shadow: var(--cs-shadow);
+  }
+
+  .cs-feature-essay-copy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: clamp(1.4rem, 3vw, 2.2rem);
+  }
+
+  .cs-date {
+    display: block;
+    margin-bottom: 0.8rem;
+    color: var(--cs-muted);
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .cs-feature-essay-copy h3 {
+    margin: 0 0 1rem;
+    color: var(--cs-ink);
+    font-size: clamp(1.75rem, 3vw, 2.7rem);
+    line-height: 1.04;
+    letter-spacing: -0.04em;
+  }
+
+  .cs-feature-essay-copy h3 a {
+    color: var(--cs-ink);
+  }
+
+  .cs-feature-essay-copy p {
+    margin: 0 0 1.1rem;
+    color: var(--cs-text);
+    font-size: 0.95rem;
+  }
+
+  .cs-read-link {
+    font-weight: 800;
+  }
+
+  .cs-recent-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-top: 1px solid var(--cs-line);
+  }
+
+  .cs-recent-list li {
+    border-bottom: 1px solid var(--cs-line);
+  }
+
+  .cs-recent-list a {
+    display: block;
+    padding: 1.15rem 0;
+    text-decoration: none !important;
+  }
+
+  .cs-recent-list h3 {
+    margin: 0;
+    color: var(--cs-ink);
+    font-size: 1.08rem;
+    line-height: 1.2;
+  }
+
+  .cs-recent-list .cs-date {
+    margin-bottom: 0.35rem;
+    font-size: 0.68rem;
+  }
+
+  /* Featured course */
+
+  .cs-course-band {
+    padding: clamp(2.2rem, 5vw, 3.4rem) 0;
+    border-block: 1px solid #dce9e8;
+    background:
+      radial-gradient(
+        circle at 10% 50%,
+        rgba(255, 255, 255, 0.8),
+        rgba(255, 255, 255, 0) 30%
+      ),
+      linear-gradient(90deg, #eaf6f5 0%, #f4fbfa 50%, #e3f2f1 100%);
+  }
+
+  .cs-course-grid {
+    display: grid;
+    grid-template-columns: minmax(220px, 0.82fr) minmax(0, 1.1fr) minmax(
+        260px,
+        0.78fr
+      );
+    gap: clamp(1.4rem, 4vw, 3rem);
+    align-items: center;
+  }
+
+  .cs-course-image img {
+    display: block;
+    width: min(100%, 340px);
+    height: auto;
+    margin-inline: auto;
+    filter: drop-shadow(0 20px 28px rgba(23, 32, 42, 0.16));
+  }
+
+  .cs-label {
+    display: block;
+    margin-bottom: 0.65rem;
+    color: var(--cs-accent-dark);
+    font-size: 0.76rem;
+    font-weight: 900;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+  }
+
+  .cs-course-copy h2 {
+    margin-bottom: 0.8rem;
+  }
+
+  .cs-course-copy p {
+    max-width: 560px;
+    margin: 0 0 1.1rem;
+    color: var(--cs-text);
+  }
+
+  .cs-benefit-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .cs-benefit-list li {
+    position: relative;
+    margin: 0 0 0.75rem;
+    padding-left: 1.65rem;
+    color: var(--cs-text);
+    font-size: 0.9rem;
+    line-height: 1.35;
+  }
+
+  .cs-benefit-list li::before {
+    content: "✓";
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1rem;
+    height: 1rem;
+    border: 1px solid rgba(10, 108, 111, 0.45);
+    border-radius: 999px;
+    color: var(--cs-accent-dark);
+    font-size: 0.7rem;
+    font-weight: 900;
+  }
+
+  .cs-course-more {
+    display: inline-block;
+    margin-top: 0.4rem;
+    font-weight: 800;
+  }
+
+  /* Start here */
+
+  .cs-start-here {
+    padding: clamp(2.8rem, 6vw, 4.4rem) 0;
+    background: #fff;
+  }
+
+  .cs-start-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0;
+    margin-top: 1.3rem;
+    border-top: 1px solid var(--cs-line);
+    border-bottom: 1px solid var(--cs-line);
+  }
+
+  .cs-start-card {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: 1rem;
+    padding: clamp(1.2rem, 3vw, 2rem);
+    border-right: 1px solid var(--cs-line);
+  }
+
+  .cs-start-card:last-child {
+    border-right: 0;
+  }
+
+  .cs-start-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 3.2rem;
+    height: 3.2rem;
+    flex: 0 0 auto;
+    border: 1px solid rgba(10, 108, 111, 0.35);
+    border-radius: 999px;
+    background: var(--cs-pale);
+    color: var(--cs-accent-dark);
+  }
+
+  .cs-start-icon svg {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+
+  .cs-start-card h3 {
+    margin: 0 0 0.4rem;
+    color: var(--cs-ink);
+    font-size: 1.15rem;
+  }
+
+  .cs-start-card p {
+    margin: 0 0 0.65rem;
+    color: var(--cs-text);
+    font-size: 0.9rem;
+    line-height: 1.45;
+  }
+
+  .cs-start-card a {
+    font-size: 0.86rem;
+    font-weight: 800;
+  }
+
+  /* Quote + final newsletter */
+
+  .cs-quote-band {
+    padding: clamp(2.2rem, 5vw, 3.3rem) 0;
+    border-top: 1px solid #dce9e8;
+    background: linear-gradient(90deg, #eaf6f5 0%, #f5fbfb 100%);
+  }
+
+  .cs-quote-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 0.95fr) minmax(320px, 1.05fr);
+    gap: clamp(1.8rem, 5vw, 4rem);
+    align-items: center;
+  }
+
+  .cs-reader-quote {
+    position: relative;
+    margin: 0;
+    padding-left: 3.2rem;
+  }
+
+  .cs-reader-quote::before {
+    content: "“";
+    position: absolute;
+    left: 0;
+    top: -0.5rem;
+    color: var(--cs-accent);
+    font-size: 5rem;
+    line-height: 1;
+  }
+
+  .cs-reader-quote p {
+    margin: 0 0 0.8rem;
+    color: var(--cs-text);
+    font-size: clamp(1.15rem, 2vw, 1.55rem);
+    font-style: italic;
+    line-height: 1.38;
+  }
+
+  .cs-reader-quote cite {
+    color: var(--cs-muted);
+    font-size: 0.88rem;
+    font-style: normal;
+  }
+
+  .cs-final-signup {
+    padding-left: clamp(1.5rem, 4vw, 3rem);
+    border-left: 1px solid #cfdedc;
+  }
+
+  .cs-final-signup h2 {
+    margin-bottom: 0.55rem;
+    font-size: clamp(1.5rem, 2.2vw, 2rem);
+  }
+
+  .cs-final-signup p {
+    max-width: 520px;
+    margin: 0 0 1rem;
+    color: var(--cs-text);
+    font-size: 0.94rem;
+  }
+
+  .cs-final-signup .cs-form-note {
+    margin-top: 0.6rem;
+    color: var(--cs-muted);
+    font-size: 0.8rem;
+  }
+
+  @media (max-width: 1024px) {
+    .cs-hero-grid,
+    .cs-latest-grid,
+    .cs-course-grid,
+    .cs-quote-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .cs-hero {
+      background: #fff;
+    }
+
+    .cs-hero-copy {
+      max-width: 760px;
+      padding-right: 0;
+      padding-left: 0;
+    }
+
+    .cs-hero-image {
+      min-height: 380px;
+      margin-inline: 0;
+    }
+
+    .cs-hero-image::before {
+      display: none;
+    }
+
+    .cs-hero-image img {
+      min-height: 380px;
+    }
+
+    .cs-course-image img {
+      margin-inline: 0;
+    }
+
+    .cs-final-signup {
+      padding-left: 0;
+      border-left: 0;
+      border-top: 1px solid #cfdedc;
+      padding-top: 1.5rem;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .cs-wrap {
+      width: min(100% - 1.1rem, 1120px);
+    }
+
+    .cs-section-title-row {
+      align-items: flex-start;
+      flex-direction: column;
+    }
+
+    .cs-home-publication {
+      font-size: 0.98rem;
+      overflow-x: hidden;
+    }
+
+    .cs-hero-grid {
+      min-height: auto;
+    }
+
+    .cs-hero-copy {
+      padding: 2rem 0 1.5rem;
+    }
+
+    .cs-hero h1 {
+      max-width: 10ch;
+      margin-bottom: 0.85rem;
+      font-size: clamp(2.65rem, 15vw, 4.15rem);
+      line-height: 0.94;
+    }
+
+    .cs-hero-deck {
+      margin-bottom: 1rem;
+      font-size: 1.05rem;
+      line-height: 1.45 !important;
+    }
+
+    .cs-hero-intro {
+      margin-bottom: 1.25rem;
+      font-size: 0.96rem;
+    }
+
+    .cs-newsletter-inline,
+    .cs-hero-form,
+    .cs-footer-form {
+      grid-template-columns: 1fr;
+      max-width: none;
+      gap: 0.6rem;
+    }
+
+    .cs-hero-form #hero-name {
+      grid-column: auto;
+    }
+
+    .cs-hero-form input[type="submit"],
+    .cs-footer-form input[type="submit"] {
+      grid-column: auto;
+      justify-self: stretch;
+      width: 100%;
+      min-width: 0;
+    }
+
+    .cs-newsletter-inline input[type="text"],
+    .cs-newsletter-inline input[type="email"],
+    .cs-newsletter-inline input[type="submit"],
+    .cs-button {
+      width: 100%;
+      min-height: 3.2rem;
+      font-size: 1rem;
+    }
+
+    .cs-form-note {
+      font-size: 0.78rem;
+    }
+
+    .cs-hero-image {
+      min-height: 0;
+      height: clamp(260px, 58vw, 360px);
+      margin-inline: -0.55rem;
+      border-top: 1px solid var(--cs-line);
+    }
+
+    .cs-hero-image img {
+      min-height: 0;
+      height: 100%;
+      object-position: center top;
+    }
+
+    .cs-latest-essay,
+    .cs-start-here {
+      padding: 2.25rem 0;
+    }
+
+    .cs-course-band,
+    .cs-quote-band {
+      padding: 2rem 0;
+    }
+
+    .cs-section-title-row {
+      gap: 0.35rem;
+      margin-bottom: 1rem;
+    }
+
+    .cs-small-link {
+      font-size: 0.88rem;
+    }
+
+    .cs-feature-essay-card,
+    .cs-start-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .cs-feature-essay-card {
+      min-height: auto;
+    }
+
+    .cs-feature-essay-copy {
+      padding: 1.25rem;
+    }
+
+    .cs-feature-essay-copy h3 {
+      font-size: clamp(1.55rem, 8vw, 2.15rem);
+      line-height: 1.08;
+    }
+
+    .cs-course-grid {
+      gap: 1.4rem;
+    }
+
+    .cs-course-copy {
+      order: 1;
+    }
+
+    .cs-course-benefits {
+      order: 2;
+    }
+
+    .cs-course-image {
+      order: 3;
+    }
+
+    .cs-course-image img {
+      width: min(82vw, 320px);
+      margin-inline: auto;
+    }
+
+    .cs-benefit-list li {
+      margin-bottom: 0.65rem;
+      font-size: 0.9rem;
+    }
+
+    .cs-start-grid {
+      margin-top: 1rem;
+    }
+
+    .cs-start-card {
+      grid-template-columns: 44px minmax(0, 1fr);
+      gap: 0.85rem;
+      padding: 1.1rem 0.2rem;
+      border-right: 0;
+      border-bottom: 1px solid var(--cs-line);
+    }
+
+    .cs-start-card:last-child {
+      border-bottom: 0;
+    }
+
+    .cs-start-icon {
+      width: 2.75rem;
+      height: 2.75rem;
+    }
+
+    .cs-start-icon svg {
+      width: 1.25rem;
+      height: 1.25rem;
+    }
+
+    .cs-start-card h3 {
+      font-size: 1.05rem;
+    }
+
+    .cs-start-card p {
+      font-size: 0.88rem;
+    }
+
+    .cs-quote-grid {
+      gap: 1.5rem;
+    }
+
+    .cs-reader-quote {
+      padding-left: 2.25rem;
+    }
+
+    .cs-reader-quote::before {
+      top: -0.3rem;
+      font-size: 3.6rem;
+    }
+
+    .cs-reader-quote p {
+      font-size: 1.08rem;
+    }
+
+    .cs-final-signup {
+      padding-top: 1.25rem;
+    }
+  }
+
+  @media (max-width: 420px) {
+    .cs-wrap {
+      width: min(100% - 0.9rem, 1120px);
+    }
+
+    .cs-hero-copy {
+      padding-top: 1.65rem;
+    }
+
+    .cs-hero h1 {
+      font-size: clamp(2.45rem, 16vw, 3.35rem);
+    }
+
+    .cs-hero-deck,
+    .cs-hero-intro,
+    .cs-course-copy p,
+    .cs-feature-essay-copy p,
+    .cs-final-signup p {
+      font-size: 0.93rem;
+    }
+
+    .cs-hero-image {
+      height: 240px;
+    }
+
+    .cs-feature-essay-copy,
+    .cs-start-card {
+      padding-inline: 0.95rem;
+    }
+
+    .cs-recent-list h3 {
+      font-size: 0.94rem;
+    }
+
+    .cs-date {
+      font-size: 0.68rem;
+    }
+  }
+</style>
+
+<div class="cs-home-publication">
+  <section class="cs-hero" aria-labelledby="cs-home-title">
+    <div class="cs-wrap cs-hero-grid">
+      <div class="cs-hero-copy">
+        <h1 id="cs-home-title">Living a Fulfilling Life</h1>
+
+        <p class="cs-hero-deck">
+          Daily notes on slowing down, paying attention, and building a life
+          with fewer regrets.
+        </p>
+
+        <p class="cs-hero-intro cs-hero-small-intro">
+          I write for people who feel quietly overwhelmed by modern life.
         </p>
 
         <form
-          id="newsletterForm"
+          class="cs-newsletter-form cs-newsletter-inline cs-hero-form"
           action="https://mail.nanakasha.com/subscribe"
           method="POST"
           accept-charset="utf-8"
         >
-          <div class="newsletter-field">
-            <label for="name">Name</label>
-            <input
-              type="text"
-              name="name"
-              id="name"
-              required
-              autocomplete="name"
-            />
-          </div>
+          <label class="cs-sr-only" for="hero-name">Name</label>
+          <input
+            type="text"
+            name="name"
+            id="hero-name"
+            required
+            autocomplete="name"
+            placeholder="Your name"
+          />
 
-          <div class="newsletter-field">
-            <label for="email">Email</label>
-            <input
-              type="email"
-              name="email"
-              id="email"
-              required
-              autocomplete="email"
-              inputmode="email"
-            />
-          </div>
+          <label class="cs-sr-only" for="hero-email">Email address</label>
+          <input
+            type="email"
+            name="email"
+            id="hero-email"
+            required
+            autocomplete="email"
+            inputmode="email"
+            placeholder="Your email address"
+          />
+          <input type="hidden" name="timestamp" class="cs-timestamp" />
+          <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
+          <input type="hidden" name="subform" value="yes" />
 
           <div class="cf-honeypot-wrapper" aria-hidden="true">
-            <label for="website" title="Leave this field blank">Website</label>
+            <label for="hero-website" title="Leave this field blank"
+              >Website</label
+            >
             <input
               type="text"
               name="website"
-              id="website"
+              id="hero-website"
               class="cf-honeypot"
               autocomplete="off"
               tabindex="-1"
             />
           </div>
 
-          <input type="hidden" name="timestamp" id="timestamp" />
-          <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
-          <input type="hidden" name="subform" value="yes" />
-
-          <div class="newsletter-submit-wrapper">
-            <input
-              type="submit"
-              name="submit"
-              id="submit"
-              class="newsletter-submit"
-              value="Join the Community"
-            />
-          </div>
+          <input type="submit" name="submit" value="Start each day grounded" />
         </form>
 
-        <p class="newsletter-disclaimer">No spam. Unsubscribe anytime.</p>
+        <p class="cs-form-note">
+          A short morning note on clarity, attention, and living with fewer
+          regrets.<br />
+          <span class="cs-no-spam-note">No spam. Unsubscribe anytime.</span>
+        </p>
+      </div>
+
+      <div class="cs-hero-image" aria-hidden="true">
+        <img
+          src="{{ '/assets/images/headshot-painting.webp' | relative_url }}"
+          alt=""
+          width="900"
+          height="900"
+          loading="eager"
+        />
       </div>
     </div>
   </section>
 
-  <script>
-    (function () {
-      function init() {
-        const ts = document.getElementById("timestamp");
-        if (ts) ts.value = Date.now();
+  <section class="cs-latest-essay" aria-labelledby="latest-essay-title">
+    <div class="cs-wrap">
+      <div class="cs-section-title-row">
+        <h2 id="latest-essay-title">Latest Essay</h2>
+        <a class="cs-small-link" href="{{ '/essays/' | relative_url }}"
+          >View all essays →</a
+        >
+      </div>
 
-        const form = document.getElementById("newsletterForm");
-        if (!form) return;
+      {% assign essay_posts = site.posts | where: "post_type", "essay" | sort:
+      "date" | reverse %} {% assign latest_essay = essay_posts | first %} {% if
+      latest_essay %} {% assign latest_summary = latest_essay.description |
+      default: latest_essay.preview | default: latest_essay.excerpt | strip_html
+      | normalize_whitespace | truncate: 190 %}
+
+      <div class="cs-latest-grid">
+        <article class="cs-feature-essay-card">
+          <div class="cs-feature-essay-copy">
+            <span class="cs-date"
+              >{{ latest_essay.date | date: "%B %-d, %Y" }}</span
+            >
+            <h3>
+              <a href="{{ latest_essay.url | relative_url }}">
+                {{ latest_essay.title | escape }}
+              </a>
+            </h3>
+            <p>{{ latest_summary }}</p>
+            <a class="cs-read-link" href="{{ latest_essay.url | relative_url }}"
+              >Read the essay →</a
+            >
+          </div>
+        </article>
+
+        <aside aria-label="More recent essays">
+          <ul class="cs-recent-list">
+            {% for post in essay_posts offset: 1 limit: 3 %}
+            <li>
+              <a href="{{ post.url | relative_url }}">
+                <span class="cs-date"
+                  >{{ post.date | date: "%B %-d, %Y" }}</span
+                >
+                <h3>{{ post.title | escape }}</h3>
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </aside>
+      </div>
+      {% else %}
+      <p>No essays found yet.</p>
+      {% endif %}
+    </div>
+  </section>
+
+  <section class="cs-course-band" aria-labelledby="featured-course-title">
+    <div class="cs-wrap cs-course-grid">
+      <div class="cs-course-image">
+        <img
+          src="{{ '/assets/images/courses/unplug.webp' | relative_url }}"
+          alt="Unplug: The EMF Reset course"
+          width="700"
+          height="500"
+          loading="lazy"
+        />
+      </div>
+
+      <div class="cs-course-copy">
+        <span class="cs-label">Featured Course</span>
+        <h2 id="featured-course-title">Unplug: The EMF Reset</h2>
+        <p>
+          A practical course for reducing EMF exposure and rebuilding a calmer,
+          healthier relationship with technology.
+        </p>
+        <a class="cs-button" href="{{ '/unplug/' | relative_url }}"
+          >View the Course</a
+        >
+      </div>
+
+      <div class="cs-course-benefits">
+        <ul class="cs-benefit-list">
+          <li>Understand the real impact of EMF</li>
+          <li>Create a low-EMF home</li>
+          <li>Use technology with more awareness</li>
+          <li>Protect your health and energy</li>
+          <li>Live with more clarity and calm</li>
+        </ul>
+        <a class="cs-course-more" href="{{ '/unplug/' | relative_url }}"
+          >Learn more about Unplug →</a
+        >
+      </div>
+    </div>
+  </section>
+
+  <section class="cs-start-here" aria-labelledby="start-here-title">
+    <div class="cs-wrap">
+      <h2 id="start-here-title">Start Here</h2>
+
+      <div class="cs-start-grid">
+        <article class="cs-start-card">
+          <span class="cs-start-icon" aria-hidden="true">
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.7"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <circle cx="12" cy="12" r="10"></circle>
+              <path d="m16 8-3 8-5 2 3-8 5-2Z"></path>
+            </svg>
+          </span>
+          <div>
+            <h3>New Here?</h3>
+            <p>
+              Read my full story and learn why I started writing about living a
+              fulfilling life.
+            </p>
+            <a href="{{ '/start/' | relative_url }}">Read my story →</a>
+          </div>
+        </article>
+
+        <article class="cs-start-card">
+          <span class="cs-start-icon" aria-hidden="true">
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.7"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path
+                d="m12 3 2.8 5.7 6.2.9-4.5 4.4 1.1 6.2L12 17.2 6.4 20.2 7.5 14 3 9.6l6.2-.9L12 3Z"
+              ></path>
+            </svg>
+          </span>
+          <div>
+            <h3>Best Essays</h3>
+            <p>
+              A collection of reader favorites and timeless essays — great
+              places to begin.
+            </p>
+            <a href="{{ '/essays/' | relative_url }}">Explore the best →</a>
+          </div>
+        </article>
+
+        <article class="cs-start-card">
+          <span class="cs-start-icon" aria-hidden="true">
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.7"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+              <path
+                d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2Z"
+              ></path>
+            </svg>
+          </span>
+          <div>
+            <h3>Projects</h3>
+            <p>
+              Current and ongoing work, experiments, creative projects, and
+              practical resources.
+            </p>
+            <a href="{{ '/projects/' | relative_url }}">Explore projects →</a>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section
+    id="newsletter"
+    class="cs-quote-band"
+    aria-labelledby="final-newsletter-title"
+  >
+    <div class="cs-wrap cs-quote-grid">
+      <blockquote class="cs-reader-quote">
+        <p>
+          Reading your Sunday morning writing feels like having coffee on a
+          quiet terrace with a close friend.
+        </p>
+        <cite>— Pierre, Canada - Reader email, 2026</cite>
+      </blockquote>
+
+      <div class="cs-final-signup">
+        <h2 id="final-newsletter-title">Start Each Day Grounded</h2>
+        <p>
+          Join me each morning for a brief note on living with more clarity,
+          intention, and less distraction.
+        </p>
+
+        <form
+          class="cs-newsletter-form cs-newsletter-inline cs-footer-form"
+          action="https://mail.nanakasha.com/subscribe"
+          method="POST"
+          accept-charset="utf-8"
+        >
+          <label class="cs-sr-only" for="footer-name">Name</label>
+          <input
+            type="text"
+            name="name"
+            id="footer-name"
+            required
+            autocomplete="name"
+            placeholder="Your name"
+          />
+
+          <label class="cs-sr-only" for="footer-email">Email address</label>
+          <input
+            type="email"
+            name="email"
+            id="footer-email"
+            required
+            autocomplete="email"
+            inputmode="email"
+            placeholder="Email address"
+          />
+          <input type="hidden" name="timestamp" class="cs-timestamp" />
+          <input type="hidden" name="list" value="J1vJg86fQyfkjB72mTmpfA" />
+          <input type="hidden" name="subform" value="yes" />
+
+          <div class="cf-honeypot-wrapper" aria-hidden="true">
+            <label for="footer-website" title="Leave this field blank"
+              >Website</label
+            >
+            <input
+              type="text"
+              name="website"
+              id="footer-website"
+              class="cf-honeypot"
+              autocomplete="off"
+              tabindex="-1"
+            />
+          </div>
+
+          <input type="submit" name="submit" value="Start each day grounded" />
+        </form>
+
+        <p class="cs-form-note cs-no-spam-note">
+          No spam. Unsubscribe anytime.
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
+
+<script>
+  (function () {
+    function initNewsletterForms() {
+      var forms = document.querySelectorAll(".cs-newsletter-form");
+
+      for (var i = 0; i < forms.length; i++) {
+        var form = forms[i];
+        var timestamp = form.querySelector(".cs-timestamp");
+
+        if (timestamp) timestamp.value = Date.now();
 
         form.addEventListener("submit", function (e) {
-          const start = parseInt(ts.value || "0", 10);
-          const elapsed = start ? (Date.now() - start) / 1000 : 999;
-          const honey = document.getElementById("website")?.value || "";
+          var ts = this.querySelector(".cs-timestamp");
+          var honey = this.querySelector(".cf-honeypot");
+          var start = ts ? parseInt(ts.value || "0", 10) : 0;
+          var elapsed = start ? (Date.now() - start) / 1000 : 999;
+          var honeyValue = honey ? honey.value : "";
 
-          if (honey !== "" || elapsed < 5) {
+          if (honeyValue !== "" || elapsed < 4) {
             e.preventDefault();
             console.warn("Spam submission blocked.");
             return false;
           }
         });
       }
+    }
 
-      document.readyState === "loading"
-        ? document.addEventListener("DOMContentLoaded", init)
-        : init();
-    })();
-  </script>
-
-  <!-- Recent Essays -->
-  <section id="recent-essays" class="full-bleed">
-    <div class="wrapper">
-      <h2>Recent Essays</h2>
-      <p class="essays-recent-intro">New writing from the last few weeks:</p>
-
-      {% assign essay_posts = site.posts | where: "post_type", "essay" | sort:
-      "date" | reverse %} {% if essay_posts.size > 0 %}
-      <ul class="essays-list">
-        {% for post in essay_posts limit: 5 %}
-        <li class="essays-item">
-          <a class="essays-title" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-          <span class="essays-date"> {{ post.date | date: "%B %d, %Y" }} </span>
-        </li>
-        {% endfor %}
-      </ul>
-      {% else %}
-      <p>No essays found yet.</p>
-      {% endif %}
-
-      <p class="essays-archive-link">
-        Explore
-        <a href="{{ '/essays/' | relative_url }}">all essays in the archive</a>
-      </p>
-
-      <p class="newsletter-disclaimer">
-        Prefer video? →
-        <a href="{{ '/videos/' | relative_url }}">Watch quiet reflections</a>
-      </p>
-    </div>
-  </section>
-
-  <!-- Testimonials -->
-  <section class="testimonial">
-    <div class="wrapper testimonial-wrapper">
-      <h2>Readers Say</h2>
-
-      <blockquote>
-        <p>
-          “Love reading your thoughts. Reading your Sunday morning writing feels
-          like having coffee on a quiet terrace with a close friend.”
-        </p>
-        <cite>Pierre, Canada - Reader email, 2026</cite>
-      </blockquote>
-    </div>
-  </section>
-</div>
+    document.readyState === "loading"
+      ? document.addEventListener("DOMContentLoaded", initNewsletterForms)
+      : initNewsletterForms();
+  })();
+</script>
 
 <script type="application/ld+json">
   {
@@ -308,9 +1293,9 @@ header:
       "https://bsky.app/profile/christophersherrod.com",
       "https://instagram.com/christophersherrod"
     ],
-    "jobTitle": "Writer, Artist, and Slow Lifestyle Advocate",
-    "image": "https://christophersherrod.com/assets/images/headers/home-header.webp",
-    "description": "Christopher Sherrod is a writer, artist, and slow lifestyle advocate sharing essays, books, and reflections on fulfilling living, creative entrepreneurship, and EMF sensitivity."
+    "jobTitle": "Writer, Artist, and Fulfilling Lifestyle Advocate",
+    "image": "https://christophersherrod.com/assets/images/headshot-painting.webp",
+    "description": "Christopher Sherrod is a writer, artist, and fulfilling lifestyle advocate sharing essays, notes, courses, and stories about slowing down, living with intention, creative work, and EMF sensitivity."
   }
 </script>
 
@@ -329,16 +1314,4 @@ header:
       "query-input": "required name=search_term_string"
     }
   }
-</script>
-
-<script>
-  (function () {
-    var imgs = document.querySelectorAll("img:not([loading])");
-    for (var i = 0; i < imgs.length; i++) {
-      imgs[i].setAttribute("loading", "lazy");
-      if ("decode" in imgs[i]) {
-        imgs[i].decode().catch(function () {});
-      }
-    }
-  })();
 </script>
