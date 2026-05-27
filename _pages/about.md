@@ -49,7 +49,7 @@ That realization changed everything.
 
 ## A Life Shaped by Experience, Not Theory
 
-I started my first business in elementary school selling smelly erasers. I’ve been online since 1987 and built my first website in 1995. I graduated from Northern Arizona University with a degree in Business and a minor in Photography. Later, I worked in corporate life, then left in 1996 to run my own software company and later a web agency.
+I started my first business in elementary school selling scented erasers. I’ve been online since 1987. I graduated with honors from Northern Arizona University with a degree in Business and a minor in Photography. Later, I worked in corporate life, I built my first website in 1995 and then left in 1996 to run my own software company and later a web agency.
 
 The work was successful — but it came at a cost.
 
