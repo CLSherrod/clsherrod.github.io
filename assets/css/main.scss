@@ -291,6 +291,11 @@ footer a:hover {
   text-decoration: none;
 }
 
+.page .header-link,
+.page .anchorjs-link {
+  display: none !important;
+}
+
 h2:hover .header-link,
 h3:hover .header-link {
   opacity: 0.4;

@@ -40,14 +40,16 @@ That realization changed everything.
 
 ## Quick Facts
 
-- Writing online since 2000
 - Entrepreneur since childhood
-- ran a [web agency](/whodefinesyou/) for twenty-three years solely on referrals but now focused on internal projects only
+- Graduated from Northern Arizona University with a degree in Business and a minor in Photography
+- Ran a [web agency](/whodefinesyou/) for twenty-three years solely on referrals; now focused on internal projects
 - Digital nomad since 1996
+- Writing online since 2000
+- Investor
 
 ## A Life Shaped by Experience, Not Theory
 
-I started my first business in elementary school selling smelly erasures. I’ve been online since 1987 and built my first website in 1995. Later worked in corporate life, and eventually left to run my own software company in 1996 and web agency.
+I started my first business in elementary school selling smelly erasers. I’ve been online since 1987 and built my first website in 1995. I graduated from Northern Arizona University with a degree in Business and a minor in Photography. Later, I worked in corporate life, then left in 1996 to run my own software company and later a web agency.
 
 The work was successful — but it came at a cost.
 
@@ -93,7 +95,7 @@ If you enjoy this way of thinking, I share short, thoughtful notes each day — 
 
 It’s simple, calm, and written for people who want less noise — not more.
 
-→ [Join the newsletter](https://christophersherrod.com/newsletter/)
+→ [Join the newsletter](/newsletter/)
 
 ## The Dolphin Entrepreneur
 
@@ -102,7 +104,7 @@ Over time, I developed a philosophy I call **The Dolphin Entrepreneur**.
 It’s about building something meaningful without burning yourself out or losing sight of what matters.
 
 You can read more about that here:
-→ [The Dolphin Entrepreneur](https://christophersherrod.com/dolphin-entrepreneur/)
+→ [The Dolphin Entrepreneur](/dolphin-entrepreneur/)
 
 ## Writing & Creative Work
 
@@ -120,9 +122,11 @@ My writing is intentionally:
 - Free of hype
 - Based on lived experience
 
+I’m also an investor, which has shaped how I think about long-term value, patience, and making thoughtful decisions.
+
 I also create art, write poetry, and explore creative work as a way of staying connected to what matters beyond productivity.
 
-You can explore more about me at [Start Here](https://christophersherrod.com/start)
+You can explore more about me at [Start Here](/start)
 
 ## Life Outside the Screen
 
