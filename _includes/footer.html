@@ -4,11 +4,7 @@
     {% if site.footer.links %} {% for link in site.footer.links %} {% if
     link.label and link.url %}
     <li>
-      <a
-        href="{{ link.url }}"
-        target="_self"
-        rel="noopener noreferrer nofollow"
-      >
+      <a href="{{ link.url | relative_url }}" target="_self">
         <i
           class="{{ link.icon | default: 'fas fa-link' }}"
           aria-hidden="true"
@@ -16,37 +12,37 @@
         {{ link.label }}
       </a>
     </li>
-    {% endif %} {% endfor %} {% endif %} {% unless site.atom_feed.hide %} {%
-    endunless %}
+    {% endif %} {% endfor %} {% endif %}
   </ul>
 </div>
 
 <div class="page__footer-copyright">
   <p style="text-align: center; font-size: 0.9rem">
-    <span style="opacity: 0.85; display: block; margin-bottom: 1rem"
-      ><b>More: </b>
-      <a href="https://christophersherrod.com/reviews">Reviews</a> -
-      <a href="https://christophersherrod.com/poems">Poems</a> -
-      <a href="https://christophersherrod.com/videos">Videos</a> -
-      <a href="https://christophersherrod.com/news">News</a> -
-      <a href="https://christophersherrod.com/now">Now</a> -
-      <a href="https://christophersherrod.com/colophon">Colophon</a> -
-      <a href="https://christophersherrod.com/about#get-in-touch">Contact</a> -
-      <a href="https://christophersherrod.com/feed.xml">RSS</a>
+    <span style="opacity: 0.85; display: block; margin-bottom: 1rem">
+      <b>More:</b>
+      <a href="{{ '/reviews' | relative_url }}">Reviews</a> -
+      <a href="{{ '/poems' | relative_url }}">Poems</a> -
+      <a href="{{ '/videos' | relative_url }}">Videos</a> -
+      <a href="{{ '/news' | relative_url }}">News</a> -
+      <a href="{{ '/now' | relative_url }}">Now</a> -
+      <a href="{{ '/colophon' | relative_url }}">Colophon</a> -
+      <a href="{{ '/about#get-in-touch' | relative_url }}">Contact</a> -
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
     </span>
+
     <span style="opacity: 0.85; display: block; margin-bottom: 1rem">
       Writing online since 2000 • Read in 40+ countries • 26 years of essays
     </span>
+
     <span style="opacity: 0.85; display: block; margin-bottom: 1rem">
       <b>Elsewhere:</b>
-      <a href="https://christophersherrod.com/chr1stopher"
-        >Chr1stopher Artist</a
-      >
+      <a href="{{ '/chr1stopher' | relative_url }}">Chr1stopher Artist</a>
     </span>
+
     <span id="copyright-year">
       © 2000–<span id="year"></span> Christopher Sherrod #FulfillingLife
       <img
-        src="https://christophersherrod.com/assets/images/favicons/cs-favicon-32.png"
+        src="{{ '/assets/images/favicons/cs-favicon-32.png' | relative_url }}"
         alt="CS Favicon"
         style="vertical-align: middle"
       />
@@ -55,7 +51,6 @@
 </div>
 
 <script>
-  // Auto-update the year
   document.addEventListener("DOMContentLoaded", function () {
     var yearSpan = document.getElementById("year");
     if (yearSpan) {

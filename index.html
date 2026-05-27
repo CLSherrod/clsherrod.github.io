@@ -40,6 +40,12 @@ canonical_url: "https://christophersherrod.com/"
     overflow-x: hidden;
   }
 
+  /* Hide permalink anchors on homepage only */
+  .cs-home-publication .header-link,
+  .cs-home-publication .anchorjs-link {
+    display: none !important;
+  }
+
   img {
     max-width: 100%;
     height: auto;
@@ -90,9 +96,7 @@ canonical_url: "https://christophersherrod.com/"
     border: 0;
   }
 
-  /* =========================================================
-   HERO
-   ========================================================= */
+  /* HERO */
 
   .cs-hero {
     overflow: hidden;
@@ -150,9 +154,7 @@ canonical_url: "https://christophersherrod.com/"
     object-position: center;
   }
 
-  /* =========================================================
-   FORMS
-   ========================================================= */
+  /* FORMS */
 
   .cs-newsletter-form {
     width: 100%;
@@ -257,9 +259,7 @@ canonical_url: "https://christophersherrod.com/"
     color: rgba(31, 36, 48, 0.62);
   }
 
-  /* =========================================================
-   SHARED SECTION SPACING
-   ========================================================= */
+  /* SHARED SECTION SPACING */
 
   .cs-latest-essay,
   .cs-start-here,
@@ -304,9 +304,7 @@ canonical_url: "https://christophersherrod.com/"
     margin-bottom: 0.55rem;
   }
 
-  /* =========================================================
-   FEATURED ESSAY
-   ========================================================= */
+  /* FEATURED ESSAY */
 
   .cs-latest-grid {
     display: grid;
@@ -374,9 +372,7 @@ canonical_url: "https://christophersherrod.com/"
     font-weight: 500;
   }
 
-  /* =========================================================
-   START HERE
-   ========================================================= */
+  /* START HERE */
 
   .cs-start-here {
     background: #fff;
@@ -424,9 +420,7 @@ canonical_url: "https://christophersherrod.com/"
     stroke-width: 1.6;
   }
 
-  /* =========================================================
-   COURSE BAND
-   ========================================================= */
+  /* COURSE BAND */
 
   .cs-course-band {
     background: var(--cs-bg-soft);
@@ -465,9 +459,7 @@ canonical_url: "https://christophersherrod.com/"
     margin-bottom: 0.45rem;
   }
 
-  /* =========================================================
-   QUOTE + FINAL SIGNUP
-   ========================================================= */
+  /* QUOTE + FINAL SIGNUP */
 
   .cs-quote-band {
     background: var(--cs-bg-soft);
@@ -509,9 +501,7 @@ canonical_url: "https://christophersherrod.com/"
     max-width: 36rem;
   }
 
-  /* =========================================================
-   TABLET
-   ========================================================= */
+  /* TABLET */
 
   @media (max-width: 1024px) {
     .cs-wrap {
