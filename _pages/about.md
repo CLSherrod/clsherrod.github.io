@@ -8,7 +8,7 @@ breadcrumbs: false
 author_profile: true
 
 teaser: /assets/images/headers/about-header.webp
-tagline: "Living A Fulfilling Life"
+tagline: "Living a Fulfilling Life"
 description: Learn about Christopher Sherrod
 preview: Learn about Christopher Sherrod
 header:
@@ -22,21 +22,13 @@ toc: true
 published: true
 ---
 
-## A quieter way of living, working, and creating
+## Why I Write
 
-I write about living a fulfilling life — not because I studied it, but because I had to rebuild mine.
+I write about living a fulfilling life — not as an idea, but as something I had to rebuild for myself.
 
-I arrived here after building businesses, burning out, and realizing that success without clarity wasn’t success at all.
+After years of building businesses and chasing the usual forms of success, I had to ask better questions about what actually makes a life feel worth living.
 
-For years, I chased the same things most people do — productivity, achievement, momentum. I built companies, worked long hours, and did what I thought I was supposed to do. On the outside, things looked fine.
-
-On the inside, something felt off.
-
-Eventually, I learned what many people only realize later in life:
-
-> **a full life isn’t built by doing more — it’s built by choosing better.**
-
-That realization changed everything.
+This site is the result of that shift.
 
 ## Quick Facts
 
@@ -45,104 +37,55 @@ That realization changed everything.
 - Ran a [web agency](/whodefinesyou/) for twenty-three years solely on referrals; now focused on internal projects
 - Digital nomad since 1996
 - Writing online since 2000
-- Investor
+- Private investor
 
 ## A Life Shaped by Experience, Not Theory
 
-I started my first business in elementary school selling scented erasers. I’ve been online since 1987. I graduated with honors from Northern Arizona University with a degree in Business and a minor in Photography. Later, I worked in corporate life, I built my first website in 1995 and then left in 1996 to run my own software company and later a web agency.
+I started my first business in elementary school selling scented erasers. I’ve been online since 1987, built my first website in 1995, and later left corporate life to run my own software company and eventually a web agency.
 
-The work was successful — but it came at a cost.
+I graduated with honors from Northern Arizona University with a degree in Business and a minor in Photography.
 
-Burnout forced me to slow down and ask better questions:
+Burnout eventually forced me to rethink what success really meant. Today, I write from experience — not theory.
 
-- What actually matters?
-- What kind of life do I want to live?
-- And what does “success” mean when no one is watching?
+## What I Write and Create
 
-That period reshaped how I think about work, creativity, and fulfillment.
+My work focuses on how to live a fulfilling life in a noisy, distracted world.
 
-Today, I write from experience — not from theory.
+I write essays and courses about living intentionally, meaningful work, creativity, simplicity, attention, and choosing what matters instead of chasing more.
 
-## What I Write About
+I’m also a private investor, which has shaped how I think about patience, long-term value, and thoughtful decisions.
 
-My work focuses on one central idea:
+Beyond that, I create art and write poetry as a way of staying connected to what matters beyond productivity.
 
-**How to live a fulfilling life in a noisy, distracted world.**
-
-That includes writing about:
-
-- Living intentionally in a distracted world
-- Building meaningful work without burnout
-- Creating a life that values clarity over constant growth
-
-I don’t believe in hustle culture, empty motivation, or one-size-fits-all answers.
-
-I believe in:
-
-- Thoughtful choices
-- Long-term thinking
-- Simple systems
-- And work that supports your life — not consumes it
+You can explore more about me on the [Start Here](/start) page.
 
 ## My Daily Newsletter
 
-If you enjoy this way of thinking, I share short, thoughtful notes each day — the same tone as this page, just quieter and more personal:
-
-- Living intentionally
-- Navigating modern life
-- Staying grounded
-- Finding clarity in small moments
-
-It’s simple, calm, and written for people who want less noise — not more.
+My daily newsletter is where I share short reflections on living intentionally, staying grounded, and finding clarity in ordinary life.
 
 → [Join the newsletter](/newsletter/)
 
 ## The Dolphin Entrepreneur
 
-Over time, I developed a philosophy I call **The Dolphin Entrepreneur**.
+Over time, I developed a philosophy I call The Dolphin Entrepreneur — a way of building something meaningful without burning yourself out or losing sight of what matters.
 
-It’s about building something meaningful without burning yourself out or losing sight of what matters.
-
-You can read more about that here:
 → [The Dolphin Entrepreneur](/dolphin-entrepreneur/)
-
-## Writing & Creative Work
-
-I write essays and courses on:
-
-- Living well
-- Making meaningful work
-- Creativity and attention
-- Life design and simplicity
-
-My writing is intentionally:
-
-- Clear
-- Grounded
-- Free of hype
-- Based on lived experience
-
-I’m also an investor, which has shaped how I think about long-term value, patience, and making thoughtful decisions.
-
-I also create art, write poetry, and explore creative work as a way of staying connected to what matters beyond productivity.
-
-You can explore more about me at [Start Here](/start)
 
 ## Life Outside the Screen
 
 When I’m not writing, I enjoy:
 
+- Spending time with my wife
+- Reading
 - Creating art
 - Playing the Native American flute
-- Spending time with my wife
 - Living slowly and intentionally
-- Staying curious
 
 I believe a good life is built quietly, through small, consistent choices.
 
 ## Get in Touch
 
-If something here resonates, you’re welcome to reach out.
+If something here resonates, feel free to reach out.
 
 ### Email
 
@@ -163,6 +106,8 @@ Send me a message on Signal.
 
 I read every message, even if I can’t always reply immediately.
 
+## A Final Word
+
 If you’re looking for hype or quick answers, you won’t find them here.
 
-But if you’re interested in living thoughtfully, working deliberately, and building a life that actually feels good to live — you’re in the right place.
+But if you want to live thoughtfully and build a life that feels good to live, you’re in the right place.
