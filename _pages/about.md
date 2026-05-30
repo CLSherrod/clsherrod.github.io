@@ -26,7 +26,7 @@ published: true
 
 I write about living a fulfilling life — not as an idea, but as something I had to rebuild for myself.
 
-After years of building businesses and chasing the usual forms of success, I had to ask better questions about what actually makes a life feel worth living.
+After years of building and investing into businesses and chasing the usual forms of success, I had to ask better questions about what actually makes a life feel worth living.
 
 This site is the result of that shift.
 
@@ -37,7 +37,6 @@ This site is the result of that shift.
 - Ran a [web agency](/whodefinesyou/) for twenty-three years solely on referrals; now focused on internal projects
 - Digital nomad since 1996
 - Writing online since 2000
-- Private investor
 
 ## A Life Shaped by Experience, Not Theory
 
@@ -45,7 +44,7 @@ I started my first business in elementary school selling scented erasers. I’ve
 
 I graduated with honors from Northern Arizona University with a degree in Business and a minor in Photography.
 
-Burnout eventually forced me to rethink what success really meant. Today, I write from experience — not theory.
+Burnout and seizures eventually forced me to rethink what success really meant. Today, I write from experience — not theory.
 
 ## What I Write and Create
 
