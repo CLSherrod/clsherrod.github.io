@@ -518,28 +518,41 @@ canonical_url: "https://christophersherrod.com/"
 
     .cs-hero-copy {
       order: 1;
-      padding: 2.6rem 0 2rem;
+      padding: 2.5rem 0 1.75rem;
     }
 
     .cs-hero-image {
       order: 2;
+      height: auto;
     }
 
     .cs-hero-image img {
+      width: 100%;
       height: auto;
-      max-height: 700px;
+      max-height: 560px;
       object-fit: cover;
+      object-position: center top;
     }
 
     .cs-hero-copy h1,
     #cs-home-title {
+      font-size: clamp(2.2rem, 7vw, 3.4rem);
+      line-height: 1.02;
       max-width: 12ch;
+      margin-bottom: 1rem;
+    }
+
+    .cs-hero-deck {
+      font-size: 1.15rem;
+      line-height: 1.55;
     }
 
     .cs-course-copy .cs-button {
       width: auto;
     }
   }
+
+  /* MOBILE */
 
   @media (max-width: 767px) {
     .cs-wrap {
@@ -553,14 +566,25 @@ canonical_url: "https://christophersherrod.com/"
       padding: 2.8rem 0;
     }
 
+    .cs-hero {
+      padding: 0;
+    }
+
+    .cs-hero-grid {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+      align-items: start;
+    }
+
     .cs-hero-copy {
-      padding: 2rem 0 1.5rem;
+      order: 1;
+      padding: 2rem 0 0;
     }
 
     .cs-hero-copy h1,
     #cs-home-title {
-      font-size: clamp(2rem, 10vw, 2.9rem);
-      line-height: 1.02;
+      font-size: clamp(2rem, 8vw, 2.9rem);
+      line-height: 1.04;
       max-width: 100%;
       margin-bottom: 1rem;
     }
@@ -571,19 +595,55 @@ canonical_url: "https://christophersherrod.com/"
       max-width: 100%;
     }
 
+    .cs-hero-deck {
+      font-size: 1.08rem;
+      line-height: 1.55;
+    }
+
+    .cs-hero-intro {
+      margin-bottom: 1.25rem;
+    }
+
     .cs-hero-form,
     .cs-footer-form {
       grid-template-columns: 1fr;
+      gap: 0.85rem;
     }
 
+    .cs-newsletter-form {
+      max-width: 100%;
+    }
+
+    .cs-newsletter-form input[type="text"],
+    .cs-newsletter-form input[type="email"],
     .cs-newsletter-form input[type="submit"],
     .cs-button {
       width: 100%;
     }
 
-    .cs-hero-image img {
+    .cs-newsletter-form input[type="text"],
+    .cs-newsletter-form input[type="email"] {
+      min-height: 54px;
+      font-size: 1rem;
+    }
+
+    .cs-newsletter-form input[type="submit"],
+    .cs-button {
+      min-height: 54px;
+      padding-inline: 1.1rem;
+    }
+
+    .cs-hero-image {
+      order: 2;
       height: auto;
-      max-height: none;
+    }
+
+    .cs-hero-image img {
+      width: 100%;
+      height: auto;
+      max-height: 420px;
+      object-fit: cover;
+      object-position: center top;
     }
 
     .cs-section-title-row {
@@ -615,9 +675,14 @@ canonical_url: "https://christophersherrod.com/"
       width: min(100%, calc(100% - 1rem));
     }
 
+    .cs-hero-copy {
+      padding-top: 1.75rem;
+    }
+
     .cs-hero-copy h1,
     #cs-home-title {
-      font-size: 2.15rem;
+      font-size: clamp(2rem, 9vw, 2.35rem);
+      line-height: 1.05;
     }
 
     .cs-hero-deck,
@@ -627,6 +692,10 @@ canonical_url: "https://christophersherrod.com/"
     .cs-feature-essay-copy p,
     .cs-start-card p {
       font-size: 1rem;
+    }
+
+    .cs-hero-image img {
+      max-height: 360px;
     }
 
     .cs-newsletter-form input[type="text"],
