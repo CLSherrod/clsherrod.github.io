@@ -7,6 +7,7 @@ published: true
 description: I’m better at writing than speaking. After recovering from my seizures, I’m using video to practice speaking again, even with a thunderstorm rolling in. This is about recovery, travel, writing, and living a fulfilling life.
 excerpt: A watch page for Christopher Sherrod’s Speak Before The Storm video.
 preview: Watch the latest vlog
+tagline: I’m better at writing than speaking.
 post_type: video
 categories:
   - Living a Fulfilling Life
