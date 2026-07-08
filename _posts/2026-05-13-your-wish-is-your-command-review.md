@@ -2,6 +2,7 @@
 title: "Your Wish Is Your Command Review: The Best Personal Development Book I’ve Read"
 tagline: "A big, repetitive, story-driven book that keeps bringing you back to the lesson that matters: choose one aim, believe it, and live it."
 date: 2026-05-13
+last_modified_at: 2026-07-08
 layout: single
 permalink: /your-wish-is-your-command-review/
 published: true
@@ -224,7 +225,7 @@ They make you look at your life differently.
 
 This one did that for me.
 
-[Get *Your Wish Is Your Command* here.](https://amzn.to/4uLtyDs)
+[Get *Your Wish Is Your Command* here](https://getyourwishbook.com/?ref=y9pnct).
 
 ## A Simple Question to End With
 
