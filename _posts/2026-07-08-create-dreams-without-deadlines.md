@@ -9,7 +9,7 @@ layout: single
 permalink: /create-dreams-without-deadlines/
 author_profile: true
 breadcrumbs: true
-toc: true
+toc: false
 published: true
 post_type: essay
 categories:
@@ -20,6 +20,7 @@ tags:
   - slow-living
   - personal-growth
   - meaning
+read_time: false
 ---
 Most people turn dreams into goals too quickly.
 
@@ -114,7 +115,7 @@ A harsh dream becomes a disguised obligation.
 
 “Make more money” is vague.
 
-“Earn in a way that gives me freedom and reflects what I believe” has a soul.
+“Earn in a way that gives me freedom and reflects what I believe” feels more alive” has a soul.
 
 The language you choose should make you want to move closer, not make you feel behind.
 
@@ -124,7 +125,7 @@ Instead of: “Fix the house.”
 Try: “Create a home that feels like a sanctuary.”
 
 Instead of: “Be more productive.”  
-Try: “Become easily productive and reflective.”
+Try: “Build a rhythm where good work and reflection both have room.”
 
 Instead of: “Help more people.”  
 Try: “Leave people better than I found them.”
