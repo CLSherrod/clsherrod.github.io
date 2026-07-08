@@ -1,10 +1,10 @@
 ---
-title: "How to Create Dreams Without Deadlines"
+title: How to Create Dreams Without Deadlines
 seo_title: "How to Create Dreams Without Deadlines: A Simple Process for Imagining a More Fulfilling Life"
-description: "Learn a simple, pressure-free process for creating dreams without deadlines so you can imagine a more fulfilling life without turning everything into another goal."
-excerpt: "A simple, pressure-free process for creating dreams without deadlines so you can imagine a more fulfilling life without turning everything into another goal."
-preview: "Most people turn dreams into goals too quickly. Here is a gentler way to imagine what still feels alive."
-date: 2026-04-27
+description: Learn a simple, pressure-free process for creating dreams without deadlines so you can imagine a more fulfilling life without turning everything into another goal.
+excerpt: A simple, pressure-free process for creating dreams without deadlines so you can imagine a more fulfilling life without turning everything into another goal.
+preview: Most people turn dreams into goals too quickly. Here is a gentler way to imagine what still feels alive.
+date: 2026-07-08
 layout: single
 permalink: /create-dreams-without-deadlines/
 author_profile: true
@@ -21,9 +21,6 @@ tags:
   - personal-growth
   - meaning
 ---
-
-# How to Create Dreams Without Deadlines
-
 Most people turn dreams into goals too quickly.
 
 They get a spark of desire, and within minutes they start asking practical questions.
@@ -34,7 +31,7 @@ How will I measure it?
 What is the deadline?  
 What is the plan?
 
-There is nothing wrong with planning. Some dreams eventually need structure. A trip needs a reservation. A book needs writing time. A home project needs a budget. A healthier body needs some kind of routine.
+There is nothing wrong with planning. Some dreams eventually need structure. A trip needs a reservation. A book needs writing time. A home project needs time set aside. A healthier body needs some kind of routine.
 
 But not every dream should be forced into a spreadsheet the moment it appears.
 
@@ -248,4 +245,4 @@ You do not need to figure everything out today.
 
 You only need to listen honestly.
 
-**If this essay helped you, join my email list for more reflections on living a fulfilling life, building slowly, and creating a life that feels true from the inside out.**
+**If this essay helped you, join [my email list](/newsletter/) for more reflections on living a fulfilling life, building slowly, and creating a life that feels true from the inside out.**
