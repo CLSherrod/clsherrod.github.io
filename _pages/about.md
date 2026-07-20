@@ -52,7 +52,7 @@ My work focuses on how to live a fulfilling life in a noisy, distracted world.
 
 I write essays and courses about living intentionally, meaningful work, creativity, simplicity, attention, and choosing what matters instead of chasing more.
 
-I’m also a private investor, which has shaped how I think about patience, long-term value, and thoughtful decisions.
+I’m also a private investor and affiliate marketer. Both have shaped how I think about patience, long-term value, trust, and making thoughtful recommendations.
 
 Beyond that, I create art and write poetry as a way of staying connected to what matters beyond productivity.
 
