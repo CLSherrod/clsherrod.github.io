@@ -49,7 +49,7 @@ A practical audio course for reducing digital overload, creating healthier bound
 - Lifetime access
 - $19
 
-[Explore Unplug](/courses/){: .btn .btn--primary .btn--large }
+[Explore Unplug](/courses/unplug){: .btn .btn--primary .btn--large }
 
 ## Coming Next
 
