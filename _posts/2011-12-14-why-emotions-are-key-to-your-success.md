@@ -9,11 +9,11 @@ tags:
 permalink: /why-emotions-are-key-to-your-success/
 published: false
 ---
-I recently had Rhys Thomas of the Rhys Method evaluate me. He did my life purpose profile.
+I recently had Rhys Thomas of the Rhys Method evaluate me. He did my life-purpose profile.
 
-He is spooky accurate. He got me immediately over lunch. It was amazing.
+He is spooky accurate. He understood me almost immediately over lunch. It was amazing.
 
-He was able to tell my personality. Now that it self is not unusual, but he has a unique and easy system that has helped me a lot.
+He was able to tell my personality. Now that itself is not unusual, but he has a unique and easy system that has helped me a lot.
 
 Other personality tests are complicated. I never could remember them. His is simple.
 

@@ -11,7 +11,7 @@ excerpt: In order to grow business to be real big I've had to let go of my ego.
 ---
 Since I retired from working with a lot of clients and only partnering with very select people my business has changed a lot.
 
-I use to market myself and help client after client on a consulting basis.
+I used to market myself and help client after client on a consulting basis.
 
 I flipped to just partnering. I only do anything if I own part of the company, period.
 
@@ -21,7 +21,7 @@ But, it's been hard on my ego.
 
 And as my businesses have grown I've had to outsource many things I've done for years. I've hired people that honestly are just better at some things than I am. And I have felt like I've disappeared from social media, blogging, hanging out with my marketing buddies. And it's true, I have.
 
-In order to grow business to be real big I've had to let go of my ego. I've felt at times that I'm not useful, or even needed because I literally just hire and rarely fire people, I make decisions and tell my team to do it. I talk to people which I love and gotten out more to meet real people in person. I've gotten away from the computer a lot. And I use to be defined by how well I used a computer.
+In order to grow a business to be really big I've had to let go of my ego. I've felt at times that I'm not useful, or even needed, because I literally just hire and rarely fire people, make decisions, and tell my team to do things. I talk to people, which I love, and I've gotten out more to meet real people in person. I've gotten away from the computer a lot. And I used to be defined by how well I used a computer.
 
 I don't even consider myself a marketer anymore, even though that is the heart of what I focus on. I hire the best to help in that, really anything.
 

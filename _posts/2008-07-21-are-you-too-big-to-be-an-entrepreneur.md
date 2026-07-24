@@ -1,5 +1,5 @@
 ---
-title: Are you too Big to be an entrepreneur
+title: Are You Too Big to Be an Entrepreneur?
 date: 2008-07-21
 published: true
 categories:
@@ -8,7 +8,7 @@ tags:
   - entrepreneurship
 permalink: /are-you-too-big-to-be-an-entrepreneur/
 ---
-I watched the move Big a few months ago with the family.  I hadn't seen it since it came out in the theaters.
+I watched the movie Big a few months ago with the family. I hadn't seen it since it came out in theaters.
 
 The main character is very creative because he really is a kid.  By the end of the movie he is bored and not creative anymore.  He's gotten tied up in being a "grown up" and lost his passion for fun.  He's looking at reports and stressing out.
 
@@ -18,4 +18,4 @@ Entrepreneurs are like kids.  They are creative.  They are passionate. If you ar
 
 Entrepreneurs, well successful entrepreneurs are not smarter than everyone else.  Richard Branson didn't know what "Net" meant recently.  He hires people that know that very well.
 
-Don't worry if you're smart enough to be an entrepreneur.  You may want to ask yourself if you're dumb enough.  I've meet many unsuccessful entrepreneurs that are way too smart. They think they can do everything and do.  And never get anything else done.  I say be dumb and get stuff done.  I use to do e-v-e-r-y-t-h-i-n-g, you name it.  I couldn't get everything done.  And I was not successful.  I was extremely busy and going broke fast.  Not anymore.  I focus on new items and use help to the upmost.
+Don't worry if you're smart enough to be an entrepreneur. You may want to ask yourself if you're dumb enough. I've met many unsuccessful entrepreneurs who were way too smart. They think they can do everything, and they do, but never get anything else done. I say be dumb and get stuff done. I used to do e-v-e-r-y-t-h-i-n-g, you name it. I couldn't get everything done. And I was not successful. I was extremely busy and going broke fast. Not anymore. I focus on new items and use help to the utmost.

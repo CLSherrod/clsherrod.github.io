@@ -14,7 +14,7 @@ Simply because we create solutions that are needed.
 
 I recently had a problem in my business. What I have been doing for years just wasn't working anymore.
 
-My business had grown to a level that what I use to do was totally inadequate. Big time.
+My business had grown to a level where what I used to do was totally inadequate. Big time.
 
 I got really overwhelmed because of it. I had to hire and help my partner with assistant stuff, which I really dislike (aka hate).
 

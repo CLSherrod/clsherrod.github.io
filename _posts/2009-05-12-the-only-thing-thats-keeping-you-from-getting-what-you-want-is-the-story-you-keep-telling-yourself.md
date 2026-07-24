@@ -18,6 +18,6 @@ Everyone should have someone in their life supporting and encouraging them.
 
 But it comes down to you and your story in your own head.
 
-I use to believe I wasn't good as a speaker because I got a C in public speaking in college (my only C I have ever received). I kept repeating that story until I got an interrupt from Nan who saw me talk for hours on end in a hot tub when I was relaxed.  She showed me that my story I had in my head was false.  That was then and right now I'm a completely different person  who totally enjoys interacting with people and showing them how to create new business ideas and then helping them implement them.
+I used to believe I wasn't a good speaker because I got a C in public speaking in college, my only C ever. I kept repeating that story until Nan interrupted it after seeing me talk for hours on end in a hot tub when I was relaxed. She showed me that the story in my head was false. That was then, and right now I'm a completely different person who totally enjoys interacting with people, showing them how to create new business ideas, and then helping them implement them.
 
 What false beliefs are holding you back?  What can you interrupt to get you on the path of your true greatness?

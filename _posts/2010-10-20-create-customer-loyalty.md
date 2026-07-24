@@ -8,15 +8,15 @@ tags:
   - entrepreneurship
 permalink: /create-customer-loyalty/
 ---
-The times of having quicky products, products that are for a lack of a better word "crap" are over. People won't put up with bad products anymore. You're probably thinking people use to? Yeah, I've meet many millionaires that sold horrible products. They realized that the tide changed and started making great products. If you're starting out you don't have a choice, you have to have a great product or service.
+The times of having quickie products, products that are for lack of a better word "crap," are over. People won't put up with bad products anymore. You're probably thinking people used to? Yeah, I've met many millionaires who sold horrible products. They realized that the tide changed and started making great products. If you're starting out you don't have a choice, you have to have a great product or service.
 
-That's the first thing you need to create customer loyalty is a great product or service. Next would be a brand to show off your product or service.
+The first thing you need in order to create customer loyalty is a great product or service. Next would be a brand that shows off your product or service.
 
 The brand is you or your company and what it stands for. It's your attitude, your feelings. Your style. Your product has to match your brand.
 
 When your brand and products are aligned and make sense to your target audience then it clicks. People align with your brand and when you have that you have the opportunity to create great and long lasting customer loyalty.
 
-They love you, they think your products rock and when you come out with something new they want it. Some clients buy things in some stores just for the shopping experience they actual product is a minor part of it, but the product is awesome. The experience is awesome on steroids.
+They love you, they think your products rock, and when you come out with something new they want it. Some clients buy things in certain stores just for the shopping experience. The actual product is a minor part of it, but the product is awesome. The experience is awesome on steroids.
 <ul>
 <li>Do something unexpected.</li>
 <li>Communicate, I know simple thing but many companies don't do this</li>

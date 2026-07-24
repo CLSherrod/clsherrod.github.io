@@ -1,5 +1,5 @@
 ---
-title: Entrepreneurs love risk?
+title: Do Entrepreneurs Love Risk?
 date: 2009-01-09
 published: true
 categories:

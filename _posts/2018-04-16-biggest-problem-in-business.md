@@ -24,9 +24,9 @@ That should be your #1 focus for your business. Qualified leads to find your ide
 
 Is your marketing under your control, no overpriced stage fees, no affiliates who barely care, no travel expenses, no uncertainty of the quality or attendance of the event...
 
-I use to have those problems. One of my clients had their stage time cut from 60 minutes to 10 because they didn't have in the contract the words at least 60 minutes. All the games event hosts play to reduce your conversion numbers and increase theirs that the speaker didn't agree to.
+I used to have those problems. One of my clients had their stage time cut from 60 minutes to 10 because they didn't have the words "at least 60 minutes" in the contract. All the games event hosts play to reduce your conversion numbers and increase theirs are things the speaker never agreed to.
 
-Now I invest my time and money in building marketing that gives me valuable information I can use to improve my offer to match my ideal clients and will be a reliable source of income that is direct and not affluenced by any one person.
+Now I invest my time and money in building marketing that gives me valuable information I can use to improve my offer to match my ideal clients and become a reliable source of direct income that is not influenced by any one person.
 
 And all marketing is test and tweak. Anyone who sells you otherwise, is **lying** or **clueless**.
 

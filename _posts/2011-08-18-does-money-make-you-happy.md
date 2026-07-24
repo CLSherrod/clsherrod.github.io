@@ -8,7 +8,7 @@ tags:
   - meaning
 permalink: /does-money-make-you-happy/
 ---
-People that don't have money think that more money will bring them happiness.
+People who don't have money think that more money will bring them happiness.
 
 It doesn't.
 
@@ -18,7 +18,7 @@ But if you don't have happiness when you're broke you won't have it when you're 
 
 I've seen it for myself. Having money didn't make me happier. I was already happy, a bit frustrated when my income sucked, but happy.
 
-I've meet many rich people that have "everything" except for happiness.
+I've met many rich people who have "everything" except happiness.
 
 Just because you make or even inherit money doesn't mean it comes with happiness.
 
@@ -32,7 +32,7 @@ The point is what you can do to fulfill your wants and needs with money.
 
 How would you live?
 
-How would you change other lives thru charity?
+How would you change other lives through charity?
 
 How are you going to make a difference in the world to yourself, your family and the entire planet.
 

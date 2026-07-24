@@ -18,6 +18,6 @@ Well, this morning I woke up really early like 4:30 AM.  I never do this, but I
 
 I'm his biggest fan...no really I'm serious.  I read everything he writes, every interview he does and every video and audio on him I can find because he is the best role model for how I think business should be done.
 
-When I was looking at the twitter reply from virgindotcom I started remembering memories of having my picture taken in front of Virgin Mega store in Paris on the Champs-Élysées last summer, looking thru the windows of the Virgin Mega store in London (it was very late), browsing the Virgin Mega store next to the Louvre in Paris and Rennes France this last summer.  I then started having visions of meeting Richard Branson in person or even just talking to him on the phone.
+When I was looking at the twitter reply from virgindotcom I started remembering having my picture taken in front of the Virgin Megastore in Paris on the Champs-Élysées last summer, looking through the windows of the Virgin Megastore in London late at night, and browsing the Virgin Megastore next to the Louvre in Paris and in Rennes, France.  I then started having visions of meeting Richard Branson in person or even just talking to him on the phone.
 
 Today is a great day.

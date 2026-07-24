@@ -1,5 +1,5 @@
 ---
-title: Yes, how can I fix it?
+title: Yes, How Can I Fix It?
 date: 2008-04-23
 published: true
 categories:
@@ -8,7 +8,7 @@ tags:
   - entrepreneurship
 permalink: /yes-how-can-i-fix-it/
 ---
-I've blogged before how I find most businesses on the Internet have horrible customer service or none.  I had one person when I asked that I haven't gotten a response in two weeks via email and they have no published phone number when I met him he just said "I'm busy".  Have your heard of an assistant?  Do you think I'm going to buy anything you come out with again?  Or go to one of your seminars?  Are you kidding me?
+I've blogged before about how I find most businesses on the internet have horrible customer service, or none at all. I asked one person why I hadn't gotten a response in two weeks via email, and since they had no published phone number, when I finally reached him he just said, "I'm busy." Have you heard of an assistant? Do you think I'm going to buy anything you come out with again? Or go to one of your seminars? Are you kidding me?
 
 Seth the marketing guru.  I love his books had this to say about responding to a critical letter.  So true.
 
