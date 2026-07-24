@@ -5,9 +5,9 @@ layout: single
 permalink: /videos/making-unplug-course/
 published: true
 
-description: "Watch Christopher Sherrod’s latest video update on the upcoming Unplug course, including practical tips for reducing EMFs at work."
-excerpt: "A watch page for Christopher Sherrod’s Why He is making Unplug course video."
-preview: "Watch the latest Unplug course about why it's being made."
+description: "Watch Christopher Sherrod explain why he made Unplug and how it grew from his experience with technology overload."
+excerpt: "A watch page for Christopher Sherrod’s video about why he created Unplug."
+preview: "Watch Christopher Sherrod explain why he made Unplug."
 
 post_type: video
 
@@ -31,6 +31,6 @@ comments: false
 share: true
 ---
 
-A video update on my upcoming Unplug course and a few simple ways to reduce EMFs.
+A video about why I created Unplug and the experience that led me there.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ6H3Y7Swb8?si=sblgwKRd4PwdRz4-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

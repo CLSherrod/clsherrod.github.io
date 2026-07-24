@@ -1,5 +1,5 @@
 ---
-title: Why I's Important To Know Who You're Sharing Your Goals
+title: Why It’s Important To Know Who You’re Sharing Your Goals With
 date: 2008-04-04 03:00:27
 published: true
 categories:

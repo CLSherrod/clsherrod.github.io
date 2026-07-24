@@ -1,12 +1,14 @@
 ---
-title: How I changed from being a social retard
+title: How I Became More Social
 date: 2011-01-20
 published: true
 categories:
   - Living a Fulfilling Life
 tags:
   - entrepreneurship
-permalink: /changed-social-retard/
+permalink: /became-more-social/
+redirect_from:
+  - /changed-social-retard/
 ---
 I had a former neighbor tell me recently that she really looked up to me.
 
@@ -24,7 +26,7 @@ I know quite a few people at the Internet Marketing Party that I talked about a 
 
 I enjoy hanging out with people.
 
-My girlfriend evens says that I'm a great friend because I regularly checkin with my friends just to see what's up.
+My girlfriend even says that I'm a great friend because I regularly check in with my friends just to see what's up.
 
 But, I still didn't think I was that social.
 

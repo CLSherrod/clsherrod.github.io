@@ -3,9 +3,9 @@ title: "I Finished My EMF Course. Start With These 3 Changes Video"
 date: 2026-04-19
 permalink: /unplug-course-update/
 
-description: "Watch Christopher Sherrod’s new video on finishing his upcoming _Unplug_ course, along with practical thoughts on reducing EMFs at work by measuring your space, testing where you sit, and charging devices away from your body."
-excerpt: "Christopher Sherrod shares an update on finishing his upcoming _Unplug_ course and offers simple, practical advice for reducing EMFs at work, including using an EMF meter and creating a charging area away from your body."
-preview: "I finished editing my upcoming _Unplug_ course and recorded a new video about that process, along with a few practical thoughts on reducing EMFs at work. If you spend long hours around devices, it helps to stop guessing and start measuring."
+description: "Watch Christopher Sherrod’s video on finishing _Unplug_, along with practical thoughts on reducing EMF exposure at work by measuring your space, testing where you sit, and charging devices away from your body."
+excerpt: "Christopher Sherrod shares an update on finishing _Unplug_ and offers simple, practical advice for reducing EMF exposure at work, including using an EMF meter and creating a charging area away from your body."
+preview: "I finished editing _Unplug_ and recorded a new video about that process, along with a few practical thoughts on reducing EMF exposure at work. If you spend long hours around devices, it helps to stop guessing and start measuring."
 tagline: "A few thoughts on finishing, testing, and reducing EMFs at work."
 
 post_type: news
@@ -20,7 +20,7 @@ toc: false
 robots: index,follow
 published: true
 ---
-I finally finished editing my upcoming course, _[Unplug](/courses/unplug/)_. In the video below, I share that update and also walk through three simple ways to reduce EMF exposure at work. The main point is this: don’t guess. **Measure your actual environment**, make a few practical changes, and start where you spend the most time.
+I finally finished editing _[Unplug](/courses/unplug/)_. In the video below, I share that update and also walk through three simple ways to reduce EMF exposure at work. The main point is this: don’t guess. **Measure your actual environment**, make a few practical changes, and start where you spend the most time.
 
 This kind of testing changed how I set up my own environment.
 

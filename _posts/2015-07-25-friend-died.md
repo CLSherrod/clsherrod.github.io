@@ -11,7 +11,7 @@ permalink: /friend-died/
 ---
 I’m getting a pedicure and listening to a business podcast when my girlfriend texts me that our good friend Marla died.
 
-It slowly hits me. I’m trying to keep my composure in a nail salon full of women and I'm the only guy and I'm trying not to cry. I goto the bank and I'm so “out of it” I deposit a check into the wrong account which creates a bunch of drama the next day.
+It slowly hits me. I’m trying to keep my composure in a nail salon full of women and I'm the only guy and I'm trying not to cry. I go to the bank and I'm so “out of it” I deposit a check into the wrong account, which creates a bunch of drama the next day.
 
 I get home and just…break...down.
 

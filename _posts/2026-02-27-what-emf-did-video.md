@@ -5,9 +5,9 @@ layout: single
 permalink: /videos/what-emf-did/
 published: true
 
-description: "Watch Christopher Sherrod’s latest video about what EMFs did to his body"
-excerpt: "A watch page for Christopher Sherrod’s video about what EMFs did to his body."
-preview: "Watch the video on what EMFs did to Christopher's body."
+description: "Watch Christopher Sherrod share how constant technology exposure affected his body and why he changed his daily environment."
+excerpt: "A watch page for Christopher Sherrod’s video about his personal experience with technology exposure."
+preview: "Watch Christopher Sherrod explain how his experience with technology exposure changed his life."
 
 post_type: video
 
@@ -31,6 +31,6 @@ comments: false
 share: true
 ---
 
-A video update on what EMFs did to my body.
+A video about my personal experience with technology exposure and why I changed my environment.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FfLtNGGYWcU?si=Wdz7LWF0JL6W5A5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

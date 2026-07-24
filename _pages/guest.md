@@ -30,13 +30,13 @@ Click to download high-res versions:
 
 ## ✍️ Short Bio
 
-> Christopher Sherrod is the author of _Unplug: The 3-Step Plan to Heal from Hidden EMF Radiation and Reclaim Your Life_ and a sacred artist devoted to the slow life. After surviving a life-altering seizure, he helps others live more intentionally in a noisy, tech-driven world.
+> Christopher Sherrod is the creator of _Unplug_, a practical course for reducing everyday EMF exposure and using technology more intentionally. After surviving a life-altering seizure, he helps others live more intentionally in a noisy, tech-driven world.
 
 ## 📖 Long Bio
 
-Christopher Sherrod is a writer, sacred geometry artist, and advocate for living a slower, more intentional life. After a massive seizure left him unable to function in the modern tech world, he rebuilt his health by unplugging—literally. He now teaches others how to reduce EMF exposure, reconnect with their body’s wisdom, and reclaim peace and purpose.
+Christopher Sherrod is a writer, sacred geometry artist, and advocate for living a slower, more intentional life. After a massive seizure changed the way he related to modern technology, he began rethinking his environment, habits, and pace of life. He now teaches others how to reduce unnecessary EMF exposure, use technology more intentionally, and reclaim peace and purpose.
 
-He’s the author of _Unplug_, a book that blends memoir and practical healing steps, and he offers a companion course and checklist. Christopher lives beachside in Mexico with his wife Nan, where they co-create retreats, books, and online courses for healing and living fully.
+He created _Unplug_, a practical course and companion resources shaped by that experience. Christopher lives beachside in Mexico with his wife Nan, where they co-create books, courses, and a slower way of living.
 
 ## 🎧 Suggested Topics
 
@@ -47,7 +47,7 @@ I love discussing…
 - How slowing down helped me get more done (and feel better doing it)
 - What it’s like to rebuild a life after a grand mal seizure
 - Tools and tips to reduce tech overwhelm without giving up modern life
-- A sneak peek into _Unplug_ and the 3-step framework: Distance – Balance – Shield
+- A practical look at _Unplug_ and the everyday changes that matter most
 
 ## ❓ Suggested Interview Questions
 
@@ -74,4 +74,4 @@ I love discussing…
 ## 🛠️ Tech Setup
 
 I use a professional mic and camera setup with Zoom.
-I record in a quiet space with stable Ethernet. Central Time (CST).
+I record in a quiet space with stable Ethernet. I’m based in the America/Merida time zone.

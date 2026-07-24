@@ -5,9 +5,9 @@ last_modified_at: 2026-04-24
 layout: single
 permalink: /videos/unplug-course-update/
 published: true
-description: Watch Christopher Sherrod’s latest video update on the upcoming Unplug course, including practical tips for reducing EMFs at work.
+description: Watch Christopher Sherrod’s video update on finishing Unplug, including practical tips for reducing EMF exposure at work.
 excerpt: A watch page for Christopher Sherrod’s Unplug course update video.
-preview: Watch the latest Unplug course update video and learn simple ways to reduce EMFs at work.
+preview: Watch the latest Unplug update video and learn simple ways to reduce EMF exposure at work.
 post_type: video
 categories:
   - Living a Fulfilling Life
@@ -25,6 +25,6 @@ comments: false
 share: true
 ---
 
-A video update on my upcoming Unplug course and a few simple ways to reduce EMFs.
+A video update on finishing Unplug and a few simple ways to reduce EMF exposure at work.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uCTTBtlw2Xg" title="Unplug Course Update Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Work & Entreprenuership
+title: Work & Entrepreneurship
 permalink: /work-entrepreneurship/
 author_profile: true
 toc: true
@@ -51,8 +51,7 @@ This section is what remains after the noise fades.
 
 ## Recommended Reading
 
-- [Mastering Email Deliverability](/email-deliverability/)
-- [A Practical Guide to Generative AI](/business-ai)
+- [How Smart Notes Transformed My Productivity and Well-being](/smart-notes/)
 - [Success Is Built in Baby Steps](/baby-steps/)
 - [Why Preparing for the Olympics and Building a Business Are Not the Same](/olympics-is-not-business/)
 - [Corp-bonics Review](/corp-bonics/)
