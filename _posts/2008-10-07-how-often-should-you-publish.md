@@ -1,5 +1,5 @@
 ---
-title: How often should you publish?
+title: How Often Should You Publish?
 date: 2008-10-07
 published: true
 categories:
@@ -21,6 +21,6 @@ Seth summarizes it well.
 
 3. Repeat. Frontlist becomes backlist, backlist grows, fan base grows, it scales.
 
-Frontlist reaches your fans. Your fans spread the word, and eventually your backlist reaches everyone else. The backlist turns some people into fans, who then look for the frontlist.</
+Frontlist reaches your fans. Your fans spread the word, and eventually your backlist reaches everyone else. The backlist turns some people into fans, who then look for the frontlist.
 
 [Seth's Blog: How often should you publish?](https://seths.blog/2008/09/how-often-shoul/)

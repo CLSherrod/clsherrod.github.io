@@ -1,5 +1,5 @@
 ---
-title: Leaders and Leaches Which are you?
+title: Leaders and Leeches: Which Are You?
 date: 2010-10-16
 published: true
 categories:
@@ -9,8 +9,8 @@ tags:
 permalink: /leaders-leaches/
 ---
 You're not a leader if you
-- are a CEO of your own company and you have two contractors having a dispute and you tell you staff that you don't want to hear about it and you're the only one that can resolve the issue. Leaders are not afraid of confrontation.
-- avoid renegotating a contract with a contractor in order to solely drive the price down
+- are a CEO of your own company and you have two contractors having a dispute and you tell your staff that you don't want to hear about it even though you're the only one who can resolve the issue. Leaders are not afraid of confrontation.
+- avoid renegotiating a contract with a contractor in order to solely drive the price down
 - avoid answering questions with dead silence
 - avoid eye contact while obviously telling a lie
 - are in a network marketing company and take the training funds your group paid you to take winners of a contest out for dinner and let them believe it's a gift from you
@@ -23,9 +23,9 @@ Years ago I worked with a group of people and after their business failed I move
 
 You're not a leader if you just have connections. You have to have leadership skills.
 
-When John told me this story I told him we call those type of people leaches. He laughed. I had seen Frank do this before which is why I don't do business with him. John instantly saw that Frank was just taking advantage of him. John looked up to Frank, he thought he was a leader. But Frank wasn't a leader. He didn't do anything but tell John of an opportunity. That deserves a referral fee. It doesn't deserve being manipulated and convinced that you're stealing from Frank.
+When John told me this story I told him we call those types of people leeches. He laughed. I had seen Frank do this before, which is why I don't do business with him. John instantly saw that Frank was just taking advantage of him. John looked up to Frank. He thought he was a leader. But Frank wasn't a leader. He didn't do anything but tell John about an opportunity. That deserves a referral fee. It doesn't deserve being manipulated and convinced that you're stealing from Frank.
 
-Be you're own leader. Be the person that would inspire you.
+Be your own leader. Be the person who would inspire you.
 
 If you are mentoring someone giving constructive criticism is appropriate, but what is inappropriate, make that just plain wrong, is blame.
 
@@ -35,8 +35,8 @@ People look up to leaders that are DOING. Not just talking. Leadership is active
 
 Find someone else. If you're in network marketing connect with your upline. If you're a small business look for another mentor or another mastermind group. Don't put up with "negative leaders".  Those two words shouldn't be side by side. A leader can't be negative. If your energy is low after talking to your mentor, leader, or mastermind group rethink talking to them at all, ever.
 
-Losing energy with leaches will eventually destroy your business, yourself, your family, your entire life.
+Losing energy with leeches will eventually drain your business, your confidence, your family life, and eventually your future.
 
-Leaches need you, you don't need them.
+Leeches need you, you don't need them.
 
 You deserve better and you are the only one that can make that decision.

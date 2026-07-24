@@ -17,12 +17,12 @@ I really loved it.
 
 "To be an artist is to be an entrepreneur. We must learn to embrace this tension and the beauty that comes from it."
 
-I've always thought of myself as an Entrepreneur but looking at it from an angle of an artist has intrigued me. I work on projects that are of interest to me. I've sold everything from software, real estate, spiritual training, and publishing education. And each project felt to me to be an art piece.
+I've always thought of myself as an entrepreneur, but looking at it through the lens of an artist has intrigued me. I work on projects that are of interest to me. I've sold everything from software, real estate, spiritual training, and publishing education. And each project has felt like an art piece to me.
 
 I loved "Real Artists Don't Starve" because all the tips apply to entrepreneurs as well.
 
-Jeff Goins steps you thru the mind-set to be a thriving artist. How to market and make money. Sold techniques that artists don't talk about much.
+Jeff Goins walks you through the mindset of becoming a thriving artist, along with how to market and make money. He shares solid techniques that artists don't talk about enough.
 
-I've worked with artists and more business-type entrepreneurs. All of them entrepreneurs. And artists, musician, writers and creatives in general struggled the most because they don't focus on the difference between a starving artist and a thriving artist. This book steps them right thru to being a real artist.
+I've worked with artists and more business-minded entrepreneurs. All of them are entrepreneurs. And artists, musicians, writers, and creatives in general struggled the most because they often don't focus on the difference between a starving artist and a thriving artist. This book walks them right through to becoming a real artist.
 
 Highly recommended.

@@ -21,9 +21,9 @@ And I've missed my chance to visit Marla one last time.
 
 I must be the worst friend ever is what I think. And then I just break down and cry while watching “3rd Rock From The Sun” and trying to laugh. It just doesn't work. I think I'm the most horrible person on the planet.
 
-I'm way more sad then when I almost died last summer. When I came out of my coma, tired and wondering what month it was I was actually peaceful. Business, former friends, the universe were in perspective. Even when a business associate walked away from me in mid sentence when I mentioned that I just came out of coma and rudely turned around and walked away that didn't phase me. I was at peace of me almost dying. My family was supportive and helped me get thru it. You really know who is a friend when stressful things happen.
+I'm way more sad than when I almost died last summer. When I came out of my coma, tired and wondering what month it was, I was actually peaceful. Business, former friends, and the universe were in perspective. Even when a business associate walked away from me mid-sentence when I mentioned that I had just come out of a coma, that didn't faze me. I was at peace with almost dying. My family was supportive and helped me get through it. You really know who is a friend when stressful things happen.
 
-So I get that Marla and her close friends that lived near her helped her thru her transition to the next plane of existence. Nobody goes on Facebook and says "Hey, btw I'm dying. Just thought you should know." No, you focus on coming to terms with it. Social media be damned.
+So I get that Marla and her close friends who lived near her helped her through her transition to the next plane of existence. Nobody goes on Facebook and says "Hey, btw I'm dying. Just thought you should know." No, you focus on coming to terms with it. Social media be damned.
 
 I know she is at peace, because I've been there.
 

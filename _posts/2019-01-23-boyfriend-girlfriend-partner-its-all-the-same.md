@@ -1,5 +1,5 @@
 ---
-title: Boyfriend/Girlfriend/Partner it's all the same
+title: Boyfriend/Girlfriend/Partner: It's All the Same
 date: 2019-01-23
 published: true
 categories:
@@ -7,9 +7,9 @@ categories:
 tags:
   - meaning
 permalink: /boyfriend-girlfriend-partner-its-all-the-same/
-excerpt: Boyfriend/Girlfriend, Husband/Wife, Domestic Partner are all old terms for what is really a Partner.
+excerpt: Boyfriend/Girlfriend, Husband/Wife, and Domestic Partner are all older terms for what is really a partner.
 ---
-Boyfriend/Girlfriend, Husband/Wife, Domestic Partner are all old terms for what is really a Partner. A partner in life. I have a wonderful partner in life who I adore.
+Boyfriend/Girlfriend, Husband/Wife, and Domestic Partner are all older terms for what is really a partner. A partner in life. I have a wonderful partner in life who I adore.
 
 Saying anything but partner seems weird as I look at us as equals without the baggage of the old terms. Nan is the best partner I've ever had by a large margin.
 

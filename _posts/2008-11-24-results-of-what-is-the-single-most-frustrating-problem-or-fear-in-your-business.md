@@ -1,5 +1,5 @@
 ---
-title: Results of What is the single most frustrating problem or fear in your business?
+title: "Results of: What Is the Single Most Frustrating Problem or Fear in Your Business?"
 date: 2008-11-24 22:35:27
 published: true
 categories:
@@ -8,9 +8,9 @@ tags:
   - entrepreneurship
 permalink: /results-of-what-is-the-single-most-frustrating-problem-or-fear-in-your-business/
 ---
-Here are the results of my survey "What is the single most frustrating problem or fear in your business?
+Here are the results of my survey, "What is the single most frustrating problem or fear in your business?"
 
-Marketing was nearly half.  I get this question alot and so not surprised.  I make a point to market everyday.  I also blog about it quite often.  One of my favorite ways to market is to write on my blog here at AbundanceUnlimited.com every day.  When I started doing it every day it got me in the habit of always learning, always sharing and many people like what I write about here.  I've learned alot from blogging and highly recommend it.
+Marketing was nearly half. I get this question a lot, so I wasn't surprised. I make a point to market every day. I also blog about it quite often. One of my favorite ways to market is to write on my blog here at AbundanceUnlimited.com every day. When I started doing it every day it got me in the habit of always learning, always sharing, and many people like what I write about here. I've learned a lot from blogging and highly recommend it.
 
 Money, Technical and Motivation were the next most popular.  Many people have no idea how to start in business.  There are so many people out there teaching you how to do this and that, that it is overwhelming.  And I agree.  Why people are teaching how to create websites to people that barely can use a computer seems strange.  In business you can't do it all.  You need help.  Someone to help in accounting, someone for your technology and support staff to help is the next most important issue book work.  Things that a virtual assistant can help a lot on.  If you worked on learning everything you need to do you will never be successful.  Learn enough to know who to hire.  Focus on what you are good at.
 
@@ -36,7 +36,7 @@ Here are some quotes from the survey that I think that many of you would agree o
 
 >My most frustrating problem is keeping up with the bookwork, like writing reports.
 
->not getting anyone to follow thru with the next step
+>not getting anyone to follow through with the next step
 
 >getting people to buy my product
 

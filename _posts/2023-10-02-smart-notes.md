@@ -143,7 +143,7 @@ I’ve used a Tony Robbins system for many years so my notes folder structure is
 3. Life - each part of my life has a folder in it and each note is directly related to that. My personal clothes sizes goes under Physical. Notes on my family preferences go under Family. My home manual goes under Home.
 4. Projects - all my projects I work on go here. Writing has a folder, my newsletters have a folder.
 5. Research - stuff I need to know and research but aren’t projects. My knowledge about cooking is in a folder here.
-6. Business - I’ve owned some businesses thru the years and I keep my notes about them in here away from everything else
+6. Business - I’ve owned some businesses through the years and I keep my notes about them in here away from everything else
 7. Slip box - all my other notes go here. I don’t like too many folders so if it doesn’t fit in anything above it goes here
 8. Archive - all folders and notes of things I don’t need to know anymore go here just to keep my knowledge system organized
 
